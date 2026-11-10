@@ -1,0 +1,27 @@
+TÂCHE : Dresser l'inventaire complet des documents officiels du Programme de formation de l'école québécoise (PFEQ), avec leurs liens de téléchargement.
+
+CONTEXTE
+Je développe un logiciel pour les enseignants du Québec. Je dois télécharger et transformer en données tous les documents officiels du ministère de l'Éducation qui décrivent ce que les élèves doivent apprendre et comment ils sont évalués, pour toutes les matières, au primaire et au secondaire (formation générale des jeunes, secteur francophone).
+
+CE QUE JE CHERCHE, POUR CHAQUE MATIÈRE ET CHAQUE ORDRE D'ENSEIGNEMENT
+1. Le programme d'études (PFEQ), ou le chapitre du programme pour cette matière.
+2. La Progression des apprentissages (PDA), s'il en existe une.
+3. Le Cadre d'évaluation des apprentissages.
+4. Toute version récente, provisoire ou en remplacement (par exemple le nouveau programme de français en version provisoire, ou Culture et citoyenneté québécoise qui remplace Éthique et culture religieuse).
+
+MATIÈRES À COUVRIR (ajoute celles qui manquent)
+Primaire : Français, langue d'enseignement ; Mathématique ; Science et technologie ; Géographie, histoire et éducation à la citoyenneté ; Anglais, langue seconde ; Culture et citoyenneté québécoise ; Éducation physique et à la santé ; Art dramatique ; Arts plastiques ; Danse ; Musique.
+Secondaire : Français, langue d'enseignement ; Mathématique (1er cycle, puis séquences CST, TS et SN) ; Science et technologie ; Applications technologiques et scientifiques ; Science et environnement ; Science et technologie de l'environnement ; Chimie ; Physique ; Histoire et éducation à la citoyenneté (1er cycle) ; Géographie ; Histoire du Québec et du Canada (3e et 4e) ; Monde contemporain ; Éducation financière ; Anglais, langue seconde (base et enrichi) ; Culture et citoyenneté québécoise ; Éducation physique et à la santé ; arts ; Projet personnel d'orientation ; Exploration de la formation professionnelle.
+
+RÈGLES
+- Seulement des documents du ministère de l'Éducation du Québec, sur quebec.ca ou cdn-contenu.quebec.ca. Pas de copies sur d'autres sites.
+- Donne le lien DIRECT vers le fichier PDF (il se termine généralement par .pdf), pas seulement la page qui le présente.
+- Indique la date ou l'année de version écrite sur le document ou sur la page.
+- Si tu ne trouves pas un document, écris « introuvable » : n'invente aucun lien.
+- Signale les documents remplacés ou retirés.
+
+FORMAT
+Réponds avec un tableau CSV (séparateur point-virgule), une ligne par document, avec ces colonnes exactement :
+ordre;matiere;type_document;titre_exact;version;url_pdf;remarque
+où type_document vaut : programme, pda, cadre_evaluation, autre.
+Puis, sous le tableau, une liste des matières pour lesquelles un des trois documents n'existe pas (par exemple, pas de PDA).
