@@ -12,7 +12,7 @@
   ],
   "pages_avec_grandes_images": [],
   "bilan": {
-    "nombre_savoirs": 136,
+    "nombre_savoirs": 138,
     "a_verifier": 0,
     "prioritaires": 1
   },
@@ -1483,13 +1483,60 @@
       "chemin": [
         "H. Les principes d’action lors d’activités de combat 2 (ex. : lutte, judo, autodéfense, combat de dos)",
         "2. Les principes d’action se rapportant au partenaire ou à l’adversaire",
-        "b. Marquer"
+        "b. Marquer",
+        "ii. Marquer le non-porteur"
       ],
-      "texte": "ii. Marquer le non-porteur en l’empêchant de recevoir l’objet P en se plaçant entre le non-porteur et la cible pour empêcher la progression en demeurant à proximité du non-porteur tout en protégeant le corridor de passe et la cible (ex. : « contester » au basketball)",
+      "texte": "en l’empêchant de recevoir l’objet P",
       "prioritaire": false,
       "progression": {
         "1": "apprentissage",
         "2": "maitrise",
+        "3": null,
+        "4": null,
+        "5": null
+      },
+      "page": 16,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "EPS-INT-038",
+      "competence": "2 – Interagir dans divers contextes de pratique d’activités",
+      "section": null,
+      "chemin": [
+        "H. Les principes d’action lors d’activités de combat 2 (ex. : lutte, judo, autodéfense, combat de dos)",
+        "2. Les principes d’action se rapportant au partenaire ou à l’adversaire",
+        "b. Marquer",
+        "ii. Marquer le non-porteur"
+      ],
+      "texte": "en se plaçant entre le non-porteur et la cible pour empêcher la progression",
+      "prioritaire": false,
+      "progression": {
+        "1": "apprentissage",
+        "2": "apprentissage",
+        "3": "maitrise",
+        "4": null,
+        "5": null
+      },
+      "page": 16,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "EPS-INT-039",
+      "competence": "2 – Interagir dans divers contextes de pratique d’activités",
+      "section": null,
+      "chemin": [
+        "H. Les principes d’action lors d’activités de combat 2 (ex. : lutte, judo, autodéfense, combat de dos)",
+        "2. Les principes d’action se rapportant au partenaire ou à l’adversaire",
+        "b. Marquer",
+        "ii. Marquer le non-porteur"
+      ],
+      "texte": "en demeurant à proximité du non-porteur tout en protégeant le corridor de passe et la cible (ex. : « contester » au basketball)",
+      "prioritaire": false,
+      "progression": {
+        "1": "apprentissage",
+        "2": "apprentissage",
         "3": "apprentissage",
         "4": "apprentissage",
         "5": "maitrise"
@@ -1499,7 +1546,7 @@
       "note": ""
     },
     {
-      "id": "EPS-INT-038",
+      "id": "EPS-INT-040",
       "competence": "2 – Interagir dans divers contextes de pratique d’activités",
       "section": null,
       "chemin": [
@@ -1521,7 +1568,7 @@
       "note": ""
     },
     {
-      "id": "EPS-INT-039",
+      "id": "EPS-INT-041",
       "competence": "2 – Interagir dans divers contextes de pratique d’activités",
       "section": null,
       "chemin": [

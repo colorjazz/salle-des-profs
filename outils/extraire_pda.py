@@ -81,6 +81,13 @@ def extraire(chemin):
         # lignes de texte a gauche des colonnes
         mots = [w for w in page.extract_words(extra_attrs=['fontname'], keep_blank_chars=False)
                 if w['x1'] < x_col and w['top'] > haut and w['bottom'] <= bas_tableau + 2]
+        # renvois en petites capitales (ex. MODALISER 2) : repérés à part, puis retirés du texte
+        petits = [w for w in page.extract_words(extra_attrs=['size']) if w['x1'] < x_col and w['top'] > haut]
+        corps = max(set(round(w['size']) for w in petits), key=[round(w['size']) for w in petits].count) if petits else 9
+        renvois = [w for w in petits if w['size'] < corps - 1.5 and re.fullmatch(r'[A-ZÉÈÊÀ]{3,}|\d+(\.\d+)?', w['text'])]
+        cle = lambda w: (round(w['x0']), round(w['top']), w['text'])
+        a_retirer = {cle(w) for w in renvois}
+        mots = [w for w in mots if cle(w) not in a_retirer]
         rangs = []
         for w in sorted(mots, key=lambda w: (round(w['top']), w['x0'])):
             if rangs and abs(w['top'] - rangs[-1]['top']) < 3:
@@ -96,7 +103,7 @@ def extraire(chemin):
             r['total'] = sum(len(w['text']) for w in r['mots'])
         # les tirets des sous-elements sont des images (largeur source 23 px)
         tirets = [((im['top'] + im['bottom']) / 2, im['x1']) for im in page.images
-                  if im['srcsize'][0] == 23 and im['x0'] < x_col]
+                  if 21 <= im['srcsize'][0] <= 24 and im['srcsize'][1] <= 30 and im['width'] < 7 and im['x0'] < x_col]
         # regrouper en elements (une ligne a marqueur commence un element)
         elements = []
         for r in rangs:
@@ -149,6 +156,12 @@ def extraire(chemin):
                 for cx, cy, s, _ in symboles:
                     if x0 - 1 <= cx <= x1 + 1 and e['top'] - 4 <= cy <= e['bas'] + 1:
                         prog[ANNEES[k - 1]] = s
+            modes = {}
+            for k, (x0, x1) in enumerate(cols, 1):
+                lettres = [w['text'] for w in page.extract_words() if re.fullmatch(r'[LEO]{1,3}', w['text'])
+                           and x0 - 1 <= (w['x0'] + w['x1']) / 2 <= x1 + 1 and e['top'] - 4 <= w['top'] <= e['bas'] + 1]
+                if lettres: modes[ANNEES[k - 1]] = ''.join(sorted(set(''.join(lettres)), key='LEO'.index))
+            refs = ' '.join(w['text'] for w in renvois if e['top'] - 2 <= w['top'] <= e['bas'] + 1)
             texte = re.sub(r'\s+', ' ', ' '.join(l['texte'] for l in e['lignes'])).strip()
             gras = sum(l['gras'] for l in e['lignes']) / max(1, sum(l['total'] for l in e['lignes']))
             n = e['niveau'] or 6
@@ -165,6 +178,7 @@ def extraire(chemin):
                 'progression': prog, 'page': num,
                 'a_verifier': e['niveau'] is None or dans_image,
                 'note': 'Symboles intégrés dans une image : vérifier visuellement.' if dans_image else '',
+                **({'modes': modes} if modes else {}), **({'renvois': refs} if refs else {}),
             })
     return savoirs, pages_images, controle
 
@@ -186,6 +200,6 @@ if __name__ == '__main__':
            'pages_avec_grandes_images': pages_images,
            'bilan': {'nombre_savoirs': len(savoirs), 'a_verifier': sum(s['a_verifier'] for s in savoirs),
                      'prioritaires': sum(s['prioritaire'] for s in savoirs)},
-           'savoirs': [{k: s[k] for k in ('id', 'competence', 'section', 'chemin', 'texte', 'prioritaire', 'progression', 'page', 'a_verifier', 'note')} for s in savoirs]}
+           'savoirs': [{k: s[k] for k in ('id', 'competence', 'section', 'chemin', 'texte', 'prioritaire', 'progression', 'page', 'a_verifier', 'note', 'modes', 'renvois') if k in s} for s in savoirs]}
     json.dump(out, open(sortie, 'w', encoding='utf-8'), ensure_ascii=False, indent=2)
     print(json.dumps(out['bilan'], ensure_ascii=False), 'pages images:', pages_images)
