@@ -15,6 +15,12 @@ Plateforme québécoise pour les enseignantes et enseignants du primaire et du s
 | `correction/` | Code de correction, copié de la 1.0 |
 | `gemini/` | Prompts pour Gemini et leurs résultats |
 
+## Inventaire des documents officiels
+
+`donnees/inventaire-pfeq.csv` : 402 PDF du ministère de l'Éducation (programmes, progressions des apprentissages, cadres d'évaluation), relevés le 10 novembre 2026 en lisant les pages de quebec.ca (`outils/inventaire_pfeq.py`). Chaque lien est réel.
+
+La tentative de Gemini (`gemini/resultats/inventaire-pfeq-gemini-OBSOLETE.csv`) donnait 58 liens, tous vers l'ancien domaine education.gouv.qc.ca, et aucun ne correspondait à un document actuel : ne pas l'utiliser.
+
 ## Données du programme
 
 | Fichier | Contenu |
