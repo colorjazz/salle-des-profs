@@ -13,9 +13,9 @@
   ],
   "pages_avec_grandes_images": [],
   "bilan": {
-    "nombre_savoirs": 199,
-    "a_verifier": 5,
-    "prioritaires": 2
+    "nombre_savoirs": 244,
+    "a_verifier": 50,
+    "prioritaires": 8
   },
   "savoirs": [
     {
@@ -478,13 +478,13 @@
       "chemin": [
         "A. Nombres naturels inférieurs à…"
       ],
-      "texte": "14. Représenter la puissance d’un nombre naturel Vocabulaire Groupement, chiffre, nombre, unité, dizaine, centaine Nombre naturel, nombre pair, nombre impair Est égal à ; est plus grand que ( est supérieur à ); est plus petit que ( est inférieur à ) Ordre croissant, ordre décroissant Droite numérique Symboles 0 à 9, <, >, =, nombres écrits en chiffres Vocabulaire Base dix, position, valeur de position, millier, unité de mille, dizaine de mille Est différent de ; est supérieur à ; est inférieur à Nombre carré, nombre composé, nombre premier Symboles ≠ , nombres écrits en chiffres Vocabulaire Centaine de mille, million Exposant, puissance, carré de (le), cube de (le) Parenthèse Symboles ( ), nombres écrits en chiffres, notation exponentielle",
+      "texte": "14. Représenter la puissance d’un nombre naturel",
       "prioritaire": false,
       "progression": {
-        "1": "apprentissage",
-        "2": "maitrise",
-        "3": "apprentissage",
-        "4": "maitrise",
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
         "5": "apprentissage",
         "6": "maitrise"
       },
@@ -494,6 +494,72 @@
     },
     {
       "id": "MAT-SEN-023",
+      "competence": "Arithmétique",
+      "section": "Sens et écriture des nombres",
+      "chemin": [
+        "A. Nombres naturels inférieurs à…",
+        "11. Reconnaître les propriétés des nombres naturels"
+      ],
+      "texte": "Vocabulaire Groupement, chiffre, nombre, unité, dizaine, centaine Nombre naturel, nombre pair, nombre impair Est égal à ; est plus grand que ( est supérieur à ); est plus petit que ( est inférieur à ) Ordre croissant, ordre décroissant Droite numérique",
+      "prioritaire": false,
+      "progression": {
+        "1": "apprentissage",
+        "2": "maitrise",
+        "3": "reinvestissement",
+        "4": "reinvestissement",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 6,
+      "a_verifier": true,
+      "note": "Rubrique Vocabulaire ou Symboles : elle peut regrouper plusieurs lignes de mots (une par cycle). Vérifier le découpage."
+    },
+    {
+      "id": "MAT-SEN-024",
+      "competence": "Arithmétique",
+      "section": "Sens et écriture des nombres",
+      "chemin": [
+        "A. Nombres naturels inférieurs à…",
+        "11. Reconnaître les propriétés des nombres naturels"
+      ],
+      "texte": "Vocabulaire Base dix, position, valeur de position, millier, unité de mille, dizaine de mille Est différent de ; est supérieur à ; est inférieur à Nombre carré, nombre composé, nombre premier",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "maitrise",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 6,
+      "a_verifier": true,
+      "note": "Rubrique Vocabulaire ou Symboles : elle peut regrouper plusieurs lignes de mots (une par cycle). Vérifier le découpage."
+    },
+    {
+      "id": "MAT-SEN-025",
+      "competence": "Arithmétique",
+      "section": "Sens et écriture des nombres",
+      "chemin": [
+        "A. Nombres naturels inférieurs à…",
+        "11. Reconnaître les propriétés des nombres naturels"
+      ],
+      "texte": "Vocabulaire Centaine de mille, million Exposant, puissance, carré de (le), cube de (le) Parenthèse",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": "apprentissage",
+        "6": "maitrise"
+      },
+      "page": 6,
+      "a_verifier": true,
+      "note": "Rubrique Vocabulaire ou Symboles : elle peut regrouper plusieurs lignes de mots (une par cycle). Vérifier le découpage."
+    },
+    {
+      "id": "MAT-SEN-026",
       "competence": "Arithmétique",
       "section": "Sens et écriture des nombres",
       "chemin": [
@@ -514,7 +580,7 @@
       "note": ""
     },
     {
-      "id": "MAT-SEN-024",
+      "id": "MAT-SEN-027",
       "competence": "Arithmétique",
       "section": "Sens et écriture des nombres",
       "chemin": [
@@ -535,7 +601,7 @@
       "note": ""
     },
     {
-      "id": "MAT-SEN-025",
+      "id": "MAT-SEN-028",
       "competence": "Arithmétique",
       "section": "Sens et écriture des nombres",
       "chemin": [
@@ -556,7 +622,7 @@
       "note": ""
     },
     {
-      "id": "MAT-SEN-026",
+      "id": "MAT-SEN-029",
       "competence": "Arithmétique",
       "section": "Sens et écriture des nombres",
       "chemin": [
@@ -577,7 +643,7 @@
       "note": ""
     },
     {
-      "id": "MAT-SEN-027",
+      "id": "MAT-SEN-030",
       "competence": "Arithmétique",
       "section": "Sens et écriture des nombres",
       "chemin": [
@@ -598,7 +664,7 @@
       "note": ""
     },
     {
-      "id": "MAT-SEN-028",
+      "id": "MAT-SEN-031",
       "competence": "Arithmétique",
       "section": "Sens et écriture des nombres",
       "chemin": [
@@ -619,7 +685,7 @@
       "note": ""
     },
     {
-      "id": "MAT-SEN-029",
+      "id": "MAT-SEN-032",
       "competence": "Arithmétique",
       "section": "Sens et écriture des nombres",
       "chemin": [
@@ -640,7 +706,7 @@
       "note": ""
     },
     {
-      "id": "MAT-SEN-030",
+      "id": "MAT-SEN-033",
       "competence": "Arithmétique",
       "section": "Sens et écriture des nombres",
       "chemin": [
@@ -661,7 +727,7 @@
       "note": ""
     },
     {
-      "id": "MAT-SEN-031",
+      "id": "MAT-SEN-034",
       "competence": "Arithmétique",
       "section": "Sens et écriture des nombres",
       "chemin": [
@@ -682,7 +748,7 @@
       "note": ""
     },
     {
-      "id": "MAT-SEN-032",
+      "id": "MAT-SEN-035",
       "competence": "Arithmétique",
       "section": "Sens et écriture des nombres",
       "chemin": [
@@ -703,7 +769,7 @@
       "note": ""
     },
     {
-      "id": "MAT-SEN-033",
+      "id": "MAT-SEN-036",
       "competence": "Arithmétique",
       "section": "Sens et écriture des nombres",
       "chemin": [
@@ -724,7 +790,7 @@
       "note": ""
     },
     {
-      "id": "MAT-SEN-034",
+      "id": "MAT-SEN-037",
       "competence": "Arithmétique",
       "section": "Sens et écriture des nombres",
       "chemin": [
@@ -745,19 +811,19 @@
       "note": ""
     },
     {
-      "id": "MAT-SEN-035",
+      "id": "MAT-SEN-038",
       "competence": "Arithmétique",
       "section": "Sens et écriture des nombres",
       "chemin": [
         "B. Fractions (à l’aide de matériel concret ou de schémas)"
       ],
-      "texte": "13. Situer des fractions sur un axe de nombres (droite numérique) Vocabulaire Fraction, demi, tiers, quart Vocabulaire Numérateur, dénominateur Entier, partie équivalente, fraction équivalente Symbole Notation fractionnaire",
+      "texte": "13. Situer des fractions sur un axe de nombres (droite numérique)",
       "prioritaire": false,
       "progression": {
-        "1": "apprentissage",
-        "2": "maitrise",
-        "3": "apprentissage",
-        "4": "maitrise",
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
         "5": "apprentissage",
         "6": "maitrise"
       },
@@ -766,7 +832,49 @@
       "note": ""
     },
     {
-      "id": "MAT-SEN-036",
+      "id": "MAT-SEN-039",
+      "competence": "Arithmétique",
+      "section": "Sens et écriture des nombres",
+      "chemin": [
+        "B. Fractions (à l’aide de matériel concret ou de schémas)"
+      ],
+      "texte": "Vocabulaire Fraction, demi, tiers, quart",
+      "prioritaire": false,
+      "progression": {
+        "1": "apprentissage",
+        "2": "maitrise",
+        "3": "reinvestissement",
+        "4": "reinvestissement",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 7,
+      "a_verifier": true,
+      "note": "Rubrique Vocabulaire ou Symboles : elle peut regrouper plusieurs lignes de mots (une par cycle). Vérifier le découpage."
+    },
+    {
+      "id": "MAT-SEN-040",
+      "competence": "Arithmétique",
+      "section": "Sens et écriture des nombres",
+      "chemin": [
+        "B. Fractions (à l’aide de matériel concret ou de schémas)"
+      ],
+      "texte": "Vocabulaire Numérateur, dénominateur Entier, partie équivalente, fraction équivalente Symbole Notation fractionnaire",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "maitrise",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 7,
+      "a_verifier": true,
+      "note": "Rubrique Vocabulaire ou Symboles : elle peut regrouper plusieurs lignes de mots (une par cycle). Vérifier le découpage."
+    },
+    {
+      "id": "MAT-SEN-041",
       "competence": "Arithmétique",
       "section": "Sens et écriture des nombres",
       "chemin": [
@@ -787,7 +895,7 @@
       "note": ""
     },
     {
-      "id": "MAT-SEN-037",
+      "id": "MAT-SEN-042",
       "competence": "Arithmétique",
       "section": "Sens et écriture des nombres",
       "chemin": [
@@ -808,7 +916,7 @@
       "note": ""
     },
     {
-      "id": "MAT-SEN-038",
+      "id": "MAT-SEN-043",
       "competence": "Arithmétique",
       "section": "Sens et écriture des nombres",
       "chemin": [
@@ -829,7 +937,7 @@
       "note": ""
     },
     {
-      "id": "MAT-SEN-039",
+      "id": "MAT-SEN-044",
       "competence": "Arithmétique",
       "section": "Sens et écriture des nombres",
       "chemin": [
@@ -850,7 +958,7 @@
       "note": ""
     },
     {
-      "id": "MAT-SEN-040",
+      "id": "MAT-SEN-045",
       "competence": "Arithmétique",
       "section": "Sens et écriture des nombres",
       "chemin": [
@@ -871,7 +979,7 @@
       "note": ""
     },
     {
-      "id": "MAT-SEN-041",
+      "id": "MAT-SEN-046",
       "competence": "Arithmétique",
       "section": "Sens et écriture des nombres",
       "chemin": [
@@ -892,7 +1000,7 @@
       "note": ""
     },
     {
-      "id": "MAT-SEN-042",
+      "id": "MAT-SEN-047",
       "competence": "Arithmétique",
       "section": "Sens et écriture des nombres",
       "chemin": [
@@ -914,7 +1022,7 @@
       "note": ""
     },
     {
-      "id": "MAT-SEN-043",
+      "id": "MAT-SEN-048",
       "competence": "Arithmétique",
       "section": "Sens et écriture des nombres",
       "chemin": [
@@ -936,7 +1044,7 @@
       "note": ""
     },
     {
-      "id": "MAT-SEN-044",
+      "id": "MAT-SEN-049",
       "competence": "Arithmétique",
       "section": "Sens et écriture des nombres",
       "chemin": [
@@ -957,7 +1065,7 @@
       "note": ""
     },
     {
-      "id": "MAT-SEN-045",
+      "id": "MAT-SEN-050",
       "competence": "Arithmétique",
       "section": "Sens et écriture des nombres",
       "chemin": [
@@ -978,7 +1086,7 @@
       "note": ""
     },
     {
-      "id": "MAT-SEN-046",
+      "id": "MAT-SEN-051",
       "competence": "Arithmétique",
       "section": "Sens et écriture des nombres",
       "chemin": [
@@ -999,7 +1107,7 @@
       "note": ""
     },
     {
-      "id": "MAT-SEN-047",
+      "id": "MAT-SEN-052",
       "competence": "Arithmétique",
       "section": "Sens et écriture des nombres",
       "chemin": [
@@ -1021,20 +1129,20 @@
       "note": ""
     },
     {
-      "id": "MAT-SEN-048",
+      "id": "MAT-SEN-053",
       "competence": "Arithmétique",
       "section": "Sens et écriture des nombres",
       "chemin": [
         "C. Nombres décimaux jusqu’à l’ordre des…",
         "11. Associer"
       ],
-      "texte": "b. une fraction ou un pourcentage à un nombre décimal Vocabulaire Nombre décimal, dixième, centième Symbole Notation décimale",
+      "texte": "b. une fraction ou un pourcentage à un nombre décimal",
       "prioritaire": false,
       "progression": {
         "1": null,
         "2": null,
-        "3": "apprentissage",
-        "4": "maitrise",
+        "3": null,
+        "4": null,
         "5": "apprentissage",
         "6": "maitrise"
       },
@@ -1043,7 +1151,29 @@
       "note": ""
     },
     {
-      "id": "MAT-SEN-049",
+      "id": "MAT-SEN-054",
+      "competence": "Arithmétique",
+      "section": "Sens et écriture des nombres",
+      "chemin": [
+        "C. Nombres décimaux jusqu’à l’ordre des…",
+        "11. Associer"
+      ],
+      "texte": "Vocabulaire Nombre décimal, dixième, centième Symbole Notation décimale",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "maitrise",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 7,
+      "a_verifier": true,
+      "note": "Rubrique Vocabulaire ou Symboles : elle peut regrouper plusieurs lignes de mots (une par cycle). Vérifier le découpage."
+    },
+    {
+      "id": "MAT-SEN-055",
       "competence": "Arithmétique",
       "section": "Sens et écriture des nombres",
       "chemin": [
@@ -1062,10 +1192,10 @@
       },
       "page": 8,
       "a_verifier": true,
-      "note": "Ligne sans marqueur de liste : vérifier le découpage."
+      "note": "Rubrique Vocabulaire ou Symboles : elle peut regrouper plusieurs lignes de mots (une par cycle). Vérifier le découpage."
     },
     {
-      "id": "MAT-SEN-050",
+      "id": "MAT-SEN-056",
       "competence": "Arithmétique",
       "section": "Sens et écriture des nombres",
       "chemin": [
@@ -1086,7 +1216,7 @@
       "note": ""
     },
     {
-      "id": "MAT-SEN-051",
+      "id": "MAT-SEN-057",
       "competence": "Arithmétique",
       "section": "Sens et écriture des nombres",
       "chemin": [
@@ -1107,7 +1237,7 @@
       "note": ""
     },
     {
-      "id": "MAT-SEN-052",
+      "id": "MAT-SEN-058",
       "competence": "Arithmétique",
       "section": "Sens et écriture des nombres",
       "chemin": [
@@ -1128,7 +1258,7 @@
       "note": ""
     },
     {
-      "id": "MAT-SEN-053",
+      "id": "MAT-SEN-059",
       "competence": "Arithmétique",
       "section": "Sens et écriture des nombres",
       "chemin": [
@@ -1149,13 +1279,13 @@
       "note": ""
     },
     {
-      "id": "MAT-SEN-054",
+      "id": "MAT-SEN-060",
       "competence": "Arithmétique",
       "section": "Sens et écriture des nombres",
       "chemin": [
         "D. Nombres entiers"
       ],
-      "texte": "5. Ordonner des nombres entiers par ordre croissant ou décroissant Vocabulaire Nombre entier Nombre négatif, nombre positif Symboles Notation d’un nombre entier, touche +/– sur la calculatrice",
+      "texte": "5. Ordonner des nombres entiers par ordre croissant ou décroissant",
       "prioritaire": false,
       "progression": {
         "1": null,
@@ -1170,7 +1300,28 @@
       "note": ""
     },
     {
-      "id": "MAT-SEN-055",
+      "id": "MAT-SEN-061",
+      "competence": "Arithmétique",
+      "section": "Sens et écriture des nombres",
+      "chemin": [
+        "D. Nombres entiers"
+      ],
+      "texte": "Vocabulaire Nombre entier Nombre négatif, nombre positif",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": "apprentissage",
+        "6": "maitrise"
+      },
+      "page": 8,
+      "a_verifier": true,
+      "note": "Rubrique Vocabulaire ou Symboles : elle peut regrouper plusieurs lignes de mots (une par cycle). Vérifier le découpage."
+    },
+    {
+      "id": "MAT-SEN-062",
       "competence": "Arithmétique",
       "section": "Sens des opérations sur des nombres",
       "chemin": [
@@ -1191,7 +1342,7 @@
       "note": ""
     },
     {
-      "id": "MAT-SEN-056",
+      "id": "MAT-SEN-063",
       "competence": "Arithmétique",
       "section": "Sens des opérations sur des nombres",
       "chemin": [
@@ -1213,7 +1364,7 @@
       "note": ""
     },
     {
-      "id": "MAT-SEN-057",
+      "id": "MAT-SEN-064",
       "competence": "Arithmétique",
       "section": "Sens des opérations sur des nombres",
       "chemin": [
@@ -1235,7 +1386,7 @@
       "note": ""
     },
     {
-      "id": "MAT-SEN-058",
+      "id": "MAT-SEN-065",
       "competence": "Arithmétique",
       "section": "Sens des opérations sur des nombres",
       "chemin": [
@@ -1257,7 +1408,7 @@
       "note": ""
     },
     {
-      "id": "MAT-SEN-059",
+      "id": "MAT-SEN-066",
       "competence": "Arithmétique",
       "section": "Sens des opérations sur des nombres",
       "chemin": [
@@ -1279,7 +1430,7 @@
       "note": ""
     },
     {
-      "id": "MAT-SEN-060",
+      "id": "MAT-SEN-067",
       "competence": "Arithmétique",
       "section": "Sens des opérations sur des nombres",
       "chemin": [
@@ -1301,7 +1452,7 @@
       "note": ""
     },
     {
-      "id": "MAT-SEN-061",
+      "id": "MAT-SEN-068",
       "competence": "Arithmétique",
       "section": "Sens des opérations sur des nombres",
       "chemin": [
@@ -1322,7 +1473,7 @@
       "note": ""
     },
     {
-      "id": "MAT-SEN-062",
+      "id": "MAT-SEN-069",
       "competence": "Arithmétique",
       "section": "Sens des opérations sur des nombres",
       "chemin": [
@@ -1344,7 +1495,7 @@
       "note": ""
     },
     {
-      "id": "MAT-SEN-063",
+      "id": "MAT-SEN-070",
       "competence": "Arithmétique",
       "section": "Sens des opérations sur des nombres",
       "chemin": [
@@ -1366,7 +1517,7 @@
       "note": ""
     },
     {
-      "id": "MAT-SEN-064",
+      "id": "MAT-SEN-071",
       "competence": "Arithmétique",
       "section": "Sens des opérations sur des nombres",
       "chemin": [
@@ -1388,7 +1539,7 @@
       "note": ""
     },
     {
-      "id": "MAT-SEN-065",
+      "id": "MAT-SEN-072",
       "competence": "Arithmétique",
       "section": "Sens des opérations sur des nombres",
       "chemin": [
@@ -1409,18 +1560,40 @@
       "note": ""
     },
     {
-      "id": "MAT-SEN-066",
+      "id": "MAT-SEN-073",
       "competence": "Arithmétique",
       "section": "Sens des opérations sur des nombres",
       "chemin": [
         "A. Nombres naturels inférieurs à…",
         "5. Déterminer des équivalences numériques à l’aide de relations entre"
       ],
-      "texte": "Vocabulaire Plus, moins, de moins, de plus Addition, soustraction, somme, différence Symboles +, – Vocabulaire Au moins, au plus, terme, terme manquant Multiplication, facteur, produit Division, diviseur, dividende, quotient, reste, partage Égalité, inégalité, équation, opération inverse, multiple Symboles ×, ÷",
+      "texte": "Vocabulaire Plus, moins, de moins, de plus Addition, soustraction, somme, différence",
       "prioritaire": false,
       "progression": {
         "1": "apprentissage",
         "2": "maitrise",
+        "3": "reinvestissement",
+        "4": "reinvestissement",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 10,
+      "a_verifier": true,
+      "note": "Rubrique Vocabulaire ou Symboles : elle peut regrouper plusieurs lignes de mots (une par cycle). Vérifier le découpage."
+    },
+    {
+      "id": "MAT-SEN-074",
+      "competence": "Arithmétique",
+      "section": "Sens des opérations sur des nombres",
+      "chemin": [
+        "A. Nombres naturels inférieurs à…",
+        "5. Déterminer des équivalences numériques à l’aide de relations entre"
+      ],
+      "texte": "Vocabulaire Au moins, au plus, terme, terme manquant Multiplication, facteur, produit Division, diviseur, dividende, quotient, reste, partage Égalité, inégalité, équation, opération inverse, multiple",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
         "3": "apprentissage",
         "4": "maitrise",
         "5": "reinvestissement",
@@ -1428,10 +1601,10 @@
       },
       "page": 10,
       "a_verifier": true,
-      "note": "Ligne sans marqueur de liste : vérifier le découpage."
+      "note": "Rubrique Vocabulaire ou Symboles : elle peut regrouper plusieurs lignes de mots (une par cycle). Vérifier le découpage."
     },
     {
-      "id": "MAT-SEN-067",
+      "id": "MAT-SEN-075",
       "competence": "Arithmétique",
       "section": "Sens des opérations sur des nombres",
       "chemin": [
@@ -1453,7 +1626,7 @@
       "note": ""
     },
     {
-      "id": "MAT-SEN-068",
+      "id": "MAT-SEN-076",
       "competence": "Arithmétique",
       "section": "Sens des opérations sur des nombres",
       "chemin": [
@@ -1475,7 +1648,7 @@
       "note": ""
     },
     {
-      "id": "MAT-SEN-069",
+      "id": "MAT-SEN-077",
       "competence": "Arithmétique",
       "section": "Sens des opérations sur des nombres",
       "chemin": [
@@ -1497,7 +1670,7 @@
       "note": ""
     },
     {
-      "id": "MAT-SEN-070",
+      "id": "MAT-SEN-078",
       "competence": "Arithmétique",
       "section": "Sens des opérations sur des nombres",
       "chemin": [
@@ -1518,7 +1691,7 @@
       "note": ""
     },
     {
-      "id": "MAT-SEN-071",
+      "id": "MAT-SEN-079",
       "competence": "Arithmétique",
       "section": "Sens des opérations sur des nombres",
       "chemin": [
@@ -1540,7 +1713,7 @@
       "note": ""
     },
     {
-      "id": "MAT-SEN-072",
+      "id": "MAT-SEN-080",
       "competence": "Arithmétique",
       "section": "Sens des opérations sur des nombres",
       "chemin": [
@@ -1562,7 +1735,7 @@
       "note": ""
     },
     {
-      "id": "MAT-SEN-073",
+      "id": "MAT-SEN-081",
       "competence": "Arithmétique",
       "section": "Sens des opérations sur des nombres",
       "chemin": [
@@ -1583,7 +1756,7 @@
       "note": ""
     },
     {
-      "id": "MAT-SEN-074",
+      "id": "MAT-SEN-082",
       "competence": "Arithmétique",
       "section": "Sens des opérations sur des nombres",
       "chemin": [
@@ -2220,13 +2393,13 @@
         "A. Nombres naturels (selon les balises de chaque cycle)",
         "15. Utiliser la calculatrice en"
       ],
-      "texte": "c. s’appropriant les touches pour les mémoires et pour le changement de signe (+/–) Vocabulaire Régularité, suite Symboles Touches de la calculatrice",
+      "texte": "c. s’appropriant les touches pour les mémoires et pour le changement de signe (+/–)",
       "prioritaire": false,
       "progression": {
-        "1": "apprentissage",
-        "2": "maitrise",
-        "3": "reinvestissement",
-        "4": "reinvestissement",
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
         "5": "apprentissage",
         "6": "maitrise"
       },
@@ -2236,6 +2409,50 @@
     },
     {
       "id": "MAT-OPE-030",
+      "competence": "Arithmétique",
+      "section": "Opérations sur des nombres",
+      "chemin": [
+        "A. Nombres naturels (selon les balises de chaque cycle)",
+        "15. Utiliser la calculatrice en"
+      ],
+      "texte": "Vocabulaire Régularité, suite",
+      "prioritaire": false,
+      "progression": {
+        "1": "apprentissage",
+        "2": "maitrise",
+        "3": "reinvestissement",
+        "4": "reinvestissement",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 12,
+      "a_verifier": true,
+      "note": "Rubrique Vocabulaire ou Symboles : elle peut regrouper plusieurs lignes de mots (une par cycle). Vérifier le découpage."
+    },
+    {
+      "id": "MAT-OPE-031",
+      "competence": "Arithmétique",
+      "section": "Opérations sur des nombres",
+      "chemin": [
+        "A. Nombres naturels (selon les balises de chaque cycle)",
+        "15. Utiliser la calculatrice en"
+      ],
+      "texte": "Symboles Touches de la calculatrice",
+      "prioritaire": false,
+      "progression": {
+        "1": "apprentissage",
+        "2": "maitrise",
+        "3": "reinvestissement",
+        "4": "reinvestissement",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 12,
+      "a_verifier": true,
+      "note": "Rubrique Vocabulaire ou Symboles : elle peut regrouper plusieurs lignes de mots (une par cycle). Vérifier le découpage."
+    },
+    {
+      "id": "MAT-OPE-032",
       "competence": "Arithmétique",
       "section": "Opérations sur des nombres",
       "chemin": [
@@ -2256,7 +2473,7 @@
       "note": ""
     },
     {
-      "id": "MAT-OPE-031",
+      "id": "MAT-OPE-033",
       "competence": "Arithmétique",
       "section": "Opérations sur des nombres",
       "chemin": [
@@ -2277,7 +2494,7 @@
       "note": ""
     },
     {
-      "id": "MAT-OPE-032",
+      "id": "MAT-OPE-034",
       "competence": "Arithmétique",
       "section": "Opérations sur des nombres",
       "chemin": [
@@ -2298,13 +2515,13 @@
       "note": ""
     },
     {
-      "id": "MAT-OPE-033",
+      "id": "MAT-OPE-035",
       "competence": "Arithmétique",
       "section": "Opérations sur des nombres",
       "chemin": [
         "B. Fractions (à l’aide de matériel concret ou de schémas)"
       ],
-      "texte": "4. Multiplier un nombre naturel par une fraction Vocabulaire Fraction irréductible",
+      "texte": "4. Multiplier un nombre naturel par une fraction",
       "prioritaire": false,
       "progression": {
         "1": null,
@@ -2319,7 +2536,28 @@
       "note": ""
     },
     {
-      "id": "MAT-OPE-034",
+      "id": "MAT-OPE-036",
+      "competence": "Arithmétique",
+      "section": "Opérations sur des nombres",
+      "chemin": [
+        "B. Fractions (à l’aide de matériel concret ou de schémas)"
+      ],
+      "texte": "Vocabulaire Fraction irréductible",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": "apprentissage",
+        "6": "maitrise"
+      },
+      "page": 12,
+      "a_verifier": true,
+      "note": "Rubrique Vocabulaire ou Symboles : elle peut regrouper plusieurs lignes de mots (une par cycle). Vérifier le découpage."
+    },
+    {
+      "id": "MAT-OPE-037",
       "competence": "Arithmétique",
       "section": "Opérations sur des nombres",
       "chemin": [
@@ -2341,7 +2579,7 @@
       "note": ""
     },
     {
-      "id": "MAT-OPE-035",
+      "id": "MAT-OPE-038",
       "competence": "Arithmétique",
       "section": "Opérations sur des nombres",
       "chemin": [
@@ -2363,7 +2601,7 @@
       "note": ""
     },
     {
-      "id": "MAT-OPE-036",
+      "id": "MAT-OPE-039",
       "competence": "Arithmétique",
       "section": "Opérations sur des nombres",
       "chemin": [
@@ -2385,7 +2623,7 @@
       "note": ""
     },
     {
-      "id": "MAT-OPE-037",
+      "id": "MAT-OPE-040",
       "competence": "Arithmétique",
       "section": "Opérations sur des nombres",
       "chemin": [
@@ -2407,7 +2645,7 @@
       "note": ""
     },
     {
-      "id": "MAT-OPE-038",
+      "id": "MAT-OPE-041",
       "competence": "Arithmétique",
       "section": "Opérations sur des nombres",
       "chemin": [
@@ -2429,7 +2667,7 @@
       "note": ""
     },
     {
-      "id": "MAT-OPE-039",
+      "id": "MAT-OPE-042",
       "competence": "Arithmétique",
       "section": "Opérations sur des nombres",
       "chemin": [
@@ -2451,7 +2689,7 @@
       "note": ""
     },
     {
-      "id": "MAT-OPE-040",
+      "id": "MAT-OPE-043",
       "competence": "Arithmétique",
       "section": "Opérations sur des nombres",
       "chemin": [
@@ -2473,20 +2711,20 @@
       "note": ""
     },
     {
-      "id": "MAT-OPE-041",
+      "id": "MAT-OPE-044",
       "competence": "Arithmétique",
       "section": "Opérations sur des nombres",
       "chemin": [
         "C. Nombres décimaux",
         "3. Développer des processus de calcul écrit"
       ],
-      "texte": "c. Diviser un nombre décimal par un nombre naturel inférieur à 11 Symboles $, ¢",
+      "texte": "c. Diviser un nombre décimal par un nombre naturel inférieur à 11",
       "prioritaire": false,
       "progression": {
         "1": null,
         "2": null,
-        "3": "apprentissage",
-        "4": "maitrise",
+        "3": null,
+        "4": null,
         "5": "apprentissage",
         "6": "maitrise"
       },
@@ -2495,7 +2733,29 @@
       "note": ""
     },
     {
-      "id": "MAT-OPE-042",
+      "id": "MAT-OPE-045",
+      "competence": "Arithmétique",
+      "section": "Opérations sur des nombres",
+      "chemin": [
+        "C. Nombres décimaux",
+        "3. Développer des processus de calcul écrit"
+      ],
+      "texte": "Symboles $, ¢",
+      "prioritaire": true,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "maitrise",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 13,
+      "a_verifier": true,
+      "note": "Rubrique Vocabulaire ou Symboles : elle peut regrouper plusieurs lignes de mots (une par cycle). Vérifier le découpage."
+    },
+    {
+      "id": "MAT-OPE-046",
       "competence": "Arithmétique",
       "section": "Opérations sur des nombres",
       "chemin": [
@@ -2516,7 +2776,7 @@
       "note": ""
     },
     {
-      "id": "MAT-OPE-043",
+      "id": "MAT-OPE-047",
       "competence": "Arithmétique",
       "section": "Opérations sur des nombres",
       "chemin": [
@@ -2537,7 +2797,7 @@
       "note": ""
     },
     {
-      "id": "MAT-OPE-044",
+      "id": "MAT-OPE-048",
       "competence": "Arithmétique",
       "section": "Opérations sur des nombres",
       "chemin": [
@@ -2558,13 +2818,13 @@
       "note": ""
     },
     {
-      "id": "MAT-OPE-045",
+      "id": "MAT-OPE-049",
       "competence": "Arithmétique",
       "section": "Opérations sur des nombres",
       "chemin": [
         "D. Utilisation des nombres"
       ],
-      "texte": "4. Choisir une forme d’écriture appropriée selon le contexte Vocabulaire Pourcentage Symbole %",
+      "texte": "4. Choisir une forme d’écriture appropriée selon le contexte",
       "prioritaire": false,
       "progression": {
         "1": null,
@@ -2577,6 +2837,27 @@
       "page": 13,
       "a_verifier": false,
       "note": ""
+    },
+    {
+      "id": "MAT-OPE-050",
+      "competence": "Arithmétique",
+      "section": "Opérations sur des nombres",
+      "chemin": [
+        "D. Utilisation des nombres"
+      ],
+      "texte": "Vocabulaire Pourcentage Symbole %",
+      "prioritaire": true,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": "apprentissage",
+        "6": "maitrise"
+      },
+      "page": 13,
+      "a_verifier": true,
+      "note": "Rubrique Vocabulaire ou Symboles : elle peut regrouper plusieurs lignes de mots (une par cycle). Vérifier le découpage."
     },
     {
       "id": "MAT-GEO-001",
@@ -2671,7 +2952,51 @@
         "A. Espace",
         "4. Repérer des points dans le plan cartésien er"
       ],
-      "texte": "b. dans les 4 quadrants Vocabulaire Système de repérage, plan, plan cartésien, couple Symboles Écriture d’un couple ( a , b )",
+      "texte": "b. dans les 4 quadrants",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": "apprentissage",
+        "6": "maitrise"
+      },
+      "page": 14,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "MAT-GEO-006",
+      "competence": "Géométrie",
+      "section": null,
+      "chemin": [
+        "A. Espace",
+        "4. Repérer des points dans le plan cartésien er"
+      ],
+      "texte": "Vocabulaire Système de repérage, plan, plan cartésien, couple",
+      "prioritaire": false,
+      "progression": {
+        "1": "apprentissage",
+        "2": "apprentissage",
+        "3": "apprentissage",
+        "4": "maitrise",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 14,
+      "a_verifier": true,
+      "note": "Rubrique Vocabulaire ou Symboles : elle peut regrouper plusieurs lignes de mots (une par cycle). Vérifier le découpage."
+    },
+    {
+      "id": "MAT-GEO-007",
+      "competence": "Géométrie",
+      "section": null,
+      "chemin": [
+        "A. Espace",
+        "4. Repérer des points dans le plan cartésien er"
+      ],
+      "texte": "Symboles Écriture d’un couple ( a , b )",
       "prioritaire": false,
       "progression": {
         "1": "apprentissage",
@@ -2682,11 +3007,11 @@
         "6": "maitrise"
       },
       "page": 14,
-      "a_verifier": false,
-      "note": ""
+      "a_verifier": true,
+      "note": "Rubrique Vocabulaire ou Symboles : elle peut regrouper plusieurs lignes de mots (une par cycle). Vérifier le découpage."
     },
     {
-      "id": "MAT-GEO-006",
+      "id": "MAT-GEO-008",
       "competence": "Géométrie",
       "section": null,
       "chemin": [
@@ -2707,7 +3032,7 @@
       "note": ""
     },
     {
-      "id": "MAT-GEO-007",
+      "id": "MAT-GEO-009",
       "competence": "Géométrie",
       "section": null,
       "chemin": [
@@ -2728,13 +3053,13 @@
       "note": ""
     },
     {
-      "id": "MAT-GEO-008",
+      "id": "MAT-GEO-010",
       "competence": "Géométrie",
       "section": null,
       "chemin": [
         "B. Solides"
       ],
-      "texte": "3. Identifier les principaux solides (boule, cône, cube, cylindre, prisme, pyramide) Vocabulaire Solide, base d’un solide, face, surface plane, surface courbe Boule, cône, cube, cylindre, prisme, pyramide",
+      "texte": "3. Identifier les principaux solides (boule, cône, cube, cylindre, prisme, pyramide)",
       "prioritaire": false,
       "progression": {
         "1": "apprentissage",
@@ -2749,7 +3074,28 @@
       "note": ""
     },
     {
-      "id": "MAT-GEO-009",
+      "id": "MAT-GEO-011",
+      "competence": "Géométrie",
+      "section": null,
+      "chemin": [
+        "B. Solides"
+      ],
+      "texte": "Vocabulaire Solide, base d’un solide, face, surface plane, surface courbe Boule, cône, cube, cylindre, prisme, pyramide",
+      "prioritaire": false,
+      "progression": {
+        "1": "apprentissage",
+        "2": "maitrise",
+        "3": "reinvestissement",
+        "4": "reinvestissement",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 14,
+      "a_verifier": true,
+      "note": "Rubrique Vocabulaire ou Symboles : elle peut regrouper plusieurs lignes de mots (une par cycle). Vérifier le découpage."
+    },
+    {
+      "id": "MAT-GEO-012",
       "competence": "Géométrie",
       "section": null,
       "chemin": [
@@ -2770,7 +3116,7 @@
       "note": ""
     },
     {
-      "id": "MAT-GEO-010",
+      "id": "MAT-GEO-013",
       "competence": "Géométrie",
       "section": null,
       "chemin": [
@@ -2791,7 +3137,7 @@
       "note": ""
     },
     {
-      "id": "MAT-GEO-011",
+      "id": "MAT-GEO-014",
       "competence": "Géométrie",
       "section": null,
       "chemin": [
@@ -2812,7 +3158,7 @@
       "note": ""
     },
     {
-      "id": "MAT-GEO-012",
+      "id": "MAT-GEO-015",
       "competence": "Géométrie",
       "section": null,
       "chemin": [
@@ -2833,7 +3179,7 @@
       "note": ""
     },
     {
-      "id": "MAT-GEO-013",
+      "id": "MAT-GEO-016",
       "competence": "Géométrie",
       "section": null,
       "chemin": [
@@ -2855,7 +3201,7 @@
       "note": ""
     },
     {
-      "id": "MAT-GEO-014",
+      "id": "MAT-GEO-017",
       "competence": "Géométrie",
       "section": null,
       "chemin": [
@@ -2877,35 +3223,14 @@
       "note": ""
     },
     {
-      "id": "MAT-GEO-015",
+      "id": "MAT-GEO-018",
       "competence": "Géométrie",
       "section": null,
       "chemin": [
         "B. Solides",
         "8. Associer le développement de la surface"
       ],
-      "texte": "c. d’un polyèdre convexe au polyèdre convexe correspondant Vocabulaire Sommet, arête, développement d’un solide",
-      "prioritaire": false,
-      "progression": {
-        "1": null,
-        "2": null,
-        "3": "apprentissage",
-        "4": "maitrise",
-        "5": "apprentissage",
-        "6": "maitrise"
-      },
-      "page": 15,
-      "a_verifier": false,
-      "note": ""
-    },
-    {
-      "id": "MAT-GEO-016",
-      "competence": "Géométrie",
-      "section": null,
-      "chemin": [
-        "B. Solides"
-      ],
-      "texte": "9. Expérimenter la relation d’Euler sur des polyèdres convexes Vocabulaire Polyèdre, polyèdre convexe",
+      "texte": "c. d’un polyèdre convexe au polyèdre convexe correspondant",
       "prioritaire": false,
       "progression": {
         "1": null,
@@ -2920,7 +3245,72 @@
       "note": ""
     },
     {
-      "id": "MAT-GEO-017",
+      "id": "MAT-GEO-019",
+      "competence": "Géométrie",
+      "section": null,
+      "chemin": [
+        "B. Solides",
+        "8. Associer le développement de la surface"
+      ],
+      "texte": "Vocabulaire Sommet, arête, développement d’un solide",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "maitrise",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 15,
+      "a_verifier": true,
+      "note": "Rubrique Vocabulaire ou Symboles : elle peut regrouper plusieurs lignes de mots (une par cycle). Vérifier le découpage."
+    },
+    {
+      "id": "MAT-GEO-020",
+      "competence": "Géométrie",
+      "section": null,
+      "chemin": [
+        "B. Solides"
+      ],
+      "texte": "9. Expérimenter la relation d’Euler sur des polyèdres convexes",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": "apprentissage",
+        "6": "maitrise"
+      },
+      "page": 15,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "MAT-GEO-021",
+      "competence": "Géométrie",
+      "section": null,
+      "chemin": [
+        "B. Solides",
+        "8. Associer le développement de la surface"
+      ],
+      "texte": "Vocabulaire Polyèdre, polyèdre convexe",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": "apprentissage",
+        "6": "maitrise"
+      },
+      "page": 15,
+      "a_verifier": true,
+      "note": "Rubrique Vocabulaire ou Symboles : elle peut regrouper plusieurs lignes de mots (une par cycle). Vérifier le découpage."
+    },
+    {
+      "id": "MAT-GEO-022",
       "competence": "Géométrie",
       "section": null,
       "chemin": [
@@ -2941,7 +3331,7 @@
       "note": ""
     },
     {
-      "id": "MAT-GEO-018",
+      "id": "MAT-GEO-023",
       "competence": "Géométrie",
       "section": null,
       "chemin": [
@@ -2962,13 +3352,13 @@
       "note": ""
     },
     {
-      "id": "MAT-GEO-019",
+      "id": "MAT-GEO-024",
       "competence": "Géométrie",
       "section": null,
       "chemin": [
         "C. Figures planes"
       ],
-      "texte": "3. Décrire des figures planes : carré, rectangle, triangle, losange Vocabulaire Ligne brisée, ligne brisée fermée, ligne courbe Figure plane, côté Carré, cercle, rectangle, triangle, losange",
+      "texte": "3. Décrire des figures planes : carré, rectangle, triangle, losange",
       "prioritaire": false,
       "progression": {
         "1": "apprentissage",
@@ -2983,7 +3373,28 @@
       "note": ""
     },
     {
-      "id": "MAT-GEO-020",
+      "id": "MAT-GEO-025",
+      "competence": "Géométrie",
+      "section": null,
+      "chemin": [
+        "C. Figures planes"
+      ],
+      "texte": "Vocabulaire Ligne brisée, ligne brisée fermée, ligne courbe Figure plane, côté Carré, cercle, rectangle, triangle, losange",
+      "prioritaire": false,
+      "progression": {
+        "1": "apprentissage",
+        "2": "maitrise",
+        "3": "reinvestissement",
+        "4": "reinvestissement",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 15,
+      "a_verifier": true,
+      "note": "Rubrique Vocabulaire ou Symboles : elle peut regrouper plusieurs lignes de mots (une par cycle). Vérifier le découpage."
+    },
+    {
+      "id": "MAT-GEO-026",
       "competence": "Géométrie",
       "section": null,
       "chemin": [
@@ -3004,7 +3415,7 @@
       "note": ""
     },
     {
-      "id": "MAT-GEO-021",
+      "id": "MAT-GEO-027",
       "competence": "Géométrie",
       "section": null,
       "chemin": [
@@ -3025,7 +3436,7 @@
       "note": ""
     },
     {
-      "id": "MAT-GEO-022",
+      "id": "MAT-GEO-028",
       "competence": "Géométrie",
       "section": null,
       "chemin": [
@@ -3046,13 +3457,13 @@
       "note": ""
     },
     {
-      "id": "MAT-GEO-023",
+      "id": "MAT-GEO-029",
       "competence": "Géométrie",
       "section": null,
       "chemin": [
         "C. Figures planes"
       ],
-      "texte": "7. Classifier des quadrilatères Vocabulaire Quadrilatère, parallélogramme, trapèze, polygone Polygone convexe, polygone non convexe, segment Est parallèle à ; est perpendiculaire à Symboles //, ⊥",
+      "texte": "7. Classifier des quadrilatères",
       "prioritaire": false,
       "progression": {
         "1": null,
@@ -3067,7 +3478,28 @@
       "note": ""
     },
     {
-      "id": "MAT-GEO-024",
+      "id": "MAT-GEO-030",
+      "competence": "Géométrie",
+      "section": null,
+      "chemin": [
+        "C. Figures planes"
+      ],
+      "texte": "Vocabulaire Quadrilatère, parallélogramme, trapèze, polygone Polygone convexe, polygone non convexe, segment Est parallèle à ; est perpendiculaire à",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "maitrise",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 15,
+      "a_verifier": true,
+      "note": "Rubrique Vocabulaire ou Symboles : elle peut regrouper plusieurs lignes de mots (une par cycle). Vérifier le découpage."
+    },
+    {
+      "id": "MAT-GEO-031",
       "competence": "Géométrie",
       "section": null,
       "chemin": [
@@ -3088,7 +3520,7 @@
       "note": ""
     },
     {
-      "id": "MAT-GEO-025",
+      "id": "MAT-GEO-032",
       "competence": "Géométrie",
       "section": null,
       "chemin": [
@@ -3109,13 +3541,13 @@
       "note": ""
     },
     {
-      "id": "MAT-GEO-026",
+      "id": "MAT-GEO-033",
       "competence": "Géométrie",
       "section": null,
       "chemin": [
         "C. Figures planes"
       ],
-      "texte": "10. Décrire le cercle Vocabulaire Triangle équilatéral, triangle isocèle, triangle rectangle, triangle scalène Disque, angle au centre, diamètre, rayon, circonférence",
+      "texte": "10. Décrire le cercle",
       "prioritaire": false,
       "progression": {
         "1": null,
@@ -3130,7 +3562,28 @@
       "note": ""
     },
     {
-      "id": "MAT-GEO-027",
+      "id": "MAT-GEO-034",
+      "competence": "Géométrie",
+      "section": null,
+      "chemin": [
+        "C. Figures planes"
+      ],
+      "texte": "Vocabulaire Triangle équilatéral, triangle isocèle, triangle rectangle, triangle scalène Disque, angle au centre, diamètre, rayon, circonférence",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": "apprentissage",
+        "6": "maitrise"
+      },
+      "page": 15,
+      "a_verifier": true,
+      "note": "Rubrique Vocabulaire ou Symboles : elle peut regrouper plusieurs lignes de mots (une par cycle). Vérifier le découpage."
+    },
+    {
+      "id": "MAT-GEO-035",
       "competence": "Géométrie",
       "section": null,
       "chemin": [
@@ -3151,7 +3604,7 @@
       "note": ""
     },
     {
-      "id": "MAT-GEO-028",
+      "id": "MAT-GEO-036",
       "competence": "Géométrie",
       "section": null,
       "chemin": [
@@ -3172,7 +3625,7 @@
       "note": ""
     },
     {
-      "id": "MAT-GEO-029",
+      "id": "MAT-GEO-037",
       "competence": "Géométrie",
       "section": null,
       "chemin": [
@@ -3194,26 +3647,70 @@
       "note": ""
     },
     {
-      "id": "MAT-GEO-030",
+      "id": "MAT-GEO-038",
       "competence": "Géométrie",
       "section": null,
       "chemin": [
         "D. Frises et dallages",
         "3. Observer et produire des frises et des dallages"
       ],
-      "texte": "b. à l’aide de la translation Vocabulaire Frise, dallage Réflexion, axe de réflexion, figure symétrique Vocabulaire Translation, flèche de translation",
+      "texte": "b. à l’aide de la translation",
       "prioritaire": false,
       "progression": {
         "1": null,
         "2": null,
-        "3": "apprentissage",
-        "4": "maitrise",
+        "3": null,
+        "4": null,
         "5": "apprentissage",
         "6": "maitrise"
       },
       "page": 16,
       "a_verifier": false,
       "note": ""
+    },
+    {
+      "id": "MAT-GEO-039",
+      "competence": "Géométrie",
+      "section": null,
+      "chemin": [
+        "D. Frises et dallages",
+        "3. Observer et produire des frises et des dallages"
+      ],
+      "texte": "Vocabulaire Frise, dallage Réflexion, axe de réflexion, figure symétrique",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "maitrise",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 16,
+      "a_verifier": true,
+      "note": "Rubrique Vocabulaire ou Symboles : elle peut regrouper plusieurs lignes de mots (une par cycle). Vérifier le découpage."
+    },
+    {
+      "id": "MAT-GEO-040",
+      "competence": "Géométrie",
+      "section": null,
+      "chemin": [
+        "D. Frises et dallages",
+        "3. Observer et produire des frises et des dallages"
+      ],
+      "texte": "Vocabulaire Translation, flèche de translation",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": "apprentissage",
+        "6": "maitrise"
+      },
+      "page": 16,
+      "a_verifier": true,
+      "note": "Rubrique Vocabulaire ou Symboles : elle peut regrouper plusieurs lignes de mots (une par cycle). Vérifier le découpage."
     },
     {
       "id": "MAT-MES-001",
@@ -3395,11 +3892,11 @@
       "chemin": [
         "A. Longueurs"
       ],
-      "texte": "6. Calculer le périmètre de figures planes Vocabulaire Largeur, longueur, hauteur, profondeur Unité de mesure, centimètre, décimètre, mètre Symboles m, dm, cm Vocabulaire Périmètre, millimètre Symbole mm",
+      "texte": "6. Calculer le périmètre de figures planes",
       "prioritaire": false,
       "progression": {
-        "1": "apprentissage",
-        "2": "maitrise",
+        "1": null,
+        "2": null,
         "3": "apprentissage",
         "4": "maitrise",
         "5": "reinvestissement",
@@ -3411,6 +3908,50 @@
     },
     {
       "id": "MAT-MES-010",
+      "competence": "Mesure",
+      "section": null,
+      "chemin": [
+        "A. Longueurs",
+        "5. Établir des relations entre les unités de mesure de longueur"
+      ],
+      "texte": "Vocabulaire Largeur, longueur, hauteur, profondeur Unité de mesure, centimètre, décimètre, mètre",
+      "prioritaire": false,
+      "progression": {
+        "1": "apprentissage",
+        "2": "maitrise",
+        "3": "reinvestissement",
+        "4": "reinvestissement",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 17,
+      "a_verifier": true,
+      "note": "Rubrique Vocabulaire ou Symboles : elle peut regrouper plusieurs lignes de mots (une par cycle). Vérifier le découpage."
+    },
+    {
+      "id": "MAT-MES-011",
+      "competence": "Mesure",
+      "section": null,
+      "chemin": [
+        "A. Longueurs",
+        "5. Établir des relations entre les unités de mesure de longueur"
+      ],
+      "texte": "Vocabulaire Périmètre, millimètre Symbole mm",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "maitrise",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 17,
+      "a_verifier": true,
+      "note": "Rubrique Vocabulaire ou Symboles : elle peut regrouper plusieurs lignes de mots (une par cycle). Vérifier le découpage."
+    },
+    {
+      "id": "MAT-MES-012",
       "competence": "Mesure",
       "section": null,
       "chemin": [
@@ -3429,59 +3970,15 @@
       },
       "page": 18,
       "a_verifier": true,
-      "note": "Ligne sans marqueur de liste : vérifier le découpage."
-    },
-    {
-      "id": "MAT-MES-011",
-      "competence": "Mesure",
-      "section": null,
-      "chemin": [
-        "B. Surfaces",
-        "1. Estimer et mesurer l’aire de surfaces"
-      ],
-      "texte": "a. à l’aide d’unités non conventionnelles",
-      "prioritaire": false,
-      "progression": {
-        "1": null,
-        "2": null,
-        "3": "apprentissage",
-        "4": "maitrise",
-        "5": null,
-        "6": null
-      },
-      "page": 18,
-      "a_verifier": false,
-      "note": ""
-    },
-    {
-      "id": "MAT-MES-012",
-      "competence": "Mesure",
-      "section": null,
-      "chemin": [
-        "B. Surfaces",
-        "1. Estimer et mesurer l’aire de surfaces"
-      ],
-      "texte": "b. à l’aide d’unités conventionnelles Vocabulaire Surface, aire Vocabulaire Centimètre carré, décimètre carré, mètre carré Symboles 2 2 2 m , dm , cm",
-      "prioritaire": false,
-      "progression": {
-        "1": null,
-        "2": null,
-        "3": "apprentissage",
-        "4": "maitrise",
-        "5": "apprentissage",
-        "6": "maitrise"
-      },
-      "page": 18,
-      "a_verifier": false,
-      "note": ""
+      "note": "Rubrique Vocabulaire ou Symboles : elle peut regrouper plusieurs lignes de mots (une par cycle). Vérifier le découpage."
     },
     {
       "id": "MAT-MES-013",
       "competence": "Mesure",
       "section": null,
       "chemin": [
-        "C. Volumes",
-        "1. Estimer et mesurer des volumes"
+        "B. Surfaces",
+        "1. Estimer et mesurer l’aire de surfaces"
       ],
       "texte": "a. à l’aide d’unités non conventionnelles",
       "prioritaire": false,
@@ -3502,52 +3999,10 @@
       "competence": "Mesure",
       "section": null,
       "chemin": [
-        "C. Volumes",
-        "1. Estimer et mesurer des volumes"
+        "B. Surfaces",
+        "1. Estimer et mesurer l’aire de surfaces"
       ],
-      "texte": "b. à l’aide d’unités conventionnelles Vocabulaire Volume Vocabulaire Centimètre cube, décimètre cube, mètre cube Symboles 3 3 3 m , dm , cm",
-      "prioritaire": false,
-      "progression": {
-        "1": null,
-        "2": null,
-        "3": "apprentissage",
-        "4": "maitrise",
-        "5": "apprentissage",
-        "6": "maitrise"
-      },
-      "page": 18,
-      "a_verifier": false,
-      "note": ""
-    },
-    {
-      "id": "MAT-MES-015",
-      "competence": "Mesure",
-      "section": null,
-      "chemin": [
-        "D. Angles"
-      ],
-      "texte": "1. Comparer des angles Vocabulaire Angle, angle droit, angle aigu, angle obtus",
-      "prioritaire": false,
-      "progression": {
-        "1": null,
-        "2": null,
-        "3": "apprentissage",
-        "4": "maitrise",
-        "5": "reinvestissement",
-        "6": "reinvestissement"
-      },
-      "page": 18,
-      "a_verifier": false,
-      "note": ""
-    },
-    {
-      "id": "MAT-MES-016",
-      "competence": "Mesure",
-      "section": null,
-      "chemin": [
-        "D. Angles"
-      ],
-      "texte": "2. Estimer et mesurer des angles en degrés Vocabulaire Degré, rapporteur d’angles Symboles ∠ , °",
+      "texte": "b. à l’aide d’unités conventionnelles",
       "prioritaire": false,
       "progression": {
         "1": null,
@@ -3562,7 +4017,288 @@
       "note": ""
     },
     {
+      "id": "MAT-MES-015",
+      "competence": "Mesure",
+      "section": null,
+      "chemin": [
+        "B. Surfaces",
+        "1. Estimer et mesurer l’aire de surfaces"
+      ],
+      "texte": "Vocabulaire Surface, aire",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "maitrise",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 18,
+      "a_verifier": true,
+      "note": "Rubrique Vocabulaire ou Symboles : elle peut regrouper plusieurs lignes de mots (une par cycle). Vérifier le découpage."
+    },
+    {
+      "id": "MAT-MES-016",
+      "competence": "Mesure",
+      "section": null,
+      "chemin": [
+        "B. Surfaces",
+        "1. Estimer et mesurer l’aire de surfaces"
+      ],
+      "texte": "Vocabulaire Centimètre carré, décimètre carré, mètre carré",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": "apprentissage",
+        "6": "maitrise"
+      },
+      "page": 18,
+      "a_verifier": true,
+      "note": "Rubrique Vocabulaire ou Symboles : elle peut regrouper plusieurs lignes de mots (une par cycle). Vérifier le découpage."
+    },
+    {
       "id": "MAT-MES-017",
+      "competence": "Mesure",
+      "section": null,
+      "chemin": [
+        "B. Surfaces",
+        "1. Estimer et mesurer l’aire de surfaces"
+      ],
+      "texte": "Symboles 2 2 2 m , dm , cm",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": "apprentissage",
+        "6": "maitrise"
+      },
+      "page": 18,
+      "a_verifier": true,
+      "note": "Rubrique Vocabulaire ou Symboles : elle peut regrouper plusieurs lignes de mots (une par cycle). Vérifier le découpage."
+    },
+    {
+      "id": "MAT-MES-018",
+      "competence": "Mesure",
+      "section": null,
+      "chemin": [
+        "C. Volumes",
+        "1. Estimer et mesurer des volumes"
+      ],
+      "texte": "a. à l’aide d’unités non conventionnelles",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "maitrise",
+        "5": null,
+        "6": null
+      },
+      "page": 18,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "MAT-MES-019",
+      "competence": "Mesure",
+      "section": null,
+      "chemin": [
+        "C. Volumes",
+        "1. Estimer et mesurer des volumes"
+      ],
+      "texte": "b. à l’aide d’unités conventionnelles",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": "apprentissage",
+        "6": "maitrise"
+      },
+      "page": 18,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "MAT-MES-020",
+      "competence": "Mesure",
+      "section": null,
+      "chemin": [
+        "C. Volumes",
+        "1. Estimer et mesurer des volumes"
+      ],
+      "texte": "Vocabulaire Volume",
+      "prioritaire": true,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "maitrise",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 18,
+      "a_verifier": true,
+      "note": "Rubrique Vocabulaire ou Symboles : elle peut regrouper plusieurs lignes de mots (une par cycle). Vérifier le découpage."
+    },
+    {
+      "id": "MAT-MES-021",
+      "competence": "Mesure",
+      "section": null,
+      "chemin": [
+        "C. Volumes",
+        "1. Estimer et mesurer des volumes"
+      ],
+      "texte": "Vocabulaire Centimètre cube, décimètre cube, mètre cube",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": "apprentissage",
+        "6": "maitrise"
+      },
+      "page": 18,
+      "a_verifier": true,
+      "note": "Rubrique Vocabulaire ou Symboles : elle peut regrouper plusieurs lignes de mots (une par cycle). Vérifier le découpage."
+    },
+    {
+      "id": "MAT-MES-022",
+      "competence": "Mesure",
+      "section": null,
+      "chemin": [
+        "C. Volumes",
+        "1. Estimer et mesurer des volumes"
+      ],
+      "texte": "Symboles 3 3 3 m , dm , cm",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": "apprentissage",
+        "6": "maitrise"
+      },
+      "page": 18,
+      "a_verifier": true,
+      "note": "Rubrique Vocabulaire ou Symboles : elle peut regrouper plusieurs lignes de mots (une par cycle). Vérifier le découpage."
+    },
+    {
+      "id": "MAT-MES-023",
+      "competence": "Mesure",
+      "section": null,
+      "chemin": [
+        "D. Angles"
+      ],
+      "texte": "1. Comparer des angles",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "maitrise",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 18,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "MAT-MES-024",
+      "competence": "Mesure",
+      "section": null,
+      "chemin": [
+        "D. Angles"
+      ],
+      "texte": "Vocabulaire Angle, angle droit, angle aigu, angle obtus",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "maitrise",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 18,
+      "a_verifier": true,
+      "note": "Rubrique Vocabulaire ou Symboles : elle peut regrouper plusieurs lignes de mots (une par cycle). Vérifier le découpage."
+    },
+    {
+      "id": "MAT-MES-025",
+      "competence": "Mesure",
+      "section": null,
+      "chemin": [
+        "D. Angles"
+      ],
+      "texte": "2. Estimer et mesurer des angles en degrés",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": "apprentissage",
+        "6": "maitrise"
+      },
+      "page": 18,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "MAT-MES-026",
+      "competence": "Mesure",
+      "section": null,
+      "chemin": [
+        "D. Angles"
+      ],
+      "texte": "Vocabulaire Degré, rapporteur d’angles",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": "apprentissage",
+        "6": "maitrise"
+      },
+      "page": 18,
+      "a_verifier": true,
+      "note": "Rubrique Vocabulaire ou Symboles : elle peut regrouper plusieurs lignes de mots (une par cycle). Vérifier le découpage."
+    },
+    {
+      "id": "MAT-MES-027",
+      "competence": "Mesure",
+      "section": null,
+      "chemin": [
+        "D. Angles"
+      ],
+      "texte": "Symboles ∠ , °",
+      "prioritaire": true,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": "apprentissage",
+        "6": "maitrise"
+      },
+      "page": 18,
+      "a_verifier": true,
+      "note": "Rubrique Vocabulaire ou Symboles : elle peut regrouper plusieurs lignes de mots (une par cycle). Vérifier le découpage."
+    },
+    {
+      "id": "MAT-MES-028",
       "competence": "Mesure",
       "section": null,
       "chemin": [
@@ -3583,7 +4319,7 @@
       "note": ""
     },
     {
-      "id": "MAT-MES-018",
+      "id": "MAT-MES-029",
       "competence": "Mesure",
       "section": null,
       "chemin": [
@@ -3604,13 +4340,34 @@
       "note": ""
     },
     {
-      "id": "MAT-MES-019",
+      "id": "MAT-MES-030",
       "competence": "Mesure",
       "section": null,
       "chemin": [
         "E. Capacités"
       ],
-      "texte": "3. Établir des relations entre les unités de mesure (ex. : 1 L = 1000 mL, ½ L = 500 mL) Vocabulaire Capacité, litre, millilitre",
+      "texte": "3. Établir des relations entre les unités de mesure (ex. : 1 L = 1000 mL, ½ L = 500 mL)",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": "maitrise",
+        "6": "reinvestissement"
+      },
+      "page": 18,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "MAT-MES-031",
+      "competence": "Mesure",
+      "section": null,
+      "chemin": [
+        "E. Capacités"
+      ],
+      "texte": "Vocabulaire Capacité, litre, millilitre",
       "prioritaire": false,
       "progression": {
         "1": null,
@@ -3621,11 +4378,11 @@
         "6": "reinvestissement"
       },
       "page": 18,
-      "a_verifier": false,
-      "note": ""
+      "a_verifier": true,
+      "note": "Rubrique Vocabulaire ou Symboles : elle peut regrouper plusieurs lignes de mots (une par cycle). Vérifier le découpage."
     },
     {
-      "id": "MAT-MES-020",
+      "id": "MAT-MES-032",
       "competence": "Mesure",
       "section": null,
       "chemin": [
@@ -3643,10 +4400,10 @@
       },
       "page": 19,
       "a_verifier": true,
-      "note": "Ligne sans marqueur de liste : vérifier le découpage."
+      "note": "Rubrique Vocabulaire ou Symboles : elle peut regrouper plusieurs lignes de mots (une par cycle). Vérifier le découpage."
     },
     {
-      "id": "MAT-MES-021",
+      "id": "MAT-MES-033",
       "competence": "Mesure",
       "section": null,
       "chemin": [
@@ -3667,7 +4424,7 @@
       "note": ""
     },
     {
-      "id": "MAT-MES-022",
+      "id": "MAT-MES-034",
       "competence": "Mesure",
       "section": null,
       "chemin": [
@@ -3688,13 +4445,13 @@
       "note": ""
     },
     {
-      "id": "MAT-MES-023",
+      "id": "MAT-MES-035",
       "competence": "Mesure",
       "section": null,
       "chemin": [
         "F. Masses"
       ],
-      "texte": "3. Établir des relations entre les unités de mesure (ex. : 1 kg = 1000 g, ½ kg = 500 g) Vocabulaire Masse, gramme, kilogramme Symboles g, kg",
+      "texte": "3. Établir des relations entre les unités de mesure (ex. : 1 kg = 1000 g, ½ kg = 500 g)",
       "prioritaire": false,
       "progression": {
         "1": null,
@@ -3709,7 +4466,49 @@
       "note": ""
     },
     {
-      "id": "MAT-MES-024",
+      "id": "MAT-MES-036",
+      "competence": "Mesure",
+      "section": null,
+      "chemin": [
+        "F. Masses"
+      ],
+      "texte": "Vocabulaire Masse, gramme, kilogramme",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": "apprentissage",
+        "6": "maitrise"
+      },
+      "page": 19,
+      "a_verifier": true,
+      "note": "Rubrique Vocabulaire ou Symboles : elle peut regrouper plusieurs lignes de mots (une par cycle). Vérifier le découpage."
+    },
+    {
+      "id": "MAT-MES-037",
+      "competence": "Mesure",
+      "section": null,
+      "chemin": [
+        "F. Masses"
+      ],
+      "texte": "Symboles g, kg",
+      "prioritaire": true,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": "apprentissage",
+        "6": "maitrise"
+      },
+      "page": 19,
+      "a_verifier": true,
+      "note": "Rubrique Vocabulaire ou Symboles : elle peut regrouper plusieurs lignes de mots (une par cycle). Vérifier le découpage."
+    },
+    {
+      "id": "MAT-MES-038",
       "competence": "Mesure",
       "section": null,
       "chemin": [
@@ -3730,38 +4529,17 @@
       "note": ""
     },
     {
-      "id": "MAT-MES-025",
+      "id": "MAT-MES-039",
       "competence": "Mesure",
       "section": null,
       "chemin": [
         "G. Temps"
       ],
-      "texte": "2. Établir des relations entre les unités de mesure Vocabulaire Jour, heure, minute, seconde Symboles h, min, s, codage de l’heure : 3 h, 3 h 25 min, 03 : 25 Vocabulaire Cycle quotidien, cycle hebdomadaire, cycle annuel",
+      "texte": "2. Établir des relations entre les unités de mesure",
       "prioritaire": false,
       "progression": {
         "1": "apprentissage",
         "2": "apprentissage",
-        "3": "apprentissage",
-        "4": "maitrise",
-        "5": "apprentissage",
-        "6": "maitrise"
-      },
-      "page": 19,
-      "a_verifier": false,
-      "note": ""
-    },
-    {
-      "id": "MAT-MES-026",
-      "competence": "Mesure",
-      "section": null,
-      "chemin": [
-        "H. Températures"
-      ],
-      "texte": "1. Estimer et mesurer des températures à l’aide d’unités conventionnelles Vocabulaire Degré Celsius Symbole °C",
-      "prioritaire": false,
-      "progression": {
-        "1": "apprentissage",
-        "2": "maitrise",
         "3": "apprentissage",
         "4": "apprentissage",
         "5": "apprentissage",
@@ -3770,6 +4548,111 @@
       "page": 19,
       "a_verifier": false,
       "note": ""
+    },
+    {
+      "id": "MAT-MES-040",
+      "competence": "Mesure",
+      "section": null,
+      "chemin": [
+        "G. Temps"
+      ],
+      "texte": "Vocabulaire Jour, heure, minute, seconde",
+      "prioritaire": false,
+      "progression": {
+        "1": "apprentissage",
+        "2": "maitrise",
+        "3": "reinvestissement",
+        "4": "reinvestissement",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 19,
+      "a_verifier": true,
+      "note": "Rubrique Vocabulaire ou Symboles : elle peut regrouper plusieurs lignes de mots (une par cycle). Vérifier le découpage."
+    },
+    {
+      "id": "MAT-MES-041",
+      "competence": "Mesure",
+      "section": null,
+      "chemin": [
+        "G. Temps"
+      ],
+      "texte": "Symboles h, min, s, codage de l’heure : 3 h, 3 h 25 min, 03 : 25",
+      "prioritaire": false,
+      "progression": {
+        "1": "apprentissage",
+        "2": "maitrise",
+        "3": "reinvestissement",
+        "4": "reinvestissement",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 19,
+      "a_verifier": true,
+      "note": "Rubrique Vocabulaire ou Symboles : elle peut regrouper plusieurs lignes de mots (une par cycle). Vérifier le découpage."
+    },
+    {
+      "id": "MAT-MES-042",
+      "competence": "Mesure",
+      "section": null,
+      "chemin": [
+        "G. Temps"
+      ],
+      "texte": "Vocabulaire Cycle quotidien, cycle hebdomadaire, cycle annuel",
+      "prioritaire": false,
+      "progression": {
+        "1": "apprentissage",
+        "2": "apprentissage",
+        "3": "apprentissage",
+        "4": "maitrise",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 19,
+      "a_verifier": true,
+      "note": "Rubrique Vocabulaire ou Symboles : elle peut regrouper plusieurs lignes de mots (une par cycle). Vérifier le découpage."
+    },
+    {
+      "id": "MAT-MES-043",
+      "competence": "Mesure",
+      "section": null,
+      "chemin": [
+        "H. Températures"
+      ],
+      "texte": "1. Estimer et mesurer des températures à l’aide d’unités conventionnelles",
+      "prioritaire": false,
+      "progression": {
+        "1": "apprentissage",
+        "2": "apprentissage",
+        "3": "apprentissage",
+        "4": "apprentissage",
+        "5": "apprentissage",
+        "6": "maitrise"
+      },
+      "page": 19,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "MAT-MES-044",
+      "competence": "Mesure",
+      "section": null,
+      "chemin": [
+        "H. Températures"
+      ],
+      "texte": "Vocabulaire Degré Celsius Symbole °C",
+      "prioritaire": true,
+      "progression": {
+        "1": "apprentissage",
+        "2": "maitrise",
+        "3": "reinvestissement",
+        "4": "reinvestissement",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 19,
+      "a_verifier": true,
+      "note": "Rubrique Vocabulaire ou Symboles : elle peut regrouper plusieurs lignes de mots (une par cycle). Vérifier le découpage."
     },
     {
       "id": "MAT-STA-001",
@@ -3930,19 +4813,85 @@
       "chemin": [
         "H. Températures"
       ],
-      "texte": "5. Comprendre et calculer la moyenne arithmétique Vocabulaire Enquête, tableau Diagramme à bandes, diagramme à pictogrammes Vocabulaire Diagramme à ligne brisée Vocabulaire Diagramme circulaire, moyenne arithmétique",
+      "texte": "5. Comprendre et calculer la moyenne arithmétique",
       "prioritaire": false,
       "progression": {
-        "1": "maitrise",
-        "2": "reinvestissement",
-        "3": "apprentissage",
-        "4": "maitrise",
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
         "5": "apprentissage",
         "6": "maitrise"
       },
       "page": 20,
       "a_verifier": false,
       "note": ""
+    },
+    {
+      "id": "MAT-STA-009",
+      "competence": "Statistique",
+      "section": null,
+      "chemin": [
+        "H. Températures",
+        "4. Représenter des données à l’aide"
+      ],
+      "texte": "Vocabulaire Enquête, tableau Diagramme à bandes, diagramme à pictogrammes",
+      "prioritaire": false,
+      "progression": {
+        "1": "maitrise",
+        "2": "reinvestissement",
+        "3": "reinvestissement",
+        "4": "reinvestissement",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 20,
+      "a_verifier": true,
+      "note": "Rubrique Vocabulaire ou Symboles : elle peut regrouper plusieurs lignes de mots (une par cycle). Vérifier le découpage."
+    },
+    {
+      "id": "MAT-STA-010",
+      "competence": "Statistique",
+      "section": null,
+      "chemin": [
+        "H. Températures",
+        "4. Représenter des données à l’aide"
+      ],
+      "texte": "Vocabulaire Diagramme à ligne brisée",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "maitrise",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 20,
+      "a_verifier": true,
+      "note": "Rubrique Vocabulaire ou Symboles : elle peut regrouper plusieurs lignes de mots (une par cycle). Vérifier le découpage."
+    },
+    {
+      "id": "MAT-STA-011",
+      "competence": "Statistique",
+      "section": null,
+      "chemin": [
+        "H. Températures",
+        "4. Représenter des données à l’aide"
+      ],
+      "texte": "Vocabulaire Diagramme circulaire, moyenne arithmétique",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": "apprentissage",
+        "6": "maitrise"
+      },
+      "page": 20,
+      "a_verifier": true,
+      "note": "Rubrique Vocabulaire ou Symboles : elle peut regrouper plusieurs lignes de mots (une par cycle). Vérifier le découpage."
     },
     {
       "id": "MAT-PRO-001",
@@ -4249,13 +5198,13 @@
       "chemin": [
         "H. Températures"
       ],
-      "texte": "13. Simuler des expériences aléatoires avec ou sans l’aide de la technologie Vocabulaire Hasard, expérience aléatoire, chance, dénombrement, diagramme en arbre Résultat certain, résultat possible, résultat impossible Événement, événement probable, également probable, plus probable, moins probable,",
+      "texte": "13. Simuler des expériences aléatoires avec ou sans l’aide de la technologie",
       "prioritaire": false,
       "progression": {
-        "1": "apprentissage",
-        "2": "apprentissage",
+        "1": null,
+        "2": null,
         "3": "apprentissage",
-        "4": "maitrise",
+        "4": "apprentissage",
         "5": "apprentissage",
         "6": "maitrise"
       },
@@ -4265,6 +5214,28 @@
     },
     {
       "id": "MAT-PRO-016",
+      "competence": "Probabilité",
+      "section": null,
+      "chemin": [
+        "H. Températures",
+        "8. Dénombrer les résultats possibles"
+      ],
+      "texte": "Vocabulaire Hasard, expérience aléatoire, chance, dénombrement, diagramme en arbre Résultat certain, résultat possible, résultat impossible Événement, événement probable, également probable, plus probable, moins probable,",
+      "prioritaire": false,
+      "progression": {
+        "1": "apprentissage",
+        "2": "apprentissage",
+        "3": "apprentissage",
+        "4": "maitrise",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 21,
+      "a_verifier": true,
+      "note": "Rubrique Vocabulaire ou Symboles : elle peut regrouper plusieurs lignes de mots (une par cycle). Vérifier le découpage."
+    },
+    {
+      "id": "MAT-PRO-017",
       "competence": "Probabilité",
       "section": null,
       "chemin": [
@@ -4285,5 +5256,10 @@
       "a_verifier": true,
       "note": "Ligne sans marqueur de liste : vérifier le découpage."
     }
-  ]
+  ],
+  "controle_logique": {
+    "date": "2026-11-10",
+    "illogiques": 2,
+    "note": "MAT-MES-032 et MAT-PRO-017 : symboles pâles, à vérifier visuellement."
+  }
 }

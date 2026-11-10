@@ -20,7 +20,7 @@ Plateforme québécoise pour les enseignantes et enseignants du primaire et du s
 | Fichier | Contenu |
 |---|---|
 | `pda-fra-primaire.json` | 1 188 savoirs, progression de la 1re à la 6e année, contenu prioritaire |
-| `pda-mat-primaire.json` | 199 savoirs par domaine |
+| `pda-mat-primaire.json` | 244 savoirs par domaine (rubriques Vocabulaire et Symboles à part) |
 | `cadre-fra-primaire.json` | Compétences, critères, pondérations par cycle |
 | `cadre-mat-primaire.json` | Compétences, critères, pondérations par cycle |
 
@@ -41,6 +41,8 @@ python3 -I outils/integrer_verification.py PDA.pdf donnees/pda.json reponse_gemi
 ```
 
 Une ligne de Gemini est acceptée seulement si ses cases bleues et ses flèches concordent avec le PDF et si sa séquence est logique.
+
+**Contrôle de logique à refaire après chaque extraction** : une progression doit suivre l'ordre flèches, étoile, cases bleues. Le 10 novembre, ce contrôle a révélé 144 étoiles manquantes en français (tranches d'images fusionnées à tort) et 2 lignes de mathématique fusionnées avec la rubrique Vocabulaire. Les deux bogues sont corrigés dans `outils/extraire_pda.py`.
 
 Dépendances : `pdfplumber`, `pypdfium2`, `Pillow`.
 

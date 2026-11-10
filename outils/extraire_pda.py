@@ -101,7 +101,9 @@ def extraire(chemin):
             n = niveau(r['texte'])
             if n is None and any(r['top'] - 3 <= cy <= r['bottom'] + 3 and x1 <= r['x0'] + 1 for cy, x1 in tirets):
                 n = 5
-            if n is not None or not elements:
+            # en mathematique, les rubriques « Vocabulaire » et « Symboles » sont des lignes a part, sans marqueur
+            nouvelle_rubrique = n is None and re.match(r'^(Vocabulaire|Symboles)\b', r['texte'])
+            if n is not None or not elements or nouvelle_rubrique:
                 elements.append({'niveau': n, 'lignes': [r], 'top': r['top']})
             else:
                 elements[-1]['lignes'].append(r)
@@ -113,7 +115,7 @@ def extraire(chemin):
                       key=lambda im: (round(im['x0']), im['top']))
         fusion = []  # les symboles sont parfois decoupes en tranches horizontales
         for im in cand:
-            if fusion and abs(im['x0'] - fusion[-1]['x0']) < 1.5 and im['top'] - fusion[-1]['bottom'] < 1.5:
+            if fusion and abs(im['x0'] - fusion[-1]['x0']) < 1.5 and -1.0 <= im['top'] - fusion[-1]['bottom'] < 1.5:  # tranche juste en dessous, jamais plus haut
                 fusion[-1]['bottom'] = max(fusion[-1]['bottom'], im['bottom'])
             else:
                 fusion.append({'x0': im['x0'], 'x1': im['x1'], 'top': im['top'], 'bottom': im['bottom'], 'src': im['srcsize'][0]})
