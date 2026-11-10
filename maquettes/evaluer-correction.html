@@ -1,0 +1,93 @@
+<!DOCTYPE html><html lang="fr"><head><meta charset="utf-8"><title>Salle des profs — Correction question par question</title>
+<style>
+:root{--papier:#faf7f1;--carte:#fffdf9;--encre:#33302b;--doux:#8a8278;--ligne:#ebe4d8;--terre:#b0704f;--terre-p:#f6e4d8;--sauge:#55745d;--sauge-p:#e4ece5;--ble:#c9a35f;--ble-p:#f4ead3}
+*{box-sizing:border-box}body{margin:0;background:var(--papier);color:var(--encre);font-family:"Segoe UI",system-ui,sans-serif;font-size:14px;line-height:1.5}
+.serif{font-family:Georgia,"DejaVu Serif",serif}
+header{max-width:1240px;margin:0 auto;padding:22px 32px 0;display:flex;align-items:baseline;gap:34px;border-bottom:1px solid var(--ligne)}
+.logo{font-size:21px;padding-bottom:16px}.logo i{color:var(--terre)}
+nav{display:flex;gap:24px}nav a{padding-bottom:16px;color:var(--doux);text-decoration:none;border-bottom:2px solid transparent}nav a.on{color:var(--encre);border-color:var(--terre)}
+.moi{margin-left:auto;color:var(--doux);font-size:13px}
+main{max-width:1240px;margin:0 auto;padding:24px 32px 40px}
+.fil{color:var(--doux);font-size:13px}.fil a{color:var(--doux)}
+.titre{display:flex;align-items:flex-end;justify-content:space-between;margin:6px 0 20px}
+.titre h1{font-size:28px;font-weight:400;margin:0}
+.modes{display:flex;gap:4px;background:var(--carte);border:1px solid var(--ligne);border-radius:20px;padding:3px}
+.modes span{padding:6px 14px;border-radius:20px;font-size:13px;color:var(--doux)}.modes span.on{background:var(--encre);color:var(--papier)}
+.trois{display:grid;grid-template-columns:225px 1fr 280px;gap:20px;align-items:start}
+.carte{background:var(--carte);border:1px solid var(--ligne);border-radius:14px;padding:18px}
+.carte h3{font-size:17px;font-weight:400;margin:0 0 12px}
+.q{white-space:nowrap;gap:8px;display:flex;justify-content:space-between;align-items:center;padding:9px 10px;border-radius:9px;font-size:13px;margin-bottom:4px}
+.q.on{background:var(--terre-p)}.q small{color:var(--doux)}.q .ok{color:var(--sauge)}
+.prog{height:4px;border-radius:2px;background:var(--ligne);margin:14px 0 6px}.prog i{display:block;height:100%;width:46%;background:var(--terre);border-radius:2px}
+.enonce{background:var(--carte);border:1px solid var(--ligne);border-radius:14px;padding:18px 20px;margin-bottom:16px}
+.enonce .k{font-size:12px;letter-spacing:.1em;text-transform:uppercase;color:var(--terre)}
+.enonce h2{font-size:19px;font-weight:400;margin:4px 0 8px}
+.tags{display:flex;gap:8px;flex-wrap:wrap}.tag{font-size:12px;padding:3px 10px;border-radius:20px;background:#efebe3;color:var(--doux)}
+.groupe{background:var(--carte);border:1px solid var(--ligne);border-radius:14px;margin-bottom:16px;overflow:hidden}
+.ghead{display:flex;align-items:center;gap:12px;padding:14px 18px;border-bottom:1px dashed var(--ligne)}
+.ghead b{font-weight:600}.ghead .n{color:var(--doux);font-size:13px}.ghead .btn{margin-left:auto}
+.pts{font-family:Georgia,"DejaVu Serif",serif;font-size:18px}.pts small{font-size:12px;color:var(--doux);font-family:"Segoe UI",sans-serif}
+.rep{display:grid;grid-template-columns:115px 1fr 200px;gap:14px;align-items:center;padding:12px 18px;border-top:1px dashed var(--ligne)}
+.rep:first-of-type{border-top:0}
+.eleve{font-size:13px}.eleve small{display:block;color:var(--doux);font-size:11px}
+.copie{height:46px;border-radius:6px;background:repeating-linear-gradient(#fff 0 21px,#dfe6ef 21px 22px);border:1px solid #e6e0d4;padding:3px 10px;font-family:"Comic Sans MS","Segoe Print","DejaVu Sans",cursive;color:#2b4a8a;font-size:15px;overflow:hidden;white-space:nowrap}
+.copie mark{background:none;border-bottom:2px solid var(--terre);color:inherit}
+.just{font-size:12px;color:var(--doux);margin-top:4px}
+.edit{display:flex;align-items:center;gap:6px;justify-content:flex-end}
+.pm{width:28px;height:28px;border-radius:50%;border:1px solid var(--ligne);background:#fff;font-size:15px;line-height:1;color:var(--encre)}
+.val{min-width:44px;text-align:center;font-family:Georgia,"DejaVu Serif",serif;font-size:17px}
+.val.chg{color:var(--terre)}
+.btn{border:1px solid var(--encre);background:none;border-radius:20px;padding:6px 14px;font-size:12px;color:var(--encre);white-space:nowrap}.btn.plein{background:var(--encre);color:var(--papier)}
+.etat{font-size:11px;padding:2px 9px;border-radius:20px;white-space:nowrap}.e-ok{background:var(--sauge-p);color:var(--sauge)}.e-av{background:var(--ble-p);color:#8a6a2a}.e-mod{background:var(--terre-p);color:#9a5a3a}
+.grille .crit{padding:10px 0;border-top:1px dashed var(--ligne);font-size:13px}.grille .crit:first-of-type{border:0}
+.grille .crit b{font-weight:600}.grille .crit span{float:right;font-family:Georgia,serif}
+.note{margin-top:14px;padding:12px 14px;border-left:3px solid var(--terre);background:#f6efe6;font-size:12.5px;line-height:1.5}
+.bas{display:flex;justify-content:space-between;align-items:center;margin-top:6px;color:var(--doux);font-size:12.5px}
+</style></head><body>
+<header><div class="logo serif">Salle des <i>profs</i></div>
+<nav><a href="#">Accueil</a><a href="#">Planifier</a><a href="#">Créer</a><a class="on" href="#">Évaluer</a><a href="#">Observer</a></nav>
+<div class="moi">Marie Gagnon</div></header>
+<main>
+<div class="fil"><a href="#">Évaluer</a> · Dictée 6 · 4e année, groupe 41</div>
+<div class="titre"><h1 class="serif">Valider la correction</h1>
+<div class="modes"><span class="on">Question par question</span><span>Copie par copie</span></div></div>
+<div class="trois">
+<aside class="carte"><h3 class="serif">Questions</h3>
+<div class="q"><span>1. Phrase dictée</span><small class="ok">24 / 24</small></div>
+<div class="q"><span>2. Homophones</span><small class="ok">24 / 24</small></div>
+<div class="q on"><span><b>3. Accord du PP</b></span><small>9 / 24</small></div>
+<div class="q"><span>4. Pluriel des noms</span><small>0 / 24</small></div>
+<div class="q"><span>5. Révision</span><small>0 / 24</small></div>
+<div class="prog"><i></i></div><div style="font-size:12px;color:var(--doux)">57 réponses validées sur 120</div>
+</aside>
+<section>
+<div class="enonce"><div class="k">Question 3 · 2 points</div>
+<h2 class="serif">Accorde le participe passé : « Les fleurs que j'ai (cueillir) hier. »</h2>
+<div class="tags"><span class="tag">Écrire · Respect des normes de l'orthographe grammaticale</span><span class="tag">PDA : FRA-ACC-142, accord du participe passé avec avoir</span><span class="tag">Réponse attendue : cueillies</span></div></div>
+
+<div class="groupe"><div class="ghead"><span class="pts">2 <small>/ 2</small></span><div><b>Réponse juste : « cueillies »</b><div class="n">11 élèves · regroupées par l'IA</div></div><button class="btn plein">Valider les 11 après relecture</button></div>
+<div class="rep"><div class="eleve">Léa Tremblay<small>copie 4</small></div><div><div class="copie">Les fleurs que j'ai <mark>cueillies</mark> hier.</div></div><div class="edit"><button class="pm">−</button><span class="val">2</span><button class="pm">+</button></div></div>
+<div class="rep"><div class="eleve">Noah Gagné<small>copie 7</small></div><div><div class="copie">Les fleurs que j'ai <mark>cueillies</mark> hier.</div></div><div class="edit"><button class="pm">−</button><span class="val">2</span><button class="pm">+</button></div></div>
+<div class="rep" style="color:var(--doux);font-size:12.5px;display:block;text-align:center">Voir les 9 autres réponses</div></div>
+
+<div class="groupe"><div class="ghead"><span class="pts">1 <small>/ 2</small></span><div><b>Accord du genre oublié : « cueillis »</b><div class="n">6 élèves · l'IA propose 1 point sur 2</div></div><span class="etat e-av">À relire</span></div>
+<div class="rep"><div class="eleve">Zoé Bouchard<small>copie 12</small></div><div><div class="copie">Les fleurs que j'ai <mark>cueillis</mark> hier.</div><div class="just">Pluriel fait, féminin oublié (le COD « que » reprend « fleurs »).</div></div><div class="edit"><button class="pm">−</button><span class="val">1</span><button class="pm">+</button></div></div>
+<div class="rep"><div class="eleve">Liam Roy<small>copie 15</small></div><div><div class="copie">Les fleurs que j'ai <mark>ceuillis</mark> hier.</div><div class="just">L'IA proposait 0,5 et enlevait un demi-point pour « ceuillis ». Vous l'avez remis : l'orthographe d'usage n'est pas comptée ici.</div></div><div class="edit"><span class="etat e-mod">modifié</span><button class="pm">−</button><span class="val chg">1</span><button class="pm">+</button></div></div>
+</div>
+
+<div class="groupe"><div class="ghead"><span class="pts">0 <small>/ 2</small></span><div><b>Participe non accordé : « cueilli », « cueillir »</b><div class="n">5 élèves</div></div><span class="etat e-av">À relire</span></div></div>
+<div class="groupe"><div class="ghead"><span class="pts">? <small>/ 2</small></span><div><b>Illisible ou incertain</b><div class="n">2 élèves · l'IA ne propose pas de note</div></div><span class="etat e-mod">À corriger vous-même</span></div></div>
+<div class="bas"><span>Les noms s'affichent seulement sur cet appareil, après déverrouillage.</span><button class="btn plein">Question suivante</button></div>
+</section>
+<aside>
+<div class="carte grille"><h3 class="serif">Barème de la question</h3>
+<div class="crit"><b>Accord en genre et en nombre</b><span>2</span><div style="color:var(--doux);font-size:12px">avec le COD placé avant l'auxiliaire avoir</div></div>
+<div class="crit">Un seul des deux accords<span>1</span></div>
+<div class="crit">Aucun accord<span>0</span></div>
+<div class="crit" style="color:var(--doux)">Orthographe d'usage<span>non comptée</span></div>
+<button class="btn" style="margin-top:10px">Modifier le barème</button>
+<div class="note">Changer une valeur du barème recalcule toutes les copies déjà validées de cette question. Vos modifications sont conservées.</div>
+</div>
+<div class="carte" style="margin-top:16px"><h3 class="serif">Tendance</h3><div style="font-size:13px">11 élèves sur 24 réussissent l'accord. Le féminin est l'erreur la plus fréquente.</div><button class="btn" style="margin-top:12px">Préparer une activité de récupération</button></div>
+</aside>
+</div></main></body></html>
