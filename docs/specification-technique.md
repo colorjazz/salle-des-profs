@@ -176,21 +176,19 @@ Chargé depuis `donnees/*.json`. Chaque ligne garde la version de la source.
 | Fournisseur de l'IA, circuit Correction | **À mesurer** : Gemini à Montréal contre Azure OpenAI au Québec (Canada Est), sur la vérité de terrain de `tools/surlignages`. Le code passe par une interface de fournisseur unique. |
 | La 1.0 | **Continue**, comme correcteur rapide sans compte. Montréal devient son réglage par défaut. |
 | Modèle d'affaires de la 2.0 | **Abonnement vendu aux centres de services** |
-| Code | **[Recommandé] Deux Workers** qui partagent un module de correction (voir 11) |
+| Code | **Deux dépôts séparés** (décision du 9 novembre au soir) : la 2.0 part d'une copie du code de correction de la 1.0 (voir 11) |
 
-## 11. Deux Workers et un module partagé
+## 11. Deux dépôts séparés
 
 ```
-bombe/
-  partage/correction/     prompts, appel au fournisseur, normalisation, langue, redressement
-  correcteur/             1.0 : Worker correcteur-express, D1, Stripe, AI Studio ou Montréal
-  salle-des-profs/        2.0 : Worker salle-des-profs, Supabase, Montréal seulement
+colorjazz/bombe            1.0 : correcteur/ (Worker correcteur-express), partage/correction/
+colorjazz/salle-des-profs  2.0 : ce dépôt ; correction/ est une copie de partage/correction/
 ```
 
-- Chaque Worker importe `partage/correction/`. Wrangler regroupe les fichiers au déploiement : aucune étape de compilation à ajouter.
-- **Le Worker de la 2.0 ne reçoit jamais la clé d'AI Studio.** Même un bogue ne peut pas envoyer une copie hors de Montréal.
-- Déploiements indépendants : une mise à jour de la 2.0 ne peut pas briser la 1.0 et ses clients payants.
-- Prérequis : réunir la 1.0 et la 2.0 sur une même branche (`main`), puis changer la branche de production de la 1.0 dans Cloudflare. À faire avec soin, une seule fois.
+- Le Worker de la 2.0 sera déployé depuis ce dépôt. **Il ne reçoit jamais la clé d'AI Studio** : même un bogue ne peut pas envoyer une copie hors de Montréal.
+- La 1.0 et la 2.0 évoluent indépendamment. Un correctif utile aux deux se reporte à la main.
+- Pourquoi : le 9 novembre, deux sessions qui modifiaient le même dépôt ont créé un conflit, et le déplacement du code dans un module partagé a causé une panne de 15 minutes de la correction de la langue. La 2.0 va de toute façon transformer le code de correction en profondeur.
+- Pour les TI d'un centre de services : un dépôt qui ne contient que Salle des profs est plus simple à examiner.
 
 ## 12. Abonnement aux centres de services : ce que ça implique
 
