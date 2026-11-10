@@ -1,0 +1,98 @@
+<!DOCTYPE html><html lang="fr"><head><meta charset="utf-8"><title>Salle des profs — Correction copie par copie</title>
+<style>
+:root{--papier:#faf7f1;--carte:#fffdf9;--encre:#33302b;--doux:#8a8278;--ligne:#ebe4d8;--terre:#b0704f;--terre-p:#f6e4d8;--sauge:#55745d;--sauge-p:#e4ece5;
+--acc:#b0704f;--usa:#4f6f8f;--pon:#55745d;--syn:#7c6fa8;--voc:#b08a3e}
+*{box-sizing:border-box}body{margin:0;background:var(--papier);color:var(--encre);font-family:"Segoe UI",system-ui,sans-serif;font-size:14px;line-height:1.5}
+.serif{font-family:Georgia,"DejaVu Serif",serif}
+header{max-width:1280px;margin:0 auto;padding:22px 32px 0;display:flex;align-items:baseline;gap:34px;border-bottom:1px solid var(--ligne)}
+.logo{font-size:21px;padding-bottom:16px}.logo i{color:var(--terre)}
+nav{display:flex;gap:24px}nav a{padding-bottom:16px;color:var(--doux);text-decoration:none;border-bottom:2px solid transparent}nav a.on{color:var(--encre);border-color:var(--terre)}
+.moi{margin-left:auto;color:var(--doux);font-size:13px}
+main{max-width:1280px;margin:0 auto;padding:24px 32px 40px}
+.fil{color:var(--doux);font-size:13px}
+.titre{display:flex;align-items:flex-end;justify-content:space-between;margin:6px 0 20px}
+.titre h1{font-size:28px;font-weight:400;margin:0}
+.modes{display:flex;gap:4px;background:var(--carte);border:1px solid var(--ligne);border-radius:20px;padding:3px}
+.modes span{padding:6px 14px;border-radius:20px;font-size:13px;color:var(--doux)}.modes span.on{background:var(--encre);color:var(--papier)}
+.trois{display:grid;grid-template-columns:200px 1fr 380px;gap:20px;align-items:start}
+.carte{background:var(--carte);border:1px solid var(--ligne);border-radius:14px;padding:18px}
+.carte h3{font-size:17px;font-weight:400;margin:0 0 12px}
+.el{display:flex;justify-content:space-between;align-items:center;padding:8px 10px;border-radius:9px;font-size:13px;white-space:nowrap;gap:6px}
+.el.on{background:var(--terre-p)}.el small{font-size:11px;color:var(--doux)}.el .v{color:var(--sauge)}
+.copiehead{display:flex;justify-content:space-between;align-items:center;margin-bottom:10px}
+.copiehead b{font-size:16px;font-weight:600}.copiehead span{color:var(--doux);font-size:13px}
+.legende{display:flex;gap:8px;flex-wrap:wrap;margin-bottom:12px}
+.cat{font-size:12px;padding:3px 10px;border-radius:20px;border:1.5px solid var(--c);color:var(--c);background:#fff}
+.page{position:relative;background:#fff;border:1px solid #e6e0d4;border-radius:6px;padding:26px 30px 26px 64px;
+ background-image:repeating-linear-gradient(#fff 0 33px,#d7e0ec 33px 34px);background-position:0 18px;box-shadow:0 8px 24px -18px rgba(0,0,0,.35)}
+.page:before{content:"";position:absolute;left:48px;top:0;bottom:0;border-left:1.5px solid #e9b8b8}
+.nom{position:absolute;top:8px;left:64px;right:30px;height:22px;background:repeating-linear-gradient(45deg,#ece6da 0 8px,#f4efe6 8px 16px);border-radius:3px;font-size:11px;color:var(--doux);padding:2px 10px}
+.manus{font-family:"DejaVu Serif",Georgia,serif;font-style:italic;color:#24427e;font-size:18px;line-height:34px;margin-top:20px}
+.f{position:relative;border-bottom:2.5px solid var(--c);background:color-mix(in srgb,var(--c) 12%,transparent);border-radius:2px;padding:0 1px}
+.f sup{font-style:normal;font-family:"Segoe UI",sans-serif;font-size:10px;font-weight:700;color:var(--c);margin-left:2px}
+.marge{position:absolute;left:6px;font-size:10px;color:var(--terre);font-family:"Segoe UI",sans-serif;font-style:normal;width:38px;text-align:center;line-height:1.1}
+.faute-liste{margin-top:14px}
+.fl{display:grid;grid-template-columns:22px 1fr auto;gap:10px;align-items:center;padding:8px 0;border-top:1px dashed var(--ligne);font-size:13px}
+.fl i{width:10px;height:10px;border-radius:50%;background:var(--c);display:block;margin-left:6px}
+.fl s{color:var(--doux)}.fl small{color:var(--doux);font-size:11.5px}
+.btn{border:1px solid var(--encre);background:none;border-radius:20px;padding:6px 14px;font-size:12px;color:var(--encre);white-space:nowrap}.btn.plein{background:var(--encre);color:var(--papier)}
+.crit{padding:11px 0;border-top:1px dashed var(--ligne)}.crit:first-of-type{border:0;padding-top:0}
+.ct{font-size:13px;font-weight:600;line-height:1.35}.ct em{font-weight:400;font-style:normal;color:var(--doux);font-size:11px;margin-left:6px}
+.crit.retro .ct{font-weight:500;color:var(--doux)}
+.cotes{display:flex;gap:5px;margin:6px 0 4px}
+.cote{width:30px;height:26px;border-radius:7px;border:1px solid var(--ligne);display:grid;place-items:center;font-size:12.5px;color:var(--doux);background:#fff}
+.cote.on{background:var(--encre);border-color:var(--encre);color:var(--papier);font-weight:600}
+.cj{font-size:12px;color:var(--doux);line-height:1.4}
+.res{display:flex;justify-content:space-between;align-items:baseline;margin-top:12px;padding-top:12px;border-top:1px solid var(--ligne)}
+.res b{font-size:26px;font-weight:400;font-family:Georgia,"DejaVu Serif",serif}.res span{color:var(--doux);font-size:12.5px}
+.comm{margin-top:16px}
+.comm .lab{font-size:12px;letter-spacing:.08em;text-transform:uppercase;color:var(--doux);margin-bottom:6px}
+.bulle{border:1px solid var(--ligne);background:#fff;border-radius:10px;padding:10px 12px;font-size:13px;margin-bottom:8px}
+.bulle b{color:var(--sauge)}.bulle.d b{color:var(--terre)}
+.nav2{display:flex;justify-content:space-between;align-items:center;margin-top:16px}
+</style></head><body>
+<header><div class="logo serif">Salle des <i>profs</i></div>
+<nav><a href="#">Accueil</a><a href="#">Planifier</a><a href="#">Créer</a><a class="on" href="#">Évaluer</a><a href="#">Observer</a></nav>
+<div class="moi">Marie Gagnon</div></header>
+<main>
+<div class="fil">Évaluer · Production écrite : le récit d'aventure · 4e année, groupe 41</div>
+<div class="titre"><h1 class="serif">Valider la correction</h1>
+<div class="modes"><span>Question par question</span><span class="on">Copie par copie</span></div></div>
+<div class="trois">
+<aside class="carte"><h3 class="serif">Copies</h3>
+<div class="el"><span>Léa Tremblay</span><small class="v">validée</small></div>
+<div class="el"><span>Noah Gagné</span><small class="v">validée</small></div>
+<div class="el on"><span><b>Zoé Bouchard</b></span><small>3 / 24</small></div>
+<div class="el"><span>Liam Roy</span><small>à valider</small></div>
+<div class="el"><span>Emma Côté</span><small>à valider</small></div>
+<div class="el"><span>Félix Morin</span><small>à valider</small></div>
+<div class="el" style="color:var(--doux)"><span>18 autres</span></div>
+</aside>
+<section>
+<div class="copiehead"><b>Zoé Bouchard</b><span>copie 12 · 1 page · lisibilité bonne</span></div>
+<div class="legende"><span class="cat" style="--c:var(--acc)">Accords 6</span><span class="cat" style="--c:var(--usa)">Orthographe d'usage 1</span><span class="cat" style="--c:var(--pon)">Ponctuation 0</span><span class="cat" style="--c:#a49c90">Non comptées 1</span><span class="cat" style="--c:var(--syn)">Syntaxe 0</span><span class="cat" style="--c:var(--voc)">Vocabulaire 1</span></div>
+<div class="page"><div class="nom">Nom masqué avant l'envoi à l'IA</div>
+<div class="manus">
+Il était une fois un garçon qui s'appelait Max. Un jour, il partit dans la <span class="f" style="--c:var(--usa)">foret<sup>U</sup></span> avec ses <span class="f" style="--c:var(--acc)">ami<sup>G</sup></span>.
+<span class="f" style="--c:#a49c90">Soudain<sup>·</sup></span> <span class="f" style="--c:var(--acc)">il<sup>G</sup></span> entendirent un bruit étrange. Les arbres <span class="f" style="--c:var(--acc)">bougeait<sup>G</sup></span>.<br>
+Max a dit : « On va voir ! » Ils ont <span class="f" style="--c:var(--acc)">marcher<sup>G</sup></span> longtemps et ils ont trouvé une caverne pleine de pierres <span class="f" style="--c:var(--acc)">brillante<sup>G</sup></span>.
+<span class="f" style="--c:var(--acc)">Ils était<sup>G</sup></span> très contents. Léo a <span class="f" style="--c:var(--voc)">dit<sup>V</sup></span> : « C'est un trésor ! »
+</div></div>
+<div class="carte faute-liste"><h3 class="serif" style="margin-bottom:4px">Fautes relevées</h3>
+<div class="fl" style="--c:var(--acc)"><i></i><span><s>ses ami</s> → ses <b>amis</b> <small>· accord du nom (déterminant pluriel)</small></span><button class="btn">Retirer</button></div>
+<div class="fl" style="--c:var(--acc)"><i></i><span><s>il entendirent</s> → <b>ils</b> entendirent <small>· accord sujet et verbe</small></span><button class="btn">Retirer</button></div>
+<div class="fl" style="--c:#a49c90;color:var(--doux)"><i></i><span>Soudain<b>,</b> <small>· virgule après un complément en tête de phrase · <b>non comptée</b> : notion vue à partir de la 5e année (PDA, FRA-SYN-024)</small></span><button class="btn">Compter quand même</button></div>
+<div class="fl" style="--c:var(--voc)"><i></i><span><b>dit</b>, deux fois <small>· suggestion : s'écria, demanda</small></span><button class="btn">Retirer</button></div>
+<div class="fl" style="color:var(--doux)"><span></span><span>5 autres fautes comptées · <a href="#" style="color:var(--terre)">tout afficher</a></span><button class="btn">+ Ajouter une faute</button></div>
+</div>
+</section>
+<aside class="carte"><h3 class="serif">Grille : Écrire des textes variés</h3>
+<div class="crit"><div class="ct">Adaptation à la situation d'écriture</div><div class="cotes"><span class="cote">A</span><span class="cote on">B</span><span class="cote">C</span><span class="cote">D</span><span class="cote">E</span></div><div class="cj">Le sujet et l'intention sont respectés ; le destinataire est peu pris en compte.</div></div><div class="crit"><div class="ct">Cohérence du texte</div><div class="cotes"><span class="cote">A</span><span class="cote on">B</span><span class="cote">C</span><span class="cote">D</span><span class="cote">E</span></div><div class="cj">Les idées suivent l'ordre du récit ; deux paragraphes, transitions simples (« Un jour », « Soudain »).</div></div><div class="crit"><div class="ct">Utilisation d'un vocabulaire approprié</div><div class="cotes"><span class="cote">A</span><span class="cote">B</span><span class="cote on">C</span><span class="cote">D</span><span class="cote">E</span></div><div class="cj">Vocabulaire juste mais répétitif : « dit » deux fois, « très » trois fois.</div></div><div class="crit"><div class="ct">Construction des phrases et ponctuation appropriées</div><div class="cotes"><span class="cote">A</span><span class="cote on">B</span><span class="cote">C</span><span class="cote">D</span><span class="cote">E</span></div><div class="cj">Phrases bien construites et ponctuées. La virgule après « Soudain » n'est pas comptée : notion vue en 5e.</div></div><div class="crit"><div class="ct">Respect des normes relatives à l'orthographe d'usage et à l'orthographe grammaticale</div><div class="cotes"><span class="cote">A</span><span class="cote">B</span><span class="cote">C</span><span class="cote on">D</span><span class="cote">E</span></div><div class="cj">6 fautes d'accord dans le groupe du nom et entre le sujet et le verbe ; 1 faute d'orthographe d'usage.</div></div><div class="crit retro"><div class="ct">Qualité de la présentation<em>rétroaction seulement</em></div><div class="cotes"><span class="cote on">A</span><span class="cote">B</span><span class="cote">C</span><span class="cote">D</span><span class="cote">E</span></div><div class="cj">Écriture lisible, mise en page soignée.</div></div><div class="crit retro"><div class="ct">Recours à des stratégies appropriées<em>rétroaction seulement</em></div><div class="cotes"><span class="cote">A</span><span class="cote on">B</span><span class="cote">C</span><span class="cote">D</span><span class="cote">E</span></div><div class="cj">Utilise ses stratégies de révision en partie.</div></div>
+<div class="res"><span>Résultat proposé pour cette copie</span><b>76 %</b></div>
+<div class="comm"><div class="lab">Commentaire pour l'élève</div>
+<div class="bulle"><b>Une force :</b> ton récit a un vrai début et un événement qui accroche (« un bruit étrange »).</div>
+<div class="bulle d"><b>Un défi :</b> vérifie l'accord du verbe avec son sujet : « ils étaient », « les arbres bougeaient ».</div>
+<button class="btn">Réécrire le commentaire</button></div>
+</aside></div>
+<div class="nav2"><button class="btn">← Copie précédente</button><span style="color:var(--doux);font-size:12.5px">L'IA propose, vous décidez : chaque cote et chaque faute se modifie.</span><div style="display:flex;gap:8px"><button class="btn plein">Valider et passer à la suivante →</button></div></div>
+</main></body></html>
