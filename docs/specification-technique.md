@@ -148,24 +148,34 @@ Chargé depuis `donnees/*.json`. Chaque ligne garde la version de la source.
 - **Lien vers Créer :** chaque tendance mène à une activité de récupération ciblée sur le savoir concerné.
 - **Exportation :** Excel au format d'importation de Mozaïk, si ce format est confirmé (voir la tâche Gemini 06).
 
-### Règles du bulletin à respecter (recherche du 10 novembre, `gemini/resultats/bulletin-regime-pedagogique.md`)
+### Règles du bulletin à respecter (recherche du 10 novembre, version 2 : `gemini/resultats/bulletin-regime-pedagogique-v2.txt`)
 
-Fiables (concordent avec le Régime pédagogique) :
-- **Trois étapes**, pondérées **20 %, 20 %, 60 %** dans le résultat final. Bulletins au plus tard le 20 novembre, le 15 mars et le 10 juillet ; première communication au plus tard le 15 octobre.
-- **Résultat disciplinaire** = somme pondérée des compétences, selon le cadre d'évaluation. Les pondérations viennent de `donnees/cadre-*.json` (vérifiées dans les PDF), **pas** de la recherche Gemini, qui donne des valeurs approximatives.
-- **Pourcentages entiers** au bulletin (arrondi au plus proche) ; **moyenne du groupe** calculée sur les résultats non arrondis, puis arrondie.
-- **Épreuves ministérielles** : elles n'entrent pas dans les étapes, seulement dans le résultat final (environ 20 % au primaire, jusqu'à 50 % en 4e et 5e secondaire). À confirmer par discipline avant de l'implanter.
-- Seuil de réussite : 60 %.
+La version 2 remplace la première (moins précise, gardée pour mémoire). Ses pondérations du primaire concordent avec `donnees/cadre-*.json`, vérifiées dans les PDF.
 
-Erreurs relevées dans la recherche, à ne pas reprendre :
-- « Éthique et culture religieuse » : remplacé par **Culture et citoyenneté québécoise**.
-- Compétence 2 de mathématique : son nom officiel est « Raisonner à l'aide de concepts et de processus mathématiques ».
-- Les « règles logicielles » proposées (bloquer la validation, 0 % en cas d'absence) ne viennent pas du Régime pédagogique : ce sont des choix locaux.
+**Calculs (Régime pédagogique, art. 30.2)**
+1. Résultat d'une compétence à une étape : jugement de l'enseignante, en %, appuyé sur le cadre d'évaluation. Aucune formule de moyenne des travaux n'est imposée : chaque école fixe ses normes et modalités.
+2. Résultat disciplinaire d'une étape : moyenne pondérée des compétences **évaluées à cette étape** (poids du cadre, renormalisés).
+3. Résultat final d'une compétence : 20 % étape 1 + 20 % étape 2 + 60 % étape 3. Si une étape n'a pas de résultat, les poids sont ramenés sur 100 (par exemple 25 % et 75 %).
+4. Résultat disciplinaire final : moyenne pondérée des **résultats finaux des compétences**, et non la moyenne des résultats disciplinaires d'étape. C'est une erreur fréquente à éviter.
+5. Calculs en pleine précision, arrondi à l'unité **seulement à l'affichage**. La moyenne du groupe est obligatoire pour chaque matière.
 
-Conséquences pour Salle des profs :
-- Le tableau de bord calcule des **résultats proposés**. Le bulletin officiel reste dans Mozaïk : on exporte, on ne remplace pas.
-- Chaque école a ses **normes et modalités d'évaluation**, qui changent la façon de combiner les évaluations à l'intérieur d'une étape. L'enseignante doit pouvoir régler la pondération de ses évaluations.
-- Prévoir les **élèves avec un plan d'intervention** (exemptions, adaptations) et les **commentaires sur les compétences transversales** aux étapes 1 et 3 : l'IA pourrait en proposer un brouillon à partir des copies.
+**Au primaire, seuls le français, la langue seconde et la mathématique** ont un résultat par compétence au bulletin. Les autres matières n'ont qu'un résultat disciplinaire.
+
+**Épreuves ministérielles**
+- Primaire (4e et 6e) et 2e secondaire : 20 % du résultat final de la compétence visée, corrigées à l'école.
+- 4e et 5e secondaire : 50 %, avec conversion, modération par le Ministère et règle du meilleur résultat. La note de l'école reste donc **provisoire** ; le résultat officiel est sur le relevé des apprentissages.
+
+**Ne rien coder en dur.** Les poids d'étape et d'épreuve ont changé quatre fois de 2020 à 2024. Prévoir une **table de paramètres par année scolaire** (poids d'étape, poids d'épreuve, dates limites, matières exemptées d'un résultat à l'étape 1 ou 2) et des **règles paramétrables par école** (nombre minimal d'évaluations, épreuves locales).
+
+**Libellés.** Le bulletin utilise des libellés abrégés, différents des noms du programme (par exemple « Utiliser un raisonnement mathématique » au bulletin pour « Raisonner à l'aide de concepts et de processus mathématiques »). Garder les deux dans le référentiel.
+
+**Fonctionnalités qui en découlent**
+- **Alerte « élève à risque »** : l'art. 29.2 oblige à informer les parents au moins une fois par mois quand un élève risque de ne pas atteindre 60 %. Le tableau de bord peut le signaler.
+- **Commentaires de la section 3** (jugement critique, organisation du travail, communication, travail en équipe) : en 2026-2027, un seul commentaire suffit, à l'étape la plus appropriée. L'IA peut en proposer un brouillon.
+- **Élèves avec un plan d'intervention ou en francisation** : exemptions possibles ; commentaire obligatoire quand les attentes sont modifiées.
+- **Exportation** vers Mozaïk : on propose des résultats, le bulletin officiel reste dans Mozaïk.
+
+**À valider avant de coder** : annexes V à VII du Régime pédagogique (formulaires du bulletin), cadres CST/TS/SN et CCQ, calcul de la moyenne de groupe et de l'arrondi avec le centre de services pilote.
 
 ## 8. Sécurité
 

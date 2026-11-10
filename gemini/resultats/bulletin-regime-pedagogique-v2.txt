@@ -1,0 +1,418 @@
+RÈGLES DU BULLETIN UNIQUE ET DE L'ÉVALUATION — QUÉBEC (primaire et secondaire, secteur public, formation générale des jeunes)
+Document de référence pour la conception d'un tableau de bord d'évaluation
+Préparé le 10 novembre 2026 — année scolaire visée : 2026-2027
+
+======================================================================
+SOURCES PRINCIPALES ET VERSIONS CONSULTÉES
+======================================================================
+[RP]  Régime pédagogique de l'éducation préscolaire, de l'enseignement primaire et de
+      l'enseignement secondaire, RLRQ c. I-13.3, r. 8 — version à jour au 1er juillet 2026.
+      https://www.legisquebec.gouv.qc.ca/fr/document/rc/I-13.3,%20r.%208
+[IA]  Instruction annuelle de la ministre, Formation générale des jeunes, 2026-2027
+      (approuvée le 21 août 2026).
+      https://cdn-contenu.quebec.ca/cdn-contenu/adm/min/education/publications-adm/education/instruction-annuelle/Instruction-annuelle-2026-2027.pdf
+[POND-P] Pondérations et libellés du bulletin au préscolaire et au primaire (Québec.ca,
+      page mise à jour le 30 octobre 2026).
+      https://www.quebec.ca/education/prescolaire-primaire-et-secondaire/programmes-formations-evaluation/epreuves-ministerielles-evaluation-apprentissages/ponderations-libelles-bulletin/prescolaire-primaire
+[POND-S] Pondérations et libellés du bulletin au secondaire (Québec.ca, mise à jour le
+      30 octobre 2026).
+      https://www.quebec.ca/education/prescolaire-primaire-et-secondaire/programmes-formations-evaluation/epreuves-ministerielles-evaluation-apprentissages/ponderations-libelles-bulletin/secondaire
+[EPR] À propos des épreuves ministérielles (Québec.ca).
+      https://www.quebec.ca/education/prescolaire-primaire-et-secondaire/programmes-formations-evaluation/epreuves-ministerielles-evaluation-apprentissages/epreuves-ministerielles/a-propos
+[RF]  Résultats finaux de la 4e et 5e secondaire + Exemples de calculs (Québec.ca).
+      https://www.quebec.ca/education/prescolaire-primaire-et-secondaire/programmes-formations-evaluation/epreuves-ministerielles-evaluation-apprentissages/resultats-finaux
+      https://www.quebec.ca/education/prescolaire-primaire-et-secondaire/programmes-formations-evaluation/epreuves-ministerielles-evaluation-apprentissages/resultats-finaux/exemples-calculs
+[CADRES] Cadres d'évaluation des apprentissages (une par discipline, Québec.ca).
+      https://www.quebec.ca/education/prescolaire-primaire-et-secondaire/programmes-formations-evaluation/epreuves-ministerielles-evaluation-apprentissages/cadres-evaluation
+
+AVERTISSEMENT DE MÉTHODE
+- Les articles du RP sont PARAPHRASÉS (pas de citation intégrale). Avant de coder une
+  règle, relire le texte officiel sur LégisQuébec, ainsi que les annexes V à VII
+  (formulaires du bulletin, en PDF), que je n'ai pas pu lire en entier.
+- Légende utilisée :  [CONFIRMÉ] = lu dans une source officielle;
+  [À VÉRIFIER] = source secondaire, lecture partielle ou interprétation;
+  [VARIABLE CSS] = dépend des normes et modalités de l'école / du centre de services.
+- Les normes et modalités d'évaluation sont adoptées par chaque école (LIP, art. 96.15)
+  à l'intérieur du cadre RP + IA. Prévoir dans le logiciel un paramétrage par école.
+
+
+======================================================================
+1. ÉTAPES DE L'ANNÉE, PONDÉRATIONS ET DATES LIMITES
+======================================================================
+RÉPONSE COURTE : 3 étapes, pondérées 20 % / 20 % / 60 %. Première communication écrite
+au plus tard le 15 octobre; bulletins au plus tard le 20 novembre, le 15 mars et le
+10 juillet.  [CONFIRMÉ]
+
+Détails
+- RP, art. 29 : communication écrite autre qu'un bulletin, au plus tard le 15 octobre
+  (à l'élève lui-même s'il est majeur).
+- RP, art. 29.1 : un bulletin à la fin de chacune des trois étapes, conforme aux
+  annexes IV à VII; dates limites : 20 novembre (étape 1), 15 mars (étape 2),
+  10 juillet (étape 3). (Modifs : D. 712-2010; D. 318-2024.)
+- RP, art. 29.2 : au moins une fois par mois, information aux parents d'un élève
+  mineur lorsque ses performances laissent craindre qu'il n'atteindra pas le seuil de
+  réussite, lorsque son comportement contrevient aux règles de conduite, ou lorsque le
+  plan d'intervention le prévoit.  -> utile pour une alerte automatique « élève à risque ».
+- RP, art. 30.2 : pondération 20 % (étape 1), 20 % (étape 2), 60 % (étape 3) du
+  résultat final de chaque compétence ou volet.
+- IA 2026-2027 : la 3e étape (60 %) porte surtout sur les évaluations faites depuis la
+  fin de l'étape 2 et peut inclure les évaluations de fin d'année et les épreuves
+  imposées par l'école ou le CSS.
+- Seuil de réussite : 60 % par matière (RP, art. 28.1).  [CONFIRMÉ]
+
+[VARIABLE CSS] Les dates de début/fin d'étape sont fixées localement (ex. un CSS
+annonce pour 2026-2027 : étape 1 août-novembre, étape 2 novembre-mars, étape 3
+mars-juin, et une remise du 3e bulletin le 9 juillet 2027 — le 10 juillet 2027 tombe un
+samedi). Le RP ne fixe que des dates LIMITES de transmission.
+
+
+======================================================================
+2. CALCUL : COMPÉTENCE À UNE ÉTAPE -> RÉSULTAT DISCIPLINAIRE -> RÉSULTAT FINAL
+======================================================================
+RÉPONSE COURTE :
+  (a) Résultat de compétence à l'étape = jugement de l'enseignant, exprimé en %, appuyé
+      sur le cadre d'évaluation (le RP n'impose AUCUNE formule de moyenne des travaux).
+  (b) Résultat disciplinaire d'étape = moyenne pondérée des compétences évaluées à
+      l'étape, selon les pondérations du cadre d'évaluation.
+  (c) Résultat final d'une compétence = 20 % E1 + 20 % E2 + 60 % E3.
+  (d) Résultat disciplinaire final = moyenne pondérée des RÉSULTATS FINAUX de
+      compétence (pondérations du cadre), et NON la moyenne pondérée des trois
+      résultats disciplinaires d'étape.
+  (e) Le cas échéant, intégration de l'épreuve ministérielle (voir section 4).
+
+Fondements
+- RP, art. 30.2 : résultats de la section 2 exprimés en pourcentage; ils s'appuient
+  sur le cadre d'évaluation; pondération des étapes 20/20/60 appliquée au résultat
+  final PAR COMPÉTENCE OU PAR VOLET; le résultat disciplinaire découle des pondérations
+  des compétences du cadre.  [CONFIRMÉ]
+- LIP : l'enseignant choisit ses instruments d'évaluation (rappelé sur Québec.ca).
+- Plusieurs CSS publient des fiches « Constitution de la note au bulletin » mettant en
+  garde contre le calcul erroné « moyenne des résultats disciplinaires d'étape ».
+  [CONFIRMÉ par source secondaire]
+
+Formules à implémenter
+  Soit, pour une compétence c :  R(c,1), R(c,2), R(c,3) en %, poids d'étape p1=0,2,
+  p2=0,2, p3=0,6, et w(c) le poids de c dans le cadre (somme des w = 100 %).
+
+  Résultat disciplinaire de l'étape e :
+      RD(e) = Σ_c∈évaluées(e) w(c)·R(c,e)  /  Σ_c∈évaluées(e) w(c)
+      (renormalisation sur les seules compétences évaluées à l'étape — [À VÉRIFIER]
+       : c'est la pratique des logiciels Mozaïk/GPI; le RP ne l'écrit pas en toutes
+       lettres.)
+
+  Résultat final de la compétence c :
+      RF(c) = Σ_e∈étapes évaluées p(e)·R(c,e)  /  Σ_e∈étapes évaluées p(e)
+      -> si c n'est pas évaluée à l'étape 1 : RF = 0,25·E2 + 0,75·E3
+      -> si non évaluée à l'étape 2       : RF = 0,25·E1 + 0,75·E3
+      -> si non évaluée aux étapes 1 et 2 : RF = E3
+      (L'IA 2026-2027 parle de résultat « ramené sur 100 ».)  [CONFIRMÉ pour le
+       principe; formule = déduction arithmétique]
+
+  Résultat disciplinaire final :
+      RDF = Σ_c w(c)·RF(c)        (toutes les compétences ont un résultat à l'étape 3)
+
+  Matière sans résultat disciplinaire à l'étape 1 ou 2 (cas permis, voir section 5) :
+      le résultat final du dernier bulletin est ramené sur 100 (IA 2026-2027, 2.1).
+
+Arrondi : voir section 7. Recommandation : calculer en pleine précision et n'arrondir
+qu'à l'affichage.
+
+
+======================================================================
+3. PRIMAIRE : COMPÉTENCES AU BULLETIN, PAR DISCIPLINE ET PAR CYCLE
+======================================================================
+RÉPONSE COURTE : Résultat détaillé par compétence seulement en français, langue
+seconde et mathématique (RP, art. 30.1, par. 1). Toutes les autres matières n'ont
+qu'un résultat disciplinaire. Plusieurs compétences de programme sont fusionnées sous
+un seul libellé (ex. « Lire » = Lire des textes variés ET apprécier des œuvres
+littéraires).  [CONFIRMÉ — source : POND-P, mise à jour 30 oct. 2026]
+
+Français, langue d'enseignement
+  1er et 2e cycles : Lire 50 % | Écrire 30 % | Communiquer oralement 20 %
+  3e cycle        : Lire 40 % | Écrire 40 % | Communiquer oralement 20 %
+  Regroupement : « Lire des textes variés » + « Apprécier des œuvres littéraires »
+  = un seul libellé « Lire ».
+  Note : programme de français actualisé en version provisoire en 2025-2026 et
+  2026-2027; selon Québec.ca, les pondérations actuelles s'appliquent aussi au
+  programme provisoire pendant ces deux années.
+
+Anglais, langue seconde (programme de base)
+  1er cycle : Comprendre des textes entendus 60 % | Communiquer oralement en anglais 40 %
+  2e cycle  : Communiquer oralement en anglais 50 % | Comprendre des textes lus et
+              entendus 35 % | Écrire des textes 15 %
+  3e cycle  : Communiquer oralement en anglais 45 % | Comprendre des textes lus et
+              entendus 35 % | Écrire des textes 20 %
+
+Mathématique
+  1er cycle        : Résoudre une situation-problème 20 % | Utiliser un raisonnement
+                     mathématique 80 %
+  2e et 3e cycles  : Résoudre une situation-problème 30 % | Utiliser un raisonnement
+                     mathématique 70 %
+
+Résultat disciplinaire seulement (100 %) — compétences regroupées
+  Science et technologie (2e et 3e cycles) : 3 compétences regroupées.
+  Géographie, histoire et éducation à la citoyenneté (2e et 3e cycles) : 3 compétences.
+  Éducation physique et à la santé (1er à 3e cycle) : 3 compétences.
+  Culture et citoyenneté québécoise (1er à 3e cycle) : 1 compétence par cycle
+  (explorer / examiner / réfléchir de façon critique sur des réalités culturelles,
+  selon le cycle) — [À VÉRIFIER : libellés exacts des compétences CCQ par cycle].
+
+Arts (art dramatique, arts plastiques, danse, musique) — 1er à 3e cycle
+  Un seul résultat disciplinaire, composé de :
+  Créer/Inventer + Interpréter (regroupées) 70 % | Apprécier 30 %.
+
+Réseau anglophone / programmes particuliers (pour mémoire)
+  English Language Arts : 3 compétences ~33/33/34 %.
+  Français langue seconde, base : 40/40/20 %; immersion : 33/34/33 %.
+  ILSS (intégration linguistique, scolaire et sociale) : « S'intégrer... » regroupée avec
+  chacune des 3 compétences langagières; pondérations non affichées.  [À VÉRIFIER]
+
+Préscolaire (annexe IV) : pas de pourcentage; état du développement des compétences
+(cote/appréciation) selon le cadre de référence du programme-cycle.
+
+
+======================================================================
+4. SECONDAIRE : COMPÉTENCES AU BULLETIN ET ÉPREUVES MINISTÉRIELLES
+======================================================================
+RÉPONSE COURTE : Résultats détaillés par compétence en français, langue seconde et
+mathématique; par VOLET (Pratique 40 % / Théorie 60 %) en sciences (RP, art. 30.1,
+par. 1 et 2). Les autres matières : résultat disciplinaire seulement.
+Épreuves : primaire et 2e secondaire = 20 % du résultat final de la ou des compétences
+évaluées (RP, art. 30.3). 4e et 5e secondaire = 50 % du résultat final de la ou des
+compétences évaluées, l'autre 50 % étant la note-école MODÉRÉE (RP, art. 34).  [CONFIRMÉ]
+
+4.1 Pondérations au secondaire (POND-S, mise à jour 30 oct. 2026)
+Français, langue d'enseignement
+  1re à 4e sec. : Lire 40 % | Écrire 40 % | Communiquer oralement 20 %
+  5e sec.       : Lire 40 % | Écrire 50 % | Communiquer oralement 10 %
+Anglais, langue seconde
+  Base (1re-5e) et enrichi (1re-3e) : Communiquer oralement 40 % | Comprendre des
+  textes lus et entendus 30 % | Écrire des textes 30 %
+  Enrichi 4e-5e : 34 % | 33 % | 33 %
+Mathématique (1er et 2e cycles, incluant CST, TS et SN)
+  Résoudre une situation-problème 30 % | Utiliser un raisonnement mathématique 70 %
+  [À VÉRIFIER : la page ne distingue pas les séquences; vérifier chaque cadre CST/TS/SN.]
+Science et technologie, ATS, STE, SE, Chimie, Physique
+  Volet Pratique 40 % (Chercher des réponses/solutions + Communiquer, regroupées)
+  Volet Théorie 60 % (Mettre à profit ses connaissances + Communiquer, regroupées)
+Résultat disciplinaire seulement (100 %), compétences regroupées :
+  Géographie (1er cycle), Histoire et éducation à la citoyenneté (1er cycle),
+  Histoire du Québec et du Canada (3e-4e), Monde contemporain, Éducation financière,
+  Géographie culturelle, Histoire du 20e siècle, Éducation physique et à la santé,
+  Projet personnel d'orientation, Exploration de la formation professionnelle,
+  Sensibilisation à l'entrepreneuriat, Projet intégrateur.
+Culture et citoyenneté québécoise : Étudier des réalités culturelles 50 % + Réfléchir
+  sur des questions éthiques 50 % -> un seul résultat disciplinaire.
+Arts : Créer + Interpréter (regroupées) 70 % | Apprécier 30 % -> un seul résultat.
+Espagnol, langue tierce : 3e sec. 45/35/20 %; 4e-5e sec. 40/30/30 % (un seul libellé).
+
+4.2 Épreuves imposées par la ministre en 2026-2027 (IA 2026-2027, sections 3.2-3.3)
+  4e primaire  : Français l.e. — lecture et écriture
+  6e primaire  : Français l.e. — lecture et écriture; Anglais l.e. (réseau anglophone);
+                 Mathématique — situation-problème et raisonnement
+  2e secondaire: Français l.e. — écriture
+  4e secondaire: Histoire du Québec et du Canada; ST ou ATS — théorie;
+                 Mathématique CST/TS/SN — raisonnement mathématique
+  5e secondaire: Français l.e. — écriture; Anglais l.e.; Anglais l.s. (base : écriture
+                 et communiquer oralement; enrichi : compréhension et écriture);
+                 Français l.s. (base et enrichi)
+
+4.3 Pondération des épreuves
+  - RP, art. 30.3 (primaire, 2e sec.) : 20 % du résultat final de la ou des compétences
+    visées. Québec.ca le confirme (EPR) et un CSS l'annonce pour 2026-2027.  [CONFIRMÉ]
+    Formule : RF_final(c) = 0,80 · RF_école(c) + 0,20 · Épreuve(c)
+    Ces épreuves sont corrigées localement (pas de modération ministérielle).
+  - RP, art. 34 (4e, 5e sec., sanction) : la note-école compte pour 50 %, l'épreuve
+    pour 50 % de la compétence évaluée. Le ministère :
+      1) CONVERTIT au besoin la note d'épreuve (corrige des imperfections de l'épreuve);
+      2) MODÈRE la note-école de chaque groupe (procédé statistique; l'élève garde son
+         rang dans le groupe);
+      3) Règle du meilleur résultat : si l'épreuve convertie > note-école modérée,
+         seule l'épreuve est retenue pour la compétence.  [CONFIRMÉ — RF]
+    Formule : RF(c) = max( Épreuve_conv , 0,5·Épreuve_conv + 0,5·NoteÉcole_modérée )
+    Le résultat officiel figure sur le RELEVÉ DES APPRENTISSAGES du ministère, qui prime
+    sur le bulletin de l'école. Conséquence pour le logiciel : en 4e-5e, la note-école
+    (fin d'année) est provisoire; on ne connaît pas la modération à l'avance.
+  - Poids effectif dans la matière (exemples, déduits) :
+      Histoire QC-Can 4e : 50 % de la matière | Maths 4e (raisonnement 70 %) : 35 % |
+      ST/ATS 4e (théorie 60 %) : 30 % | Français 5e (écriture 50 %) : 25 %.
+  - Exigence supplémentaire au DES : au moins 50 % à chaque compétence de Français,
+    langue d'enseignement, 5e secondaire (RP, art. 34).  [À VÉRIFIER — paraphrase]
+  - Épreuves imposées par l'école ou le CSS : [VARIABLE CSS] — elles s'insèrent dans
+    l'étape 3 (pas de pondération fixée par le RP). Certaines normes locales en limitent
+    le poids (ex. une école : maximum 50 % de l'étape).
+
+
+======================================================================
+5. NOMBRE DE RÉSULTATS : CHAQUE COMPÉTENCE À CHAQUE ÉTAPE ?
+======================================================================
+RÉPONSE COURTE : NON pour les étapes 1 et 2; OUI pour l'étape 3.
+  - Étapes 1 et 2 : les résultats détaillés ne figurent que pour les compétences/volets
+    effectivement évalués; mais un résultat DISCIPLINAIRE est requis pour chaque
+    matière (RP, art. 30.1). [CONFIRMÉ]
+  - Étape 3 : bilan de toutes les compétences/volets du programme + résultat
+    disciplinaire + moyenne de groupe. [CONFIRMÉ]
+  - Compétence non évaluée à l'étape 1 ou 2 : son résultat final est ramené sur 100
+    (pondérations d'étape redistribuées). [CONFIRMÉ, IA 2026-2027, 2.1]
+
+Exception (IA 2026-2027, 2.1) : le résultat disciplinaire ET la moyenne de groupe
+peuvent être omis à l'étape 1 OU à l'étape 2 si le nombre d'évaluations est
+insuffisant, pour :
+  - Primaire : Culture et citoyenneté québécoise, langue seconde, éducation physique et
+    à la santé, art dramatique, arts plastiques, danse, musique;
+  - Secondaire : matières de 1re, 2e ou 3e secondaire dont le temps prescrit au RP est
+    de 100 heures ou moins.
+  Le résultat final est alors ramené sur 100.  [CONFIRMÉ]
+  [À VÉRIFIER : l'IA dit « 1re ou 2e étape » — une seule des deux, pas les deux.
+   À relire dans l'IA avant de coder une règle de validation.]
+
+[VARIABLE CSS] Exigences locales fréquentes, plus strictes que le RP : « chaque
+compétence évaluée au moins deux fois dans l'année », « au moins une compétence sur
+deux à l'étape 1 », « toutes les compétences à chaque étape » (certains programmes FMS).
+-> Prévoir un module de règles paramétrables par école.
+
+Exemptions (RP, art. 30.4; IA 2.2) : un CSS peut exempter certains élèves HDAA ou en
+accueil (francisation) des règles sur les résultats (pourcentage, moyenne de groupe,
+pondération des étapes, inclusion de l'épreuve). Les élèves à attentes modifiées ont
+un code de cours modifié et une note obligatoire au bulletin.
+
+
+======================================================================
+6. COMMENTAIRES AU BULLETIN
+======================================================================
+RÉPONSE COURTE :
+  - Section 2 (par matière) : rubrique « Commentaires » prévue au formulaire pour
+    accompagner le résultat; FACULTATIVE en général, OBLIGATOIRE pour signaler une
+    modification des attentes du PFEQ (élève HDAA).  [CONFIRMÉ, IA 2026-2027]
+  - Section 3 (compétences) : commentaires OBLIGATOIRES aux étapes 1 et 3 sur deux des
+    quatre compétences suivantes : Exercer son jugement critique, Organiser son
+    travail, Savoir communiquer, Travailler en équipe. Ce sont des compétences dites
+    « transversales » dans le PFEQ, mais le bulletin les appelle simplement
+    « compétences ». Pour 2026-2027, une modalité d'application progressive permet de
+    ne commenter qu'UNE seule de ces compétences, à l'étape jugée la plus appropriée.
+    [CONFIRMÉ pour la modalité IA; À VÉRIFIER dans l'annexe V/VI pour le libellé exact
+     de la règle « deux compétences aux étapes 1 et 3 »]
+  - Le choix des compétences commentées est [VARIABLE CSS/ÉCOLE] (normes et modalités).
+  - Pas de commentaire chiffré; pas de cote pour ces compétences.
+  - Communications mensuelles (art. 29.2) : pas un commentaire au bulletin, mais une
+    obligation distincte à suivre dans le tableau de bord.
+
+
+======================================================================
+7. ARRONDIS ET MOYENNES DE GROUPE
+======================================================================
+RÉPONSE COURTE :
+  - Le RP exige des résultats en POURCENTAGE (art. 30.2) mais ne fixe pas de règle
+    d'arrondi. L'IA 2026-2027 n'en contient pas non plus.  [CONFIRMÉ : absence]
+  - Pour le relevé des apprentissages (4e-5e sec.), Québec.ca précise que le résultat
+    final du programme est arrondi à l'unité la plus près (ex. 76,8 % -> 77 %).  [CONFIRMÉ]
+  - Pratique générale : bulletins affichés en entiers (%). [À VÉRIFIER — dépend du
+    système de gestion des élèves : Mozaïk, GPI, etc.; VARIABLE CSS]
+  - Arrondi « demi » (x,5) : non précisé officiellement. Recommandation : demi vers
+    le haut (arrondi commercial), calculs internes en décimales, arrondi uniquement à
+    l'affichage, et jamais d'arrondi intermédiaire avant le résultat final.
+  - Moyenne de groupe : obligatoire pour chaque matière (RP, art. 30.1, par. 3), au
+    bulletin d'étape et au bulletin final, sauf matières exemptées à l'étape 1 ou 2
+    (section 5) et élèves exemptés (IA 2.2.1).  [CONFIRMÉ]
+    Ce qui N'EST PAS précisé : composition du groupe (groupe-classe vs groupe-matière,
+    élèves arrivés en cours d'année, élèves exemptés exclus du calcul?), arrondi.
+    [VARIABLE CSS — à valider avec le CSS cliente]
+
+
+======================================================================
+8. CHANGEMENTS 2020-2026 AU RÉGIME PÉDAGOGIQUE (sur ces sujets)
+======================================================================
+2020-2021 — Régime pédagogique modifié pour 2020-2021 (Gazette officielle, 8 oct. 2020)
+  - Deux étapes au lieu de trois; première communication repoussée (au 20 novembre);
+    bulletins réduits à deux.  [CONFIRMÉ pour 2 bulletins]
+  - Épreuves uniques réduites (projet : 35 %), puis épreuves de fin d'année annulées.
+    [À VÉRIFIER : l'annulation n'a pas été revérifiée dans cette recherche]
+2021-2022 — Régime pédagogique modifié 2021-2022
+  - Deux bulletins, pondérés 40 % / 60 %; deux communications écrites (au plus tard
+    le 19 nov. 2021 et le 22 avril 2022).
+  - Épreuves : primaire et 2e sec. 10 % (au lieu de 20 %); 4e-5e sec. 20 % (au lieu
+    de 50 %).  [CONFIRMÉ]
+2022-2023 — Retour aux trois étapes 20/20/60 (aucune modification du RP requise).
+  Le mémoire au Conseil des ministres 2022-0082 propose de maintenir la pondération
+  réduite des épreuves (10 % / 20 %).  [À VÉRIFIER : adoption finale]
+2023 — D. 945-2023 (7 juin 2023) et D. 1675-2023 : modifications diverses (dont
+  art. 30 préscolaire et art. 34).  [À VÉRIFIER : contenu exact]
+2023-2024 — D. 318-2024 (28 février 2024; GO 13 mars 2024), contexte de grève :
+  - Bulletin de l'étape 2 repoussé au 28 mars 2024 (au lieu du 15 mars).
+  - Épreuves : primaire et 1er cycle du secondaire 10 %; 4e-5e sec. 20 %.
+  - Jours de classe minimum : 180 -> 156.  [CONFIRMÉ, mémoire 2024-0009]
+2024-2025 — Retour aux pondérations régulières (4e-5e sec. : 50 %).  [CONFIRMÉ]
+2025-2026 — Bulletin ANNUALISÉ au primaire et au 1er cycle du secondaire (projet publié
+  le 12 février 2025, entrée en vigueur visée le 1er juillet 2025) : le bulletin ne
+  présente plus les deux années du cycle sur un même formulaire. L'art. 28 consolidé
+  parle désormais du « dernier bulletin de chaque année scolaire du cycle ».
+  [CONFIRMÉ pour la version consolidée; numéro du décret final À VÉRIFIER]
+  Épreuves 2e sec. : 20 % (selon un CSS).
+2024-2026 — Culture et citoyenneté québécoise remplace Éthique et culture religieuse au
+  bulletin (pondérations CCQ affichées au primaire et au secondaire).
+2025-2027 — Programme de français actualisé en version provisoire (mise à l'essai);
+  les pondérations du bulletin ne changent pas.
+2026-2027 (année en cours) — Régime régulier : 3 étapes 20/20/60; 15 oct. / 20 nov. /
+  15 mars / 10 juillet; épreuves 20 % et 50 %; modalités progressives de l'IA
+  (omission possible d'un résultat à l'étape 1 ou 2 dans certaines matières;
+  commentaire sur une seule compétence de la section 3).
+
+IMPLICATION POUR LE LOGICIEL : les pondérations d'étape et d'épreuve ont changé quatre
+fois en six ans par règlement temporaire. Ne pas les coder en dur : table de
+paramètres par année scolaire (poids d'étape, poids d'épreuve primaire/2e sec., poids
+d'épreuve 4e-5e, dates limites, matières exemptées à l'étape 1 ou 2).
+
+
+======================================================================
+TABLEAU RÉCAPITULATIF — 2026-2027
+======================================================================
+Légende : RD = résultat disciplinaire seulement (pas de résultat détaillé par
+compétence); « + » = compétences regroupées sous un même libellé.
+Étapes, partout : 20 % / 20 % / 60 % (RP, art. 30.2).
+
+Discipline                  | Ordre         | Compétences au bulletin (libellés)                         | Pondérations
+----------------------------|---------------|------------------------------------------------------------|---------------------------
+Français l.e.               | Prim. 1er-2e c| Lire (+Apprécier) / Écrire / Communiquer oralement         | 50 / 30 / 20
+Français l.e.               | Prim. 3e c    | Lire / Écrire / Communiquer oralement                      | 40 / 40 / 20 ; épreuves 4e et 6e : 20 %
+Anglais l.s.                | Prim. 1er c   | Comprendre des textes entendus / Communiquer oralement     | 60 / 40
+Anglais l.s.                | Prim. 2e c    | Communiquer oral. / Comprendre lus+entendus / Écrire       | 50 / 35 / 15
+Anglais l.s.                | Prim. 3e c    | Communiquer oral. / Comprendre lus+entendus / Écrire       | 45 / 35 / 20
+Mathématique                | Prim. 1er c   | Résoudre / Utiliser un raisonnement                        | 20 / 80
+Mathématique                | Prim. 2e-3e c | Résoudre / Utiliser un raisonnement                        | 30 / 70 ; épreuve 6e : 20 %
+Science et technologie      | Prim. 2e-3e c | RD (3 compétences +)                                       | 100
+Géo-histoire-citoyenneté    | Prim. 2e-3e c | RD (3 compétences +)                                       | 100
+Culture et citoyenneté qc   | Prim. 1er-3e c| RD (1 compétence par cycle)                                | 100
+Arts (4 disciplines)        | Prim. 1er-3e c| RD : Créer+Interpréter / Apprécier                         | 70 / 30
+Éducation physique et santé | Prim. 1er-3e c| RD (3 compétences +)                                       | 100
+Français l.e.               | Sec. 1-4      | Lire / Écrire / Communiquer oralement                      | 40 / 40 / 20 ; épreuve 2e : 20 % (écriture)
+Français l.e.               | Sec. 5        | Lire / Écrire / Communiquer oralement                      | 40 / 50 / 10 ; épreuve écriture : 50 % + modération
+Anglais l.s. base           | Sec. 1-5      | Communiquer oral. / Comprendre lus+entendus / Écrire       | 40 / 30 / 30 ; épreuves 5e : 50 %
+Anglais l.s. enrichi        | Sec. 1-3      | idem                                                       | 40 / 30 / 30
+Anglais l.s. enrichi        | Sec. 4-5      | idem                                                       | 34 / 33 / 33 ; épreuves 5e : 50 %
+Mathématique (CST/TS/SN)    | Sec. 1-5      | Résoudre / Utiliser un raisonnement                        | 30 / 70 ; épreuve 4e (raisonnement) : 50 %
+Science et techno / ATS     | Sec. 1-4      | Volets Pratique / Théorie                                  | 40 / 60 ; épreuve 4e (théorie) : 50 %
+STE, SE, Chimie, Physique   | Sec. 4-5      | Volets Pratique / Théorie                                  | 40 / 60
+Géographie                  | Sec. 1-2      | RD (3 compétences +)                                       | 100
+Histoire et éduc. citoyen.  | Sec. 1-2      | RD (3 compétences +)                                       | 100
+Histoire du QC et du Canada | Sec. 3-4      | RD (2 compétences +)                                       | 100 ; épreuve 4e : 50 %
+Monde contemporain          | Sec. 5        | RD (2 compétences +)                                       | 100
+Éducation financière        | Sec. 5        | RD (1 compétence)                                          | 100
+Culture et citoyenneté qc   | Sec.          | RD : Étudier réalités culturelles / Réfléchir éthique      | 50 / 50
+Arts (4 disciplines)        | Sec.          | RD : Créer+Interpréter / Apprécier                         | 70 / 30
+Éducation physique et santé | Sec.          | RD (3 compétences +)                                       | 100
+PPO, Expl. FP, Entrepren.   | Sec. 2e cycle | RD (2 compétences +)                                       | 100
+Espagnol l. tierce          | Sec. 3 / 4-5  | RD : Interagir / Comprendre / Produire                     | 45/35/20 ; 40/30/30
+
+Rappels pour les épreuves dans le tableau :
+  - « 20 % » = 20 % du résultat final de la compétence visée (RP, art. 30.3), sans
+    modération.
+  - « 50 % » = 50 % de la compétence visée, avec conversion, modération et règle du
+    meilleur résultat; résultat officiel au relevé des apprentissages (RP, art. 34).
+
+POINTS À VALIDER AVANT DE CODER (résumé)
+  1. Texte exact des annexes V, VI et VII (formulaires du bulletin) — LégisQuébec.
+  2. Règle de la section 3 (deux compétences aux étapes 1 et 3) dans l'annexe.
+  3. Cadres d'évaluation CST/TS/SN et CCQ par cycle (libellés et pondérations).
+  4. Méthode de calcul de la moyenne de groupe et de l'arrondi auprès du CSS cliente.
+  5. Normes et modalités de l'école (nombre minimal d'évaluations, épreuves locales).
+  6. Chaque nouvelle Instruction annuelle (publiée en août) peut modifier les modalités.
