@@ -148,9 +148,9 @@ Chargé depuis `donnees/*.json`. Chaque ligne garde la version de la source.
 - **Lien vers Créer :** chaque tendance mène à une activité de récupération ciblée sur le savoir concerné.
 - **Exportation :** Excel au format d'importation de Mozaïk, si ce format est confirmé (voir la tâche Gemini 06).
 
-### Règles du bulletin à respecter (recherche du 10 novembre, version 2 : `gemini/resultats/bulletin-regime-pedagogique-v2.txt`)
+### Règles du bulletin à respecter (recherche du 10 novembre, version 2, faite avec Claude : `gemini/resultats/bulletin-regime-pedagogique-v2-claude.txt`)
 
-La version 2 remplace la première (moins précise, gardée pour mémoire). Ses pondérations du primaire concordent avec `donnees/cadre-*.json`, vérifiées dans les PDF.
+La version 2 (Claude) remplace la première (Gemini, moins précise, gardée pour mémoire). Ses pondérations du primaire concordent avec `donnees/cadre-*.json`, vérifiées dans les PDF.
 
 **Calculs (Régime pédagogique, art. 30.2)**
 1. Résultat d'une compétence à une étape : jugement de l'enseignante, en %, appuyé sur le cadre d'évaluation. Aucune formule de moyenne des travaux n'est imposée : chaque école fixe ses normes et modalités.
