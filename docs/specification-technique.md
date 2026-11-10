@@ -173,7 +173,7 @@ Chargé depuis `donnees/*.json`. Chaque ligne garde la version de la source.
 | Sujet | Décision |
 |---|---|
 | Comptes | **Supabase Auth** (liens magiques, connexion Microsoft, sessions), SMTP par AWS SES à Montréal |
-| Fournisseur de l'IA, circuit Correction | **À mesurer** : Gemini à Montréal contre Azure OpenAI au Québec (Canada Est), sur la vérité de terrain de `tools/surlignages`. Le code passe par une interface de fournisseur unique. |
+| Fournisseur de l'IA, circuit Correction | **Gemini sur Vertex AI à Montréal.** Azure écarté pour l'instant (recherche du 10 novembre, `gemini/resultats/azure-canada-novembre-2026.txt`) : au Canada, plus aucun modèle récent avec vision n'est offert à l'usage avec traitement garanti dans la région ; GPT-5 à Québec exige une capacité réservée de plusieurs milliers de dollars par mois. Le code garde une interface de fournisseur unique. **Piste à mesurer :** Azure AI Document Intelligence (Read) à Québec, pour placer les surlignages sur les mots exacts (environ 1,50 $ US pour 1 000 pages). |
 | La 1.0 | **Continue**, comme correcteur rapide sans compte. Montréal devient son réglage par défaut. |
 | Modèle d'affaires de la 2.0 | **Abonnement vendu aux centres de services** |
 | Code | **Deux dépôts séparés** (décision du 9 novembre au soir) : la 2.0 part d'une copie du code de correction de la 1.0 (voir 11) |

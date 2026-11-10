@@ -1,0 +1,132 @@
+RAPPORT DE VÉRIFICATION : MODÈLES D'IA AVEC VISION SUR MICROSOFT AZURE AU CANADA
+Date de vérification : Novembre 2026
+Contexte : Correction de copies manuscrites d'élèves québécois avec traitement des données garanti au Canada (idéalement au Québec).
+
+================================================================================
+RÉSUMÉ EXÉCUTIF
+================================================================================
+
+La documentation officielle de Microsoft (mise à jour entre juillet et octobre 2026) révèle un écart majeur entre la disponibilité des modèles en mode « Global Standard » et ceux disponibles en déploiement « Standard régional » (paiement au jeton avec résidence et traitement strictement garantis au Canada) :
+
+1. La région Canada Central (Toronto) n'offre AUCUN modèle en déploiement Standard régional (paiement à l'usage).
+2. Seule la région Canada East (Québec) permet le traitement régional garanti en mode Standard, mais les versions des modèles qui y étaient historiquement supportées (gpt-4o v.2024-11-20 et gpt-4.1-mini v.2025-04-14) ont atteint leur date de retrait officielle en octobre 2026.
+3. Les modèles plus récents (gpt-5, gpt-5-mini, etc.) exigent des unités de débit provisionnées (Regional Provisioned / PTU) très coûteuses pour garantir un traitement au Québec.
+
+================================================================================
+TABLEAU RÉCAPITULATIF DES MODÈLES ET SERVICES (NOVEMBRE 2026)
+================================================================================
+
+| Modèle / Service | Éditeur | Région | Type de déploiement | Traitement garanti au Canada | Vision | JSON structuré | Prix approx. (USD) | Source |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| gpt-4o (v. 2024-11-20) | OpenAI | Canada East (Québec) | Standard (Régional) [Retrait annoncé : 1er oct. 2026] | Oui (Québec) | Oui | Oui | ~2,50 $ / 1M entrée ; ~10,00 $ / 1M sortie (Image : 85 à 1105 jetons) | Microsoft Learn - Dispo régionale (4 sept. 2026) |
+| gpt-4.1-mini (v. 2025-04-14) | OpenAI | Canada East (Québec) | Standard (Régional) [Retrait annoncé : 14 oct. 2026] | Oui (Québec) | Oui | Oui | ~0,15 $ à 0,40 $ / 1M entrée ; ~0,60 $ à 1,60 $ / 1M sortie | Microsoft Learn - Dispo régionale (4 sept. 2026) |
+| gpt-4o-mini (v. 2024-07-18) | OpenAI | Canada East (Québec) | Standard (Régional) [Déploiements existants ; statut à vérifier] | Oui (Québec) | Oui | Oui | ~0,15 $ / 1M entrée ; ~0,60 $ / 1M sortie | Microsoft Learn - Dispo régionale (4 sept. 2026) |
+| Série GPT-5 (gpt-5, gpt-5-mini) | OpenAI | Canada East (Québec) | Regional Provisioned (PTU) [Aucun Standard régional à l'usage] | Oui (si PTU régional) / Non (si Global) | Oui | Oui | Engagement mensuel PTU (plusieurs milliers $/mois). Non offert au jeton en régional. | Microsoft Learn - Modèles Foundry (29 oct. 2026) |
+| Séries GPT-4.1, GPT-5, GPT-6, o3, o4-mini | OpenAI | Canada East & Canada Central | Global Standard | Non (Traitement mondial, stockage au repos au Canada) | Oui | Oui | Variable selon le modèle (tarification au jeton) | Microsoft Learn - Dispo régionale (4 sept. 2026) |
+| Claude (Anthropic), Mistral, Llama (Meta) | Partenaires | Canada East / Central | Serverless API (Non confirmé avec résidence canadienne) | Non confirmé (Généralement routé vers les régions US) | Oui (selon modèle) | Oui (selon modèle) | Variable (Tarification Marketplace / MaaS) | Microsoft Learn - Modèles partenaires (22 sept. 2026) |
+| Phi-3.5-vision / Phi-4-multimodal / Llama Vision | Microsoft / Meta | Canada East & Canada Central | Managed Compute (VM GPU dédiée) | Oui (100 % dans la VM de votre région) | Oui | Oui | Facturation à l'heure de la VM GPU (ex. série NC/ND) | Microsoft Learn - Modèles partenaires (22 sept. 2026) |
+| Azure AI Document Intelligence (Layout / Read v4.0) | Microsoft | Canada East & Canada Central | Standard (S0) | Oui (Traitement et stockage dans la région choisie) | Oui (OCR) | Oui (JSON natif) | Read : ~1,50 $ / 1 000 pages ; Layout : ~10,00 $ / 1 000 pages | Microsoft Learn - Doc Intelligence (10 juil. 2026) |
+
+================================================================================
+RÉPONSES DÉTAILLÉES AUX QUESTIONS
+================================================================================
+
+1. MODÈLES AZURE OPENAI OFFERTS DANS CANADA EAST (QUÉBEC) ET CANADA CENTRAL (TORONTO)
+--------------------------------------------------------------------------------
+A) En déploiement « Standard » (Régional, paiement au jeton) :
+- Canada Central (Toronto) : Aucun modèle de chat ou de vision n'est offert en déploiement Standard régional. Cette région ne propose que les déploiements Global Standard ou Provisioned (et la majorité des modèles récents comme gpt-4o, gpt-4.1, gpt-5 et o3 y sont même absents en Global Standard, seuls les modèles d'embeddings et le routeur de modèles y figurant).
+- Canada East (Québec) : C'est la seule région canadienne supportant les déploiements Standard régionaux. Toutefois, l'offre paiement au jeton y est en fin de cycle : les deux principaux modèles supportés sous ce mode, gpt-4o (version 2024-11-20) et gpt-4.1-mini (version 2025-04-14), avaient une date de retrait (retirement) fixée respectivement au 1er octobre 2026 et au 14 octobre 2026 (les versions précédentes 2024-05-13 et 2024-08-06 étant déjà dépréciées). Si votre abonnement n'avait pas déjà un déploiement actif avant le retrait (et sous réserve d'une éventuelle prolongation par Microsoft), il se peut que vous ne puissiez plus créer de nouveau déploiement Standard régional à l'usage aujourd'hui.
+
+B) En déploiement « Regional Provisioned Managed » (PTU - capacité réservée) :
+- Canada East (Québec) : Les modèles de nouvelle génération comme la famille gpt-5 (gpt-5, gpt-5-mini, etc.) sont disponibles avec traitement garanti au Québec UNIQUEMENT sous forme de déploiement provisionné (PTU), ce qui implique un coût fixe mensuel élevé plutôt qu'une facturation à l'usage.
+
+C) En déploiement « Global Standard » (sans garantie de traitement au Canada) :
+- Canada East donne accès à presque tout le catalogue (gpt-4o, gpt-4.1, gpt-5, gpt-5.1 à 5.6, gpt-6, o3, o4-mini), mais l'inférence peut être exécutée hors du Canada.
+
+Sources :
+- Region availability for Foundry Models sold by Azure (Mis à jour le 4 septembre 2026) : https://learn.microsoft.com/en-us/azure/foundry/foundry-models/concepts/models-sold-directly-by-azure-region-availability
+- Foundry Models sold by Azure (Mis à jour le 29 octobre 2026) : https://learn.microsoft.com/en-us/azure/foundry/foundry-models/concepts/models-sold-directly-by-azure
+
+
+2. DIFFÉRENCES ENTRE LES TYPES DE DÉPLOIEMENT (« STANDARD », « DATA ZONE », « GLOBAL »)
+--------------------------------------------------------------------------------
+- Standard (ou Standard/Regional) et Regional Provisioned : Les requêtes (prompts, images) et les réponses sont traitées à 100 % dans la région Azure sélectionnée (ex. Canada East à Québec). Les données ne quittent jamais la région. C'est le seul mode qui respecte strictement votre exigence de traitement au Canada/Québec. Microsoft déploie les nouveaux modèles dans cette catégorie en tout dernier lieu, selon la capacité matérielle libérée par le retrait des anciens modèles.
+- Data Zone Standard / Data Zone Provisioned : Le traitement est garanti à l'intérieur d'une zone géographique définie par Microsoft. Cependant, il n'existe que trois Data Zones : États-Unis (US), Union européenne (EU) et Asie-Pacifique (APAC). Il n'existe AUCUNE Data Zone pour le Canada. Ce type de déploiement n'est donc pas pertinent pour la souveraineté des données au Canada.
+- Global Standard / Global Provisioned / Global Batch : Les données stockées au repos (ex. fichiers de fine-tuning ou historiques d'assistants) restent dans la géographie canadienne, MAIS le traitement (l'inférence du modèle) peut être routé dynamiquement vers n'importe quelle région Azure dans le monde où le modèle est déployé (principalement aux États-Unis ou en Europe). Les déploiements « Global » traitent donc les données hors du Canada.
+
+Source :
+- Understanding deployment types in Microsoft Foundry Models (Mis à jour le 12 août 2026) : https://learn.microsoft.com/en-us/azure/foundry/foundry-models/concepts/deployment-types
+
+
+3. SUPPORT DE LA VISION ET DES SORTIES JSON STRUCTURÉES (STRUCTURED OUTPUTS)
+--------------------------------------------------------------------------------
+- Vision (Images) : Oui. Les séries gpt-4o, gpt-4o-mini, gpt-4.1 (gpt-4.1, gpt-4.1-mini, gpt-4.1-nano), gpt-5 et gpt-6 sont nativement multimodales et acceptent les entrées texte et image (photos de copies) via l'API Chat Completions et la Responses API. (Note : il faut éviter les déploiements text-only historiques ou les modèles purement textuels comme o3-mini).
+- Sorties JSON structurées (response_format: { type: "json_schema" }) : Oui. Tous ces modèles (à partir de gpt-4o version 2024-08-06, gpt-4o-mini, toute la série gpt-4.1 et gpt-5) supportent nativement les Structured Outputs avec validation stricte de schéma JSON, idéal pour retourner une grille de correction ou des rétroactions par question sans erreur de syntaxe.
+
+Source :
+- Foundry Models sold by Azure (Mis à jour le 29 octobre 2026) : https://learn.microsoft.com/en-us/azure/foundry/foundry-models/concepts/models-sold-directly-by-azure
+
+
+4. AUTRES MODÈLES AVEC VISION DANS MICROSOFT FOUNDRY AU CANADA (CLAUDE, MISTRAL, LLAMA, PHI)
+--------------------------------------------------------------------------------
+Dans le catalogue Microsoft Foundry, les modèles hors OpenAI se divisent en deux modes d'hébergement :
+
+1) Déploiements API sans serveur (Serverless API / Pay-as-you-go) :
+Inclut des modèles d'éditeurs partenaires comme Anthropic (Claude), Mistral AI (Pixtral / Mistral Large), Meta (Llama 3.2 / Llama 4 Vision) et Cohere. Bien qu'un projet Foundry situé dans Canada East ou Canada Central puisse parfois y accéder selon le pays de facturation de l'abonnement, les points de terminaison mutualisés (Serverless) de ces partenaires sont presque exclusivement hébergés dans les centres de données américains (East US, West US, etc.) ou européens. Le traitement au Canada n'est pas garanti en mode Serverless API pour ces modèles tiers.
+
+2) Déploiements sur calcul géré (Managed Compute / IaaS dans votre abonnement) :
+Les modèles à poids ouverts disponibles dans le catalogue Foundry — notamment Microsoft Phi (Phi-3.5-vision-instruct, Phi-4-multimodal) et Meta Llama Vision — peuvent être déployés directement sur des machines virtuelles GPU dédiées (Azure ML Managed Online Endpoints) provisionnées dans votre région (Canada East ou Canada Central). Dans ce cas, le traitement est garanti à 100 % au Canada (ou au Québec), mais vous payez la location horaire de la machine virtuelle GPU tant qu'elle est allumée, plutôt qu'un tarif au jeton.
+
+Source :
+- Foundry Models from partners and community (Mis à jour le 22 septembre 2026) : https://learn.microsoft.com/en-us/azure/foundry/foundry-models/concepts/models-from-partners
+
+
+5. AZURE AI DOCUMENT INTELLIGENCE (RECONNAISSANCE D'ÉCRITURE MANUSCRITE / OCR)
+--------------------------------------------------------------------------------
+- Disponibilité à Canada East (Québec) : Oui. Le service Azure AI Document Intelligence (anciennement Form Recognizer, intégré aux Foundry Tools) est disponible dans Canada East (Québec) ainsi que dans Canada Central (Toronto). C'est un service régional de niveau 1 : toutes les images envoyées et les résultats extraits sont traités et conservés exclusivement dans la région choisie (Canada East).
+- Support du français manuscrit : Oui. Les modèles préconstruits Read (OCR pur) et Layout (OCR + structure de page, tableaux, marques de sélection) en version v4.0 supportent intégralement l'extraction de texte imprimé et manuscrit en français (code de langue : fr).
+- Pertinence pour votre cas d'usage : Une architecture hybride très populaire au Québec consiste à utiliser Document Intelligence (modèle Read ou Layout) dans Canada East pour transcrire l'écriture manuscrite de l'élève avec ses coordonnées spatiales (bounding boxes), puis d'analyser le texte ou de le valider en complément d'un modèle de vision.
+
+Sources :
+- Language and locale support - Document Intelligence (Mis à jour le 10 juillet 2026) : https://learn.microsoft.com/en-us/azure/ai-services/document-intelligence/language-support/custom?view=doc-intel-4.0.0
+- Data Residency in Azure : https://azure.microsoft.com/en-ca/explore/global-infrastructure/data-residency
+
+
+6. POLITIQUE DE CONFIDENTIALITÉ, CONSERVATION ET ENTRAÎNEMENT DES MODÈLES (AZURE OPENAI)
+--------------------------------------------------------------------------------
+- Entraînement des modèles : Non. Microsoft garantit contractuellement que vos prompts (textes et images de copies d'élèves) et les réponses générées ne sont jamais utilisés pour entraîner, réentraîner ou améliorer les modèles de fondation d'OpenAI ou de Microsoft, et ne sont pas accessibles aux autres clients ni à OpenAI (le service tourne sur l'infrastructure isolée de Microsoft).
+- Conservation des données et surveillance des abus (Abuse Monitoring) :
+  * Par défaut : Pour détecter les usages abusifs (contenus illégaux ou dangereux), Azure OpenAI stocke temporairement de manière chiffrée les prompts, images et réponses pendant 30 jours maximum (Data stored for abuse monitoring). Ces données sont stockées au repos dans la même géographie que votre ressource (donc au Canada si la ressource est dans Canada East). En cas d'alerte déclenchée par les filtres automatiques, un réviseur humain autorisé par Microsoft peut inspecter l'échantillon.
+  * Possibilité de désactiver (Modified Abuse Monitoring / Zero Data Retention) : Oui. Les organisations qui traitent des données sensibles (comme des copies d'élèves mineurs soumises à la Loi 25 et aux règles des CSS) peuvent demander l'approbation du Modified Abuse Monitoring via un formulaire officiel Microsoft. Une fois approuvé, aucune donnée (ni prompt, ni image, ni réponse) n'est enregistrée ni conservée (0 jour de rétention, traitement purement en mémoire vive), et aucune révision humaine n'est possible.
+
+Source :
+- Data, privacy, and security for Azure OpenAI Service / Microsoft Foundry (Politique standard d'entreprise Microsoft Learn, 2026) : https://learn.microsoft.com/en-us/azure/ai-services/openai/concepts/data-privacy
+
+
+7. PRIX APPROXIMATIFS (EN USD, HORS TAXES)
+--------------------------------------------------------------------------------
+(Note : La tarification exacte en dollars canadiens fluctue selon le taux de change mensuel d'Azure sur la page officielle de tarification).
+
+- Facturation des images (Vision OpenAI) : Azure OpenAI ne facture pas un prix fixe par image, mais convertit chaque image en jetons d'entrée selon sa résolution et le paramètre "detail" :
+  * detail: "low" : coût fixe de 85 jetons par image.
+  * detail: "high" (requis pour lire une page manuscrite) : l'image est redimensionnée puis découpée en tuiles de $512 \times 512$ pixels (170 jetons par tuile + 85 jetons de base). Une photo de copie complète (ex. ratio $8,5'' \times 11''$ ou $1080 \times 1920$) consomme généralement entre 765 et 1 105 jetons d'entrée par page (soit environ 0,002 $ à 0,003 $ USD par copie avec un modèle de classe gpt-4o, ou moins de 0,0005 $ USD avec un modèle mini).
+
+- Tarifs par million de jetons (Déploiement Standard, USD) :
+  * gpt-4o : ~2,50 $ / 1M jetons d'entrée | ~10,00 $ / 1M jetons de sortie.
+  * gpt-4o-mini / gpt-4.1-mini : ~0,15 $ à 0,40 $ / 1M jetons d'entrée | ~0,60 $ à 1,60 $ / 1M jetons de sortie.
+  * gpt-5 (en mode PTU régional à Canada East) : Facturé à l'heure par unité de débit provisionnée (PTU), avec un minimum de PTU requis selon le modèle (représentant généralement un engagement de plusieurs milliers de dollars par mois, peu adapté à une charge de travail variable sauf à très grand volume).
+  * Azure AI Document Intelligence (OCR) : ~1,50 $ USD par tranche de 1 000 pages (modèle Read) ou ~10,00 $ USD par 1 000 pages (modèle Layout, soit 0,01 $ par page).
+
+Source :
+- Azure OpenAI Service Pricing : https://azure.microsoft.com/en-ca/pricing/details/azure-openai/
+
+
+================================================================================
+SYNTHÈSE POUR VOTRE ARCHITECTURE AU QUÉBEC
+================================================================================
+
+Contrairement à Google Vertex AI à Montréal (northamerica-northeast1) qui offre l'accès aux modèles Gemini récents en paiement à l'usage avec résidence garantie, Microsoft Azure au Canada souffre actuellement d'un goulot d'étranglement sur les déploiements « Standard régionaux » (paiement au jeton) :
+
+1. Canada Central (Toronto) n'offre aucun modèle en mode Standard régional.
+2. Canada East (Québec) a vu ses modèles Standard régionaux (gpt-4o v.2024-11-20 et gpt-4.1-mini v.2025-04-14) atteindre leur échéance de retrait en octobre 2026, tandis que la gamme gpt-5 n'y est offerte avec garantie régionale qu'en mode Provisioned (PTU) très onéreux.
+3. Avant de migrer votre pipeline d'évaluation vers Azure, il est donc impératif d'ouvrir le portail Microsoft Foundry (Operate -> Quota) dans un abonnement Azure actif pour vérifier quel modèle remplaçant Microsoft autorise présentement en déploiement Standard (Regional) dans Canada East sans exiger de PTU, ou d'évaluer l'utilisation d'Azure AI Document Intelligence à Canada East pour l'OCR du manuscrit.

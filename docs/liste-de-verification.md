@@ -66,6 +66,13 @@
 - [ ] Tableau de bord : **progression des compétences** par élève et par groupe
 - [ ] Pas de détecteur d'IA
 
+## Fournisseur de l'IA (recherche Azure du 10 novembre)
+- [x] Azure OpenAI au Canada : écarté pour l'instant. Les modèles à l'usage avec traitement garanti à Québec (gpt-4o, gpt-4.1-mini) ont été retirés en octobre 2026 ; GPT-5 à Québec seulement en capacité réservée (plusieurs milliers $/mois) ; Toronto n'offre rien en régional.
+- [x] Fournisseur retenu : **Gemini sur Vertex AI à Montréal**
+- [ ] À vérifier dans le portail Azure avant de clore (la disponibilité change souvent) : un modèle remplaçant en déploiement Standard régional à Canada East ?
+- [ ] Piste : **Azure AI Document Intelligence (Read) à Québec** pour placer les surlignages exactement sur les mots (boîtes de chaque mot manuscrit). Ajoute un sous-traitant (Microsoft) à l'EFVP. À mesurer avec `tools/surlignages` de la 1.0.
+- [ ] Si Azure est utilisé un jour : demander la surveillance des abus modifiée (aucune conservation des copies)
+
 ## Phases
 - [ ] **Première version :** groupes chiffrés, évaluation imprimable avec QR, numérisation, correction IA validée par l'enseignante, connexion Microsoft et courriel, OneDrive
 - [ ] **Phase 2 :** tableau de bord des compétences, importation des groupes par Microsoft
