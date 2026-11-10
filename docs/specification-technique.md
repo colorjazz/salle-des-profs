@@ -148,6 +148,25 @@ Chargé depuis `donnees/*.json`. Chaque ligne garde la version de la source.
 - **Lien vers Créer :** chaque tendance mène à une activité de récupération ciblée sur le savoir concerné.
 - **Exportation :** Excel au format d'importation de Mozaïk, si ce format est confirmé (voir la tâche Gemini 06).
 
+### Règles du bulletin à respecter (recherche du 10 novembre, `gemini/resultats/bulletin-regime-pedagogique.md`)
+
+Fiables (concordent avec le Régime pédagogique) :
+- **Trois étapes**, pondérées **20 %, 20 %, 60 %** dans le résultat final. Bulletins au plus tard le 20 novembre, le 15 mars et le 10 juillet ; première communication au plus tard le 15 octobre.
+- **Résultat disciplinaire** = somme pondérée des compétences, selon le cadre d'évaluation. Les pondérations viennent de `donnees/cadre-*.json` (vérifiées dans les PDF), **pas** de la recherche Gemini, qui donne des valeurs approximatives.
+- **Pourcentages entiers** au bulletin (arrondi au plus proche) ; **moyenne du groupe** calculée sur les résultats non arrondis, puis arrondie.
+- **Épreuves ministérielles** : elles n'entrent pas dans les étapes, seulement dans le résultat final (environ 20 % au primaire, jusqu'à 50 % en 4e et 5e secondaire). À confirmer par discipline avant de l'implanter.
+- Seuil de réussite : 60 %.
+
+Erreurs relevées dans la recherche, à ne pas reprendre :
+- « Éthique et culture religieuse » : remplacé par **Culture et citoyenneté québécoise**.
+- Compétence 2 de mathématique : son nom officiel est « Raisonner à l'aide de concepts et de processus mathématiques ».
+- Les « règles logicielles » proposées (bloquer la validation, 0 % en cas d'absence) ne viennent pas du Régime pédagogique : ce sont des choix locaux.
+
+Conséquences pour Salle des profs :
+- Le tableau de bord calcule des **résultats proposés**. Le bulletin officiel reste dans Mozaïk : on exporte, on ne remplace pas.
+- Chaque école a ses **normes et modalités d'évaluation**, qui changent la façon de combiner les évaluations à l'intérieur d'une étape. L'enseignante doit pouvoir régler la pondération de ses évaluations.
+- Prévoir les **élèves avec un plan d'intervention** (exemptions, adaptations) et les **commentaires sur les compétences transversales** aux étapes 1 et 3 : l'IA pourrait en proposer un brouillon à partir des copies.
+
 ## 8. Sécurité
 
 - En-têtes de sécurité stricts (CSP, HSTS), cookies `HttpOnly`, `Secure` et `SameSite`.
