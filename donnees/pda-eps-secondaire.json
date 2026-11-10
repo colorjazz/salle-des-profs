@@ -1,0 +1,2847 @@
+{
+  "discipline": "Éducation physique et à la santé",
+  "code_discipline": "EPS",
+  "ordre": "secondaire",
+  "source": "PFEQ-progression-apprentissages-education-physique-secondaire.pdf",
+  "annees": [
+    "1",
+    "2",
+    "3",
+    "4",
+    "5"
+  ],
+  "pages_avec_grandes_images": [],
+  "bilan": {
+    "nombre_savoirs": 136,
+    "a_verifier": 0,
+    "prioritaires": 1
+  },
+  "savoirs": [
+    {
+      "id": "EPS-AGI-001",
+      "competence": "1 – Agir dans divers contextes de pratique d’activités",
+      "section": null,
+      "chemin": [
+        "A. Le système musculosquelettique"
+      ],
+      "texte": "1. Nommer les articulations, les os connexes et les principaux muscles qui ont un rôle dans l’exécution d’une action motrice donnée P (ex. : lors d’un lancer, l’épaule, le coude, le poignet et le triceps sont sollicités)",
+      "prioritaire": false,
+      "progression": {
+        "1": "apprentissage",
+        "2": "maitrise",
+        "3": null,
+        "4": null,
+        "5": null
+      },
+      "page": 7,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "EPS-AGI-002",
+      "competence": "1 – Agir dans divers contextes de pratique d’activités",
+      "section": null,
+      "chemin": [
+        "A. Le système musculosquelettique"
+      ],
+      "texte": "2. Expliquer le rôle principal des ligaments (ex. : les ligaments ressemblent à des élastiques qui assurent la stabilité des articulations)",
+      "prioritaire": false,
+      "progression": {
+        "1": "apprentissage",
+        "2": "maitrise",
+        "3": null,
+        "4": null,
+        "5": null
+      },
+      "page": 7,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "EPS-AGI-003",
+      "competence": "1 – Agir dans divers contextes de pratique d’activités",
+      "section": null,
+      "chemin": [
+        "A. Le système musculosquelettique"
+      ],
+      "texte": "3. Expliquer le rôle des muscles stabilisateurs et celui des agonistes (fléchisseurs, extenseurs, rotateurs, abducteurs, adducteurs) (ex. : les muscles dorsaux et abdominaux ont un rôle dans la posture et ils se contractent simultanément; lorsque l’avant-bras est fléchi, l’agoniste-biceps se contracte pour produire le mouvement)",
+      "prioritaire": false,
+      "progression": {
+        "1": "apprentissage",
+        "2": "apprentissage",
+        "3": "maitrise",
+        "4": null,
+        "5": null
+      },
+      "page": 7,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "EPS-AGI-004",
+      "competence": "1 – Agir dans divers contextes de pratique d’activités",
+      "section": null,
+      "chemin": [
+        "B. Les perceptions kinesthésiques 1"
+      ],
+      "texte": "1. Décrire la position de ses segments ou les ajustements nécessaires lors de l’exécution d’une action motrice donnée (stable ou en mouvement) (ex. : lors de pompes au mur, placer ses mains à la largeur de ses épaules et maintenir P le dos droit; au dos crawlé, garder la tête couchée sur l’eau pour conserver une position hydrodynamique)",
+      "prioritaire": false,
+      "progression": {
+        "1": "apprentissage",
+        "2": "apprentissage",
+        "3": "maitrise",
+        "4": null,
+        "5": null
+      },
+      "page": 7,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "EPS-AGI-005",
+      "competence": "1 – Agir dans divers contextes de pratique d’activités",
+      "section": null,
+      "chemin": [
+        "B. Les perceptions kinesthésiques 1"
+      ],
+      "texte": "2. Décrire les ajustements nécessaires à la vitesse d’exécution de ses mouvements ou de ses déplacements selon les contraintes de l’activité (ex. : en ski de fond, ajuster sa vitesse en freinant dans une descente pour maintenir son équilibre; à vélo, aller suffisamment rapidement pour maintenir son équilibre)",
+      "prioritaire": false,
+      "progression": {
+        "1": "apprentissage",
+        "2": "apprentissage",
+        "3": "maitrise",
+        "4": null,
+        "5": null
+      },
+      "page": 7,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "EPS-AGI-006",
+      "competence": "1 – Agir dans divers contextes de pratique d’activités",
+      "section": null,
+      "chemin": [
+        "B. Les perceptions kinesthésiques 1"
+      ],
+      "texte": "3. Décrire la position appropriée de son corps ou des parties de son corps par rapport à un objet, à un outil ou à l’espace (territoire) (ex. : la hauteur de la jambe d’attaque doit être ajustée par rapport à la haie)",
+      "prioritaire": false,
+      "progression": {
+        "1": "apprentissage",
+        "2": "apprentissage",
+        "3": "maitrise",
+        "4": null,
+        "5": null
+      },
+      "page": 7,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "EPS-AGI-007",
+      "competence": "1 – Agir dans divers contextes de pratique d’activités",
+      "section": null,
+      "chemin": [
+        "C. La croissance du corps 2"
+      ],
+      "texte": "1. Indiquer quelques changements moteurs qui surviennent lors de la croissance et qui influencent la pratique de certaines activités physiques (ex. : diminution de la coordination, diminution de la flexibilité)",
+      "prioritaire": false,
+      "progression": {
+        "1": "apprentissage",
+        "2": "maitrise",
+        "3": null,
+        "4": null,
+        "5": null
+      },
+      "page": 7,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "EPS-AGI-008",
+      "competence": "1 – Agir dans divers contextes de pratique d’activités",
+      "section": null,
+      "chemin": [
+        "C. La croissance du corps 2"
+      ],
+      "texte": "2. Indiquer quelques changements morphologiques qui surviennent lors de la croissance et qui influencent la coordination et la force relative (ex. : l’augmentation de la taille et l’allongement des segments peuvent influencer temporairement la coordination)",
+      "prioritaire": false,
+      "progression": {
+        "1": "apprentissage",
+        "2": "maitrise",
+        "3": null,
+        "4": null,
+        "5": null
+      },
+      "page": 7,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "EPS-AGI-009",
+      "competence": "1 – Agir dans divers contextes de pratique d’activités",
+      "section": null,
+      "chemin": [
+        "C. La croissance du corps 2"
+      ],
+      "texte": "3. Nommer, s’il y a lieu, des conséquences possibles des menstruations sur la pratique d’activités physiques (ex. : anémie temporaire, maux de ventre qui empêchent de marcher longtemps)",
+      "prioritaire": false,
+      "progression": {
+        "1": "apprentissage",
+        "2": "maitrise",
+        "3": null,
+        "4": null,
+        "5": null
+      },
+      "page": 7,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "EPS-AGI-010",
+      "competence": "1 – Agir dans divers contextes de pratique d’activités",
+      "section": null,
+      "chemin": [
+        "A. Les principes d’équilibration (statique et dynamique) 1",
+        "1. Les principes d’équilibration statique"
+      ],
+      "texte": "a. Appliquer des principes qui permettent de maintenir son équilibre dans des postures variées P (ex. : lors de l’exécution d’une posture complexe sur les mains ou sur les pieds, élargir la position de ses appuis pour maintenir l’équilibre)",
+      "prioritaire": false,
+      "progression": {
+        "1": "apprentissage",
+        "2": "maitrise",
+        "3": null,
+        "4": null,
+        "5": null
+      },
+      "page": 9,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "EPS-AGI-011",
+      "competence": "1 – Agir dans divers contextes de pratique d’activités",
+      "section": null,
+      "chemin": [
+        "A. Les principes d’équilibration (statique et dynamique) 1",
+        "2. Les principes d’équilibration dynamique"
+      ],
+      "texte": "a. Appliquer des principes qui permettent de maintenir ou de rétablir son équilibre lors de l’exécution d’actions motrices variées (ex. : lors d’un virage serré en ski ou en vélo, il faut déplacer son centre de P gravité vers l’intérieur; au lancer du poids, le transfert se fait du pied arrière vers le pied avant et l’équilibre est rétabli lorsqu’on ramène le pied arrière vers l’avant)",
+      "prioritaire": false,
+      "progression": {
+        "1": "apprentissage",
+        "2": "apprentissage",
+        "3": "maitrise",
+        "4": null,
+        "5": null
+      },
+      "page": 9,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "EPS-AGI-012",
+      "competence": "1 – Agir dans divers contextes de pratique d’activités",
+      "section": null,
+      "chemin": [
+        "B. Les principes de coordination 2"
+      ],
+      "texte": "1. Appliquer des principes qui permettent de coordonner ses mouvements dans des actions variées (ex. : lors du lancer du javelot, il faut utiliser ses articulations dans le bon ordre en P prenant une course d’élan, suivie d’une préparation de « bras armé » pour utiliser toute la puissance de son épaule)",
+      "prioritaire": false,
+      "progression": {
+        "1": "apprentissage",
+        "2": "apprentissage",
+        "3": "maitrise",
+        "4": null,
+        "5": null
+      },
+      "page": 9,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "EPS-AGI-013",
+      "competence": "1 – Agir dans divers contextes de pratique d’activités",
+      "section": null,
+      "chemin": [
+        "C. Les principes de synchronisation"
+      ],
+      "texte": "1. Projeter un objet sur une cible mobile P",
+      "prioritaire": false,
+      "progression": {
+        "1": "apprentissage",
+        "2": "maitrise",
+        "3": null,
+        "4": null,
+        "5": null
+      },
+      "page": 9,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "EPS-AGI-014",
+      "competence": "1 – Agir dans divers contextes de pratique d’activités",
+      "section": null,
+      "chemin": [
+        "C. Les principes de synchronisation"
+      ],
+      "texte": "2. Recevoir un objet en se déplaçant vers son point de chute (ex. : en jonglerie ou en gymnastique rythmique, déplacer tout son corps ou ses bras P pour récupérer un objet)",
+      "prioritaire": false,
+      "progression": {
+        "1": "apprentissage",
+        "2": "maitrise",
+        "3": null,
+        "4": null,
+        "5": null
+      },
+      "page": 9,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "EPS-AGI-015",
+      "competence": "1 – Agir dans divers contextes de pratique d’activités",
+      "section": null,
+      "chemin": [
+        "C. Les principes de synchronisation"
+      ],
+      "texte": "3. Synchroniser ses actions motrices en respectant un rythme (ex. : synchroniser sa respiration avec le mouvement des bras au crawl, exécuter une routine sur musique, synchroniser ses sauts les uns après les autres dans une course de haies)",
+      "prioritaire": false,
+      "progression": {
+        "1": "apprentissage",
+        "2": "maitrise",
+        "3": null,
+        "4": null,
+        "5": null
+      },
+      "page": 9,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "EPS-AGI-016",
+      "competence": "1 – Agir dans divers contextes de pratique d’activités",
+      "section": null,
+      "chemin": [
+        "D. Les actions de locomotion",
+        "1. Les déplacements dans les activités cycliques 3"
+      ],
+      "texte": "a. Marcher en appliquant une technique appropriée selon la durée de l’activité ou du parcours P (ex. : fléchir les bras, réduire les foulées dans le but d’augmenter le rythme des pas lors d’une randonnée pédestre)",
+      "prioritaire": false,
+      "progression": {
+        "1": "maitrise",
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": null
+      },
+      "page": 9,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "EPS-AGI-017",
+      "competence": "1 – Agir dans divers contextes de pratique d’activités",
+      "section": null,
+      "chemin": [
+        "D. Les actions de locomotion",
+        "1. Les déplacements dans les activités cycliques 3",
+        "b. Courir en appliquant une technique appropriée selon la durée de l’activité ou du"
+      ],
+      "texte": "ii. Course de fond ou de demi-fond (ex. : avoir les orteils pointés dans la direction du mouvement et utiliser ses P bras tout au long de la course)",
+      "prioritaire": false,
+      "progression": {
+        "1": "apprentissage",
+        "2": "apprentissage",
+        "3": "apprentissage",
+        "4": "apprentissage",
+        "5": "maitrise"
+      },
+      "page": 10,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "EPS-AGI-018",
+      "competence": "1 – Agir dans divers contextes de pratique d’activités",
+      "section": null,
+      "chemin": [
+        "D. Les actions de locomotion",
+        "1. Les déplacements dans les activités cycliques 3"
+      ],
+      "texte": "c. Monter, descendre, changer de direction, contourner, franchir, grimper et freiner en appliquant une technique appropriée compte tenu des contraintes de l’environnement P (ex. : dans un parcours d’hébertisme, attaquer les montées avec la pointe du pied en inclinant le haut du corps vers l’avant et en réduisant la foulée)",
+      "prioritaire": false,
+      "progression": {
+        "1": "apprentissage",
+        "2": "maitrise",
+        "3": null,
+        "4": null,
+        "5": null
+      },
+      "page": 10,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "EPS-AGI-019",
+      "competence": "1 – Agir dans divers contextes de pratique d’activités",
+      "section": null,
+      "chemin": [
+        "D. Les actions de locomotion",
+        "2. Les déplacements dans les activités à action unique",
+        "a. Exécuter différents types de sauts en appliquant une technique appropriée"
+      ],
+      "texte": "i. Sauts sans élan, comme le saut groupé, le saut demi-tour, le saut ciseau, le saut en longueur (ex. : lors d’un saut en longueur, balancer ses bras pour avoir plus P d’impulsion; lors de sauts à la corde, adopter une position stable au départ et fléchir légèrement ses genoux pour l’impulsion)",
+      "prioritaire": false,
+      "progression": {
+        "1": "apprentissage",
+        "2": "maitrise",
+        "3": null,
+        "4": null,
+        "5": null
+      },
+      "page": 10,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "EPS-AGI-020",
+      "competence": "1 – Agir dans divers contextes de pratique d’activités",
+      "section": null,
+      "chemin": [
+        "D. Les actions de locomotion",
+        "2. Les déplacements dans les activités à action unique",
+        "a. Exécuter différents types de sauts en appliquant une technique appropriée"
+      ],
+      "texte": "ii. Sauts avec élan, comme le saut en longueur, le saut en hauteur, le triple saut P (ex. : accélérer progressivement lors d’une course d’élan, abaisser son centre de gravité avant l’impulsion, bloquer sur la jambe d’appel)",
+      "prioritaire": false,
+      "progression": {
+        "1": "apprentissage",
+        "2": "apprentissage",
+        "3": "apprentissage",
+        "4": "apprentissage",
+        "5": "maitrise"
+      },
+      "page": 10,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "EPS-AGI-021",
+      "competence": "1 – Agir dans divers contextes de pratique d’activités",
+      "section": null,
+      "chemin": [
+        "D. Les actions de locomotion",
+        "3. Les déplacements dans les activités technico-artistiques"
+      ],
+      "texte": "a. Exécuter des rotations complexes au sol ou dans les airs en appliquant une technique appropriée, comme une roue latérale, une rondade, une roulade avant P ou arrière, une volte et une demi-volte au sol ou à partir d’un plinth (ex. : lors d’une roue latérale, maintenir le corps perpendiculaire au sol)",
+      "prioritaire": false,
+      "progression": {
+        "1": "apprentissage",
+        "2": "maitrise",
+        "3": null,
+        "4": null,
+        "5": null
+      },
+      "page": 10,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "EPS-AGI-022",
+      "competence": "1 – Agir dans divers contextes de pratique d’activités",
+      "section": null,
+      "chemin": [
+        "E. Les actions de non-locomotion",
+        "1. Les postures et les rotations (ex. : dans des activités technico-artistiques)"
+      ],
+      "texte": "a. Maintenir des postures complexes en appliquant une technique appropriée P (ex. : former un triangle avec les mains et la tête pour réussir un trépied)",
+      "prioritaire": false,
+      "progression": {
+        "1": "apprentissage",
+        "2": "maitrise",
+        "3": null,
+        "4": null,
+        "5": null
+      },
+      "page": 10,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "EPS-AGI-023",
+      "competence": "1 – Agir dans divers contextes de pratique d’activités",
+      "section": null,
+      "chemin": [
+        "E. Les actions de non-locomotion",
+        "1. Les postures et les rotations (ex. : dans des activités technico-artistiques)"
+      ],
+      "texte": "b. Maîtriser ses rotations autour de son axe, au sol, dans les airs ou sur un appareil en appliquant une technique appropriée P (ex. : rapprocher les bras de son corps pour augmenter la vitesse de rotation)",
+      "prioritaire": false,
+      "progression": {
+        "1": "apprentissage",
+        "2": "maitrise",
+        "3": null,
+        "4": null,
+        "5": null
+      },
+      "page": 10,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "EPS-AGI-024",
+      "competence": "1 – Agir dans divers contextes de pratique d’activités",
+      "section": null,
+      "chemin": [
+        "F. Les actions de manipulation 4",
+        "1. Le maniement d’objets avec ou sans outil (ex. : dans des activités d’adresse ou à action unique)",
+        "a. Manier divers objets en appliquant une technique appropriée (ex. : absorber le ballon et non le taper, éviter de le regarder)"
+      ],
+      "texte": "i. Maniement d’un objet avec la main dominante ou non dominante, sur place, en se déplaçant ou à travers des obstacles P (ex. : dribbler en 8)",
+      "prioritaire": false,
+      "progression": {
+        "1": "apprentissage",
+        "2": "maitrise",
+        "3": null,
+        "4": null,
+        "5": null
+      },
+      "page": 10,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "EPS-AGI-025",
+      "competence": "1 – Agir dans divers contextes de pratique d’activités",
+      "section": null,
+      "chemin": [
+        "F. Les actions de manipulation 4",
+        "1. Le maniement d’objets avec ou sans outil (ex. : dans des activités d’adresse ou à action unique)",
+        "a. Manier divers objets en appliquant une technique appropriée (ex. : absorber le ballon et non le taper, éviter de le regarder)"
+      ],
+      "texte": "ii. Maniement d’un objet avec le pied dominant ou non dominant sur place, en se déplaçant ou à travers des obstacles P (ex. : dribbler un ballon de soccer entre des cônes et des quilles, faire rebondir une balle aki sur différentes parties de son corps)",
+      "prioritaire": false,
+      "progression": {
+        "1": "apprentissage",
+        "2": "apprentissage",
+        "3": "maitrise",
+        "4": null,
+        "5": null
+      },
+      "page": 10,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "EPS-AGI-026",
+      "competence": "1 – Agir dans divers contextes de pratique d’activités",
+      "section": null,
+      "chemin": [
+        "F. Les actions de manipulation 4",
+        "1. Le maniement d’objets avec ou sans outil (ex. : dans des activités d’adresse ou à action unique)",
+        "a. Manier divers objets en appliquant une technique appropriée (ex. : absorber le ballon et non le taper, éviter de le regarder)"
+      ],
+      "texte": "iii. Maniement de plusieurs objets en même temps sur place, en se déplaçant au sol ou sur des appareils fixes ou mobiles P (ex. : jongler avec trois balles en cascade ou en colonne sur un cylindre, dribbler avec deux ballons)",
+      "prioritaire": false,
+      "progression": {
+        "1": "apprentissage",
+        "2": "apprentissage",
+        "3": "apprentissage",
+        "4": "maitrise",
+        "5": null
+      },
+      "page": 10,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "EPS-AGI-027",
+      "competence": "1 – Agir dans divers contextes de pratique d’activités",
+      "section": null,
+      "chemin": [
+        "F. Les actions de manipulation 4",
+        "1. Le maniement d’objets avec ou sans outil (ex. : dans des activités d’adresse ou à action unique)",
+        "b. Manier divers objets avec outils en appliquant une technique appropriée (ex. : tenir son bâton à deux mains, ne pas trop fixer l’objet)"
+      ],
+      "texte": "i. Lancer par-dessous l’épaule P (ex. : lancer à la balle molle, aux quilles)",
+      "prioritaire": false,
+      "progression": {
+        "1": "maitrise",
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": null
+      },
+      "page": 11,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "EPS-AGI-028",
+      "competence": "1 – Agir dans divers contextes de pratique d’activités",
+      "section": null,
+      "chemin": [
+        "F. Les actions de manipulation 4",
+        "1. Le maniement d’objets avec ou sans outil (ex. : dans des activités d’adresse ou à action unique)",
+        "b. Manier divers objets avec outils en appliquant une technique appropriée (ex. : tenir son bâton à deux mains, ne pas trop fixer l’objet)"
+      ],
+      "texte": "ii. Lancer à deux mains P (ex. : passe de la poitrine, touche au soccer)",
+      "prioritaire": false,
+      "progression": {
+        "1": "apprentissage",
+        "2": "maitrise",
+        "3": null,
+        "4": null,
+        "5": null
+      },
+      "page": 11,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "EPS-AGI-029",
+      "competence": "1 – Agir dans divers contextes de pratique d’activités",
+      "section": null,
+      "chemin": [
+        "F. Les actions de manipulation 4",
+        "1. Le maniement d’objets avec ou sans outil (ex. : dans des activités d’adresse ou à action unique)",
+        "b. Manier divers objets avec outils en appliquant une technique appropriée (ex. : tenir son bâton à deux mains, ne pas trop fixer l’objet)"
+      ],
+      "texte": "iii. Lancer latéral P (ex. : lancer du frisbee , du disque)",
+      "prioritaire": false,
+      "progression": {
+        "1": "apprentissage",
+        "2": "apprentissage",
+        "3": "maitrise",
+        "4": null,
+        "5": null
+      },
+      "page": 11,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "EPS-AGI-030",
+      "competence": "1 – Agir dans divers contextes de pratique d’activités",
+      "section": null,
+      "chemin": [
+        "F. Les actions de manipulation 4",
+        "1. Le maniement d’objets avec ou sans outil (ex. : dans des activités d’adresse ou à action unique)",
+        "b. Manier divers objets avec outils en appliquant une technique appropriée (ex. : tenir son bâton à deux mains, ne pas trop fixer l’objet)"
+      ],
+      "texte": "iv. Lancer par-dessus l’épaule P (ex. : lancer au basketball, lancer du javelot, passe au flag-football)",
+      "prioritaire": false,
+      "progression": {
+        "1": "apprentissage",
+        "2": "apprentissage",
+        "3": "maitrise",
+        "4": null,
+        "5": null
+      },
+      "page": 11,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "EPS-AGI-031",
+      "competence": "1 – Agir dans divers contextes de pratique d’activités",
+      "section": null,
+      "chemin": [
+        "F. Les actions de manipulation 4",
+        "1. Le maniement d’objets avec ou sans outil (ex. : dans des activités d’adresse ou à action unique)",
+        "b. Manier divers objets avec outils en appliquant une technique appropriée (ex. : tenir son bâton à deux mains, ne pas trop fixer l’objet)"
+      ],
+      "texte": "v. Lancer à l’aide un outil P (ex. : lancer à l’inter-crosse)",
+      "prioritaire": false,
+      "progression": {
+        "1": "apprentissage",
+        "2": "apprentissage",
+        "3": "maitrise",
+        "4": null,
+        "5": null
+      },
+      "page": 11,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "EPS-AGI-032",
+      "competence": "1 – Agir dans divers contextes de pratique d’activités",
+      "section": null,
+      "chemin": [
+        "F. Les actions de manipulation 4",
+        "1. Le maniement d’objets avec ou sans outil (ex. : dans des activités d’adresse ou à action unique)",
+        "b. Exécuter une variété de frappes avec ou sans outil en appliquant une technique (ex. : appuis stables et orientés vers la cible, transfert de poids, rotation du tronc, frapper)"
+      ],
+      "texte": "i. Frappe d’un objet immobile (ex. : coup de golf, botté de précision, lancer frappé au hockey dans un P concours d’habiletés)",
+      "prioritaire": false,
+      "progression": {
+        "1": "apprentissage",
+        "2": "maitrise",
+        "3": null,
+        "4": null,
+        "5": null
+      },
+      "page": 11,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "EPS-AGI-033",
+      "competence": "1 – Agir dans divers contextes de pratique d’activités",
+      "section": null,
+      "chemin": [
+        "F. Les actions de manipulation 4",
+        "1. Le maniement d’objets avec ou sans outil (ex. : dans des activités d’adresse ou à action unique)",
+        "b. Exécuter une variété de frappes avec ou sans outil en appliquant une technique (ex. : appuis stables et orientés vers la cible, transfert de poids, rotation du tronc, frapper)"
+      ],
+      "texte": "ii. Frappe d’un objet en déplacement (ex. : frapper une balle de baseball, exécuter un botté sur réception ou un smash au volleyball)",
+      "prioritaire": false,
+      "progression": {
+        "1": "apprentissage",
+        "2": "apprentissage",
+        "3": "maitrise",
+        "4": null,
+        "5": null
+      },
+      "page": 11,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "EPS-AGI-034",
+      "competence": "1 – Agir dans divers contextes de pratique d’activités",
+      "section": null,
+      "chemin": [
+        "F. Les actions de manipulation 4",
+        "3. La réception d’objets avec ou sans outil",
+        "a. Exécuter une variété de réceptions en appliquant une technique appropriée (ex. : regarder l’objet, couper la trajectoire de l’objet, amortir l’objet et le ramener vers relancer l’action)"
+      ],
+      "texte": "i. Réception sans outil (ex. : attraper une balle lancée au mur, bloquer ou dévier un tir au but au P handball)",
+      "prioritaire": false,
+      "progression": {
+        "1": "maitrise",
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": null
+      },
+      "page": 11,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "EPS-INT-001",
+      "competence": "2 – Interagir dans divers contextes de pratique d’activités",
+      "section": null,
+      "chemin": [
+        "A. Les principes de communication"
+      ],
+      "texte": "1. Émettre des messages clairs et adaptés à l’activité (ex : demander une passe au soccer, taper des mains, présenter une cible pour P demander l’objet)",
+      "prioritaire": false,
+      "progression": {
+        "1": "apprentissage",
+        "2": "apprentissage",
+        "3": "maitrise",
+        "4": null,
+        "5": null
+      },
+      "page": 14,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "EPS-INT-002",
+      "competence": "2 – Interagir dans divers contextes de pratique d’activités",
+      "section": null,
+      "chemin": [
+        "A. Les principes de communication"
+      ],
+      "texte": "2. Repérer des messages P (ex. : au basketball, voir un joueur démarqué qui demande le ballon)",
+      "prioritaire": false,
+      "progression": {
+        "1": "apprentissage",
+        "2": "apprentissage",
+        "3": "maitrise",
+        "4": null,
+        "5": null
+      },
+      "page": 14,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "EPS-INT-003",
+      "competence": "2 – Interagir dans divers contextes de pratique d’activités",
+      "section": null,
+      "chemin": [
+        "A. Les principes de communication"
+      ],
+      "texte": "3. Émettre une variété de messages trompeurs et adaptés à l’activité (ex. : faire une feinte avec tout son corps, simuler une passe à droite et l’exécuter à P gauche)",
+      "prioritaire": false,
+      "progression": {
+        "1": "apprentissage",
+        "2": "apprentissage",
+        "3": "apprentissage",
+        "4": "apprentissage",
+        "5": "maitrise"
+      },
+      "page": 14,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "EPS-INT-004",
+      "competence": "2 – Interagir dans divers contextes de pratique d’activités",
+      "section": null,
+      "chemin": [
+        "B. Les principes de synchronisation",
+        "1. Synchroniser l’exécution de ses actions motrices"
+      ],
+      "texte": "a. Projeter l’objet en fonction de la vitesse et de la direction du déplacement de ses partenaires ou de ses adversaires P (ex. : au football, faire une passe à un partenaire en déplacement)",
+      "prioritaire": false,
+      "progression": {
+        "1": "apprentissage",
+        "2": "apprentissage",
+        "3": "apprentissage",
+        "4": "maitrise",
+        "5": null
+      },
+      "page": 14,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "EPS-INT-005",
+      "competence": "2 – Interagir dans divers contextes de pratique d’activités",
+      "section": null,
+      "chemin": [
+        "B. Les principes de synchronisation",
+        "1. Synchroniser l’exécution de ses actions motrices"
+      ],
+      "texte": "b. Recevoir l’objet venant d’un partenaire ou d’un adversaire en tenant compte de la vitesse et de la direction de l’objet P (ex. : attraper une balle « chandelle » au baseball, recevoir un service au volleyball)",
+      "prioritaire": false,
+      "progression": {
+        "1": "apprentissage",
+        "2": "apprentissage",
+        "3": "apprentissage",
+        "4": "maitrise",
+        "5": null
+      },
+      "page": 14,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "EPS-INT-006",
+      "competence": "2 – Interagir dans divers contextes de pratique d’activités",
+      "section": null,
+      "chemin": [
+        "B. Les principes de synchronisation"
+      ],
+      "texte": "2. Exécuter des actions motrices selon différents modes de synchronisation, avec un ou plusieurs partenaires P (ex. : à l’unisson [ramer en même temps que son partenaire], en canon [faire la vague en succession])",
+      "prioritaire": false,
+      "progression": {
+        "1": "apprentissage",
+        "2": "apprentissage",
+        "3": "apprentissage",
+        "4": "apprentissage",
+        "5": "maitrise"
+      },
+      "page": 14,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "EPS-INT-007",
+      "competence": "2 – Interagir dans divers contextes de pratique d’activités",
+      "section": null,
+      "chemin": [
+        "C. Les rôles à jouer 1"
+      ],
+      "texte": "1. Choisir un rôle de soutien et l’assumer au cours de la préparation d’un plan et pendant la réalisation de l’activité P (ex. : chef d’équipe, arbitre, marqueur)",
+      "prioritaire": false,
+      "progression": {
+        "1": "apprentissage",
+        "2": "maitrise",
+        "3": null,
+        "4": null,
+        "5": null
+      },
+      "page": 14,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "EPS-INT-008",
+      "competence": "2 – Interagir dans divers contextes de pratique d’activités",
+      "section": null,
+      "chemin": [
+        "C. Les rôles à jouer 1"
+      ],
+      "texte": "2. Assumer son rôle pendant le jeu ou l’activité selon la stratégie ou le plan d’action établi P (ex. : attaquant, non-porteur, gardien)",
+      "prioritaire": false,
+      "progression": {
+        "1": "apprentissage",
+        "2": "apprentissage",
+        "3": "maitrise",
+        "4": null,
+        "5": null
+      },
+      "page": 14,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "EPS-INT-009",
+      "competence": "2 – Interagir dans divers contextes de pratique d’activités",
+      "section": null,
+      "chemin": [
+        "G. Les principes d’action lors d’activités de coopération"
+      ],
+      "texte": "1. Se placer ou se déplacer en fonction de son ou de ses coéquipiers (ex. : former des pyramides, franchir des obstacles dans un parcours de coopération P avec un partenaire)",
+      "prioritaire": false,
+      "progression": {
+        "1": "maitrise",
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": null
+      },
+      "page": 15,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "EPS-INT-010",
+      "competence": "2 – Interagir dans divers contextes de pratique d’activités",
+      "section": null,
+      "chemin": [
+        "G. Les principes d’action lors d’activités de coopération"
+      ],
+      "texte": "2. Varier la force, la vitesse et la direction de ses mouvements ou de ses actions motrices en fonction des actions de son ou ses coéquipiers P (ex. : ajuster sa vitesse au moment de recevoir le témoin lors d’une course à relais, pagayer en variant la vitesse en fonction de celle de son partenaire)",
+      "prioritaire": false,
+      "progression": {
+        "1": "apprentissage",
+        "2": "apprentissage",
+        "3": "maitrise",
+        "4": null,
+        "5": null
+      },
+      "page": 15,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "EPS-INT-011",
+      "competence": "2 – Interagir dans divers contextes de pratique d’activités",
+      "section": null,
+      "chemin": [
+        "H. Les principes d’action lors d’activités de combat 2 (ex. : lutte, judo, autodéfense, combat de dos)"
+      ],
+      "texte": "1. Appliquer divers principes d’action offensive dans une activité de combat, comme déséquilibrer l’adversaire, attaquer l’adversaire qui est en déséquilibre, se déplacer en fonction de l’espace et de l’adversaire, varier la force, la vitesse et la direction de ses P actions motrices et feinter (ex. : lors d’un combat de dos, pousser ou tirer son adversaire pour l’entraîner à l’extérieur du tapis)",
+      "prioritaire": false,
+      "progression": {
+        "1": "apprentissage",
+        "2": "apprentissage",
+        "3": "maitrise",
+        "4": null,
+        "5": null
+      },
+      "page": 15,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "EPS-INT-012",
+      "competence": "2 – Interagir dans divers contextes de pratique d’activités",
+      "section": null,
+      "chemin": [
+        "H. Les principes d’action lors d’activités de combat 2 (ex. : lutte, judo, autodéfense, combat de dos)"
+      ],
+      "texte": "2. Appliquer divers principes d’action défensive dans une activité de combat, comme maintenir son équilibre, réagir aux actions de l’adversaire, se déplacer en fonction de l’espace et de l’adversaire P (ex. : dans un jeu de lutte, élargir ses appuis et esquiver en déplaçant son tronc vers la gauche) I. Les principes d’action lors d’activités de duel (ex. : badminton, tennis, escrime, « 1 contre 1 » au basketball)",
+      "prioritaire": false,
+      "progression": {
+        "1": "apprentissage",
+        "2": "apprentissage",
+        "3": "maitrise",
+        "4": null,
+        "5": null
+      },
+      "page": 15,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "EPS-INT-013",
+      "competence": "2 – Interagir dans divers contextes de pratique d’activités",
+      "section": null,
+      "chemin": [
+        "H. Les principes d’action lors d’activités de combat 2 (ex. : lutte, judo, autodéfense, combat de dos)"
+      ],
+      "texte": "1. Exploiter la surface de jeu en largeur ou en longueur P (ex. : utiliser différentes frappes afin de provoquer les déplacements de l’adversaire)",
+      "prioritaire": false,
+      "progression": {
+        "1": "apprentissage",
+        "2": "apprentissage",
+        "3": "maitrise",
+        "4": null,
+        "5": null
+      },
+      "page": 15,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "EPS-INT-014",
+      "competence": "2 – Interagir dans divers contextes de pratique d’activités",
+      "section": null,
+      "chemin": [
+        "H. Les principes d’action lors d’activités de combat 2 (ex. : lutte, judo, autodéfense, combat de dos)"
+      ],
+      "texte": "2. Récupérer l’objet rapidement dans le but de poursuivre l’échange (ex. : au tennis, se déplacer rapidement vers le point de chute pour retourner la balle de l’autre côté du filet)",
+      "prioritaire": false,
+      "progression": {
+        "1": "apprentissage",
+        "2": "apprentissage",
+        "3": "apprentissage",
+        "4": "maitrise",
+        "5": null
+      },
+      "page": 15,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "EPS-INT-015",
+      "competence": "2 – Interagir dans divers contextes de pratique d’activités",
+      "section": null,
+      "chemin": [
+        "H. Les principes d’action lors d’activités de combat 2 (ex. : lutte, judo, autodéfense, combat de dos)"
+      ],
+      "texte": "3. Exploiter l’espace approprié afin de mieux attaquer le territoire adverse ou l’adversaire P (ex. : au tennis, retrouver le centre stratégique)",
+      "prioritaire": false,
+      "progression": {
+        "1": "apprentissage",
+        "2": "apprentissage",
+        "3": "apprentissage",
+        "4": "maitrise",
+        "5": null
+      },
+      "page": 15,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "EPS-INT-016",
+      "competence": "2 – Interagir dans divers contextes de pratique d’activités",
+      "section": null,
+      "chemin": [
+        "H. Les principes d’action lors d’activités de combat 2 (ex. : lutte, judo, autodéfense, combat de dos)"
+      ],
+      "texte": "4. Attaquer au moment opportun (ex. : au badminton, exécuter un smash lorsque l’adversaire est en déséquilibre)",
+      "prioritaire": false,
+      "progression": {
+        "1": "apprentissage",
+        "2": "apprentissage",
+        "3": "apprentissage",
+        "4": "maitrise",
+        "5": null
+      },
+      "page": 15,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "EPS-INT-017",
+      "competence": "2 – Interagir dans divers contextes de pratique d’activités",
+      "section": null,
+      "chemin": [
+        "H. Les principes d’action lors d’activités de combat 2 (ex. : lutte, judo, autodéfense, combat de dos)"
+      ],
+      "texte": "5. Feinter pour tromper l’adversaire P (ex. : au badminton, simuler un smash et exécuter un amorti)",
+      "prioritaire": false,
+      "progression": {
+        "1": "apprentissage",
+        "2": "apprentissage",
+        "3": "apprentissage",
+        "4": "apprentissage",
+        "5": "maitrise"
+      },
+      "page": 15,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "EPS-INT-018",
+      "competence": "2 – Interagir dans divers contextes de pratique d’activités",
+      "section": null,
+      "chemin": [
+        "H. Les principes d’action lors d’activités de combat 2 (ex. : lutte, judo, autodéfense, combat de dos)"
+      ],
+      "texte": "6. Prendre l’adversaire à contre-pied en l’attaquant dans le sens contraire de son déplacement P (ex. : au badminton, exécuter un deuxième amorti successivement) J. Les principes d’action lors d’activités collectives en espace distinct (ex. : volleyball, sepak takraw) 3",
+      "prioritaire": false,
+      "progression": {
+        "1": "apprentissage",
+        "2": "apprentissage",
+        "3": "apprentissage",
+        "4": "apprentissage",
+        "5": "apprentissage"
+      },
+      "page": 15,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "EPS-INT-019",
+      "competence": "2 – Interagir dans divers contextes de pratique d’activités",
+      "section": null,
+      "chemin": [
+        "H. Les principes d’action lors d’activités de combat 2 (ex. : lutte, judo, autodéfense, combat de dos)",
+        "1. Les principes d’action liés à la protection de son territoire 4"
+      ],
+      "texte": "a. Récupérer l’objet en se plaçant ou en se déplaçant en fonction de sa trajectoire P (ex. : au volleyball, recevoir le service, reprendre un mauvais contact)",
+      "prioritaire": false,
+      "progression": {
+        "1": "apprentissage",
+        "2": "maitrise",
+        "3": null,
+        "4": null,
+        "5": null
+      },
+      "page": 15,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "EPS-INT-020",
+      "competence": "2 – Interagir dans divers contextes de pratique d’activités",
+      "section": null,
+      "chemin": [
+        "H. Les principes d’action lors d’activités de combat 2 (ex. : lutte, judo, autodéfense, combat de dos)",
+        "1. Les principes d’action liés à la protection de son territoire 4"
+      ],
+      "texte": "b. Protéger son territoire en se plaçant ou en se déplaçant en fonction de l’attaquant, des partenaires et de l’objet P (ex. : au volleyball, rester en soutien, adopter la position défensive en réception de service « W »)",
+      "prioritaire": false,
+      "progression": {
+        "1": "apprentissage",
+        "2": "apprentissage",
+        "3": "maitrise",
+        "4": null,
+        "5": null
+      },
+      "page": 15,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "EPS-INT-021",
+      "competence": "2 – Interagir dans divers contextes de pratique d’activités",
+      "section": null,
+      "chemin": [
+        "H. Les principes d’action lors d’activités de combat 2 (ex. : lutte, judo, autodéfense, combat de dos)",
+        "2. Les principes d’action liés à l’attaque du territoire adverse 5"
+      ],
+      "texte": "a. Attaquer la cible adverse P (ex. : servir au volleyball)",
+      "prioritaire": false,
+      "progression": {
+        "1": "apprentissage",
+        "2": "maitrise",
+        "3": null,
+        "4": null,
+        "5": null
+      },
+      "page": 15,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "EPS-INT-022",
+      "competence": "2 – Interagir dans divers contextes de pratique d’activités",
+      "section": null,
+      "chemin": [
+        "H. Les principes d’action lors d’activités de combat 2 (ex. : lutte, judo, autodéfense, combat de dos)",
+        "2. Les principes d’action liés à l’attaque du territoire adverse 5"
+      ],
+      "texte": "b. Faire circuler l’objet dans son territoire P (ex. : recevoir le ballon en hauteur pour le garder de son côté du filet)",
+      "prioritaire": false,
+      "progression": {
+        "1": "apprentissage",
+        "2": "apprentissage",
+        "3": "maitrise",
+        "4": null,
+        "5": null
+      },
+      "page": 15,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "EPS-INT-023",
+      "competence": "2 – Interagir dans divers contextes de pratique d’activités",
+      "section": null,
+      "chemin": [
+        "H. Les principes d’action lors d’activités de combat 2 (ex. : lutte, judo, autodéfense, combat de dos)",
+        "2. Les principes d’action liés à l’attaque du territoire adverse 5"
+      ],
+      "texte": "c. Faire progresser l’objet vers le terrain adverse (ex. : retourner le ballon vers le passeur)",
+      "prioritaire": false,
+      "progression": {
+        "1": "apprentissage",
+        "2": "apprentissage",
+        "3": "apprentissage",
+        "4": "maitrise",
+        "5": null
+      },
+      "page": 15,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "EPS-INT-024",
+      "competence": "2 – Interagir dans divers contextes de pratique d’activités",
+      "section": null,
+      "chemin": [
+        "H. Les principes d’action lors d’activités de combat 2 (ex. : lutte, judo, autodéfense, combat de dos)",
+        "2. Les principes d’action liés à l’attaque du territoire adverse 5"
+      ],
+      "texte": "d. Exploiter la largeur et la longueur du terrain en variant la direction et la vitesse de l’objet en exécutant diverses projections (ex. : viser les lignes ou le fond du terrain)",
+      "prioritaire": false,
+      "progression": {
+        "1": "apprentissage",
+        "2": "apprentissage",
+        "3": "apprentissage",
+        "4": "maitrise",
+        "5": null
+      },
+      "page": 16,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "EPS-INT-025",
+      "competence": "2 – Interagir dans divers contextes de pratique d’activités",
+      "section": null,
+      "chemin": [
+        "H. Les principes d’action lors d’activités de combat 2 (ex. : lutte, judo, autodéfense, combat de dos)",
+        "2. Les principes d’action liés à l’attaque du territoire adverse 5"
+      ],
+      "texte": "e. Attaquer les espaces libérés par les adversaires P (ex. : diriger un smash vers un espace libre)",
+      "prioritaire": false,
+      "progression": {
+        "1": "apprentissage",
+        "2": "apprentissage",
+        "3": "apprentissage",
+        "4": "apprentissage",
+        "5": "apprentissage"
+      },
+      "page": 16,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "EPS-INT-026",
+      "competence": "2 – Interagir dans divers contextes de pratique d’activités",
+      "section": null,
+      "chemin": [
+        "H. Les principes d’action lors d’activités de combat 2 (ex. : lutte, judo, autodéfense, combat de dos)",
+        "2. Les principes d’action liés à l’attaque du territoire adverse 5"
+      ],
+      "texte": "f. Contre-attaquer l’équipe adverse (riposter) P (ex. : au volleyball, effectuer un contre avec un partenaire) K. Les principes d’action lors d’activités collectives en espace commun (ex. : jeu de la patate chaude, basketball, soccer, ultimate frisbee) 6",
+      "prioritaire": true,
+      "progression": {
+        "1": "apprentissage",
+        "2": "apprentissage",
+        "3": "apprentissage",
+        "4": "apprentissage",
+        "5": "apprentissage"
+      },
+      "page": 16,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "EPS-INT-027",
+      "competence": "2 – Interagir dans divers contextes de pratique d’activités",
+      "section": null,
+      "chemin": [
+        "H. Les principes d’action lors d’activités de combat 2 (ex. : lutte, judo, autodéfense, combat de dos)",
+        "1. Les principes d’action liés à l’objet"
+      ],
+      "texte": "a. Faire progresser l’objet vers la cible adverse (ex. : faire une passe au joueur qui est le mieux placé par rapport à la cible, se P déplacer avec l’objet vers la cible)",
+      "prioritaire": false,
+      "progression": {
+        "1": "apprentissage",
+        "2": "maitrise",
+        "3": null,
+        "4": null,
+        "5": null
+      },
+      "page": 16,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "EPS-INT-028",
+      "competence": "2 – Interagir dans divers contextes de pratique d’activités",
+      "section": null,
+      "chemin": [
+        "H. Les principes d’action lors d’activités de combat 2 (ex. : lutte, judo, autodéfense, combat de dos)",
+        "1. Les principes d’action liés à l’objet"
+      ],
+      "texte": "b. Faire circuler l’objet 7 de la zone offensive vers la zone défensive en variant sa direction et sa vitesse P (ex. : faire une passe rapidement à un joueur démarqué qui est le mieux placé, se déplacer avec l’objet vers un espace libre)",
+      "prioritaire": false,
+      "progression": {
+        "1": "apprentissage",
+        "2": "apprentissage",
+        "3": "apprentissage",
+        "4": "maitrise",
+        "5": null
+      },
+      "page": 16,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "EPS-INT-029",
+      "competence": "2 – Interagir dans divers contextes de pratique d’activités",
+      "section": null,
+      "chemin": [
+        "H. Les principes d’action lors d’activités de combat 2 (ex. : lutte, judo, autodéfense, combat de dos)",
+        "1. Les principes d’action liés à l’objet",
+        "c. Attaquer la cible adverse en lançant ou en frappant l’objet"
+      ],
+      "texte": "i. en fonction des partenaires ou des adversaires P",
+      "prioritaire": false,
+      "progression": {
+        "1": "apprentissage",
+        "2": "apprentissage",
+        "3": "maitrise",
+        "4": null,
+        "5": null
+      },
+      "page": 16,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "EPS-INT-030",
+      "competence": "2 – Interagir dans divers contextes de pratique d’activités",
+      "section": null,
+      "chemin": [
+        "H. Les principes d’action lors d’activités de combat 2 (ex. : lutte, judo, autodéfense, combat de dos)",
+        "1. Les principes d’action liés à l’objet",
+        "c. Attaquer la cible adverse en lançant ou en frappant l’objet"
+      ],
+      "texte": "ii. au moment opportun",
+      "prioritaire": false,
+      "progression": {
+        "1": "apprentissage",
+        "2": "apprentissage",
+        "3": "apprentissage",
+        "4": "maitrise",
+        "5": null
+      },
+      "page": 16,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "EPS-INT-031",
+      "competence": "2 – Interagir dans divers contextes de pratique d’activités",
+      "section": null,
+      "chemin": [
+        "H. Les principes d’action lors d’activités de combat 2 (ex. : lutte, judo, autodéfense, combat de dos)",
+        "1. Les principes d’action liés à l’objet",
+        "c. Attaquer la cible adverse en lançant ou en frappant l’objet"
+      ],
+      "texte": "iii. sur réception",
+      "prioritaire": false,
+      "progression": {
+        "1": "apprentissage",
+        "2": "apprentissage",
+        "3": "apprentissage",
+        "4": "apprentissage",
+        "5": "maitrise"
+      },
+      "page": 16,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "EPS-INT-032",
+      "competence": "2 – Interagir dans divers contextes de pratique d’activités",
+      "section": null,
+      "chemin": [
+        "H. Les principes d’action lors d’activités de combat 2 (ex. : lutte, judo, autodéfense, combat de dos)",
+        "1. Les principes d’action liés à l’objet"
+      ],
+      "texte": "d. Récupérer l’objet P (ex. : reprendre un objet laissé libre, prendre le ballon au rebond)",
+      "prioritaire": false,
+      "progression": {
+        "1": "apprentissage",
+        "2": "maitrise",
+        "3": null,
+        "4": null,
+        "5": null
+      },
+      "page": 16,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "EPS-INT-033",
+      "competence": "2 – Interagir dans divers contextes de pratique d’activités",
+      "section": null,
+      "chemin": [
+        "H. Les principes d’action lors d’activités de combat 2 (ex. : lutte, judo, autodéfense, combat de dos)",
+        "1. Les principes d’action liés à l’objet"
+      ],
+      "texte": "e. Contre-attaquer (ex. : reprendre l’objet et partir vers la cible, relancer rapidement l’attaque à la P suite d’une action défensive)",
+      "prioritaire": false,
+      "progression": {
+        "1": "apprentissage",
+        "2": "maitrise",
+        "3": null,
+        "4": null,
+        "5": null
+      },
+      "page": 16,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "EPS-INT-034",
+      "competence": "2 – Interagir dans divers contextes de pratique d’activités",
+      "section": null,
+      "chemin": [
+        "H. Les principes d’action lors d’activités de combat 2 (ex. : lutte, judo, autodéfense, combat de dos)",
+        "1. Les principes d’action liés à l’objet"
+      ],
+      "texte": "f. S’opposer à la progression de l’objet P (ex. : se placer dans la trajectoire de l’objet pour l’intercepter, bloquer un lancer)",
+      "prioritaire": false,
+      "progression": {
+        "1": "apprentissage",
+        "2": "maitrise",
+        "3": null,
+        "4": null,
+        "5": null
+      },
+      "page": 16,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "EPS-INT-035",
+      "competence": "2 – Interagir dans divers contextes de pratique d’activités",
+      "section": null,
+      "chemin": [
+        "H. Les principes d’action lors d’activités de combat 2 (ex. : lutte, judo, autodéfense, combat de dos)",
+        "2. Les principes d’action se rapportant au partenaire ou à l’adversaire"
+      ],
+      "texte": "a. S’éloigner du porteur selon une distance favorisant la progression ou la circulation de l’objet (ex. : éviter la « grappe de raisins »)",
+      "prioritaire": false,
+      "progression": {
+        "1": "apprentissage",
+        "2": "maitrise",
+        "3": null,
+        "4": null,
+        "5": null
+      },
+      "page": 16,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "EPS-INT-036",
+      "competence": "2 – Interagir dans divers contextes de pratique d’activités",
+      "section": null,
+      "chemin": [
+        "H. Les principes d’action lors d’activités de combat 2 (ex. : lutte, judo, autodéfense, combat de dos)",
+        "2. Les principes d’action se rapportant au partenaire ou à l’adversaire",
+        "b. Marquer"
+      ],
+      "texte": "i. Marquer le porteur pour l’empêcher de se déplacer, de faire une passe ou d’attaquer la cible P (ex. : exercer une pression sur le porteur)",
+      "prioritaire": false,
+      "progression": {
+        "1": "apprentissage",
+        "2": "maitrise",
+        "3": null,
+        "4": null,
+        "5": null
+      },
+      "page": 16,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "EPS-INT-037",
+      "competence": "2 – Interagir dans divers contextes de pratique d’activités",
+      "section": null,
+      "chemin": [
+        "H. Les principes d’action lors d’activités de combat 2 (ex. : lutte, judo, autodéfense, combat de dos)",
+        "2. Les principes d’action se rapportant au partenaire ou à l’adversaire",
+        "b. Marquer"
+      ],
+      "texte": "ii. Marquer le non-porteur en l’empêchant de recevoir l’objet P en se plaçant entre le non-porteur et la cible pour empêcher la progression en demeurant à proximité du non-porteur tout en protégeant le corridor de passe et la cible (ex. : « contester » au basketball)",
+      "prioritaire": false,
+      "progression": {
+        "1": "apprentissage",
+        "2": "maitrise",
+        "3": "apprentissage",
+        "4": "apprentissage",
+        "5": "maitrise"
+      },
+      "page": 16,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "EPS-INT-038",
+      "competence": "2 – Interagir dans divers contextes de pratique d’activités",
+      "section": null,
+      "chemin": [
+        "H. Les principes d’action lors d’activités de combat 2 (ex. : lutte, judo, autodéfense, combat de dos)",
+        "2. Les principes d’action se rapportant au partenaire ou à l’adversaire",
+        "c. Se démarquer de l’adversaire en s’éloignant"
+      ],
+      "texte": "i. avec un changement de vitesse P (ex. : courir plus vite pour se distancer)",
+      "prioritaire": false,
+      "progression": {
+        "1": "apprentissage",
+        "2": "maitrise",
+        "3": null,
+        "4": null,
+        "5": null
+      },
+      "page": 16,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "EPS-INT-039",
+      "competence": "2 – Interagir dans divers contextes de pratique d’activités",
+      "section": null,
+      "chemin": [
+        "H. Les principes d’action lors d’activités de combat 2 (ex. : lutte, judo, autodéfense, combat de dos)",
+        "2. Les principes d’action se rapportant au partenaire ou à l’adversaire",
+        "c. Se démarquer de l’adversaire en s’éloignant"
+      ],
+      "texte": "ii. avec un changement de direction P (ex. : suivre un tracé au football)",
+      "prioritaire": false,
+      "progression": {
+        "1": "apprentissage",
+        "2": "apprentissage",
+        "3": "maitrise",
+        "4": null,
+        "5": null
+      },
+      "page": 16,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "EPS-ADO-001",
+      "competence": "3 – Adopter un mode de vie sain et actif",
+      "section": null,
+      "chemin": [
+        "A. La structure et le fonctionnement du corps 1"
+      ],
+      "texte": "1. Nommer les principales composantes des systèmes engagés dans la pratique d’activités physiques (systèmes cardiovasculaire, respiratoire et musculaire) P (ex. : le cœur, les poumons, les abdominaux)",
+      "prioritaire": false,
+      "progression": {
+        "1": "apprentissage",
+        "2": "apprentissage",
+        "3": "apprentissage",
+        "4": "maitrise",
+        "5": null
+      },
+      "page": 19,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "EPS-ADO-002",
+      "competence": "3 – Adopter un mode de vie sain et actif",
+      "section": null,
+      "chemin": [
+        "A. La structure et le fonctionnement du corps 1"
+      ],
+      "texte": "2. Expliquer en termes simples ou par un schéma le fonctionnement des principaux systèmes sollicités lors de la pratique d’activités physiques P (ex. : le système cardiovasculaire transporte l’oxygène et les nutriments vers les muscles pour répondre à l’effort physique)",
+      "prioritaire": false,
+      "progression": {
+        "1": "apprentissage",
+        "2": "apprentissage",
+        "3": "apprentissage",
+        "4": "maitrise",
+        "5": null
+      },
+      "page": 19,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "EPS-ADO-003",
+      "competence": "3 – Adopter un mode de vie sain et actif",
+      "section": null,
+      "chemin": [
+        "A. La structure et le fonctionnement du corps 1"
+      ],
+      "texte": "3. Expliquer la réponse du corps à l’exercice en établissant des liens avec les différents systèmes P (ex. : la sudation permet de réguler la température corporelle)",
+      "prioritaire": false,
+      "progression": {
+        "1": "apprentissage",
+        "2": "apprentissage",
+        "3": "apprentissage",
+        "4": "apprentissage",
+        "5": "maitrise"
+      },
+      "page": 19,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "EPS-ADO-004",
+      "competence": "3 – Adopter un mode de vie sain et actif",
+      "section": null,
+      "chemin": [
+        "B. Les déterminants de la condition physique associés à la pratique d’activités physiques 2",
+        "1. L’endurance cardiovasculaire"
+      ],
+      "texte": "a. Nommer des activités physiques qui développent l’endurance cardiovasculaire P (ex. : course à pied, cardiovélo, ski de fond)",
+      "prioritaire": false,
+      "progression": {
+        "1": "maitrise",
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": null
+      },
+      "page": 19,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "EPS-ADO-005",
+      "competence": "3 – Adopter un mode de vie sain et actif",
+      "section": null,
+      "chemin": [
+        "B. Les déterminants de la condition physique associés à la pratique d’activités physiques 2",
+        "1. L’endurance cardiovasculaire"
+      ],
+      "texte": "b. Définir la notion d’endurance cardiovasculaire (ex. : c’est la capacité du corps à produire des efforts dans une activité physique P d’intensité modérée)",
+      "prioritaire": false,
+      "progression": {
+        "1": "apprentissage",
+        "2": "apprentissage",
+        "3": "maitrise",
+        "4": null,
+        "5": null
+      },
+      "page": 19,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "EPS-ADO-006",
+      "competence": "3 – Adopter un mode de vie sain et actif",
+      "section": null,
+      "chemin": [
+        "B. Les déterminants de la condition physique associés à la pratique d’activités physiques 2",
+        "1. L’endurance cardiovasculaire"
+      ],
+      "texte": "c. Décrire quelques méthodes d’entraînement en endurance cardiovasculaire (ex. : un entraînement en circuit est une suite d’exercices musculaires et cardiovasculaires)",
+      "prioritaire": false,
+      "progression": {
+        "1": "apprentissage",
+        "2": "apprentissage",
+        "3": "apprentissage",
+        "4": "apprentissage",
+        "5": "maitrise"
+      },
+      "page": 19,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "EPS-ADO-007",
+      "competence": "3 – Adopter un mode de vie sain et actif",
+      "section": null,
+      "chemin": [
+        "B. Les déterminants de la condition physique associés à la pratique d’activités physiques 2",
+        "2. La flexibilité"
+      ],
+      "texte": "a. Nommer des activités physiques qui aident à développer ou à maintenir la flexibilité P (ex. : yoga, tai-chi, exercices d’étirement)",
+      "prioritaire": false,
+      "progression": {
+        "1": "maitrise",
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": null
+      },
+      "page": 19,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "EPS-ADO-008",
+      "competence": "3 – Adopter un mode de vie sain et actif",
+      "section": null,
+      "chemin": [
+        "B. Les déterminants de la condition physique associés à la pratique d’activités physiques 2",
+        "2. La flexibilité"
+      ],
+      "texte": "b. Définir la notion de flexibilité (ex. : c’est la capacité de faire bouger une articulation dans toute son amplitude P sans ressentir de douleur ni de raideur)",
+      "prioritaire": false,
+      "progression": {
+        "1": "apprentissage",
+        "2": "apprentissage",
+        "3": "maitrise",
+        "4": null,
+        "5": null
+      },
+      "page": 19,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "EPS-ADO-009",
+      "competence": "3 – Adopter un mode de vie sain et actif",
+      "section": null,
+      "chemin": [
+        "B. Les déterminants de la condition physique associés à la pratique d’activités physiques 2",
+        "2. La flexibilité"
+      ],
+      "texte": "c. Décrire quelques méthodes d’entraînement à la flexibilité (ex. : les étirements statiques se font lentement et demandent de maintenir la position pendant au moins 15 secondes)",
+      "prioritaire": false,
+      "progression": {
+        "1": "apprentissage",
+        "2": "apprentissage",
+        "3": "apprentissage",
+        "4": "apprentissage",
+        "5": "maitrise"
+      },
+      "page": 19,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "EPS-ADO-010",
+      "competence": "3 – Adopter un mode de vie sain et actif",
+      "section": null,
+      "chemin": [
+        "B. Les déterminants de la condition physique associés à la pratique d’activités physiques 2",
+        "3. La force-endurance"
+      ],
+      "texte": "a. Nommer des activités physiques qui développent la force et l’endurance musculaire P (ex. : entraînement en salle avec charges, musculation avec élastiques, entraînement sur ballon suisse)",
+      "prioritaire": false,
+      "progression": {
+        "1": "maitrise",
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": null
+      },
+      "page": 19,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "EPS-ADO-011",
+      "competence": "3 – Adopter un mode de vie sain et actif",
+      "section": null,
+      "chemin": [
+        "B. Les déterminants de la condition physique associés à la pratique d’activités physiques 2",
+        "3. La force-endurance"
+      ],
+      "texte": "c. Décrire quelques méthodes d’entraînement en force et en endurance musculaire (ex. : les exercices dynamiques impliquent de soulever une charge sous-maximale de façon répétitive et de la laisser redescendre)",
+      "prioritaire": false,
+      "progression": {
+        "1": "apprentissage",
+        "2": "apprentissage",
+        "3": "apprentissage",
+        "4": "apprentissage",
+        "5": "maitrise"
+      },
+      "page": 20,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "EPS-ADO-012",
+      "competence": "3 – Adopter un mode de vie sain et actif",
+      "section": null,
+      "chemin": [
+        "C. Les habitudes de vie saines et actives",
+        "1. Le mode de vie actif"
+      ],
+      "texte": "a. Expliquer ce qu’est un mode de vie actif (ex. : faire de l’activité physique au quotidien, prendre l’escalier, marcher ou P prendre son vélo pour se rendre à l’école)",
+      "prioritaire": false,
+      "progression": {
+        "1": "apprentissage",
+        "2": "maitrise",
+        "3": null,
+        "4": null,
+        "5": null
+      },
+      "page": 20,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "EPS-ADO-013",
+      "competence": "3 – Adopter un mode de vie sain et actif",
+      "section": null,
+      "chemin": [
+        "C. Les habitudes de vie saines et actives",
+        "1. Le mode de vie actif"
+      ],
+      "texte": "b. Expliquer ce qu’est un mode de vie sédentaire 3 (ex. : faire des activités passives telles que regarder la télévision, naviguer sur P Internet et s’adonner à des jeux vidéo plusieurs heures chaque jour)",
+      "prioritaire": false,
+      "progression": {
+        "1": "apprentissage",
+        "2": "maitrise",
+        "3": null,
+        "4": null,
+        "5": null
+      },
+      "page": 20,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "EPS-ADO-014",
+      "competence": "3 – Adopter un mode de vie sain et actif",
+      "section": null,
+      "chemin": [
+        "C. Les habitudes de vie saines et actives",
+        "1. Le mode de vie actif"
+      ],
+      "texte": "c. Nommer des bienfaits psychologiques associés à un mode de vie actif (ex. : diminution de la fatigue et du stress, sommeil moins agité, meilleure P concentration en classe, émotions agréables)",
+      "prioritaire": false,
+      "progression": {
+        "1": "apprentissage",
+        "2": "apprentissage",
+        "3": "maitrise",
+        "4": null,
+        "5": null
+      },
+      "page": 20,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "EPS-ADO-015",
+      "competence": "3 – Adopter un mode de vie sain et actif",
+      "section": null,
+      "chemin": [
+        "C. Les habitudes de vie saines et actives",
+        "1. Le mode de vie actif"
+      ],
+      "texte": "d. Nommer des bienfaits physiques associés à un mode de vie actif (ex. : amélioration de la condition physique, maintien de l’équilibre entre l’apport P et la dépense énergétique, augmentation de la masse maigre, contribution à la croissance)",
+      "prioritaire": false,
+      "progression": {
+        "1": "apprentissage",
+        "2": "apprentissage",
+        "3": "maitrise",
+        "4": null,
+        "5": null
+      },
+      "page": 20,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "EPS-ADO-016",
+      "competence": "3 – Adopter un mode de vie sain et actif",
+      "section": null,
+      "chemin": [
+        "C. Les habitudes de vie saines et actives",
+        "1. Le mode de vie actif"
+      ],
+      "texte": "e. Nommer des effets associés à un mode de vie sédentaire (ex. : augmentation du poids corporel, perte de tonus musculaire, augmentation P du risque de diabète, isolement)",
+      "prioritaire": false,
+      "progression": {
+        "1": "apprentissage",
+        "2": "apprentissage",
+        "3": "maitrise",
+        "4": null,
+        "5": null
+      },
+      "page": 20,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "EPS-ADO-017",
+      "competence": "3 – Adopter un mode de vie sain et actif",
+      "section": null,
+      "chemin": [
+        "C. Les habitudes de vie saines et actives",
+        "1. Le mode de vie actif"
+      ],
+      "texte": "f. Indiquer des stratégies pour développer ou maintenir un mode de vie actif (ex. : s’inscrire à une activité sportive avec des amis, marcher avec son chien, établir un calendrier d’activités, consigner des traces pour réaliser ses progrès, utiliser un podomètre)",
+      "prioritaire": false,
+      "progression": {
+        "1": "apprentissage",
+        "2": "apprentissage",
+        "3": "apprentissage",
+        "4": "apprentissage",
+        "5": "maitrise"
+      },
+      "page": 20,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "EPS-ADO-018",
+      "competence": "3 – Adopter un mode de vie sain et actif",
+      "section": null,
+      "chemin": [
+        "C. Les habitudes de vie saines et actives",
+        "2. L’alimentation et l’hydratation"
+      ],
+      "texte": "a. Déterminer ses besoins avant, pendant ou après la pratique d’une activité physique selon le type d’activité, sa durée et les conditions climatiques (ex. : manger un aliment riche en glucides avant une activité physique, boire 250 ml d’eau toutes les 15 minutes pendant une activité physique d’intensité modérée, prendre un verre de lait au chocolat après une séance d’aérobie)",
+      "prioritaire": false,
+      "progression": {
+        "1": "apprentissage",
+        "2": "apprentissage",
+        "3": "apprentissage",
+        "4": "maitrise",
+        "5": null
+      },
+      "page": 20,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "EPS-ADO-019",
+      "competence": "3 – Adopter un mode de vie sain et actif",
+      "section": null,
+      "chemin": [
+        "C. Les habitudes de vie saines et actives",
+        "2. L’alimentation et l’hydratation"
+      ],
+      "texte": "b. Indiquer des stratégies pour mieux s’alimenter en fonction de son niveau de pratique d’activités physiques (ex. : avoir des barres de céréales dans son sac de sport, apporter une bouteille d’eau et de jus, tenir un journal alimentaire)",
+      "prioritaire": false,
+      "progression": {
+        "1": "apprentissage",
+        "2": "apprentissage",
+        "3": "apprentissage",
+        "4": "apprentissage",
+        "5": "maitrise"
+      },
+      "page": 20,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "EPS-ADO-020",
+      "competence": "3 – Adopter un mode de vie sain et actif",
+      "section": null,
+      "chemin": [
+        "C. Les habitudes de vie saines et actives",
+        "3. L’hygiène corporelle"
+      ],
+      "texte": "a. Nommer des bienfaits d’une bonne hygiène corporelle associée à la pratique d’activités physiques P (ex. : sensation de mieux-être, acceptation des pairs)",
+      "prioritaire": false,
+      "progression": {
+        "1": "apprentissage",
+        "2": "maitrise",
+        "3": null,
+        "4": null,
+        "5": null
+      },
+      "page": 20,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "EPS-ADO-021",
+      "competence": "3 – Adopter un mode de vie sain et actif",
+      "section": null,
+      "chemin": [
+        "C. Les habitudes de vie saines et actives",
+        "4. Le sommeil"
+      ],
+      "texte": "a. Nommer des effets d’un sommeil récupérateur sur son bien-être physique et psychologique (ex. : récupération physique, meilleure concentration, augmentation de la motivation)",
+      "prioritaire": false,
+      "progression": {
+        "1": "apprentissage",
+        "2": "apprentissage",
+        "3": "apprentissage",
+        "4": "maitrise",
+        "5": null
+      },
+      "page": 20,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "EPS-ADO-022",
+      "competence": "3 – Adopter un mode de vie sain et actif",
+      "section": null,
+      "chemin": [
+        "C. Les habitudes de vie saines et actives",
+        "4. Le sommeil"
+      ],
+      "texte": "b. Indiquer des stratégies pour bien dormir (ex. : éviter la caféine, se coucher à une heure régulière, utiliser une technique de relaxation)",
+      "prioritaire": false,
+      "progression": {
+        "1": "apprentissage",
+        "2": "apprentissage",
+        "3": "apprentissage",
+        "4": "apprentissage",
+        "5": "maitrise"
+      },
+      "page": 20,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "EPS-ADO-023",
+      "competence": "3 – Adopter un mode de vie sain et actif",
+      "section": null,
+      "chemin": [
+        "C. Les habitudes de vie saines et actives",
+        "5. La prévention et la gestion du stress (positif ou négatif) 4"
+      ],
+      "texte": "a. Nommer des situations de stress qui ont des impacts dans sa vie de tous les jours P (ex. : gagner une compétition, avoir un examen)",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": "apprentissage",
+        "3": "apprentissage",
+        "4": "maitrise",
+        "5": null
+      },
+      "page": 20,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "EPS-ADO-024",
+      "competence": "3 – Adopter un mode de vie sain et actif",
+      "section": null,
+      "chemin": [
+        "C. Les habitudes de vie saines et actives",
+        "5. La prévention et la gestion du stress (positif ou négatif) 4"
+      ],
+      "texte": "b. Nommer des réactions physiologiques associées à une situation de stress (ex. : augmentation de la fréquence cardiaque, sudation)",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": "maitrise",
+        "5": null
+      },
+      "page": 20,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "EPS-ADO-025",
+      "competence": "3 – Adopter un mode de vie sain et actif",
+      "section": null,
+      "chemin": [
+        "C. Les habitudes de vie saines et actives",
+        "5. La prévention et la gestion du stress (positif ou négatif) 4"
+      ],
+      "texte": "c. Nommer des répercussions d’une mauvaise gestion du stress sur sa santé et son bien-être P (ex. : anxiété, fatigue, perturbation du sommeil, dépression)",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": "maitrise",
+        "5": null
+      },
+      "page": 20,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "EPS-ADO-026",
+      "competence": "3 – Adopter un mode de vie sain et actif",
+      "section": null,
+      "chemin": [
+        "C. Les habitudes de vie saines et actives",
+        "5. La prévention et la gestion du stress (positif ou négatif) 4"
+      ],
+      "texte": "d. Indiquer des stratégies pour se relaxer (ex. : prendre un bain chaud, lire, faire de l’activité physique, utiliser une P technique de relaxation)",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": "apprentissage",
+        "5": "maitrise"
+      },
+      "page": 21,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "EPS-ADO-027",
+      "competence": "3 – Adopter un mode de vie sain et actif",
+      "section": null,
+      "chemin": [
+        "C. Les habitudes de vie saines et actives",
+        "6. Les effets de diverses substances sur la performance et l’entraînement physique"
+      ],
+      "texte": "a. Nommer des substances qui affectent la performance sportive et l’entraînement (ex. : caféine, boisson énergisante, créatine)",
+      "prioritaire": false,
+      "progression": {
+        "1": "apprentissage",
+        "2": "apprentissage",
+        "3": "maitrise",
+        "4": null,
+        "5": null
+      },
+      "page": 21,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "EPS-ADO-028",
+      "competence": "3 – Adopter un mode de vie sain et actif",
+      "section": null,
+      "chemin": [
+        "C. Les habitudes de vie saines et actives",
+        "6. Les effets de diverses substances sur la performance et l’entraînement physique"
+      ],
+      "texte": "b. Nommer des effets secondaires à court et à long terme (physiques et psychologiques) de diverses substances (ex. : dépendance, hypertrophie musculaire, palpitations cardiaques, perturbation du sommeil, augmentation du stress)",
+      "prioritaire": false,
+      "progression": {
+        "1": "apprentissage",
+        "2": "apprentissage",
+        "3": "apprentissage",
+        "4": "maitrise",
+        "5": null
+      },
+      "page": 21,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "EPS-ADO-029",
+      "competence": "3 – Adopter un mode de vie sain et actif",
+      "section": null,
+      "chemin": [
+        "C. Les habitudes de vie saines et actives",
+        "6. Les effets de diverses substances sur la performance et l’entraînement physique"
+      ],
+      "texte": "c. Indiquer des stratégies pour éviter la consommation de substances néfastes (ex. : s’informer sur les effets secondaires des boissons énergisantes, refuser ou ne pas en acheter)",
+      "prioritaire": false,
+      "progression": {
+        "1": "apprentissage",
+        "2": "apprentissage",
+        "3": "apprentissage",
+        "4": "apprentissage",
+        "5": "maitrise"
+      },
+      "page": 21,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "EPS-ADO-030",
+      "competence": "3 – Adopter un mode de vie sain et actif",
+      "section": null,
+      "chemin": [
+        "C. Les habitudes de vie saines et actives",
+        "7. L’utilisation excessive de matériel multimédia"
+      ],
+      "texte": "a. Nommer des effets d’une utilisation excessive de matériel multimédia sur son état psychologique ou physique (ex. : raideurs musculaires, isolement)",
+      "prioritaire": false,
+      "progression": {
+        "1": "apprentissage",
+        "2": "apprentissage",
+        "3": "maitrise",
+        "4": null,
+        "5": null
+      },
+      "page": 21,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "EPS-ADO-031",
+      "competence": "3 – Adopter un mode de vie sain et actif",
+      "section": null,
+      "chemin": [
+        "A. La pratique régulière d’activités physiques (éléments d’une séance d’activité physique)",
+        "1. Le dosage de l’effort et les fréquences cardiaques cibles"
+      ],
+      "texte": "a. Évaluer, à l’aide de l’échelle de perception de Borg, son niveau d’effort et de fatigue pendant ou après une activité physique à caractère cardiovasculaire",
+      "prioritaire": false,
+      "progression": {
+        "1": "maitrise",
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": null
+      },
+      "page": 22,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "EPS-ADO-032",
+      "competence": "3 – Adopter un mode de vie sain et actif",
+      "section": null,
+      "chemin": [
+        "A. La pratique régulière d’activités physiques (éléments d’une séance d’activité physique)",
+        "1. Le dosage de l’effort et les fréquences cardiaques cibles"
+      ],
+      "texte": "b. Calculer sa fréquence cardiaque cible en se référant à sa fréquence cardiaque maximale P (ex. : 70 % de sa Fc max)",
+      "prioritaire": false,
+      "progression": {
+        "1": "apprentissage",
+        "2": "maitrise",
+        "3": null,
+        "4": null,
+        "5": null
+      },
+      "page": 22,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "EPS-ADO-033",
+      "competence": "3 – Adopter un mode de vie sain et actif",
+      "section": null,
+      "chemin": [
+        "A. La pratique régulière d’activités physiques (éléments d’une séance d’activité physique)",
+        "1. Le dosage de l’effort et les fréquences cardiaques cibles"
+      ],
+      "texte": "c. Doser ses efforts lors d’une activité physique d’intensité modérée à élevée d’une durée de 20 à 30 minutes consécutives P (ex. : partir lentement, prendre de bonnes inspirations)",
+      "prioritaire": false,
+      "progression": {
+        "1": "apprentissage",
+        "2": "maitrise",
+        "3": null,
+        "4": null,
+        "5": null
+      },
+      "page": 22,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "EPS-ADO-034",
+      "competence": "3 – Adopter un mode de vie sain et actif",
+      "section": null,
+      "chemin": [
+        "A. La pratique régulière d’activités physiques (éléments d’une séance d’activité physique)",
+        "1. Le dosage de l’effort et les fréquences cardiaques cibles"
+      ],
+      "texte": "d. Tenir compte de sa fréquence cardiaque cible lors d’une activité physique (ex. : lors d’un entraînement de 20 minutes, prendre sa Fc après 10 minutes pour vérifier si on se situe dans la zone d’entraînement)",
+      "prioritaire": false,
+      "progression": {
+        "1": "apprentissage",
+        "2": "apprentissage",
+        "3": "apprentissage",
+        "4": "maitrise",
+        "5": null
+      },
+      "page": 22,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "EPS-ADO-035",
+      "competence": "3 – Adopter un mode de vie sain et actif",
+      "section": null,
+      "chemin": [
+        "A. La pratique régulière d’activités physiques (éléments d’une séance d’activité physique)",
+        "1. Le dosage de l’effort et les fréquences cardiaques cibles"
+      ],
+      "texte": "e. Appliquer les principes de base de l’entraînement lors d’exercices musculaires, cardiovasculaires et de flexibilité (ex. : surcharge, spécificité, progression)",
+      "prioritaire": false,
+      "progression": {
+        "1": "apprentissage",
+        "2": "apprentissage",
+        "3": "apprentissage",
+        "4": "apprentissage",
+        "5": "maitrise"
+      },
+      "page": 22,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "EPS-ADO-036",
+      "competence": "3 – Adopter un mode de vie sain et actif",
+      "section": null,
+      "chemin": [
+        "A. La pratique régulière d’activités physiques (éléments d’une séance d’activité physique)",
+        "2. Les périodes de récupération"
+      ],
+      "texte": "a. S’entraîner en respectant les périodes de récupération pendant et après une activité (ex. : 1 : 1 = une période de travail pour une période de repos; 45 secondes de repos entre deux séries de musculation)",
+      "prioritaire": false,
+      "progression": {
+        "1": "apprentissage",
+        "2": "apprentissage",
+        "3": "apprentissage",
+        "4": "maitrise",
+        "5": null
+      },
+      "page": 22,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "EPS-ADO-037",
+      "competence": "3 – Adopter un mode de vie sain et actif",
+      "section": null,
+      "chemin": [
+        "A. La pratique régulière d’activités physiques (éléments d’une séance d’activité physique)",
+        "3. Les autoévaluations régulières (capacité cardiovasculaire et autres déterminants)"
+      ],
+      "texte": "a. Utiliser des tests pour évaluer sa flexibilité P (ex. : test de flexion du tronc en position assise)",
+      "prioritaire": false,
+      "progression": {
+        "1": "apprentissage",
+        "2": "apprentissage",
+        "3": "apprentissage",
+        "4": "apprentissage",
+        "5": "maitrise"
+      },
+      "page": 22,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "EPS-ADO-038",
+      "competence": "3 – Adopter un mode de vie sain et actif",
+      "section": null,
+      "chemin": [
+        "A. La pratique régulière d’activités physiques (éléments d’une séance d’activité physique)",
+        "3. Les autoévaluations régulières (capacité cardiovasculaire et autres déterminants)"
+      ],
+      "texte": "b. Utiliser des tests pour évaluer sa force et son endurance musculaire P (ex. : test de redressements assis, test de flexion-extension des bras)",
+      "prioritaire": false,
+      "progression": {
+        "1": "apprentissage",
+        "2": "apprentissage",
+        "3": "apprentissage",
+        "4": "apprentissage",
+        "5": "maitrise"
+      },
+      "page": 22,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "EPS-ADO-039",
+      "competence": "3 – Adopter un mode de vie sain et actif",
+      "section": null,
+      "chemin": [
+        "A. La pratique régulière d’activités physiques (éléments d’une séance d’activité physique)",
+        "3. Les autoévaluations régulières (capacité cardiovasculaire et autres déterminants)"
+      ],
+      "texte": "c. Utiliser des tests pour évaluer son endurance cardiovasculaire P (ex. : test des 12 minutes de Cooper, test navette de Léger)",
+      "prioritaire": false,
+      "progression": {
+        "1": "apprentissage",
+        "2": "apprentissage",
+        "3": "apprentissage",
+        "4": "apprentissage",
+        "5": "maitrise"
+      },
+      "page": 22,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "EPS-ADO-040",
+      "competence": "3 – Adopter un mode de vie sain et actif",
+      "section": null,
+      "chemin": [
+        "B. La pratique de techniques de relaxation"
+      ],
+      "texte": "1. Utiliser des techniques pour se relaxer après un effort physique ou pour gérer son stress P (ex. : respiration contrôlée, méthode de Jacobson, yoga, imagerie mentale)",
+      "prioritaire": false,
+      "progression": {
+        "1": "apprentissage",
+        "2": "apprentissage",
+        "3": "apprentissage",
+        "4": "maitrise",
+        "5": null
+      },
+      "page": 22,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "EPS-SAV-001",
+      "competence": "Pratique sécuritaire d’activités physiques et esprit sportif",
+      "section": "Savoirs",
+      "chemin": [
+        "A. Les règles liées aux activités physiques"
+      ],
+      "texte": "1. Nommer les principales règles d’éthique dans le sport P (ex. : se conformer aux règles du jeu, refuser toute forme de violence ou de tricherie)",
+      "prioritaire": false,
+      "progression": {
+        "1": "apprentissage",
+        "2": "maitrise",
+        "3": null,
+        "4": null,
+        "5": null
+      },
+      "page": 24,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "EPS-SAV-002",
+      "competence": "Pratique sécuritaire d’activités physiques et esprit sportif",
+      "section": "Savoirs",
+      "chemin": [
+        "A. Les règles liées aux activités physiques"
+      ],
+      "texte": "2. Nommer les règles de sécurité lors d’une activité physique pratiquée seul ou avec d’autres P (ex. : porter des chaussures de sport attachées, enlever ses bijoux)",
+      "prioritaire": false,
+      "progression": {
+        "1": "apprentissage",
+        "2": "maitrise",
+        "3": null,
+        "4": null,
+        "5": null
+      },
+      "page": 24,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "EPS-SAV-003",
+      "competence": "Pratique sécuritaire d’activités physiques et esprit sportif",
+      "section": "Savoir-faire",
+      "chemin": [
+        "A. La pratique sécuritaire d’activités physiques 1"
+      ],
+      "texte": "1. Porter une tenue vestimentaire appropriée lors de la pratique d’une activité physique P (ex. : porter des vêtements adaptés aux conditions climatiques)",
+      "prioritaire": false,
+      "progression": {
+        "1": "maitrise",
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": null
+      },
+      "page": 25,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "EPS-SAV-004",
+      "competence": "Pratique sécuritaire d’activités physiques et esprit sportif",
+      "section": "Savoir-faire",
+      "chemin": [
+        "A. La pratique sécuritaire d’activités physiques 1"
+      ],
+      "texte": "2. Effectuer un échauffement ou un retour au calme en fonction de l’activité physique pratiquée P (ex. : effectuer des exercices d’étirement dynamique avant un sprint)",
+      "prioritaire": false,
+      "progression": {
+        "1": "apprentissage",
+        "2": "maitrise",
+        "3": null,
+        "4": null,
+        "5": null
+      },
+      "page": 25,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "EPS-SAV-005",
+      "competence": "Pratique sécuritaire d’activités physiques et esprit sportif",
+      "section": "Savoir-faire",
+      "chemin": [
+        "A. La pratique sécuritaire d’activités physiques 1"
+      ],
+      "texte": "3. Placer, utiliser et ranger le matériel de façon appropriée P (ex. : replacer les couvercles sur les ancrages des poteaux)",
+      "prioritaire": false,
+      "progression": {
+        "1": "apprentissage",
+        "2": "maitrise",
+        "3": null,
+        "4": null,
+        "5": null
+      },
+      "page": 25,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "EPS-SAV-006",
+      "competence": "Pratique sécuritaire d’activités physiques et esprit sportif",
+      "section": "Savoir-faire",
+      "chemin": [
+        "A. La pratique sécuritaire d’activités physiques 1"
+      ],
+      "texte": "4. Manipuler des objets lourds de façon sécuritaire seul ou avec d’autres (ex. : fléchir les genoux et les hanches pour lever des poteaux de volleyball, placer la charge le plus près possible du corps)",
+      "prioritaire": false,
+      "progression": {
+        "1": "apprentissage",
+        "2": "maitrise",
+        "3": null,
+        "4": null,
+        "5": null
+      },
+      "page": 25,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "EPS-SAV-007",
+      "competence": "Pratique sécuritaire d’activités physiques et esprit sportif",
+      "section": "Savoir-faire",
+      "chemin": [
+        "A. La pratique sécuritaire d’activités physiques 1"
+      ],
+      "texte": "5. Choisir un partenaire de même gabarit et de même poids que soi, s’il y a lieu (ex. : dans un sport de combat, se jumeler avec un élève de même force)",
+      "prioritaire": false,
+      "progression": {
+        "1": "apprentissage",
+        "2": "maitrise",
+        "3": null,
+        "4": null,
+        "5": null
+      },
+      "page": 25,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "EPS-SAV-008",
+      "competence": "Pratique sécuritaire d’activités physiques et esprit sportif",
+      "section": "Savoir-faire",
+      "chemin": [
+        "A. La pratique sécuritaire d’activités physiques 1"
+      ],
+      "texte": "6. Appliquer les normes et les règlements des fédérations sportives, s’il y a lieu (ex. : porter l‘équipement protecteur requis)",
+      "prioritaire": false,
+      "progression": {
+        "1": "apprentissage",
+        "2": "maitrise",
+        "3": null,
+        "4": null,
+        "5": null
+      },
+      "page": 25,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "EPS-SAV-009",
+      "competence": "Pratique sécuritaire d’activités physiques et esprit sportif",
+      "section": "Savoir-faire",
+      "chemin": [
+        "A. La pratique sécuritaire d’activités physiques 1"
+      ],
+      "texte": "7. Utiliser des traitements simples pour prévenir ou soulager des malaises et des blessures résultant de la pratique d’activités physiques (ex. : arrêter l’activité, appliquer de la glace sur une entorse, utiliser son bronchodilatateur avant une activité)",
+      "prioritaire": false,
+      "progression": {
+        "1": "apprentissage",
+        "2": "maitrise",
+        "3": null,
+        "4": null,
+        "5": null
+      },
+      "page": 25,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "EPS-SAV-010",
+      "competence": "Pratique sécuritaire d’activités physiques et esprit sportif",
+      "section": "Savoir-faire",
+      "chemin": [
+        "A. La pratique sécuritaire d’activités physiques 1"
+      ],
+      "texte": "8. Réagir adéquatement devant des situations potentiellement dangereuses P (ex. : ramasser un objet qui traîne sur la surface de jeu)",
+      "prioritaire": false,
+      "progression": {
+        "1": "apprentissage",
+        "2": "apprentissage",
+        "3": "maitrise",
+        "4": null,
+        "5": null
+      },
+      "page": 25,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "EPS-SAV-011",
+      "competence": "Pratique sécuritaire d’activités physiques et esprit sportif",
+      "section": "Savoir-être",
+      "chemin": [
+        "A. L’esprit sportif"
+      ],
+      "texte": "1. Faire preuve de respect à l’égard de ses partenaires et de ses adversaires dans ses P paroles et ses gestes",
+      "prioritaire": false,
+      "progression": {
+        "1": "maitrise",
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": null
+      },
+      "page": 26,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "EPS-SAV-012",
+      "competence": "Pratique sécuritaire d’activités physiques et esprit sportif",
+      "section": "Savoir-être",
+      "chemin": [
+        "A. L’esprit sportif"
+      ],
+      "texte": "2. Respecter le matériel et l’environnement (ex. : ne pas botter le ballon de volleyball, respecter le parcours balisé, rapporter ses P déchets après une activité en plein air)",
+      "prioritaire": false,
+      "progression": {
+        "1": "maitrise",
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": null
+      },
+      "page": 26,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "EPS-SAV-013",
+      "competence": "Pratique sécuritaire d’activités physiques et esprit sportif",
+      "section": "Savoir-être",
+      "chemin": [
+        "A. L’esprit sportif"
+      ],
+      "texte": "3. Établir des règles de coopération avec son ou ses partenaires (ex. : écouter les idées de chacun, attribuer un rôle à chacun des participants selon P ses forces)",
+      "prioritaire": false,
+      "progression": {
+        "1": "apprentissage",
+        "2": "maitrise",
+        "3": null,
+        "4": null,
+        "5": null
+      },
+      "page": 26,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "EPS-SAV-014",
+      "competence": "Pratique sécuritaire d’activités physiques et esprit sportif",
+      "section": "Savoir-être",
+      "chemin": [
+        "A. L’esprit sportif"
+      ],
+      "texte": "4. Respecter le rôle de chacun des participants (ex. : respecter les décisions de l’arbitre ou du joueur-arbitre, éviter d’empiéter sur P l’espace de jeu de son coéquipier au badminton en double)",
+      "prioritaire": false,
+      "progression": {
+        "1": "apprentissage",
+        "2": "maitrise",
+        "3": null,
+        "4": null,
+        "5": null
+      },
+      "page": 26,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "EPS-SAV-015",
+      "competence": "Pratique sécuritaire d’activités physiques et esprit sportif",
+      "section": "Savoir-être",
+      "chemin": [
+        "A. L’esprit sportif"
+      ],
+      "texte": "5. Gérer des conflits de façon autonome et pacifique (ex. : parler à son coéquipier du problème vécu pendant la situation de jeu, s'exprimer P au « je »)",
+      "prioritaire": false,
+      "progression": {
+        "1": "apprentissage",
+        "2": "maitrise",
+        "3": null,
+        "4": null,
+        "5": null
+      },
+      "page": 26,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "EPS-SAV-016",
+      "competence": "Pratique sécuritaire d’activités physiques et esprit sportif",
+      "section": "Savoir-être",
+      "chemin": [
+        "A. L’esprit sportif"
+      ],
+      "texte": "6. Appliquer de façon stricte et avec honnêteté les règles du jeu ou les ajustements déterminés par l’enseignante ou l'enseignant P (ex. : utiliser le rebond au volleyball, indiquer que la balle est tombée à l’extérieur du court de tennis, respecter le parcours de cross-country)",
+      "prioritaire": false,
+      "progression": {
+        "1": "apprentissage",
+        "2": "apprentissage",
+        "3": "maitrise",
+        "4": null,
+        "5": null
+      },
+      "page": 26,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "EPS-SAV-017",
+      "competence": "Pratique sécuritaire d’activités physiques et esprit sportif",
+      "section": "Savoir-être",
+      "chemin": [
+        "A. L’esprit sportif"
+      ],
+      "texte": "7. Apprécier les essais réussis et les bonnes performances de ses partenaires et de ses adversaires P (ex. : signaler les bons coups et les victoires, féliciter l’adversaire s'il gagne)",
+      "prioritaire": false,
+      "progression": {
+        "1": "apprentissage",
+        "2": "apprentissage",
+        "3": "maitrise",
+        "4": null,
+        "5": null
+      },
+      "page": 26,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "EPS-SAV-018",
+      "competence": "Pratique sécuritaire d’activités physiques et esprit sportif",
+      "section": "Savoir-être",
+      "chemin": [
+        "A. L’esprit sportif"
+      ],
+      "texte": "8. Démontrer de la dignité et une maîtrise de soi peu importe l’activité physique pratiquée P (ex. : contrôler ses émotions)",
+      "prioritaire": false,
+      "progression": {
+        "1": "apprentissage",
+        "2": "apprentissage",
+        "3": "maitrise",
+        "4": null,
+        "5": null
+      },
+      "page": 26,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "EPS-SAV-019",
+      "competence": "Pratique sécuritaire d’activités physiques et esprit sportif",
+      "section": "Savoir-être",
+      "chemin": [
+        "A. L’esprit sportif"
+      ],
+      "texte": "9. Se comporter de façon équitable dans ses interactions avec les autres (ex. : faire la passe au joueur le mieux placé et non à son ami, appliquer les mêmes P règles du jeu pour tout le monde lors de l’arbitrage)",
+      "prioritaire": false,
+      "progression": {
+        "1": "apprentissage",
+        "2": "apprentissage",
+        "3": "apprentissage",
+        "4": "maitrise",
+        "5": null
+      },
+      "page": 26,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "EPS-SAV-020",
+      "competence": "Pratique sécuritaire d’activités physiques et esprit sportif",
+      "section": "Savoir-être",
+      "chemin": [
+        "A. L’esprit sportif"
+      ],
+      "texte": "10. Démontrer une combativité respectueuse de ses adversaires P (ex. : ajuster ses actions ou celles de son équipe pour ne pas humilier l’adversaire)",
+      "prioritaire": false,
+      "progression": {
+        "1": "apprentissage",
+        "2": "apprentissage",
+        "3": "apprentissage",
+        "4": "apprentissage",
+        "5": "maitrise"
+      },
+      "page": 26,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "EPS-SAV-021",
+      "competence": "Pratique sécuritaire d’activités physiques et esprit sportif",
+      "section": "Savoir-être",
+      "chemin": [
+        "A. L’esprit sportif"
+      ],
+      "texte": "11. Persévérer dans une activité malgré les difficultés et les résultats afin de se dépasser (ex. : essayer à nouveau à la suite d’un échec, sortir de sa zone de confort pour P repousser ses limites)",
+      "prioritaire": false,
+      "progression": {
+        "1": "apprentissage",
+        "2": "apprentissage",
+        "3": "apprentissage",
+        "4": "apprentissage",
+        "5": "maitrise"
+      },
+      "page": 26,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "EPS-SAV-022",
+      "competence": "Pratique sécuritaire d’activités physiques et esprit sportif",
+      "section": "Savoir-être",
+      "chemin": [
+        "B. L’aide et l’entraide"
+      ],
+      "texte": "1. Apporter son aide et accepter d’être aidé au besoin (ex. : aider un autre élève à manipuler du matériel, faire du portage en plein air, P accepter les conseils techniques)",
+      "prioritaire": false,
+      "progression": {
+        "1": "apprentissage",
+        "2": "maitrise",
+        "3": null,
+        "4": null,
+        "5": null
+      },
+      "page": 26,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "EPS-SAV-023",
+      "competence": "Pratique sécuritaire d’activités physiques et esprit sportif",
+      "section": "Savoir-être",
+      "chemin": [
+        "C. L’acceptation des différences"
+      ],
+      "texte": "1. Démontrer de l’ouverture face à la différence (ex. : accepter d’intégrer au sein d’une équipe un élève moins habile, d’une autre P ethnie ou de sexe opposé)",
+      "prioritaire": false,
+      "progression": {
+        "1": "apprentissage",
+        "2": "apprentissage",
+        "3": "maitrise",
+        "4": null,
+        "5": null
+      },
+      "page": 26,
+      "a_verifier": false,
+      "note": ""
+    }
+  ],
+  "source_url": "https://cdn-contenu.quebec.ca/cdn-contenu/education/pfeq/secondaire/progressions-apprentissages/PFEQ-progression-apprentissages-education-physique-secondaire.pdf",
+  "controle_logique": {
+    "date": "2026-11-10",
+    "illogiques": 0
+  }
+}

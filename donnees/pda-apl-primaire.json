@@ -1,0 +1,2837 @@
+{
+  "discipline": "Arts plastiques",
+  "code_discipline": "APL",
+  "ordre": "primaire",
+  "source": "arts-plastiques.pdf",
+  "annees": [
+    "1",
+    "2",
+    "3",
+    "4",
+    "5",
+    "6"
+  ],
+  "pages_avec_grandes_images": [],
+  "bilan": {
+    "nombre_savoirs": 130,
+    "a_verifier": 0,
+    "prioritaires": 88
+  },
+  "savoirs": [
+    {
+      "id": "APL-CON-001",
+      "competence": "Connaissances",
+      "section": null,
+      "chemin": [
+        "A. Gestes transformateurs et outils 1, 2",
+        "1. Gestes transformateurs"
+      ],
+      "texte": "a. Nommer les gestes transformateurs suivants : coller, déchirer , découper, dessiner, imprimer , modeler et peindre",
+      "prioritaire": true,
+      "progression": {
+        "1": "apprentissage",
+        "2": "maitrise",
+        "3": "reinvestissement",
+        "4": "reinvestissement",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 4,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "APL-CON-002",
+      "competence": "Connaissances",
+      "section": null,
+      "chemin": [
+        "A. Gestes transformateurs et outils 1, 2",
+        "1. Gestes transformateurs"
+      ],
+      "texte": "b. Identifier les gestes transformateurs, y compris graver",
+      "prioritaire": true,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "maitrise",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 4,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "APL-CON-003",
+      "competence": "Connaissances",
+      "section": null,
+      "chemin": [
+        "A. Gestes transformateurs et outils 1, 2",
+        "1. Gestes transformateurs"
+      ],
+      "texte": "c. Identifier les gestes transformateurs, y compris assembler et façonner",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": "apprentissage",
+        "6": "maitrise"
+      },
+      "page": 4,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "APL-CON-004",
+      "competence": "Connaissances",
+      "section": null,
+      "chemin": [
+        "A. Gestes transformateurs et outils 1, 2",
+        "1. Gestes transformateurs"
+      ],
+      "texte": "d. Différencier les gestes transformateurs",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": "apprentissage",
+        "6": "maitrise"
+      },
+      "page": 4,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "APL-CON-005",
+      "competence": "Connaissances",
+      "section": null,
+      "chemin": [
+        "A. Gestes transformateurs et outils 1, 2",
+        "2. Techniques"
+      ],
+      "texte": "a. Nommer les techniques suivantes : collage, dessin, modelage et peinture",
+      "prioritaire": true,
+      "progression": {
+        "1": "apprentissage",
+        "2": "maitrise",
+        "3": "reinvestissement",
+        "4": "reinvestissement",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 4,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "APL-CON-006",
+      "competence": "Connaissances",
+      "section": null,
+      "chemin": [
+        "A. Gestes transformateurs et outils 1, 2",
+        "2. Techniques"
+      ],
+      "texte": "b. Identifier les techniques, y compris la gravure et l’impression",
+      "prioritaire": true,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "maitrise",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 4,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "APL-CON-007",
+      "competence": "Connaissances",
+      "section": null,
+      "chemin": [
+        "A. Gestes transformateurs et outils 1, 2",
+        "2. Techniques"
+      ],
+      "texte": "c. Identifier les techniques, y compris l’assemblage et le façonnage",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": "apprentissage",
+        "6": "maitrise"
+      },
+      "page": 4,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "APL-CON-008",
+      "competence": "Connaissances",
+      "section": null,
+      "chemin": [
+        "A. Gestes transformateurs et outils 1, 2",
+        "2. Techniques"
+      ],
+      "texte": "d. Différencier les techniques",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": "apprentissage",
+        "6": "maitrise"
+      },
+      "page": 4,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "APL-CON-009",
+      "competence": "Connaissances",
+      "section": null,
+      "chemin": [
+        "A. Gestes transformateurs et outils 1, 2",
+        "3. Matériaux"
+      ],
+      "texte": "a. Nommer les matériaux suivants : craie de cire, crayon feutre, gouache, papier et carton, pastel à l’huile et pâte à modeler",
+      "prioritaire": true,
+      "progression": {
+        "1": "apprentissage",
+        "2": "maitrise",
+        "3": "reinvestissement",
+        "4": "reinvestissement",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 4,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "APL-CON-010",
+      "competence": "Connaissances",
+      "section": null,
+      "chemin": [
+        "A. Gestes transformateurs et outils 1, 2",
+        "3. Matériaux"
+      ],
+      "texte": "b. Identifier les matériaux, y compris l’argile, le fusain et le pastel sec",
+      "prioritaire": true,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "maitrise",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 4,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "APL-CON-011",
+      "competence": "Connaissances",
+      "section": null,
+      "chemin": [
+        "A. Gestes transformateurs et outils 1, 2",
+        "3. Matériaux"
+      ],
+      "texte": "c. Identifier les matériaux, y compris l’encre",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": "apprentissage",
+        "6": "maitrise"
+      },
+      "page": 4,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "APL-CON-012",
+      "competence": "Connaissances",
+      "section": null,
+      "chemin": [
+        "A. Gestes transformateurs et outils 1, 2",
+        "3. Matériaux"
+      ],
+      "texte": "d. Différencier les matériaux",
+      "prioritaire": true,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": "apprentissage",
+        "6": "maitrise"
+      },
+      "page": 4,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "APL-CON-013",
+      "competence": "Connaissances",
+      "section": null,
+      "chemin": [
+        "A. Gestes transformateurs et outils 1, 2",
+        "4. Outils"
+      ],
+      "texte": "a. Nommer les outils suivants : brosse, ciseaux, souris et crayon électronique",
+      "prioritaire": true,
+      "progression": {
+        "1": "apprentissage",
+        "2": "maitrise",
+        "3": "reinvestissement",
+        "4": "reinvestissement",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 4,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "APL-CON-014",
+      "competence": "Connaissances",
+      "section": null,
+      "chemin": [
+        "A. Gestes transformateurs et outils 1, 2",
+        "4. Outils"
+      ],
+      "texte": "b. Identifier les outils, y compris l’éponge",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "maitrise",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 4,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "APL-CON-015",
+      "competence": "Connaissances",
+      "section": null,
+      "chemin": [
+        "A. Gestes transformateurs et outils 1, 2",
+        "4. Outils"
+      ],
+      "texte": "c. Identifier les outils, y compris le pinceau",
+      "prioritaire": true,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": "apprentissage",
+        "6": "maitrise"
+      },
+      "page": 4,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "APL-CON-016",
+      "competence": "Connaissances",
+      "section": null,
+      "chemin": [
+        "A. Gestes transformateurs et outils 1, 2",
+        "4. Outils"
+      ],
+      "texte": "d. Différencier les outils",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": "apprentissage",
+        "6": "maitrise"
+      },
+      "page": 4,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "APL-CON-017",
+      "competence": "Connaissances",
+      "section": null,
+      "chemin": [
+        "B. Langage plastique",
+        "1. Forme"
+      ],
+      "texte": "a. Nommer les formes arrondies ou angulaires",
+      "prioritaire": true,
+      "progression": {
+        "1": "apprentissage",
+        "2": "maitrise",
+        "3": "reinvestissement",
+        "4": "reinvestissement",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 4,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "APL-CON-018",
+      "competence": "Connaissances",
+      "section": null,
+      "chemin": [
+        "B. Langage plastique",
+        "1. Forme"
+      ],
+      "texte": "b. Identifier les formes arrondies ou angulaires",
+      "prioritaire": true,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "maitrise",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 5,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "APL-CON-019",
+      "competence": "Connaissances",
+      "section": null,
+      "chemin": [
+        "B. Langage plastique",
+        "1. Forme"
+      ],
+      "texte": "c. Différencier les formes arrondies des formes angulaires",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": "apprentissage",
+        "6": "maitrise"
+      },
+      "page": 5,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "APL-CON-020",
+      "competence": "Connaissances",
+      "section": null,
+      "chemin": [
+        "B. Langage plastique",
+        "2. Ligne"
+      ],
+      "texte": "a. Nommer les lignes larges et étroites",
+      "prioritaire": true,
+      "progression": {
+        "1": "apprentissage",
+        "2": "maitrise",
+        "3": "reinvestissement",
+        "4": "reinvestissement",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 5,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "APL-CON-021",
+      "competence": "Connaissances",
+      "section": null,
+      "chemin": [
+        "B. Langage plastique",
+        "2. Ligne"
+      ],
+      "texte": "b. Identifier les lignes, y compris les lignes horizontales, verticales, courtes et longues",
+      "prioritaire": true,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "maitrise",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 5,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "APL-CON-022",
+      "competence": "Connaissances",
+      "section": null,
+      "chemin": [
+        "B. Langage plastique",
+        "2. Ligne"
+      ],
+      "texte": "c. Identifier les lignes, y compris les lignes courbes, droites, obliques, brisées et circulaires",
+      "prioritaire": true,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": "apprentissage",
+        "6": "maitrise"
+      },
+      "page": 5,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "APL-CON-023",
+      "competence": "Connaissances",
+      "section": null,
+      "chemin": [
+        "B. Langage plastique",
+        "2. Ligne"
+      ],
+      "texte": "d. Différencier les lignes",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": "apprentissage",
+        "6": "maitrise"
+      },
+      "page": 5,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "APL-CON-024",
+      "competence": "Connaissances",
+      "section": null,
+      "chemin": [
+        "B. Langage plastique",
+        "3. Couleur pigmentaire"
+      ],
+      "texte": "a. Nommer les couleurs primaires : cyan, jaune primaire et magenta",
+      "prioritaire": true,
+      "progression": {
+        "1": "apprentissage",
+        "2": "maitrise",
+        "3": "reinvestissement",
+        "4": "reinvestissement",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 5,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "APL-CON-025",
+      "competence": "Connaissances",
+      "section": null,
+      "chemin": [
+        "B. Langage plastique",
+        "3. Couleur pigmentaire"
+      ],
+      "texte": "b. Identifier les couleurs secondaires : orangé, vert et violet",
+      "prioritaire": true,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "maitrise",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 5,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "APL-CON-026",
+      "competence": "Connaissances",
+      "section": null,
+      "chemin": [
+        "B. Langage plastique",
+        "3. Couleur pigmentaire"
+      ],
+      "texte": "c. Identifier les couleurs chaudes : jaune, orangé, magenta et les couleurs froides : cyan, vert, violet",
+      "prioritaire": true,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": "apprentissage",
+        "6": "maitrise"
+      },
+      "page": 5,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "APL-CON-027",
+      "competence": "Connaissances",
+      "section": null,
+      "chemin": [
+        "B. Langage plastique",
+        "3. Couleur pigmentaire"
+      ],
+      "texte": "d. Différencier les couleurs",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": "apprentissage",
+        "6": "maitrise"
+      },
+      "page": 5,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "APL-CON-028",
+      "competence": "Connaissances",
+      "section": null,
+      "chemin": [
+        "B. Langage plastique",
+        "4. Valeur"
+      ],
+      "texte": "a. Nommer les valeurs claires et foncées",
+      "prioritaire": false,
+      "progression": {
+        "1": "apprentissage",
+        "2": "maitrise",
+        "3": "reinvestissement",
+        "4": "reinvestissement",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 5,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "APL-CON-029",
+      "competence": "Connaissances",
+      "section": null,
+      "chemin": [
+        "B. Langage plastique",
+        "4. Valeur"
+      ],
+      "texte": "b. Identifier les valeurs claires et foncées",
+      "prioritaire": true,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "maitrise",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 5,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "APL-CON-030",
+      "competence": "Connaissances",
+      "section": null,
+      "chemin": [
+        "B. Langage plastique",
+        "4. Valeur"
+      ],
+      "texte": "c. Différencier les valeurs",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": "apprentissage",
+        "6": "maitrise"
+      },
+      "page": 5,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "APL-CON-031",
+      "competence": "Connaissances",
+      "section": null,
+      "chemin": [
+        "B. Langage plastique",
+        "5. Texture"
+      ],
+      "texte": "a. Nommer des textures",
+      "prioritaire": false,
+      "progression": {
+        "1": "apprentissage",
+        "2": "maitrise",
+        "3": "reinvestissement",
+        "4": "reinvestissement",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 5,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "APL-CON-032",
+      "competence": "Connaissances",
+      "section": null,
+      "chemin": [
+        "B. Langage plastique",
+        "5. Texture"
+      ],
+      "texte": "b. Identifier des textures",
+      "prioritaire": true,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "maitrise",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 5,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "APL-CON-033",
+      "competence": "Connaissances",
+      "section": null,
+      "chemin": [
+        "B. Langage plastique",
+        "5. Texture"
+      ],
+      "texte": "c. Différencier les textures",
+      "prioritaire": true,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": "apprentissage",
+        "6": "maitrise"
+      },
+      "page": 5,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "APL-CON-034",
+      "competence": "Connaissances",
+      "section": null,
+      "chemin": [
+        "B. Langage plastique",
+        "6. Motif"
+      ],
+      "texte": "a. Nommer des motifs",
+      "prioritaire": false,
+      "progression": {
+        "1": "apprentissage",
+        "2": "maitrise",
+        "3": "reinvestissement",
+        "4": "reinvestissement",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 5,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "APL-CON-035",
+      "competence": "Connaissances",
+      "section": null,
+      "chemin": [
+        "B. Langage plastique",
+        "6. Motif"
+      ],
+      "texte": "b. Identifier des motifs",
+      "prioritaire": true,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "maitrise",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 5,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "APL-CON-036",
+      "competence": "Connaissances",
+      "section": null,
+      "chemin": [
+        "B. Langage plastique",
+        "6. Motif"
+      ],
+      "texte": "c. Différencier les motifs",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": "apprentissage",
+        "6": "maitrise"
+      },
+      "page": 5,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "APL-CON-037",
+      "competence": "Connaissances",
+      "section": null,
+      "chemin": [
+        "B. Langage plastique",
+        "7. Volume"
+      ],
+      "texte": "a. Nommer les formes tridimensionnelles",
+      "prioritaire": false,
+      "progression": {
+        "1": "apprentissage",
+        "2": "maitrise",
+        "3": "reinvestissement",
+        "4": "reinvestissement",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 5,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "APL-CON-038",
+      "competence": "Connaissances",
+      "section": null,
+      "chemin": [
+        "B. Langage plastique",
+        "7. Volume"
+      ],
+      "texte": "b. Identifier les formes tridimensionnelles",
+      "prioritaire": true,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "maitrise",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 5,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "APL-CON-039",
+      "competence": "Connaissances",
+      "section": null,
+      "chemin": [
+        "B. Langage plastique",
+        "7. Volume"
+      ],
+      "texte": "c. Différencier les formes tridimensionnelles",
+      "prioritaire": true,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": "apprentissage",
+        "6": "maitrise"
+      },
+      "page": 5,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "APL-CON-040",
+      "competence": "Connaissances",
+      "section": null,
+      "chemin": [
+        "B. Langage plastique",
+        "8. Organisation de l’espace"
+      ],
+      "texte": "a. Nommer les façons d’organiser les éléments dans l’espace : énumération, juxtaposition, répétition et alternance",
+      "prioritaire": true,
+      "progression": {
+        "1": "apprentissage",
+        "2": "maitrise",
+        "3": "reinvestissement",
+        "4": "reinvestissement",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 5,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "APL-CON-041",
+      "competence": "Connaissances",
+      "section": null,
+      "chemin": [
+        "B. Langage plastique",
+        "8. Organisation de l’espace"
+      ],
+      "texte": "b. Identifier les façons d’organiser les éléments dans l’espace, y compris la superposition, la symétrie et l’asymétrie",
+      "prioritaire": true,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "maitrise",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 5,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "APL-CON-042",
+      "competence": "Connaissances",
+      "section": null,
+      "chemin": [
+        "B. Langage plastique",
+        "8. Organisation de l’espace"
+      ],
+      "texte": "c. Différencier les façons d’organiser les éléments dans l’espace",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": "apprentissage",
+        "6": "maitrise"
+      },
+      "page": 5,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "APL-CON-043",
+      "competence": "Connaissances",
+      "section": null,
+      "chemin": [
+        "B. Langage plastique",
+        "8. Organisation de l’espace"
+      ],
+      "texte": "a. Identifier les façons de représenter les éléments dans l’espace : perspective avec chevauchement",
+      "prioritaire": true,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "maitrise",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 6,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "APL-CON-044",
+      "competence": "Connaissances",
+      "section": null,
+      "chemin": [
+        "B. Langage plastique",
+        "8. Organisation de l’espace"
+      ],
+      "texte": "b. Identifier les façons de représenter les éléments dans l’espace, y compris la perspective en diminution",
+      "prioritaire": true,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": "apprentissage",
+        "6": "maitrise"
+      },
+      "page": 6,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "APL-CON-045",
+      "competence": "Connaissances",
+      "section": null,
+      "chemin": [
+        "B. Langage plastique",
+        "8. Organisation de l’espace"
+      ],
+      "texte": "c. Différencier les façons de représenter les éléments dans l’espace",
+      "prioritaire": true,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": "apprentissage",
+        "6": "maitrise"
+      },
+      "page": 6,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "APL-REA-001",
+      "competence": "1 – Réaliser des créations plastiques personnelles",
+      "section": null,
+      "chemin": [
+        "A. Exploiter des idées de création inspirées par une proposition"
+      ],
+      "texte": "a. Rechercher une idée liée à la proposition de création tout en consultant des d’information",
+      "prioritaire": false,
+      "progression": {
+        "1": "apprentissage",
+        "2": "maitrise",
+        "3": "reinvestissement",
+        "4": "reinvestissement",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 7,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "APL-REA-002",
+      "competence": "1 – Réaliser des créations plastiques personnelles",
+      "section": null,
+      "chemin": [
+        "A. Exploiter des idées de création inspirées par une proposition"
+      ],
+      "texte": "b. Rechercher quelques idées liées à la proposition de création tout en consultant des sources d’information",
+      "prioritaire": true,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "maitrise",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 7,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "APL-REA-003",
+      "competence": "1 – Réaliser des créations plastiques personnelles",
+      "section": null,
+      "chemin": [
+        "A. Exploiter des idées de création inspirées par une proposition"
+      ],
+      "texte": "c. Rechercher une variété d’idées liées à la proposition de création tout en consultant des sources d’information",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": "apprentissage",
+        "6": "maitrise"
+      },
+      "page": 7,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "APL-REA-004",
+      "competence": "1 – Réaliser des créations plastiques personnelles",
+      "section": null,
+      "chemin": [
+        "A. Exploiter des idées de création inspirées par une proposition"
+      ],
+      "texte": "d. Choisir une idée qui traduit sa perception du réel",
+      "prioritaire": true,
+      "progression": {
+        "1": "apprentissage",
+        "2": "maitrise",
+        "3": "reinvestissement",
+        "4": "reinvestissement",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 7,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "APL-REA-005",
+      "competence": "1 – Réaliser des créations plastiques personnelles",
+      "section": null,
+      "chemin": [
+        "A. Exploiter des idées de création inspirées par une proposition"
+      ],
+      "texte": "e. Faire un croquis de son idée",
+      "prioritaire": false,
+      "progression": {
+        "1": "apprentissage",
+        "2": "maitrise",
+        "3": "reinvestissement",
+        "4": "reinvestissement",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 7,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "APL-REA-006",
+      "competence": "1 – Réaliser des créations plastiques personnelles",
+      "section": null,
+      "chemin": [
+        "A. Exploiter des idées de création inspirées par une proposition"
+      ],
+      "texte": "f. Faire quelques croquis de son idée",
+      "prioritaire": true,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "maitrise",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 7,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "APL-REA-007",
+      "competence": "1 – Réaliser des créations plastiques personnelles",
+      "section": null,
+      "chemin": [
+        "A. Exploiter des idées de création inspirées par une proposition"
+      ],
+      "texte": "g. Faire des croquis représentant des variantes de son idée",
+      "prioritaire": true,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": "apprentissage",
+        "6": "maitrise"
+      },
+      "page": 7,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "APL-REA-008",
+      "competence": "1 – Réaliser des créations plastiques personnelles",
+      "section": null,
+      "chemin": [
+        "B. Exploiter des gestes transformateurs et des éléments du langage plastique 1",
+        "1. Gestes et outils"
+      ],
+      "texte": "a. Expérimenter des gestes transformateurs tels que : tracer à main levée, appliquer un pigment coloré en aplat, déchirer, entailler, découper, enduire une surface de colle, souder et pincer un matériau malléable",
+      "prioritaire": true,
+      "progression": {
+        "1": "apprentissage",
+        "2": "maitrise",
+        "3": "reinvestissement",
+        "4": "reinvestissement",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 7,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "APL-REA-009",
+      "competence": "1 – Réaliser des créations plastiques personnelles",
+      "section": null,
+      "chemin": [
+        "B. Exploiter des gestes transformateurs et des éléments du langage plastique 1",
+        "1. Gestes et outils"
+      ],
+      "texte": "b. Expérimenter des gestes transformateurs tels que : appliquer un pigment coloré en aplat et à la tache, tracer en creux",
+      "prioritaire": true,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "maitrise",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 7,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "APL-REA-010",
+      "competence": "1 – Réaliser des créations plastiques personnelles",
+      "section": null,
+      "chemin": [
+        "B. Exploiter des gestes transformateurs et des éléments du langage plastique 1",
+        "1. Gestes et outils"
+      ],
+      "texte": "c. Expérimenter des gestes transformateurs tels que : appliquer un pigment coloré en aplat, à la tache et au trait",
+      "prioritaire": true,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": "apprentissage",
+        "6": "maitrise"
+      },
+      "page": 7,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "APL-REA-011",
+      "competence": "1 – Réaliser des créations plastiques personnelles",
+      "section": null,
+      "chemin": [
+        "B. Exploiter des gestes transformateurs et des éléments du langage plastique 1",
+        "1. Gestes et outils"
+      ],
+      "texte": "d. Utiliser des gestes transformateurs qui traduisent son idée",
+      "prioritaire": true,
+      "progression": {
+        "1": "apprentissage",
+        "2": "maitrise",
+        "3": "reinvestissement",
+        "4": "reinvestissement",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 7,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "APL-REA-012",
+      "competence": "1 – Réaliser des créations plastiques personnelles",
+      "section": null,
+      "chemin": [
+        "B. Exploiter des gestes transformateurs et des éléments du langage plastique 1",
+        "1. Gestes et outils"
+      ],
+      "texte": "e. Utiliser des gestes transformateurs qui précisent son idée",
+      "prioritaire": true,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "maitrise",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 7,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "APL-REA-013",
+      "competence": "1 – Réaliser des créations plastiques personnelles",
+      "section": null,
+      "chemin": [
+        "B. Exploiter des gestes transformateurs et des éléments du langage plastique 1",
+        "1. Gestes et outils"
+      ],
+      "texte": "f. Manier les outils suivants : brosse, ciseaux, souris et crayon électronique",
+      "prioritaire": true,
+      "progression": {
+        "1": "apprentissage",
+        "2": "maitrise",
+        "3": "reinvestissement",
+        "4": "reinvestissement",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 7,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "APL-REA-014",
+      "competence": "1 – Réaliser des créations plastiques personnelles",
+      "section": null,
+      "chemin": [
+        "B. Exploiter des gestes transformateurs et des éléments du langage plastique 1",
+        "1. Gestes et outils"
+      ],
+      "texte": "g. Manier des outils, y compris l’éponge",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "maitrise",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 7,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "APL-REA-015",
+      "competence": "1 – Réaliser des créations plastiques personnelles",
+      "section": null,
+      "chemin": [
+        "B. Exploiter des gestes transformateurs et des éléments du langage plastique 1",
+        "1. Gestes et outils"
+      ],
+      "texte": "h. Manier des outils, y compris le pinceau",
+      "prioritaire": true,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": "apprentissage",
+        "6": "maitrise"
+      },
+      "page": 7,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "APL-REA-016",
+      "competence": "1 – Réaliser des créations plastiques personnelles",
+      "section": null,
+      "chemin": [
+        "B. Exploiter des gestes transformateurs et des éléments du langage plastique 1",
+        "2. Langage plastique"
+      ],
+      "texte": "a. Expérimenter des éléments du langage plastique : forme, ligne, couleur, valeur, texture, motif, volume",
+      "prioritaire": true,
+      "progression": {
+        "1": "apprentissage",
+        "2": "maitrise",
+        "3": "reinvestissement",
+        "4": "reinvestissement",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 7,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "APL-REA-017",
+      "competence": "1 – Réaliser des créations plastiques personnelles",
+      "section": null,
+      "chemin": [
+        "B. Exploiter des gestes transformateurs et des éléments du langage plastique 1",
+        "2. Langage plastique"
+      ],
+      "texte": "b. Utiliser des éléments du langage plastique",
+      "prioritaire": true,
+      "progression": {
+        "1": "apprentissage",
+        "2": "maitrise",
+        "3": "reinvestissement",
+        "4": "reinvestissement",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 7,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "APL-REA-018",
+      "competence": "1 – Réaliser des créations plastiques personnelles",
+      "section": null,
+      "chemin": [
+        "B. Exploiter des gestes transformateurs et des éléments du langage plastique 1",
+        "2. Langage plastique"
+      ],
+      "texte": "c. Utiliser une variété d’éléments du langage plastique",
+      "prioritaire": true,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "maitrise",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 7,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "APL-REA-019",
+      "competence": "1 – Réaliser des créations plastiques personnelles",
+      "section": null,
+      "chemin": [
+        "B. Exploiter des gestes transformateurs et des éléments du langage plastique 1",
+        "2. Langage plastique"
+      ],
+      "texte": "d. Utiliser une combinaison d’éléments du langage plastique",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": "apprentissage",
+        "6": "maitrise"
+      },
+      "page": 7,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "APL-REA-020",
+      "competence": "1 – Réaliser des créations plastiques personnelles",
+      "section": null,
+      "chemin": [
+        "C. Organiser les éléments résultant de ses choix"
+      ],
+      "texte": "a. Utiliser les modes d’organisation de l’espace suivants : énumération, juxtaposition, répétition et alternance",
+      "prioritaire": true,
+      "progression": {
+        "1": "apprentissage",
+        "2": "maitrise",
+        "3": "reinvestissement",
+        "4": "reinvestissement",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 8,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "APL-REA-021",
+      "competence": "1 – Réaliser des créations plastiques personnelles",
+      "section": null,
+      "chemin": [
+        "C. Organiser les éléments résultant de ses choix"
+      ],
+      "texte": "b. Utiliser les modes d’organisation de l’espace, y compris la superposition, la symétrie et l’asymétrie",
+      "prioritaire": true,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "maitrise",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 8,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "APL-REA-022",
+      "competence": "1 – Réaliser des créations plastiques personnelles",
+      "section": null,
+      "chemin": [
+        "C. Organiser les éléments résultant de ses choix"
+      ],
+      "texte": "c. Utiliser le mode de représentation de l’espace suivant : perspective avec chevauchement",
+      "prioritaire": true,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "maitrise",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 8,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "APL-REA-023",
+      "competence": "1 – Réaliser des créations plastiques personnelles",
+      "section": null,
+      "chemin": [
+        "C. Organiser les éléments résultant de ses choix"
+      ],
+      "texte": "d. Utiliser les modes de représentation de l’espace suivants : perspective avec chevauchement et perspective en diminution",
+      "prioritaire": true,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": "apprentissage",
+        "6": "maitrise"
+      },
+      "page": 8,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "APL-REA-024",
+      "competence": "1 – Réaliser des créations plastiques personnelles",
+      "section": null,
+      "chemin": [
+        "D. Finaliser sa réalisation"
+      ],
+      "texte": "a. Apporter des ajustements à certains gestes transformateurs et au langage plastique",
+      "prioritaire": true,
+      "progression": {
+        "1": "apprentissage",
+        "2": "maitrise",
+        "3": "reinvestissement",
+        "4": "reinvestissement",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 8,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "APL-REA-025",
+      "competence": "1 – Réaliser des créations plastiques personnelles",
+      "section": null,
+      "chemin": [
+        "D. Finaliser sa réalisation"
+      ],
+      "texte": "b. Ajuster sa réalisation selon la proposition de départ",
+      "prioritaire": true,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "maitrise",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 8,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "APL-REA-026",
+      "competence": "1 – Réaliser des créations plastiques personnelles",
+      "section": null,
+      "chemin": [
+        "D. Finaliser sa réalisation"
+      ],
+      "texte": "c. Rehausser certains aspects de sa réalisation par l’utilisation de gestes transformateurs, d’éléments du langage plastique, d’organisation et de représentation de l’espace",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "maitrise",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 8,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "APL-REA-027",
+      "competence": "1 – Réaliser des créations plastiques personnelles",
+      "section": null,
+      "chemin": [
+        "E. Partager son expérience de création"
+      ],
+      "texte": "a. Relater des faits signifiants de son expérience liés aux gestes transformateurs et éléments du langage plastique",
+      "prioritaire": false,
+      "progression": {
+        "1": "apprentissage",
+        "2": "maitrise",
+        "3": "reinvestissement",
+        "4": "reinvestissement",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 8,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "APL-REA-028",
+      "competence": "1 – Réaliser des créations plastiques personnelles",
+      "section": null,
+      "chemin": [
+        "E. Partager son expérience de création"
+      ],
+      "texte": "b. Décrire les aspects importants de son expérience liés aux gestes transformateurs et aux éléments du langage plastique",
+      "prioritaire": true,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "maitrise",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 8,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "APL-REA-029",
+      "competence": "1 – Réaliser des créations plastiques personnelles",
+      "section": null,
+      "chemin": [
+        "E. Partager son expérience de création"
+      ],
+      "texte": "c. Utiliser le vocabulaire disciplinaire",
+      "prioritaire": true,
+      "progression": {
+        "1": "apprentissage",
+        "2": "maitrise",
+        "3": "reinvestissement",
+        "4": "reinvestissement",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 8,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "APL-REA-030",
+      "competence": "2 − Réaliser des créations plastiques médiatiques",
+      "section": null,
+      "chemin": [
+        "A. Exploiter des idées de création inspirées par une proposition de création médiatique"
+      ],
+      "texte": "a. Rechercher une idée liée à la proposition de création médiatique en tenant compte des destinataires tout en se référant à des sources d’information",
+      "prioritaire": true,
+      "progression": {
+        "1": "apprentissage",
+        "2": "maitrise",
+        "3": "reinvestissement",
+        "4": "reinvestissement",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 9,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "APL-REA-031",
+      "competence": "2 − Réaliser des créations plastiques médiatiques",
+      "section": null,
+      "chemin": [
+        "A. Exploiter des idées de création inspirées par une proposition de création médiatique"
+      ],
+      "texte": "b. Rechercher quelques idées liées à la proposition de création médiatique en tenant compte du message et des destinataires",
+      "prioritaire": true,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "maitrise",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 9,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "APL-REA-032",
+      "competence": "2 − Réaliser des créations plastiques médiatiques",
+      "section": null,
+      "chemin": [
+        "A. Exploiter des idées de création inspirées par une proposition de création médiatique"
+      ],
+      "texte": "c. Rechercher une variété d’idées liées à la proposition de création médiatique en tenant compte du message et des destinataires",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": "apprentissage",
+        "6": "maitrise"
+      },
+      "page": 9,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "APL-REA-033",
+      "competence": "2 − Réaliser des créations plastiques médiatiques",
+      "section": null,
+      "chemin": [
+        "A. Exploiter des idées de création inspirées par une proposition de création médiatique"
+      ],
+      "texte": "d. Choisir une idée en fonction des destinataires de son entourage immédiat",
+      "prioritaire": true,
+      "progression": {
+        "1": "apprentissage",
+        "2": "maitrise",
+        "3": "reinvestissement",
+        "4": "reinvestissement",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 9,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "APL-REA-034",
+      "competence": "2 − Réaliser des créations plastiques médiatiques",
+      "section": null,
+      "chemin": [
+        "A. Exploiter des idées de création inspirées par une proposition de création médiatique"
+      ],
+      "texte": "e. Choisir une idée en fonction du message et des destinataires",
+      "prioritaire": true,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "maitrise",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 9,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "APL-REA-035",
+      "competence": "2 − Réaliser des créations plastiques médiatiques",
+      "section": null,
+      "chemin": [
+        "A. Exploiter des idées de création inspirées par une proposition de création médiatique"
+      ],
+      "texte": "f. Faire un croquis de son idée",
+      "prioritaire": false,
+      "progression": {
+        "1": "apprentissage",
+        "2": "maitrise",
+        "3": "reinvestissement",
+        "4": "reinvestissement",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 9,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "APL-REA-036",
+      "competence": "2 − Réaliser des créations plastiques médiatiques",
+      "section": null,
+      "chemin": [
+        "A. Exploiter des idées de création inspirées par une proposition de création médiatique"
+      ],
+      "texte": "g. Faire quelques croquis de son idée",
+      "prioritaire": true,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "maitrise",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 9,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "APL-REA-037",
+      "competence": "2 − Réaliser des créations plastiques médiatiques",
+      "section": null,
+      "chemin": [
+        "A. Exploiter des idées de création inspirées par une proposition de création médiatique"
+      ],
+      "texte": "h. Faire des croquis représentant des variantes de son idée",
+      "prioritaire": true,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": "apprentissage",
+        "6": "maitrise"
+      },
+      "page": 9,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "APL-REA-038",
+      "competence": "2 − Réaliser des créations plastiques médiatiques",
+      "section": null,
+      "chemin": [
+        "B. Exploiter des gestes transformateurs et des éléments du langage plastique selon le message (2e et 3e cycles) et le destinataire 1",
+        "1. Gestes et outils"
+      ],
+      "texte": "a. Expérimenter des gestes transformateurs tels que : tracer à main levée, appliquer un pigment coloré en aplat, déchirer, entailler, découper, enduire une surface de colle, souder et pincer un matériau malléable",
+      "prioritaire": true,
+      "progression": {
+        "1": "apprentissage",
+        "2": "maitrise",
+        "3": "reinvestissement",
+        "4": "reinvestissement",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 9,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "APL-REA-039",
+      "competence": "2 − Réaliser des créations plastiques médiatiques",
+      "section": null,
+      "chemin": [
+        "B. Exploiter des gestes transformateurs et des éléments du langage plastique selon le message (2e et 3e cycles) et le destinataire 1",
+        "1. Gestes et outils"
+      ],
+      "texte": "b. Expérimenter des gestes transformateurs tels que : appliquer un pigment coloré en aplat et à la tache, tracer en creux",
+      "prioritaire": true,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "maitrise",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 9,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "APL-REA-040",
+      "competence": "2 − Réaliser des créations plastiques médiatiques",
+      "section": null,
+      "chemin": [
+        "B. Exploiter des gestes transformateurs et des éléments du langage plastique selon le message (2e et 3e cycles) et le destinataire 1",
+        "1. Gestes et outils"
+      ],
+      "texte": "c. Expérimenter des gestes transformateurs tels que : appliquer un pigment coloré en aplat, à la tache et au trait",
+      "prioritaire": true,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": "apprentissage",
+        "6": "maitrise"
+      },
+      "page": 9,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "APL-REA-041",
+      "competence": "2 − Réaliser des créations plastiques médiatiques",
+      "section": null,
+      "chemin": [
+        "B. Exploiter des gestes transformateurs et des éléments du langage plastique selon le message (2e et 3e cycles) et le destinataire 1",
+        "1. Gestes et outils"
+      ],
+      "texte": "d. Utiliser des gestes transformateurs qui communiquent son idée aux destinataires",
+      "prioritaire": true,
+      "progression": {
+        "1": "apprentissage",
+        "2": "maitrise",
+        "3": "reinvestissement",
+        "4": "reinvestissement",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 9,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "APL-REA-042",
+      "competence": "2 − Réaliser des créations plastiques médiatiques",
+      "section": null,
+      "chemin": [
+        "B. Exploiter des gestes transformateurs et des éléments du langage plastique selon le message (2e et 3e cycles) et le destinataire 1",
+        "1. Gestes et outils"
+      ],
+      "texte": "e. Utiliser des gestes transformateurs qui précisent le message visuel aux destinataires",
+      "prioritaire": true,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "maitrise",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 9,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "APL-REA-043",
+      "competence": "2 − Réaliser des créations plastiques médiatiques",
+      "section": null,
+      "chemin": [
+        "B. Exploiter des gestes transformateurs et des éléments du langage plastique selon le message (2e et 3e cycles) et le destinataire 1",
+        "1. Gestes et outils"
+      ],
+      "texte": "f. Manier les outils suivants : brosse, ciseaux, souris et crayon électronique",
+      "prioritaire": true,
+      "progression": {
+        "1": "apprentissage",
+        "2": "maitrise",
+        "3": "reinvestissement",
+        "4": "reinvestissement",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 9,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "APL-REA-044",
+      "competence": "2 − Réaliser des créations plastiques médiatiques",
+      "section": null,
+      "chemin": [
+        "B. Exploiter des gestes transformateurs et des éléments du langage plastique selon le message (2e et 3e cycles) et le destinataire 1",
+        "1. Gestes et outils"
+      ],
+      "texte": "g. Manier des outils, y compris l’éponge",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "maitrise",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 9,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "APL-REA-045",
+      "competence": "2 − Réaliser des créations plastiques médiatiques",
+      "section": null,
+      "chemin": [
+        "B. Exploiter des gestes transformateurs et des éléments du langage plastique selon le message (2e et 3e cycles) et le destinataire 1",
+        "1. Gestes et outils"
+      ],
+      "texte": "h. Manier des outils, y compris le pinceau",
+      "prioritaire": true,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": "apprentissage",
+        "6": "maitrise"
+      },
+      "page": 9,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "APL-REA-046",
+      "competence": "2 − Réaliser des créations plastiques médiatiques",
+      "section": null,
+      "chemin": [
+        "B. Exploiter des gestes transformateurs et des éléments du langage plastique selon le message (2e et 3e cycles) et le destinataire 1",
+        "2. Langage plastique"
+      ],
+      "texte": "a. Expérimenter des éléments du langage plastique : forme, ligne, couleur, valeur, texture, motif, volume",
+      "prioritaire": true,
+      "progression": {
+        "1": "apprentissage",
+        "2": "maitrise",
+        "3": "reinvestissement",
+        "4": "reinvestissement",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 9,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "APL-REA-047",
+      "competence": "2 − Réaliser des créations plastiques médiatiques",
+      "section": null,
+      "chemin": [
+        "B. Exploiter des gestes transformateurs et des éléments du langage plastique selon le message (2e et 3e cycles) et le destinataire 1",
+        "2. Langage plastique"
+      ],
+      "texte": "b. Choisir des éléments du langage plastique en fonction des destinataires",
+      "prioritaire": false,
+      "progression": {
+        "1": "apprentissage",
+        "2": "maitrise",
+        "3": "reinvestissement",
+        "4": "reinvestissement",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 9,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "APL-REA-048",
+      "competence": "2 − Réaliser des créations plastiques médiatiques",
+      "section": null,
+      "chemin": [
+        "B. Exploiter des gestes transformateurs et des éléments du langage plastique selon le message (2e et 3e cycles) et le destinataire 1",
+        "2. Langage plastique"
+      ],
+      "texte": "c. Choisir des éléments du langage plastique en fonction du message visuel et des destinataires",
+      "prioritaire": true,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "maitrise",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 9,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "APL-REA-049",
+      "competence": "2 − Réaliser des créations plastiques médiatiques",
+      "section": null,
+      "chemin": [
+        "B. Exploiter des gestes transformateurs et des éléments du langage plastique selon le message (2e et 3e cycles) et le destinataire 1",
+        "2. Langage plastique"
+      ],
+      "texte": "d. Utiliser des éléments du langage plastique en fonction des destinataires",
+      "prioritaire": false,
+      "progression": {
+        "1": "apprentissage",
+        "2": "maitrise",
+        "3": "reinvestissement",
+        "4": "reinvestissement",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 9,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "APL-REA-050",
+      "competence": "2 − Réaliser des créations plastiques médiatiques",
+      "section": null,
+      "chemin": [
+        "B. Exploiter des gestes transformateurs et des éléments du langage plastique selon le message (2e et 3e cycles) et le destinataire 1",
+        "2. Langage plastique"
+      ],
+      "texte": "e. Utiliser une variété d’éléments du langage plastique en fonction du message visuel et des destinataires",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "maitrise",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 10,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "APL-REA-051",
+      "competence": "2 − Réaliser des créations plastiques médiatiques",
+      "section": null,
+      "chemin": [
+        "B. Exploiter des gestes transformateurs et des éléments du langage plastique selon le message (2e et 3e cycles) et le destinataire 1",
+        "2. Langage plastique"
+      ],
+      "texte": "f. Utiliser une combinaison d’éléments du langage plastique en fonction du message visuel et des destinataires",
+      "prioritaire": true,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": "apprentissage",
+        "6": "maitrise"
+      },
+      "page": 10,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "APL-REA-052",
+      "competence": "2 − Réaliser des créations plastiques médiatiques",
+      "section": null,
+      "chemin": [
+        "C. Organiser les éléments résultant de ses choix selon le message (2e et 3e cycles) et le destinataire"
+      ],
+      "texte": "a. Utiliser les modes d’organisation de l’espace suivants : énumération, juxtaposition, répétition et alternance en fonction des destinataires",
+      "prioritaire": true,
+      "progression": {
+        "1": "apprentissage",
+        "2": "maitrise",
+        "3": "reinvestissement",
+        "4": "reinvestissement",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 10,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "APL-REA-053",
+      "competence": "2 − Réaliser des créations plastiques médiatiques",
+      "section": null,
+      "chemin": [
+        "C. Organiser les éléments résultant de ses choix selon le message (2e et 3e cycles) et le destinataire"
+      ],
+      "texte": "b. Utiliser les modes d’organisation de l’espace suivants en fonction du message visuel et des destinataires, y compris la superposition, la symétrie et l’asymétrie",
+      "prioritaire": true,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "maitrise",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 10,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "APL-REA-054",
+      "competence": "2 − Réaliser des créations plastiques médiatiques",
+      "section": null,
+      "chemin": [
+        "C. Organiser les éléments résultant de ses choix selon le message (2e et 3e cycles) et le destinataire"
+      ],
+      "texte": "c. Utiliser le mode de représentation de l’espace suivant en fonction du message et des destinataires : perspective avec chevauchement",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "maitrise",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 10,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "APL-REA-055",
+      "competence": "2 − Réaliser des créations plastiques médiatiques",
+      "section": null,
+      "chemin": [
+        "C. Organiser les éléments résultant de ses choix selon le message (2e et 3e cycles) et le destinataire"
+      ],
+      "texte": "d. Utiliser les modes de représentation de l’espace suivants en fonction du message visuel et des destinataires : perspective avec chevauchement et perspective en diminution",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": "apprentissage",
+        "6": "maitrise"
+      },
+      "page": 10,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "APL-REA-056",
+      "competence": "2 − Réaliser des créations plastiques médiatiques",
+      "section": null,
+      "chemin": [
+        "D. Finaliser sa réalisation médiatique"
+      ],
+      "texte": "a. Valider la compréhension du message visuel auprès d’un public témoin",
+      "prioritaire": true,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "maitrise",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 10,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "APL-REA-057",
+      "competence": "2 − Réaliser des créations plastiques médiatiques",
+      "section": null,
+      "chemin": [
+        "D. Finaliser sa réalisation médiatique"
+      ],
+      "texte": "b. Valider ses choix auprès d’un public témoin (ex. : message, repères culturels, couleurs, organisation des éléments)",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": "apprentissage",
+        "6": "maitrise"
+      },
+      "page": 10,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "APL-REA-058",
+      "competence": "2 − Réaliser des créations plastiques médiatiques",
+      "section": null,
+      "chemin": [
+        "D. Finaliser sa réalisation médiatique"
+      ],
+      "texte": "c. Apporter des ajustements à certains gestes transformateurs et au langage plastique en fonction des destinataires",
+      "prioritaire": true,
+      "progression": {
+        "1": "apprentissage",
+        "2": "maitrise",
+        "3": "reinvestissement",
+        "4": "reinvestissement",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 10,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "APL-REA-059",
+      "competence": "2 − Réaliser des créations plastiques médiatiques",
+      "section": null,
+      "chemin": [
+        "D. Finaliser sa réalisation médiatique"
+      ],
+      "texte": "d. Ajuster sa réalisation selon la proposition de départ, du message visuel et des destinataires",
+      "prioritaire": true,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "maitrise",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 10,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "APL-REA-060",
+      "competence": "2 − Réaliser des créations plastiques médiatiques",
+      "section": null,
+      "chemin": [
+        "D. Finaliser sa réalisation médiatique"
+      ],
+      "texte": "e. Rehausser certains aspects de sa réalisation par l’utilisation de gestes transformateurs, d’éléments du langage plastique, de l’organisation et de la représentation de l’espace en fonction du message visuel et des destinataires",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "maitrise",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 10,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "APL-REA-061",
+      "competence": "2 − Réaliser des créations plastiques médiatiques",
+      "section": null,
+      "chemin": [
+        "E. Partager son expérience de création médiatique"
+      ],
+      "texte": "a. Relater des faits signifiants de son expérience en ce qui a trait aux gestes transformateurs et aux éléments du langage plastique",
+      "prioritaire": false,
+      "progression": {
+        "1": "apprentissage",
+        "2": "maitrise",
+        "3": "reinvestissement",
+        "4": "reinvestissement",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 10,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "APL-REA-062",
+      "competence": "2 − Réaliser des créations plastiques médiatiques",
+      "section": null,
+      "chemin": [
+        "E. Partager son expérience de création médiatique"
+      ],
+      "texte": "b. Décrire les aspects importants de son expérience en ce qui a trait aux transformateurs et aux éléments du langage plastique",
+      "prioritaire": true,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "maitrise",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 10,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "APL-REA-063",
+      "competence": "2 − Réaliser des créations plastiques médiatiques",
+      "section": null,
+      "chemin": [
+        "E. Partager son expérience de création médiatique"
+      ],
+      "texte": "c. Utiliser le vocabulaire disciplinaire",
+      "prioritaire": true,
+      "progression": {
+        "1": "apprentissage",
+        "2": "maitrise",
+        "3": "reinvestissement",
+        "4": "reinvestissement",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 10,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "APL-APP-001",
+      "competence": "3 – Apprécier des œuvres d’arts, des objets culturels du patrimoine artistique, des",
+      "section": null,
+      "chemin": [
+        "A. Examiner une œuvre d’art, un objet culturel du patrimoine artistique, une image médiatique ou une réalisation plastique personnelle ou médiatique regard d’éléments de contenu"
+      ],
+      "texte": "a. Observer des éléments disciplinaires à partir de réalisations d’élèves",
+      "prioritaire": false,
+      "progression": {
+        "1": "apprentissage",
+        "2": "maitrise",
+        "3": "reinvestissement",
+        "4": "reinvestissement",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 11,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "APL-APP-002",
+      "competence": "3 – Apprécier des œuvres d’arts, des objets culturels du patrimoine artistique, des",
+      "section": null,
+      "chemin": [
+        "A. Examiner une œuvre d’art, un objet culturel du patrimoine artistique, une image médiatique ou une réalisation plastique personnelle ou médiatique regard d’éléments de contenu"
+      ],
+      "texte": "b. Observer des éléments disciplinaires à partir d’œuvres d’hier et d’aujourd’hui, d’ici d’ailleurs",
+      "prioritaire": false,
+      "progression": {
+        "1": "apprentissage",
+        "2": "maitrise",
+        "3": "reinvestissement",
+        "4": "reinvestissement",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 11,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "APL-APP-003",
+      "competence": "3 – Apprécier des œuvres d’arts, des objets culturels du patrimoine artistique, des",
+      "section": null,
+      "chemin": [
+        "A. Examiner une œuvre d’art, un objet culturel du patrimoine artistique, une image médiatique ou une réalisation plastique personnelle ou médiatique regard d’éléments de contenu",
+        "1. Langage plastique"
+      ],
+      "texte": "a. Observer les éléments du langage plastique : forme, ligne, couleur, valeur, texture, motif, volume",
+      "prioritaire": false,
+      "progression": {
+        "1": "apprentissage",
+        "2": "maitrise",
+        "3": "reinvestissement",
+        "4": "reinvestissement",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 11,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "APL-APP-004",
+      "competence": "3 – Apprécier des œuvres d’arts, des objets culturels du patrimoine artistique, des",
+      "section": null,
+      "chemin": [
+        "A. Examiner une œuvre d’art, un objet culturel du patrimoine artistique, une image médiatique ou une réalisation plastique personnelle ou médiatique regard d’éléments de contenu",
+        "1. Langage plastique"
+      ],
+      "texte": "b. Repérer les éléments du langage plastique se rapportant aux critères d’appréciation proposés",
+      "prioritaire": true,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "maitrise",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 11,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "APL-APP-005",
+      "competence": "3 – Apprécier des œuvres d’arts, des objets culturels du patrimoine artistique, des",
+      "section": null,
+      "chemin": [
+        "A. Examiner une œuvre d’art, un objet culturel du patrimoine artistique, une image médiatique ou une réalisation plastique personnelle ou médiatique regard d’éléments de contenu",
+        "1. Langage plastique"
+      ],
+      "texte": "c. Repérer les effets visuels obtenus par l’utilisation des éléments du langage plastique",
+      "prioritaire": true,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": "apprentissage",
+        "6": "maitrise"
+      },
+      "page": 11,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "APL-APP-006",
+      "competence": "3 – Apprécier des œuvres d’arts, des objets culturels du patrimoine artistique, des",
+      "section": null,
+      "chemin": [
+        "A. Examiner une œuvre d’art, un objet culturel du patrimoine artistique, une image médiatique ou une réalisation plastique personnelle ou médiatique regard d’éléments de contenu",
+        "1. Langage plastique"
+      ],
+      "texte": "d. Observer l’organisation des éléments dans un espace en deux et en trois dimensions : énumération, juxtaposition, répétition, alternance",
+      "prioritaire": false,
+      "progression": {
+        "1": "apprentissage",
+        "2": "maitrise",
+        "3": "reinvestissement",
+        "4": "reinvestissement",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 11,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "APL-APP-007",
+      "competence": "3 – Apprécier des œuvres d’arts, des objets culturels du patrimoine artistique, des",
+      "section": null,
+      "chemin": [
+        "A. Examiner une œuvre d’art, un objet culturel du patrimoine artistique, une image médiatique ou une réalisation plastique personnelle ou médiatique regard d’éléments de contenu",
+        "1. Langage plastique"
+      ],
+      "texte": "e. Repérer l’organisation des éléments dans un espace en deux et en trois dimensions, y compris superposition, symétrie et asymétrie",
+      "prioritaire": true,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "maitrise",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 11,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "APL-APP-008",
+      "competence": "3 – Apprécier des œuvres d’arts, des objets culturels du patrimoine artistique, des",
+      "section": null,
+      "chemin": [
+        "A. Examiner une œuvre d’art, un objet culturel du patrimoine artistique, une image médiatique ou une réalisation plastique personnelle ou médiatique regard d’éléments de contenu",
+        "1. Langage plastique"
+      ],
+      "texte": "f. Repérer la représentation de l’espace dans les réalisations en deux dimensions : perspective avec chevauchement",
+      "prioritaire": true,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "maitrise",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 11,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "APL-APP-009",
+      "competence": "3 – Apprécier des œuvres d’arts, des objets culturels du patrimoine artistique, des",
+      "section": null,
+      "chemin": [
+        "A. Examiner une œuvre d’art, un objet culturel du patrimoine artistique, une image médiatique ou une réalisation plastique personnelle ou médiatique regard d’éléments de contenu",
+        "1. Langage plastique"
+      ],
+      "texte": "g. Repérer la représentation de l’espace dans les réalisations en deux dimensions, y compris perspective en diminution",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": "apprentissage",
+        "6": "maitrise"
+      },
+      "page": 11,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "APL-APP-010",
+      "competence": "3 – Apprécier des œuvres d’arts, des objets culturels du patrimoine artistique, des",
+      "section": null,
+      "chemin": [
+        "A. Examiner une œuvre d’art, un objet culturel du patrimoine artistique, une image médiatique ou une réalisation plastique personnelle ou médiatique regard d’éléments de contenu",
+        "2. Gestes"
+      ],
+      "texte": "a. Observer les traces de gestes utilisés pour réaliser l’image",
+      "prioritaire": false,
+      "progression": {
+        "1": "apprentissage",
+        "2": "maitrise",
+        "3": "reinvestissement",
+        "4": "reinvestissement",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 11,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "APL-APP-011",
+      "competence": "3 – Apprécier des œuvres d’arts, des objets culturels du patrimoine artistique, des",
+      "section": null,
+      "chemin": [
+        "B. Examiner une œuvre d’art, un objet culturel du patrimoine artistique ou image médiatique au regard d’aspects socioculturels (2e et 3e cycles)"
+      ],
+      "texte": "a. Repérer les éléments représentant des aspects d’ordre socioculturel",
+      "prioritaire": true,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "maitrise",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 11,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "APL-APP-012",
+      "competence": "3 – Apprécier des œuvres d’arts, des objets culturels du patrimoine artistique, des",
+      "section": null,
+      "chemin": [
+        "C. Établir des liens entre ce que l’on a ressenti et ce que l’on a examiné"
+      ],
+      "texte": "a. Nommer un élément dans l’image qui a suscité une émotion, un sentiment une impression",
+      "prioritaire": true,
+      "progression": {
+        "1": "apprentissage",
+        "2": "maitrise",
+        "3": "reinvestissement",
+        "4": "reinvestissement",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 11,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "APL-APP-013",
+      "competence": "3 – Apprécier des œuvres d’arts, des objets culturels du patrimoine artistique, des",
+      "section": null,
+      "chemin": [
+        "C. Établir des liens entre ce que l’on a ressenti et ce que l’on a examiné"
+      ],
+      "texte": "b. Expliquer la raison pour laquelle cet élément a suscité une réaction",
+      "prioritaire": true,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "maitrise",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 11,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "APL-APP-014",
+      "competence": "3 – Apprécier des œuvres d’arts, des objets culturels du patrimoine artistique, des",
+      "section": null,
+      "chemin": [
+        "C. Établir des liens entre ce que l’on a ressenti et ce que l’on a examiné"
+      ],
+      "texte": "c. Utiliser le vocabulaire disciplinaire",
+      "prioritaire": true,
+      "progression": {
+        "1": "apprentissage",
+        "2": "maitrise",
+        "3": "reinvestissement",
+        "4": "reinvestissement",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 11,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "APL-APP-015",
+      "competence": "3 – Apprécier des œuvres d’arts, des objets culturels du patrimoine artistique, des",
+      "section": null,
+      "chemin": [
+        "D. Porter un jugement d’ordre critique ou esthétique"
+      ],
+      "texte": "a. Exprimer ses préférences à partir de ses observations",
+      "prioritaire": true,
+      "progression": {
+        "1": "apprentissage",
+        "2": "maitrise",
+        "3": "reinvestissement",
+        "4": "reinvestissement",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 11,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "APL-APP-016",
+      "competence": "3 – Apprécier des œuvres d’arts, des objets culturels du patrimoine artistique, des",
+      "section": null,
+      "chemin": [
+        "D. Porter un jugement d’ordre critique ou esthétique"
+      ],
+      "texte": "b. Expliquer ses préférences à partir de ses observations",
+      "prioritaire": true,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "maitrise",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 11,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "APL-APP-017",
+      "competence": "3 – Apprécier des œuvres d’arts, des objets culturels du patrimoine artistique, des",
+      "section": null,
+      "chemin": [
+        "D. Porter un jugement d’ordre critique ou esthétique"
+      ],
+      "texte": "c. Justifier son point de vue à partir de ses observations",
+      "prioritaire": true,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": "apprentissage",
+        "6": "maitrise"
+      },
+      "page": 11,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "APL-APP-018",
+      "competence": "3 – Apprécier des œuvres d’arts, des objets culturels du patrimoine artistique, des",
+      "section": null,
+      "chemin": [
+        "D. Porter un jugement d’ordre critique ou esthétique"
+      ],
+      "texte": "d. Comparer des œuvres, des réalisations en se basant sur ses observations et sur les critères d’appréciation proposés",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": "apprentissage",
+        "6": "maitrise"
+      },
+      "page": 12,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "APL-APP-019",
+      "competence": "3 – Apprécier des œuvres d’arts, des objets culturels du patrimoine artistique, des",
+      "section": null,
+      "chemin": [
+        "D. Porter un jugement d’ordre critique ou esthétique"
+      ],
+      "texte": "e. Utiliser le vocabulaire disciplinaire",
+      "prioritaire": true,
+      "progression": {
+        "1": "apprentissage",
+        "2": "maitrise",
+        "3": "reinvestissement",
+        "4": "reinvestissement",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 12,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "APL-APP-020",
+      "competence": "3 – Apprécier des œuvres d’arts, des objets culturels du patrimoine artistique, des",
+      "section": null,
+      "chemin": [
+        "E. Partager son expérience d’appréciation"
+      ],
+      "texte": "a. Relater des faits signifiants liés à l’appréciation des gestes transformateurs et des éléments du langage plastique",
+      "prioritaire": true,
+      "progression": {
+        "1": "apprentissage",
+        "2": "maitrise",
+        "3": "reinvestissement",
+        "4": "reinvestissement",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 12,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "APL-APP-021",
+      "competence": "3 – Apprécier des œuvres d’arts, des objets culturels du patrimoine artistique, des",
+      "section": null,
+      "chemin": [
+        "E. Partager son expérience d’appréciation"
+      ],
+      "texte": "b. Décrire les aspects importants liés à l’appréciation des gestes transformateurs et des éléments du langage plastique",
+      "prioritaire": true,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "maitrise",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 12,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "APL-APP-022",
+      "competence": "3 – Apprécier des œuvres d’arts, des objets culturels du patrimoine artistique, des",
+      "section": null,
+      "chemin": [
+        "E. Partager son expérience d’appréciation"
+      ],
+      "texte": "c. Utiliser le vocabulaire disciplinaire",
+      "prioritaire": true,
+      "progression": {
+        "1": "apprentissage",
+        "2": "maitrise",
+        "3": "reinvestissement",
+        "4": "reinvestissement",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 12,
+      "a_verifier": false,
+      "note": ""
+    }
+  ],
+  "source_url": "https://cdn-contenu.quebec.ca/cdn-contenu/education/pfeq/primaire/progressions-apprentissages/PFEQ-progression-apprentissages-arts-plastiques-primaire.pdf",
+  "controle_logique": {
+    "date": "2026-11-10",
+    "illogiques": 0,
+    "note": ""
+  }
+}

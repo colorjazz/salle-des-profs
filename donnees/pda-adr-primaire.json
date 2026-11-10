@@ -1,0 +1,5271 @@
+{
+  "discipline": "Art dramatique",
+  "code_discipline": "ADR",
+  "ordre": "primaire",
+  "source": "art-dramatique.pdf",
+  "annees": [
+    "1",
+    "2",
+    "3",
+    "4",
+    "5",
+    "6"
+  ],
+  "pages_avec_grandes_images": [],
+  "bilan": {
+    "nombre_savoirs": 240,
+    "a_verifier": 0,
+    "prioritaires": 51
+  },
+  "savoirs": [
+    {
+      "id": "ADR-CON-001",
+      "competence": "Connaissances",
+      "section": null,
+      "chemin": [
+        "A. Langage dramatique",
+        "1. Moyens corporels"
+      ],
+      "texte": "a. Nommer deux moyens corporels liés aux personnages : attitude et geste",
+      "prioritaire": true,
+      "progression": {
+        "1": "apprentissage",
+        "2": "maitrise",
+        "3": "reinvestissement",
+        "4": "reinvestissement",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 4,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ADR-CON-002",
+      "competence": "Connaissances",
+      "section": null,
+      "chemin": [
+        "A. Langage dramatique",
+        "1. Moyens corporels"
+      ],
+      "texte": "b. Nommer quatre moyens corporels liés aux personnages et à l’action dramatique : attitude, geste, mimique et mouvement",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "maitrise",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 4,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ADR-CON-003",
+      "competence": "Connaissances",
+      "section": null,
+      "chemin": [
+        "A. Langage dramatique",
+        "1. Moyens corporels"
+      ],
+      "texte": "c. Nommer les moyens corporels liés aux personnages et à l’action dramatique : attitude, geste, mimique, mouvement et rythme",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": "apprentissage",
+        "6": "maitrise"
+      },
+      "page": 4,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ADR-CON-004",
+      "competence": "Connaissances",
+      "section": null,
+      "chemin": [
+        "A. Langage dramatique",
+        "2. Moyens vocaux 2.1. Voix sonore"
+      ],
+      "texte": "a. Nommer des bruits et des sons liés à des actions",
+      "prioritaire": false,
+      "progression": {
+        "1": "apprentissage",
+        "2": "maitrise",
+        "3": "reinvestissement",
+        "4": "reinvestissement",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 4,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ADR-CON-005",
+      "competence": "Connaissances",
+      "section": null,
+      "chemin": [
+        "A. Langage dramatique",
+        "2. Moyens vocaux 2.1. Voix sonore"
+      ],
+      "texte": "b. Nommer des bruits et des sons liés à des actions ou à des émotions 2.2. Voix parlée",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "maitrise",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 4,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ADR-CON-006",
+      "competence": "Connaissances",
+      "section": null,
+      "chemin": [
+        "A. Langage dramatique",
+        "2. Moyens vocaux 2.1. Voix sonore"
+      ],
+      "texte": "a. Nommer le moyen vocal suivant : intensité de la voix",
+      "prioritaire": true,
+      "progression": {
+        "1": "apprentissage",
+        "2": "maitrise",
+        "3": "reinvestissement",
+        "4": "reinvestissement",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 4,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ADR-CON-007",
+      "competence": "Connaissances",
+      "section": null,
+      "chemin": [
+        "A. Langage dramatique",
+        "2. Moyens vocaux 2.1. Voix sonore"
+      ],
+      "texte": "b. Nommer les moyens vocaux suivants : intensité de la voix et durée",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "maitrise",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 4,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ADR-CON-008",
+      "competence": "Connaissances",
+      "section": null,
+      "chemin": [
+        "A. Langage dramatique",
+        "2. Moyens vocaux 2.1. Voix sonore"
+      ],
+      "texte": "c. Nommer les moyens vocaux suivants : intensité de la voix, durée, hauteur et timbre 2.3. Voix d’ensemble",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": "apprentissage",
+        "6": "maitrise"
+      },
+      "page": 4,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ADR-CON-009",
+      "competence": "Connaissances",
+      "section": null,
+      "chemin": [
+        "A. Langage dramatique",
+        "2. Moyens vocaux 2.1. Voix sonore"
+      ],
+      "texte": "a. Identifier des caractéristiques d’un chœur",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": "apprentissage",
+        "6": "maitrise"
+      },
+      "page": 4,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ADR-CON-010",
+      "competence": "Connaissances",
+      "section": null,
+      "chemin": [
+        "B. Techniques de jeu",
+        "1. Condition de jeu"
+      ],
+      "texte": "a. Nommer les conditions de jeu suivantes : attention, mémorisation et direction du regard",
+      "prioritaire": false,
+      "progression": {
+        "1": "apprentissage",
+        "2": "maitrise",
+        "3": "reinvestissement",
+        "4": "reinvestissement",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 4,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ADR-CON-011",
+      "competence": "Connaissances",
+      "section": null,
+      "chemin": [
+        "B. Techniques de jeu",
+        "1. Condition de jeu"
+      ],
+      "texte": "b. Nommer les conditions de jeu suivantes : écoute, mémorisation et direction du regard",
+      "prioritaire": true,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "maitrise",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 4,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ADR-CON-012",
+      "competence": "Connaissances",
+      "section": null,
+      "chemin": [
+        "B. Techniques de jeu",
+        "1. Condition de jeu"
+      ],
+      "texte": "c. Nommer les conditions de jeu suivantes : concentration, mémorisation et direction regard",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": "apprentissage",
+        "6": "maitrise"
+      },
+      "page": 4,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ADR-CON-013",
+      "competence": "Connaissances",
+      "section": null,
+      "chemin": [
+        "B. Techniques de jeu",
+        "2. Techniques vocales"
+      ],
+      "texte": "a. Nommer une technique vocale parmi les suivantes : posture, émission du son, respiration et débit",
+      "prioritaire": false,
+      "progression": {
+        "1": "apprentissage",
+        "2": "maitrise",
+        "3": "reinvestissement",
+        "4": "reinvestissement",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 4,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ADR-CON-014",
+      "competence": "Connaissances",
+      "section": null,
+      "chemin": [
+        "B. Techniques de jeu",
+        "2. Techniques vocales"
+      ],
+      "texte": "b. Nommer des techniques vocales parmi les suivantes : respiration, posture, émission du son, projection, prononciation et débit",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "maitrise",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 4,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ADR-CON-015",
+      "competence": "Connaissances",
+      "section": null,
+      "chemin": [
+        "B. Techniques de jeu",
+        "2. Techniques vocales"
+      ],
+      "texte": "c. Distinguer les techniques vocales suivantes : respiration, posture, émission du son, projection, prononciation, débit, rythme et intonation",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": "apprentissage",
+        "6": "maitrise"
+      },
+      "page": 4,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ADR-CON-016",
+      "competence": "Connaissances",
+      "section": null,
+      "chemin": [
+        "B. Techniques de jeu",
+        "3. Techniques corporelles"
+      ],
+      "texte": "a. Nommer une technique corporelle parmi les suivantes : détente, assouplissement et niveaux",
+      "prioritaire": false,
+      "progression": {
+        "1": "apprentissage",
+        "2": "maitrise",
+        "3": "reinvestissement",
+        "4": "reinvestissement",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 5,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ADR-CON-017",
+      "competence": "Connaissances",
+      "section": null,
+      "chemin": [
+        "B. Techniques de jeu",
+        "3. Techniques corporelles"
+      ],
+      "texte": "b. Nommer des techniques corporelles parmi les suivantes : détente, assouplissement, rythme, niveaux et tonus",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "maitrise",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 5,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ADR-CON-018",
+      "competence": "Connaissances",
+      "section": null,
+      "chemin": [
+        "B. Techniques de jeu",
+        "3. Techniques corporelles"
+      ],
+      "texte": "c. Distinguer les techniques corporelles suivantes : détente, assouplissement, rythme, niveaux et tonus",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": "apprentissage",
+        "6": "maitrise"
+      },
+      "page": 5,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ADR-CON-019",
+      "competence": "Connaissances",
+      "section": null,
+      "chemin": [
+        "B. Techniques de jeu",
+        "3. Techniques corporelles"
+      ],
+      "texte": "d. Identifier de nouvelles techniques corporelles telles que l’amplitude ou l’équilibre et le déséquilibre",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": "apprentissage",
+        "6": "maitrise"
+      },
+      "page": 5,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ADR-CON-020",
+      "competence": "Connaissances",
+      "section": null,
+      "chemin": [
+        "B. Techniques de jeu",
+        "4. Éléments expressifs"
+      ],
+      "texte": "a. Nommer un élément expressif tel que le trait de caractère du personnage",
+      "prioritaire": false,
+      "progression": {
+        "1": "apprentissage",
+        "2": "maitrise",
+        "3": "reinvestissement",
+        "4": "reinvestissement",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 5,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ADR-CON-021",
+      "competence": "Connaissances",
+      "section": null,
+      "chemin": [
+        "B. Techniques de jeu",
+        "4. Éléments expressifs"
+      ],
+      "texte": "b. Nommer les éléments expressifs tels que le trait de caractère du et la caractéristique de la fable",
+      "prioritaire": true,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "maitrise",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 5,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ADR-CON-022",
+      "competence": "Connaissances",
+      "section": null,
+      "chemin": [
+        "C. Techniques théâtrales",
+        "1. Marionnette"
+      ],
+      "texte": "a. Nommer les positions de base de la manipulation cachée ou à vue",
+      "prioritaire": false,
+      "progression": {
+        "1": "apprentissage",
+        "2": "maitrise",
+        "3": "reinvestissement",
+        "4": "reinvestissement",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 5,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ADR-CON-023",
+      "competence": "Connaissances",
+      "section": null,
+      "chemin": [
+        "C. Techniques théâtrales",
+        "1. Marionnette"
+      ],
+      "texte": "b. Nommer les moyens suivants pour personnifier la marionnette : respiration, direction du regard, démarche et voix",
+      "prioritaire": false,
+      "progression": {
+        "1": "apprentissage",
+        "2": "maitrise",
+        "3": "reinvestissement",
+        "4": "reinvestissement",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 5,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ADR-CON-024",
+      "competence": "Connaissances",
+      "section": null,
+      "chemin": [
+        "C. Techniques théâtrales",
+        "2. Jeu clownesque"
+      ],
+      "texte": "a. Nommer les effets comiques suivants : jeux physiques, jeux de mots, répétitions et exagérations",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "maitrise",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 5,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ADR-CON-025",
+      "competence": "Connaissances",
+      "section": null,
+      "chemin": [
+        "C. Techniques théâtrales",
+        "2. Jeu clownesque"
+      ],
+      "texte": "b. Énumérer les éléments de la comédie clownesque tels que : imitation, retournement de situation, parodie des jeux de cirque et résolution d’un problème",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "maitrise",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 5,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ADR-CON-026",
+      "competence": "Connaissances",
+      "section": null,
+      "chemin": [
+        "C. Techniques théâtrales",
+        "3. Théâtre d’ombres"
+      ],
+      "texte": "a. Nommer les éléments de techniques du théâtre d’ombres tels que : distance, position du corps, ombres et effets spéciaux",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "maitrise",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 5,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ADR-CON-027",
+      "competence": "Connaissances",
+      "section": null,
+      "chemin": [
+        "C. Techniques théâtrales",
+        "4. Jeu masqué"
+      ],
+      "texte": "a. Nommer les éléments techniques du jeu masqué tels que : direction du regard, naissance et qualité du geste, rythme et position dans l’espace",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": "apprentissage",
+        "6": "maitrise"
+      },
+      "page": 5,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ADR-CON-028",
+      "competence": "Connaissances",
+      "section": null,
+      "chemin": [
+        "D. Modes de théâtralisation",
+        "1. Espace scénique"
+      ],
+      "texte": "a. Nommer les trajets simples dans un espace scénique",
+      "prioritaire": false,
+      "progression": {
+        "1": "apprentissage",
+        "2": "maitrise",
+        "3": "reinvestissement",
+        "4": "reinvestissement",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 5,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ADR-CON-029",
+      "competence": "Connaissances",
+      "section": null,
+      "chemin": [
+        "D. Modes de théâtralisation",
+        "1. Espace scénique"
+      ],
+      "texte": "b. Nommer les trajets mémorisés, selon les repères",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "maitrise",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 5,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ADR-CON-030",
+      "competence": "Connaissances",
+      "section": null,
+      "chemin": [
+        "D. Modes de théâtralisation",
+        "1. Espace scénique"
+      ],
+      "texte": "c. Distinguer la transposition de l’aire de jeu de celle de la représentation",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": "apprentissage",
+        "6": "maitrise"
+      },
+      "page": 5,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ADR-CON-031",
+      "competence": "Connaissances",
+      "section": null,
+      "chemin": [
+        "D. Modes de théâtralisation",
+        "1. Espace scénique"
+      ],
+      "texte": "d. Identifier les niveaux dans l’espace scénique",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": "apprentissage",
+        "6": "maitrise"
+      },
+      "page": 5,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ADR-CON-032",
+      "competence": "Connaissances",
+      "section": null,
+      "chemin": [
+        "D. Modes de théâtralisation",
+        "2. Fonction de l’objet"
+      ],
+      "texte": "a. Nommer les fonctions suivantes de l’objet : ludique ou utilitaire",
+      "prioritaire": false,
+      "progression": {
+        "1": "apprentissage",
+        "2": "maitrise",
+        "3": "reinvestissement",
+        "4": "reinvestissement",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 5,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ADR-CON-033",
+      "competence": "Connaissances",
+      "section": null,
+      "chemin": [
+        "D. Modes de théâtralisation",
+        "2. Fonction de l’objet"
+      ],
+      "texte": "b. Distinguer la fonction de l’objet : le ludique de l’utilitaire 1",
+      "prioritaire": true,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "maitrise",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 5,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ADR-CON-034",
+      "competence": "Connaissances",
+      "section": null,
+      "chemin": [
+        "D. Modes de théâtralisation",
+        "4. Fonction du costume"
+      ],
+      "texte": "a. Nommer la fonction d’un élément du costume",
+      "prioritaire": true,
+      "progression": {
+        "1": "apprentissage",
+        "2": "maitrise",
+        "3": "reinvestissement",
+        "4": "reinvestissement",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 5,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ADR-CON-035",
+      "competence": "Connaissances",
+      "section": null,
+      "chemin": [
+        "D. Modes de théâtralisation",
+        "4. Fonction du costume"
+      ],
+      "texte": "b. Nommer la fonction de quelques éléments du costume",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "maitrise",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 5,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ADR-CON-036",
+      "competence": "Connaissances",
+      "section": null,
+      "chemin": [
+        "D. Modes de théâtralisation",
+        "4. Fonction du costume"
+      ],
+      "texte": "c. Décrire la fonction du costume",
+      "prioritaire": true,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": "apprentissage",
+        "6": "maitrise"
+      },
+      "page": 5,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ADR-CON-037",
+      "competence": "Connaissances",
+      "section": null,
+      "chemin": [
+        "D. Modes de théâtralisation",
+        "5. Environnement sonore"
+      ],
+      "texte": "a. Identifier différents effets vocaux liés au personnage",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "maitrise",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 6,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ADR-CON-038",
+      "competence": "Connaissances",
+      "section": null,
+      "chemin": [
+        "D. Modes de théâtralisation",
+        "5. Environnement sonore"
+      ],
+      "texte": "b. Identifier différents bruitages liés à la fable",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": "apprentissage",
+        "6": "maitrise"
+      },
+      "page": 6,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ADR-CON-039",
+      "competence": "Connaissances",
+      "section": null,
+      "chemin": [
+        "D. Modes de théâtralisation",
+        "6. Éclairage"
+      ],
+      "texte": "a. Identifier la position du personnage dans la lumière",
+      "prioritaire": false,
+      "progression": {
+        "1": "apprentissage",
+        "2": "maitrise",
+        "3": "reinvestissement",
+        "4": "reinvestissement",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 6,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ADR-CON-040",
+      "competence": "Connaissances",
+      "section": null,
+      "chemin": [
+        "D. Modes de théâtralisation",
+        "6. Éclairage"
+      ],
+      "texte": "b. Reconnaître l’intensité et la couleur de la lumière",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "maitrise",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 6,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ADR-CON-041",
+      "competence": "Connaissances",
+      "section": null,
+      "chemin": [
+        "D. Modes de théâtralisation",
+        "6. Éclairage"
+      ],
+      "texte": "c. Nommer des effets d’éclairage simples",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": "apprentissage",
+        "6": "maitrise"
+      },
+      "page": 6,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ADR-CON-042",
+      "competence": "Connaissances",
+      "section": null,
+      "chemin": [
+        "E. Structures",
+        "1. Développement de la fable"
+      ],
+      "texte": "a. Nommer une caractéristique d’un développement continu telle que le début et la fin de la fable",
+      "prioritaire": false,
+      "progression": {
+        "1": "apprentissage",
+        "2": "maitrise",
+        "3": "reinvestissement",
+        "4": "reinvestissement",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 6,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ADR-CON-043",
+      "competence": "Connaissances",
+      "section": null,
+      "chemin": [
+        "E. Structures",
+        "1. Développement de la fable"
+      ],
+      "texte": "b. Nommer les caractéristiques d’un développement continu telles que : développement, retournement de situation et dénouement de la fable",
+      "prioritaire": true,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "maitrise",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 6,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ADR-CON-044",
+      "competence": "Connaissances",
+      "section": null,
+      "chemin": [
+        "E. Structures",
+        "1. Développement de la fable"
+      ],
+      "texte": "c. Nommer la structure discontinue suivante : tableaux 1",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": "apprentissage",
+        "6": "maitrise"
+      },
+      "page": 6,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ADR-INV-001",
+      "competence": "1 – Inventer des séquences dramatiques",
+      "section": null,
+      "chemin": [
+        "A. Exploiter des idées de création inspirées par une proposition",
+        "1. Structure 1.1. Développement de la fable"
+      ],
+      "texte": "a. Imaginer une fable qui se développe de façon continue, avec un début et une fin",
+      "prioritaire": false,
+      "progression": {
+        "1": "apprentissage",
+        "2": "maitrise",
+        "3": "reinvestissement",
+        "4": "reinvestissement",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 7,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ADR-INV-002",
+      "competence": "1 – Inventer des séquences dramatiques",
+      "section": null,
+      "chemin": [
+        "A. Exploiter des idées de création inspirées par une proposition",
+        "1. Structure 1.1. Développement de la fable"
+      ],
+      "texte": "b. Imaginer une fable qui se développe de façon continue, avec un retournement et un dénouement",
+      "prioritaire": true,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "maitrise",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 7,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ADR-INV-003",
+      "competence": "1 – Inventer des séquences dramatiques",
+      "section": null,
+      "chemin": [
+        "A. Exploiter des idées de création inspirées par une proposition",
+        "1. Structure 1.1. Développement de la fable"
+      ],
+      "texte": "c. Imaginer une fable qui se développe de façon continue, avec un retournement et un dénouement, et de façon discontinue, par l’insertion de tableaux 1.2. Forme de discours",
+      "prioritaire": true,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": "apprentissage",
+        "6": "maitrise"
+      },
+      "page": 7,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ADR-INV-004",
+      "competence": "1 – Inventer des séquences dramatiques",
+      "section": null,
+      "chemin": [
+        "A. Exploiter des idées de création inspirées par une proposition",
+        "1. Structure 1.1. Développement de la fable"
+      ],
+      "texte": "a. Ébaucher un dialogue",
+      "prioritaire": false,
+      "progression": {
+        "1": "apprentissage",
+        "2": "maitrise",
+        "3": "reinvestissement",
+        "4": "reinvestissement",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 7,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ADR-INV-005",
+      "competence": "1 – Inventer des séquences dramatiques",
+      "section": null,
+      "chemin": [
+        "A. Exploiter des idées de création inspirées par une proposition",
+        "1. Structure 1.1. Développement de la fable"
+      ],
+      "texte": "b. Ébaucher une narration 1.3. Écriture (individuelle et collective)",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "maitrise",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 7,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ADR-INV-006",
+      "competence": "1 – Inventer des séquences dramatiques",
+      "section": null,
+      "chemin": [
+        "A. Exploiter des idées de création inspirées par une proposition",
+        "1. Structure 1.1. Développement de la fable"
+      ],
+      "texte": "a. Écrire un canevas",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": "apprentissage",
+        "6": "maitrise"
+      },
+      "page": 7,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ADR-INV-007",
+      "competence": "1 – Inventer des séquences dramatiques",
+      "section": null,
+      "chemin": [
+        "B. Exploiter des éléments du langage dramatique, de techniques de jeu, de techniques théâtrales ou de modes de théâtralisation",
+        "1. Langage dramatique 1.1. Moyens corporels"
+      ],
+      "texte": "a. Trouver une attitude et un geste liés au personnage",
+      "prioritaire": true,
+      "progression": {
+        "1": "apprentissage",
+        "2": "maitrise",
+        "3": "reinvestissement",
+        "4": "reinvestissement",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 7,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ADR-INV-008",
+      "competence": "1 – Inventer des séquences dramatiques",
+      "section": null,
+      "chemin": [
+        "B. Exploiter des éléments du langage dramatique, de techniques de jeu, de techniques théâtrales ou de modes de théâtralisation",
+        "1. Langage dramatique 1.1. Moyens corporels"
+      ],
+      "texte": "b. Trouver quelques attitudes, gestes, mimiques et mouvements liés au personnage",
+      "prioritaire": true,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "maitrise",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 7,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ADR-INV-009",
+      "competence": "1 – Inventer des séquences dramatiques",
+      "section": null,
+      "chemin": [
+        "B. Exploiter des éléments du langage dramatique, de techniques de jeu, de techniques théâtrales ou de modes de théâtralisation",
+        "1. Langage dramatique 1.1. Moyens corporels"
+      ],
+      "texte": "c. Choisir les gestes, les attitudes, les mimiques, les mouvements et le rythme liés au personnage 1.2. Moyens vocaux 1.2.1 Voix sonore",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": "apprentissage",
+        "6": "maitrise"
+      },
+      "page": 7,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ADR-INV-010",
+      "competence": "1 – Inventer des séquences dramatiques",
+      "section": null,
+      "chemin": [
+        "B. Exploiter des éléments du langage dramatique, de techniques de jeu, de techniques théâtrales ou de modes de théâtralisation",
+        "1. Langage dramatique 1.1. Moyens corporels"
+      ],
+      "texte": "a. Insérer dans sa création un bruit et un son liés à l’action dramatique",
+      "prioritaire": false,
+      "progression": {
+        "1": "apprentissage",
+        "2": "maitrise",
+        "3": "reinvestissement",
+        "4": "reinvestissement",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 7,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ADR-INV-011",
+      "competence": "1 – Inventer des séquences dramatiques",
+      "section": null,
+      "chemin": [
+        "B. Exploiter des éléments du langage dramatique, de techniques de jeu, de techniques théâtrales ou de modes de théâtralisation",
+        "1. Langage dramatique 1.1. Moyens corporels"
+      ],
+      "texte": "b. Insérer dans sa création des bruits et des sons liés à l’action dramatique et à l’émotion du personnage",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "maitrise",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 7,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ADR-INV-012",
+      "competence": "1 – Inventer des séquences dramatiques",
+      "section": null,
+      "chemin": [
+        "B. Exploiter des éléments du langage dramatique, de techniques de jeu, de techniques théâtrales ou de modes de théâtralisation",
+        "1. Langage dramatique 1.1. Moyens corporels"
+      ],
+      "texte": "c. Combiner des bruits et des sons liés à l’action dramatique et aux émotions du personnage",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": "apprentissage",
+        "6": "maitrise"
+      },
+      "page": 7,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ADR-INV-013",
+      "competence": "1 – Inventer des séquences dramatiques",
+      "section": null,
+      "chemin": [
+        "B. Exploiter des éléments du langage dramatique, de techniques de jeu, de techniques théâtrales ou de modes de théâtralisation",
+        "1. Langage dramatique 1.1. Moyens corporels"
+      ],
+      "texte": "a. Trouver une intensité de voix liée au caractère du personnage",
+      "prioritaire": true,
+      "progression": {
+        "1": "apprentissage",
+        "2": "maitrise",
+        "3": "reinvestissement",
+        "4": "reinvestissement",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 8,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ADR-INV-014",
+      "competence": "1 – Inventer des séquences dramatiques",
+      "section": null,
+      "chemin": [
+        "B. Exploiter des éléments du langage dramatique, de techniques de jeu, de techniques théâtrales ou de modes de théâtralisation",
+        "1. Langage dramatique 1.1. Moyens corporels"
+      ],
+      "texte": "b. Trouver l’intensité de voix liée à l’émotion et au caractère du personnage",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "maitrise",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 8,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ADR-INV-015",
+      "competence": "1 – Inventer des séquences dramatiques",
+      "section": null,
+      "chemin": [
+        "B. Exploiter des éléments du langage dramatique, de techniques de jeu, de techniques théâtrales ou de modes de théâtralisation",
+        "1. Langage dramatique 1.1. Moyens corporels"
+      ],
+      "texte": "c. Combiner des moyens vocaux liés aux émotions et au caractère du personnage tels que l’intensité, la hauteur ou le timbre",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": "apprentissage",
+        "6": "maitrise"
+      },
+      "page": 8,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ADR-INV-016",
+      "competence": "1 – Inventer des séquences dramatiques",
+      "section": null,
+      "chemin": [
+        "B. Exploiter des éléments du langage dramatique, de techniques de jeu, de techniques théâtrales ou de modes de théâtralisation",
+        "1. Langage dramatique 1.1. Moyens corporels"
+      ],
+      "texte": "d. Trouver des effets de voix de chœur pour sa création",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": "apprentissage",
+        "6": "maitrise"
+      },
+      "page": 8,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ADR-INV-017",
+      "competence": "1 – Inventer des séquences dramatiques",
+      "section": null,
+      "chemin": [
+        "B. Exploiter des éléments du langage dramatique, de techniques de jeu, de techniques théâtrales ou de modes de théâtralisation",
+        "2. Techniques de jeu 2.1. Techniques vocales"
+      ],
+      "texte": "a. Utiliser une des techniques vocales suivantes : respiration, posture, émission du ou débit",
+      "prioritaire": false,
+      "progression": {
+        "1": "apprentissage",
+        "2": "maitrise",
+        "3": "reinvestissement",
+        "4": "reinvestissement",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 8,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ADR-INV-018",
+      "competence": "1 – Inventer des séquences dramatiques",
+      "section": null,
+      "chemin": [
+        "B. Exploiter des éléments du langage dramatique, de techniques de jeu, de techniques théâtrales ou de modes de théâtralisation",
+        "2. Techniques de jeu 2.1. Techniques vocales"
+      ],
+      "texte": "b. Utiliser quelques techniques vocales parmi les suivantes : respiration, posture, émission du son, projection, prononciation ou débit",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "maitrise",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 8,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ADR-INV-019",
+      "competence": "1 – Inventer des séquences dramatiques",
+      "section": null,
+      "chemin": [
+        "B. Exploiter des éléments du langage dramatique, de techniques de jeu, de techniques théâtrales ou de modes de théâtralisation",
+        "2. Techniques de jeu 2.1. Techniques vocales"
+      ],
+      "texte": "c. Combiner des techniques vocales telles que la respiration, la posture, l’émission du son, la projection, la prononciation, le débit, le rythme ou l’intonation 2.2. Techniques corporelles",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": "apprentissage",
+        "6": "maitrise"
+      },
+      "page": 8,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ADR-INV-020",
+      "competence": "1 – Inventer des séquences dramatiques",
+      "section": null,
+      "chemin": [
+        "B. Exploiter des éléments du langage dramatique, de techniques de jeu, de techniques théâtrales ou de modes de théâtralisation",
+        "2. Techniques de jeu 2.1. Techniques vocales"
+      ],
+      "texte": "a. Utiliser une des techniques corporelles suivantes : détente, assouplissement ou niveaux",
+      "prioritaire": false,
+      "progression": {
+        "1": "apprentissage",
+        "2": "maitrise",
+        "3": "reinvestissement",
+        "4": "reinvestissement",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 8,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ADR-INV-021",
+      "competence": "1 – Inventer des séquences dramatiques",
+      "section": null,
+      "chemin": [
+        "B. Exploiter des éléments du langage dramatique, de techniques de jeu, de techniques théâtrales ou de modes de théâtralisation",
+        "2. Techniques de jeu 2.1. Techniques vocales"
+      ],
+      "texte": "b. Utiliser quelques techniques corporelles parmi les suivantes : détente, assouplissement, niveaux, rythme ou tonus",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "maitrise",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 8,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ADR-INV-022",
+      "competence": "1 – Inventer des séquences dramatiques",
+      "section": null,
+      "chemin": [
+        "B. Exploiter des éléments du langage dramatique, de techniques de jeu, de techniques théâtrales ou de modes de théâtralisation",
+        "2. Techniques de jeu 2.1. Techniques vocales"
+      ],
+      "texte": "c. Intégrer une des techniques corporelles suivantes dans la création de son personnage : détente, assouplissement, niveaux, rythme ou tonus",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": "apprentissage",
+        "6": "maitrise"
+      },
+      "page": 8,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ADR-INV-023",
+      "competence": "1 – Inventer des séquences dramatiques",
+      "section": null,
+      "chemin": [
+        "B. Exploiter des éléments du langage dramatique, de techniques de jeu, de techniques théâtrales ou de modes de théâtralisation",
+        "2. Techniques de jeu 2.1. Techniques vocales"
+      ],
+      "texte": "d. Utiliser les techniques corporelles suivantes : l’amplitude, l’équilibre ou le déséquilibre 2.3. Éléments expressifs",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": "apprentissage",
+        "6": "maitrise"
+      },
+      "page": 8,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ADR-INV-024",
+      "competence": "1 – Inventer des séquences dramatiques",
+      "section": null,
+      "chemin": [
+        "B. Exploiter des éléments du langage dramatique, de techniques de jeu, de techniques théâtrales ou de modes de théâtralisation",
+        "2. Techniques de jeu 2.1. Techniques vocales"
+      ],
+      "texte": "a. Trouver un trait de caractère à son personnage",
+      "prioritaire": false,
+      "progression": {
+        "1": "apprentissage",
+        "2": "maitrise",
+        "3": "reinvestissement",
+        "4": "reinvestissement",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 8,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ADR-INV-025",
+      "competence": "1 – Inventer des séquences dramatiques",
+      "section": null,
+      "chemin": [
+        "B. Exploiter des éléments du langage dramatique, de techniques de jeu, de techniques théâtrales ou de modes de théâtralisation",
+        "2. Techniques de jeu 2.1. Techniques vocales"
+      ],
+      "texte": "b. Trouver quelques traits de caractère à son personnage",
+      "prioritaire": true,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "maitrise",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 8,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ADR-INV-026",
+      "competence": "1 – Inventer des séquences dramatiques",
+      "section": null,
+      "chemin": [
+        "B. Exploiter des éléments du langage dramatique, de techniques de jeu, de techniques théâtrales ou de modes de théâtralisation",
+        "2. Techniques de jeu 2.1. Techniques vocales"
+      ],
+      "texte": "c. Choisir les traits de caractère de son personnage",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": "apprentissage",
+        "6": "maitrise"
+      },
+      "page": 8,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ADR-INV-027",
+      "competence": "1 – Inventer des séquences dramatiques",
+      "section": null,
+      "chemin": [
+        "B. Exploiter des éléments du langage dramatique, de techniques de jeu, de techniques théâtrales ou de modes de théâtralisation",
+        "3. Techniques théâtrales 3.1. Marionnette"
+      ],
+      "texte": "a. Utiliser les positions de base pour la manipulation cachée ou à vue",
+      "prioritaire": false,
+      "progression": {
+        "1": "apprentissage",
+        "2": "maitrise",
+        "3": "reinvestissement",
+        "4": "reinvestissement",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 8,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ADR-INV-028",
+      "competence": "1 – Inventer des séquences dramatiques",
+      "section": null,
+      "chemin": [
+        "B. Exploiter des éléments du langage dramatique, de techniques de jeu, de techniques théâtrales ou de modes de théâtralisation",
+        "3. Techniques théâtrales 3.1. Marionnette"
+      ],
+      "texte": "b. Personnifier la marionnette par la respiration, la direction du regard, la démarche et la voix 3.2. Jeu clownesque",
+      "prioritaire": false,
+      "progression": {
+        "1": "apprentissage",
+        "2": "maitrise",
+        "3": "reinvestissement",
+        "4": "reinvestissement",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 8,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ADR-INV-029",
+      "competence": "1 – Inventer des séquences dramatiques",
+      "section": null,
+      "chemin": [
+        "B. Exploiter des éléments du langage dramatique, de techniques de jeu, de techniques théâtrales ou de modes de théâtralisation",
+        "3. Techniques théâtrales 3.1. Marionnette"
+      ],
+      "texte": "a. Utiliser les effets comiques suivants : jeux physiques, jeux de mots, répétition et exagérations",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "maitrise",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 8,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ADR-INV-030",
+      "competence": "1 – Inventer des séquences dramatiques",
+      "section": null,
+      "chemin": [
+        "B. Exploiter des éléments du langage dramatique, de techniques de jeu, de techniques théâtrales ou de modes de théâtralisation",
+        "3. Techniques théâtrales 3.1. Marionnette"
+      ],
+      "texte": "b. Utiliser les éléments suivants de la comédie clownesque : imitation, retournement de situation, parodie des jeux de cirque et résolution d’un problème 3.3. Théâtre d’ombres",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "maitrise",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 8,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ADR-INV-031",
+      "competence": "1 – Inventer des séquences dramatiques",
+      "section": null,
+      "chemin": [
+        "B. Exploiter des éléments du langage dramatique, de techniques de jeu, de techniques théâtrales ou de modes de théâtralisation",
+        "3. Techniques théâtrales 3.1. Marionnette"
+      ],
+      "texte": "a. Utiliser les éléments techniques suivants : distance, position du corps, ombres et effets spéciaux 3.4. Jeu masqué",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "maitrise",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 8,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ADR-INV-032",
+      "competence": "1 – Inventer des séquences dramatiques",
+      "section": null,
+      "chemin": [
+        "B. Exploiter des éléments du langage dramatique, de techniques de jeu, de techniques théâtrales ou de modes de théâtralisation",
+        "3. Techniques théâtrales 3.1. Marionnette"
+      ],
+      "texte": "a. Diriger son regard (nez)",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": "apprentissage",
+        "6": "maitrise"
+      },
+      "page": 8,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ADR-INV-033",
+      "competence": "1 – Inventer des séquences dramatiques",
+      "section": null,
+      "chemin": [
+        "B. Exploiter des éléments du langage dramatique, de techniques de jeu, de techniques théâtrales ou de modes de théâtralisation",
+        "3. Techniques théâtrales 3.1. Marionnette"
+      ],
+      "texte": "b. Trouver l’émotion à exprimer, la qualité du geste, le rythme et la position dans l’espace",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": "apprentissage",
+        "6": "maitrise"
+      },
+      "page": 8,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ADR-INV-034",
+      "competence": "1 – Inventer des séquences dramatiques",
+      "section": null,
+      "chemin": [
+        "B. Exploiter des éléments du langage dramatique, de techniques de jeu, de techniques théâtrales ou de modes de théâtralisation",
+        "3. Techniques théâtrales 3.1. Marionnette"
+      ],
+      "texte": "a. Choisir des trajets simples dans un espace scénique",
+      "prioritaire": false,
+      "progression": {
+        "1": "apprentissage",
+        "2": "maitrise",
+        "3": "reinvestissement",
+        "4": "reinvestissement",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 9,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ADR-INV-035",
+      "competence": "1 – Inventer des séquences dramatiques",
+      "section": null,
+      "chemin": [
+        "B. Exploiter des éléments du langage dramatique, de techniques de jeu, de techniques théâtrales ou de modes de théâtralisation",
+        "3. Techniques théâtrales 3.1. Marionnette"
+      ],
+      "texte": "b. Mémoriser des trajets dans un espace scénique",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "maitrise",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 9,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ADR-INV-036",
+      "competence": "1 – Inventer des séquences dramatiques",
+      "section": null,
+      "chemin": [
+        "B. Exploiter des éléments du langage dramatique, de techniques de jeu, de techniques théâtrales ou de modes de théâtralisation",
+        "3. Techniques théâtrales 3.1. Marionnette"
+      ],
+      "texte": "c. Transposer l’aire de jeu restreinte à celle de la représentation",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "maitrise",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 9,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ADR-INV-037",
+      "competence": "1 – Inventer des séquences dramatiques",
+      "section": null,
+      "chemin": [
+        "B. Exploiter des éléments du langage dramatique, de techniques de jeu, de techniques théâtrales ou de modes de théâtralisation",
+        "3. Techniques théâtrales 3.1. Marionnette"
+      ],
+      "texte": "d. Utiliser les niveaux dans l’espace 4.2. Objet",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": "apprentissage",
+        "6": "maitrise"
+      },
+      "page": 9,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ADR-INV-038",
+      "competence": "1 – Inventer des séquences dramatiques",
+      "section": null,
+      "chemin": [
+        "B. Exploiter des éléments du langage dramatique, de techniques de jeu, de techniques théâtrales ou de modes de théâtralisation",
+        "3. Techniques théâtrales 3.1. Marionnette"
+      ],
+      "texte": "a. Trouver une fonction utilitaire ou ludique à l’objet",
+      "prioritaire": false,
+      "progression": {
+        "1": "apprentissage",
+        "2": "maitrise",
+        "3": "reinvestissement",
+        "4": "reinvestissement",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 9,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ADR-INV-039",
+      "competence": "1 – Inventer des séquences dramatiques",
+      "section": null,
+      "chemin": [
+        "B. Exploiter des éléments du langage dramatique, de techniques de jeu, de techniques théâtrales ou de modes de théâtralisation",
+        "3. Techniques théâtrales 3.1. Marionnette"
+      ],
+      "texte": "b. Utiliser l’objet en fonction de son aspect ludique ou utilitaire 4.3. Scénographie",
+      "prioritaire": true,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "maitrise",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 9,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ADR-INV-040",
+      "competence": "1 – Inventer des séquences dramatiques",
+      "section": null,
+      "chemin": [
+        "B. Exploiter des éléments du langage dramatique, de techniques de jeu, de techniques théâtrales ou de modes de théâtralisation",
+        "3. Techniques théâtrales 3.1. Marionnette"
+      ],
+      "texte": "a. Aménager l’aire de jeu (espace)",
+      "prioritaire": false,
+      "progression": {
+        "1": "apprentissage",
+        "2": "maitrise",
+        "3": "reinvestissement",
+        "4": "reinvestissement",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 9,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ADR-INV-041",
+      "competence": "1 – Inventer des séquences dramatiques",
+      "section": null,
+      "chemin": [
+        "B. Exploiter des éléments du langage dramatique, de techniques de jeu, de techniques théâtrales ou de modes de théâtralisation",
+        "3. Techniques théâtrales 3.1. Marionnette"
+      ],
+      "texte": "b. Aménager l’aire de jeu (objets et espace)",
+      "prioritaire": true,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "maitrise",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 9,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ADR-INV-042",
+      "competence": "1 – Inventer des séquences dramatiques",
+      "section": null,
+      "chemin": [
+        "B. Exploiter des éléments du langage dramatique, de techniques de jeu, de techniques théâtrales ou de modes de théâtralisation",
+        "3. Techniques théâtrales 3.1. Marionnette"
+      ],
+      "texte": "c. Transformer l’aire de jeu (en cours de jeu) 4.4. Costume",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": "apprentissage",
+        "6": "maitrise"
+      },
+      "page": 9,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ADR-INV-043",
+      "competence": "1 – Inventer des séquences dramatiques",
+      "section": null,
+      "chemin": [
+        "B. Exploiter des éléments du langage dramatique, de techniques de jeu, de techniques théâtrales ou de modes de théâtralisation",
+        "3. Techniques théâtrales 3.1. Marionnette"
+      ],
+      "texte": "a. Choisir un élément du costume en fonction du personnage de la fable",
+      "prioritaire": true,
+      "progression": {
+        "1": "apprentissage",
+        "2": "maitrise",
+        "3": "reinvestissement",
+        "4": "reinvestissement",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 9,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ADR-INV-044",
+      "competence": "1 – Inventer des séquences dramatiques",
+      "section": null,
+      "chemin": [
+        "B. Exploiter des éléments du langage dramatique, de techniques de jeu, de techniques théâtrales ou de modes de théâtralisation",
+        "3. Techniques théâtrales 3.1. Marionnette"
+      ],
+      "texte": "b. Choisir quelques éléments du costume en fonction du personnage de la fable",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "maitrise",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 9,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ADR-INV-045",
+      "competence": "1 – Inventer des séquences dramatiques",
+      "section": null,
+      "chemin": [
+        "B. Exploiter des éléments du langage dramatique, de techniques de jeu, de techniques théâtrales ou de modes de théâtralisation",
+        "3. Techniques théâtrales 3.1. Marionnette"
+      ],
+      "texte": "c. Choisir les éléments du costume en fonction du personnage de la fable 4.5. Environnement sonore",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": "apprentissage",
+        "6": "maitrise"
+      },
+      "page": 9,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ADR-INV-046",
+      "competence": "1 – Inventer des séquences dramatiques",
+      "section": null,
+      "chemin": [
+        "B. Exploiter des éléments du langage dramatique, de techniques de jeu, de techniques théâtrales ou de modes de théâtralisation",
+        "3. Techniques théâtrales 3.1. Marionnette"
+      ],
+      "texte": "a. Trouver différents effets vocaux liés au personnage",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "maitrise",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 9,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ADR-INV-047",
+      "competence": "1 – Inventer des séquences dramatiques",
+      "section": null,
+      "chemin": [
+        "B. Exploiter des éléments du langage dramatique, de techniques de jeu, de techniques théâtrales ou de modes de théâtralisation",
+        "3. Techniques théâtrales 3.1. Marionnette"
+      ],
+      "texte": "b. Trouver différents bruitages liés à la fable 4.6. Éclairage",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": "apprentissage",
+        "6": "maitrise"
+      },
+      "page": 9,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ADR-INV-048",
+      "competence": "1 – Inventer des séquences dramatiques",
+      "section": null,
+      "chemin": [
+        "B. Exploiter des éléments du langage dramatique, de techniques de jeu, de techniques théâtrales ou de modes de théâtralisation",
+        "3. Techniques théâtrales 3.1. Marionnette"
+      ],
+      "texte": "a. Se positionner dans la lumière selon ses choix de jeu",
+      "prioritaire": false,
+      "progression": {
+        "1": "apprentissage",
+        "2": "maitrise",
+        "3": "reinvestissement",
+        "4": "reinvestissement",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 9,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ADR-INV-049",
+      "competence": "1 – Inventer des séquences dramatiques",
+      "section": null,
+      "chemin": [
+        "B. Exploiter des éléments du langage dramatique, de techniques de jeu, de techniques théâtrales ou de modes de théâtralisation",
+        "3. Techniques théâtrales 3.1. Marionnette"
+      ],
+      "texte": "b. Choisir l’intensité et la couleur de la lumière liées à la fable",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "maitrise",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 9,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ADR-INV-050",
+      "competence": "1 – Inventer des séquences dramatiques",
+      "section": null,
+      "chemin": [
+        "B. Exploiter des éléments du langage dramatique, de techniques de jeu, de techniques théâtrales ou de modes de théâtralisation",
+        "3. Techniques théâtrales 3.1. Marionnette"
+      ],
+      "texte": "c. Rechercher des effets d’éclairage simples liés à la fable",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": "apprentissage",
+        "6": "maitrise"
+      },
+      "page": 9,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ADR-INV-051",
+      "competence": "1 – Inventer des séquences dramatiques",
+      "section": null,
+      "chemin": [
+        "C. Organiser les éléments résultant de ses choix"
+      ],
+      "texte": "a. Faire des essais d’enchaînement d’éléments du langage dramatique, de techniques de jeu, de techniques théâtrales et de modes de théâtralisation",
+      "prioritaire": false,
+      "progression": {
+        "1": "apprentissage",
+        "2": "maitrise",
+        "3": "reinvestissement",
+        "4": "reinvestissement",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 9,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ADR-INV-052",
+      "competence": "1 – Inventer des séquences dramatiques",
+      "section": null,
+      "chemin": [
+        "C. Organiser les éléments résultant de ses choix"
+      ],
+      "texte": "b. Ordonner les éléments de la fable",
+      "prioritaire": false,
+      "progression": {
+        "1": "apprentissage",
+        "2": "maitrise",
+        "3": "reinvestissement",
+        "4": "reinvestissement",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 9,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ADR-INV-053",
+      "competence": "1 – Inventer des séquences dramatiques",
+      "section": null,
+      "chemin": [
+        "C. Organiser les éléments résultant de ses choix"
+      ],
+      "texte": "c. Organiser le contenu de ses improvisations",
+      "prioritaire": true,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "maitrise",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 9,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ADR-INV-054",
+      "competence": "1 – Inventer des séquences dramatiques",
+      "section": null,
+      "chemin": [
+        "C. Organiser les éléments résultant de ses choix"
+      ],
+      "texte": "d. Organiser le contenu de ses improvisations en fonction de son intention de création",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": "apprentissage",
+        "6": "maitrise"
+      },
+      "page": 9,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ADR-INV-055",
+      "competence": "1 – Inventer des séquences dramatiques",
+      "section": null,
+      "chemin": [
+        "C. Organiser les éléments résultant de ses choix"
+      ],
+      "texte": "e. Improviser de façon spontanée et de façon préparée : sonore, gestuelle et verbale",
+      "prioritaire": true,
+      "progression": {
+        "1": "apprentissage",
+        "2": "maitrise",
+        "3": "reinvestissement",
+        "4": "reinvestissement",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 9,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ADR-INV-056",
+      "competence": "1 – Inventer des séquences dramatiques",
+      "section": null,
+      "chemin": [
+        "D. Finaliser sa réalisation"
+      ],
+      "texte": "a. Apporter certains ajustements à sa séquence dramatique",
+      "prioritaire": false,
+      "progression": {
+        "1": "apprentissage",
+        "2": "maitrise",
+        "3": "reinvestissement",
+        "4": "reinvestissement",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 9,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ADR-INV-057",
+      "competence": "1 – Inventer des séquences dramatiques",
+      "section": null,
+      "chemin": [
+        "D. Finaliser sa réalisation"
+      ],
+      "texte": "b. Ajuster sa réalisation selon la proposition de départ",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "maitrise",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 10,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ADR-INV-058",
+      "competence": "1 – Inventer des séquences dramatiques",
+      "section": null,
+      "chemin": [
+        "D. Finaliser sa réalisation"
+      ],
+      "texte": "c. Rehausser certains aspects de sa réalisation par l’utilisation des éléments du langage dramatique, des techniques de jeu, des techniques théâtrales ou de modes de théâtralisation",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": "apprentissage",
+        "6": "maitrise"
+      },
+      "page": 10,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ADR-INV-059",
+      "competence": "1 – Inventer des séquences dramatiques",
+      "section": null,
+      "chemin": [
+        "D. Finaliser sa réalisation",
+        "1. Techniques de jeu 1.1. Conditions de jeu"
+      ],
+      "texte": "a. Maintenir son attention dans ses improvisations préparées ou spontanées",
+      "prioritaire": false,
+      "progression": {
+        "1": "apprentissage",
+        "2": "maitrise",
+        "3": "reinvestissement",
+        "4": "reinvestissement",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 10,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ADR-INV-060",
+      "competence": "1 – Inventer des séquences dramatiques",
+      "section": null,
+      "chemin": [
+        "D. Finaliser sa réalisation",
+        "1. Techniques de jeu 1.1. Conditions de jeu"
+      ],
+      "texte": "b. Maintenir son écoute dans ses improvisations préparées ou spontanées",
+      "prioritaire": true,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "maitrise",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 10,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ADR-INV-061",
+      "competence": "1 – Inventer des séquences dramatiques",
+      "section": null,
+      "chemin": [
+        "D. Finaliser sa réalisation",
+        "1. Techniques de jeu 1.1. Conditions de jeu"
+      ],
+      "texte": "c. Maintenir sa concentration dans ses improvisations préparées ou spontanées",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": "apprentissage",
+        "6": "maitrise"
+      },
+      "page": 10,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ADR-INV-062",
+      "competence": "1 – Inventer des séquences dramatiques",
+      "section": null,
+      "chemin": [
+        "D. Finaliser sa réalisation",
+        "1. Techniques de jeu 1.1. Conditions de jeu"
+      ],
+      "texte": "d. Diriger son regard dans ses improvisations préparées ou spontanées 1.2. Règles relatives au jeu d’ensemble",
+      "prioritaire": false,
+      "progression": {
+        "1": "apprentissage",
+        "2": "maitrise",
+        "3": "reinvestissement",
+        "4": "reinvestissement",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 10,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ADR-INV-063",
+      "competence": "1 – Inventer des séquences dramatiques",
+      "section": null,
+      "chemin": [
+        "D. Finaliser sa réalisation",
+        "1. Techniques de jeu 1.1. Conditions de jeu"
+      ],
+      "texte": "a. Tenir compte d’une indication de jeu retenue dans ses improvisations préparées ou spontanées",
+      "prioritaire": false,
+      "progression": {
+        "1": "apprentissage",
+        "2": "maitrise",
+        "3": "reinvestissement",
+        "4": "reinvestissement",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 10,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ADR-INV-064",
+      "competence": "1 – Inventer des séquences dramatiques",
+      "section": null,
+      "chemin": [
+        "D. Finaliser sa réalisation",
+        "1. Techniques de jeu 1.1. Conditions de jeu"
+      ],
+      "texte": "b. Tenir compte des indications de jeu retenues dans ses improvisations préparées ou spontanées",
+      "prioritaire": true,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "maitrise",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 10,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ADR-INV-065",
+      "competence": "1 – Inventer des séquences dramatiques",
+      "section": null,
+      "chemin": [
+        "E. Partager son expérience de création"
+      ],
+      "texte": "a. Relater des faits signifiants liés à l’utilisation des éléments du langage dramatique, des techniques de jeu, des techniques théâtrales ou de modes de théâtralisation",
+      "prioritaire": false,
+      "progression": {
+        "1": "apprentissage",
+        "2": "maitrise",
+        "3": "reinvestissement",
+        "4": "reinvestissement",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 10,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ADR-INV-066",
+      "competence": "1 – Inventer des séquences dramatiques",
+      "section": null,
+      "chemin": [
+        "E. Partager son expérience de création"
+      ],
+      "texte": "b. Décrire des aspects importants liés à l’utilisation des éléments du langage dramatique, des techniques de jeu, des techniques théâtrales ou de modes de théâtralisation",
+      "prioritaire": true,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "maitrise",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 10,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ADR-INV-067",
+      "competence": "1 – Inventer des séquences dramatiques",
+      "section": null,
+      "chemin": [
+        "E. Partager son expérience de création"
+      ],
+      "texte": "c. Utiliser le vocabulaire disciplinaire",
+      "prioritaire": true,
+      "progression": {
+        "1": "apprentissage",
+        "2": "maitrise",
+        "3": "reinvestissement",
+        "4": "reinvestissement",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 10,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ADR-INT-001",
+      "competence": "2 – Interpréter des séquences dramatiques",
+      "section": null,
+      "chemin": [
+        "A. S’approprier le contenu dramatique de la séquence",
+        "1. Structure 1.1. Développement de la fable"
+      ],
+      "texte": "a. Repérer le début et la fin de la fable",
+      "prioritaire": false,
+      "progression": {
+        "1": "apprentissage",
+        "2": "maitrise",
+        "3": "reinvestissement",
+        "4": "reinvestissement",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 11,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ADR-INT-002",
+      "competence": "2 – Interpréter des séquences dramatiques",
+      "section": null,
+      "chemin": [
+        "A. S’approprier le contenu dramatique de la séquence",
+        "1. Structure 1.1. Développement de la fable"
+      ],
+      "texte": "b. Repérer le développement, le retournement de situation et le dénouement de la fable",
+      "prioritaire": true,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "maitrise",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 11,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ADR-INT-003",
+      "competence": "2 – Interpréter des séquences dramatiques",
+      "section": null,
+      "chemin": [
+        "A. S’approprier le contenu dramatique de la séquence",
+        "1. Structure 1.1. Développement de la fable"
+      ],
+      "texte": "c. Repérer des tableaux de la fable",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": "apprentissage",
+        "6": "maitrise"
+      },
+      "page": 11,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ADR-INT-004",
+      "competence": "2 – Interpréter des séquences dramatiques",
+      "section": null,
+      "chemin": [
+        "A. S’approprier le contenu dramatique de la séquence",
+        "1. Structure 1.1. Développement de la fable"
+      ],
+      "texte": "d. Repérer dans la séquence un élément du langage dramatique pour interpréter le personnage de la fable",
+      "prioritaire": false,
+      "progression": {
+        "1": "apprentissage",
+        "2": "maitrise",
+        "3": "reinvestissement",
+        "4": "reinvestissement",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 11,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ADR-INT-005",
+      "competence": "2 – Interpréter des séquences dramatiques",
+      "section": null,
+      "chemin": [
+        "A. S’approprier le contenu dramatique de la séquence",
+        "1. Structure 1.1. Développement de la fable"
+      ],
+      "texte": "e. Repérer dans la séquence quelques éléments du langage dramatique pour interpréter le personnage de la fable",
+      "prioritaire": true,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "maitrise",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 11,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ADR-INT-006",
+      "competence": "2 – Interpréter des séquences dramatiques",
+      "section": null,
+      "chemin": [
+        "A. S’approprier le contenu dramatique de la séquence",
+        "1. Structure 1.1. Développement de la fable"
+      ],
+      "texte": "f. Repérer dans la séquence les éléments du langage dramatique pour interpréter le personnage de la fable",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": "apprentissage",
+        "6": "maitrise"
+      },
+      "page": 11,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ADR-INT-007",
+      "competence": "2 – Interpréter des séquences dramatiques",
+      "section": null,
+      "chemin": [
+        "A. S’approprier le contenu dramatique de la séquence",
+        "1. Structure 1.1. Développement de la fable"
+      ],
+      "texte": "g. Faire quelques essais de jeu",
+      "prioritaire": false,
+      "progression": {
+        "1": "apprentissage",
+        "2": "maitrise",
+        "3": "reinvestissement",
+        "4": "reinvestissement",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 11,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ADR-INT-008",
+      "competence": "2 – Interpréter des séquences dramatiques",
+      "section": null,
+      "chemin": [
+        "A. S’approprier le contenu dramatique de la séquence",
+        "1. Structure 1.1. Développement de la fable"
+      ],
+      "texte": "h. Traduire le contenu de la séquence en action dramatique 1.2. Forme de discours",
+      "prioritaire": true,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "maitrise",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 11,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ADR-INT-009",
+      "competence": "2 – Interpréter des séquences dramatiques",
+      "section": null,
+      "chemin": [
+        "A. S’approprier le contenu dramatique de la séquence",
+        "1. Structure 1.1. Développement de la fable"
+      ],
+      "texte": "a. Repérer le dialogue et la narration dans la fable",
+      "prioritaire": true,
+      "progression": {
+        "1": "apprentissage",
+        "2": "maitrise",
+        "3": "reinvestissement",
+        "4": "reinvestissement",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 11,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ADR-INT-010",
+      "competence": "2 – Interpréter des séquences dramatiques",
+      "section": null,
+      "chemin": [
+        "B. Appliquer des éléments du langage dramatique, de techniques de jeu, de techniques théâtrales et de modes de théâtralisation",
+        "1. Langage dramatique 1.1. Moyens corporels"
+      ],
+      "texte": "a. Utiliser une attitude et un geste liés au personnage de la fable",
+      "prioritaire": true,
+      "progression": {
+        "1": "apprentissage",
+        "2": "maitrise",
+        "3": "reinvestissement",
+        "4": "reinvestissement",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 11,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ADR-INT-011",
+      "competence": "2 – Interpréter des séquences dramatiques",
+      "section": null,
+      "chemin": [
+        "B. Appliquer des éléments du langage dramatique, de techniques de jeu, de techniques théâtrales et de modes de théâtralisation",
+        "1. Langage dramatique 1.1. Moyens corporels"
+      ],
+      "texte": "b. Utiliser des attitudes, des gestes, des mimiques et des mouvements liés au personnage de la fable",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "maitrise",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 11,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ADR-INT-012",
+      "competence": "2 – Interpréter des séquences dramatiques",
+      "section": null,
+      "chemin": [
+        "B. Appliquer des éléments du langage dramatique, de techniques de jeu, de techniques théâtrales et de modes de théâtralisation",
+        "1. Langage dramatique 1.1. Moyens corporels"
+      ],
+      "texte": "c. Choisir des attitudes, des gestes, des mimiques, des mouvements et des rythmes liés au personnage de la fable 1.2. Moyens vocaux 1.2.1 Voix sonore",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": "apprentissage",
+        "6": "maitrise"
+      },
+      "page": 11,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ADR-INT-013",
+      "competence": "2 – Interpréter des séquences dramatiques",
+      "section": null,
+      "chemin": [
+        "B. Appliquer des éléments du langage dramatique, de techniques de jeu, de techniques théâtrales et de modes de théâtralisation",
+        "1. Langage dramatique 1.1. Moyens corporels"
+      ],
+      "texte": "a. Utiliser un bruit et un son liés aux actions dramatiques",
+      "prioritaire": false,
+      "progression": {
+        "1": "apprentissage",
+        "2": "maitrise",
+        "3": "reinvestissement",
+        "4": "reinvestissement",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 11,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ADR-INT-014",
+      "competence": "2 – Interpréter des séquences dramatiques",
+      "section": null,
+      "chemin": [
+        "B. Appliquer des éléments du langage dramatique, de techniques de jeu, de techniques théâtrales et de modes de théâtralisation",
+        "1. Langage dramatique 1.1. Moyens corporels"
+      ],
+      "texte": "b. Utiliser des bruits et des sons liés aux actions dramatiques et à l’émotion du personnage",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "maitrise",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 11,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ADR-INT-015",
+      "competence": "2 – Interpréter des séquences dramatiques",
+      "section": null,
+      "chemin": [
+        "B. Appliquer des éléments du langage dramatique, de techniques de jeu, de techniques théâtrales et de modes de théâtralisation",
+        "1. Langage dramatique 1.1. Moyens corporels"
+      ],
+      "texte": "c. Intégrer des bruits et des sons liés aux actions dramatiques et à l’émotion du personnage",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": "apprentissage",
+        "6": "maitrise"
+      },
+      "page": 11,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ADR-INT-016",
+      "competence": "2 – Interpréter des séquences dramatiques",
+      "section": null,
+      "chemin": [
+        "B. Appliquer des éléments du langage dramatique, de techniques de jeu, de techniques théâtrales et de modes de théâtralisation",
+        "1. Langage dramatique 1.1. Moyens corporels"
+      ],
+      "texte": "a. Trouver l’intensité de voix qui correspond au caractère du personnage de la fable",
+      "prioritaire": true,
+      "progression": {
+        "1": "apprentissage",
+        "2": "maitrise",
+        "3": "reinvestissement",
+        "4": "reinvestissement",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 12,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ADR-INT-017",
+      "competence": "2 – Interpréter des séquences dramatiques",
+      "section": null,
+      "chemin": [
+        "B. Appliquer des éléments du langage dramatique, de techniques de jeu, de techniques théâtrales et de modes de théâtralisation",
+        "1. Langage dramatique 1.1. Moyens corporels"
+      ],
+      "texte": "b. Utiliser l’intensité de voix qui correspond à l’émotion et au caractère du personnage de la fable",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "maitrise",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 12,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ADR-INT-018",
+      "competence": "2 – Interpréter des séquences dramatiques",
+      "section": null,
+      "chemin": [
+        "B. Appliquer des éléments du langage dramatique, de techniques de jeu, de techniques théâtrales et de modes de théâtralisation",
+        "1. Langage dramatique 1.1. Moyens corporels"
+      ],
+      "texte": "c. Combiner des moyens qui correspondent à l’émotion et au caractère du personnage de la fable tels que l’intensité, la hauteur ou le timbre de la voix",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": "apprentissage",
+        "6": "maitrise"
+      },
+      "page": 12,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ADR-INT-019",
+      "competence": "2 – Interpréter des séquences dramatiques",
+      "section": null,
+      "chemin": [
+        "B. Appliquer des éléments du langage dramatique, de techniques de jeu, de techniques théâtrales et de modes de théâtralisation",
+        "2. Techniques de jeu 2.1. Conditions de jeu"
+      ],
+      "texte": "a. Mémoriser quelques répliques et des déplacements dans l’espace scénique",
+      "prioritaire": false,
+      "progression": {
+        "1": "apprentissage",
+        "2": "maitrise",
+        "3": "reinvestissement",
+        "4": "reinvestissement",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 12,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ADR-INT-020",
+      "competence": "2 – Interpréter des séquences dramatiques",
+      "section": null,
+      "chemin": [
+        "B. Appliquer des éléments du langage dramatique, de techniques de jeu, de techniques théâtrales et de modes de théâtralisation",
+        "2. Techniques de jeu 2.1. Conditions de jeu"
+      ],
+      "texte": "b. Mémoriser un court texte et des déplacements dans l’espace scénique",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "maitrise",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 12,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ADR-INT-021",
+      "competence": "2 – Interpréter des séquences dramatiques",
+      "section": null,
+      "chemin": [
+        "B. Appliquer des éléments du langage dramatique, de techniques de jeu, de techniques théâtrales et de modes de théâtralisation",
+        "2. Techniques de jeu 2.1. Conditions de jeu"
+      ],
+      "texte": "c. Mémoriser un extrait et ses déplacements dans l’espace scénique 2.2. Techniques vocales",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": "apprentissage",
+        "6": "maitrise"
+      },
+      "page": 12,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ADR-INT-022",
+      "competence": "2 – Interpréter des séquences dramatiques",
+      "section": null,
+      "chemin": [
+        "B. Appliquer des éléments du langage dramatique, de techniques de jeu, de techniques théâtrales et de modes de théâtralisation",
+        "2. Techniques de jeu 2.1. Conditions de jeu"
+      ],
+      "texte": "a. Utiliser une technique vocale liée au personnage de la fable (respiration, posture, émission du son ou débit)",
+      "prioritaire": false,
+      "progression": {
+        "1": "apprentissage",
+        "2": "maitrise",
+        "3": "reinvestissement",
+        "4": "reinvestissement",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 12,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ADR-INT-023",
+      "competence": "2 – Interpréter des séquences dramatiques",
+      "section": null,
+      "chemin": [
+        "B. Appliquer des éléments du langage dramatique, de techniques de jeu, de techniques théâtrales et de modes de théâtralisation",
+        "2. Techniques de jeu 2.1. Conditions de jeu"
+      ],
+      "texte": "b. Utiliser quelques techniques vocales liées au personnage de la fable (respiration, posture, émission du son, projection, prononciation ou débit)",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "maitrise",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 12,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ADR-INT-024",
+      "competence": "2 – Interpréter des séquences dramatiques",
+      "section": null,
+      "chemin": [
+        "B. Appliquer des éléments du langage dramatique, de techniques de jeu, de techniques théâtrales et de modes de théâtralisation",
+        "2. Techniques de jeu 2.1. Conditions de jeu"
+      ],
+      "texte": "c. Combiner des techniques vocales liées au personnage de la fable (respiration, posture, émission du son, projection, prononciation, débit, rythme et intonation) 2.3. Techniques corporelles",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": "apprentissage",
+        "6": "maitrise"
+      },
+      "page": 12,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ADR-INT-025",
+      "competence": "2 – Interpréter des séquences dramatiques",
+      "section": null,
+      "chemin": [
+        "B. Appliquer des éléments du langage dramatique, de techniques de jeu, de techniques théâtrales et de modes de théâtralisation",
+        "2. Techniques de jeu 2.1. Conditions de jeu"
+      ],
+      "texte": "a. Utiliser une technique corporelle parmi les suivantes : détente, assouplissement ou niveaux",
+      "prioritaire": false,
+      "progression": {
+        "1": "apprentissage",
+        "2": "maitrise",
+        "3": "reinvestissement",
+        "4": "reinvestissement",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 12,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ADR-INT-026",
+      "competence": "2 – Interpréter des séquences dramatiques",
+      "section": null,
+      "chemin": [
+        "B. Appliquer des éléments du langage dramatique, de techniques de jeu, de techniques théâtrales et de modes de théâtralisation",
+        "2. Techniques de jeu 2.1. Conditions de jeu"
+      ],
+      "texte": "b. Utiliser des techniques corporelles parmi les suivantes : détente, assouplissement, niveaux, rythme ou tonus",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "maitrise",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 12,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ADR-INT-027",
+      "competence": "2 – Interpréter des séquences dramatiques",
+      "section": null,
+      "chemin": [
+        "B. Appliquer des éléments du langage dramatique, de techniques de jeu, de techniques théâtrales et de modes de théâtralisation",
+        "2. Techniques de jeu 2.1. Conditions de jeu"
+      ],
+      "texte": "c. Intégrer une technique corporelle parmi les suivantes : détente, assouplissement, niveaux, rythme ou tonus",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": "apprentissage",
+        "6": "maitrise"
+      },
+      "page": 12,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ADR-INT-028",
+      "competence": "2 – Interpréter des séquences dramatiques",
+      "section": null,
+      "chemin": [
+        "B. Appliquer des éléments du langage dramatique, de techniques de jeu, de techniques théâtrales et de modes de théâtralisation",
+        "2. Techniques de jeu 2.1. Conditions de jeu"
+      ],
+      "texte": "d. Utiliser l’amplitude, l’équilibre ou le déséquilibre",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": "apprentissage",
+        "6": "maitrise"
+      },
+      "page": 12,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ADR-INT-029",
+      "competence": "2 – Interpréter des séquences dramatiques",
+      "section": null,
+      "chemin": [
+        "B. Appliquer des éléments du langage dramatique, de techniques de jeu, de techniques théâtrales et de modes de théâtralisation",
+        "3. Techniques théâtrales 3.1. Marionnette"
+      ],
+      "texte": "a. Utiliser les positions de base de la manipulation cachée ou à vue",
+      "prioritaire": false,
+      "progression": {
+        "1": "apprentissage",
+        "2": "maitrise",
+        "3": "reinvestissement",
+        "4": "reinvestissement",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 12,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ADR-INT-030",
+      "competence": "2 – Interpréter des séquences dramatiques",
+      "section": null,
+      "chemin": [
+        "B. Appliquer des éléments du langage dramatique, de techniques de jeu, de techniques théâtrales et de modes de théâtralisation",
+        "3. Techniques théâtrales 3.1. Marionnette"
+      ],
+      "texte": "b. Personnifier la marionnette par la respiration, la direction du regard, la démarche et la voix 3.2. Jeu clownesque",
+      "prioritaire": false,
+      "progression": {
+        "1": "apprentissage",
+        "2": "maitrise",
+        "3": "reinvestissement",
+        "4": "reinvestissement",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 12,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ADR-INT-031",
+      "competence": "2 – Interpréter des séquences dramatiques",
+      "section": null,
+      "chemin": [
+        "B. Appliquer des éléments du langage dramatique, de techniques de jeu, de techniques théâtrales et de modes de théâtralisation",
+        "3. Techniques théâtrales 3.1. Marionnette"
+      ],
+      "texte": "a. Utiliser les effets comiques suivants : jeux physiques, jeux de mots, répétitions et exagérations",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "maitrise",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 12,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ADR-INT-032",
+      "competence": "2 – Interpréter des séquences dramatiques",
+      "section": null,
+      "chemin": [
+        "B. Appliquer des éléments du langage dramatique, de techniques de jeu, de techniques théâtrales et de modes de théâtralisation",
+        "3. Techniques théâtrales 3.1. Marionnette"
+      ],
+      "texte": "b. Utiliser les éléments suivants de la comédie clownesque : imitation, retournement de situation, parodie des jeux de cirque et résolution d’un problème 3.3. Théâtre d’ombres",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "maitrise",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 12,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ADR-INT-033",
+      "competence": "2 – Interpréter des séquences dramatiques",
+      "section": null,
+      "chemin": [
+        "B. Appliquer des éléments du langage dramatique, de techniques de jeu, de techniques théâtrales et de modes de théâtralisation",
+        "3. Techniques théâtrales 3.1. Marionnette"
+      ],
+      "texte": "a. Utiliser les éléments techniques suivants : distance, position du corps, ombres et effets spéciaux 3.4. Jeu masqué",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "maitrise",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 12,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ADR-INT-034",
+      "competence": "2 – Interpréter des séquences dramatiques",
+      "section": null,
+      "chemin": [
+        "B. Appliquer des éléments du langage dramatique, de techniques de jeu, de techniques théâtrales et de modes de théâtralisation",
+        "3. Techniques théâtrales 3.1. Marionnette"
+      ],
+      "texte": "a. Diriger son regard (nez)",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": "apprentissage",
+        "6": "maitrise"
+      },
+      "page": 12,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ADR-INT-035",
+      "competence": "2 – Interpréter des séquences dramatiques",
+      "section": null,
+      "chemin": [
+        "B. Appliquer des éléments du langage dramatique, de techniques de jeu, de techniques théâtrales et de modes de théâtralisation",
+        "3. Techniques théâtrales 3.1. Marionnette"
+      ],
+      "texte": "b. Trouver l’émotion à exprimer, la qualité du geste, le rythme et la position dans l’espace",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": "apprentissage",
+        "6": "maitrise"
+      },
+      "page": 12,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ADR-INT-036",
+      "competence": "2 – Interpréter des séquences dramatiques",
+      "section": null,
+      "chemin": [
+        "B. Appliquer des éléments du langage dramatique, de techniques de jeu, de techniques théâtrales et de modes de théâtralisation",
+        "4. Modes de théâtralisation 4.1. Espace"
+      ],
+      "texte": "a. Effectuer des trajets simples liés au contenu de la fable",
+      "prioritaire": false,
+      "progression": {
+        "1": "apprentissage",
+        "2": "maitrise",
+        "3": "reinvestissement",
+        "4": "reinvestissement",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 13,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ADR-INT-037",
+      "competence": "2 – Interpréter des séquences dramatiques",
+      "section": null,
+      "chemin": [
+        "B. Appliquer des éléments du langage dramatique, de techniques de jeu, de techniques théâtrales et de modes de théâtralisation",
+        "4. Modes de théâtralisation 4.1. Espace"
+      ],
+      "texte": "b. Mémoriser des trajets liés au contenu de la fable",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "maitrise",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 13,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ADR-INT-038",
+      "competence": "2 – Interpréter des séquences dramatiques",
+      "section": null,
+      "chemin": [
+        "B. Appliquer des éléments du langage dramatique, de techniques de jeu, de techniques théâtrales et de modes de théâtralisation",
+        "4. Modes de théâtralisation 4.1. Espace"
+      ],
+      "texte": "c. Transposer l’aire de jeu restreinte à celle de la représentation",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "maitrise",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 13,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ADR-INT-039",
+      "competence": "2 – Interpréter des séquences dramatiques",
+      "section": null,
+      "chemin": [
+        "B. Appliquer des éléments du langage dramatique, de techniques de jeu, de techniques théâtrales et de modes de théâtralisation",
+        "4. Modes de théâtralisation 4.1. Espace"
+      ],
+      "texte": "d. Utiliser les niveaux dans l’espace scénique 4.2. Objet",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": "apprentissage",
+        "6": "maitrise"
+      },
+      "page": 13,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ADR-INT-040",
+      "competence": "2 – Interpréter des séquences dramatiques",
+      "section": null,
+      "chemin": [
+        "B. Appliquer des éléments du langage dramatique, de techniques de jeu, de techniques théâtrales et de modes de théâtralisation",
+        "4. Modes de théâtralisation 4.1. Espace"
+      ],
+      "texte": "a. Utiliser l’objet en fonction du contenu de la fable choisie 4.3. Scénographie",
+      "prioritaire": true,
+      "progression": {
+        "1": "apprentissage",
+        "2": "maitrise",
+        "3": "reinvestissement",
+        "4": "reinvestissement",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 13,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ADR-INT-041",
+      "competence": "2 – Interpréter des séquences dramatiques",
+      "section": null,
+      "chemin": [
+        "B. Appliquer des éléments du langage dramatique, de techniques de jeu, de techniques théâtrales et de modes de théâtralisation",
+        "4. Modes de théâtralisation 4.1. Espace"
+      ],
+      "texte": "a. Respecter l’aménagement de l’aire de jeu (espace)",
+      "prioritaire": false,
+      "progression": {
+        "1": "apprentissage",
+        "2": "maitrise",
+        "3": "reinvestissement",
+        "4": "reinvestissement",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 13,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ADR-INT-042",
+      "competence": "2 – Interpréter des séquences dramatiques",
+      "section": null,
+      "chemin": [
+        "B. Appliquer des éléments du langage dramatique, de techniques de jeu, de techniques théâtrales et de modes de théâtralisation",
+        "4. Modes de théâtralisation 4.1. Espace"
+      ],
+      "texte": "b. Respecter l’aménagement de l’aire de jeu (objets et espace)",
+      "prioritaire": true,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "maitrise",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 13,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ADR-INT-043",
+      "competence": "2 – Interpréter des séquences dramatiques",
+      "section": null,
+      "chemin": [
+        "B. Appliquer des éléments du langage dramatique, de techniques de jeu, de techniques théâtrales et de modes de théâtralisation",
+        "4. Modes de théâtralisation 4.1. Espace"
+      ],
+      "texte": "c. Transformer l’aire de jeu (en cours de jeu) 4.4. Costume",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": "apprentissage",
+        "6": "maitrise"
+      },
+      "page": 13,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ADR-INT-044",
+      "competence": "2 – Interpréter des séquences dramatiques",
+      "section": null,
+      "chemin": [
+        "B. Appliquer des éléments du langage dramatique, de techniques de jeu, de techniques théâtrales et de modes de théâtralisation",
+        "4. Modes de théâtralisation 4.1. Espace"
+      ],
+      "texte": "a. Choisir un élément de costume lié au personnage de la fable",
+      "prioritaire": true,
+      "progression": {
+        "1": "apprentissage",
+        "2": "maitrise",
+        "3": "reinvestissement",
+        "4": "reinvestissement",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 13,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ADR-INT-045",
+      "competence": "2 – Interpréter des séquences dramatiques",
+      "section": null,
+      "chemin": [
+        "B. Appliquer des éléments du langage dramatique, de techniques de jeu, de techniques théâtrales et de modes de théâtralisation",
+        "4. Modes de théâtralisation 4.1. Espace"
+      ],
+      "texte": "b. Choisir quelques éléments de costume liés au personnage de la fable",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "maitrise",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 13,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ADR-INT-046",
+      "competence": "2 – Interpréter des séquences dramatiques",
+      "section": null,
+      "chemin": [
+        "B. Appliquer des éléments du langage dramatique, de techniques de jeu, de techniques théâtrales et de modes de théâtralisation",
+        "4. Modes de théâtralisation 4.1. Espace"
+      ],
+      "texte": "c. Choisir le costume lié au personnage de la fable",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": "apprentissage",
+        "6": "maitrise"
+      },
+      "page": 13,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ADR-INT-047",
+      "competence": "2 – Interpréter des séquences dramatiques",
+      "section": null,
+      "chemin": [
+        "C. Exploiter les éléments expressifs inhérents à la séquence dramatique",
+        "1. Techniques de jeu 1.1. Éléments expressifs"
+      ],
+      "texte": "a. Respecter les traits de caractère du personnage de la fable",
+      "prioritaire": true,
+      "progression": {
+        "1": "apprentissage",
+        "2": "maitrise",
+        "3": "reinvestissement",
+        "4": "reinvestissement",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 13,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ADR-INT-048",
+      "competence": "2 – Interpréter des séquences dramatiques",
+      "section": null,
+      "chemin": [
+        "C. Exploiter les éléments expressifs inhérents à la séquence dramatique",
+        "1. Techniques de jeu 1.1. Éléments expressifs"
+      ],
+      "texte": "b. Respecter les caractéristiques de la fable",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "maitrise",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 13,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ADR-INT-049",
+      "competence": "2 – Interpréter des séquences dramatiques",
+      "section": null,
+      "chemin": [
+        "C. Exploiter les éléments expressifs inhérents à la séquence dramatique",
+        "2. Modes de théâtralisation 2.1. Environnement sonore"
+      ],
+      "texte": "a. Produire des effets vocaux liés au personnage",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "maitrise",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 13,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ADR-INT-050",
+      "competence": "2 – Interpréter des séquences dramatiques",
+      "section": null,
+      "chemin": [
+        "C. Exploiter les éléments expressifs inhérents à la séquence dramatique",
+        "2. Modes de théâtralisation 2.1. Environnement sonore"
+      ],
+      "texte": "b. Produire des bruitages liés à la fable 2.2. Éclairage",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": "apprentissage",
+        "6": "maitrise"
+      },
+      "page": 13,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ADR-INT-051",
+      "competence": "2 – Interpréter des séquences dramatiques",
+      "section": null,
+      "chemin": [
+        "C. Exploiter les éléments expressifs inhérents à la séquence dramatique",
+        "2. Modes de théâtralisation 2.1. Environnement sonore"
+      ],
+      "texte": "a. Se positionner dans la lumière selon les indications de jeu établies",
+      "prioritaire": false,
+      "progression": {
+        "1": "apprentissage",
+        "2": "maitrise",
+        "3": "reinvestissement",
+        "4": "reinvestissement",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 13,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ADR-INT-052",
+      "competence": "2 – Interpréter des séquences dramatiques",
+      "section": null,
+      "chemin": [
+        "C. Exploiter les éléments expressifs inhérents à la séquence dramatique",
+        "2. Modes de théâtralisation 2.1. Environnement sonore"
+      ],
+      "texte": "b. Utiliser une intensité et une couleur qui respectent les indications de la fable",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "maitrise",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 13,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ADR-INT-053",
+      "competence": "2 – Interpréter des séquences dramatiques",
+      "section": null,
+      "chemin": [
+        "C. Exploiter les éléments expressifs inhérents à la séquence dramatique",
+        "2. Modes de théâtralisation 2.1. Environnement sonore"
+      ],
+      "texte": "c. Utiliser des effets d’éclairage simples qui appuient l’action dramatique",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": "apprentissage",
+        "6": "maitrise"
+      },
+      "page": 13,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ADR-INT-054",
+      "competence": "2 – Interpréter des séquences dramatiques",
+      "section": null,
+      "chemin": [
+        "D. Appliquer les règles relatives au jeu d’ensemble"
+      ],
+      "texte": "a. Maintenir son attention en cours de jeu",
+      "prioritaire": false,
+      "progression": {
+        "1": "apprentissage",
+        "2": "maitrise",
+        "3": "reinvestissement",
+        "4": "reinvestissement",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 14,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ADR-INT-055",
+      "competence": "2 – Interpréter des séquences dramatiques",
+      "section": null,
+      "chemin": [
+        "D. Appliquer les règles relatives au jeu d’ensemble"
+      ],
+      "texte": "b. Maintenir son écoute en cours de jeu",
+      "prioritaire": true,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "maitrise",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 14,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ADR-INT-056",
+      "competence": "2 – Interpréter des séquences dramatiques",
+      "section": null,
+      "chemin": [
+        "D. Appliquer les règles relatives au jeu d’ensemble"
+      ],
+      "texte": "c. Maintenir sa concentration en cours de jeu 1.2. Règles relatives au jeu d’ensemble",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": "apprentissage",
+        "6": "maitrise"
+      },
+      "page": 14,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ADR-INT-057",
+      "competence": "2 – Interpréter des séquences dramatiques",
+      "section": null,
+      "chemin": [
+        "D. Appliquer les règles relatives au jeu d’ensemble"
+      ],
+      "texte": "a. Respecter les indications de jeu établies",
+      "prioritaire": true,
+      "progression": {
+        "1": "apprentissage",
+        "2": "maitrise",
+        "3": "reinvestissement",
+        "4": "reinvestissement",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 14,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ADR-INT-058",
+      "competence": "2 – Interpréter des séquences dramatiques",
+      "section": null,
+      "chemin": [
+        "D. Appliquer les règles relatives au jeu d’ensemble"
+      ],
+      "texte": "b. Respecter des caractéristiques du chœur établies dans le jeu",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": "apprentissage",
+        "6": "maitrise"
+      },
+      "page": 14,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ADR-INT-059",
+      "competence": "2 – Interpréter des séquences dramatiques",
+      "section": null,
+      "chemin": [
+        "E. Partager son expérience d’interprétation"
+      ],
+      "texte": "a. Relater des faits signifiants liés à l’utilisation des éléments du langage dramatique, des techniques de jeu, des techniques théâtrales ou de modes de théâtralisation",
+      "prioritaire": false,
+      "progression": {
+        "1": "apprentissage",
+        "2": "maitrise",
+        "3": "reinvestissement",
+        "4": "reinvestissement",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 14,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ADR-INT-060",
+      "competence": "2 – Interpréter des séquences dramatiques",
+      "section": null,
+      "chemin": [
+        "E. Partager son expérience d’interprétation"
+      ],
+      "texte": "b. Décrire des aspects importants liés à l’utilisation des éléments du langage dramatique, des techniques de jeu, des techniques théâtrales ou de modes de théâtralisation",
+      "prioritaire": true,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "maitrise",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 14,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ADR-INT-061",
+      "competence": "2 – Interpréter des séquences dramatiques",
+      "section": null,
+      "chemin": [
+        "E. Partager son expérience d’interprétation"
+      ],
+      "texte": "c. Utiliser le vocabulaire disciplinaire",
+      "prioritaire": true,
+      "progression": {
+        "1": "apprentissage",
+        "2": "maitrise",
+        "3": "reinvestissement",
+        "4": "reinvestissement",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 14,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ADR-APP-001",
+      "competence": "3 – Apprécier des œuvres théâtrales, ses réalisations et celles de ses camarades",
+      "section": null,
+      "chemin": [
+        "A. Examiner un extrait d’œuvre théâtrale ou une réalisation dramatique au regard d’éléments de contenu"
+      ],
+      "texte": "a. Observer des éléments disciplinaires à partir de réalisations d’élèves",
+      "prioritaire": false,
+      "progression": {
+        "1": "apprentissage",
+        "2": "maitrise",
+        "3": "reinvestissement",
+        "4": "reinvestissement",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 15,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ADR-APP-002",
+      "competence": "3 – Apprécier des œuvres théâtrales, ses réalisations et celles de ses camarades",
+      "section": null,
+      "chemin": [
+        "A. Examiner un extrait d’œuvre théâtrale ou une réalisation dramatique au regard d’éléments de contenu"
+      ],
+      "texte": "b. Observer des éléments disciplinaires à partir d’extraits d’œuvres d’hier et d’aujourd’hui, d’ici et d’ailleurs",
+      "prioritaire": false,
+      "progression": {
+        "1": "apprentissage",
+        "2": "maitrise",
+        "3": "reinvestissement",
+        "4": "reinvestissement",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 15,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ADR-APP-003",
+      "competence": "3 – Apprécier des œuvres théâtrales, ses réalisations et celles de ses camarades",
+      "section": null,
+      "chemin": [
+        "A. Examiner un extrait d’œuvre théâtrale ou une réalisation dramatique au regard d’éléments de contenu",
+        "1. Éléments du langage dramatique 1.1. Moyens corporels"
+      ],
+      "texte": "a. Observer des moyens corporels utilisés parmi les suivants : attitude et liés aux personnages",
+      "prioritaire": true,
+      "progression": {
+        "1": "apprentissage",
+        "2": "maitrise",
+        "3": "reinvestissement",
+        "4": "reinvestissement",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 15,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ADR-APP-004",
+      "competence": "3 – Apprécier des œuvres théâtrales, ses réalisations et celles de ses camarades",
+      "section": null,
+      "chemin": [
+        "A. Examiner un extrait d’œuvre théâtrale ou une réalisation dramatique au regard d’éléments de contenu",
+        "1. Éléments du langage dramatique 1.1. Moyens corporels"
+      ],
+      "texte": "b. Observer des moyens corporels utilisés parmi les suivants : attitude, geste, mimique et mouvement liés aux personnages ou à l’action dramatique",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "maitrise",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 15,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ADR-APP-005",
+      "competence": "3 – Apprécier des œuvres théâtrales, ses réalisations et celles de ses camarades",
+      "section": null,
+      "chemin": [
+        "A. Examiner un extrait d’œuvre théâtrale ou une réalisation dramatique au regard d’éléments de contenu",
+        "1. Éléments du langage dramatique 1.1. Moyens corporels"
+      ],
+      "texte": "c. Observer des moyens corporels utilisés parmi les suivants : geste, attitude, mouvement et rythme liés aux personnages ou à l’action dramatique 1.2. Moyens vocaux 1.2.1 Voix sonore",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": "apprentissage",
+        "6": "maitrise"
+      },
+      "page": 15,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ADR-APP-006",
+      "competence": "3 – Apprécier des œuvres théâtrales, ses réalisations et celles de ses camarades",
+      "section": null,
+      "chemin": [
+        "A. Examiner un extrait d’œuvre théâtrale ou une réalisation dramatique au regard d’éléments de contenu",
+        "1. Éléments du langage dramatique 1.1. Moyens corporels"
+      ],
+      "texte": "a. Repérer des moyens vocaux utilisés dans l’action dramatique parmi les suivants : un bruit et un son",
+      "prioritaire": false,
+      "progression": {
+        "1": "apprentissage",
+        "2": "maitrise",
+        "3": "reinvestissement",
+        "4": "reinvestissement",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 15,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ADR-APP-007",
+      "competence": "3 – Apprécier des œuvres théâtrales, ses réalisations et celles de ses camarades",
+      "section": null,
+      "chemin": [
+        "A. Examiner un extrait d’œuvre théâtrale ou une réalisation dramatique au regard d’éléments de contenu",
+        "1. Éléments du langage dramatique 1.1. Moyens corporels"
+      ],
+      "texte": "b. Repérer des moyens vocaux utilisés dans l’action dramatique ou liés à l’émotion du personnage parmi les suivants : des bruits et des sons",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "maitrise",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 15,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ADR-APP-008",
+      "competence": "3 – Apprécier des œuvres théâtrales, ses réalisations et celles de ses camarades",
+      "section": null,
+      "chemin": [
+        "A. Examiner un extrait d’œuvre théâtrale ou une réalisation dramatique au regard d’éléments de contenu",
+        "1. Éléments du langage dramatique 1.1. Moyens corporels"
+      ],
+      "texte": "c. Vérifier la pertinence des bruits et des sons utilisés dans l’action dramatique ou liés à l’émotion du personnage 1.2.2 Voix parlée",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": "apprentissage",
+        "6": "maitrise"
+      },
+      "page": 15,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ADR-APP-009",
+      "competence": "3 – Apprécier des œuvres théâtrales, ses réalisations et celles de ses camarades",
+      "section": null,
+      "chemin": [
+        "A. Examiner un extrait d’œuvre théâtrale ou une réalisation dramatique au regard d’éléments de contenu",
+        "1. Éléments du langage dramatique 1.1. Moyens corporels"
+      ],
+      "texte": "a. Observer l’intensité de voix liée au caractère du personnage",
+      "prioritaire": true,
+      "progression": {
+        "1": "apprentissage",
+        "2": "maitrise",
+        "3": "reinvestissement",
+        "4": "reinvestissement",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 15,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ADR-APP-010",
+      "competence": "3 – Apprécier des œuvres théâtrales, ses réalisations et celles de ses camarades",
+      "section": null,
+      "chemin": [
+        "A. Examiner un extrait d’œuvre théâtrale ou une réalisation dramatique au regard d’éléments de contenu",
+        "1. Éléments du langage dramatique 1.1. Moyens corporels"
+      ],
+      "texte": "b. Observer l’intensité de voix liée à l’émotion et au caractère du personnage",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "maitrise",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 15,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ADR-APP-011",
+      "competence": "3 – Apprécier des œuvres théâtrales, ses réalisations et celles de ses camarades",
+      "section": null,
+      "chemin": [
+        "A. Examiner un extrait d’œuvre théâtrale ou une réalisation dramatique au regard d’éléments de contenu",
+        "1. Éléments du langage dramatique 1.1. Moyens corporels"
+      ],
+      "texte": "c. Vérifier la pertinence du choix de l’intensité de voix, du timbre et de la hauteur liés à l’émotion et au caractère du personnage",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": "apprentissage",
+        "6": "maitrise"
+      },
+      "page": 15,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ADR-APP-012",
+      "competence": "3 – Apprécier des œuvres théâtrales, ses réalisations et celles de ses camarades",
+      "section": null,
+      "chemin": [
+        "A. Examiner un extrait d’œuvre théâtrale ou une réalisation dramatique au regard d’éléments de contenu",
+        "1. Éléments du langage dramatique 1.1. Moyens corporels"
+      ],
+      "texte": "d. Observer les effets de chœur intégrés à l’œuvre ou à la réalisation",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": "apprentissage",
+        "6": "maitrise"
+      },
+      "page": 15,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ADR-APP-013",
+      "competence": "3 – Apprécier des œuvres théâtrales, ses réalisations et celles de ses camarades",
+      "section": null,
+      "chemin": [
+        "A. Examiner un extrait d’œuvre théâtrale ou une réalisation dramatique au regard d’éléments de contenu",
+        "2. Techniques de jeu 2.1. Conditions de jeu"
+      ],
+      "texte": "a. Observer une condition de jeu parmi les suivantes : attention, mémorisation et direction du regard",
+      "prioritaire": false,
+      "progression": {
+        "1": "apprentissage",
+        "2": "maitrise",
+        "3": "reinvestissement",
+        "4": "reinvestissement",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 15,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ADR-APP-014",
+      "competence": "3 – Apprécier des œuvres théâtrales, ses réalisations et celles de ses camarades",
+      "section": null,
+      "chemin": [
+        "A. Examiner un extrait d’œuvre théâtrale ou une réalisation dramatique au regard d’éléments de contenu",
+        "2. Techniques de jeu 2.1. Conditions de jeu"
+      ],
+      "texte": "b. Observer des conditions de jeu parmi les suivantes : écoute, mémorisation et direction du regard",
+      "prioritaire": true,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "maitrise",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 15,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ADR-APP-015",
+      "competence": "3 – Apprécier des œuvres théâtrales, ses réalisations et celles de ses camarades",
+      "section": null,
+      "chemin": [
+        "A. Examiner un extrait d’œuvre théâtrale ou une réalisation dramatique au regard d’éléments de contenu",
+        "2. Techniques de jeu 2.1. Conditions de jeu"
+      ],
+      "texte": "c. Observer des conditions de jeu parmi les suivantes : concentration, mémorisation et direction du regard",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": "apprentissage",
+        "6": "maitrise"
+      },
+      "page": 15,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ADR-APP-016",
+      "competence": "3 – Apprécier des œuvres théâtrales, ses réalisations et celles de ses camarades",
+      "section": null,
+      "chemin": [
+        "A. Examiner un extrait d’œuvre théâtrale ou une réalisation dramatique au regard d’éléments de contenu",
+        "2. Techniques de jeu 2.1. Conditions de jeu"
+      ],
+      "texte": "a. Repérer une indication de jeu retenue",
+      "prioritaire": false,
+      "progression": {
+        "1": "apprentissage",
+        "2": "maitrise",
+        "3": "reinvestissement",
+        "4": "reinvestissement",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 16,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ADR-APP-017",
+      "competence": "3 – Apprécier des œuvres théâtrales, ses réalisations et celles de ses camarades",
+      "section": null,
+      "chemin": [
+        "A. Examiner un extrait d’œuvre théâtrale ou une réalisation dramatique au regard d’éléments de contenu",
+        "2. Techniques de jeu 2.1. Conditions de jeu"
+      ],
+      "texte": "b. Repérer quelques indications de jeu retenues",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "maitrise",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 16,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ADR-APP-018",
+      "competence": "3 – Apprécier des œuvres théâtrales, ses réalisations et celles de ses camarades",
+      "section": null,
+      "chemin": [
+        "A. Examiner un extrait d’œuvre théâtrale ou une réalisation dramatique au regard d’éléments de contenu",
+        "2. Techniques de jeu 2.1. Conditions de jeu"
+      ],
+      "texte": "c. Vérifier l’exactitude des indications de jeu retenues 2.3. Techniques vocales",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": "apprentissage",
+        "6": "maitrise"
+      },
+      "page": 16,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ADR-APP-019",
+      "competence": "3 – Apprécier des œuvres théâtrales, ses réalisations et celles de ses camarades",
+      "section": null,
+      "chemin": [
+        "A. Examiner un extrait d’œuvre théâtrale ou une réalisation dramatique au regard d’éléments de contenu",
+        "2. Techniques de jeu 2.1. Conditions de jeu"
+      ],
+      "texte": "a. Observer une des techniques vocales suivantes : posture, émission du son ou débit",
+      "prioritaire": false,
+      "progression": {
+        "1": "apprentissage",
+        "2": "maitrise",
+        "3": "reinvestissement",
+        "4": "reinvestissement",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 16,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ADR-APP-020",
+      "competence": "3 – Apprécier des œuvres théâtrales, ses réalisations et celles de ses camarades",
+      "section": null,
+      "chemin": [
+        "A. Examiner un extrait d’œuvre théâtrale ou une réalisation dramatique au regard d’éléments de contenu",
+        "2. Techniques de jeu 2.1. Conditions de jeu"
+      ],
+      "texte": "b. Observer des techniques vocales parmi les suivantes : respiration, posture, du son, projection, prononciation ou débit",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "maitrise",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 16,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ADR-APP-021",
+      "competence": "3 – Apprécier des œuvres théâtrales, ses réalisations et celles de ses camarades",
+      "section": null,
+      "chemin": [
+        "A. Examiner un extrait d’œuvre théâtrale ou une réalisation dramatique au regard d’éléments de contenu",
+        "2. Techniques de jeu 2.1. Conditions de jeu"
+      ],
+      "texte": "c. Vérifier la pertinence des techniques vocales utilisées parmi les suivantes : respiration, posture, émission du son, projection, prononciation, rythme, intonation ou débit 2.4. Techniques corporelles",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": "apprentissage",
+        "6": "maitrise"
+      },
+      "page": 16,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ADR-APP-022",
+      "competence": "3 – Apprécier des œuvres théâtrales, ses réalisations et celles de ses camarades",
+      "section": null,
+      "chemin": [
+        "A. Examiner un extrait d’œuvre théâtrale ou une réalisation dramatique au regard d’éléments de contenu",
+        "2. Techniques de jeu 2.1. Conditions de jeu"
+      ],
+      "texte": "a. Observer une technique corporelle utilisée parmi les suivantes : détente, assouplissement ou niveaux",
+      "prioritaire": false,
+      "progression": {
+        "1": "apprentissage",
+        "2": "maitrise",
+        "3": "reinvestissement",
+        "4": "reinvestissement",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 16,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ADR-APP-023",
+      "competence": "3 – Apprécier des œuvres théâtrales, ses réalisations et celles de ses camarades",
+      "section": null,
+      "chemin": [
+        "A. Examiner un extrait d’œuvre théâtrale ou une réalisation dramatique au regard d’éléments de contenu",
+        "2. Techniques de jeu 2.1. Conditions de jeu"
+      ],
+      "texte": "b. Observer quelques techniques corporelles utilisées parmi les suivantes : détente, assouplissement, niveaux, rythme ou tonus",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "maitrise",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 16,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ADR-APP-024",
+      "competence": "3 – Apprécier des œuvres théâtrales, ses réalisations et celles de ses camarades",
+      "section": null,
+      "chemin": [
+        "A. Examiner un extrait d’œuvre théâtrale ou une réalisation dramatique au regard d’éléments de contenu",
+        "2. Techniques de jeu 2.1. Conditions de jeu"
+      ],
+      "texte": "c. Vérifier la pertinence des techniques corporelles utilisées parmi les suivantes : détente, assouplissement, niveaux, rythme ou tonus",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": "apprentissage",
+        "6": "maitrise"
+      },
+      "page": 16,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ADR-APP-025",
+      "competence": "3 – Apprécier des œuvres théâtrales, ses réalisations et celles de ses camarades",
+      "section": null,
+      "chemin": [
+        "A. Examiner un extrait d’œuvre théâtrale ou une réalisation dramatique au regard d’éléments de contenu",
+        "2. Techniques de jeu 2.1. Conditions de jeu"
+      ],
+      "texte": "d. Observer l’amplitude ainsi que l’équilibre et le déséquilibre 2.5. Éléments expressifs",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": "apprentissage",
+        "6": "maitrise"
+      },
+      "page": 16,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ADR-APP-026",
+      "competence": "3 – Apprécier des œuvres théâtrales, ses réalisations et celles de ses camarades",
+      "section": null,
+      "chemin": [
+        "A. Examiner un extrait d’œuvre théâtrale ou une réalisation dramatique au regard d’éléments de contenu",
+        "2. Techniques de jeu 2.1. Conditions de jeu"
+      ],
+      "texte": "a. Observer un élément expressif utilisé pour montrer le caractère du personnage",
+      "prioritaire": false,
+      "progression": {
+        "1": "apprentissage",
+        "2": "maitrise",
+        "3": "reinvestissement",
+        "4": "reinvestissement",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 16,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ADR-APP-027",
+      "competence": "3 – Apprécier des œuvres théâtrales, ses réalisations et celles de ses camarades",
+      "section": null,
+      "chemin": [
+        "A. Examiner un extrait d’œuvre théâtrale ou une réalisation dramatique au regard d’éléments de contenu",
+        "2. Techniques de jeu 2.1. Conditions de jeu"
+      ],
+      "texte": "b. Observer quelques éléments expressifs utilisés pour montrer le caractère du personnage",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "maitrise",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 16,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ADR-APP-028",
+      "competence": "3 – Apprécier des œuvres théâtrales, ses réalisations et celles de ses camarades",
+      "section": null,
+      "chemin": [
+        "A. Examiner un extrait d’œuvre théâtrale ou une réalisation dramatique au regard d’éléments de contenu",
+        "2. Techniques de jeu 2.1. Conditions de jeu"
+      ],
+      "texte": "c. Observer les éléments expressifs utilisés pour montrer le caractère du personnage",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": "apprentissage",
+        "6": "maitrise"
+      },
+      "page": 16,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ADR-APP-029",
+      "competence": "3 – Apprécier des œuvres théâtrales, ses réalisations et celles de ses camarades",
+      "section": null,
+      "chemin": [
+        "A. Examiner un extrait d’œuvre théâtrale ou une réalisation dramatique au regard d’éléments de contenu",
+        "3. Techniques théâtrales 3.1. Marionnette"
+      ],
+      "texte": "a. Observer les positions de base de la manipulation cachée ou à vue",
+      "prioritaire": false,
+      "progression": {
+        "1": "apprentissage",
+        "2": "maitrise",
+        "3": "reinvestissement",
+        "4": "reinvestissement",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 16,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ADR-APP-030",
+      "competence": "3 – Apprécier des œuvres théâtrales, ses réalisations et celles de ses camarades",
+      "section": null,
+      "chemin": [
+        "A. Examiner un extrait d’œuvre théâtrale ou une réalisation dramatique au regard d’éléments de contenu",
+        "3. Techniques théâtrales 3.1. Marionnette"
+      ],
+      "texte": "b. Observer des moyens utilisés pour personnifier la marionnette tels que la la direction du regard, la démarche et les actions 3.2. Jeu clownesque",
+      "prioritaire": false,
+      "progression": {
+        "1": "apprentissage",
+        "2": "maitrise",
+        "3": "reinvestissement",
+        "4": "reinvestissement",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 16,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ADR-APP-031",
+      "competence": "3 – Apprécier des œuvres théâtrales, ses réalisations et celles de ses camarades",
+      "section": null,
+      "chemin": [
+        "A. Examiner un extrait d’œuvre théâtrale ou une réalisation dramatique au regard d’éléments de contenu",
+        "3. Techniques théâtrales 3.1. Marionnette"
+      ],
+      "texte": "a. Observer des effets comiques parmi les suivants : jeux physiques, jeux de mots, répétitions et exagérations",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "maitrise",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 16,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ADR-APP-032",
+      "competence": "3 – Apprécier des œuvres théâtrales, ses réalisations et celles de ses camarades",
+      "section": null,
+      "chemin": [
+        "A. Examiner un extrait d’œuvre théâtrale ou une réalisation dramatique au regard d’éléments de contenu",
+        "3. Techniques théâtrales 3.1. Marionnette"
+      ],
+      "texte": "b. Observer les éléments suivants de la comédie clownesque : imitation, retournement de situation, parodie des jeux de cirque et résolution d’un problème 3.3. Théâtre d’ombres",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "maitrise",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 16,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ADR-APP-033",
+      "competence": "3 – Apprécier des œuvres théâtrales, ses réalisations et celles de ses camarades",
+      "section": null,
+      "chemin": [
+        "A. Examiner un extrait d’œuvre théâtrale ou une réalisation dramatique au regard d’éléments de contenu",
+        "3. Techniques théâtrales 3.1. Marionnette"
+      ],
+      "texte": "a. Observer les éléments techniques suivants : distance, position du corps, ombres et effets spéciaux 3.4. Jeu masqué",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "maitrise",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 16,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ADR-APP-034",
+      "competence": "3 – Apprécier des œuvres théâtrales, ses réalisations et celles de ses camarades",
+      "section": null,
+      "chemin": [
+        "A. Examiner un extrait d’œuvre théâtrale ou une réalisation dramatique au regard d’éléments de contenu",
+        "3. Techniques théâtrales 3.1. Marionnette"
+      ],
+      "texte": "a. Observer la direction du regard (nez), la naissance et la qualité du geste, le rythme et la position dans l’espace",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": "apprentissage",
+        "6": "maitrise"
+      },
+      "page": 16,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ADR-APP-035",
+      "competence": "3 – Apprécier des œuvres théâtrales, ses réalisations et celles de ses camarades",
+      "section": null,
+      "chemin": [
+        "A. Examiner un extrait d’œuvre théâtrale ou une réalisation dramatique au regard d’éléments de contenu",
+        "3. Techniques théâtrales 3.1. Marionnette"
+      ],
+      "texte": "a. Observer les trajets simples utilisés",
+      "prioritaire": false,
+      "progression": {
+        "1": "apprentissage",
+        "2": "maitrise",
+        "3": "reinvestissement",
+        "4": "reinvestissement",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 17,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ADR-APP-036",
+      "competence": "3 – Apprécier des œuvres théâtrales, ses réalisations et celles de ses camarades",
+      "section": null,
+      "chemin": [
+        "A. Examiner un extrait d’œuvre théâtrale ou une réalisation dramatique au regard d’éléments de contenu",
+        "3. Techniques théâtrales 3.1. Marionnette"
+      ],
+      "texte": "b. Vérifier l’exactitude des trajets mémorisés",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "maitrise",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 17,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ADR-APP-037",
+      "competence": "3 – Apprécier des œuvres théâtrales, ses réalisations et celles de ses camarades",
+      "section": null,
+      "chemin": [
+        "A. Examiner un extrait d’œuvre théâtrale ou une réalisation dramatique au regard d’éléments de contenu",
+        "3. Techniques théâtrales 3.1. Marionnette"
+      ],
+      "texte": "c. Observer les niveaux utilisés 4.2. Objet",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": "apprentissage",
+        "6": "maitrise"
+      },
+      "page": 17,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ADR-APP-038",
+      "competence": "3 – Apprécier des œuvres théâtrales, ses réalisations et celles de ses camarades",
+      "section": null,
+      "chemin": [
+        "A. Examiner un extrait d’œuvre théâtrale ou une réalisation dramatique au regard d’éléments de contenu",
+        "3. Techniques théâtrales 3.1. Marionnette"
+      ],
+      "texte": "a. Observer l’utilisation ludique ou utilitaire de l’objet en fonction de la fable 4.3. Scénographie",
+      "prioritaire": true,
+      "progression": {
+        "1": "apprentissage",
+        "2": "maitrise",
+        "3": "reinvestissement",
+        "4": "reinvestissement",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 17,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ADR-APP-039",
+      "competence": "3 – Apprécier des œuvres théâtrales, ses réalisations et celles de ses camarades",
+      "section": null,
+      "chemin": [
+        "A. Examiner un extrait d’œuvre théâtrale ou une réalisation dramatique au regard d’éléments de contenu",
+        "3. Techniques théâtrales 3.1. Marionnette"
+      ],
+      "texte": "a. Observer l’aménagement de l’aire de jeu (espace)",
+      "prioritaire": false,
+      "progression": {
+        "1": "apprentissage",
+        "2": "maitrise",
+        "3": "reinvestissement",
+        "4": "reinvestissement",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 17,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ADR-APP-040",
+      "competence": "3 – Apprécier des œuvres théâtrales, ses réalisations et celles de ses camarades",
+      "section": null,
+      "chemin": [
+        "A. Examiner un extrait d’œuvre théâtrale ou une réalisation dramatique au regard d’éléments de contenu",
+        "3. Techniques théâtrales 3.1. Marionnette"
+      ],
+      "texte": "b. Observer l’aménagement de l’aire de jeu (objets et espace)",
+      "prioritaire": true,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "maitrise",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 17,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ADR-APP-041",
+      "competence": "3 – Apprécier des œuvres théâtrales, ses réalisations et celles de ses camarades",
+      "section": null,
+      "chemin": [
+        "A. Examiner un extrait d’œuvre théâtrale ou une réalisation dramatique au regard d’éléments de contenu",
+        "3. Techniques théâtrales 3.1. Marionnette"
+      ],
+      "texte": "c. Observer la transformation de l’aire de jeu (en cours de jeu) 4.4. Costume",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": "apprentissage",
+        "6": "maitrise"
+      },
+      "page": 17,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ADR-APP-042",
+      "competence": "3 – Apprécier des œuvres théâtrales, ses réalisations et celles de ses camarades",
+      "section": null,
+      "chemin": [
+        "A. Examiner un extrait d’œuvre théâtrale ou une réalisation dramatique au regard d’éléments de contenu",
+        "3. Techniques théâtrales 3.1. Marionnette"
+      ],
+      "texte": "a. Observer le choix d’un élément de costume",
+      "prioritaire": true,
+      "progression": {
+        "1": "apprentissage",
+        "2": "maitrise",
+        "3": "reinvestissement",
+        "4": "reinvestissement",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 17,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ADR-APP-043",
+      "competence": "3 – Apprécier des œuvres théâtrales, ses réalisations et celles de ses camarades",
+      "section": null,
+      "chemin": [
+        "A. Examiner un extrait d’œuvre théâtrale ou une réalisation dramatique au regard d’éléments de contenu",
+        "3. Techniques théâtrales 3.1. Marionnette"
+      ],
+      "texte": "b. Observer le choix de quelques éléments de costume",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "maitrise",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 17,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ADR-APP-044",
+      "competence": "3 – Apprécier des œuvres théâtrales, ses réalisations et celles de ses camarades",
+      "section": null,
+      "chemin": [
+        "A. Examiner un extrait d’œuvre théâtrale ou une réalisation dramatique au regard d’éléments de contenu",
+        "3. Techniques théâtrales 3.1. Marionnette"
+      ],
+      "texte": "c. Observer le choix du costume 4.5. Environnement sonore",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": "apprentissage",
+        "6": "maitrise"
+      },
+      "page": 17,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ADR-APP-045",
+      "competence": "3 – Apprécier des œuvres théâtrales, ses réalisations et celles de ses camarades",
+      "section": null,
+      "chemin": [
+        "A. Examiner un extrait d’œuvre théâtrale ou une réalisation dramatique au regard d’éléments de contenu",
+        "3. Techniques théâtrales 3.1. Marionnette"
+      ],
+      "texte": "a. Observer différents effets vocaux liés au personnage",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "maitrise",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 17,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ADR-APP-046",
+      "competence": "3 – Apprécier des œuvres théâtrales, ses réalisations et celles de ses camarades",
+      "section": null,
+      "chemin": [
+        "A. Examiner un extrait d’œuvre théâtrale ou une réalisation dramatique au regard d’éléments de contenu",
+        "3. Techniques théâtrales 3.1. Marionnette"
+      ],
+      "texte": "b. Observer différents bruitages liés à la fable 4.6. Éclairage",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": "apprentissage",
+        "6": "maitrise"
+      },
+      "page": 17,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ADR-APP-047",
+      "competence": "3 – Apprécier des œuvres théâtrales, ses réalisations et celles de ses camarades",
+      "section": null,
+      "chemin": [
+        "A. Examiner un extrait d’œuvre théâtrale ou une réalisation dramatique au regard d’éléments de contenu",
+        "3. Techniques théâtrales 3.1. Marionnette"
+      ],
+      "texte": "a. Observer la position du personnage dans la lumière",
+      "prioritaire": false,
+      "progression": {
+        "1": "apprentissage",
+        "2": "maitrise",
+        "3": "reinvestissement",
+        "4": "reinvestissement",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 17,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ADR-APP-048",
+      "competence": "3 – Apprécier des œuvres théâtrales, ses réalisations et celles de ses camarades",
+      "section": null,
+      "chemin": [
+        "A. Examiner un extrait d’œuvre théâtrale ou une réalisation dramatique au regard d’éléments de contenu",
+        "3. Techniques théâtrales 3.1. Marionnette"
+      ],
+      "texte": "b. Observer l’intensité et la couleur de la lumière",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "maitrise",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 17,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ADR-APP-049",
+      "competence": "3 – Apprécier des œuvres théâtrales, ses réalisations et celles de ses camarades",
+      "section": null,
+      "chemin": [
+        "A. Examiner un extrait d’œuvre théâtrale ou une réalisation dramatique au regard d’éléments de contenu",
+        "3. Techniques théâtrales 3.1. Marionnette"
+      ],
+      "texte": "c. Observer des effets d’éclairage simples",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": "apprentissage",
+        "6": "maitrise"
+      },
+      "page": 17,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ADR-APP-050",
+      "competence": "3 – Apprécier des œuvres théâtrales, ses réalisations et celles de ses camarades",
+      "section": null,
+      "chemin": [
+        "A. Examiner un extrait d’œuvre théâtrale ou une réalisation dramatique au regard d’éléments de contenu",
+        "5. Structures 5.1. Développement de la fable"
+      ],
+      "texte": "a. Résumer la fable (début et fin)",
+      "prioritaire": false,
+      "progression": {
+        "1": "apprentissage",
+        "2": "maitrise",
+        "3": "reinvestissement",
+        "4": "reinvestissement",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 17,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ADR-APP-051",
+      "competence": "3 – Apprécier des œuvres théâtrales, ses réalisations et celles de ses camarades",
+      "section": null,
+      "chemin": [
+        "A. Examiner un extrait d’œuvre théâtrale ou une réalisation dramatique au regard d’éléments de contenu",
+        "5. Structures 5.1. Développement de la fable"
+      ],
+      "texte": "b. Résumer le développement de la fable, le retournement de situation et son dénouement",
+      "prioritaire": true,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "maitrise",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 17,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ADR-APP-052",
+      "competence": "3 – Apprécier des œuvres théâtrales, ses réalisations et celles de ses camarades",
+      "section": null,
+      "chemin": [
+        "A. Examiner un extrait d’œuvre théâtrale ou une réalisation dramatique au regard d’éléments de contenu",
+        "5. Structures 5.1. Développement de la fable"
+      ],
+      "texte": "c. Repérer les tableaux",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": "apprentissage",
+        "6": "maitrise"
+      },
+      "page": 17,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ADR-APP-053",
+      "competence": "3 – Apprécier des œuvres théâtrales, ses réalisations et celles de ses camarades",
+      "section": null,
+      "chemin": [
+        "B. Examiner un extrait d’œuvre théâtrale au regard d’aspects socioculturels"
+      ],
+      "texte": "a. Observer un élément représentant un aspect d’ordre socioculturel",
+      "prioritaire": true,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "maitrise",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 17,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ADR-APP-054",
+      "competence": "3 – Apprécier des œuvres théâtrales, ses réalisations et celles de ses camarades",
+      "section": null,
+      "chemin": [
+        "B. Examiner un extrait d’œuvre théâtrale au regard d’aspects socioculturels"
+      ],
+      "texte": "b. Repérer quelques éléments représentant un aspect d’ordre socioculturel",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": "apprentissage",
+        "6": "maitrise"
+      },
+      "page": 17,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ADR-APP-055",
+      "competence": "3 – Apprécier des œuvres théâtrales, ses réalisations et celles de ses camarades",
+      "section": null,
+      "chemin": [
+        "C. Établir des liens entre ce que l’on a ressenti et ce que l’on a examiné"
+      ],
+      "texte": "a. Nommer un élément observé dans la séquence dramatique qui a suscité l’émotion",
+      "prioritaire": false,
+      "progression": {
+        "1": "apprentissage",
+        "2": "maitrise",
+        "3": "reinvestissement",
+        "4": "reinvestissement",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 17,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ADR-APP-056",
+      "competence": "3 – Apprécier des œuvres théâtrales, ses réalisations et celles de ses camarades",
+      "section": null,
+      "chemin": [
+        "C. Établir des liens entre ce que l’on a ressenti et ce que l’on a examiné"
+      ],
+      "texte": "b. Expliquer la raison pour laquelle un élément en particulier a suscité",
+      "prioritaire": true,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "maitrise",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 17,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ADR-APP-057",
+      "competence": "3 – Apprécier des œuvres théâtrales, ses réalisations et celles de ses camarades",
+      "section": null,
+      "chemin": [
+        "C. Établir des liens entre ce que l’on a ressenti et ce que l’on a examiné"
+      ],
+      "texte": "c. Donner un exemple des liens établis entre l’effet ressenti et les éléments observés",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": "apprentissage",
+        "6": "maitrise"
+      },
+      "page": 18,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ADR-APP-058",
+      "competence": "3 – Apprécier des œuvres théâtrales, ses réalisations et celles de ses camarades",
+      "section": null,
+      "chemin": [
+        "C. Établir des liens entre ce que l’on a ressenti et ce que l’on a examiné"
+      ],
+      "texte": "d. Utiliser le vocabulaire disciplinaire",
+      "prioritaire": true,
+      "progression": {
+        "1": "apprentissage",
+        "2": "maitrise",
+        "3": "reinvestissement",
+        "4": "reinvestissement",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 18,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ADR-APP-059",
+      "competence": "3 – Apprécier des œuvres théâtrales, ses réalisations et celles de ses camarades",
+      "section": null,
+      "chemin": [
+        "D. Porter un jugement d’ordre critique ou esthétique"
+      ],
+      "texte": "a. Faire part d’une préférence à partir d’une observation",
+      "prioritaire": false,
+      "progression": {
+        "1": "apprentissage",
+        "2": "maitrise",
+        "3": "reinvestissement",
+        "4": "reinvestissement",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 18,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ADR-APP-060",
+      "competence": "3 – Apprécier des œuvres théâtrales, ses réalisations et celles de ses camarades",
+      "section": null,
+      "chemin": [
+        "D. Porter un jugement d’ordre critique ou esthétique"
+      ],
+      "texte": "b. Expliquer pourquoi certains éléments ont retenu son attention",
+      "prioritaire": true,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "maitrise",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 18,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ADR-APP-061",
+      "competence": "3 – Apprécier des œuvres théâtrales, ses réalisations et celles de ses camarades",
+      "section": null,
+      "chemin": [
+        "D. Porter un jugement d’ordre critique ou esthétique"
+      ],
+      "texte": "c. Justifier son point de vue à la suite des vérifications effectuées",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": "apprentissage",
+        "6": "maitrise"
+      },
+      "page": 18,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ADR-APP-062",
+      "competence": "3 – Apprécier des œuvres théâtrales, ses réalisations et celles de ses camarades",
+      "section": null,
+      "chemin": [
+        "D. Porter un jugement d’ordre critique ou esthétique"
+      ],
+      "texte": "d. Formuler un commentaire à partir de ses observations",
+      "prioritaire": false,
+      "progression": {
+        "1": "apprentissage",
+        "2": "maitrise",
+        "3": "reinvestissement",
+        "4": "reinvestissement",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 18,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ADR-APP-063",
+      "competence": "3 – Apprécier des œuvres théâtrales, ses réalisations et celles de ses camarades",
+      "section": null,
+      "chemin": [
+        "D. Porter un jugement d’ordre critique ou esthétique"
+      ],
+      "texte": "e. Formuler des commentaires à l’aide d’exemples provenant de ses observations",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "maitrise",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 18,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ADR-APP-064",
+      "competence": "3 – Apprécier des œuvres théâtrales, ses réalisations et celles de ses camarades",
+      "section": null,
+      "chemin": [
+        "D. Porter un jugement d’ordre critique ou esthétique"
+      ],
+      "texte": "f. Comparer les séquences dramatiques à partir de ses observations et des critères d’appréciation proposés",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": "apprentissage",
+        "6": "maitrise"
+      },
+      "page": 18,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ADR-APP-065",
+      "competence": "3 – Apprécier des œuvres théâtrales, ses réalisations et celles de ses camarades",
+      "section": null,
+      "chemin": [
+        "D. Porter un jugement d’ordre critique ou esthétique"
+      ],
+      "texte": "g. Utiliser le vocabulaire disciplinaire",
+      "prioritaire": true,
+      "progression": {
+        "1": "apprentissage",
+        "2": "maitrise",
+        "3": "reinvestissement",
+        "4": "reinvestissement",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 18,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ADR-APP-066",
+      "competence": "3 – Apprécier des œuvres théâtrales, ses réalisations et celles de ses camarades",
+      "section": null,
+      "chemin": [
+        "E. Partager son expérience d’appréciation"
+      ],
+      "texte": "a. Relater des faits signifiants liés à l’appréciation des éléments du langage dramatique, des techniques théâtrales ou de modes de théâtralisation",
+      "prioritaire": false,
+      "progression": {
+        "1": "apprentissage",
+        "2": "maitrise",
+        "3": "reinvestissement",
+        "4": "reinvestissement",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 18,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ADR-APP-067",
+      "competence": "3 – Apprécier des œuvres théâtrales, ses réalisations et celles de ses camarades",
+      "section": null,
+      "chemin": [
+        "E. Partager son expérience d’appréciation"
+      ],
+      "texte": "b. Décrire des aspects importants liés à l’appréciation des éléments du langage dramatique, des techniques de jeu, des techniques théâtrales ou de modes de théâtralisation",
+      "prioritaire": true,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "maitrise",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 18,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ADR-APP-068",
+      "competence": "3 – Apprécier des œuvres théâtrales, ses réalisations et celles de ses camarades",
+      "section": null,
+      "chemin": [
+        "E. Partager son expérience d’appréciation"
+      ],
+      "texte": "c. Utiliser le vocabulaire disciplinaire",
+      "prioritaire": true,
+      "progression": {
+        "1": "apprentissage",
+        "2": "maitrise",
+        "3": "reinvestissement",
+        "4": "reinvestissement",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 18,
+      "a_verifier": false,
+      "note": ""
+    }
+  ],
+  "source_url": "https://cdn-contenu.quebec.ca/cdn-contenu/education/pfeq/primaire/progressions-apprentissages/PFEQ-progression-apprentissages-art-dramatique-primaire.pdf",
+  "controle_logique": {
+    "date": "2026-11-10",
+    "illogiques": 0,
+    "note": ""
+  }
+}

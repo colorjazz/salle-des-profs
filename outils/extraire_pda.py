@@ -11,6 +11,7 @@ import json, re, sys, collections
 import pdfplumber
 
 BLEU = (0.715, 0.77, 0.887)
+ANNEES = [str(k) for k in range(1, 7)]  # colonnes du tableau ; modifiable (ex. 3,4,5,6 pour l'anglais au primaire)
 MARQUEURS = [
     (1, re.compile(r'^[A-H]\.\s')),
     (4, re.compile(r'^(i|ii|iii|iv|v|vi|vii|viii|ix|x|xi|xii|xiii|xiv|xv)\.\s')),
@@ -29,10 +30,11 @@ def colonnes(page):
         if groupes and x - groupes[-1][-1] < 4: groupes[-1].append(x)
         else: groupes.append([x])
     groupes = [g for g in groupes if len(g) >= 2]
-    if len(groupes) < 6: return None
-    groupes = groupes[-6:]
+    n = len(ANNEES)
+    if len(groupes) < n: return None
+    groupes = groupes[-n:]
     debuts = [min(g) for g in groupes]
-    pas = (debuts[-1] - debuts[0]) / 5
+    pas = (debuts[-1] - debuts[0]) / max(1, n - 1)
     return [(x, x + pas) for x in debuts]
 
 def niveau(texte):
@@ -137,16 +139,16 @@ def extraire(chemin):
             symboles.append((cx, cy, forme, f['src']))
         bleus = [r for r in page.rects if 14 <= r['width'] <= 130 and r['x0'] > 400 and proche(r.get('non_stroking_color'), BLEU)]
         for e in elements:
-            prog = {str(k): None for k in range(1, 7)}
+            prog = {a: None for a in ANNEES}
             for k, (x0, x1) in enumerate(cols, 1):
                 for r in bleus:
                     cy = (r['top'] + r['bottom']) / 2
                     milieu = (x0 + x1) / 2
                     if r['x0'] - 1 <= milieu <= r['x1'] + 1 and e['top'] - 3 <= cy <= e['bas'] + 1:
-                        prog[str(k)] = 'reinvestissement'
+                        prog[ANNEES[k - 1]] = 'reinvestissement'
                 for cx, cy, s, _ in symboles:
                     if x0 - 1 <= cx <= x1 + 1 and e['top'] - 4 <= cy <= e['bas'] + 1:
-                        prog[str(k)] = s
+                        prog[ANNEES[k - 1]] = s
             texte = re.sub(r'\s+', ' ', ' '.join(l['texte'] for l in e['lignes'])).strip()
             gras = sum(l['gras'] for l in e['lignes']) / max(1, sum(l['total'] for l in e['lignes']))
             n = e['niveau'] or 6
@@ -168,6 +170,8 @@ def extraire(chemin):
 
 if __name__ == '__main__':
     src, code, disc, ordre, sortie = sys.argv[1:6]
+    if len(sys.argv) > 6:
+        ANNEES[:] = sys.argv[6].split(',')
     savoirs, pages_images, controle = extraire(src)
     print('controle forme par largeur source :', dict(controle))
     compteur = collections.Counter()
@@ -178,7 +182,7 @@ if __name__ == '__main__':
         compteur[cle] += 1
         s['id'] = f'{code}-{cle}-{compteur[cle]:03d}'
     out = {'discipline': disc, 'code_discipline': code, 'ordre': ordre,
-           'source': src.split('/')[-1], 'annees': [str(k) for k in range(1, 7)],
+           'source': src.split('/')[-1], 'annees': list(ANNEES),
            'pages_avec_grandes_images': pages_images,
            'bilan': {'nombre_savoirs': len(savoirs), 'a_verifier': sum(s['a_verifier'] for s in savoirs),
                      'prioritaires': sum(s['prioritaire'] for s in savoirs)},

@@ -1,0 +1,3851 @@
+{
+  "discipline": "Danse",
+  "code_discipline": "DAN",
+  "ordre": "primaire",
+  "source": "danse.pdf",
+  "annees": [
+    "1",
+    "2",
+    "3",
+    "4",
+    "5",
+    "6"
+  ],
+  "pages_avec_grandes_images": [],
+  "bilan": {
+    "nombre_savoirs": 176,
+    "a_verifier": 1,
+    "prioritaires": 54
+  },
+  "savoirs": [
+    {
+      "id": "DAN-CON-001",
+      "competence": "Connaissances",
+      "section": null,
+      "chemin": [
+        "A. Langage de la danse 1",
+        "1. Corps 1.1. Actions locomotrices et non locomotrices"
+      ],
+      "texte": "a. Nommer les actions locomotrices et non locomotrices",
+      "prioritaire": false,
+      "progression": {
+        "1": "apprentissage",
+        "2": "maitrise",
+        "3": "reinvestissement",
+        "4": "reinvestissement",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 4,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "DAN-CON-002",
+      "competence": "Connaissances",
+      "section": null,
+      "chemin": [
+        "A. Langage de la danse 1",
+        "1. Corps 1.1. Actions locomotrices et non locomotrices"
+      ],
+      "texte": "b. Distinguer les actions locomotrices des actions non locomotrices",
+      "prioritaire": true,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "maitrise",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 4,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "DAN-CON-003",
+      "competence": "Connaissances",
+      "section": null,
+      "chemin": [
+        "A. Langage de la danse 1",
+        "1. Corps 1.1. Actions locomotrices et non locomotrices"
+      ],
+      "texte": "c. Décrire les différentes actions locomotrices et non locomotrices 1.2. Utilisation des parties du corps",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": "apprentissage",
+        "6": "maitrise"
+      },
+      "page": 4,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "DAN-CON-004",
+      "competence": "Connaissances",
+      "section": null,
+      "chemin": [
+        "A. Langage de la danse 1",
+        "1. Corps 1.1. Actions locomotrices et non locomotrices"
+      ],
+      "texte": "a. Nommer des gestes inspirés de ceux du quotidien (ex. : se brosser les dents)",
+      "prioritaire": true,
+      "progression": {
+        "1": "apprentissage",
+        "2": "maitrise",
+        "3": "reinvestissement",
+        "4": "reinvestissement",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 4,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "DAN-CON-005",
+      "competence": "Connaissances",
+      "section": null,
+      "chemin": [
+        "A. Langage de la danse 1",
+        "1. Corps 1.1. Actions locomotrices et non locomotrices"
+      ],
+      "texte": "b. Identifier des gestes symboliques (ex. : envoyer un baiser)",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "maitrise",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 4,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "DAN-CON-006",
+      "competence": "Connaissances",
+      "section": null,
+      "chemin": [
+        "A. Langage de la danse 1",
+        "1. Corps 1.1. Actions locomotrices et non locomotrices"
+      ],
+      "texte": "c. Distinguer les gestes symboliques de ceux inspirés du quotidien",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": "apprentissage",
+        "6": "maitrise"
+      },
+      "page": 4,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "DAN-CON-007",
+      "competence": "Connaissances",
+      "section": null,
+      "chemin": [
+        "A. Langage de la danse 1",
+        "1. Corps 1.1. Actions locomotrices et non locomotrices"
+      ],
+      "texte": "d. Nommer les différentes formes",
+      "prioritaire": false,
+      "progression": {
+        "1": "apprentissage",
+        "2": "maitrise",
+        "3": "reinvestissement",
+        "4": "reinvestissement",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 4,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "DAN-CON-008",
+      "competence": "Connaissances",
+      "section": null,
+      "chemin": [
+        "A. Langage de la danse 1",
+        "1. Corps 1.1. Actions locomotrices et non locomotrices"
+      ],
+      "texte": "e. Identifier les différentes formes",
+      "prioritaire": true,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "maitrise",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 4,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "DAN-CON-009",
+      "competence": "Connaissances",
+      "section": null,
+      "chemin": [
+        "A. Langage de la danse 1",
+        "1. Corps 1.1. Actions locomotrices et non locomotrices"
+      ],
+      "texte": "f. Distinguer les différentes formes entre elles",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": "apprentissage",
+        "6": "maitrise"
+      },
+      "page": 4,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "DAN-CON-010",
+      "competence": "Connaissances",
+      "section": null,
+      "chemin": [
+        "A. Langage de la danse 1",
+        "2. Temps 2.1. Structuration métrique"
+      ],
+      "texte": "a. Identifier la pulsation et les temps d’arrêt",
+      "prioritaire": true,
+      "progression": {
+        "1": "apprentissage",
+        "2": "maitrise",
+        "3": "reinvestissement",
+        "4": "reinvestissement",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 4,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "DAN-CON-011",
+      "competence": "Connaissances",
+      "section": null,
+      "chemin": [
+        "A. Langage de la danse 1",
+        "2. Temps 2.1. Structuration métrique"
+      ],
+      "texte": "b. Identifier un tempo moyen",
+      "prioritaire": true,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "maitrise",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 4,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "DAN-CON-012",
+      "competence": "Connaissances",
+      "section": null,
+      "chemin": [
+        "A. Langage de la danse 1",
+        "2. Temps 2.1. Structuration métrique"
+      ],
+      "texte": "c. Distinguer un tempo moyen des tempi lent et rapide",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": "apprentissage",
+        "6": "maitrise"
+      },
+      "page": 4,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "DAN-CON-013",
+      "competence": "Connaissances",
+      "section": null,
+      "chemin": [
+        "A. Langage de la danse 1",
+        "2. Temps 2.1. Structuration métrique"
+      ],
+      "texte": "d. Identifier une structure binaire",
+      "prioritaire": true,
+      "progression": {
+        "1": "apprentissage",
+        "2": "maitrise",
+        "3": "reinvestissement",
+        "4": "reinvestissement",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 4,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "DAN-CON-014",
+      "competence": "Connaissances",
+      "section": null,
+      "chemin": [
+        "A. Langage de la danse 1",
+        "2. Temps 2.1. Structuration métrique"
+      ],
+      "texte": "e. Identifier une structure ternaire",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "maitrise",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 4,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "DAN-CON-015",
+      "competence": "Connaissances",
+      "section": null,
+      "chemin": [
+        "A. Langage de la danse 1",
+        "2. Temps 2.1. Structuration métrique"
+      ],
+      "texte": "f. Distinguer une structure binaire d’une structure ternaire",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": "apprentissage",
+        "6": "maitrise"
+      },
+      "page": 4,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "DAN-CON-016",
+      "competence": "Connaissances",
+      "section": null,
+      "chemin": [
+        "A. Langage de la danse 1",
+        "2. Temps 2.1. Structuration métrique"
+      ],
+      "texte": "g. Identifier un motif rythmique simple",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "maitrise",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 4,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "DAN-CON-017",
+      "competence": "Connaissances",
+      "section": null,
+      "chemin": [
+        "A. Langage de la danse 1",
+        "2. Temps 2.1. Structuration métrique"
+      ],
+      "texte": "h. Distinguer des motifs rythmiques simples des autres motifs",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": "apprentissage",
+        "6": "maitrise"
+      },
+      "page": 4,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "DAN-CON-018",
+      "competence": "Connaissances",
+      "section": null,
+      "chemin": [
+        "A. Langage de la danse 1",
+        "2. Temps 2.1. Structuration métrique"
+      ],
+      "texte": "a. Distinguer le niveau moyen du niveau bas",
+      "prioritaire": false,
+      "progression": {
+        "1": "apprentissage",
+        "2": "maitrise",
+        "3": "reinvestissement",
+        "4": "reinvestissement",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 5,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "DAN-CON-019",
+      "competence": "Connaissances",
+      "section": null,
+      "chemin": [
+        "A. Langage de la danse 1",
+        "2. Temps 2.1. Structuration métrique"
+      ],
+      "texte": "b. Distinguer le niveau moyen des niveaux haut et bas",
+      "prioritaire": true,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "maitrise",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 5,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "DAN-CON-020",
+      "competence": "Connaissances",
+      "section": null,
+      "chemin": [
+        "A. Langage de la danse 1",
+        "2. Temps 2.1. Structuration métrique"
+      ],
+      "texte": "c. Identifier des petites et grandes amplitudes dans les mouvements",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "maitrise",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 5,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "DAN-CON-021",
+      "competence": "Connaissances",
+      "section": null,
+      "chemin": [
+        "A. Langage de la danse 1",
+        "2. Temps 2.1. Structuration métrique"
+      ],
+      "texte": "d. Distinguer les petites amplitudes des grandes amplitudes dans les mouvements",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": "apprentissage",
+        "6": "maitrise"
+      },
+      "page": 5,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "DAN-CON-022",
+      "competence": "Connaissances",
+      "section": null,
+      "chemin": [
+        "A. Langage de la danse 1",
+        "2. Temps 2.1. Structuration métrique"
+      ],
+      "texte": "e. Distinguer les trajectoires sinueuses des trajectoires circulaires 3.2. Espace général",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": "apprentissage",
+        "6": "maitrise"
+      },
+      "page": 5,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "DAN-CON-023",
+      "competence": "Connaissances",
+      "section": null,
+      "chemin": [
+        "A. Langage de la danse 1",
+        "2. Temps 2.1. Structuration métrique"
+      ],
+      "texte": "a. Identifier des déplacements vers l’avant et vers l’arrière",
+      "prioritaire": true,
+      "progression": {
+        "1": "apprentissage",
+        "2": "maitrise",
+        "3": "reinvestissement",
+        "4": "reinvestissement",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 5,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "DAN-CON-024",
+      "competence": "Connaissances",
+      "section": null,
+      "chemin": [
+        "A. Langage de la danse 1",
+        "2. Temps 2.1. Structuration métrique"
+      ],
+      "texte": "b. Identifier des déplacements vers le côté droit et vers le côté gauche",
+      "prioritaire": true,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "maitrise",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 5,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "DAN-CON-025",
+      "competence": "Connaissances",
+      "section": null,
+      "chemin": [
+        "A. Langage de la danse 1",
+        "2. Temps 2.1. Structuration métrique"
+      ],
+      "texte": "c. Identifier des trajectoires droites et des trajectoires circulaires",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "maitrise",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 5,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "DAN-CON-026",
+      "competence": "Connaissances",
+      "section": null,
+      "chemin": [
+        "A. Langage de la danse 1",
+        "2. Temps 2.1. Structuration métrique"
+      ],
+      "texte": "d. Identifier des trajectoires sinueuses",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": "apprentissage",
+        "6": "maitrise"
+      },
+      "page": 5,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "DAN-CON-027",
+      "competence": "Connaissances",
+      "section": null,
+      "chemin": [
+        "A. Langage de la danse 1",
+        "4. Énergie 4.1. Mouvements exécutés"
+      ],
+      "texte": "a. Identifier l’effort soudain",
+      "prioritaire": false,
+      "progression": {
+        "1": "apprentissage",
+        "2": "maitrise",
+        "3": "reinvestissement",
+        "4": "reinvestissement",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 5,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "DAN-CON-028",
+      "competence": "Connaissances",
+      "section": null,
+      "chemin": [
+        "A. Langage de la danse 1",
+        "4. Énergie 4.1. Mouvements exécutés"
+      ],
+      "texte": "b. Identifier l’effort soutenu, le peu d’effort et un grand effort",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "maitrise",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 5,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "DAN-CON-029",
+      "competence": "Connaissances",
+      "section": null,
+      "chemin": [
+        "A. Langage de la danse 1",
+        "4. Énergie 4.1. Mouvements exécutés"
+      ],
+      "texte": "c. Identifier un mouvement en accélération",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": "apprentissage",
+        "6": "maitrise"
+      },
+      "page": 5,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "DAN-CON-030",
+      "competence": "Connaissances",
+      "section": null,
+      "chemin": [
+        "A. Langage de la danse 1",
+        "5. Relations entre partenaires 5.1. Emplacements"
+      ],
+      "texte": "a. Nommer les emplacements face à face et proche/loin",
+      "prioritaire": true,
+      "progression": {
+        "1": "apprentissage",
+        "2": "maitrise",
+        "3": "reinvestissement",
+        "4": "reinvestissement",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 5,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "DAN-CON-031",
+      "competence": "Connaissances",
+      "section": null,
+      "chemin": [
+        "A. Langage de la danse 1",
+        "5. Relations entre partenaires 5.1. Emplacements"
+      ],
+      "texte": "b. Identifier les emplacements face à face et l’un derrière l’autre",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "maitrise",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 5,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "DAN-CON-032",
+      "competence": "Connaissances",
+      "section": null,
+      "chemin": [
+        "A. Langage de la danse 1",
+        "5. Relations entre partenaires 5.1. Emplacements"
+      ],
+      "texte": "c. Identifier les emplacements au-dessus, en dessous et côte à côte 5.2. Actions spatiales",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": "apprentissage",
+        "6": "maitrise"
+      },
+      "page": 5,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "DAN-CON-033",
+      "competence": "Connaissances",
+      "section": null,
+      "chemin": [
+        "A. Langage de la danse 1",
+        "5. Relations entre partenaires 5.1. Emplacements"
+      ],
+      "texte": "a. Distinguer l’action de se rencontrer de celle de rester ensemble",
+      "prioritaire": false,
+      "progression": {
+        "1": "apprentissage",
+        "2": "maitrise",
+        "3": "reinvestissement",
+        "4": "reinvestissement",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 5,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "DAN-CON-034",
+      "competence": "Connaissances",
+      "section": null,
+      "chemin": [
+        "A. Langage de la danse 1",
+        "5. Relations entre partenaires 5.1. Emplacements"
+      ],
+      "texte": "b. Distinguer l’action de se séparer des autres actions spatiales, telles que se rencontrer et rester ensemble",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "maitrise",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 5,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "DAN-CON-035",
+      "competence": "Connaissances",
+      "section": null,
+      "chemin": [
+        "A. Langage de la danse 1",
+        "5. Relations entre partenaires 5.1. Emplacements"
+      ],
+      "texte": "c. Distinguer l’action de se croiser des autres actions spatiales, telles que se rencontrer, se séparer et rester ensemble 5.3. Temporalité",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": "apprentissage",
+        "6": "maitrise"
+      },
+      "page": 5,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "DAN-CON-036",
+      "competence": "Connaissances",
+      "section": null,
+      "chemin": [
+        "A. Langage de la danse 1",
+        "5. Relations entre partenaires 5.1. Emplacements"
+      ],
+      "texte": "a. Identifier un mouvement exécuté à l’unisson",
+      "prioritaire": true,
+      "progression": {
+        "1": "apprentissage",
+        "2": "maitrise",
+        "3": "reinvestissement",
+        "4": "reinvestissement",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 5,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "DAN-CON-037",
+      "competence": "Connaissances",
+      "section": null,
+      "chemin": [
+        "A. Langage de la danse 1",
+        "5. Relations entre partenaires 5.1. Emplacements"
+      ],
+      "texte": "b. Identifier un mouvement exécuté en alternance",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "maitrise",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 5,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "DAN-CON-038",
+      "competence": "Connaissances",
+      "section": null,
+      "chemin": [
+        "A. Langage de la danse 1",
+        "5. Relations entre partenaires 5.1. Emplacements"
+      ],
+      "texte": "c. Distinguer un mouvement exécuté à l’unisson de celui exécuté en alternance 5.4. Unités de groupe",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": "apprentissage",
+        "6": "maitrise"
+      },
+      "page": 5,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "DAN-CON-039",
+      "competence": "Connaissances",
+      "section": null,
+      "chemin": [
+        "A. Langage de la danse 1",
+        "5. Relations entre partenaires 5.1. Emplacements"
+      ],
+      "texte": "a. Identifier une formation en cercle",
+      "prioritaire": false,
+      "progression": {
+        "1": "apprentissage",
+        "2": "maitrise",
+        "3": "reinvestissement",
+        "4": "reinvestissement",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 5,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "DAN-CON-040",
+      "competence": "Connaissances",
+      "section": null,
+      "chemin": [
+        "A. Langage de la danse 1",
+        "5. Relations entre partenaires 5.1. Emplacements"
+      ],
+      "texte": "b. Identifier une formation en cercle et une formation en file",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "maitrise",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 6,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "DAN-CON-041",
+      "competence": "Connaissances",
+      "section": null,
+      "chemin": [
+        "A. Langage de la danse 1",
+        "5. Relations entre partenaires 5.1. Emplacements"
+      ],
+      "texte": "c. Identifier les formations en cercle, en file et en ligne 5.5. Rôles à jouer",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": "apprentissage",
+        "6": "maitrise"
+      },
+      "page": 6,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "DAN-CON-042",
+      "competence": "Connaissances",
+      "section": null,
+      "chemin": [
+        "A. Langage de la danse 1",
+        "5. Relations entre partenaires 5.1. Emplacements"
+      ],
+      "texte": "a. Identifier les rôles suivants : suivre son ou ses partenaires et faire la même chose",
+      "prioritaire": false,
+      "progression": {
+        "1": "apprentissage",
+        "2": "maitrise",
+        "3": "reinvestissement",
+        "4": "reinvestissement",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 6,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "DAN-CON-043",
+      "competence": "Connaissances",
+      "section": null,
+      "chemin": [
+        "A. Langage de la danse 1",
+        "5. Relations entre partenaires 5.1. Emplacements"
+      ],
+      "texte": "b. Identifier les rôles suivants : suivre son ou ses partenaires, faire la même chose et faire le contraire",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "maitrise",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 6,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "DAN-CON-044",
+      "competence": "Connaissances",
+      "section": null,
+      "chemin": [
+        "A. Langage de la danse 1",
+        "5. Relations entre partenaires 5.1. Emplacements"
+      ],
+      "texte": "c. Distinguer les rôles suivants : conduire son ou ses partenaires, faire le contraire, action/réaction",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": "apprentissage",
+        "6": "maitrise"
+      },
+      "page": 6,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "DAN-CON-045",
+      "competence": "Connaissances",
+      "section": null,
+      "chemin": [
+        "B. Technique du mouvement",
+        "1. Respiration abdominale"
+      ],
+      "texte": "a. Nommer le principe de la respiration abdominale en situation de détente au sol",
+      "prioritaire": false,
+      "progression": {
+        "1": "apprentissage",
+        "2": "maitrise",
+        "3": "reinvestissement",
+        "4": "reinvestissement",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 6,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "DAN-CON-046",
+      "competence": "Connaissances",
+      "section": null,
+      "chemin": [
+        "B. Technique du mouvement",
+        "1. Respiration abdominale"
+      ],
+      "texte": "b. Nommer le principe de la respiration abdominale en position assise puis debout",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "maitrise",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 6,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "DAN-CON-047",
+      "competence": "Connaissances",
+      "section": null,
+      "chemin": [
+        "B. Technique du mouvement",
+        "1. Respiration abdominale"
+      ],
+      "texte": "c. Différencier le principe de la respiration abdominale en situation de détente au sol celui en position assise puis debout",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": "apprentissage",
+        "6": "maitrise"
+      },
+      "page": 6,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "DAN-CON-048",
+      "competence": "Connaissances",
+      "section": null,
+      "chemin": [
+        "B. Technique du mouvement",
+        "2. Alignement corporel"
+      ],
+      "texte": "a. Nommer un principe de l’allongement de la colonne vertébrale",
+      "prioritaire": false,
+      "progression": {
+        "1": "apprentissage",
+        "2": "maitrise",
+        "3": "reinvestissement",
+        "4": "reinvestissement",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 6,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "DAN-CON-049",
+      "competence": "Connaissances",
+      "section": null,
+      "chemin": [
+        "B. Technique du mouvement",
+        "2. Alignement corporel"
+      ],
+      "texte": "b. Nommer un principe de l’alignement genoux/pieds",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "maitrise",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 6,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "DAN-CON-050",
+      "competence": "Connaissances",
+      "section": null,
+      "chemin": [
+        "B. Technique du mouvement",
+        "2. Alignement corporel"
+      ],
+      "texte": "c. Nommer un principe de l’enroulement et du déroulement de la colonne vertébrale",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": "apprentissage",
+        "6": "maitrise"
+      },
+      "page": 6,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "DAN-CON-051",
+      "competence": "Connaissances",
+      "section": null,
+      "chemin": [
+        "B. Technique du mouvement",
+        "3. Latéralité"
+      ],
+      "texte": "a. Identifier l’utilisation distincte des deux côtés du corps",
+      "prioritaire": false,
+      "progression": {
+        "1": "apprentissage",
+        "2": "maitrise",
+        "3": "reinvestissement",
+        "4": "reinvestissement",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 6,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "DAN-CON-052",
+      "competence": "Connaissances",
+      "section": null,
+      "chemin": [
+        "B. Technique du mouvement",
+        "3. Latéralité"
+      ],
+      "texte": "b. Identifier l’utilisation distincte des côtés droit et gauche du corps",
+      "prioritaire": true,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "maitrise",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 6,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "DAN-CON-053",
+      "competence": "Connaissances",
+      "section": null,
+      "chemin": [
+        "B. Technique du mouvement",
+        "3. Latéralité"
+      ],
+      "texte": "c. Identifier l’alternance des côtés droit et gauche du corps",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": "apprentissage",
+        "6": "maitrise"
+      },
+      "page": 6,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "DAN-CON-054",
+      "competence": "Connaissances",
+      "section": null,
+      "chemin": [
+        "B. Technique du mouvement",
+        "4. Tonus musculaire"
+      ],
+      "texte": "a. Identifier le relâchement musculaire",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "maitrise",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 6,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "DAN-CON-055",
+      "competence": "Connaissances",
+      "section": null,
+      "chemin": [
+        "B. Technique du mouvement",
+        "4. Tonus musculaire"
+      ],
+      "texte": "b. Identifier la contraction musculaire",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": "apprentissage",
+        "6": "maitrise"
+      },
+      "page": 6,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "DAN-CON-056",
+      "competence": "Connaissances",
+      "section": null,
+      "chemin": [
+        "B. Technique du mouvement",
+        "5. Mobilité et fonctions des parties du corps"
+      ],
+      "texte": "a. Distinguer la flexion du corps de l’extension du corps",
+      "prioritaire": true,
+      "progression": {
+        "1": "apprentissage",
+        "2": "maitrise",
+        "3": "reinvestissement",
+        "4": "reinvestissement",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 6,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "DAN-CON-057",
+      "competence": "Connaissances",
+      "section": null,
+      "chemin": [
+        "B. Technique du mouvement",
+        "5. Mobilité et fonctions des parties du corps"
+      ],
+      "texte": "b. Identifier la partie du corps qui amorce un mouvement",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "maitrise",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 6,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "DAN-CON-058",
+      "competence": "Connaissances",
+      "section": null,
+      "chemin": [
+        "B. Technique du mouvement",
+        "5. Mobilité et fonctions des parties du corps"
+      ],
+      "texte": "c. Identifier la partie du corps qui conduit un mouvement",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": "apprentissage",
+        "6": "maitrise"
+      },
+      "page": 6,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "DAN-CON-059",
+      "competence": "Connaissances",
+      "section": null,
+      "chemin": [
+        "B. Technique du mouvement",
+        "6. Transfert du poids"
+      ],
+      "texte": "a. Identifier des points d’appui dans un équilibre",
+      "prioritaire": true,
+      "progression": {
+        "1": "apprentissage",
+        "2": "maitrise",
+        "3": "reinvestissement",
+        "4": "reinvestissement",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 6,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "DAN-CON-060",
+      "competence": "Connaissances",
+      "section": null,
+      "chemin": [
+        "B. Technique du mouvement",
+        "6. Transfert du poids"
+      ],
+      "texte": "b. Nommer les caractéristiques d’un équilibre stable et du déplacement du centre de gravité de haut en bas",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "maitrise",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 6,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "DAN-CON-061",
+      "competence": "Connaissances",
+      "section": null,
+      "chemin": [
+        "B. Technique du mouvement",
+        "6. Transfert du poids"
+      ],
+      "texte": "c. Distinguer le déplacement du centre de gravité d’un côté à l’autre de celui de haut en bas",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": "apprentissage",
+        "6": "maitrise"
+      },
+      "page": 6,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "DAN-CON-062",
+      "competence": "Connaissances",
+      "section": null,
+      "chemin": [
+        "B. Technique du mouvement",
+        "7. Focalisation"
+      ],
+      "texte": "a. Nommer les caractéristiques du regard dirigé en situation d’arrêt",
+      "prioritaire": false,
+      "progression": {
+        "1": "apprentissage",
+        "2": "maitrise",
+        "3": "reinvestissement",
+        "4": "reinvestissement",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 6,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "DAN-CON-063",
+      "competence": "Connaissances",
+      "section": null,
+      "chemin": [
+        "B. Technique du mouvement",
+        "7. Focalisation"
+      ],
+      "texte": "b. Nommer les caractéristiques du regard dirigé en mouvement sur place",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "maitrise",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 6,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "DAN-CON-064",
+      "competence": "Connaissances",
+      "section": null,
+      "chemin": [
+        "B. Technique du mouvement",
+        "7. Focalisation"
+      ],
+      "texte": "c. Distinguer les caractéristiques du regard dirigé en mouvement sur place de celui en situation d’arrêt",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": "apprentissage",
+        "6": "maitrise"
+      },
+      "page": 7,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "DAN-CON-065",
+      "competence": "Connaissances",
+      "section": null,
+      "chemin": [
+        "C. Règles relatives aux mouvements d’ensemble"
+      ],
+      "texte": "a. Nommer des réponses possibles aux indications sonores ou visuelles",
+      "prioritaire": true,
+      "progression": {
+        "1": "apprentissage",
+        "2": "maitrise",
+        "3": "reinvestissement",
+        "4": "reinvestissement",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 7,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "DAN-CON-066",
+      "competence": "Connaissances",
+      "section": null,
+      "chemin": [
+        "C. Règles relatives aux mouvements d’ensemble"
+      ],
+      "texte": "b. Nommer des règles relatives aux mouvements d’ensemble, telles que respecter l’espace personnel des autres et ajuster ses mouvements à ceux de ses partenaires",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "maitrise",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 7,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "DAN-CON-067",
+      "competence": "Connaissances",
+      "section": null,
+      "chemin": [
+        "C. Règles relatives aux mouvements d’ensemble"
+      ],
+      "texte": "c. Nommer les règles relatives aux mouvements d’ensemble",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": "apprentissage",
+        "6": "maitrise"
+      },
+      "page": 7,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "DAN-CON-068",
+      "competence": "Connaissances",
+      "section": null,
+      "chemin": [
+        "D. Procédés de composition",
+        "1. Répétition"
+      ],
+      "texte": "a. Identifier la répétition d’un mouvement et d’une phrase de mouvements",
+      "prioritaire": true,
+      "progression": {
+        "1": "apprentissage",
+        "2": "maitrise",
+        "3": "reinvestissement",
+        "4": "reinvestissement",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 7,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "DAN-CON-069",
+      "competence": "Connaissances",
+      "section": null,
+      "chemin": [
+        "D. Procédés de composition",
+        "1. Répétition"
+      ],
+      "texte": "b. Identifier la répétition de plusieurs mouvements et d’au moins deux phrases de mouvements enchaînés",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "maitrise",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 7,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "DAN-CON-070",
+      "competence": "Connaissances",
+      "section": null,
+      "chemin": [
+        "D. Procédés de composition",
+        "2. Variation"
+      ],
+      "texte": "a. Identifier la variation d’un mouvement dans une phrase de mouvements",
+      "prioritaire": true,
+      "progression": {
+        "1": "apprentissage",
+        "2": "maitrise",
+        "3": "reinvestissement",
+        "4": "reinvestissement",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 7,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "DAN-CON-071",
+      "competence": "Connaissances",
+      "section": null,
+      "chemin": [
+        "D. Procédés de composition",
+        "2. Variation"
+      ],
+      "texte": "b. Identifier la variation d’une phrase de mouvements dans plusieurs phrases de mouvements",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "maitrise",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 7,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "DAN-CON-072",
+      "competence": "Connaissances",
+      "section": null,
+      "chemin": [
+        "D. Procédés de composition",
+        "2. Variation"
+      ],
+      "texte": "c. Identifier la variation de deux phrases de mouvements dans une danse",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": "apprentissage",
+        "6": "maitrise"
+      },
+      "page": 7,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "DAN-CON-073",
+      "competence": "Connaissances",
+      "section": null,
+      "chemin": [
+        "D. Procédés de composition",
+        "3. Effets de contraste"
+      ],
+      "texte": "a. Identifier les effets de contraste à partir d’un élément du langage de la danse et de la qualité expressive d’un mouvement",
+      "prioritaire": true,
+      "progression": {
+        "1": "apprentissage",
+        "2": "maitrise",
+        "3": "reinvestissement",
+        "4": "reinvestissement",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 7,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "DAN-CON-074",
+      "competence": "Connaissances",
+      "section": null,
+      "chemin": [
+        "D. Procédés de composition",
+        "3. Effets de contraste"
+      ],
+      "texte": "b. Identifier les effets de contraste à partir de deux éléments du langage de la danse et des intentions expressives de ceux-ci",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "maitrise",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 7,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "DAN-CON-075",
+      "competence": "Connaissances",
+      "section": null,
+      "chemin": [
+        "E. Structures",
+        "1. Position"
+      ],
+      "texte": "a. Identifier une position de départ et une position de fin de danse",
+      "prioritaire": true,
+      "progression": {
+        "1": "apprentissage",
+        "2": "maitrise",
+        "3": "reinvestissement",
+        "4": "reinvestissement",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 7,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "DAN-CON-076",
+      "competence": "Connaissances",
+      "section": null,
+      "chemin": [
+        "E. Structures",
+        "2. Phrase"
+      ],
+      "texte": "a. Identifier des phrases d’actions ou de mouvements",
+      "prioritaire": true,
+      "progression": {
+        "1": "apprentissage",
+        "2": "maitrise",
+        "3": "reinvestissement",
+        "4": "reinvestissement",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 7,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "DAN-CON-077",
+      "competence": "Connaissances",
+      "section": null,
+      "chemin": [
+        "E. Structures",
+        "2. Phrase"
+      ],
+      "texte": "b. Identifier des transitions dans les phrases de mouvements",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "maitrise",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 7,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "DAN-CON-078",
+      "competence": "Connaissances",
+      "section": null,
+      "chemin": [
+        "E. Structures",
+        "2. Phrase"
+      ],
+      "texte": "c. Distinguer les phrases de mouvements de leurs transitions",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": "apprentissage",
+        "6": "maitrise"
+      },
+      "page": 7,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "DAN-CON-079",
+      "competence": "Connaissances",
+      "section": null,
+      "chemin": [
+        "E. Structures",
+        "3. Forme"
+      ],
+      "texte": "a. Identifier la forme personnelle et la ronde",
+      "prioritaire": false,
+      "progression": {
+        "1": "apprentissage",
+        "2": "maitrise",
+        "3": "reinvestissement",
+        "4": "reinvestissement",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 7,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "DAN-CON-080",
+      "competence": "Connaissances",
+      "section": null,
+      "chemin": [
+        "E. Structures",
+        "3. Forme"
+      ],
+      "texte": "b. Identifier la forme personnelle, la forme A-B ainsi que la farandole",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "maitrise",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 7,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "DAN-CON-081",
+      "competence": "Connaissances",
+      "section": null,
+      "chemin": [
+        "E. Structures",
+        "3. Forme"
+      ],
+      "texte": "c. Distinguer les différentes formes représentées dans une structure chorégraphique, telles que la forme personnelle, la forme rondo et la farandole",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": "apprentissage",
+        "6": "maitrise"
+      },
+      "page": 7,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "DAN-INV-001",
+      "competence": "1 – Inventer des danses",
+      "section": null,
+      "chemin": [
+        "A. Exploiter des idées de création inspirées par une proposition",
+        "1. Proposition de création"
+      ],
+      "texte": "a. Rechercher, à partir d’images et de ses émotions, des idées qui émergent de la proposition",
+      "prioritaire": true,
+      "progression": {
+        "1": "apprentissage",
+        "2": "maitrise",
+        "3": "reinvestissement",
+        "4": "reinvestissement",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 8,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "DAN-INV-002",
+      "competence": "1 – Inventer des danses",
+      "section": null,
+      "chemin": [
+        "A. Exploiter des idées de création inspirées par une proposition",
+        "1. Proposition de création"
+      ],
+      "texte": "b. Rechercher des idées qui émergent de la proposition en étant à l’écoute de ses impressions, émotions et sensations",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "maitrise",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 8,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "DAN-INV-003",
+      "competence": "1 – Inventer des danses",
+      "section": null,
+      "chemin": [
+        "A. Exploiter des idées de création inspirées par une proposition",
+        "1. Proposition de création"
+      ],
+      "texte": "c. Faire des essais de mouvements",
+      "prioritaire": false,
+      "progression": {
+        "1": "apprentissage",
+        "2": "maitrise",
+        "3": "reinvestissement",
+        "4": "reinvestissement",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 8,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "DAN-INV-004",
+      "competence": "1 – Inventer des danses",
+      "section": null,
+      "chemin": [
+        "A. Exploiter des idées de création inspirées par une proposition",
+        "1. Proposition de création"
+      ],
+      "texte": "d. Rechercher des mouvements liés à la proposition de création",
+      "prioritaire": true,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "maitrise",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 8,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "DAN-INV-005",
+      "competence": "1 – Inventer des danses",
+      "section": null,
+      "chemin": [
+        "A. Exploiter des idées de création inspirées par une proposition",
+        "1. Proposition de création"
+      ],
+      "texte": "e. Rechercher des façons de traduire ses idées en mouvement",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": "apprentissage",
+        "6": "maitrise"
+      },
+      "page": 8,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "DAN-INV-006",
+      "competence": "1 – Inventer des danses",
+      "section": null,
+      "chemin": [
+        "B. Exploiter des éléments du langage de la danse et de technique du mouvement",
+        "1. Langage de la danse"
+      ],
+      "texte": "a. Utiliser des actions locomotrices et non locomotrices dans sa création",
+      "prioritaire": false,
+      "progression": {
+        "1": "apprentissage",
+        "2": "maitrise",
+        "3": "reinvestissement",
+        "4": "reinvestissement",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 8,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "DAN-INV-007",
+      "competence": "1 – Inventer des danses",
+      "section": null,
+      "chemin": [
+        "B. Exploiter des éléments du langage de la danse et de technique du mouvement",
+        "1. Langage de la danse"
+      ],
+      "texte": "b. Choisir les actions locomotrices et non locomotrices pertinentes à sa création",
+      "prioritaire": true,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "maitrise",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 8,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "DAN-INV-008",
+      "competence": "1 – Inventer des danses",
+      "section": null,
+      "chemin": [
+        "B. Exploiter des éléments du langage de la danse et de technique du mouvement",
+        "1. Langage de la danse"
+      ],
+      "texte": "c. Associer les actions locomotrices et non locomotrices à son intention de création",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": "apprentissage",
+        "6": "maitrise"
+      },
+      "page": 8,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "DAN-INV-009",
+      "competence": "1 – Inventer des danses",
+      "section": null,
+      "chemin": [
+        "B. Exploiter des éléments du langage de la danse et de technique du mouvement",
+        "1. Langage de la danse"
+      ],
+      "texte": "d. Utiliser les parties du corps de diverses façons",
+      "prioritaire": true,
+      "progression": {
+        "1": "apprentissage",
+        "2": "maitrise",
+        "3": "reinvestissement",
+        "4": "reinvestissement",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 8,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "DAN-INV-010",
+      "competence": "1 – Inventer des danses",
+      "section": null,
+      "chemin": [
+        "B. Exploiter des éléments du langage de la danse et de technique du mouvement",
+        "1. Langage de la danse"
+      ],
+      "texte": "e. Rechercher des façons d’utiliser les parties du corps",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "maitrise",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 8,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "DAN-INV-011",
+      "competence": "1 – Inventer des danses",
+      "section": null,
+      "chemin": [
+        "B. Exploiter des éléments du langage de la danse et de technique du mouvement",
+        "1. Langage de la danse"
+      ],
+      "texte": "f. Faire des choix signifiants parmi les façons d’utiliser les parties du corps dans le mouvement",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": "apprentissage",
+        "6": "maitrise"
+      },
+      "page": 8,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "DAN-INV-012",
+      "competence": "1 – Inventer des danses",
+      "section": null,
+      "chemin": [
+        "B. Exploiter des éléments du langage de la danse et de technique du mouvement",
+        "1. Langage de la danse"
+      ],
+      "texte": "g. Expérimenter des éléments de la structure métrique tels que : pulsation, arrêt, tempo moyen et structure binaire",
+      "prioritaire": true,
+      "progression": {
+        "1": "apprentissage",
+        "2": "maitrise",
+        "3": "reinvestissement",
+        "4": "reinvestissement",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 8,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "DAN-INV-013",
+      "competence": "1 – Inventer des danses",
+      "section": null,
+      "chemin": [
+        "B. Exploiter des éléments du langage de la danse et de technique du mouvement",
+        "1. Langage de la danse"
+      ],
+      "texte": "h. Faire des choix parmi les éléments de la structure métrique suivants : pulsation, arrêt, tempo moyen, motif rythmique simple, structure binaire et ternaire",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "maitrise",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 8,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "DAN-INV-014",
+      "competence": "1 – Inventer des danses",
+      "section": null,
+      "chemin": [
+        "B. Exploiter des éléments du langage de la danse et de technique du mouvement",
+        "1. Langage de la danse"
+      ],
+      "texte": "i. Adapter les éléments de la structure métrique à sa création j. Utiliser l’espace personnel et l’espace général k. Varier l’utilisation de l’espace personnel et de l’espace général : niveaux, directions et trajectoires au sol l. Faire des choix parmi les diverses utilisations de l’espace personnel et de l’espace général : niveaux, amplitudes, directions et trajectoires aériennes et au sol m. Expérimenter l’effort soudain dans le mouvement n. Expérimenter les variantes de l’effort dans le mouvement o. Faire des choix parmi les variantes de l’effort dans le mouvement",
+      "prioritaire": false,
+      "progression": {
+        "1": "apprentissage",
+        "2": "maitrise",
+        "3": "apprentissage",
+        "4": "maitrise",
+        "5": "apprentissage",
+        "6": "maitrise"
+      },
+      "page": 8,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "DAN-INV-015",
+      "competence": "1 – Inventer des danses",
+      "section": null,
+      "chemin": [
+        "B. Exploiter des éléments du langage de la danse et de technique du mouvement",
+        "1. Langage de la danse"
+      ],
+      "texte": "p. Expérimenter des façons d’utiliser les relations entre partenaires : emplacements, actions spatiales, temporalité, unité de groupe et rôles à jouer q. Choisir des façons d’utiliser les relations entre partenaires r. Rechercher des façons d’utiliser les relations entre partenaires qui répondent à l’intention de création",
+      "prioritaire": false,
+      "progression": {
+        "1": "apprentissage",
+        "2": "maitrise",
+        "3": "apprentissage",
+        "4": "maitrise",
+        "5": "apprentissage",
+        "6": "maitrise"
+      },
+      "page": 9,
+      "a_verifier": true,
+      "note": "Ligne sans marqueur de liste : vérifier le découpage."
+    },
+    {
+      "id": "DAN-INV-016",
+      "competence": "1 – Inventer des danses",
+      "section": null,
+      "chemin": [
+        "B. Exploiter des éléments du langage de la danse et de technique du mouvement",
+        "2. Technique du mouvement"
+      ],
+      "texte": "a. Expérimenter des techniques du mouvement parmi les suivantes : respiration abdominale, latéralité, mobilité des parties du corps, transfert du poids et focalisation",
+      "prioritaire": true,
+      "progression": {
+        "1": "apprentissage",
+        "2": "maitrise",
+        "3": "reinvestissement",
+        "4": "reinvestissement",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 9,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "DAN-INV-017",
+      "competence": "1 – Inventer des danses",
+      "section": null,
+      "chemin": [
+        "B. Exploiter des éléments du langage de la danse et de technique du mouvement",
+        "2. Technique du mouvement"
+      ],
+      "texte": "b. Utiliser des techniques du mouvement parmi les suivantes : respiration abdominale, alignement corporel, latéralité, tonus musculaire, mobilité et fonction des parties du corps, transfert du poids et focalisation",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "maitrise",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 9,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "DAN-INV-018",
+      "competence": "1 – Inventer des danses",
+      "section": null,
+      "chemin": [
+        "B. Exploiter des éléments du langage de la danse et de technique du mouvement",
+        "2. Technique du mouvement"
+      ],
+      "texte": "c. Intégrer des techniques du mouvement à sa création",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": "apprentissage",
+        "6": "maitrise"
+      },
+      "page": 9,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "DAN-INV-019",
+      "competence": "1 – Inventer des danses",
+      "section": null,
+      "chemin": [
+        "C. Organiser les éléments résultant de ses choix",
+        "1. Procédés de composition"
+      ],
+      "texte": "a. Expérimenter l’un des procédés de composition suivants : répétition, variation et effets de contraste",
+      "prioritaire": true,
+      "progression": {
+        "1": "apprentissage",
+        "2": "maitrise",
+        "3": "reinvestissement",
+        "4": "reinvestissement",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 9,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "DAN-INV-020",
+      "competence": "1 – Inventer des danses",
+      "section": null,
+      "chemin": [
+        "C. Organiser les éléments résultant de ses choix",
+        "1. Procédés de composition"
+      ],
+      "texte": "b. Utiliser un procédé de composition dans sa création",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "maitrise",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 9,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "DAN-INV-021",
+      "competence": "1 – Inventer des danses",
+      "section": null,
+      "chemin": [
+        "C. Organiser les éléments résultant de ses choix",
+        "1. Procédés de composition"
+      ],
+      "texte": "c. Choisir un procédé de composition en fonction de son intention de création",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": "apprentissage",
+        "6": "maitrise"
+      },
+      "page": 9,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "DAN-INV-022",
+      "competence": "1 – Inventer des danses",
+      "section": null,
+      "chemin": [
+        "C. Organiser les éléments résultant de ses choix",
+        "2. Structures"
+      ],
+      "texte": "a. Expérimenter des éléments de structures chorégraphiques tels que la position, la phrase et la forme",
+      "prioritaire": true,
+      "progression": {
+        "1": "apprentissage",
+        "2": "maitrise",
+        "3": "reinvestissement",
+        "4": "reinvestissement",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 9,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "DAN-INV-023",
+      "competence": "1 – Inventer des danses",
+      "section": null,
+      "chemin": [
+        "C. Organiser les éléments résultant de ses choix",
+        "2. Structures"
+      ],
+      "texte": "b. Utiliser des éléments de structures chorégraphiques",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "maitrise",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 9,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "DAN-INV-024",
+      "competence": "1 – Inventer des danses",
+      "section": null,
+      "chemin": [
+        "C. Organiser les éléments résultant de ses choix",
+        "2. Structures"
+      ],
+      "texte": "c. Adapter les éléments de structures chorégraphiques selon l’intention de création",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": "apprentissage",
+        "6": "maitrise"
+      },
+      "page": 9,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "DAN-INV-025",
+      "competence": "1 – Inventer des danses",
+      "section": null,
+      "chemin": [
+        "D. Finaliser sa réalisation"
+      ],
+      "texte": "a. Apporter certains ajustements à sa séquence de mouvements",
+      "prioritaire": false,
+      "progression": {
+        "1": "apprentissage",
+        "2": "maitrise",
+        "3": "reinvestissement",
+        "4": "reinvestissement",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 9,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "DAN-INV-026",
+      "competence": "1 – Inventer des danses",
+      "section": null,
+      "chemin": [
+        "D. Finaliser sa réalisation"
+      ],
+      "texte": "b. Ajuster sa réalisation selon la proposition de départ",
+      "prioritaire": true,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "maitrise",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 9,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "DAN-INV-027",
+      "competence": "1 – Inventer des danses",
+      "section": null,
+      "chemin": [
+        "D. Finaliser sa réalisation"
+      ],
+      "texte": "c. Rehausser certains aspects de sa réalisation par l’utilisation des éléments du langage de la danse et de technique du mouvement",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": "apprentissage",
+        "6": "maitrise"
+      },
+      "page": 9,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "DAN-INV-028",
+      "competence": "1 – Inventer des danses",
+      "section": null,
+      "chemin": [
+        "E. Partager son expérience de création"
+      ],
+      "texte": "a. Relater des faits signifiants liés à l’utilisation des éléments du langage de la danse et des techniques du mouvement",
+      "prioritaire": true,
+      "progression": {
+        "1": "apprentissage",
+        "2": "maitrise",
+        "3": "reinvestissement",
+        "4": "reinvestissement",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 9,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "DAN-INV-029",
+      "competence": "1 – Inventer des danses",
+      "section": null,
+      "chemin": [
+        "E. Partager son expérience de création"
+      ],
+      "texte": "b. Décrire des aspects importants liés à l’utilisation des éléments du langage de la danse et des éléments de technique du mouvement",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "maitrise",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 9,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "DAN-INV-030",
+      "competence": "1 – Inventer des danses",
+      "section": null,
+      "chemin": [
+        "E. Partager son expérience de création"
+      ],
+      "texte": "c. Utiliser le vocabulaire disciplinaire",
+      "prioritaire": true,
+      "progression": {
+        "1": "apprentissage",
+        "2": "maitrise",
+        "3": "reinvestissement",
+        "4": "reinvestissement",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 9,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "DAN-INT-001",
+      "competence": "2 – Interpréter des danses",
+      "section": null,
+      "chemin": [
+        "A. S’approprier le contenu chorégraphique de la danse"
+      ],
+      "texte": "a. Repérer un élément du langage de la danse",
+      "prioritaire": false,
+      "progression": {
+        "1": "apprentissage",
+        "2": "maitrise",
+        "3": "reinvestissement",
+        "4": "reinvestissement",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 10,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "DAN-INT-002",
+      "competence": "2 – Interpréter des danses",
+      "section": null,
+      "chemin": [
+        "A. S’approprier le contenu chorégraphique de la danse"
+      ],
+      "texte": "b. Repérer différents éléments du langage de la danse",
+      "prioritaire": true,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "maitrise",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 10,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "DAN-INT-003",
+      "competence": "2 – Interpréter des danses",
+      "section": null,
+      "chemin": [
+        "A. S’approprier le contenu chorégraphique de la danse"
+      ],
+      "texte": "c. Repérer les éléments du langage de la danse",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": "apprentissage",
+        "6": "maitrise"
+      },
+      "page": 10,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "DAN-INT-004",
+      "competence": "2 – Interpréter des danses",
+      "section": null,
+      "chemin": [
+        "A. S’approprier le contenu chorégraphique de la danse"
+      ],
+      "texte": "d. Repérer le début et la fin de la séquence chorégraphique",
+      "prioritaire": true,
+      "progression": {
+        "1": "apprentissage",
+        "2": "maitrise",
+        "3": "reinvestissement",
+        "4": "reinvestissement",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 10,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "DAN-INT-005",
+      "competence": "2 – Interpréter des danses",
+      "section": null,
+      "chemin": [
+        "A. S’approprier le contenu chorégraphique de la danse"
+      ],
+      "texte": "e. Repérer, dans la séquence, un élément de structure chorégraphique",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "maitrise",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 10,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "DAN-INT-006",
+      "competence": "2 – Interpréter des danses",
+      "section": null,
+      "chemin": [
+        "A. S’approprier le contenu chorégraphique de la danse"
+      ],
+      "texte": "f. Repérer, dans la séquence, différents éléments de structure chorégraphique",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": "apprentissage",
+        "6": "maitrise"
+      },
+      "page": 10,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "DAN-INT-007",
+      "competence": "2 – Interpréter des danses",
+      "section": null,
+      "chemin": [
+        "A. S’approprier le contenu chorégraphique de la danse"
+      ],
+      "texte": "g. Faire quelques essais de mouvements",
+      "prioritaire": false,
+      "progression": {
+        "1": "apprentissage",
+        "2": "maitrise",
+        "3": "reinvestissement",
+        "4": "reinvestissement",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 10,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "DAN-INT-008",
+      "competence": "2 – Interpréter des danses",
+      "section": null,
+      "chemin": [
+        "A. S’approprier le contenu chorégraphique de la danse"
+      ],
+      "texte": "h. Faire quelques essais d’enchaînements de mouvements",
+      "prioritaire": true,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "maitrise",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 10,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "DAN-INT-009",
+      "competence": "2 – Interpréter des danses",
+      "section": null,
+      "chemin": [
+        "A. S’approprier le contenu chorégraphique de la danse"
+      ],
+      "texte": "i. Repérer les phrases de mouvements enchaînés ainsi que leur transition",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": "apprentissage",
+        "6": "maitrise"
+      },
+      "page": 10,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "DAN-INT-010",
+      "competence": "2 – Interpréter des danses",
+      "section": null,
+      "chemin": [
+        "B. Appliquer des éléments de technique du mouvement"
+      ],
+      "texte": "a. Expérimenter des éléments de technique du mouvement liés à la danse",
+      "prioritaire": true,
+      "progression": {
+        "1": "apprentissage",
+        "2": "maitrise",
+        "3": "reinvestissement",
+        "4": "reinvestissement",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 10,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "DAN-INT-011",
+      "competence": "2 – Interpréter des danses",
+      "section": null,
+      "chemin": [
+        "B. Appliquer des éléments de technique du mouvement"
+      ],
+      "texte": "b. Utiliser des éléments de technique du mouvement liés à la danse",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "maitrise",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 10,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "DAN-INT-012",
+      "competence": "2 – Interpréter des danses",
+      "section": null,
+      "chemin": [
+        "B. Appliquer des éléments de technique du mouvement"
+      ],
+      "texte": "c. Intégrer des éléments de technique du mouvement liés à la danse",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": "apprentissage",
+        "6": "maitrise"
+      },
+      "page": 10,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "DAN-INT-013",
+      "competence": "2 – Interpréter des danses",
+      "section": null,
+      "chemin": [
+        "C. Exploiter les éléments expressifs inhérents à la danse"
+      ],
+      "texte": "a. Se familiariser avec la qualité expressive d’un mouvement",
+      "prioritaire": true,
+      "progression": {
+        "1": "apprentissage",
+        "2": "maitrise",
+        "3": "reinvestissement",
+        "4": "reinvestissement",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 10,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "DAN-INT-014",
+      "competence": "2 – Interpréter des danses",
+      "section": null,
+      "chemin": [
+        "C. Exploiter les éléments expressifs inhérents à la danse"
+      ],
+      "texte": "b. Respecter l’intention expressive du mouvement",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "maitrise",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 10,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "DAN-INT-015",
+      "competence": "2 – Interpréter des danses",
+      "section": null,
+      "chemin": [
+        "C. Exploiter les éléments expressifs inhérents à la danse"
+      ],
+      "texte": "c. Faire ressortir le caractère expressif du mouvement selon l’intention",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": "apprentissage",
+        "6": "maitrise"
+      },
+      "page": 10,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "DAN-INT-016",
+      "competence": "2 – Interpréter des danses",
+      "section": null,
+      "chemin": [
+        "D. Appliquer les règles relatives aux mouvements d’ensemble"
+      ],
+      "texte": "a. Répondre aux indications sonores ou visuelles",
+      "prioritaire": true,
+      "progression": {
+        "1": "apprentissage",
+        "2": "maitrise",
+        "3": "reinvestissement",
+        "4": "reinvestissement",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 10,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "DAN-INT-017",
+      "competence": "2 – Interpréter des danses",
+      "section": null,
+      "chemin": [
+        "D. Appliquer les règles relatives aux mouvements d’ensemble"
+      ],
+      "texte": "b. Ajuster ses mouvements à ceux de ses partenaires",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "maitrise",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 10,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "DAN-INT-018",
+      "competence": "2 – Interpréter des danses",
+      "section": null,
+      "chemin": [
+        "D. Appliquer les règles relatives aux mouvements d’ensemble"
+      ],
+      "texte": "c. Respecter son espace personnel et celui des autres dans l’exécution de la danse",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "maitrise",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 10,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "DAN-INT-019",
+      "competence": "2 – Interpréter des danses",
+      "section": null,
+      "chemin": [
+        "D. Appliquer les règles relatives aux mouvements d’ensemble"
+      ],
+      "texte": "d. Anticiper les mouvements d’ensemble lors de l’exécution d’une séquence chorégraphique",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": "apprentissage",
+        "6": "maitrise"
+      },
+      "page": 10,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "DAN-INT-020",
+      "competence": "2 – Interpréter des danses",
+      "section": null,
+      "chemin": [
+        "E. Partager son expérience d’interprétation"
+      ],
+      "texte": "a. Relater des faits signifiants liés à l’utilisation des éléments du langage de la danse et des techniques du mouvement",
+      "prioritaire": true,
+      "progression": {
+        "1": "apprentissage",
+        "2": "maitrise",
+        "3": "reinvestissement",
+        "4": "reinvestissement",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 10,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "DAN-INT-021",
+      "competence": "2 – Interpréter des danses",
+      "section": null,
+      "chemin": [
+        "E. Partager son expérience d’interprétation"
+      ],
+      "texte": "b. Décrire des aspects importants liés à l’utilisation des éléments du langage de la danse et des éléments de technique du mouvement",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "maitrise",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 11,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "DAN-INT-022",
+      "competence": "2 – Interpréter des danses",
+      "section": null,
+      "chemin": [
+        "E. Partager son expérience d’interprétation"
+      ],
+      "texte": "c. Utiliser le vocabulaire disciplinaire",
+      "prioritaire": true,
+      "progression": {
+        "1": "apprentissage",
+        "2": "maitrise",
+        "3": "reinvestissement",
+        "4": "reinvestissement",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 11,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "DAN-APP-001",
+      "competence": "3 – Apprécier des œuvres chorégraphiques, ses réalisations et celles de ses",
+      "section": null,
+      "chemin": [
+        "A. Examiner un extrait d’œuvre ou une réalisation chorégraphique au regard d’éléments de contenu"
+      ],
+      "texte": "a. Observer des éléments disciplinaires à partir de réalisations d’élèves",
+      "prioritaire": false,
+      "progression": {
+        "1": "apprentissage",
+        "2": "maitrise",
+        "3": "reinvestissement",
+        "4": "reinvestissement",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 12,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "DAN-APP-002",
+      "competence": "3 – Apprécier des œuvres chorégraphiques, ses réalisations et celles de ses",
+      "section": null,
+      "chemin": [
+        "A. Examiner un extrait d’œuvre ou une réalisation chorégraphique au regard d’éléments de contenu"
+      ],
+      "texte": "b. Observer des éléments disciplinaires à partir d’extraits d’œuvres d’hier et d’aujourd’hui, d’ici et d’ailleurs",
+      "prioritaire": false,
+      "progression": {
+        "1": "apprentissage",
+        "2": "maitrise",
+        "3": "reinvestissement",
+        "4": "reinvestissement",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 12,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "DAN-APP-003",
+      "competence": "3 – Apprécier des œuvres chorégraphiques, ses réalisations et celles de ses",
+      "section": null,
+      "chemin": [
+        "A. Examiner un extrait d’œuvre ou une réalisation chorégraphique au regard d’éléments de contenu",
+        "1. Langage de la danse 1 1.1. Actions locomotrices et non locomotrices"
+      ],
+      "texte": "a. Observer les actions locomotrices et non locomotrices utilisées dans la réalisation",
+      "prioritaire": false,
+      "progression": {
+        "1": "apprentissage",
+        "2": "maitrise",
+        "3": "reinvestissement",
+        "4": "reinvestissement",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 12,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "DAN-APP-004",
+      "competence": "3 – Apprécier des œuvres chorégraphiques, ses réalisations et celles de ses",
+      "section": null,
+      "chemin": [
+        "A. Examiner un extrait d’œuvre ou une réalisation chorégraphique au regard d’éléments de contenu",
+        "1. Langage de la danse 1 1.1. Actions locomotrices et non locomotrices"
+      ],
+      "texte": "b. Repérer les actions locomotrices et non locomotrices utilisées dans la réalisation",
+      "prioritaire": true,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "maitrise",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 12,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "DAN-APP-005",
+      "competence": "3 – Apprécier des œuvres chorégraphiques, ses réalisations et celles de ses",
+      "section": null,
+      "chemin": [
+        "A. Examiner un extrait d’œuvre ou une réalisation chorégraphique au regard d’éléments de contenu",
+        "1. Langage de la danse 1 1.1. Actions locomotrices et non locomotrices"
+      ],
+      "texte": "c. Dégager les différentes utilisations des actions locomotrices et non locomotrices dans la réalisation 1.2. Parties du corps",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": "apprentissage",
+        "6": "maitrise"
+      },
+      "page": 12,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "DAN-APP-006",
+      "competence": "3 – Apprécier des œuvres chorégraphiques, ses réalisations et celles de ses",
+      "section": null,
+      "chemin": [
+        "A. Examiner un extrait d’œuvre ou une réalisation chorégraphique au regard d’éléments de contenu",
+        "1. Langage de la danse 1 1.1. Actions locomotrices et non locomotrices"
+      ],
+      "texte": "a. Observer les formes corporelles ainsi que les gestes inspirés du quotidien",
+      "prioritaire": true,
+      "progression": {
+        "1": "apprentissage",
+        "2": "maitrise",
+        "3": "reinvestissement",
+        "4": "reinvestissement",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 12,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "DAN-APP-007",
+      "competence": "3 – Apprécier des œuvres chorégraphiques, ses réalisations et celles de ses",
+      "section": null,
+      "chemin": [
+        "A. Examiner un extrait d’œuvre ou une réalisation chorégraphique au regard d’éléments de contenu",
+        "1. Langage de la danse 1 1.1. Actions locomotrices et non locomotrices"
+      ],
+      "texte": "b. Repérer différentes formes corporelles ainsi que les gestes symboliques et les gestes inspirés du quotidien 1.3. Structuration métrique",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "maitrise",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 12,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "DAN-APP-008",
+      "competence": "3 – Apprécier des œuvres chorégraphiques, ses réalisations et celles de ses",
+      "section": null,
+      "chemin": [
+        "A. Examiner un extrait d’œuvre ou une réalisation chorégraphique au regard d’éléments de contenu",
+        "1. Langage de la danse 1 1.1. Actions locomotrices et non locomotrices"
+      ],
+      "texte": "a. Repérer les éléments de la structuration métrique suivants : pulsation, arrêt, tempo moyen et structure binaire",
+      "prioritaire": true,
+      "progression": {
+        "1": "apprentissage",
+        "2": "maitrise",
+        "3": "reinvestissement",
+        "4": "reinvestissement",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 12,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "DAN-APP-009",
+      "competence": "3 – Apprécier des œuvres chorégraphiques, ses réalisations et celles de ses",
+      "section": null,
+      "chemin": [
+        "A. Examiner un extrait d’œuvre ou une réalisation chorégraphique au regard d’éléments de contenu",
+        "1. Langage de la danse 1 1.1. Actions locomotrices et non locomotrices"
+      ],
+      "texte": "b. Repérer les éléments de la structuration métrique suivants : pulsation, arrêt, tempo moyen, motif rythmique simple, structure binaire et structure ternaire",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "maitrise",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 12,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "DAN-APP-010",
+      "competence": "3 – Apprécier des œuvres chorégraphiques, ses réalisations et celles de ses",
+      "section": null,
+      "chemin": [
+        "A. Examiner un extrait d’œuvre ou une réalisation chorégraphique au regard d’éléments de contenu",
+        "1. Langage de la danse 1 1.1. Actions locomotrices et non locomotrices"
+      ],
+      "texte": "c. Observer l’utilisation des éléments de la structuration métrique dans le contexte de réalisation 1.4. Espace personnel et espace général",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": "apprentissage",
+        "6": "maitrise"
+      },
+      "page": 12,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "DAN-APP-011",
+      "competence": "3 – Apprécier des œuvres chorégraphiques, ses réalisations et celles de ses",
+      "section": null,
+      "chemin": [
+        "A. Examiner un extrait d’œuvre ou une réalisation chorégraphique au regard d’éléments de contenu",
+        "1. Langage de la danse 1 1.1. Actions locomotrices et non locomotrices"
+      ],
+      "texte": "a. Observer l’utilisation de l’espace en fonction des niveaux et des directions",
+      "prioritaire": true,
+      "progression": {
+        "1": "apprentissage",
+        "2": "maitrise",
+        "3": "reinvestissement",
+        "4": "reinvestissement",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 12,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "DAN-APP-012",
+      "competence": "3 – Apprécier des œuvres chorégraphiques, ses réalisations et celles de ses",
+      "section": null,
+      "chemin": [
+        "A. Examiner un extrait d’œuvre ou une réalisation chorégraphique au regard d’éléments de contenu",
+        "1. Langage de la danse 1 1.1. Actions locomotrices et non locomotrices"
+      ],
+      "texte": "b. Repérer différentes utilisations de l’espace en fonction des niveaux, des amplitudes, des directions et des trajectoires au sol",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "maitrise",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 12,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "DAN-APP-013",
+      "competence": "3 – Apprécier des œuvres chorégraphiques, ses réalisations et celles de ses",
+      "section": null,
+      "chemin": [
+        "A. Examiner un extrait d’œuvre ou une réalisation chorégraphique au regard d’éléments de contenu",
+        "1. Langage de la danse 1 1.1. Actions locomotrices et non locomotrices"
+      ],
+      "texte": "c. Repérer les utilisations de l’espace 1.5. Énergie du mouvement",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": "apprentissage",
+        "6": "maitrise"
+      },
+      "page": 12,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "DAN-APP-014",
+      "competence": "3 – Apprécier des œuvres chorégraphiques, ses réalisations et celles de ses",
+      "section": null,
+      "chemin": [
+        "A. Examiner un extrait d’œuvre ou une réalisation chorégraphique au regard d’éléments de contenu",
+        "1. Langage de la danse 1 1.1. Actions locomotrices et non locomotrices"
+      ],
+      "texte": "a. Repérer l’effort soudain dans le mouvement",
+      "prioritaire": false,
+      "progression": {
+        "1": "apprentissage",
+        "2": "maitrise",
+        "3": "reinvestissement",
+        "4": "reinvestissement",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 12,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "DAN-APP-015",
+      "competence": "3 – Apprécier des œuvres chorégraphiques, ses réalisations et celles de ses",
+      "section": null,
+      "chemin": [
+        "A. Examiner un extrait d’œuvre ou une réalisation chorégraphique au regard d’éléments de contenu",
+        "1. Langage de la danse 1 1.1. Actions locomotrices et non locomotrices"
+      ],
+      "texte": "b. Repérer les variantes de l’effort dans le mouvement : soudain, soutenu, beaucoup, peu",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "maitrise",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 12,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "DAN-APP-016",
+      "competence": "3 – Apprécier des œuvres chorégraphiques, ses réalisations et celles de ses",
+      "section": null,
+      "chemin": [
+        "A. Examiner un extrait d’œuvre ou une réalisation chorégraphique au regard d’éléments de contenu",
+        "1. Langage de la danse 1 1.1. Actions locomotrices et non locomotrices"
+      ],
+      "texte": "c. Repérer l’accélération du mouvement",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": "apprentissage",
+        "6": "maitrise"
+      },
+      "page": 12,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "DAN-APP-017",
+      "competence": "3 – Apprécier des œuvres chorégraphiques, ses réalisations et celles de ses",
+      "section": null,
+      "chemin": [
+        "A. Examiner un extrait d’œuvre ou une réalisation chorégraphique au regard d’éléments de contenu",
+        "1. Langage de la danse 1 1.1. Actions locomotrices et non locomotrices"
+      ],
+      "texte": "a. Observer des relations entre partenaires parmi les actions associées aux aspects suivants : emplacements, actions spatiales, temporalité, unité de groupe et rôle à jouer",
+      "prioritaire": true,
+      "progression": {
+        "1": "apprentissage",
+        "2": "maitrise",
+        "3": "reinvestissement",
+        "4": "reinvestissement",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 13,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "DAN-APP-018",
+      "competence": "3 – Apprécier des œuvres chorégraphiques, ses réalisations et celles de ses",
+      "section": null,
+      "chemin": [
+        "A. Examiner un extrait d’œuvre ou une réalisation chorégraphique au regard d’éléments de contenu",
+        "1. Langage de la danse 1 1.1. Actions locomotrices et non locomotrices"
+      ],
+      "texte": "b. Repérer différentes relations entre partenaires",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "maitrise",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 13,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "DAN-APP-019",
+      "competence": "3 – Apprécier des œuvres chorégraphiques, ses réalisations et celles de ses",
+      "section": null,
+      "chemin": [
+        "A. Examiner un extrait d’œuvre ou une réalisation chorégraphique au regard d’éléments de contenu",
+        "2. Technique du mouvement"
+      ],
+      "texte": "a. Observer des éléments de technique du mouvement parmi les suivants : latéralité, mobilité des parties du corps, transfert de poids et focalisation",
+      "prioritaire": true,
+      "progression": {
+        "1": "apprentissage",
+        "2": "maitrise",
+        "3": "reinvestissement",
+        "4": "reinvestissement",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 13,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "DAN-APP-020",
+      "competence": "3 – Apprécier des œuvres chorégraphiques, ses réalisations et celles de ses",
+      "section": null,
+      "chemin": [
+        "A. Examiner un extrait d’œuvre ou une réalisation chorégraphique au regard d’éléments de contenu",
+        "2. Technique du mouvement"
+      ],
+      "texte": "b. Repérer des éléments de technique du mouvement parmi les suivants : alignement corporel, latéralité, tonus musculaire, mobilité et fonction des parties du corps, transfert du poids et focalisation",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "maitrise",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 13,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "DAN-APP-021",
+      "competence": "3 – Apprécier des œuvres chorégraphiques, ses réalisations et celles de ses",
+      "section": null,
+      "chemin": [
+        "A. Examiner un extrait d’œuvre ou une réalisation chorégraphique au regard d’éléments de contenu",
+        "2. Technique du mouvement"
+      ],
+      "texte": "c. Observer l’utilisation des éléments de technique du mouvement",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": "apprentissage",
+        "6": "maitrise"
+      },
+      "page": 13,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "DAN-APP-022",
+      "competence": "3 – Apprécier des œuvres chorégraphiques, ses réalisations et celles de ses",
+      "section": null,
+      "chemin": [
+        "A. Examiner un extrait d’œuvre ou une réalisation chorégraphique au regard d’éléments de contenu",
+        "3. Procédés de composition"
+      ],
+      "texte": "a. Observer des procédés de composition, tels que la répétition, la variation et les effets de contraste",
+      "prioritaire": true,
+      "progression": {
+        "1": "apprentissage",
+        "2": "maitrise",
+        "3": "reinvestissement",
+        "4": "reinvestissement",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 13,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "DAN-APP-023",
+      "competence": "3 – Apprécier des œuvres chorégraphiques, ses réalisations et celles de ses",
+      "section": null,
+      "chemin": [
+        "A. Examiner un extrait d’œuvre ou une réalisation chorégraphique au regard d’éléments de contenu",
+        "3. Procédés de composition"
+      ],
+      "texte": "b. Repérer des procédés de composition parmi les suivants : répétition, variation et effets de contraste",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "maitrise",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 13,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "DAN-APP-024",
+      "competence": "3 – Apprécier des œuvres chorégraphiques, ses réalisations et celles de ses",
+      "section": null,
+      "chemin": [
+        "A. Examiner un extrait d’œuvre ou une réalisation chorégraphique au regard d’éléments de contenu",
+        "3. Procédés de composition"
+      ],
+      "texte": "c. Observer l’utilisation des procédés de composition",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": "apprentissage",
+        "6": "maitrise"
+      },
+      "page": 13,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "DAN-APP-025",
+      "competence": "3 – Apprécier des œuvres chorégraphiques, ses réalisations et celles de ses",
+      "section": null,
+      "chemin": [
+        "A. Examiner un extrait d’œuvre ou une réalisation chorégraphique au regard d’éléments de contenu",
+        "4. Structures"
+      ],
+      "texte": "a. Observer des éléments de la structure, tels que la position, la phrase et la forme",
+      "prioritaire": true,
+      "progression": {
+        "1": "apprentissage",
+        "2": "maitrise",
+        "3": "reinvestissement",
+        "4": "reinvestissement",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 13,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "DAN-APP-026",
+      "competence": "3 – Apprécier des œuvres chorégraphiques, ses réalisations et celles de ses",
+      "section": null,
+      "chemin": [
+        "A. Examiner un extrait d’œuvre ou une réalisation chorégraphique au regard d’éléments de contenu",
+        "4. Structures"
+      ],
+      "texte": "b. Repérer des éléments de la structure, tels que la position, la phrase et la forme",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "maitrise",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 13,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "DAN-APP-027",
+      "competence": "3 – Apprécier des œuvres chorégraphiques, ses réalisations et celles de ses",
+      "section": null,
+      "chemin": [
+        "A. Examiner un extrait d’œuvre ou une réalisation chorégraphique au regard d’éléments de contenu",
+        "4. Structures"
+      ],
+      "texte": "c. Observer l’utilisation des éléments de structures",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": "apprentissage",
+        "6": "maitrise"
+      },
+      "page": 13,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "DAN-APP-028",
+      "competence": "3 – Apprécier des œuvres chorégraphiques, ses réalisations et celles de ses",
+      "section": null,
+      "chemin": [
+        "B. Examiner un extrait d’œuvre au regard d’aspects socioculturels (2e et 3e cycles)"
+      ],
+      "texte": "a. Observer un élément représentant des aspects d’ordre socioculturel",
+      "prioritaire": true,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "maitrise",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 13,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "DAN-APP-029",
+      "competence": "3 – Apprécier des œuvres chorégraphiques, ses réalisations et celles de ses",
+      "section": null,
+      "chemin": [
+        "B. Examiner un extrait d’œuvre au regard d’aspects socioculturels (2e et 3e cycles)"
+      ],
+      "texte": "b. Repérer des éléments représentant des aspects d’ordre socioculturel",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": "apprentissage",
+        "6": "maitrise"
+      },
+      "page": 13,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "DAN-APP-030",
+      "competence": "3 – Apprécier des œuvres chorégraphiques, ses réalisations et celles de ses",
+      "section": null,
+      "chemin": [
+        "C. Établir des liens entre ce que l’on a ressenti et ce que l’on a examiné"
+      ],
+      "texte": "a. Nommer un élément de la séquence chorégraphique qui a suscité l’émotion",
+      "prioritaire": false,
+      "progression": {
+        "1": "apprentissage",
+        "2": "maitrise",
+        "3": "reinvestissement",
+        "4": "reinvestissement",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 13,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "DAN-APP-031",
+      "competence": "3 – Apprécier des œuvres chorégraphiques, ses réalisations et celles de ses",
+      "section": null,
+      "chemin": [
+        "C. Établir des liens entre ce que l’on a ressenti et ce que l’on a examiné"
+      ],
+      "texte": "b. Expliquer la raison pour laquelle un élément en particulier a suscité",
+      "prioritaire": true,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "maitrise",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 13,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "DAN-APP-032",
+      "competence": "3 – Apprécier des œuvres chorégraphiques, ses réalisations et celles de ses",
+      "section": null,
+      "chemin": [
+        "C. Établir des liens entre ce que l’on a ressenti et ce que l’on a examiné"
+      ],
+      "texte": "c. Démontrer par un exemple les liens établis entre l’effet ressenti et les éléments observés",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": "apprentissage",
+        "6": "maitrise"
+      },
+      "page": 13,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "DAN-APP-033",
+      "competence": "3 – Apprécier des œuvres chorégraphiques, ses réalisations et celles de ses",
+      "section": null,
+      "chemin": [
+        "C. Établir des liens entre ce que l’on a ressenti et ce que l’on a examiné"
+      ],
+      "texte": "d. Utiliser le vocabulaire disciplinaire",
+      "prioritaire": true,
+      "progression": {
+        "1": "apprentissage",
+        "2": "maitrise",
+        "3": "reinvestissement",
+        "4": "reinvestissement",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 13,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "DAN-APP-034",
+      "competence": "3 – Apprécier des œuvres chorégraphiques, ses réalisations et celles de ses",
+      "section": null,
+      "chemin": [
+        "D. Porter un jugement d’ordre critique ou esthétique"
+      ],
+      "texte": "a. Faire part d’une préférence à partir d’une observation",
+      "prioritaire": false,
+      "progression": {
+        "1": "apprentissage",
+        "2": "maitrise",
+        "3": "reinvestissement",
+        "4": "reinvestissement",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 13,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "DAN-APP-035",
+      "competence": "3 – Apprécier des œuvres chorégraphiques, ses réalisations et celles de ses",
+      "section": null,
+      "chemin": [
+        "D. Porter un jugement d’ordre critique ou esthétique"
+      ],
+      "texte": "b. Expliquer pourquoi certains éléments ont retenu son attention",
+      "prioritaire": true,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "maitrise",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 13,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "DAN-APP-036",
+      "competence": "3 – Apprécier des œuvres chorégraphiques, ses réalisations et celles de ses",
+      "section": null,
+      "chemin": [
+        "D. Porter un jugement d’ordre critique ou esthétique"
+      ],
+      "texte": "c. Justifier son point de vue à la suite des vérifications effectuées",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": "apprentissage",
+        "6": "maitrise"
+      },
+      "page": 13,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "DAN-APP-037",
+      "competence": "3 – Apprécier des œuvres chorégraphiques, ses réalisations et celles de ses",
+      "section": null,
+      "chemin": [
+        "D. Porter un jugement d’ordre critique ou esthétique"
+      ],
+      "texte": "d. Formuler un commentaire sur ses observations",
+      "prioritaire": false,
+      "progression": {
+        "1": "apprentissage",
+        "2": "maitrise",
+        "3": "reinvestissement",
+        "4": "reinvestissement",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 13,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "DAN-APP-038",
+      "competence": "3 – Apprécier des œuvres chorégraphiques, ses réalisations et celles de ses",
+      "section": null,
+      "chemin": [
+        "D. Porter un jugement d’ordre critique ou esthétique"
+      ],
+      "texte": "e. Formuler des commentaires à l’aide d’exemples provenant de ses observations",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "maitrise",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 13,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "DAN-APP-039",
+      "competence": "3 – Apprécier des œuvres chorégraphiques, ses réalisations et celles de ses",
+      "section": null,
+      "chemin": [
+        "D. Porter un jugement d’ordre critique ou esthétique"
+      ],
+      "texte": "f. Comparer les séquences chorégraphiques à partir de ses observations et des critères d’appréciation proposés",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": "apprentissage",
+        "6": "maitrise"
+      },
+      "page": 13,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "DAN-APP-040",
+      "competence": "3 – Apprécier des œuvres chorégraphiques, ses réalisations et celles de ses",
+      "section": null,
+      "chemin": [
+        "D. Porter un jugement d’ordre critique ou esthétique"
+      ],
+      "texte": "g. Utiliser le vocabulaire disciplinaire",
+      "prioritaire": true,
+      "progression": {
+        "1": "apprentissage",
+        "2": "maitrise",
+        "3": "reinvestissement",
+        "4": "reinvestissement",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 13,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "DAN-APP-041",
+      "competence": "3 – Apprécier des œuvres chorégraphiques, ses réalisations et celles de ses",
+      "section": null,
+      "chemin": [
+        "E. Partager son expérience d’appréciation"
+      ],
+      "texte": "a. Relater des faits signifiants liés à l’appréciation des éléments du langage de la danse et de technique du mouvement",
+      "prioritaire": true,
+      "progression": {
+        "1": "apprentissage",
+        "2": "maitrise",
+        "3": "reinvestissement",
+        "4": "reinvestissement",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 14,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "DAN-APP-042",
+      "competence": "3 – Apprécier des œuvres chorégraphiques, ses réalisations et celles de ses",
+      "section": null,
+      "chemin": [
+        "E. Partager son expérience d’appréciation"
+      ],
+      "texte": "b. Décrire des aspects importants liés à l’appréciation des éléments du langage de la danse et des éléments de technique du mouvement",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "maitrise",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 14,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "DAN-APP-043",
+      "competence": "3 – Apprécier des œuvres chorégraphiques, ses réalisations et celles de ses",
+      "section": null,
+      "chemin": [
+        "E. Partager son expérience d’appréciation"
+      ],
+      "texte": "c. Utiliser le vocabulaire disciplinaire",
+      "prioritaire": true,
+      "progression": {
+        "1": "apprentissage",
+        "2": "maitrise",
+        "3": "reinvestissement",
+        "4": "reinvestissement",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 14,
+      "a_verifier": false,
+      "note": ""
+    }
+  ],
+  "source_url": "https://cdn-contenu.quebec.ca/cdn-contenu/education/pfeq/primaire/progressions-apprentissages/PFEQ-progression-apprentissages-danse-primaire.pdf",
+  "controle_logique": {
+    "date": "2026-11-10",
+    "illogiques": 0,
+    "note": ""
+  }
+}

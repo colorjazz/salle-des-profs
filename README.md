@@ -31,6 +31,13 @@ La tentative de Gemini (`gemini/resultats/inventaire-pfeq-gemini-OBSOLETE.csv`) 
 | `cadre-mat-primaire.json` | Compétences, critères, pondérations par cycle |
 | `programme-hqc-secondaire.json` | Histoire du Québec et du Canada, 3e et 4e secondaire : 8 périodes, concepts, texte officiel de la réalité sociale, 103 thèmes et 427 éléments de connaissances, critères et 7 opérations intellectuelles du cadre (`outils/extraire_hqc.py`) |
 
+### État des PDA (10 novembre 2026)
+
+| Ordre | Validées (contrôle de logique sans erreur ou cas conformes au document) | À adapter |
+|---|---|---|
+| Primaire | Français, mathématique, science et technologie, univers social, éducation physique, art dramatique, arts plastiques, danse, musique | Anglais, langue seconde (colonne de catégories en plus, pages à image) ; Culture et citoyenneté québécoise (progression par cycle, crochets) |
+| Secondaire | Art dramatique, arts plastiques, danse, éducation physique, musique, français langue seconde (base et enrichi), intégration linguistique | Français (pages à image), mathématique (colonnes par séquence), sciences (4 PDA), univers social (géographie, histoire, monde contemporain, etc.), chimie, physique, anglais, CCQ, espagnol |
+
 Progression : `apprentissage` (flèche), `maitrise` (étoile), `reinvestissement` (case bleue), `null` (vide).
 
 Sources : documents officiels du ministère de l'Éducation du Québec (Progression des apprentissages, 2009-2011 ; Cadres d'évaluation, 2011-04-21).

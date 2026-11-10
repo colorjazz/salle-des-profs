@@ -1,0 +1,4095 @@
+{
+  "discipline": "Art dramatique",
+  "code_discipline": "ADR",
+  "ordre": "secondaire",
+  "source": "PFEQ-progression-apprentissages-art-dramatique-secondaire.pdf",
+  "annees": [
+    "1",
+    "2",
+    "3",
+    "4",
+    "5"
+  ],
+  "pages_avec_grandes_images": [],
+  "bilan": {
+    "nombre_savoirs": 196,
+    "a_verifier": 1,
+    "prioritaires": 0
+  },
+  "savoirs": [
+    {
+      "id": "ADR-ECY-001",
+      "competence": "Connaissances",
+      "section": "2e cycle : Programme optionnel Art dramatique et multimédia",
+      "chemin": [
+        "A. Jeu (1 er cycle) Jeu dramatique (2 e cycle)",
+        "1. Construction du personnage"
+      ],
+      "texte": "b. Nommer différentes utilisations du corps (ex. : attitude, gestuelle, direction du regard, rythme, démarche, actions) et de la voix (ex. : registre, accent, silence, effets vocaux) pour la construction du personnage",
+      "prioritaire": false,
+      "progression": {
+        "1": "apprentissage",
+        "2": "maitrise",
+        "3": null,
+        "4": null,
+        "5": null
+      },
+      "page": 6,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ADR-ECY-002",
+      "competence": "Connaissances",
+      "section": "2e cycle : Programme optionnel Art dramatique et multimédia",
+      "chemin": [
+        "A. Jeu (1 er cycle) Jeu dramatique (2 e cycle)",
+        "1. Construction du personnage"
+      ],
+      "texte": "c. Identifier les façons de s’approprier le texte : mémorisation, déplacement",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "maitrise",
+        "5": null
+      },
+      "page": 6,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ADR-ECY-003",
+      "competence": "Connaissances",
+      "section": "2e cycle : Programme optionnel Art dramatique et multimédia",
+      "chemin": [
+        "A. Jeu (1 er cycle) Jeu dramatique (2 e cycle)",
+        "1. Construction du personnage"
+      ],
+      "texte": "d. Décrire différentes utilisations du corps (ex. : attitude, gestuelle, direction du regard, rythme, démarche, actions) et de la voix (ex. : registre, accent, silence, effets vocaux) pour la construction du personnage",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "apprentissage",
+        "5": "maitrise"
+      },
+      "page": 6,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ADR-ECY-004",
+      "competence": "Connaissances",
+      "section": "2e cycle : Programme optionnel Art dramatique et multimédia",
+      "chemin": [
+        "A. Jeu (1 er cycle) Jeu dramatique (2 e cycle)",
+        "1. Construction du personnage"
+      ],
+      "texte": "e. Comparer entre elles les différentes façons de construire le personnage par le corps, la voix et l’appropriation du texte (ex.: action et déplacement, émotion et effets vocaux, rythme et silence)",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "apprentissage",
+        "5": "maitrise"
+      },
+      "page": 6,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ADR-ECY-005",
+      "competence": "Connaissances",
+      "section": "2e cycle : Programme optionnel Art dramatique et multimédia",
+      "chemin": [
+        "A. Jeu (1 er cycle) Jeu dramatique (2 e cycle)",
+        "2. Travail d’ensemble"
+      ],
+      "texte": "b. Donner un exemple de travail d’ensemble : scène de foule",
+      "prioritaire": false,
+      "progression": {
+        "1": "apprentissage",
+        "2": "maitrise",
+        "3": null,
+        "4": null,
+        "5": null
+      },
+      "page": 6,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ADR-ECY-006",
+      "competence": "Connaissances",
+      "section": "2e cycle : Programme optionnel Art dramatique et multimédia",
+      "chemin": [
+        "A. Jeu (1 er cycle) Jeu dramatique (2 e cycle)",
+        "2. Travail d’ensemble"
+      ],
+      "texte": "c. Identifier certains aspects du travail d’ensemble (ex. : réponse aux indications de jeu, aux repères sonores et visuels, ajustement de son jeu à celui de ses partenaires, conventions relatives à l’unité de jeu)",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "maitrise",
+        "5": null
+      },
+      "page": 6,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ADR-ECY-007",
+      "competence": "Connaissances",
+      "section": "2e cycle : Programme optionnel Art dramatique et multimédia",
+      "chemin": [
+        "A. Jeu (1 er cycle) Jeu dramatique (2 e cycle)",
+        "2. Travail d’ensemble"
+      ],
+      "texte": "d. Décrire certains aspects du travail d’ensemble",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "apprentissage",
+        "5": "maitrise"
+      },
+      "page": 6,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ADR-ECY-008",
+      "competence": "Connaissances",
+      "section": "2e cycle : Programme optionnel Art dramatique et multimédia",
+      "chemin": [
+        "A. Jeu (1 er cycle) Jeu dramatique (2 e cycle)",
+        "2. Travail d’ensemble"
+      ],
+      "texte": "e. Décrire les aspects du travail d’ensemble, y compris le jeu chorégraphique",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "apprentissage",
+        "5": "maitrise"
+      },
+      "page": 6,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ADR-ECY-009",
+      "competence": "Connaissances",
+      "section": "2e cycle : Programme optionnel Art dramatique et multimédia",
+      "chemin": [
+        "A. Jeu (1 er cycle) Jeu dramatique (2 e cycle)",
+        "2. Travail d’ensemble"
+      ],
+      "texte": "f. Décrire les aspects du travail d’ensemble dans un environnement multimédia",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "apprentissage",
+        "5": "maitrise"
+      },
+      "page": 6,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ADR-ECY-010",
+      "competence": "Connaissances",
+      "section": "2e cycle : Programme optionnel Art dramatique et multimédia",
+      "chemin": [
+        "A. Jeu (1 er cycle) Jeu dramatique (2 e cycle)",
+        "3. Techniques et moyens corporels (1 er cycle) Moyens corporels et expressifs (2 e cycle) 1"
+      ],
+      "texte": "b. Identifier des moyens corporels (ex. : amplitude, opposition, relaxation active, tonus)",
+      "prioritaire": false,
+      "progression": {
+        "1": "apprentissage",
+        "2": "maitrise",
+        "3": null,
+        "4": null,
+        "5": null
+      },
+      "page": 6,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ADR-ECY-011",
+      "competence": "Connaissances",
+      "section": "2e cycle : Programme optionnel Art dramatique et multimédia",
+      "chemin": [
+        "A. Jeu (1 er cycle) Jeu dramatique (2 e cycle)",
+        "3. Techniques et moyens corporels (1 er cycle) Moyens corporels et expressifs (2 e cycle) 1"
+      ],
+      "texte": "c. Identifier des moyens corporels y compris l’ouverture vers le public",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "maitrise",
+        "5": null
+      },
+      "page": 6,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ADR-ECY-012",
+      "competence": "Connaissances",
+      "section": "2e cycle : Programme optionnel Art dramatique et multimédia",
+      "chemin": [
+        "A. Jeu (1 er cycle) Jeu dramatique (2 e cycle)",
+        "3. Techniques et moyens corporels (1 er cycle) Moyens corporels et expressifs (2 e cycle) 1"
+      ],
+      "texte": "d. Décrire des moyens corporels (ex. : amplitude, ouverture vers le public, assouplissement)",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "apprentissage",
+        "5": "maitrise"
+      },
+      "page": 6,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ADR-ECY-013",
+      "competence": "Connaissances",
+      "section": "2e cycle : Programme optionnel Art dramatique et multimédia",
+      "chemin": [
+        "A. Jeu (1 er cycle) Jeu dramatique (2 e cycle)",
+        "3. Techniques et moyens corporels (1 er cycle) Moyens corporels et expressifs (2 e cycle) 1"
+      ],
+      "texte": "f. Comparer entre eux des moyens corporels propres à un environnement multimédia (ex. : jeu minimaliste et jeu devant la caméra, rapport fonctionnel ou symbolique à l’objet)",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "apprentissage",
+        "5": "maitrise"
+      },
+      "page": 7,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ADR-ECY-014",
+      "competence": "Connaissances",
+      "section": "2e cycle : Programme optionnel Art dramatique et multimédia",
+      "chemin": [
+        "A. Jeu (1 er cycle) Jeu dramatique (2 e cycle)",
+        "4. Techniques et moyens vocaux (1 er cycle) Moyens vocaux et expressifs (2 e cycle) 1"
+      ],
+      "texte": "b. Identifier des moyens associés à la pose de voix (ex. : respiration, assouplissement, détente, projection, articulation, prononciation, techniques et moyens vocaux, amplitude) et à la diction (ex. : accent tonique, intonation)",
+      "prioritaire": false,
+      "progression": {
+        "1": "apprentissage",
+        "2": "maitrise",
+        "3": null,
+        "4": null,
+        "5": null
+      },
+      "page": 7,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ADR-ECY-015",
+      "competence": "Connaissances",
+      "section": "2e cycle : Programme optionnel Art dramatique et multimédia",
+      "chemin": [
+        "A. Jeu (1 er cycle) Jeu dramatique (2 e cycle)",
+        "4. Techniques et moyens vocaux (1 er cycle) Moyens vocaux et expressifs (2 e cycle) 1"
+      ],
+      "texte": "c. Donner des exemples de moyens vocaux et expressifs (ex. : pose de voix, diction)",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "maitrise",
+        "5": null
+      },
+      "page": 7,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ADR-ECY-016",
+      "competence": "Connaissances",
+      "section": "2e cycle : Programme optionnel Art dramatique et multimédia",
+      "chemin": [
+        "A. Jeu (1 er cycle) Jeu dramatique (2 e cycle)",
+        "4. Techniques et moyens vocaux (1 er cycle) Moyens vocaux et expressifs (2 e cycle) 1"
+      ],
+      "texte": "d. Décrire des moyens associés à la pose de voix (ex. : respiration, assouplissement, détente, projection, articulation, prononciation, techniques et moyens vocaux, amplitude) et à la diction (ex. : accent tonique, intonation)",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "apprentissage",
+        "5": "maitrise"
+      },
+      "page": 7,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ADR-ECY-017",
+      "competence": "Connaissances",
+      "section": "2e cycle : Programme optionnel Art dramatique et multimédia",
+      "chemin": [
+        "A. Jeu (1 er cycle) Jeu dramatique (2 e cycle)",
+        "4. Techniques et moyens vocaux (1 er cycle) Moyens vocaux et expressifs (2 e cycle) 1"
+      ],
+      "texte": "e. Comparer entre eux les différents moyens vocaux (ex. : pose de voix et diction, niveaux de langue et diction)",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "apprentissage",
+        "5": "maitrise"
+      },
+      "page": 7,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ADR-ECY-018",
+      "competence": "Connaissances",
+      "section": "2e cycle : Programme optionnel Art dramatique et multimédia",
+      "chemin": [
+        "A. Jeu (1 er cycle) Jeu dramatique (2 e cycle)",
+        "4. Techniques et moyens vocaux (1 er cycle) Moyens vocaux et expressifs (2 e cycle) 1"
+      ],
+      "texte": "f. Comparer entre eux les différents moyens vocaux associés à un environnement multimédia (ex : expressivité et jeu devant le micro, composition vocale et doublage)",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "apprentissage",
+        "5": "maitrise"
+      },
+      "page": 7,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ADR-ECY-019",
+      "competence": "Connaissances",
+      "section": "2e cycle : Programme optionnel Art dramatique et multimédia",
+      "chemin": [
+        "A. Jeu (1 er cycle) Jeu dramatique (2 e cycle)",
+        "5. Type de discours (2 e cycle)"
+      ],
+      "texte": "a. Dégager les caractéristiques du monologue dans le jeu dramatique.",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "apprentissage",
+        "5": "maitrise"
+      },
+      "page": 7,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ADR-ECY-020",
+      "competence": "Connaissances",
+      "section": "2e cycle : Programme optionnel Art dramatique et multimédia",
+      "chemin": [
+        "B. Dramaturgie (1 er cycle) Structure dramatique (2 e cycle)",
+        "1. Caractère du personnage"
+      ],
+      "texte": "b. Nommer les caractéristiques suivantes liées au caractère du personnage : traits distinctifs, intention, rôle dans l’action, aspects historiques",
+      "prioritaire": false,
+      "progression": {
+        "1": "apprentissage",
+        "2": "maitrise",
+        "3": null,
+        "4": null,
+        "5": null
+      },
+      "page": 7,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ADR-ECY-021",
+      "competence": "Connaissances",
+      "section": "2e cycle : Programme optionnel Art dramatique et multimédia",
+      "chemin": [
+        "B. Dramaturgie (1 er cycle) Structure dramatique (2 e cycle)",
+        "1. Caractère du personnage"
+      ],
+      "texte": "c. Identifier les caractéristiques liées au caractère du personnage, y compris les aspects socioculturels",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "maitrise",
+        "5": null
+      },
+      "page": 7,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ADR-ECY-022",
+      "competence": "Connaissances",
+      "section": "2e cycle : Programme optionnel Art dramatique et multimédia",
+      "chemin": [
+        "B. Dramaturgie (1 er cycle) Structure dramatique (2 e cycle)",
+        "1. Caractère du personnage"
+      ],
+      "texte": "d. Décrire des caractéristiques liées au caractère du personnage, y compris les aspects socioculturels",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "apprentissage",
+        "5": "maitrise"
+      },
+      "page": 7,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ADR-ECY-023",
+      "competence": "Connaissances",
+      "section": "2e cycle : Programme optionnel Art dramatique et multimédia",
+      "chemin": [
+        "B. Dramaturgie (1 er cycle) Structure dramatique (2 e cycle)",
+        "1. Caractère du personnage"
+      ],
+      "texte": "e. Comparer entre elles les caractéristiques liées au caractère du personnage (ex. : intention et rôle dans l’action dramatique, traits distinctifs et aspects socioculturels)",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "apprentissage",
+        "5": "maitrise"
+      },
+      "page": 7,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ADR-ECY-024",
+      "competence": "Connaissances",
+      "section": "2e cycle : Programme optionnel Art dramatique et multimédia",
+      "chemin": [
+        "B. Dramaturgie (1 er cycle) Structure dramatique (2 e cycle)",
+        "2. Moyens dramaturgiques et structure dramatique"
+      ],
+      "texte": "b. Identifier des moyens dramaturgiques (ex. : canevas, écritures scéniques, textes dramatiques) et des éléments de structure dramatique (ex. : action dramatique, ressorts dramatiques)",
+      "prioritaire": false,
+      "progression": {
+        "1": "apprentissage",
+        "2": "maitrise",
+        "3": null,
+        "4": null,
+        "5": null
+      },
+      "page": 7,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ADR-ECY-025",
+      "competence": "Connaissances",
+      "section": "2e cycle : Programme optionnel Art dramatique et multimédia",
+      "chemin": [
+        "B. Dramaturgie (1 er cycle) Structure dramatique (2 e cycle)",
+        "2. Moyens dramaturgiques et structure dramatique"
+      ],
+      "texte": "c. Identifier les moyens dramaturgiques suivants : canevas, texte dramatique, constitution de l’œuvre",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "maitrise",
+        "5": null
+      },
+      "page": 7,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ADR-ECY-026",
+      "competence": "Connaissances",
+      "section": "2e cycle : Programme optionnel Art dramatique et multimédia",
+      "chemin": [
+        "B. Dramaturgie (1 er cycle) Structure dramatique (2 e cycle)",
+        "2. Moyens dramaturgiques et structure dramatique"
+      ],
+      "texte": "d. Décrire les moyens dramaturgiques suivants : canevas, texte dramatique, constitution de l’œuvre",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "apprentissage",
+        "5": "maitrise"
+      },
+      "page": 7,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ADR-ECY-027",
+      "competence": "Connaissances",
+      "section": "2e cycle : Programme optionnel Art dramatique et multimédia",
+      "chemin": [
+        "B. Dramaturgie (1 er cycle) Structure dramatique (2 e cycle)",
+        "2. Moyens dramaturgiques et structure dramatique"
+      ],
+      "texte": "e. Comparer entre eux les moyens dramaturgiques (ex. : canevas et texte dramatique, ressort et dénouement)",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "apprentissage",
+        "5": "maitrise"
+      },
+      "page": 7,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ADR-ECY-028",
+      "competence": "Connaissances",
+      "section": "2e cycle : Programme optionnel Art dramatique et multimédia",
+      "chemin": [
+        "B. Dramaturgie (1 er cycle) Structure dramatique (2 e cycle)",
+        "2. Moyens dramaturgiques et structure dramatique"
+      ],
+      "texte": "f. Comparer entre eux des moyens dramaturgiques propres à un environnement multimédia (ex. : synopsis et scénario, séquences et ellipse)",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "apprentissage",
+        "5": "maitrise"
+      },
+      "page": 7,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ADR-ECY-029",
+      "competence": "Connaissances",
+      "section": "2e cycle : Programme optionnel Art dramatique et multimédia",
+      "chemin": [
+        "B. Dramaturgie (1 er cycle) Structure dramatique (2 e cycle)",
+        "3. Types de discours"
+      ],
+      "texte": "a. Identifier les types de discours suivants : aparté, didascalie, dialogue",
+      "prioritaire": false,
+      "progression": {
+        "1": "apprentissage",
+        "2": "maitrise",
+        "3": null,
+        "4": null,
+        "5": null
+      },
+      "page": 7,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ADR-ECY-030",
+      "competence": "Connaissances",
+      "section": "2e cycle : Programme optionnel Art dramatique et multimédia",
+      "chemin": [
+        "B. Dramaturgie (1 er cycle) Structure dramatique (2 e cycle)",
+        "3. Types de discours"
+      ],
+      "texte": "b. Différencier l’aparté de la didascalie",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "maitrise",
+        "5": null
+      },
+      "page": 7,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ADR-ECY-031",
+      "competence": "Connaissances",
+      "section": "2e cycle : Programme optionnel Art dramatique et multimédia",
+      "chemin": [
+        "B. Dramaturgie (1 er cycle) Structure dramatique (2 e cycle)",
+        "3. Types de discours"
+      ],
+      "texte": "c. Décrire les types de discours suivants : aparté, didascalie, dialogue",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "apprentissage",
+        "5": "maitrise"
+      },
+      "page": 8,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ADR-ECY-032",
+      "competence": "Connaissances",
+      "section": "2e cycle : Programme optionnel Art dramatique et multimédia",
+      "chemin": [
+        "B. Dramaturgie (1 er cycle) Structure dramatique (2 e cycle)",
+        "3. Types de discours"
+      ],
+      "texte": "d. Décrire le rôle du monologue et comparer les types de discours suivants : aparté, didascalie, dialogue",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "apprentissage",
+        "5": "maitrise"
+      },
+      "page": 8,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ADR-ECY-033",
+      "competence": "Connaissances",
+      "section": "2e cycle : Programme optionnel Art dramatique et multimédia",
+      "chemin": [
+        "B. Dramaturgie (1 er cycle) Structure dramatique (2 e cycle)",
+        "3. Types de discours"
+      ],
+      "texte": "e. Décrire la narration, la publicité et comparer les types de discours suivants : aparté, didascalie, dialogue",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "apprentissage",
+        "5": "maitrise"
+      },
+      "page": 8,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ADR-ECY-034",
+      "competence": "Connaissances",
+      "section": "2e cycle : Programme optionnel Art dramatique et multimédia",
+      "chemin": [
+        "B. Dramaturgie (1 er cycle) Structure dramatique (2 e cycle)",
+        "4. Genres"
+      ],
+      "texte": "a. Différencier la comédie du drame",
+      "prioritaire": false,
+      "progression": {
+        "1": "apprentissage",
+        "2": "maitrise",
+        "3": null,
+        "4": null,
+        "5": null
+      },
+      "page": 8,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ADR-ECY-035",
+      "competence": "Connaissances",
+      "section": "2e cycle : Programme optionnel Art dramatique et multimédia",
+      "chemin": [
+        "B. Dramaturgie (1 er cycle) Structure dramatique (2 e cycle)",
+        "5. Conventions"
+      ],
+      "texte": "a. Nommer deux types de conventions dramaturgiques : traitement du temps et de l’espace",
+      "prioritaire": false,
+      "progression": {
+        "1": "apprentissage",
+        "2": "maitrise",
+        "3": null,
+        "4": null,
+        "5": null
+      },
+      "page": 8,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ADR-ECY-036",
+      "competence": "Connaissances",
+      "section": "2e cycle : Programme optionnel Art dramatique et multimédia",
+      "chemin": [
+        "B. Dramaturgie (1 er cycle) Structure dramatique (2 e cycle)",
+        "5. Conventions"
+      ],
+      "texte": "b. Énumérer trois types de conventions dramaturgiques : traitement du temps, de l’espace et de l’action",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "maitrise",
+        "5": null
+      },
+      "page": 8,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ADR-ECY-037",
+      "competence": "Connaissances",
+      "section": "2e cycle : Programme optionnel Art dramatique et multimédia",
+      "chemin": [
+        "B. Dramaturgie (1 er cycle) Structure dramatique (2 e cycle)",
+        "5. Conventions"
+      ],
+      "texte": "c. Décrire des types de conventions dramaturgiques (ex. : traitement du temps, de l’espace et de l’action)",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "apprentissage",
+        "5": "maitrise"
+      },
+      "page": 8,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ADR-ECY-038",
+      "competence": "Connaissances",
+      "section": "2e cycle : Programme optionnel Art dramatique et multimédia",
+      "chemin": [
+        "B. Dramaturgie (1 er cycle) Structure dramatique (2 e cycle)",
+        "5. Conventions"
+      ],
+      "texte": "d. Décrire les différents types de traitement dramaturgique",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "apprentissage",
+        "5": "maitrise"
+      },
+      "page": 8,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ADR-ECY-039",
+      "competence": "Connaissances",
+      "section": "2e cycle : Programme optionnel Art dramatique et multimédia",
+      "chemin": [
+        "B. Dramaturgie (1 er cycle) Structure dramatique (2 e cycle)",
+        "6. Formes dramaturgiques"
+      ],
+      "texte": "a. Décrire les formes dramaturgiques suivantes : théâtre pour les enfants et les jeunes, théâtre de rue, théâtre d’intervention",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "apprentissage",
+        "5": "maitrise"
+      },
+      "page": 8,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ADR-ECY-040",
+      "competence": "Connaissances",
+      "section": "2e cycle : Programme optionnel Art dramatique et multimédia",
+      "chemin": [
+        "B. Dramaturgie (1 er cycle) Structure dramatique (2 e cycle)",
+        "6. Formes dramaturgiques"
+      ],
+      "texte": "b. Comparer entre elles des formes dramaturgiques propres à un environnement multimédia (ex. : dramatisation audio et dramatisation vidéo, radiothéâtre et photothéâtre)",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "apprentissage",
+        "5": "maitrise"
+      },
+      "page": 8,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ADR-ECY-041",
+      "competence": "Connaissances",
+      "section": "2e cycle : Programme optionnel Art dramatique et multimédia",
+      "chemin": [
+        "B. Dramaturgie (1 er cycle) Structure dramatique (2 e cycle)",
+        "7. Courants esthétiques"
+      ],
+      "texte": "a. Décrire les caractéristiques des courants esthétiques suivants : classique, réaliste, symbolique, surréaliste, absurde",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "apprentissage",
+        "5": "maitrise"
+      },
+      "page": 8,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ADR-ECY-042",
+      "competence": "Connaissances",
+      "section": "2e cycle : Programme optionnel Art dramatique et multimédia",
+      "chemin": [
+        "C. Théâtralité (1 er cycle) Structure théâtrale (2 e cycle)",
+        "1. Costumes, maquillage, décors, éclairage, environnement sonore, espace scénique (1 er cycle) Éléments visuels et sonores (2 e cycle)"
+      ],
+      "texte": "b. Nommer les aspects à considérer pour l’élaboration d’accessoires de costumes : fonctions, utilisations",
+      "prioritaire": false,
+      "progression": {
+        "1": "apprentissage",
+        "2": "maitrise",
+        "3": null,
+        "4": null,
+        "5": null
+      },
+      "page": 8,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ADR-ECY-043",
+      "competence": "Connaissances",
+      "section": "2e cycle : Programme optionnel Art dramatique et multimédia",
+      "chemin": [
+        "C. Théâtralité (1 er cycle) Structure théâtrale (2 e cycle)",
+        "1. Costumes, maquillage, décors, éclairage, environnement sonore, espace scénique (1 er cycle) Éléments visuels et sonores (2 e cycle)"
+      ],
+      "texte": "c. Nommer les aspects à considérer pour l’élaboration des éléments de décors : fonctions et utilisations d’objets, changement à vue",
+      "prioritaire": false,
+      "progression": {
+        "1": "apprentissage",
+        "2": "maitrise",
+        "3": null,
+        "4": null,
+        "5": null
+      },
+      "page": 8,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ADR-ECY-044",
+      "competence": "Connaissances",
+      "section": "2e cycle : Programme optionnel Art dramatique et multimédia",
+      "chemin": [
+        "C. Théâtralité (1 er cycle) Structure théâtrale (2 e cycle)",
+        "1. Costumes, maquillage, décors, éclairage, environnement sonore, espace scénique (1 er cycle) Éléments visuels et sonores (2 e cycle)"
+      ],
+      "texte": "d. Nommer des éléments de l’espace scénique (ex. : coulisses, cadres de scène, avant-scène, arrière-scène)",
+      "prioritaire": false,
+      "progression": {
+        "1": "apprentissage",
+        "2": "maitrise",
+        "3": null,
+        "4": null,
+        "5": null
+      },
+      "page": 8,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ADR-ECY-045",
+      "competence": "Connaissances",
+      "section": "2e cycle : Programme optionnel Art dramatique et multimédia",
+      "chemin": [
+        "C. Théâtralité (1 er cycle) Structure théâtrale (2 e cycle)",
+        "1. Costumes, maquillage, décors, éclairage, environnement sonore, espace scénique (1 er cycle) Éléments visuels et sonores (2 e cycle)"
+      ],
+      "texte": "e. Nommer des caractéristiques relatives à l’éclairage (ex. : fonctions et utilisations de la lumière, effets des éclairages simples), à l’environnement sonore (ex. : fonctions et utilisations du son, effets sonores) et à l’espace scénographique (ex. : rapport scène/salle)",
+      "prioritaire": false,
+      "progression": {
+        "1": "apprentissage",
+        "2": "maitrise",
+        "3": null,
+        "4": null,
+        "5": null
+      },
+      "page": 8,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ADR-ECY-046",
+      "competence": "Connaissances",
+      "section": "2e cycle : Programme optionnel Art dramatique et multimédia",
+      "chemin": [
+        "C. Théâtralité (1 er cycle) Structure théâtrale (2 e cycle)",
+        "1. Costumes, maquillage, décors, éclairage, environnement sonore, espace scénique (1 er cycle) Éléments visuels et sonores (2 e cycle)"
+      ],
+      "texte": "f. Décrire les aspects à considérer pour l’élaboration de costumes : fonctions et utilisations de costumes et d’accessoires de costumes",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "maitrise",
+        "5": null
+      },
+      "page": 8,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ADR-ECY-047",
+      "competence": "Connaissances",
+      "section": "2e cycle : Programme optionnel Art dramatique et multimédia",
+      "chemin": [
+        "C. Théâtralité (1 er cycle) Structure théâtrale (2 e cycle)",
+        "1. Costumes, maquillage, décors, éclairage, environnement sonore, espace scénique (1 er cycle) Éléments visuels et sonores (2 e cycle)"
+      ],
+      "texte": "g. Décrire l’organisation et le découpage d’un espace scénique",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "apprentissage",
+        "5": "maitrise"
+      },
+      "page": 8,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ADR-ECY-048",
+      "competence": "Connaissances",
+      "section": "2e cycle : Programme optionnel Art dramatique et multimédia",
+      "chemin": [
+        "C. Théâtralité (1 er cycle) Structure théâtrale (2 e cycle)",
+        "1. Costumes, maquillage, décors, éclairage, environnement sonore, espace scénique (1 er cycle) Éléments visuels et sonores (2 e cycle)"
+      ],
+      "texte": "h. Décrire des aspects à considérer pour l’élaboration de décors (ex. : fonctions et utilisations d’objets, changement à vue, rapport scène/salle), de l’éclairage (ex. : utilisation, effets simples) et de l’environnement sonore (ex. : utilisation, effets)",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "apprentissage",
+        "5": "maitrise"
+      },
+      "page": 8,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ADR-ECY-049",
+      "competence": "Connaissances",
+      "section": "2e cycle : Programme optionnel Art dramatique et multimédia",
+      "chemin": [
+        "C. Théâtralité (1 er cycle) Structure théâtrale (2 e cycle)",
+        "1. Costumes, maquillage, décors, éclairage, environnement sonore, espace scénique (1 er cycle) Éléments visuels et sonores (2 e cycle)",
+        "a. Distinguer la transposition de l’aire de jeu de celle de la représentation P"
+      ],
+      "texte": "j. Comparer entre eux des aspects à considérer pour l’élaboration des éléments visuels et sonores associés à un environnement multimédia (ex. : fonction de la lumière et décor sonore, choix scénographique et environnement visuel)",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "apprentissage",
+        "5": "maitrise"
+      },
+      "page": 9,
+      "a_verifier": true,
+      "note": "Ligne sans marqueur de liste : vérifier le découpage."
+    },
+    {
+      "id": "ADR-ECY-050",
+      "competence": "Connaissances",
+      "section": "2e cycle : Programme optionnel Art dramatique et multimédia",
+      "chemin": [
+        "C. Théâtralité (1 er cycle) Structure théâtrale (2 e cycle)",
+        "2. Mise en scène, travail d’ensemble"
+      ],
+      "texte": "a. Identifier des aspects de la mise en scène (ex. : mise en place, réponse aux indications de jeu, réponse aux repères sonores et visuels, ajustement de son jeu à celui de partenaires, conventions relatives à l’unité de jeu)",
+      "prioritaire": false,
+      "progression": {
+        "1": "apprentissage",
+        "2": "maitrise",
+        "3": null,
+        "4": null,
+        "5": null
+      },
+      "page": 9,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ADR-ECY-051",
+      "competence": "Connaissances",
+      "section": "2e cycle : Programme optionnel Art dramatique et multimédia",
+      "chemin": [
+        "C. Théâtralité (1 er cycle) Structure théâtrale (2 e cycle)",
+        "2. Mise en scène, travail d’ensemble"
+      ],
+      "texte": "b. Identifier les aspects du travail d’ensemble : mise en place et conventions relatives à l’unité de jeu",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "maitrise",
+        "5": null
+      },
+      "page": 9,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ADR-ECY-052",
+      "competence": "Connaissances",
+      "section": "2e cycle : Programme optionnel Art dramatique et multimédia",
+      "chemin": [
+        "C. Théâtralité (1 er cycle) Structure théâtrale (2 e cycle)",
+        "2. Mise en scène, travail d’ensemble"
+      ],
+      "texte": "c. Décrire les aspects relatifs au travail d’ensemble : mise en place, conventions relatives à l’unité de jeu",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "apprentissage",
+        "5": "maitrise"
+      },
+      "page": 9,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ADR-ECY-053",
+      "competence": "Connaissances",
+      "section": "2e cycle : Programme optionnel Art dramatique et multimédia",
+      "chemin": [
+        "C. Théâtralité (1 er cycle) Structure théâtrale (2 e cycle)",
+        "3. Procédés de réalisation, espace multimédia"
+      ],
+      "texte": "a. Décrire les procédés de réalisation suivants : travail de table, mise en place, captation du son ou de l’image",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "apprentissage",
+        "5": "maitrise"
+      },
+      "page": 9,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ADR-ECY-054",
+      "competence": "Connaissances",
+      "section": "2e cycle : Programme optionnel Art dramatique et multimédia",
+      "chemin": [
+        "C. Théâtralité (1 er cycle) Structure théâtrale (2 e cycle)",
+        "3. Procédés de réalisation, espace multimédia"
+      ],
+      "texte": "b. Décrire les caractéristiques de l’espace multimédia suivantes : rapport avec le médium, plan des aires des angles de jeu",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "apprentissage",
+        "5": "maitrise"
+      },
+      "page": 9,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ADR-ECY-055",
+      "competence": "Connaissances",
+      "section": "2e cycle : Programme optionnel Art dramatique et multimédia",
+      "chemin": [
+        "C. Théâtralité (1 er cycle) Structure théâtrale (2 e cycle)",
+        "4. Techniques théâtrales"
+      ],
+      "texte": "b. Énumérer les différentes techniques théâtrales suivantes : jeu masqué, ombres corporelles, marionnettes, jeu clownesque, théâtre noir",
+      "prioritaire": false,
+      "progression": {
+        "1": "apprentissage",
+        "2": "maitrise",
+        "3": null,
+        "4": null,
+        "5": null
+      },
+      "page": 9,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ADR-ECY-056",
+      "competence": "Connaissances",
+      "section": "2e cycle : Programme optionnel Art dramatique et multimédia",
+      "chemin": [
+        "C. Théâtralité (1 er cycle) Structure théâtrale (2 e cycle)",
+        "4. Techniques théâtrales"
+      ],
+      "texte": "c. Identifier les techniques théâtrales suivantes : jeu masqué (ex. : masque neutre, masque larvaire, commedia dell’arte), ombres corporelles, marionnettes, jeu clownesque, théâtre noir",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "maitrise",
+        "5": null
+      },
+      "page": 9,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ADR-ECY-057",
+      "competence": "Connaissances",
+      "section": "2e cycle : Programme optionnel Art dramatique et multimédia",
+      "chemin": [
+        "C. Théâtralité (1 er cycle) Structure théâtrale (2 e cycle)",
+        "4. Techniques théâtrales"
+      ],
+      "texte": "d. Décrire les différentes techniques théâtrales suivantes : jeu masqué (ex. : masque neutre, masque larvaire, commedia dell’arte), ombres corporelles, marionnettes, jeu clownesque, théâtre noir",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "apprentissage",
+        "5": "maitrise"
+      },
+      "page": 9,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ADR-ECY-058",
+      "competence": "Connaissances",
+      "section": "2e cycle : Programme optionnel Art dramatique et multimédia",
+      "chemin": [
+        "C. Théâtralité (1 er cycle) Structure théâtrale (2 e cycle)",
+        "4. Techniques théâtrales"
+      ],
+      "texte": "e. Comparer entre elles les techniques théâtrales (ex. : masque neutre et masque de la commedia dell’arte, théâtre noir et ombres corporelles)",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "apprentissage",
+        "5": "maitrise"
+      },
+      "page": 9,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ADR-ECY-059",
+      "competence": "Connaissances",
+      "section": "2e cycle : Programme optionnel Art dramatique et multimédia",
+      "chemin": [
+        "D. Répertoire dramatique et repères culturels"
+      ],
+      "texte": "b. Nommer des œuvres dramatiques provenant du répertoire théâtral québécois et celui d’autres cultures",
+      "prioritaire": false,
+      "progression": {
+        "1": "apprentissage",
+        "2": "maitrise",
+        "3": null,
+        "4": null,
+        "5": null
+      },
+      "page": 9,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ADR-ECY-060",
+      "competence": "Connaissances",
+      "section": "2e cycle : Programme optionnel Art dramatique et multimédia",
+      "chemin": [
+        "D. Répertoire dramatique et repères culturels"
+      ],
+      "texte": "c. Identifier la dimension culturelle de certains repères pouvant être utilisés au théâtre (ex. : les masques de la commedia dell’arte qui font référence au théâtre italien)",
+      "prioritaire": false,
+      "progression": {
+        "1": "apprentissage",
+        "2": "maitrise",
+        "3": null,
+        "4": null,
+        "5": null
+      },
+      "page": 9,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ADR-ECY-061",
+      "competence": "Connaissances",
+      "section": "2e cycle : Programme optionnel Art dramatique et multimédia",
+      "chemin": [
+        "D. Répertoire dramatique et repères culturels"
+      ],
+      "texte": "d. Nommer les courants esthétiques suivants : classique, réaliste, symboliste, surréaliste, absurde",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "maitrise",
+        "5": null
+      },
+      "page": 9,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ADR-ECY-062",
+      "competence": "Connaissances",
+      "section": "2e cycle : Programme optionnel Art dramatique et multimédia",
+      "chemin": [
+        "D. Répertoire dramatique et repères culturels"
+      ],
+      "texte": "e. Associer des œuvres théâtrales à des genres dramatiques",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "apprentissage",
+        "5": "maitrise"
+      },
+      "page": 9,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ADR-ECY-063",
+      "competence": "Connaissances",
+      "section": "2e cycle : Programme optionnel Art dramatique et multimédia",
+      "chemin": [
+        "D. Répertoire dramatique et repères culturels"
+      ],
+      "texte": "f. Associer des repères culturels à la culture québécoise ou à d’autres cultures (ex. : la fleur de lys est l’emblème du Québec; le kimono appartient à la culture japonaise)",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "apprentissage",
+        "5": "maitrise"
+      },
+      "page": 9,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ADR-ECY-064",
+      "competence": "Connaissances",
+      "section": "2e cycle : Programme optionnel Art dramatique et multimédia",
+      "chemin": [
+        "D. Répertoire dramatique et repères culturels"
+      ],
+      "texte": "g. Nommer des œuvres et des auteurs de différents courants esthétiques",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "apprentissage",
+        "5": "maitrise"
+      },
+      "page": 9,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ADR-ECY-065",
+      "competence": "Connaissances",
+      "section": "2e cycle : Programme optionnel Art dramatique et multimédia",
+      "chemin": [
+        "D. Répertoire dramatique et repères culturels"
+      ],
+      "texte": "h. Nommer différents types de théâtre (ex. : théâtre de boulevard, théâtre d’environnement, théâtre de rue, théâtre d’image, théâtre d’objet, théâtre expérimental, théâtre invisible)",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "apprentissage",
+        "5": "maitrise"
+      },
+      "page": 9,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ADR-ECY-066",
+      "competence": "Connaissances",
+      "section": "2e cycle : Programme optionnel Art dramatique et multimédia",
+      "chemin": [
+        "D. Répertoire dramatique et repères culturels",
+        "a. Types d’extraits 2 P"
+      ],
+      "texte": "i. Nommer des créateurs multimédias et certaines de leurs œuvres",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "apprentissage",
+        "5": "maitrise"
+      },
+      "page": 9,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ADR-CRE-001",
+      "competence": "1 – Créer des œuvres dramatiques",
+      "section": null,
+      "chemin": [
+        "A. Exploiter des idées en vue d’une création dramatique"
+      ],
+      "texte": "b. Trouver des idées de situations dramatiques liées aux éléments du langage dramatique qui émergent de la proposition de création (ex. : rôle des personnages dans l’action dramatique, genre comique ou dramatique de la création)",
+      "prioritaire": false,
+      "progression": {
+        "1": "apprentissage",
+        "2": "maitrise",
+        "3": null,
+        "4": null,
+        "5": null
+      },
+      "page": 11,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ADR-CRE-002",
+      "competence": "1 – Créer des œuvres dramatiques",
+      "section": null,
+      "chemin": [
+        "A. Exploiter des idées en vue d’une création dramatique"
+      ],
+      "texte": "c. Mettre à l’essai des idées de situations dramatiques liées au contenu de la création et adaptées à une improvisation ou une composition 1 (ex. : gestuelle et attitude liées au personnage à jouer, différentes façons de traduire le dénouement d’une situation dramatique dans l’espace)",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "maitrise",
+        "5": null
+      },
+      "page": 11,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ADR-CRE-003",
+      "competence": "1 – Créer des œuvres dramatiques",
+      "section": null,
+      "chemin": [
+        "A. Exploiter des idées en vue d’une création dramatique"
+      ],
+      "texte": "d. Mettre à l’essai des idées de situations dramatiques liées au contenu de la création et adaptées à une composition ou à une mise en scène 1 (ex. : différentes façons de présenter la trame dramatique à l’aide d’une technique théâtrale, idées d’éléments de décors pouvant supporter la transposition scénique)",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "apprentissage",
+        "5": "maitrise"
+      },
+      "page": 11,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ADR-CRE-004",
+      "competence": "1 – Créer des œuvres dramatiques",
+      "section": null,
+      "chemin": [
+        "A. Exploiter des idées en vue d’une création dramatique"
+      ],
+      "texte": "e. Mettre à l’essai et choisir des idées de situations dramatiques adaptées à une improvisation, une composition, une mise en scène ou une adaptation 1 (ex. : sélection des actions, ressorts et dénouement sur lesquels la création prendra appui pour l’adaptation d’une œuvre littéraire, sélection d’éléments visuels et sonores qui serviront à théâtraliser des idées)",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "apprentissage",
+        "5": "maitrise"
+      },
+      "page": 11,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ADR-CRE-005",
+      "competence": "1 – Créer des œuvres dramatiques",
+      "section": null,
+      "chemin": [
+        "A. Exploiter des idées en vue d’une création dramatique"
+      ],
+      "texte": "f. Mettre à l’essai et choisir des idées de situations dramatiques adaptées à une composition, une réalisation ou une adaptation multimédia 1 (ex. : narration pour présenter une trame dramatique discontinue, choix de certains effets sonores qui pourront créer des atmosphères particulières pour une dramatisation audio)",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "apprentissage",
+        "5": "maitrise"
+      },
+      "page": 11,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ADR-CRE-006",
+      "competence": "1 – Créer des œuvres dramatiques",
+      "section": null,
+      "chemin": [
+        "B. Exploiter des éléments du langage dramatique et de techniques (1 er cycle) Exploiter des éléments du langage dramatique liés à la discipline (2 e cycle) 2",
+        "1. Dramaturgie (1 er cycle) Structure dramatique (2 e cycle) 1.1. Genres"
+      ],
+      "texte": "a. Ébaucher, au moyen de l’improvisation, des situations dramatiques axées sur le genre comique ou dramatique 1.2. Formes dramaturgiques",
+      "prioritaire": false,
+      "progression": {
+        "1": "apprentissage",
+        "2": "maitrise",
+        "3": null,
+        "4": null,
+        "5": null
+      },
+      "page": 11,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ADR-CRE-007",
+      "competence": "1 – Créer des œuvres dramatiques",
+      "section": null,
+      "chemin": [
+        "B. Exploiter des éléments du langage dramatique et de techniques (1 er cycle) Exploiter des éléments du langage dramatique liés à la discipline (2 e cycle) 2",
+        "1. Dramaturgie (1 er cycle) Structure dramatique (2 e cycle) 1.1. Genres"
+      ],
+      "texte": "a. Ébaucher des situations dramatiques axées sur le théâtre pour les enfants et les jeunes, le théâtre de rue ou le théâtre d’intervention",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "apprentissage",
+        "5": "maitrise"
+      },
+      "page": 11,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ADR-CRE-008",
+      "competence": "1 – Créer des œuvres dramatiques",
+      "section": null,
+      "chemin": [
+        "B. Exploiter des éléments du langage dramatique et de techniques (1 er cycle) Exploiter des éléments du langage dramatique liés à la discipline (2 e cycle) 2",
+        "1. Dramaturgie (1 er cycle) Structure dramatique (2 e cycle) 1.1. Genres"
+      ],
+      "texte": "b. Décrire le caractère d’un personnage (ex. : traits distinctifs, intention, rôle dans l’action, caractéristiques historiques)",
+      "prioritaire": false,
+      "progression": {
+        "1": "apprentissage",
+        "2": "maitrise",
+        "3": null,
+        "4": null,
+        "5": null
+      },
+      "page": 12,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ADR-CRE-009",
+      "competence": "1 – Créer des œuvres dramatiques",
+      "section": null,
+      "chemin": [
+        "B. Exploiter des éléments du langage dramatique et de techniques (1 er cycle) Exploiter des éléments du langage dramatique liés à la discipline (2 e cycle) 2",
+        "1. Dramaturgie (1 er cycle) Structure dramatique (2 e cycle) 1.1. Genres"
+      ],
+      "texte": "c. Décrire le caractère d’un personnage à l’aide de certaines caractéristiques socioculturelles",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "maitrise",
+        "5": null
+      },
+      "page": 12,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ADR-CRE-010",
+      "competence": "1 – Créer des œuvres dramatiques",
+      "section": null,
+      "chemin": [
+        "B. Exploiter des éléments du langage dramatique et de techniques (1 er cycle) Exploiter des éléments du langage dramatique liés à la discipline (2 e cycle) 2",
+        "1. Dramaturgie (1 er cycle) Structure dramatique (2 e cycle) 1.1. Genres"
+      ],
+      "texte": "d. Décrire le caractère d’un personnage à l’aide de certaines caractéristiques socioculturelles ou historiques",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "apprentissage",
+        "5": "maitrise"
+      },
+      "page": 12,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ADR-CRE-011",
+      "competence": "1 – Créer des œuvres dramatiques",
+      "section": null,
+      "chemin": [
+        "B. Exploiter des éléments du langage dramatique et de techniques (1 er cycle) Exploiter des éléments du langage dramatique liés à la discipline (2 e cycle) 2",
+        "1. Dramaturgie (1 er cycle) Structure dramatique (2 e cycle) 1.1. Genres"
+      ],
+      "texte": "e. Décrire le caractère d’un personnage à l’aide de caractéristiques historiques et socioculturelles 1.4. Moyens dramaturgiques, structure dramatique, types de discours, conventions",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "apprentissage",
+        "5": "maitrise"
+      },
+      "page": 12,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ADR-CRE-012",
+      "competence": "1 – Créer des œuvres dramatiques",
+      "section": null,
+      "chemin": [
+        "B. Exploiter des éléments du langage dramatique et de techniques (1 er cycle) Exploiter des éléments du langage dramatique liés à la discipline (2 e cycle) 2",
+        "1. Dramaturgie (1 er cycle) Structure dramatique (2 e cycle) 1.1. Genres"
+      ],
+      "texte": "b. Ébaucher, au moyen de l’improvisation, des situations dramatiques qui comportent des actions et des ressorts dramatiques",
+      "prioritaire": false,
+      "progression": {
+        "1": "apprentissage",
+        "2": "maitrise",
+        "3": null,
+        "4": null,
+        "5": null
+      },
+      "page": 12,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ADR-CRE-013",
+      "competence": "1 – Créer des œuvres dramatiques",
+      "section": null,
+      "chemin": [
+        "B. Exploiter des éléments du langage dramatique et de techniques (1 er cycle) Exploiter des éléments du langage dramatique liés à la discipline (2 e cycle) 2",
+        "1. Dramaturgie (1 er cycle) Structure dramatique (2 e cycle) 1.1. Genres"
+      ],
+      "texte": "c. Ébaucher, au moyen de l’improvisation, des situations dramatiques axées sur le dialogue",
+      "prioritaire": false,
+      "progression": {
+        "1": "apprentissage",
+        "2": "maitrise",
+        "3": null,
+        "4": null,
+        "5": null
+      },
+      "page": 12,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ADR-CRE-014",
+      "competence": "1 – Créer des œuvres dramatiques",
+      "section": null,
+      "chemin": [
+        "B. Exploiter des éléments du langage dramatique et de techniques (1 er cycle) Exploiter des éléments du langage dramatique liés à la discipline (2 e cycle) 2",
+        "1. Dramaturgie (1 er cycle) Structure dramatique (2 e cycle) 1.1. Genres"
+      ],
+      "texte": "d. Ébaucher, au moyen de l’improvisation, des situations dramatiques en y insérant des indices de temps ou d’espace",
+      "prioritaire": false,
+      "progression": {
+        "1": "apprentissage",
+        "2": "maitrise",
+        "3": null,
+        "4": null,
+        "5": null
+      },
+      "page": 12,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ADR-CRE-015",
+      "competence": "1 – Créer des œuvres dramatiques",
+      "section": null,
+      "chemin": [
+        "B. Exploiter des éléments du langage dramatique et de techniques (1 er cycle) Exploiter des éléments du langage dramatique liés à la discipline (2 e cycle) 2",
+        "1. Dramaturgie (1 er cycle) Structure dramatique (2 e cycle) 1.1. Genres"
+      ],
+      "texte": "e. Ébaucher des situations dramatiques en y insérant des didascalies et des apartés",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "maitrise",
+        "5": null
+      },
+      "page": 12,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ADR-CRE-016",
+      "competence": "1 – Créer des œuvres dramatiques",
+      "section": null,
+      "chemin": [
+        "B. Exploiter des éléments du langage dramatique et de techniques (1 er cycle) Exploiter des éléments du langage dramatique liés à la discipline (2 e cycle) 2",
+        "1. Dramaturgie (1 er cycle) Structure dramatique (2 e cycle) 1.1. Genres"
+      ],
+      "texte": "f. Ébaucher des situations dramatiques en y insérant des indices de temps, d’espace ou d’action",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "apprentissage",
+        "5": "maitrise"
+      },
+      "page": 12,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ADR-CRE-017",
+      "competence": "1 – Créer des œuvres dramatiques",
+      "section": null,
+      "chemin": [
+        "B. Exploiter des éléments du langage dramatique et de techniques (1 er cycle) Exploiter des éléments du langage dramatique liés à la discipline (2 e cycle) 2",
+        "1. Dramaturgie (1 er cycle) Structure dramatique (2 e cycle) 1.1. Genres"
+      ],
+      "texte": "g. Ébaucher des situations dramatiques axées sur des types de discours et plus particulièrement le monologue",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "apprentissage",
+        "5": "maitrise"
+      },
+      "page": 12,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ADR-CRE-018",
+      "competence": "1 – Créer des œuvres dramatiques",
+      "section": null,
+      "chemin": [
+        "B. Exploiter des éléments du langage dramatique et de techniques (1 er cycle) Exploiter des éléments du langage dramatique liés à la discipline (2 e cycle) 2",
+        "1. Dramaturgie (1 er cycle) Structure dramatique (2 e cycle) 1.1. Genres"
+      ],
+      "texte": "h. Ébaucher des situations dramatiques en faisant appel aux éléments de structure suivants : séquence, ellipse, rupture",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "apprentissage",
+        "5": "maitrise"
+      },
+      "page": 12,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ADR-CRE-019",
+      "competence": "1 – Créer des œuvres dramatiques",
+      "section": null,
+      "chemin": [
+        "B. Exploiter des éléments du langage dramatique et de techniques (1 er cycle) Exploiter des éléments du langage dramatique liés à la discipline (2 e cycle) 2",
+        "1. Dramaturgie (1 er cycle) Structure dramatique (2 e cycle) 1.1. Genres",
+        "a. Écrire un canevas P"
+      ],
+      "texte": "i. Ébaucher des situations dramatiques axées sur la narration ou le discours publicitaire",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "apprentissage",
+        "5": "maitrise"
+      },
+      "page": 12,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ADR-CRE-020",
+      "competence": "1 – Créer des œuvres dramatiques",
+      "section": null,
+      "chemin": [
+        "B. Exploiter des éléments du langage dramatique et de techniques (1 er cycle) Exploiter des éléments du langage dramatique liés à la discipline (2 e cycle) 2",
+        "2. Jeu (1 er cycle) Jeu dramatique (2 e cycle) 2.1. Construction du personnage, travail d’ensemble Techniques et moyens corporels / Techniques et moyens vocaux (1 er cycle) Moyens corporels et expressifs / Moyens vocaux et expressifs (2 e cycle)"
+      ],
+      "texte": "b. Mettre à l’essai des situations dramatiques en utilisant le corps (ex. : attitude, gestuelle, direction du regard) ou la voix (ex. : registre, silence, effets vocaux) pour construire des personnages",
+      "prioritaire": false,
+      "progression": {
+        "1": "apprentissage",
+        "2": "maitrise",
+        "3": null,
+        "4": null,
+        "5": null
+      },
+      "page": 12,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ADR-CRE-021",
+      "competence": "1 – Créer des œuvres dramatiques",
+      "section": null,
+      "chemin": [
+        "B. Exploiter des éléments du langage dramatique et de techniques (1 er cycle) Exploiter des éléments du langage dramatique liés à la discipline (2 e cycle) 2",
+        "2. Jeu (1 er cycle) Jeu dramatique (2 e cycle) 2.1. Construction du personnage, travail d’ensemble Techniques et moyens corporels / Techniques et moyens vocaux (1 er cycle) Moyens corporels et expressifs / Moyens vocaux et expressifs (2 e cycle)"
+      ],
+      "texte": "c. Mettre à l’essai une scène de foule à partir de situations dramatiques qui s’y prêtent",
+      "prioritaire": false,
+      "progression": {
+        "1": "apprentissage",
+        "2": "maitrise",
+        "3": null,
+        "4": null,
+        "5": null
+      },
+      "page": 12,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ADR-CRE-022",
+      "competence": "1 – Créer des œuvres dramatiques",
+      "section": null,
+      "chemin": [
+        "B. Exploiter des éléments du langage dramatique et de techniques (1 er cycle) Exploiter des éléments du langage dramatique liés à la discipline (2 e cycle) 2",
+        "2. Jeu (1 er cycle) Jeu dramatique (2 e cycle) 2.1. Construction du personnage, travail d’ensemble Techniques et moyens corporels / Techniques et moyens vocaux (1 er cycle) Moyens corporels et expressifs / Moyens vocaux et expressifs (2 e cycle)"
+      ],
+      "texte": "d. Mettre à l’essai des situations dramatiques en utilisant différents moyens corporels et vocaux, plus particulièrement la diction et la pose de voix",
+      "prioritaire": false,
+      "progression": {
+        "1": "apprentissage",
+        "2": "maitrise",
+        "3": null,
+        "4": null,
+        "5": null
+      },
+      "page": 12,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ADR-CRE-023",
+      "competence": "1 – Créer des œuvres dramatiques",
+      "section": null,
+      "chemin": [
+        "B. Exploiter des éléments du langage dramatique et de techniques (1 er cycle) Exploiter des éléments du langage dramatique liés à la discipline (2 e cycle) 2",
+        "2. Jeu (1 er cycle) Jeu dramatique (2 e cycle) 2.1. Construction du personnage, travail d’ensemble Techniques et moyens corporels / Techniques et moyens vocaux (1 er cycle) Moyens corporels et expressifs / Moyens vocaux et expressifs (2 e cycle)"
+      ],
+      "texte": "e. Mettre à l’essai des situations dramatiques en utilisant des moyens corporels (ex. : assouplissement, amplitude, opposition, relaxation, tonus) et plus particulièrement l’ouverture vers le public",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "maitrise",
+        "5": null
+      },
+      "page": 12,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ADR-CRE-024",
+      "competence": "1 – Créer des œuvres dramatiques",
+      "section": null,
+      "chemin": [
+        "B. Exploiter des éléments du langage dramatique et de techniques (1 er cycle) Exploiter des éléments du langage dramatique liés à la discipline (2 e cycle) 2",
+        "2. Jeu (1 er cycle) Jeu dramatique (2 e cycle) 2.1. Construction du personnage, travail d’ensemble Techniques et moyens corporels / Techniques et moyens vocaux (1 er cycle) Moyens corporels et expressifs / Moyens vocaux et expressifs (2 e cycle)"
+      ],
+      "texte": "f. Mettre à l’essai des situations dramatiques en utilisant différents moyens corporels et vocaux pour exprimer des émotions",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "apprentissage",
+        "5": "maitrise"
+      },
+      "page": 12,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ADR-CRE-025",
+      "competence": "1 – Créer des œuvres dramatiques",
+      "section": null,
+      "chemin": [
+        "B. Exploiter des éléments du langage dramatique et de techniques (1 er cycle) Exploiter des éléments du langage dramatique liés à la discipline (2 e cycle) 2",
+        "2. Jeu (1 er cycle) Jeu dramatique (2 e cycle) 2.1. Construction du personnage, travail d’ensemble Techniques et moyens corporels / Techniques et moyens vocaux (1 er cycle) Moyens corporels et expressifs / Moyens vocaux et expressifs (2 e cycle)"
+      ],
+      "texte": "g. Mettre à l’essai le jeu chorégraphique à partir de situations dramatiques qui s’y prêtent",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "apprentissage",
+        "5": "maitrise"
+      },
+      "page": 12,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ADR-CRE-026",
+      "competence": "1 – Créer des œuvres dramatiques",
+      "section": null,
+      "chemin": [
+        "B. Exploiter des éléments du langage dramatique et de techniques (1 er cycle) Exploiter des éléments du langage dramatique liés à la discipline (2 e cycle) 2",
+        "2. Jeu (1 er cycle) Jeu dramatique (2 e cycle) 2.1. Construction du personnage, travail d’ensemble Techniques et moyens corporels / Techniques et moyens vocaux (1 er cycle) Moyens corporels et expressifs / Moyens vocaux et expressifs (2 e cycle)"
+      ],
+      "texte": "h. Mettre à l’essai différents niveaux de langue à partir de situations dramatiques qui s’y prêtent",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "apprentissage",
+        "5": "maitrise"
+      },
+      "page": 12,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ADR-CRE-027",
+      "competence": "1 – Créer des œuvres dramatiques",
+      "section": null,
+      "chemin": [
+        "B. Exploiter des éléments du langage dramatique et de techniques (1 er cycle) Exploiter des éléments du langage dramatique liés à la discipline (2 e cycle) 2",
+        "2. Jeu (1 er cycle) Jeu dramatique (2 e cycle) 2.1. Construction du personnage, travail d’ensemble Techniques et moyens corporels / Techniques et moyens vocaux (1 er cycle) Moyens corporels et expressifs / Moyens vocaux et expressifs (2 e cycle)"
+      ],
+      "texte": "b. Choisir des accessoires de costumes, des éléments de décors, des effets sonores et des éclairages simples pour différentes situations dramatiques",
+      "prioritaire": false,
+      "progression": {
+        "1": "apprentissage",
+        "2": "maitrise",
+        "3": null,
+        "4": null,
+        "5": null
+      },
+      "page": 13,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ADR-CRE-028",
+      "competence": "1 – Créer des œuvres dramatiques",
+      "section": null,
+      "chemin": [
+        "B. Exploiter des éléments du langage dramatique et de techniques (1 er cycle) Exploiter des éléments du langage dramatique liés à la discipline (2 e cycle) 2",
+        "2. Jeu (1 er cycle) Jeu dramatique (2 e cycle) 2.1. Construction du personnage, travail d’ensemble Techniques et moyens corporels / Techniques et moyens vocaux (1 er cycle) Moyens corporels et expressifs / Moyens vocaux et expressifs (2 e cycle)"
+      ],
+      "texte": "c. Choisir l’organisation de l’espace scénographique (ex. : rapport scène-salle) pour différentes situations dramatiques",
+      "prioritaire": false,
+      "progression": {
+        "1": "apprentissage",
+        "2": "maitrise",
+        "3": null,
+        "4": null,
+        "5": null
+      },
+      "page": 13,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ADR-CRE-029",
+      "competence": "1 – Créer des œuvres dramatiques",
+      "section": null,
+      "chemin": [
+        "B. Exploiter des éléments du langage dramatique et de techniques (1 er cycle) Exploiter des éléments du langage dramatique liés à la discipline (2 e cycle) 2",
+        "2. Jeu (1 er cycle) Jeu dramatique (2 e cycle) 2.1. Construction du personnage, travail d’ensemble Techniques et moyens corporels / Techniques et moyens vocaux (1 er cycle) Moyens corporels et expressifs / Moyens vocaux et expressifs (2 e cycle)"
+      ],
+      "texte": "d. Choisir des costumes selon la fonction ou l’utilisation imaginée pour différentes situations dramatiques",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "maitrise",
+        "5": null
+      },
+      "page": 13,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ADR-CRE-030",
+      "competence": "1 – Créer des œuvres dramatiques",
+      "section": null,
+      "chemin": [
+        "B. Exploiter des éléments du langage dramatique et de techniques (1 er cycle) Exploiter des éléments du langage dramatique liés à la discipline (2 e cycle) 2",
+        "2. Jeu (1 er cycle) Jeu dramatique (2 e cycle) 2.1. Construction du personnage, travail d’ensemble Techniques et moyens corporels / Techniques et moyens vocaux (1 er cycle) Moyens corporels et expressifs / Moyens vocaux et expressifs (2 e cycle)"
+      ],
+      "texte": "e. Choisir des accessoires de costumes et des éléments de décors selon la fonction ou l’utilisation imaginée pour différentes situations dramatiques",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "apprentissage",
+        "5": "maitrise"
+      },
+      "page": 13,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ADR-CRE-031",
+      "competence": "1 – Créer des œuvres dramatiques",
+      "section": null,
+      "chemin": [
+        "B. Exploiter des éléments du langage dramatique et de techniques (1 er cycle) Exploiter des éléments du langage dramatique liés à la discipline (2 e cycle) 2",
+        "2. Jeu (1 er cycle) Jeu dramatique (2 e cycle) 2.1. Construction du personnage, travail d’ensemble Techniques et moyens corporels / Techniques et moyens vocaux (1 er cycle) Moyens corporels et expressifs / Moyens vocaux et expressifs (2 e cycle)"
+      ],
+      "texte": "f. Choisir des décors, des costumes, des éclairages, des environnements sonores selon la fonction ou l’utilisation imaginée et certaines caractéristiques socioculturelles et historiques pour différentes situations dramatiques",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "apprentissage",
+        "5": "maitrise"
+      },
+      "page": 13,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ADR-CRE-032",
+      "competence": "1 – Créer des œuvres dramatiques",
+      "section": null,
+      "chemin": [
+        "B. Exploiter des éléments du langage dramatique et de techniques (1 er cycle) Exploiter des éléments du langage dramatique liés à la discipline (2 e cycle) 2",
+        "2. Jeu (1 er cycle) Jeu dramatique (2 e cycle) 2.1. Construction du personnage, travail d’ensemble Techniques et moyens corporels / Techniques et moyens vocaux (1 er cycle) Moyens corporels et expressifs / Moyens vocaux et expressifs (2 e cycle)"
+      ],
+      "texte": "g. Choisir un maquillage de théâtre adapté aux différents personnages imaginés",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "apprentissage",
+        "5": "maitrise"
+      },
+      "page": 13,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ADR-CRE-033",
+      "competence": "1 – Créer des œuvres dramatiques",
+      "section": null,
+      "chemin": [
+        "B. Exploiter des éléments du langage dramatique et de techniques (1 er cycle) Exploiter des éléments du langage dramatique liés à la discipline (2 e cycle) 2",
+        "2. Jeu (1 er cycle) Jeu dramatique (2 e cycle) 2.1. Construction du personnage, travail d’ensemble Techniques et moyens corporels / Techniques et moyens vocaux (1 er cycle) Moyens corporels et expressifs / Moyens vocaux et expressifs (2 e cycle)"
+      ],
+      "texte": "h. Choisir un maquillage pour la scène ou l’écran adapté aux différents personnages imaginés 3.1.2. Espace multimédia",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "apprentissage",
+        "5": "maitrise"
+      },
+      "page": 13,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ADR-CRE-034",
+      "competence": "1 – Créer des œuvres dramatiques",
+      "section": null,
+      "chemin": [
+        "B. Exploiter des éléments du langage dramatique et de techniques (1 er cycle) Exploiter des éléments du langage dramatique liés à la discipline (2 e cycle) 2",
+        "2. Jeu (1 er cycle) Jeu dramatique (2 e cycle) 2.1. Construction du personnage, travail d’ensemble Techniques et moyens corporels / Techniques et moyens vocaux (1 er cycle) Moyens corporels et expressifs / Moyens vocaux et expressifs (2 e cycle)"
+      ],
+      "texte": "a. Choisir les approches appropriées pour traiter un espace multimédia (ex. : rapport avec le médium, découpage) 3.2. Techniques théâtrales",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "apprentissage",
+        "5": "maitrise"
+      },
+      "page": 13,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ADR-CRE-035",
+      "competence": "1 – Créer des œuvres dramatiques",
+      "section": null,
+      "chemin": [
+        "B. Exploiter des éléments du langage dramatique et de techniques (1 er cycle) Exploiter des éléments du langage dramatique liés à la discipline (2 e cycle) 2",
+        "2. Jeu (1 er cycle) Jeu dramatique (2 e cycle) 2.1. Construction du personnage, travail d’ensemble Techniques et moyens corporels / Techniques et moyens vocaux (1 er cycle) Moyens corporels et expressifs / Moyens vocaux et expressifs (2 e cycle)"
+      ],
+      "texte": "b. Mettre à l’essai des techniques théâtrales (ex. : jeu masqué, ombres corporelles, marionnettes, jeu clownesque, théâtre noir)",
+      "prioritaire": false,
+      "progression": {
+        "1": "apprentissage",
+        "2": "maitrise",
+        "3": null,
+        "4": null,
+        "5": null
+      },
+      "page": 13,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ADR-CRE-036",
+      "competence": "1 – Créer des œuvres dramatiques",
+      "section": null,
+      "chemin": [
+        "B. Exploiter des éléments du langage dramatique et de techniques (1 er cycle) Exploiter des éléments du langage dramatique liés à la discipline (2 e cycle) 2",
+        "2. Jeu (1 er cycle) Jeu dramatique (2 e cycle) 2.1. Construction du personnage, travail d’ensemble Techniques et moyens corporels / Techniques et moyens vocaux (1 er cycle) Moyens corporels et expressifs / Moyens vocaux et expressifs (2 e cycle)"
+      ],
+      "texte": "c. Utiliser une des techniques théâtrales suivantes : jeu masqué, ombres corporelles, marionnettes, jeu clownesque, théâtre noir",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "maitrise",
+        "5": null
+      },
+      "page": 13,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ADR-CRE-037",
+      "competence": "1 – Créer des œuvres dramatiques",
+      "section": null,
+      "chemin": [
+        "B. Exploiter des éléments du langage dramatique et de techniques (1 er cycle) Exploiter des éléments du langage dramatique liés à la discipline (2 e cycle) 2",
+        "2. Jeu (1 er cycle) Jeu dramatique (2 e cycle) 2.1. Construction du personnage, travail d’ensemble Techniques et moyens corporels / Techniques et moyens vocaux (1 er cycle) Moyens corporels et expressifs / Moyens vocaux et expressifs (2 e cycle)"
+      ],
+      "texte": "d. Utiliser différents procédés d’une technique théâtrale",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "apprentissage",
+        "5": "maitrise"
+      },
+      "page": 13,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ADR-CRE-038",
+      "competence": "1 – Créer des œuvres dramatiques",
+      "section": null,
+      "chemin": [
+        "B. Exploiter des éléments du langage dramatique et de techniques (1 er cycle) Exploiter des éléments du langage dramatique liés à la discipline (2 e cycle) 2",
+        "2. Jeu (1 er cycle) Jeu dramatique (2 e cycle) 2.1. Construction du personnage, travail d’ensemble Techniques et moyens corporels / Techniques et moyens vocaux (1 er cycle) Moyens corporels et expressifs / Moyens vocaux et expressifs (2 e cycle)"
+      ],
+      "texte": "e. Choisir une technique théâtrale pour enrichir la présentation d’une situation dramatique imaginée",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "apprentissage",
+        "5": "maitrise"
+      },
+      "page": 13,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ADR-CRE-039",
+      "competence": "1 – Créer des œuvres dramatiques",
+      "section": null,
+      "chemin": [
+        "C. Structurer sa création dramatique"
+      ],
+      "texte": "b. Mettre à l’essai différentes façons d’organiser le contenu de la création",
+      "prioritaire": false,
+      "progression": {
+        "1": "apprentissage",
+        "2": "maitrise",
+        "3": null,
+        "4": null,
+        "5": null
+      },
+      "page": 13,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ADR-CRE-040",
+      "competence": "1 – Créer des œuvres dramatiques",
+      "section": null,
+      "chemin": [
+        "C. Structurer sa création dramatique"
+      ],
+      "texte": "c. Faire une sélection de certains personnages, de situations dramatiques et d'éléments du langage dramatique pour préciser le contenu de la création (ex. : types de discours, caractère et construction du personnage)",
+      "prioritaire": false,
+      "progression": {
+        "1": "apprentissage",
+        "2": "maitrise",
+        "3": null,
+        "4": null,
+        "5": null
+      },
+      "page": 13,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ADR-CRE-041",
+      "competence": "1 – Créer des œuvres dramatiques",
+      "section": null,
+      "chemin": [
+        "C. Structurer sa création dramatique"
+      ],
+      "texte": "d. Choisir des personnages, des situations dramatiques et des éléments du langage dramatique les plus appropriés à son intention de création (ex. : dénouement, utilisation d’une technique théâtrale)",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "maitrise",
+        "5": null
+      },
+      "page": 13,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ADR-CRE-042",
+      "competence": "1 – Créer des œuvres dramatiques",
+      "section": null,
+      "chemin": [
+        "C. Structurer sa création dramatique"
+      ],
+      "texte": "e. Enchaîner différentes sections de la création en tenant compte des éléments du langage dramatique sélectionnés (ex. : traitement dramaturgique, conventions relatives à l’unité de jeu)",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "apprentissage",
+        "5": "maitrise"
+      },
+      "page": 13,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ADR-CRE-043",
+      "competence": "1 – Créer des œuvres dramatiques",
+      "section": null,
+      "chemin": [
+        "C. Structurer sa création dramatique"
+      ],
+      "texte": "f. Enchaîner différentes sections de la création en précisant les choix expressifs (ex. : niveaux de langue, monologues, jeu chorégraphique, éléments visuels et sonores)",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "apprentissage",
+        "5": "maitrise"
+      },
+      "page": 13,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ADR-CRE-044",
+      "competence": "1 – Créer des œuvres dramatiques",
+      "section": null,
+      "chemin": [
+        "D. Présenter sa création dramatique"
+      ],
+      "texte": "a. Faire des enchaînements complets en ajustant les éléments du langage dramatique retenus pour la création et en tenant compte d’un regard externe",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "maitrise",
+        "5": null
+      },
+      "page": 14,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ADR-CRE-045",
+      "competence": "1 – Créer des œuvres dramatiques",
+      "section": null,
+      "chemin": [
+        "D. Présenter sa création dramatique"
+      ],
+      "texte": "b. Faire des enchaînements complets de sa création en tenant compte des choix relatifs au travail d’ensemble",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "apprentissage",
+        "5": "maitrise"
+      },
+      "page": 14,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ADR-CRE-046",
+      "competence": "1 – Créer des œuvres dramatiques",
+      "section": null,
+      "chemin": [
+        "D. Présenter sa création dramatique"
+      ],
+      "texte": "c. Faire des enchaînements complets de sa création en tenant compte de la réaction d’un public",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "apprentissage",
+        "5": "maitrise"
+      },
+      "page": 14,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ADR-CRE-047",
+      "competence": "1 – Créer des œuvres dramatiques",
+      "section": null,
+      "chemin": [
+        "E. Rendre compte de son expérience de création dramatique"
+      ],
+      "texte": "b. Utiliser le vocabulaire disciplinaire selon la terminologie prescrite dans ce programme",
+      "prioritaire": false,
+      "progression": {
+        "1": "apprentissage",
+        "2": "maitrise",
+        "3": null,
+        "4": null,
+        "5": null
+      },
+      "page": 14,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ADR-CRE-048",
+      "competence": "1 – Créer des œuvres dramatiques",
+      "section": null,
+      "chemin": [
+        "E. Rendre compte de son expérience de création dramatique"
+      ],
+      "texte": "c. Utiliser le vocabulaire disciplinaire selon la terminologie prescrite pour chacun des programmes",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "maitrise",
+        "5": null
+      },
+      "page": 14,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ADR-CRE-049",
+      "competence": "1 – Créer des œuvres dramatiques",
+      "section": null,
+      "chemin": [
+        "E. Rendre compte de son expérience de création dramatique"
+      ],
+      "texte": "e. Décrire des aspects de son expérience qui sont liés à la dynamique de création et plus particulièrement aux stratégies utilisées (ex. : stratégies liées à l’observation et à l’écoute)",
+      "prioritaire": false,
+      "progression": {
+        "1": "apprentissage",
+        "2": "maitrise",
+        "3": null,
+        "4": null,
+        "5": null
+      },
+      "page": 14,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ADR-CRE-050",
+      "competence": "1 – Créer des œuvres dramatiques",
+      "section": null,
+      "chemin": [
+        "E. Rendre compte de son expérience de création dramatique"
+      ],
+      "texte": "f. Décrire des aspects de son expérience qui sont liés à la dynamique de création et aux stratégies utilisées (ex. : utlisation des trois phases de la dynamique de création, essais et erreurs)",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "maitrise",
+        "5": null
+      },
+      "page": 14,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ADR-INT-001",
+      "competence": "2 – Interpréter des œuvres dramatiques",
+      "section": null,
+      "chemin": [
+        "A. S'approprier le contenu dramatique de l'œuvre",
+        "1. Dramaturgie (1 er cycle) Structure dramatique (2 e cycle) 1.1. Moyens dramaturgiques, structure dramatique, genres, formes dramaturgiques"
+      ],
+      "texte": "b. Relever des passages qui marquent la structure dramatique de l’œuvre (ex. : action dramatique, ressorts dramatiques)",
+      "prioritaire": false,
+      "progression": {
+        "1": "apprentissage",
+        "2": "maitrise",
+        "3": null,
+        "4": null,
+        "5": null
+      },
+      "page": 15,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ADR-INT-002",
+      "competence": "2 – Interpréter des œuvres dramatiques",
+      "section": null,
+      "chemin": [
+        "A. S'approprier le contenu dramatique de l'œuvre",
+        "1. Dramaturgie (1 er cycle) Structure dramatique (2 e cycle) 1.1. Moyens dramaturgiques, structure dramatique, genres, formes dramaturgiques"
+      ],
+      "texte": "c. Identifier le genre de l’œuvre : comédie ou drame",
+      "prioritaire": false,
+      "progression": {
+        "1": "apprentissage",
+        "2": "maitrise",
+        "3": null,
+        "4": null,
+        "5": null
+      },
+      "page": 15,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ADR-INT-003",
+      "competence": "2 – Interpréter des œuvres dramatiques",
+      "section": null,
+      "chemin": [
+        "A. S'approprier le contenu dramatique de l'œuvre",
+        "1. Dramaturgie (1 er cycle) Structure dramatique (2 e cycle) 1.1. Moyens dramaturgiques, structure dramatique, genres, formes dramaturgiques"
+      ],
+      "texte": "d. Relever des passages qui offrent des pistes pour l’interprétation d’un personnage ou la mise en espace de l’œuvre (ex. : identification du rôle du personnage dans l’œuvre, idées pour l’organisation de l’espace)",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "maitrise",
+        "5": null
+      },
+      "page": 15,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ADR-INT-004",
+      "competence": "2 – Interpréter des œuvres dramatiques",
+      "section": null,
+      "chemin": [
+        "A. S'approprier le contenu dramatique de l'œuvre",
+        "1. Dramaturgie (1 er cycle) Structure dramatique (2 e cycle) 1.1. Moyens dramaturgiques, structure dramatique, genres, formes dramaturgiques"
+      ],
+      "texte": "e. Relever les passages qui marquent la structure dramatique (constitution de l’œuvre [ex. : action, ressorts, dénouement])",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "apprentissage",
+        "5": "maitrise"
+      },
+      "page": 15,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ADR-INT-005",
+      "competence": "2 – Interpréter des œuvres dramatiques",
+      "section": null,
+      "chemin": [
+        "A. S'approprier le contenu dramatique de l'œuvre",
+        "1. Dramaturgie (1 er cycle) Structure dramatique (2 e cycle) 1.1. Moyens dramaturgiques, structure dramatique, genres, formes dramaturgiques"
+      ],
+      "texte": "f. Relever les passages marquants les plus signifiants dans la structure dramatique pour l’interprétation d’un personnage ou la mise en scène de l’œuvre (ex. : émotions ressenties par le personnage, jeu d’éclairages pour marquer la structure)",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "apprentissage",
+        "5": "maitrise"
+      },
+      "page": 15,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ADR-INT-006",
+      "competence": "2 – Interpréter des œuvres dramatiques",
+      "section": null,
+      "chemin": [
+        "A. S'approprier le contenu dramatique de l'œuvre",
+        "1. Dramaturgie (1 er cycle) Structure dramatique (2 e cycle) 1.1. Moyens dramaturgiques, structure dramatique, genres, formes dramaturgiques"
+      ],
+      "texte": "g. Relever des passages qui offrent des pistes pour l’interprétation d’un personnage, la mise en espace, la mise en scène ou l’adaptation de l’œuvre (ex. : recherche d’équivalences pour son adaptation ou d’idées scénographiques pour une présentation théâtrale)",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "apprentissage",
+        "5": "maitrise"
+      },
+      "page": 15,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ADR-INT-007",
+      "competence": "2 – Interpréter des œuvres dramatiques",
+      "section": null,
+      "chemin": [
+        "A. S'approprier le contenu dramatique de l'œuvre",
+        "1. Dramaturgie (1 er cycle) Structure dramatique (2 e cycle) 1.1. Moyens dramaturgiques, structure dramatique, genres, formes dramaturgiques"
+      ],
+      "texte": "h. Identifier la forme dramaturgique de l’œuvre (ex. : théâtre pour les enfants et les jeunes, théâtre de rue, théâtre d’intervention)",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "apprentissage",
+        "5": "maitrise"
+      },
+      "page": 15,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ADR-INT-008",
+      "competence": "2 – Interpréter des œuvres dramatiques",
+      "section": null,
+      "chemin": [
+        "A. S'approprier le contenu dramatique de l'œuvre",
+        "1. Dramaturgie (1 er cycle) Structure dramatique (2 e cycle) 1.1. Moyens dramaturgiques, structure dramatique, genres, formes dramaturgiques",
+        "a. Repérer le développement, le retournement de situation et le dénouement de la P fable"
+      ],
+      "texte": "i. Relever des passages qui offrent des pistes pour l’interprétation d’un personnage, la réalisation ou l’adaptation de l’œuvre (ex. : identification de procédés nécessaires à la réalisation, idée de découpage possible pour la dramatisation) j. Relever des passages qui marquent la structure de l’œuvre multimédia (ex. : séquence, ellipse, rupture) k. Identifier la forme dramaturgique de l’œuvre (ex. : dramatisation audio, dramatisation vidéo, photothéâtre) 1.2. Caractère du personnage, type de discours, conventions, courants esthétiques",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "apprentissage",
+        "5": "maitrise"
+      },
+      "page": 15,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ADR-INT-009",
+      "competence": "2 – Interpréter des œuvres dramatiques",
+      "section": null,
+      "chemin": [
+        "A. S'approprier le contenu dramatique de l'œuvre",
+        "1. Dramaturgie (1 er cycle) Structure dramatique (2 e cycle) 1.1. Moyens dramaturgiques, structure dramatique, genres, formes dramaturgiques"
+      ],
+      "texte": "c. Relever des didascalies, des apartés, des indices de temps et d’espace pour interpréter l’œuvre",
+      "prioritaire": false,
+      "progression": {
+        "1": "apprentissage",
+        "2": "maitrise",
+        "3": null,
+        "4": null,
+        "5": null
+      },
+      "page": 16,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ADR-INT-010",
+      "competence": "2 – Interpréter des œuvres dramatiques",
+      "section": null,
+      "chemin": [
+        "A. S'approprier le contenu dramatique de l'œuvre",
+        "1. Dramaturgie (1 er cycle) Structure dramatique (2 e cycle) 1.1. Moyens dramaturgiques, structure dramatique, genres, formes dramaturgiques"
+      ],
+      "texte": "d. Relever des indices qui permettent de déterminer des actions pour interpréter l’œuvre",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "maitrise",
+        "5": null
+      },
+      "page": 16,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ADR-INT-011",
+      "competence": "2 – Interpréter des œuvres dramatiques",
+      "section": null,
+      "chemin": [
+        "A. S'approprier le contenu dramatique de l'œuvre",
+        "1. Dramaturgie (1 er cycle) Structure dramatique (2 e cycle) 1.1. Moyens dramaturgiques, structure dramatique, genres, formes dramaturgiques"
+      ],
+      "texte": "e. Relever des caractéristiques historiques et socioculturelles d’un personnage",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "apprentissage",
+        "5": "maitrise"
+      },
+      "page": 16,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ADR-INT-012",
+      "competence": "2 – Interpréter des œuvres dramatiques",
+      "section": null,
+      "chemin": [
+        "A. S'approprier le contenu dramatique de l'œuvre",
+        "1. Dramaturgie (1 er cycle) Structure dramatique (2 e cycle) 1.1. Moyens dramaturgiques, structure dramatique, genres, formes dramaturgiques"
+      ],
+      "texte": "f. Relever des passages qui ont une influence sur les intentions du personnage (ex. : dialogue, didascalie, monologue)",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "apprentissage",
+        "5": "maitrise"
+      },
+      "page": 16,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ADR-INT-013",
+      "competence": "2 – Interpréter des œuvres dramatiques",
+      "section": null,
+      "chemin": [
+        "A. S'approprier le contenu dramatique de l'œuvre",
+        "1. Dramaturgie (1 er cycle) Structure dramatique (2 e cycle) 1.1. Moyens dramaturgiques, structure dramatique, genres, formes dramaturgiques"
+      ],
+      "texte": "g. Relever dans l’œuvre des indices qui permettent de déterminer le courant esthétique auquel elle appartient",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "apprentissage",
+        "5": "maitrise"
+      },
+      "page": 16,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ADR-INT-014",
+      "competence": "2 – Interpréter des œuvres dramatiques",
+      "section": null,
+      "chemin": [
+        "A. S'approprier le contenu dramatique de l'œuvre",
+        "1. Dramaturgie (1 er cycle) Structure dramatique (2 e cycle) 1.1. Moyens dramaturgiques, structure dramatique, genres, formes dramaturgiques"
+      ],
+      "texte": "h. Relever et choisir, dans l’œuvre, des éléments concernant le temps, l’espace et l’action qui ont une influence sur son interprétation",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "apprentissage",
+        "5": "maitrise"
+      },
+      "page": 16,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ADR-INT-015",
+      "competence": "2 – Interpréter des œuvres dramatiques",
+      "section": null,
+      "chemin": [
+        "A. S'approprier le contenu dramatique de l'œuvre",
+        "1. Dramaturgie (1 er cycle) Structure dramatique (2 e cycle) 1.1. Moyens dramaturgiques, structure dramatique, genres, formes dramaturgiques",
+        "a. Repérer dans la séquence quelques éléments du langage dramatique pour P interpréter le personnage de la fable"
+      ],
+      "texte": "i. Relever dans l’œuvre des passages narratifs qui ont une influence sur son interprétation",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "apprentissage",
+        "5": "maitrise"
+      },
+      "page": 16,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ADR-INT-016",
+      "competence": "2 – Interpréter des œuvres dramatiques",
+      "section": null,
+      "chemin": [
+        "B. Exploiter des éléments du langage dramatique et de techniques (1 er cycle) Exploiter des éléments du langage dramatique (2 e cycle) 1",
+        "1. Jeu (1 er cycle) Jeu dramatique (2 e cycle) 1.1. Construction du personnage, travail d’ensemble"
+      ],
+      "texte": "b. Mettre à l’essai le jeu d’un personnage en utilisant son corps (ex. : attitude, gestuelle, direction du regard) et sa voix (ex. : registre, accent, silence)",
+      "prioritaire": false,
+      "progression": {
+        "1": "apprentissage",
+        "2": "maitrise",
+        "3": null,
+        "4": null,
+        "5": null
+      },
+      "page": 16,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ADR-INT-017",
+      "competence": "2 – Interpréter des œuvres dramatiques",
+      "section": null,
+      "chemin": [
+        "B. Exploiter des éléments du langage dramatique et de techniques (1 er cycle) Exploiter des éléments du langage dramatique (2 e cycle) 1",
+        "1. Jeu (1 er cycle) Jeu dramatique (2 e cycle) 1.1. Construction du personnage, travail d’ensemble"
+      ],
+      "texte": "c. Mettre à l’essai le jeu d’un personnage en utilisant son corps, sa voix, plus particulièrement ses émotions",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "maitrise",
+        "5": null
+      },
+      "page": 16,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ADR-INT-018",
+      "competence": "2 – Interpréter des œuvres dramatiques",
+      "section": null,
+      "chemin": [
+        "B. Exploiter des éléments du langage dramatique et de techniques (1 er cycle) Exploiter des éléments du langage dramatique (2 e cycle) 1",
+        "1. Jeu (1 er cycle) Jeu dramatique (2 e cycle) 1.1. Construction du personnage, travail d’ensemble"
+      ],
+      "texte": "d. Mettre à l’essai le jeu d’un personnage en tenant compte de ses caractéristiques historiques et socioculturelles",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "apprentissage",
+        "5": "maitrise"
+      },
+      "page": 16,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ADR-INT-019",
+      "competence": "2 – Interpréter des œuvres dramatiques",
+      "section": null,
+      "chemin": [
+        "B. Exploiter des éléments du langage dramatique et de techniques (1 er cycle) Exploiter des éléments du langage dramatique (2 e cycle) 1",
+        "1. Jeu (1 er cycle) Jeu dramatique (2 e cycle) 1.1. Construction du personnage, travail d’ensemble"
+      ],
+      "texte": "e. Mettre à l’essai le jeu d’un personnage en tenant compte de la forme dramaturgique ou du courant esthétique auquel appartient l’œuvre",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "apprentissage",
+        "5": "maitrise"
+      },
+      "page": 16,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ADR-INT-020",
+      "competence": "2 – Interpréter des œuvres dramatiques",
+      "section": null,
+      "chemin": [
+        "B. Exploiter des éléments du langage dramatique et de techniques (1 er cycle) Exploiter des éléments du langage dramatique (2 e cycle) 1",
+        "1. Jeu (1 er cycle) Jeu dramatique (2 e cycle) 1.1. Construction du personnage, travail d’ensemble"
+      ],
+      "texte": "f. Mettre à l’essai le jeu d’un personnage en tenant compte de la forme dramaturgique utilisée 1.2. Techniques et moyens corporels / Techniques et moyens vocaux (1 er cycle) Moyens corporels et expressifs / Moyens vocaux et expressifs (2 e cycle)",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "apprentissage",
+        "5": "maitrise"
+      },
+      "page": 16,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ADR-INT-021",
+      "competence": "2 – Interpréter des œuvres dramatiques",
+      "section": null,
+      "chemin": [
+        "B. Exploiter des éléments du langage dramatique et de techniques (1 er cycle) Exploiter des éléments du langage dramatique (2 e cycle) 1",
+        "1. Jeu (1 er cycle) Jeu dramatique (2 e cycle) 1.1. Construction du personnage, travail d’ensemble"
+      ],
+      "texte": "b. Mettre à l’essai le jeu d’un personnage en utilisant des moyens corporels et vocaux (ex. : amplitude, assouplissement, respiration, rythme)",
+      "prioritaire": false,
+      "progression": {
+        "1": "apprentissage",
+        "2": "maitrise",
+        "3": null,
+        "4": null,
+        "5": null
+      },
+      "page": 16,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ADR-INT-022",
+      "competence": "2 – Interpréter des œuvres dramatiques",
+      "section": null,
+      "chemin": [
+        "B. Exploiter des éléments du langage dramatique et de techniques (1 er cycle) Exploiter des éléments du langage dramatique (2 e cycle) 1",
+        "1. Jeu (1 er cycle) Jeu dramatique (2 e cycle) 1.1. Construction du personnage, travail d’ensemble"
+      ],
+      "texte": "c. Mettre à l’essai le jeu d’un personnage en utilisant des moyens corporels et vocaux, plus particulièrement une ouverture vers le public",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "maitrise",
+        "5": null
+      },
+      "page": 16,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ADR-INT-023",
+      "competence": "2 – Interpréter des œuvres dramatiques",
+      "section": null,
+      "chemin": [
+        "B. Exploiter des éléments du langage dramatique et de techniques (1 er cycle) Exploiter des éléments du langage dramatique (2 e cycle) 1",
+        "1. Jeu (1 er cycle) Jeu dramatique (2 e cycle) 1.1. Construction du personnage, travail d’ensemble"
+      ],
+      "texte": "d. Mettre à l’essai le jeu d’un personnage en utilisant des moyens corporels et vocaux, plus particulièrement la diction ou la pose de voix",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "apprentissage",
+        "5": "maitrise"
+      },
+      "page": 16,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ADR-INT-024",
+      "competence": "2 – Interpréter des œuvres dramatiques",
+      "section": null,
+      "chemin": [
+        "B. Exploiter des éléments du langage dramatique et de techniques (1 er cycle) Exploiter des éléments du langage dramatique (2 e cycle) 1",
+        "1. Jeu (1 er cycle) Jeu dramatique (2 e cycle) 1.1. Construction du personnage, travail d’ensemble"
+      ],
+      "texte": "e. Mettre à l’essai le jeu d’un personnage en intégrant des niveaux de langue",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "apprentissage",
+        "5": "maitrise"
+      },
+      "page": 16,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ADR-INT-025",
+      "competence": "2 – Interpréter des œuvres dramatiques",
+      "section": null,
+      "chemin": [
+        "B. Exploiter des éléments du langage dramatique et de techniques (1 er cycle) Exploiter des éléments du langage dramatique (2 e cycle) 1",
+        "1. Jeu (1 er cycle) Jeu dramatique (2 e cycle) 1.1. Construction du personnage, travail d’ensemble"
+      ],
+      "texte": "f. Mettre à l’essai le jeu d’un personnage en utilisant des moyens corporels et vocaux propres au jeu devant la caméra ou avec le micro",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "apprentissage",
+        "5": "maitrise"
+      },
+      "page": 16,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ADR-INT-026",
+      "competence": "2 – Interpréter des œuvres dramatiques",
+      "section": null,
+      "chemin": [
+        "B. Exploiter des éléments du langage dramatique et de techniques (1 er cycle) Exploiter des éléments du langage dramatique (2 e cycle) 1",
+        "2. Théâtralité (1 er cycle) Structure théâtrale (2 e cycle) 2.1. Costumes, maquillage, décors, éclairage, environnement sonore, espace scénique,"
+      ],
+      "texte": "b. Choisir des accessoires de costumes, des éléments de décors, des effets sonores et des éclairages simples",
+      "prioritaire": false,
+      "progression": {
+        "1": "apprentissage",
+        "2": "maitrise",
+        "3": null,
+        "4": null,
+        "5": null
+      },
+      "page": 16,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ADR-INT-027",
+      "competence": "2 – Interpréter des œuvres dramatiques",
+      "section": null,
+      "chemin": [
+        "B. Exploiter des éléments du langage dramatique et de techniques (1 er cycle) Exploiter des éléments du langage dramatique (2 e cycle) 1",
+        "2. Théâtralité (1 er cycle) Structure théâtrale (2 e cycle) 2.1. Costumes, maquillage, décors, éclairage, environnement sonore, espace scénique,"
+      ],
+      "texte": "c. Faire des choix concernant l’utilisation de l’espace scénique et scénographique",
+      "prioritaire": false,
+      "progression": {
+        "1": "apprentissage",
+        "2": "maitrise",
+        "3": null,
+        "4": null,
+        "5": null
+      },
+      "page": 16,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ADR-INT-028",
+      "competence": "2 – Interpréter des œuvres dramatiques",
+      "section": null,
+      "chemin": [
+        "B. Exploiter des éléments du langage dramatique et de techniques (1 er cycle) Exploiter des éléments du langage dramatique (2 e cycle) 1",
+        "2. Théâtralité (1 er cycle) Structure théâtrale (2 e cycle) 2.1. Costumes, maquillage, décors, éclairage, environnement sonore, espace scénique,"
+      ],
+      "texte": "d. Choisir un costume en fonction du caractère du personnage à interpréter",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "maitrise",
+        "5": null
+      },
+      "page": 16,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ADR-INT-029",
+      "competence": "2 – Interpréter des œuvres dramatiques",
+      "section": null,
+      "chemin": [
+        "B. Exploiter des éléments du langage dramatique et de techniques (1 er cycle) Exploiter des éléments du langage dramatique (2 e cycle) 1",
+        "2. Théâtralité (1 er cycle) Structure théâtrale (2 e cycle) 2.1. Costumes, maquillage, décors, éclairage, environnement sonore, espace scénique,"
+      ],
+      "texte": "e. Choisir un costume en fonction des caractéristiques historiques et socioculturelles du personnage à interpréter",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "apprentissage",
+        "5": "maitrise"
+      },
+      "page": 17,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ADR-INT-030",
+      "competence": "2 – Interpréter des œuvres dramatiques",
+      "section": null,
+      "chemin": [
+        "B. Exploiter des éléments du langage dramatique et de techniques (1 er cycle) Exploiter des éléments du langage dramatique (2 e cycle) 1",
+        "2. Théâtralité (1 er cycle) Structure théâtrale (2 e cycle) 2.1. Costumes, maquillage, décors, éclairage, environnement sonore, espace scénique,"
+      ],
+      "texte": "f. Choisir un maquillage pour le personnage à interpréter en fonction du contexte théâtral",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "apprentissage",
+        "5": "maitrise"
+      },
+      "page": 17,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ADR-INT-031",
+      "competence": "2 – Interpréter des œuvres dramatiques",
+      "section": null,
+      "chemin": [
+        "B. Exploiter des éléments du langage dramatique et de techniques (1 er cycle) Exploiter des éléments du langage dramatique (2 e cycle) 1",
+        "2. Théâtralité (1 er cycle) Structure théâtrale (2 e cycle) 2.1. Costumes, maquillage, décors, éclairage, environnement sonore, espace scénique,"
+      ],
+      "texte": "g. Choisir un maquillage pour le personnage à interpréter en fonction du contexte scénique ou de la forme dramaturgique utilisée 2.2. Espace multimédia",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "apprentissage",
+        "5": "maitrise"
+      },
+      "page": 17,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ADR-INT-032",
+      "competence": "2 – Interpréter des œuvres dramatiques",
+      "section": null,
+      "chemin": [
+        "B. Exploiter des éléments du langage dramatique et de techniques (1 er cycle) Exploiter des éléments du langage dramatique (2 e cycle) 1",
+        "2. Théâtralité (1 er cycle) Structure théâtrale (2 e cycle) 2.1. Costumes, maquillage, décors, éclairage, environnement sonore, espace scénique,"
+      ],
+      "texte": "a. Faire des choix adaptés à la forme dramaturgique de l’œuvre en ce qui a trait au plan des aires et des angles de jeu, ainsi qu’au rapport avec le médium 2.3. Procédés de réalisation",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "apprentissage",
+        "5": "maitrise"
+      },
+      "page": 17,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ADR-INT-033",
+      "competence": "2 – Interpréter des œuvres dramatiques",
+      "section": null,
+      "chemin": [
+        "B. Exploiter des éléments du langage dramatique et de techniques (1 er cycle) Exploiter des éléments du langage dramatique (2 e cycle) 1",
+        "2. Théâtralité (1 er cycle) Structure théâtrale (2 e cycle) 2.1. Costumes, maquillage, décors, éclairage, environnement sonore, espace scénique,"
+      ],
+      "texte": "a. Utiliser des procédés de réalisation multimédia (ex. : travail de table, mise en place, captation du son, captation de l’image)",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "apprentissage",
+        "5": "maitrise"
+      },
+      "page": 17,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ADR-INT-034",
+      "competence": "2 – Interpréter des œuvres dramatiques",
+      "section": null,
+      "chemin": [
+        "C. S'approprier le caractère expressif de l'œuvre"
+      ],
+      "texte": "b. Faire des enchaînements par section en mémorisant le texte et les déplacements",
+      "prioritaire": false,
+      "progression": {
+        "1": "apprentissage",
+        "2": "maitrise",
+        "3": null,
+        "4": null,
+        "5": null
+      },
+      "page": 17,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ADR-INT-035",
+      "competence": "2 – Interpréter des œuvres dramatiques",
+      "section": null,
+      "chemin": [
+        "C. S'approprier le caractère expressif de l'œuvre"
+      ],
+      "texte": "c. Faire des enchaînements par section en tenant compte de différents éléments expressifs (ex. : contenu de l’œuvre, jeu dramatique, structure dramatique)",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "maitrise",
+        "5": null
+      },
+      "page": 17,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ADR-INT-036",
+      "competence": "2 – Interpréter des œuvres dramatiques",
+      "section": null,
+      "chemin": [
+        "C. S'approprier le caractère expressif de l'œuvre"
+      ],
+      "texte": "d. Faire des enchaînements par section en intégrant des éléments visuels et sonores (ex. : costume, décor, éclairage, environnement sonore)",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "apprentissage",
+        "5": "maitrise"
+      },
+      "page": 17,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ADR-INT-037",
+      "competence": "2 – Interpréter des œuvres dramatiques",
+      "section": null,
+      "chemin": [
+        "C. S'approprier le caractère expressif de l'œuvre"
+      ],
+      "texte": "e. Faire des enchaînements par section en utilisant des ressources expressives qui respectent son intention de communication et celle de l’auteur (ex. : choix scénographiques, transition, rythme, atmosphère)",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "apprentissage",
+        "5": "maitrise"
+      },
+      "page": 17,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ADR-INT-038",
+      "competence": "2 – Interpréter des œuvres dramatiques",
+      "section": null,
+      "chemin": [
+        "C. S'approprier le caractère expressif de l'œuvre"
+      ],
+      "texte": "f. Faire des enchaînements par section en utilisant des ressources expressives multimédias qui respectent son intention de communication et celle de l’auteur (ex. : son, image, choix scénographiques, transition, rythme, atmosphère)",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "apprentissage",
+        "5": "maitrise"
+      },
+      "page": 17,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ADR-INT-039",
+      "competence": "2 – Interpréter des œuvres dramatiques",
+      "section": null,
+      "chemin": [
+        "D. Respecter les conventions relatives à l'unité de jeu"
+      ],
+      "texte": "b. Faire des enchaînements complets en tenant compte de l’espace scénique et des conventions de jeu dans son interprétation",
+      "prioritaire": false,
+      "progression": {
+        "1": "apprentissage",
+        "2": "maitrise",
+        "3": null,
+        "4": null,
+        "5": null
+      },
+      "page": 17,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ADR-INT-040",
+      "competence": "2 – Interpréter des œuvres dramatiques",
+      "section": null,
+      "chemin": [
+        "D. Respecter les conventions relatives à l'unité de jeu"
+      ],
+      "texte": "c. Faire des enchaînements complets en tenant compte du travail d’ensemble, des conventions de jeu et de l’espace scénique dans son interprétation",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "maitrise",
+        "5": null
+      },
+      "page": 17,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ADR-INT-041",
+      "competence": "2 – Interpréter des œuvres dramatiques",
+      "section": null,
+      "chemin": [
+        "D. Respecter les conventions relatives à l'unité de jeu"
+      ],
+      "texte": "d. Faire des enchaînements complets en tenant compte du travail d’ensemble, des conventions établies (jeu dramatique et structure théâtrale) et de l’espace scénique dans son interprétation",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "apprentissage",
+        "5": "maitrise"
+      },
+      "page": 17,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ADR-INT-042",
+      "competence": "2 – Interpréter des œuvres dramatiques",
+      "section": null,
+      "chemin": [
+        "D. Respecter les conventions relatives à l'unité de jeu"
+      ],
+      "texte": "e. Faire des enchaînements complets en tenant compte du travail d’ensemble, des conventions établies (jeu dramatique, structure théâtrale) et de l’espace scénique tout en ajustant son jeu au cours de l’interprétation de l’œuvre",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "apprentissage",
+        "5": "maitrise"
+      },
+      "page": 17,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ADR-INT-043",
+      "competence": "2 – Interpréter des œuvres dramatiques",
+      "section": null,
+      "chemin": [
+        "E. Rendre compte de son expérience d'interprétation"
+      ],
+      "texte": "b. Utiliser le vocabulaire disciplinaire selon la terminologie prescrite dans ce programme",
+      "prioritaire": false,
+      "progression": {
+        "1": "apprentissage",
+        "2": "maitrise",
+        "3": null,
+        "4": null,
+        "5": null
+      },
+      "page": 17,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ADR-INT-044",
+      "competence": "2 – Interpréter des œuvres dramatiques",
+      "section": null,
+      "chemin": [
+        "E. Rendre compte de son expérience d'interprétation"
+      ],
+      "texte": "c. Utiliser le vocabulaire disciplinaire selon la terminologie prescrite dans chacun des programmes",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "maitrise",
+        "5": null
+      },
+      "page": 17,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ADR-INT-045",
+      "competence": "2 – Interpréter des œuvres dramatiques",
+      "section": null,
+      "chemin": [
+        "E. Rendre compte de son expérience d'interprétation"
+      ],
+      "texte": "e. Décrire des aspects de son expérience qui sont liés à la démarche d’interprétation et plus particulièrement aux stratégies utilisées (ex. : repérage des traits distinctifs du personnage, mémorisation du texte)",
+      "prioritaire": false,
+      "progression": {
+        "1": "apprentissage",
+        "2": "maitrise",
+        "3": null,
+        "4": null,
+        "5": null
+      },
+      "page": 17,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ADR-INT-046",
+      "competence": "2 – Interpréter des œuvres dramatiques",
+      "section": null,
+      "chemin": [
+        "E. Rendre compte de son expérience d'interprétation"
+      ],
+      "texte": "f. Décrire des aspects de son expérience qui sont liés à la démarche d’interprétation et aux stratégies utilisées (capacité à respecter les conventions préétablies, stratégies liées à la mémorisation et à la concentration)",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "maitrise",
+        "5": null
+      },
+      "page": 17,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ADR-APP-001",
+      "competence": "3 – Apprécier des œuvres dramatiques",
+      "section": null,
+      "chemin": [
+        "A. Analyser une œuvre ou un extrait d'œuvre 1"
+      ],
+      "texte": "b. Relever des éléments constitutifs de l’œuvre au regard du jeu dramatique, de la dramaturgie et de la théâtralité (ex. : le développement de son contenu, le parcours de certains personnages)",
+      "prioritaire": false,
+      "progression": {
+        "1": "apprentissage",
+        "2": "maitrise",
+        "3": null,
+        "4": null,
+        "5": null
+      },
+      "page": 19,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ADR-APP-002",
+      "competence": "3 – Apprécier des œuvres dramatiques",
+      "section": null,
+      "chemin": [
+        "A. Analyser une œuvre ou un extrait d'œuvre 1"
+      ],
+      "texte": "c. Faire des liens entre les éléments de contenu repérés et les aspects historiques et socioculturels représentés dans l’œuvre (ex. : les particularités de la gestuelle utilisée, le type de personnage, le décor, les costumes, la période artistique)",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "maitrise",
+        "5": null
+      },
+      "page": 19,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ADR-APP-003",
+      "competence": "3 – Apprécier des œuvres dramatiques",
+      "section": null,
+      "chemin": [
+        "A. Analyser une œuvre ou un extrait d'œuvre 1"
+      ],
+      "texte": "d. Situer, dans l’œuvre, des éléments de contenu qui ont une portée symbolique (ex. : paroles, gestes, objets)",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "apprentissage",
+        "5": "maitrise"
+      },
+      "page": 19,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ADR-APP-004",
+      "competence": "3 – Apprécier des œuvres dramatiques",
+      "section": null,
+      "chemin": [
+        "A. Analyser une œuvre ou un extrait d'œuvre 1"
+      ],
+      "texte": "e. Situer, dans l’œuvre, des éléments de contenu multimédia qui ont une portée symbolique (montage sonore, effets, projections d’images, textes poétiques)",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "apprentissage",
+        "5": "maitrise"
+      },
+      "page": 19,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ADR-APP-005",
+      "competence": "3 – Apprécier des œuvres dramatiques",
+      "section": null,
+      "chemin": [
+        "A. Analyser une œuvre ou un extrait d'œuvre 1",
+        "1. Jeu (1 er cycle) Jeu dramatique (corps-voix) (2 e cycle)"
+      ],
+      "texte": "b. Relever, dans l’œuvre, des éléments du jeu dramatique pour la construction du personnage (ex. : attitude, gestuelle, démarche, registre, accent)",
+      "prioritaire": false,
+      "progression": {
+        "1": "apprentissage",
+        "2": "maitrise",
+        "3": null,
+        "4": null,
+        "5": null
+      },
+      "page": 19,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ADR-APP-006",
+      "competence": "3 – Apprécier des œuvres dramatiques",
+      "section": null,
+      "chemin": [
+        "A. Analyser une œuvre ou un extrait d'œuvre 1",
+        "1. Jeu (1 er cycle) Jeu dramatique (corps-voix) (2 e cycle)"
+      ],
+      "texte": "c. Relever, dans l’œuvre, des moyens corporels ou vocaux dans le jeu dramatique (ex. : tonus, intonation, articulation, prononciation)",
+      "prioritaire": false,
+      "progression": {
+        "1": "apprentissage",
+        "2": "maitrise",
+        "3": null,
+        "4": null,
+        "5": null
+      },
+      "page": 19,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ADR-APP-007",
+      "competence": "3 – Apprécier des œuvres dramatiques",
+      "section": null,
+      "chemin": [
+        "A. Analyser une œuvre ou un extrait d'œuvre 1",
+        "1. Jeu (1 er cycle) Jeu dramatique (corps-voix) (2 e cycle)"
+      ],
+      "texte": "d. Décrire des éléments du jeu dramatique pour la construction du personnage (ex. : déplacement, direction du regard, effets vocaux, émotion)",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "maitrise",
+        "5": null
+      },
+      "page": 19,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ADR-APP-008",
+      "competence": "3 – Apprécier des œuvres dramatiques",
+      "section": null,
+      "chemin": [
+        "A. Analyser une œuvre ou un extrait d'œuvre 1",
+        "1. Jeu (1 er cycle) Jeu dramatique (corps-voix) (2 e cycle)"
+      ],
+      "texte": "e. Décrire des moyens corporels ou vocaux dans le jeu dramatique (ex. : ouverture vers le public, amplitude, accent tonique, projection)",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "apprentissage",
+        "5": "maitrise"
+      },
+      "page": 19,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ADR-APP-009",
+      "competence": "3 – Apprécier des œuvres dramatiques",
+      "section": null,
+      "chemin": [
+        "A. Analyser une œuvre ou un extrait d'œuvre 1",
+        "1. Jeu (1 er cycle) Jeu dramatique (corps-voix) (2 e cycle)"
+      ],
+      "texte": "f. Décrire les différents aspects du jeu dramatique (ex. : construction du personnage, moyens corporels et expressifs, moyens vocaux et expressifs, travail d’ensemble, types de discours)",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "apprentissage",
+        "5": "maitrise"
+      },
+      "page": 19,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ADR-APP-010",
+      "competence": "3 – Apprécier des œuvres dramatiques",
+      "section": null,
+      "chemin": [
+        "A. Analyser une œuvre ou un extrait d'œuvre 1",
+        "1. Jeu (1 er cycle) Jeu dramatique (corps-voix) (2 e cycle)"
+      ],
+      "texte": "g. Décrire des aspects du jeu dramatique associés à la scène et au multimédia (ex. : construction du personnage, moyens corporels et expressifs, moyens vocaux et expressifs, travail d’ensemble)",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "apprentissage",
+        "5": "maitrise"
+      },
+      "page": 19,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ADR-APP-011",
+      "competence": "3 – Apprécier des œuvres dramatiques",
+      "section": null,
+      "chemin": [
+        "A. Analyser une œuvre ou un extrait d'œuvre 1",
+        "2. Dramaturgie (1 er cycle) Structure dramatique (écriture textuelle) (2 e cycle)"
+      ],
+      "texte": "b. Relever les différents types de discours utilisés dans l’œuvre (ex. : aparté, didascalie, dialogue)",
+      "prioritaire": false,
+      "progression": {
+        "1": "apprentissage",
+        "2": "maitrise",
+        "3": null,
+        "4": null,
+        "5": null
+      },
+      "page": 19,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ADR-APP-012",
+      "competence": "3 – Apprécier des œuvres dramatiques",
+      "section": null,
+      "chemin": [
+        "A. Analyser une œuvre ou un extrait d'œuvre 1",
+        "2. Dramaturgie (1 er cycle) Structure dramatique (écriture textuelle) (2 e cycle)"
+      ],
+      "texte": "d. Relever des passages caractéristiques du genre auquel appartient l’œuvre",
+      "prioritaire": false,
+      "progression": {
+        "1": "apprentissage",
+        "2": "maitrise",
+        "3": null,
+        "4": null,
+        "5": null
+      },
+      "page": 20,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ADR-APP-013",
+      "competence": "3 – Apprécier des œuvres dramatiques",
+      "section": null,
+      "chemin": [
+        "A. Analyser une œuvre ou un extrait d'œuvre 1",
+        "2. Dramaturgie (1 er cycle) Structure dramatique (écriture textuelle) (2 e cycle)"
+      ],
+      "texte": "e. Relever des passages qui comportent des indices de temps et d’espace",
+      "prioritaire": false,
+      "progression": {
+        "1": "apprentissage",
+        "2": "maitrise",
+        "3": null,
+        "4": null,
+        "5": null
+      },
+      "page": 20,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ADR-APP-014",
+      "competence": "3 – Apprécier des œuvres dramatiques",
+      "section": null,
+      "chemin": [
+        "A. Analyser une œuvre ou un extrait d'œuvre 1",
+        "2. Dramaturgie (1 er cycle) Structure dramatique (écriture textuelle) (2 e cycle)"
+      ],
+      "texte": "f. Décrire des passages déterminants de la structure dramatique (constitution de l’œuvre : action, ressorts, dénouement)",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "maitrise",
+        "5": null
+      },
+      "page": 20,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ADR-APP-015",
+      "competence": "3 – Apprécier des œuvres dramatiques",
+      "section": null,
+      "chemin": [
+        "A. Analyser une œuvre ou un extrait d'œuvre 1",
+        "2. Dramaturgie (1 er cycle) Structure dramatique (écriture textuelle) (2 e cycle)"
+      ],
+      "texte": "g. Décrire des passages qui présentent des indices de temps, d’espace ou d’action",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "apprentissage",
+        "5": "maitrise"
+      },
+      "page": 20,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ADR-APP-016",
+      "competence": "3 – Apprécier des œuvres dramatiques",
+      "section": null,
+      "chemin": [
+        "A. Analyser une œuvre ou un extrait d'œuvre 1",
+        "2. Dramaturgie (1 er cycle) Structure dramatique (écriture textuelle) (2 e cycle)"
+      ],
+      "texte": "h. Décrire la façon dont la structure dramatique est exploitée (ex. : caractère du personnage, types de discours, formes dramaturgiques, courants esthétiques)",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "apprentissage",
+        "5": "maitrise"
+      },
+      "page": 20,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ADR-APP-017",
+      "competence": "3 – Apprécier des œuvres dramatiques",
+      "section": null,
+      "chemin": [
+        "A. Analyser une œuvre ou un extrait d'œuvre 1",
+        "2. Dramaturgie (1 er cycle) Structure dramatique (écriture textuelle) (2 e cycle)",
+        "a. Repérer les tableaux P"
+      ],
+      "texte": "i. Décrire la façon dont est exploitée la structure dramatique associée à la scène et au multimédia (ex. : caractère du personnage, moyens dramaturgiques, types de discours, formes dramaturgiques)",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "apprentissage",
+        "5": "maitrise"
+      },
+      "page": 20,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ADR-APP-018",
+      "competence": "3 – Apprécier des œuvres dramatiques",
+      "section": null,
+      "chemin": [
+        "A. Analyser une œuvre ou un extrait d'œuvre 1",
+        "3. Théâtralité (1 er cycle) Structure théâtrale (écriture scénique) (2 e cycle)"
+      ],
+      "texte": "b. Relever des choix théâtraux (ex. : costumes, décors, éclairages, techniques théâtrales, environnements sonores, espaces scéniques et scénographiques)",
+      "prioritaire": false,
+      "progression": {
+        "1": "apprentissage",
+        "2": "maitrise",
+        "3": null,
+        "4": null,
+        "5": null
+      },
+      "page": 20,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ADR-APP-019",
+      "competence": "3 – Apprécier des œuvres dramatiques",
+      "section": null,
+      "chemin": [
+        "A. Analyser une œuvre ou un extrait d'œuvre 1",
+        "3. Théâtralité (1 er cycle) Structure théâtrale (écriture scénique) (2 e cycle)"
+      ],
+      "texte": "c. Relever des aspects de la mise en scène (ex. : réponses aux repères sonores et visuels, conventions relatives à l’unité de jeu)",
+      "prioritaire": false,
+      "progression": {
+        "1": "apprentissage",
+        "2": "maitrise",
+        "3": null,
+        "4": null,
+        "5": null
+      },
+      "page": 20,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ADR-APP-020",
+      "competence": "3 – Apprécier des œuvres dramatiques",
+      "section": null,
+      "chemin": [
+        "A. Analyser une œuvre ou un extrait d'œuvre 1",
+        "3. Théâtralité (1 er cycle) Structure théâtrale (écriture scénique) (2 e cycle)"
+      ],
+      "texte": "d. Décrire la fonction ou l’utilisation de certains costumes",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "maitrise",
+        "5": null
+      },
+      "page": 20,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ADR-APP-021",
+      "competence": "3 – Apprécier des œuvres dramatiques",
+      "section": null,
+      "chemin": [
+        "A. Analyser une œuvre ou un extrait d'œuvre 1",
+        "3. Théâtralité (1 er cycle) Structure théâtrale (écriture scénique) (2 e cycle)"
+      ],
+      "texte": "e. Décrire la fonction ou l’utilisation de certains accessoires et éléments de décor",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "apprentissage",
+        "5": "maitrise"
+      },
+      "page": 20,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ADR-APP-022",
+      "competence": "3 – Apprécier des œuvres dramatiques",
+      "section": null,
+      "chemin": [
+        "A. Analyser une œuvre ou un extrait d'œuvre 1",
+        "3. Théâtralité (1 er cycle) Structure théâtrale (écriture scénique) (2 e cycle)"
+      ],
+      "texte": "f. Décrire différents aspects de l’exploitation de la structure théâtrale (ex. : éléments visuels et sonores, travail d’ensemble, techniques théâtrales)",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "apprentissage",
+        "5": "maitrise"
+      },
+      "page": 20,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ADR-APP-023",
+      "competence": "3 – Apprécier des œuvres dramatiques",
+      "section": null,
+      "chemin": [
+        "A. Analyser une œuvre ou un extrait d'œuvre 1",
+        "3. Théâtralité (1 er cycle) Structure théâtrale (écriture scénique) (2 e cycle)"
+      ],
+      "texte": "g. Décrire différents aspects de l’exploitation de la structure théâtrale associés à la scène et au multimédia (ex. : procédés de réalisation, espace scénique et multimédia, éléments visuels et sonores, techniques théâtrales)",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "apprentissage",
+        "5": "maitrise"
+      },
+      "page": 20,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ADR-APP-024",
+      "competence": "3 – Apprécier des œuvres dramatiques",
+      "section": null,
+      "chemin": [
+        "B. Interpréter le sens de l'œuvre"
+      ],
+      "texte": "b. Faire des liens entre les éléments observés et la signification perçue (ex. : le traitement de certains choix théâtraux, de certains éléments liés au caractère du personnage)",
+      "prioritaire": false,
+      "progression": {
+        "1": "apprentissage",
+        "2": "maitrise",
+        "3": null,
+        "4": null,
+        "5": null
+      },
+      "page": 20,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ADR-APP-025",
+      "competence": "3 – Apprécier des œuvres dramatiques",
+      "section": null,
+      "chemin": [
+        "B. Interpréter le sens de l'œuvre"
+      ],
+      "texte": "c. Faire des liens entre les éléments observés, la signification perçue et les éléments expressifs de l’œuvre (ex. : expression de l’émotion par le corps et la voix)",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "maitrise",
+        "5": null
+      },
+      "page": 20,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ADR-APP-026",
+      "competence": "3 – Apprécier des œuvres dramatiques",
+      "section": null,
+      "chemin": [
+        "B. Interpréter le sens de l'œuvre"
+      ],
+      "texte": "d. Faire des liens entre les éléments observés, la signification perçue et la symbolique de l’œuvre (ex. : certains repères signifiants pour le spectateur)",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "apprentissage",
+        "5": "maitrise"
+      },
+      "page": 20,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ADR-APP-027",
+      "competence": "3 – Apprécier des œuvres dramatiques",
+      "section": null,
+      "chemin": [
+        "C. Porter un jugement d'ordre critique et esthétique"
+      ],
+      "texte": "b. Utiliser le vocabulaire disciplinaire selon la terminologie prescrite dans ce programme",
+      "prioritaire": false,
+      "progression": {
+        "1": "apprentissage",
+        "2": "maitrise",
+        "3": null,
+        "4": null,
+        "5": null
+      },
+      "page": 20,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ADR-APP-028",
+      "competence": "3 – Apprécier des œuvres dramatiques",
+      "section": null,
+      "chemin": [
+        "C. Porter un jugement d'ordre critique et esthétique"
+      ],
+      "texte": "c. Utiliser le vocabulaire disciplinaire selon la terminologie prescrite dans chacun des programmes",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "maitrise",
+        "5": null
+      },
+      "page": 20,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ADR-APP-029",
+      "competence": "3 – Apprécier des œuvres dramatiques",
+      "section": null,
+      "chemin": [
+        "C. Porter un jugement d'ordre critique et esthétique"
+      ],
+      "texte": "e. Exprimer ses préférences à partir d’arguments liés à ses observations et à des critères d’appréciation retenus",
+      "prioritaire": false,
+      "progression": {
+        "1": "apprentissage",
+        "2": "maitrise",
+        "3": null,
+        "4": null,
+        "5": null
+      },
+      "page": 20,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ADR-APP-030",
+      "competence": "3 – Apprécier des œuvres dramatiques",
+      "section": null,
+      "chemin": [
+        "C. Porter un jugement d'ordre critique et esthétique"
+      ],
+      "texte": "f. Justifier son point de vue en appuyant son argumentation sur des liens entre les différents éléments retenus (ex. : l’intensité de certaines émotions appuyées par une atmosphère sonore et par différents mouvements sur la scène)",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "maitrise",
+        "5": null
+      },
+      "page": 20,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ADR-APP-031",
+      "competence": "3 – Apprécier des œuvres dramatiques",
+      "section": null,
+      "chemin": [
+        "D. Rendre compte de son expérience d'appréciation"
+      ],
+      "texte": "b. Utiliser le vocabulaire disciplinaire selon la terminologie prescrite dans ce programme",
+      "prioritaire": false,
+      "progression": {
+        "1": "apprentissage",
+        "2": "maitrise",
+        "3": null,
+        "4": null,
+        "5": null
+      },
+      "page": 21,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ADR-APP-032",
+      "competence": "3 – Apprécier des œuvres dramatiques",
+      "section": null,
+      "chemin": [
+        "D. Rendre compte de son expérience d'appréciation"
+      ],
+      "texte": "c. Utiliser le vocabulaire disciplinaire selon la terminologie prescrite dans chacun des programmes",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "maitrise",
+        "5": null
+      },
+      "page": 21,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ADR-APP-033",
+      "competence": "3 – Apprécier des œuvres dramatiques",
+      "section": null,
+      "chemin": [
+        "D. Rendre compte de son expérience d'appréciation"
+      ],
+      "texte": "e. Décrire des aspects de son expérience qui sont liés à la démarche d’appréciation et plus particulièrement aux stratégies utilisées (ex. : utilisation de différents moyens pour développer l’acuité de sa perception)",
+      "prioritaire": false,
+      "progression": {
+        "1": "apprentissage",
+        "2": "maitrise",
+        "3": null,
+        "4": null,
+        "5": null
+      },
+      "page": 21,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ADR-APP-034",
+      "competence": "3 – Apprécier des œuvres dramatiques",
+      "section": null,
+      "chemin": [
+        "D. Rendre compte de son expérience d'appréciation"
+      ],
+      "texte": "f. Décrire des aspects de son expérience qui sont liés à la démarche d’appréciation et aux stratégies utilisées (ex. : stratégies liées à la centration pour recevoir l’œuvre, stratégies liées à l’observation et à la perception pour analyser l’œuvre)",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "maitrise",
+        "5": null
+      },
+      "page": 21,
+      "a_verifier": false,
+      "note": ""
+    }
+  ],
+  "source_url": "https://cdn-contenu.quebec.ca/cdn-contenu/education/pfeq/secondaire/progressions-apprentissages/PFEQ-progression-apprentissages-art-dramatique-secondaire.pdf",
+  "controle_logique": {
+    "date": "2026-11-10",
+    "illogiques": 0
+  }
+}

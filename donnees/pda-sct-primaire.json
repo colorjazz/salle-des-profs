@@ -1,0 +1,3790 @@
+{
+  "discipline": "Science et technologie",
+  "code_discipline": "SCT",
+  "ordre": "primaire",
+  "source": "science-technologie.pdf",
+  "annees": [
+    "1",
+    "2",
+    "3",
+    "4",
+    "5",
+    "6"
+  ],
+  "pages_avec_grandes_images": [],
+  "bilan": {
+    "nombre_savoirs": 171,
+    "a_verifier": 0,
+    "prioritaires": 63
+  },
+  "savoirs": [
+    {
+      "id": "SCT-LUN-001",
+      "competence": "L’univers matériel",
+      "section": null,
+      "chemin": [
+        "A. Matière",
+        "1. Propriétés et caractéristiques de la matière"
+      ],
+      "texte": "a. Classer des objets à l’aide de leurs propriétés (ex. : couleur, forme, taille, texture, odeur)",
+      "prioritaire": false,
+      "progression": {
+        "1": "apprentissage",
+        "2": "maitrise",
+        "3": "reinvestissement",
+        "4": "reinvestissement",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 4,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "SCT-LUN-002",
+      "competence": "L’univers matériel",
+      "section": null,
+      "chemin": [
+        "A. Matière",
+        "1. Propriétés et caractéristiques de la matière"
+      ],
+      "texte": "b. Classer des matériaux (ex. : tissus, éponges, papiers) selon leur degré d’absorption",
+      "prioritaire": false,
+      "progression": {
+        "1": "apprentissage",
+        "2": "maitrise",
+        "3": "reinvestissement",
+        "4": "reinvestissement",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 4,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "SCT-LUN-003",
+      "competence": "L’univers matériel",
+      "section": null,
+      "chemin": [
+        "A. Matière",
+        "1. Propriétés et caractéristiques de la matière"
+      ],
+      "texte": "c. Distinguer les matériaux perméables à l’eau de ceux qui ne le sont pas",
+      "prioritaire": false,
+      "progression": {
+        "1": "apprentissage",
+        "2": "maitrise",
+        "3": "reinvestissement",
+        "4": "reinvestissement",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 4,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "SCT-LUN-004",
+      "competence": "L’univers matériel",
+      "section": null,
+      "chemin": [
+        "A. Matière",
+        "1. Propriétés et caractéristiques de la matière"
+      ],
+      "texte": "d. Distinguer les substances translucides (transparentes ou colorées) des substances opaques",
+      "prioritaire": false,
+      "progression": {
+        "1": "apprentissage",
+        "2": "maitrise",
+        "3": "reinvestissement",
+        "4": "reinvestissement",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 4,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "SCT-LUN-005",
+      "competence": "L’univers matériel",
+      "section": null,
+      "chemin": [
+        "A. Matière",
+        "1. Propriétés et caractéristiques de la matière"
+      ],
+      "texte": "e. Décrire la forme, la couleur et la texture d’un objet ou d’une substance",
+      "prioritaire": true,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "maitrise",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 4,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "SCT-LUN-006",
+      "competence": "L’univers matériel",
+      "section": null,
+      "chemin": [
+        "A. Matière",
+        "1. Propriétés et caractéristiques de la matière"
+      ],
+      "texte": "f. Distinguer la masse (quantité de matière) d’un objet de son poids (force de gravité exercée sur une masse)",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "maitrise",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 4,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "SCT-LUN-007",
+      "competence": "L’univers matériel",
+      "section": null,
+      "chemin": [
+        "A. Matière",
+        "1. Propriétés et caractéristiques de la matière"
+      ],
+      "texte": "g. Classer des solides selon leur masse volumique (volumes identiques et masses différentes ou masses identiques et volumes différents)",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "maitrise",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 4,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "SCT-LUN-008",
+      "competence": "L’univers matériel",
+      "section": null,
+      "chemin": [
+        "A. Matière",
+        "1. Propriétés et caractéristiques de la matière"
+      ],
+      "texte": "h. Associer la flottabilité d’un volume de liquide sur un volume identique d’un autre liquide à leur masse volumique (densité) respective",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "maitrise",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 4,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "SCT-LUN-009",
+      "competence": "L’univers matériel",
+      "section": null,
+      "chemin": [
+        "A. Matière",
+        "1. Propriétés et caractéristiques de la matière"
+      ],
+      "texte": "i. Expliquer la flottabilité d’une substance sur une autre par leur masse volumique (densité) respective j. Décrire diverses autres propriétés physiques d’un objet, d’une substance ou d’un matériau (ex. : élasticité, dureté, solubilité) k. Reconnaître des matériaux qui composent un objet",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": "apprentissage",
+        "6": "maitrise"
+      },
+      "page": 4,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "SCT-LUN-010",
+      "competence": "L’univers matériel",
+      "section": null,
+      "chemin": [
+        "A. Matière",
+        "2. Mélanges"
+      ],
+      "texte": "a. Reconnaître des mélanges dans son milieu (ex. : air, jus, vinaigrette, soupe, pain aux raisins)",
+      "prioritaire": false,
+      "progression": {
+        "1": "apprentissage",
+        "2": "maitrise",
+        "3": "reinvestissement",
+        "4": "reinvestissement",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 4,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "SCT-LUN-011",
+      "competence": "L’univers matériel",
+      "section": null,
+      "chemin": [
+        "A. Matière",
+        "2. Mélanges"
+      ],
+      "texte": "b. Distinguer un mélange de liquides miscibles d’un mélange de liquides non miscibles (ex. : eau et lait; eau et huile)",
+      "prioritaire": true,
+      "progression": {
+        "1": "apprentissage",
+        "2": "maitrise",
+        "3": "reinvestissement",
+        "4": "reinvestissement",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 4,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "SCT-LUN-012",
+      "competence": "L’univers matériel",
+      "section": null,
+      "chemin": [
+        "A. Matière",
+        "2. Mélanges"
+      ],
+      "texte": "c. Distinguer une substance soluble dans l’eau (ex. : sel, sucre) d’une substance non soluble dans l’eau (ex. : poivre, sable)",
+      "prioritaire": true,
+      "progression": {
+        "1": "apprentissage",
+        "2": "maitrise",
+        "3": "reinvestissement",
+        "4": "reinvestissement",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 4,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "SCT-LUN-013",
+      "competence": "L’univers matériel",
+      "section": null,
+      "chemin": [
+        "A. Matière",
+        "3. État solide, liquide, gazeux; changements d’état"
+      ],
+      "texte": "a. Distinguer trois états de la matière (solide, liquide, gazeux)",
+      "prioritaire": true,
+      "progression": {
+        "1": "apprentissage",
+        "2": "maitrise",
+        "3": "reinvestissement",
+        "4": "reinvestissement",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 4,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "SCT-LUN-014",
+      "competence": "L’univers matériel",
+      "section": null,
+      "chemin": [
+        "A. Matière",
+        "3. État solide, liquide, gazeux; changements d’état"
+      ],
+      "texte": "b. Reconnaître l’eau sous l’état solide (glace, neige), liquide et gazeux (vapeur)",
+      "prioritaire": true,
+      "progression": {
+        "1": "apprentissage",
+        "2": "maitrise",
+        "3": "reinvestissement",
+        "4": "reinvestissement",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 4,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "SCT-LUN-015",
+      "competence": "L’univers matériel",
+      "section": null,
+      "chemin": [
+        "A. Matière",
+        "3. État solide, liquide, gazeux; changements d’état"
+      ],
+      "texte": "c. Décrire les opérations à effectuer pour transformer l’eau d’un état à un autre (chauffer ou refroidir)",
+      "prioritaire": true,
+      "progression": {
+        "1": "apprentissage",
+        "2": "maitrise",
+        "3": "reinvestissement",
+        "4": "reinvestissement",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 4,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "SCT-LUN-016",
+      "competence": "L’univers matériel",
+      "section": null,
+      "chemin": [
+        "A. Matière",
+        "3. État solide, liquide, gazeux; changements d’état"
+      ],
+      "texte": "d. Déterminer, dans son environnement, l’état de divers objets et substances (ex. : verre, air, lait, plastique)",
+      "prioritaire": true,
+      "progression": {
+        "1": "apprentissage",
+        "2": "maitrise",
+        "3": "reinvestissement",
+        "4": "reinvestissement",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 4,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "SCT-LUN-017",
+      "competence": "L’univers matériel",
+      "section": null,
+      "chemin": [
+        "A. Matière",
+        "4. Conservation de la matière"
+      ],
+      "texte": "a. Reconnaître qu’il y a conservation de la quantité de matière lors d’une transformation (ex. : 50 mL d’eau dans une soucoupe ou un verre, craie entière ou broyée, pâte à modeler aplatie ou en boule)",
+      "prioritaire": false,
+      "progression": {
+        "1": "apprentissage",
+        "2": "maitrise",
+        "3": "reinvestissement",
+        "4": "reinvestissement",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 4,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "SCT-LUN-018",
+      "competence": "L’univers matériel",
+      "section": null,
+      "chemin": [
+        "A. Matière",
+        "4. Conservation de la matière"
+      ],
+      "texte": "a. Démontrer que des changements physiques (ex. : déformation, cassure, broyage, changement d’état) ne modifient pas les propriétés de la matière",
+      "prioritaire": true,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "maitrise",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 5,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "SCT-LUN-019",
+      "competence": "L’univers matériel",
+      "section": null,
+      "chemin": [
+        "A. Matière",
+        "4. Conservation de la matière"
+      ],
+      "texte": "b. Démontrer que des changements chimiques (ex. : cuisson, combustion, oxydation, réaction acide-base) modifient les propriétés de la matière",
+      "prioritaire": true,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": "apprentissage",
+        "6": "maitrise"
+      },
+      "page": 5,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "SCT-LUN-020",
+      "competence": "L’univers matériel",
+      "section": null,
+      "chemin": [
+        "A. Matière",
+        "4. Conservation de la matière"
+      ],
+      "texte": "c. Expliquer le mode de fabrication de certains produits domestiques (ex. : savon, 1 papier)",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "apprentissage",
+        "5": "apprentissage",
+        "6": "maitrise"
+      },
+      "page": 5,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "SCT-LUN-021",
+      "competence": "L’univers matériel",
+      "section": null,
+      "chemin": [
+        "A. Matière",
+        "6. Produits domestiques courants"
+      ],
+      "texte": "a. Associer les usages de certains produits domestiques à leurs propriétés (ex. : les produits nettoyants délogent les graisses; le vinaigre et le jus de citron aident à la conservation de certains aliments)",
+      "prioritaire": false,
+      "progression": {
+        "1": "apprentissage",
+        "2": "maitrise",
+        "3": "reinvestissement",
+        "4": "reinvestissement",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 5,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "SCT-LUN-022",
+      "competence": "L’univers matériel",
+      "section": null,
+      "chemin": [
+        "A. Matière",
+        "6. Produits domestiques courants"
+      ],
+      "texte": "b. Reconnaître des produits d’usage courant qui présentent un danger (pictogrammes de sécurité)",
+      "prioritaire": true,
+      "progression": {
+        "1": "apprentissage",
+        "2": "maitrise",
+        "3": "reinvestissement",
+        "4": "reinvestissement",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 5,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "SCT-LUN-023",
+      "competence": "L’univers matériel",
+      "section": null,
+      "chemin": [
+        "B. Énergie",
+        "1. Formes d’énergie"
+      ],
+      "texte": "a. Décrire différentes formes d’énergie ( mécanique, électrique, lumineuse, chimique, calorifique, sonore, nucléaire)",
+      "prioritaire": true,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "maitrise",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 5,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "SCT-LUN-024",
+      "competence": "L’univers matériel",
+      "section": null,
+      "chemin": [
+        "B. Énergie",
+        "1. Formes d’énergie"
+      ],
+      "texte": "b. Identifier des sources d’énergie dans son environnement (ex. : eau en mouvement, réaction chimique dans une pile, rayonnement solaire)",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "apprentissage",
+        "5": "apprentissage",
+        "6": "maitrise"
+      },
+      "page": 5,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "SCT-LUN-025",
+      "competence": "L’univers matériel",
+      "section": null,
+      "chemin": [
+        "B. Énergie",
+        "2. Transmission de l’énergie"
+      ],
+      "texte": "a. Distinguer les substances qui sont des conducteurs thermiques de celles qui sont des isolants thermiques",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": "apprentissage",
+        "6": "maitrise"
+      },
+      "page": 5,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "SCT-LUN-026",
+      "competence": "L’univers matériel",
+      "section": null,
+      "chemin": [
+        "B. Énergie",
+        "2. Transmission de l’énergie"
+      ],
+      "texte": "b. Distinguer les substances qui sont des conducteurs électriques de celles qui sont des isolants électriques",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": "apprentissage",
+        "6": "maitrise"
+      },
+      "page": 5,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "SCT-LUN-027",
+      "competence": "L’univers matériel",
+      "section": null,
+      "chemin": [
+        "B. Énergie",
+        "2. Transmission de l’énergie"
+      ],
+      "texte": "c. Identifier les composantes d’un circuit électrique simple (fil, source, ampoule, interrupteur)",
+      "prioritaire": true,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": "apprentissage",
+        "6": "maitrise"
+      },
+      "page": 5,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "SCT-LUN-028",
+      "competence": "L’univers matériel",
+      "section": null,
+      "chemin": [
+        "B. Énergie",
+        "2. Transmission de l’énergie"
+      ],
+      "texte": "d. Décrire la fonction des composantes d’un circuit électrique simple (conducteur, isolant, source d’énergie, ampoule, interrupteur)",
+      "prioritaire": true,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": "apprentissage",
+        "6": "maitrise"
+      },
+      "page": 5,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "SCT-LUN-029",
+      "competence": "L’univers matériel",
+      "section": null,
+      "chemin": [
+        "B. Énergie",
+        "2. Transmission de l’énergie"
+      ],
+      "texte": "e. Identifier des caractéristiques d’une onde sonore (ex. : volume, timbre, écho)",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "maitrise",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 5,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "SCT-LUN-030",
+      "competence": "L’univers matériel",
+      "section": null,
+      "chemin": [
+        "B. Énergie",
+        "2. Transmission de l’énergie"
+      ],
+      "texte": "f. Décrire le comportement d’un rayon lumineux (réflexion, réfraction)",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": "apprentissage",
+        "6": "maitrise"
+      },
+      "page": 5,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "SCT-LUN-031",
+      "competence": "L’univers matériel",
+      "section": null,
+      "chemin": [
+        "B. Énergie",
+        "2. Transmission de l’énergie"
+      ],
+      "texte": "g. Expliquer le mouvement de convection dans les liquides et les gaz (ex. : eau en ébullition)",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "maitrise",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 5,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "SCT-LUN-032",
+      "competence": "L’univers matériel",
+      "section": null,
+      "chemin": [
+        "B. Énergie",
+        "3. Transformation de l’énergie"
+      ],
+      "texte": "a. Décrire des situations dans lesquelles les humains consomment de l’énergie (ex. : chauffage, transport, alimentation, loisirs)",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "apprentissage",
+        "5": "apprentissage",
+        "6": "maitrise"
+      },
+      "page": 5,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "SCT-LUN-033",
+      "competence": "L’univers matériel",
+      "section": null,
+      "chemin": [
+        "B. Énergie",
+        "3. Transformation de l’énergie"
+      ],
+      "texte": "b. Nommer des moyens utilisés par l’homme pour limiter sa consommation d’énergie (ex. : ampoule fluorescente, appareils à minuterie) et pour la conserver (isolation)",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "maitrise",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 5,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "SCT-LUN-034",
+      "competence": "L’univers matériel",
+      "section": null,
+      "chemin": [
+        "B. Énergie",
+        "3. Transformation de l’énergie"
+      ],
+      "texte": "c. Expliquer les propriétés isolantes de diverses substances (ex. : polystyrène, laine minérale, paille)",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": "apprentissage",
+        "6": "maitrise"
+      },
+      "page": 5,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "SCT-LUN-035",
+      "competence": "L’univers matériel",
+      "section": null,
+      "chemin": [
+        "B. Énergie",
+        "3. Transformation de l’énergie"
+      ],
+      "texte": "d. Décrire des transformations de l’énergie d’une forme à une autre",
+      "prioritaire": true,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "maitrise",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 5,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "SCT-LUN-036",
+      "competence": "L’univers matériel",
+      "section": null,
+      "chemin": [
+        "B. Énergie",
+        "3. Transformation de l’énergie"
+      ],
+      "texte": "e. Reconnaître des transformations de l’énergie d’une forme à une autre dans différents appareils (ex. : lampe de poche, de chimique à lumineuse; bouilloire, d’électrique à calorifique)",
+      "prioritaire": true,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": "apprentissage",
+        "6": "maitrise"
+      },
+      "page": 5,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "SCT-LUN-037",
+      "competence": "L’univers matériel",
+      "section": null,
+      "chemin": [
+        "C. Forces et mouvements",
+        "1. Électrostatique"
+      ],
+      "texte": "a. Décrire l’effet de l’attraction électrostatique (ex. : papier attiré par un objet chargé)",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "maitrise",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 5,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "SCT-LUN-038",
+      "competence": "L’univers matériel",
+      "section": null,
+      "chemin": [
+        "C. Forces et mouvements",
+        "2. Magnétisme et électromagnétisme"
+      ],
+      "texte": "a. Reconnaître les effets du magnétisme dans des aimants (attraction ou répulsion)",
+      "prioritaire": true,
+      "progression": {
+        "1": "apprentissage",
+        "2": "maitrise",
+        "3": "reinvestissement",
+        "4": "reinvestissement",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 5,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "SCT-LUN-039",
+      "competence": "L’univers matériel",
+      "section": null,
+      "chemin": [
+        "C. Forces et mouvements",
+        "2. Magnétisme et électromagnétisme"
+      ],
+      "texte": "b. Identifier des situations dans lesquelles des aimants sont utilisés",
+      "prioritaire": false,
+      "progression": {
+        "1": "apprentissage",
+        "2": "maitrise",
+        "3": "reinvestissement",
+        "4": "reinvestissement",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 5,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "SCT-LUN-040",
+      "competence": "L’univers matériel",
+      "section": null,
+      "chemin": [
+        "C. Forces et mouvements",
+        "2. Magnétisme et électromagnétisme"
+      ],
+      "texte": "c. Distinguer un aimant d’un électroaimant",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": "apprentissage",
+        "6": "maitrise"
+      },
+      "page": 5,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "SCT-LUN-041",
+      "competence": "L’univers matériel",
+      "section": null,
+      "chemin": [
+        "C. Forces et mouvements",
+        "2. Magnétisme et électromagnétisme"
+      ],
+      "texte": "d. Identifier des objets qui utilisent le principe de l’électromagnétisme (ex. : grue à électroaimant, porte coupe-feu)",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": "apprentissage",
+        "6": "maitrise"
+      },
+      "page": 5,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "SCT-LUN-042",
+      "competence": "L’univers matériel",
+      "section": null,
+      "chemin": [
+        "C. Forces et mouvements",
+        "3. Attraction gravitationnelle sur un objet"
+      ],
+      "texte": "a. Décrire l’effet de l’attraction gravitationnelle sur un objet (ex. : chute libre)",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": "apprentissage",
+        "6": "maitrise"
+      },
+      "page": 6,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "SCT-LUN-043",
+      "competence": "L’univers matériel",
+      "section": null,
+      "chemin": [
+        "C. Forces et mouvements",
+        "4. Pression"
+      ],
+      "texte": "a. Reconnaître diverses manifestations de la pression (ex. : ballon gonflable, pression atmosphérique, aile d’avion)",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": "apprentissage",
+        "6": "maitrise"
+      },
+      "page": 6,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "SCT-LUN-044",
+      "competence": "L’univers matériel",
+      "section": null,
+      "chemin": [
+        "C. Forces et mouvements",
+        "4. Pression"
+      ],
+      "texte": "b. Décrire comment la pression agit sur un corps (compression, déplacement, augmentation de la température)",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": "apprentissage",
+        "6": "maitrise"
+      },
+      "page": 6,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "SCT-LUN-045",
+      "competence": "L’univers matériel",
+      "section": null,
+      "chemin": [
+        "C. Forces et mouvements",
+        "5. Caractéristiques d’un mouvement"
+      ],
+      "texte": "a. Décrire les caractéristiques d’un mouvement (ex. : direction, vitesse)",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "maitrise",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 6,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "SCT-LUN-046",
+      "competence": "L’univers matériel",
+      "section": null,
+      "chemin": [
+        "C. Forces et mouvements",
+        "6. Effets d’une force sur la direction d’un objet"
+      ],
+      "texte": "a. Identifier des situations où la force de frottement (friction) est présente (pousser sur un objet, faire glisser un objet, le faire rouler)",
+      "prioritaire": false,
+      "progression": {
+        "1": "apprentissage",
+        "2": "maitrise",
+        "3": "reinvestissement",
+        "4": "reinvestissement",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 6,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "SCT-LUN-047",
+      "competence": "L’univers matériel",
+      "section": null,
+      "chemin": [
+        "C. Forces et mouvements",
+        "6. Effets d’une force sur la direction d’un objet"
+      ],
+      "texte": "b. Identifier des manifestations d’une force (ex. : tirer, pousser, lancer, comprimer, étirer)",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "maitrise",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 6,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "SCT-LUN-048",
+      "competence": "L’univers matériel",
+      "section": null,
+      "chemin": [
+        "C. Forces et mouvements",
+        "6. Effets d’une force sur la direction d’un objet"
+      ],
+      "texte": "c. Décrire comment une force agit sur un corps (le mettre en mouvement, modifier son mouvement, l’arrêter)",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "maitrise",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 6,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "SCT-LUN-049",
+      "competence": "L’univers matériel",
+      "section": null,
+      "chemin": [
+        "C. Forces et mouvements",
+        "6. Effets d’une force sur la direction d’un objet"
+      ],
+      "texte": "d. Décrire l’effet d’une force sur un matériau ou une structure",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "maitrise",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 6,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "SCT-LUN-050",
+      "competence": "L’univers matériel",
+      "section": null,
+      "chemin": [
+        "C. Forces et mouvements",
+        "7. Effets combinés de plusieurs forces sur un objet"
+      ],
+      "texte": "a. Prévoir l’effet combiné de plusieurs forces sur un objet au repos ou en déplacement rectiligne (ex. : renforcement, opposition)",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": "apprentissage",
+        "6": "maitrise"
+      },
+      "page": 6,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "SCT-LUN-051",
+      "competence": "L’univers matériel",
+      "section": null,
+      "chemin": [
+        "D. Systèmes et interaction",
+        "1. Objets techniques usuels"
+      ],
+      "texte": "a. Décrire des pièces et des mécanismes qui composent un objet",
+      "prioritaire": false,
+      "progression": {
+        "1": "apprentissage",
+        "2": "maitrise",
+        "3": "reinvestissement",
+        "4": "reinvestissement",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 6,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "SCT-LUN-052",
+      "competence": "L’univers matériel",
+      "section": null,
+      "chemin": [
+        "D. Systèmes et interaction",
+        "1. Objets techniques usuels"
+      ],
+      "texte": "b. Identifier des besoins à l’origine d’un objet",
+      "prioritaire": false,
+      "progression": {
+        "1": "apprentissage",
+        "2": "maitrise",
+        "3": "reinvestissement",
+        "4": "reinvestissement",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 6,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "SCT-LUN-053",
+      "competence": "L’univers matériel",
+      "section": null,
+      "chemin": [
+        "D. Systèmes et interaction",
+        "2. Machines simples"
+      ],
+      "texte": "a. Reconnaître des machines simples (levier, plan incliné, vis, poulie, treuil, roue) utilisées dans un objet (ex. : levier dans une balançoire à bascule, plan incliné dans une rampe d’accès)",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "maitrise",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 6,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "SCT-LUN-054",
+      "competence": "L’univers matériel",
+      "section": null,
+      "chemin": [
+        "D. Systèmes et interaction",
+        "2. Machines simples"
+      ],
+      "texte": "b. Décrire l’utilité de certaines machines simples (variation de l’effort à fournir)",
+      "prioritaire": true,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "maitrise",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 6,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "SCT-LUN-055",
+      "competence": "L’univers matériel",
+      "section": null,
+      "chemin": [
+        "D. Systèmes et interaction",
+        "3. Autres machines"
+      ],
+      "texte": "a. Identifier la fonction principale de quelques machines complexes (ex. : chariot, roue hydraulique, éolienne)",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": "apprentissage",
+        "6": "maitrise"
+      },
+      "page": 6,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "SCT-LUN-056",
+      "competence": "L’univers matériel",
+      "section": null,
+      "chemin": [
+        "D. Systèmes et interaction",
+        "4. Fonctionnement d’objets fabriqués"
+      ],
+      "texte": "a. Identifier des pièces mécaniques (engrenages, cames, ressorts , machines simples , bielles )",
+      "prioritaire": true,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "apprentissage",
+        "5": "apprentissage",
+        "6": "maitrise"
+      },
+      "page": 6,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "SCT-LUN-057",
+      "competence": "L’univers matériel",
+      "section": null,
+      "chemin": [
+        "D. Systèmes et interaction",
+        "4. Fonctionnement d’objets fabriqués"
+      ],
+      "texte": "b. Reconnaître deux types de mouvements (rotation et translation)",
+      "prioritaire": true,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "apprentissage",
+        "5": "apprentissage",
+        "6": "maitrise"
+      },
+      "page": 6,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "SCT-LUN-058",
+      "competence": "L’univers matériel",
+      "section": null,
+      "chemin": [
+        "D. Systèmes et interaction",
+        "4. Fonctionnement d’objets fabriqués"
+      ],
+      "texte": "c. Décrire une séquence simple de pièces mécaniques en mouvement",
+      "prioritaire": true,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "apprentissage",
+        "5": "apprentissage",
+        "6": "maitrise"
+      },
+      "page": 6,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "SCT-LUN-059",
+      "competence": "L’univers matériel",
+      "section": null,
+      "chemin": [
+        "D. Systèmes et interaction",
+        "5. Servomécanismes et robots"
+      ],
+      "texte": "a. Reconnaître des structures robotisées utilisant un servomécanisme",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": "apprentissage",
+        "6": "maitrise"
+      },
+      "page": 6,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "SCT-LUN-060",
+      "competence": "L’univers matériel",
+      "section": null,
+      "chemin": [
+        "D. Systèmes et interaction",
+        "6. Technologies du transport (ex. : automobile, avion, bateau)"
+      ],
+      "texte": "a. Reconnaître l’influence et l’impact des technologies du transport sur le mode de vie et l’environnement des individus",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "apprentissage",
+        "5": "apprentissage",
+        "6": "maitrise"
+      },
+      "page": 6,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "SCT-LUN-061",
+      "competence": "L’univers matériel",
+      "section": null,
+      "chemin": [
+        "D. Systèmes et interaction",
+        "7. Technologies de l’électron"
+      ],
+      "texte": "a. Reconnaître l’influence et l’impact des appareils électriques sur le mode de vie et l’environnement des individus (ex. : téléphone, radio, télévision, ordinateur)",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "apprentissage",
+        "5": "apprentissage",
+        "6": "maitrise"
+      },
+      "page": 6,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "SCT-LUN-062",
+      "competence": "L’univers matériel",
+      "section": null,
+      "chemin": [
+        "E. Techniques et instrumentation",
+        "1. Utilisation d’instruments de mesure simples"
+      ],
+      "texte": "a. Utiliser adéquatement des instruments de mesure simples (règles, compte- gouttes, cylindre gradué, balance, thermomètre, chronomètre)",
+      "prioritaire": true,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "apprentissage",
+        "5": "apprentissage",
+        "6": "maitrise"
+      },
+      "page": 7,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "SCT-LUN-063",
+      "competence": "L’univers matériel",
+      "section": null,
+      "chemin": [
+        "E. Techniques et instrumentation",
+        "2. Utilisation de machines simples"
+      ],
+      "texte": "a. Utiliser adéquatement des machines simples (levier, plan incliné, vis, poulie, treuil , roue )",
+      "prioritaire": true,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "apprentissage",
+        "5": "apprentissage",
+        "6": "maitrise"
+      },
+      "page": 7,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "SCT-LUN-064",
+      "competence": "L’univers matériel",
+      "section": null,
+      "chemin": [
+        "E. Techniques et instrumentation",
+        "3. Utilisation d’outils"
+      ],
+      "texte": "a. Utiliser adéquatement et de façon sécuritaire des outils (pince, tournevis, marteau, clé, gabarit)",
+      "prioritaire": true,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "apprentissage",
+        "5": "apprentissage",
+        "6": "maitrise"
+      },
+      "page": 7,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "SCT-LUN-065",
+      "competence": "L’univers matériel",
+      "section": null,
+      "chemin": [
+        "E. Techniques et instrumentation",
+        "4. Conception et fabrication d’instruments, d’outils, de machines, de structures (ex. : ponts, filtration de l’eau), de modèles (ex. : planeur), de circuits électriques simples"
+      ],
+      "texte": "a. Connaître des symboles associés aux mouvements et aux pièces électriques et mécaniques",
+      "prioritaire": true,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "apprentissage",
+        "5": "apprentissage",
+        "6": "maitrise"
+      },
+      "page": 7,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "SCT-LUN-066",
+      "competence": "L’univers matériel",
+      "section": null,
+      "chemin": [
+        "E. Techniques et instrumentation",
+        "4. Conception et fabrication d’instruments, d’outils, de machines, de structures (ex. : ponts, filtration de l’eau), de modèles (ex. : planeur), de circuits électriques simples"
+      ],
+      "texte": "b. Interpréter un schéma ou un plan comportant des symboles",
+      "prioritaire": true,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "apprentissage",
+        "5": "apprentissage",
+        "6": "maitrise"
+      },
+      "page": 7,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "SCT-LUN-067",
+      "competence": "L’univers matériel",
+      "section": null,
+      "chemin": [
+        "E. Techniques et instrumentation",
+        "4. Conception et fabrication d’instruments, d’outils, de machines, de structures (ex. : ponts, filtration de l’eau), de modèles (ex. : planeur), de circuits électriques simples"
+      ],
+      "texte": "c. Utiliser, dans un schéma ou un dessin, les symboles associés aux pièces mécaniques et aux composantes électriques",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "apprentissage",
+        "5": "apprentissage",
+        "6": "maitrise"
+      },
+      "page": 7,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "SCT-LUN-068",
+      "competence": "L’univers matériel",
+      "section": null,
+      "chemin": [
+        "E. Techniques et instrumentation",
+        "4. Conception et fabrication d’instruments, d’outils, de machines, de structures (ex. : ponts, filtration de l’eau), de modèles (ex. : planeur), de circuits électriques simples"
+      ],
+      "texte": "d. Tracer et découper des pièces dans divers matériaux à l’aide des outils appropriés",
+      "prioritaire": true,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "apprentissage",
+        "5": "apprentissage",
+        "6": "maitrise"
+      },
+      "page": 7,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "SCT-LUN-069",
+      "competence": "L’univers matériel",
+      "section": null,
+      "chemin": [
+        "E. Techniques et instrumentation",
+        "4. Conception et fabrication d’instruments, d’outils, de machines, de structures (ex. : ponts, filtration de l’eau), de modèles (ex. : planeur), de circuits électriques simples"
+      ],
+      "texte": "e. Utiliser les modes d’assemblage appropriés (ex. : vis, colle, clou, attache parisienne, écrou)",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "apprentissage",
+        "5": "apprentissage",
+        "6": "maitrise"
+      },
+      "page": 7,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "SCT-LUN-070",
+      "competence": "L’univers matériel",
+      "section": null,
+      "chemin": [
+        "E. Techniques et instrumentation",
+        "4. Conception et fabrication d’instruments, d’outils, de machines, de structures (ex. : ponts, filtration de l’eau), de modèles (ex. : planeur), de circuits électriques simples"
+      ],
+      "texte": "f. Utiliser les outils appropriés permettant une finition soignée",
+      "prioritaire": true,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "apprentissage",
+        "5": "apprentissage",
+        "6": "maitrise"
+      },
+      "page": 7,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "SCT-LUN-071",
+      "competence": "L’univers matériel",
+      "section": null,
+      "chemin": [
+        "E. Techniques et instrumentation",
+        "4. Conception et fabrication d’instruments, d’outils, de machines, de structures (ex. : ponts, filtration de l’eau), de modèles (ex. : planeur), de circuits électriques simples"
+      ],
+      "texte": "g. Utiliser, lors d’une conception ou d’une fabrication, des machines simples, des mécanismes ou des composantes électriques",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "apprentissage",
+        "5": "apprentissage",
+        "6": "maitrise"
+      },
+      "page": 7,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "SCT-LUN-072",
+      "competence": "L’univers matériel",
+      "section": null,
+      "chemin": [
+        "F. Langage approprié",
+        "1. Terminologie liée à la compréhension de l'univers matériel"
+      ],
+      "texte": "a. Utiliser adéquatement la terminologie associée à l’univers matériel",
+      "prioritaire": false,
+      "progression": {
+        "1": "apprentissage",
+        "2": "apprentissage",
+        "3": "apprentissage",
+        "4": "apprentissage",
+        "5": "apprentissage",
+        "6": "maitrise"
+      },
+      "page": 7,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "SCT-LUN-073",
+      "competence": "L’univers matériel",
+      "section": null,
+      "chemin": [
+        "F. Langage approprié",
+        "1. Terminologie liée à la compréhension de l'univers matériel"
+      ],
+      "texte": "b. Distinguer le sens d’un terme utilisé dans un contexte scientifique ou technologique du sens qui lui est attribué dans le langage courant (ex. : source, matière, corps, énergie, machine)",
+      "prioritaire": false,
+      "progression": {
+        "1": "apprentissage",
+        "2": "apprentissage",
+        "3": "apprentissage",
+        "4": "apprentissage",
+        "5": "apprentissage",
+        "6": "maitrise"
+      },
+      "page": 7,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "SCT-LUN-074",
+      "competence": "L’univers matériel",
+      "section": null,
+      "chemin": [
+        "F. Langage approprié",
+        "2. Conventions et modes de représentation propres aux concepts à l’étude"
+      ],
+      "texte": "a. Communiquer à l’aide des modes de représentation adéquats dans le respect des règles et des conventions propres à la science et à la technologie (symboles, graphiques, tableaux, dessins, croquis, normes et standardisation)",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "apprentissage",
+        "5": "apprentissage",
+        "6": "maitrise"
+      },
+      "page": 7,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "SCT-LAT-001",
+      "competence": "La Terre et l’espace",
+      "section": null,
+      "chemin": [
+        "A. Matière",
+        "1. Propriétés et caractéristiques de la matière terrestre"
+      ],
+      "texte": "a. Comparer les propriétés de différents types de sols (ex. : composition, capacité à retenir l’eau et capacité à retenir la chaleur)",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "maitrise",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 8,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "SCT-LAT-002",
+      "competence": "La Terre et l’espace",
+      "section": null,
+      "chemin": [
+        "A. Matière",
+        "1. Propriétés et caractéristiques de la matière terrestre"
+      ],
+      "texte": "b. Décrire divers impacts de la qualité de l’eau, du sol ou de l’air sur les vivants",
+      "prioritaire": true,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "maitrise",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 8,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "SCT-LAT-003",
+      "competence": "La Terre et l’espace",
+      "section": null,
+      "chemin": [
+        "A. Matière",
+        "1. Propriétés et caractéristiques de la matière terrestre"
+      ],
+      "texte": "c. Distinguer un fossile (ou une trace de vivant) d’une roche",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "maitrise",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 8,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "SCT-LAT-004",
+      "competence": "La Terre et l’espace",
+      "section": null,
+      "chemin": [
+        "A. Matière",
+        "1. Propriétés et caractéristiques de la matière terrestre"
+      ],
+      "texte": "d. Distinguer une roche d’un minéral",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": "apprentissage",
+        "6": "maitrise"
+      },
+      "page": 8,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "SCT-LAT-005",
+      "competence": "La Terre et l’espace",
+      "section": null,
+      "chemin": [
+        "A. Matière",
+        "1. Propriétés et caractéristiques de la matière terrestre"
+      ],
+      "texte": "e. Classer, selon leurs propriétés, des roches (présence de strates, grosseur des cristaux) et des minéraux (couleur, texture, éclat, dureté)",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": "apprentissage",
+        "6": "maitrise"
+      },
+      "page": 8,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "SCT-LAT-006",
+      "competence": "La Terre et l’espace",
+      "section": null,
+      "chemin": [
+        "A. Matière",
+        "2. Organisation de la matière"
+      ],
+      "texte": "a. Décrire les propriétés observables des cristaux (couleur, régularités géométriques)",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "maitrise",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 8,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "SCT-LAT-007",
+      "competence": "La Terre et l’espace",
+      "section": null,
+      "chemin": [
+        "A. Matière",
+        "2. Organisation de la matière"
+      ],
+      "texte": "b. Décrire les principales structures à la surface de la Terre (ex. : continent, océan, calotte glaciaire, montagne, volcan)",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": "apprentissage",
+        "6": "maitrise"
+      },
+      "page": 8,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "SCT-LAT-008",
+      "competence": "La Terre et l’espace",
+      "section": null,
+      "chemin": [
+        "A. Matière",
+        "3. Transformation de la matière"
+      ],
+      "texte": "a. Décrire différents types de précipitations (pluie, neige, grêle, pluie verglaçante)",
+      "prioritaire": true,
+      "progression": {
+        "1": "apprentissage",
+        "2": "maitrise",
+        "3": "reinvestissement",
+        "4": "reinvestissement",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 8,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "SCT-LAT-009",
+      "competence": "La Terre et l’espace",
+      "section": null,
+      "chemin": [
+        "A. Matière",
+        "3. Transformation de la matière"
+      ],
+      "texte": "b. Identifier des sources naturelles d’eau douce (ruisseaux, lacs, rivières) et des sources naturelles d’eau salée (mers, océans)",
+      "prioritaire": false,
+      "progression": {
+        "1": "apprentissage",
+        "2": "maitrise",
+        "3": "reinvestissement",
+        "4": "reinvestissement",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 8,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "SCT-LAT-010",
+      "competence": "La Terre et l’espace",
+      "section": null,
+      "chemin": [
+        "A. Matière",
+        "3. Transformation de la matière"
+      ],
+      "texte": "c. Expliquer le cycle de l’eau (évaporation, condensation, précipitation, ruissellement et infiltration)",
+      "prioritaire": true,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "maitrise",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 8,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "SCT-LAT-011",
+      "competence": "La Terre et l’espace",
+      "section": null,
+      "chemin": [
+        "A. Matière",
+        "3. Transformation de la matière"
+      ],
+      "texte": "d. Décrire certains phénomènes naturels (ex. : érosion, foudre, tornade, ouragan)",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": "apprentissage",
+        "6": "maitrise"
+      },
+      "page": 8,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "SCT-LAT-012",
+      "competence": "La Terre et l’espace",
+      "section": null,
+      "chemin": [
+        "A. Matière",
+        "3. Transformation de la matière"
+      ],
+      "texte": "e. Décrire l’impact de certains phénomènes naturels sur l’environnement ou le des individus",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": "apprentissage",
+        "6": "maitrise"
+      },
+      "page": 8,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "SCT-LAT-013",
+      "competence": "La Terre et l’espace",
+      "section": null,
+      "chemin": [
+        "B. Énergie",
+        "1. Sources d’énergie"
+      ],
+      "texte": "a. Expliquer que le Soleil est la principale source d’énergie sur Terre",
+      "prioritaire": true,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "maitrise",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 8,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "SCT-LAT-014",
+      "competence": "La Terre et l’espace",
+      "section": null,
+      "chemin": [
+        "B. Énergie",
+        "1. Sources d’énergie"
+      ],
+      "texte": "b. Identifier des sources d’énergie naturelles (soleil, eau en mouvement, vent)",
+      "prioritaire": true,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "maitrise",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 8,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "SCT-LAT-015",
+      "competence": "La Terre et l’espace",
+      "section": null,
+      "chemin": [
+        "B. Énergie",
+        "1. Sources d’énergie"
+      ],
+      "texte": "c. Identifier des sources d’énergie fossiles (ex. : pétrole, charbon, gaz naturel)",
+      "prioritaire": true,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": "apprentissage",
+        "6": "maitrise"
+      },
+      "page": 8,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "SCT-LAT-016",
+      "competence": "La Terre et l’espace",
+      "section": null,
+      "chemin": [
+        "B. Énergie",
+        "2. Transmission de l’énergie"
+      ],
+      "texte": "a. Décrire les modes de transmission de l’énergie thermique (rayonnement, conduction)",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": "apprentissage",
+        "6": "maitrise"
+      },
+      "page": 8,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "SCT-LAT-017",
+      "competence": "La Terre et l’espace",
+      "section": null,
+      "chemin": [
+        "B. Énergie",
+        "3. Transformation de l’énergie"
+      ],
+      "texte": "a. Décrire ce qu’est une énergie renouvelable",
+      "prioritaire": true,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "maitrise",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 8,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "SCT-LAT-018",
+      "competence": "La Terre et l’espace",
+      "section": null,
+      "chemin": [
+        "B. Énergie",
+        "3. Transformation de l’énergie"
+      ],
+      "texte": "b. Expliquer que la lumière, l’eau en mouvement et le vent sont des sources d’énergie renouvelables",
+      "prioritaire": true,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "maitrise",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 8,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "SCT-LAT-019",
+      "competence": "La Terre et l’espace",
+      "section": null,
+      "chemin": [
+        "B. Énergie",
+        "3. Transformation de l’énergie"
+      ],
+      "texte": "c. Décrire des moyens fabriqués par l’humain pour transformer des sources d’énergie renouvelables en électricité (barrage hydroélectrique, éolienne, panneau solaire)",
+      "prioritaire": true,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "maitrise",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 9,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "SCT-LAT-020",
+      "competence": "La Terre et l’espace",
+      "section": null,
+      "chemin": [
+        "B. Énergie",
+        "3. Transformation de l’énergie"
+      ],
+      "texte": "d. Expliquer ce qu’est une énergie non renouvelable",
+      "prioritaire": true,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": "apprentissage",
+        "6": "maitrise"
+      },
+      "page": 9,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "SCT-LAT-021",
+      "competence": "La Terre et l’espace",
+      "section": null,
+      "chemin": [
+        "B. Énergie",
+        "3. Transformation de l’énergie"
+      ],
+      "texte": "e. Expliquer que les combustibles fossiles sont des sources d’énergie non renouvelables",
+      "prioritaire": true,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": "apprentissage",
+        "6": "maitrise"
+      },
+      "page": 9,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "SCT-LAT-022",
+      "competence": "La Terre et l’espace",
+      "section": null,
+      "chemin": [
+        "B. Énergie",
+        "3. Transformation de l’énergie"
+      ],
+      "texte": "f. Nommer des combustibles issus du pétrole (ex. : essence, propane, butane, mazout, gaz naturel)",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": "apprentissage",
+        "6": "maitrise"
+      },
+      "page": 9,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "SCT-LAT-023",
+      "competence": "La Terre et l’espace",
+      "section": null,
+      "chemin": [
+        "C. Forces et mouvements",
+        "1. Rotation de la Terre"
+      ],
+      "texte": "a. Associer le cycle du jour et de la nuit à la rotation de la Terre",
+      "prioritaire": true,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "maitrise",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 9,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "SCT-LAT-024",
+      "competence": "La Terre et l’espace",
+      "section": null,
+      "chemin": [
+        "C. Forces et mouvements",
+        "2. Marées"
+      ],
+      "texte": "a. Décrire le rythme des marées (hausse et baisse du niveau de la mer)",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": "apprentissage",
+        "6": "maitrise"
+      },
+      "page": 9,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "SCT-LAT-025",
+      "competence": "La Terre et l’espace",
+      "section": null,
+      "chemin": [
+        "D. Systèmes et interaction",
+        "1. Lumière et ombre"
+      ],
+      "texte": "a. Décrire l’influence de la position apparente du Soleil sur la longueur des ombres",
+      "prioritaire": true,
+      "progression": {
+        "1": "apprentissage",
+        "2": "maitrise",
+        "3": "reinvestissement",
+        "4": "reinvestissement",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 9,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "SCT-LAT-026",
+      "competence": "La Terre et l’espace",
+      "section": null,
+      "chemin": [
+        "D. Systèmes et interaction",
+        "2. Système Soleil-Terre-Lune"
+      ],
+      "texte": "a. Associer le Soleil à une étoile, la Terre à une planète et la Lune à un satellite naturel",
+      "prioritaire": true,
+      "progression": {
+        "1": "apprentissage",
+        "2": "maitrise",
+        "3": "reinvestissement",
+        "4": "reinvestissement",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 9,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "SCT-LAT-027",
+      "competence": "La Terre et l’espace",
+      "section": null,
+      "chemin": [
+        "D. Systèmes et interaction",
+        "2. Système Soleil-Terre-Lune"
+      ],
+      "texte": "b. Décrire les mouvements de rotation et de révolution de la Terre et de la Lune",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "maitrise",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 9,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "SCT-LAT-028",
+      "competence": "La Terre et l’espace",
+      "section": null,
+      "chemin": [
+        "D. Systèmes et interaction",
+        "2. Système Soleil-Terre-Lune"
+      ],
+      "texte": "c. Illustrer les phases du cycle lunaire (pleine lune, nouvelle lune, premier et dernier quartiers)",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "maitrise",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 9,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "SCT-LAT-029",
+      "competence": "La Terre et l’espace",
+      "section": null,
+      "chemin": [
+        "D. Systèmes et interaction",
+        "2. Système Soleil-Terre-Lune"
+      ],
+      "texte": "d. Illustrer la formation des éclipses (lunaire, solaire)",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "maitrise",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 9,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "SCT-LAT-030",
+      "competence": "La Terre et l’espace",
+      "section": null,
+      "chemin": [
+        "D. Systèmes et interaction",
+        "3. Système solaire"
+      ],
+      "texte": "a. Reconnaître les principaux constituants du système solaire (Soleil, planètes, satellites naturels)",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": "apprentissage",
+        "6": "maitrise"
+      },
+      "page": 9,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "SCT-LAT-031",
+      "competence": "La Terre et l’espace",
+      "section": null,
+      "chemin": [
+        "D. Systèmes et interaction",
+        "3. Système solaire"
+      ],
+      "texte": "b. Décrire des caractéristiques des principaux corps du système solaire (ex. : composition, taille, orbite, température)",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": "apprentissage",
+        "6": "maitrise"
+      },
+      "page": 9,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "SCT-LAT-032",
+      "competence": "La Terre et l’espace",
+      "section": null,
+      "chemin": [
+        "D. Systèmes et interaction",
+        "4. Saisons"
+      ],
+      "texte": "a. Décrire des changements qui surviennent dans son environnement au fil saisons (température, luminosité, type de précipitations)",
+      "prioritaire": true,
+      "progression": {
+        "1": "apprentissage",
+        "2": "maitrise",
+        "3": "reinvestissement",
+        "4": "reinvestissement",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 9,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "SCT-LAT-033",
+      "competence": "La Terre et l’espace",
+      "section": null,
+      "chemin": [
+        "D. Systèmes et interaction",
+        "4. Saisons"
+      ],
+      "texte": "b. Expliquer les sensations éprouvées (chaud, froid, confortable) liées à la mesure de la température",
+      "prioritaire": false,
+      "progression": {
+        "1": "apprentissage",
+        "2": "maitrise",
+        "3": "reinvestissement",
+        "4": "reinvestissement",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 9,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "SCT-LAT-034",
+      "competence": "La Terre et l’espace",
+      "section": null,
+      "chemin": [
+        "D. Systèmes et interaction",
+        "4. Saisons"
+      ],
+      "texte": "c. Associer l’alternance des saisons avec la révolution et l’inclinaison de la Terre",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": "apprentissage",
+        "6": "maitrise"
+      },
+      "page": 9,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "SCT-LAT-035",
+      "competence": "La Terre et l’espace",
+      "section": null,
+      "chemin": [
+        "D. Systèmes et interaction",
+        "5. Étoiles et galaxies"
+      ],
+      "texte": "a. Reconnaître des étoiles et des constellations sur une carte céleste",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "maitrise",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 9,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "SCT-LAT-036",
+      "competence": "La Terre et l’espace",
+      "section": null,
+      "chemin": [
+        "D. Systèmes et interaction",
+        "5. Étoiles et galaxies"
+      ],
+      "texte": "b. Distinguer une étoile, une constellation et une galaxie",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": "apprentissage",
+        "6": "maitrise"
+      },
+      "page": 9,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "SCT-LAT-037",
+      "competence": "La Terre et l’espace",
+      "section": null,
+      "chemin": [
+        "D. Systèmes et interaction",
+        "6. Systèmes météorologiques et climats"
+      ],
+      "texte": "a. Faire un lien entre les conditions météorologiques et les types de nuages présents dans le ciel",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "maitrise",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 9,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "SCT-LAT-038",
+      "competence": "La Terre et l’espace",
+      "section": null,
+      "chemin": [
+        "D. Systèmes et interaction",
+        "6. Systèmes météorologiques et climats"
+      ],
+      "texte": "b. Associer la quantité moyenne de précipitations au climat d’une région (sec, humide)",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": "apprentissage",
+        "6": "maitrise"
+      },
+      "page": 9,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "SCT-LAT-039",
+      "competence": "La Terre et l’espace",
+      "section": null,
+      "chemin": [
+        "D. Systèmes et interaction",
+        "6. Systèmes météorologiques et climats"
+      ],
+      "texte": "c. Associer la température moyenne au climat d’une région (polaire, froid, tempéré, doux, chaud)",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": "apprentissage",
+        "6": "maitrise"
+      },
+      "page": 9,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "SCT-LAT-040",
+      "competence": "La Terre et l’espace",
+      "section": null,
+      "chemin": [
+        "D. Systèmes et interaction",
+        "6. Systèmes météorologiques et climats"
+      ],
+      "texte": "a. Reconnaître l’influence et l’impact des technologies de la Terre, de l’atmosphère et de l’espace sur le mode de vie et l’environnement des individus (ex. : appareils de prospection, instruments météorologiques, sismographe, télescope, satellite, station spatiale)",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "apprentissage",
+        "5": "apprentissage",
+        "6": "maitrise"
+      },
+      "page": 10,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "SCT-LAT-041",
+      "competence": "La Terre et l’espace",
+      "section": null,
+      "chemin": [
+        "E. Techniques et instrumentation",
+        "1. Utilisation d’instruments d’observation simples"
+      ],
+      "texte": "a. Utiliser adéquatement des instruments d’observation simples (loupe, binoculaire, jumelles)",
+      "prioritaire": true,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "apprentissage",
+        "5": "apprentissage",
+        "6": "maitrise"
+      },
+      "page": 10,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "SCT-LAT-042",
+      "competence": "La Terre et l’espace",
+      "section": null,
+      "chemin": [
+        "E. Techniques et instrumentation",
+        "2. Utilisation d’instruments de mesure simples"
+      ],
+      "texte": "a. Utiliser adéquatement des instruments de mesure simples ( règles, compte- gouttes, cylindre gradué, balance, thermomètre , girouette, baromètre, anémomètre, hygromètre)",
+      "prioritaire": true,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "apprentissage",
+        "5": "apprentissage",
+        "6": "maitrise"
+      },
+      "page": 10,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "SCT-LAT-043",
+      "competence": "La Terre et l’espace",
+      "section": null,
+      "chemin": [
+        "E. Techniques et instrumentation",
+        "3. Conception et fabrication d’instruments de mesure et de prototypes 1"
+      ],
+      "texte": "a. Concevoir et fabriquer des instruments de mesure et des prototypes",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "apprentissage",
+        "5": "apprentissage",
+        "6": "maitrise"
+      },
+      "page": 10,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "SCT-LAT-044",
+      "competence": "La Terre et l’espace",
+      "section": null,
+      "chemin": [
+        "F. Langage approprié",
+        "1. Terminologie liée à la compréhension de la Terre et de l’espace"
+      ],
+      "texte": "a. Utiliser adéquatement la terminologie associée à l’univers de la Terre et de l’espace",
+      "prioritaire": false,
+      "progression": {
+        "1": "apprentissage",
+        "2": "apprentissage",
+        "3": "apprentissage",
+        "4": "apprentissage",
+        "5": "apprentissage",
+        "6": "maitrise"
+      },
+      "page": 10,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "SCT-LAT-045",
+      "competence": "La Terre et l’espace",
+      "section": null,
+      "chemin": [
+        "F. Langage approprié",
+        "1. Terminologie liée à la compréhension de la Terre et de l’espace"
+      ],
+      "texte": "b. Distinguer le sens d’un terme utilisé dans un contexte scientifique et technologique du sens qui lui est attribué dans le langage courant (ex. : espace, révolution)",
+      "prioritaire": false,
+      "progression": {
+        "1": "apprentissage",
+        "2": "apprentissage",
+        "3": "apprentissage",
+        "4": "apprentissage",
+        "5": "apprentissage",
+        "6": "maitrise"
+      },
+      "page": 10,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "SCT-LAT-046",
+      "competence": "La Terre et l’espace",
+      "section": null,
+      "chemin": [
+        "F. Langage approprié",
+        "2. Conventions et modes de représentation propres aux concepts à l’étude"
+      ],
+      "texte": "a. Communiquer à l’aide des modes de représentation adéquats dans le respect des règles et des conventions propres à la science et à la technologie (symboles, graphiques, tableaux, dessins, croquis)",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "apprentissage",
+        "5": "apprentissage",
+        "6": "maitrise"
+      },
+      "page": 10,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "SCT-LUN-075",
+      "competence": "L’univers vivant",
+      "section": null,
+      "chemin": [
+        "A. Matière",
+        "1. Caractéristiques du vivant"
+      ],
+      "texte": "a. Expliquer les besoins essentiels au métabolisme des êtres vivants (ex. : se nourrir, respirer)",
+      "prioritaire": true,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "maitrise",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 11,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "SCT-LUN-076",
+      "competence": "L’univers vivant",
+      "section": null,
+      "chemin": [
+        "A. Matière",
+        "1. Caractéristiques du vivant"
+      ],
+      "texte": "b. Décrire les activités liées au métabolisme des êtres vivants (transformation de l’énergie, croissance, entretien des systèmes, maintien de la température",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": "apprentissage",
+        "6": "maitrise"
+      },
+      "page": 11,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "SCT-LUN-077",
+      "competence": "L’univers vivant",
+      "section": null,
+      "chemin": [
+        "A. Matière",
+        "1. Caractéristiques du vivant"
+      ],
+      "texte": "c. Distinguer des modes de développement de l’embryon (vivipare pour la majorité des mammifères, ovipare ou ovovivipare pour les autres)",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "maitrise",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 11,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "SCT-LUN-078",
+      "competence": "L’univers vivant",
+      "section": null,
+      "chemin": [
+        "A. Matière",
+        "1. Caractéristiques du vivant"
+      ],
+      "texte": "d. Décrire le mode de reproduction sexuée des animaux (rôles du mâle et de la",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": "apprentissage",
+        "6": "maitrise"
+      },
+      "page": 11,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "SCT-LUN-079",
+      "competence": "L’univers vivant",
+      "section": null,
+      "chemin": [
+        "A. Matière",
+        "1. Caractéristiques du vivant"
+      ],
+      "texte": "e. Décrire le mode de reproduction sexuée des végétaux (pistil, étamine, pollen, graine et fruit)",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "maitrise",
+        "5": null,
+        "6": null
+      },
+      "page": 11,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "SCT-LUN-080",
+      "competence": "L’univers vivant",
+      "section": null,
+      "chemin": [
+        "A. Matière",
+        "1. Caractéristiques du vivant"
+      ],
+      "texte": "f. Décrire des modes de reproduction asexuée des végétaux (ex. : bourgeonnement, bouturage, formation de rhizomes et de tubercules)",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": "apprentissage",
+        "6": "maitrise"
+      },
+      "page": 11,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "SCT-LUN-081",
+      "competence": "L’univers vivant",
+      "section": null,
+      "chemin": [
+        "A. Matière",
+        "2. Organisation du vivant"
+      ],
+      "texte": "a. Décrire les fonctions de certaines parties de son anatomie ( ex. : membres, tête, cœur, estomac)",
+      "prioritaire": true,
+      "progression": {
+        "1": "apprentissage",
+        "2": "maitrise",
+        "3": "reinvestissement",
+        "4": "reinvestissement",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 11,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "SCT-LUN-082",
+      "competence": "L’univers vivant",
+      "section": null,
+      "chemin": [
+        "A. Matière",
+        "2. Organisation du vivant"
+      ],
+      "texte": "b. Décrire les caractéristiques de différents règnes (micro-organismes, champignons, végétaux, animaux)",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "maitrise",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 11,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "SCT-LUN-083",
+      "competence": "L’univers vivant",
+      "section": null,
+      "chemin": [
+        "A. Matière",
+        "2. Organisation du vivant"
+      ],
+      "texte": "c. Classer des êtres vivants selon leur règne",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "maitrise",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 11,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "SCT-LUN-084",
+      "competence": "L’univers vivant",
+      "section": null,
+      "chemin": [
+        "A. Matière",
+        "2. Organisation du vivant"
+      ],
+      "texte": "d. Répertorier les animaux selon leur classe (mammifères, reptiles, oiseaux, poissons, amphibiens)",
+      "prioritaire": true,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "maitrise",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 11,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "SCT-LUN-085",
+      "competence": "L’univers vivant",
+      "section": null,
+      "chemin": [
+        "A. Matière",
+        "2. Organisation du vivant"
+      ],
+      "texte": "e. Décrire les parties de l’anatomie d’une plante (racines, tiges, feuilles, fleurs, fruits et graines)",
+      "prioritaire": true,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "maitrise",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 11,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "SCT-LUN-086",
+      "competence": "L’univers vivant",
+      "section": null,
+      "chemin": [
+        "A. Matière",
+        "2. Organisation du vivant"
+      ],
+      "texte": "f. Associer les parties d’une plante à leur fonction générale (racines, tiges, feuilles, fleurs, fruits et graines)",
+      "prioritaire": true,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "maitrise",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 11,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "SCT-LUN-087",
+      "competence": "L’univers vivant",
+      "section": null,
+      "chemin": [
+        "A. Matière",
+        "2. Organisation du vivant"
+      ],
+      "texte": "g. Associer des parties et des systèmes de l’anatomie des animaux à leur fonction principale",
+      "prioritaire": true,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "maitrise",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 11,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "SCT-LUN-088",
+      "competence": "L’univers vivant",
+      "section": null,
+      "chemin": [
+        "A. Matière",
+        "2. Organisation du vivant"
+      ],
+      "texte": "h. Expliquer la fonction sensorielle de certaines parties de l’anatomie (peau, yeux, bouche, oreilles, nez)",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "maitrise",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 11,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "SCT-LUN-089",
+      "competence": "L’univers vivant",
+      "section": null,
+      "chemin": [
+        "A. Matière",
+        "2. Organisation du vivant"
+      ],
+      "texte": "i. Décrire l’anatomie et la fonction des principaux organes du système reproducteur de l’homme et de la femme",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": "apprentissage",
+        "6": "maitrise"
+      },
+      "page": 11,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "SCT-LUN-090",
+      "competence": "L’univers vivant",
+      "section": null,
+      "chemin": [
+        "A. Matière",
+        "3. Transformation du vivant"
+      ],
+      "texte": "a. Nommer les besoins essentiels à la croissance d’une plante (eau, air, lumière, sels minéraux)",
+      "prioritaire": false,
+      "progression": {
+        "1": "apprentissage",
+        "2": "maitrise",
+        "3": "reinvestissement",
+        "4": "reinvestissement",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 11,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "SCT-LUN-091",
+      "competence": "L’univers vivant",
+      "section": null,
+      "chemin": [
+        "A. Matière",
+        "3. Transformation du vivant"
+      ],
+      "texte": "b. Décrire les stades de croissance d’une plante à fleurs",
+      "prioritaire": true,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "maitrise",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 11,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "SCT-LUN-092",
+      "competence": "L’univers vivant",
+      "section": null,
+      "chemin": [
+        "A. Matière",
+        "3. Transformation du vivant"
+      ],
+      "texte": "c. Décrire les stades de croissance de différents animaux",
+      "prioritaire": true,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "maitrise",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 11,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "SCT-LUN-093",
+      "competence": "L’univers vivant",
+      "section": null,
+      "chemin": [
+        "A. Matière",
+        "3. Transformation du vivant"
+      ],
+      "texte": "d. Décrire des changements dans l’apparence d’un animal qui subit une (ex. : papillon, grenouille)",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": "apprentissage",
+        "6": "maitrise"
+      },
+      "page": 11,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "SCT-LUN-094",
+      "competence": "L’univers vivant",
+      "section": null,
+      "chemin": [
+        "A. Matière",
+        "3. Transformation du vivant"
+      ],
+      "texte": "e. Expliquer les étapes de la croissance et du développement des humains",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": "apprentissage",
+        "6": "maitrise"
+      },
+      "page": 11,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "SCT-LUN-095",
+      "competence": "L’univers vivant",
+      "section": null,
+      "chemin": [
+        "A. Matière",
+        "3. Transformation du vivant"
+      ],
+      "texte": "f. Décrire des changements physiques propres à la puberté",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": "apprentissage",
+        "6": "maitrise"
+      },
+      "page": 11,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "SCT-LUN-096",
+      "competence": "L’univers vivant",
+      "section": null,
+      "chemin": [
+        "A. Matière",
+        "3. Transformation du vivant"
+      ],
+      "texte": "g. Décrire les grandes étapes de l’évolution des êtres vivants",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": "apprentissage",
+        "6": "maitrise"
+      },
+      "page": 11,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "SCT-LUN-097",
+      "competence": "L’univers vivant",
+      "section": null,
+      "chemin": [
+        "B. Énergie",
+        "1. Sources d’énergie des êtres vivants"
+      ],
+      "texte": "a. Comparer l’alimentation d’animaux domestiques et d'animaux sauvages",
+      "prioritaire": false,
+      "progression": {
+        "1": "apprentissage",
+        "2": "maitrise",
+        "3": "reinvestissement",
+        "4": "reinvestissement",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 12,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "SCT-LUN-098",
+      "competence": "L’univers vivant",
+      "section": null,
+      "chemin": [
+        "B. Énergie",
+        "1. Sources d’énergie des êtres vivants"
+      ],
+      "texte": "b. Expliquer les besoins alimentaires communs à tous les animaux (eau, glucides, lipides, protéines, vitamines, minéraux)",
+      "prioritaire": true,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "maitrise",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 12,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "SCT-LUN-099",
+      "competence": "L’univers vivant",
+      "section": null,
+      "chemin": [
+        "B. Énergie",
+        "1. Sources d’énergie des êtres vivants"
+      ],
+      "texte": "c. Associer des animaux familiers à leur régime alimentaire (carnivore, herbivore, omnivore)",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "maitrise",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 12,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "SCT-LUN-100",
+      "competence": "L’univers vivant",
+      "section": null,
+      "chemin": [
+        "B. Énergie",
+        "1. Sources d’énergie des êtres vivants"
+      ],
+      "texte": "d. Décrire la fonction de la photosynthèse",
+      "prioritaire": true,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": "apprentissage",
+        "6": "maitrise"
+      },
+      "page": 12,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "SCT-LUN-101",
+      "competence": "L’univers vivant",
+      "section": null,
+      "chemin": [
+        "B. Énergie",
+        "1. Sources d’énergie des êtres vivants"
+      ],
+      "texte": "e. Distinguer la photosynthèse de la respiration",
+      "prioritaire": true,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": "apprentissage",
+        "6": "maitrise"
+      },
+      "page": 12,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "SCT-LUN-102",
+      "competence": "L’univers vivant",
+      "section": null,
+      "chemin": [
+        "B. Énergie",
+        "1. Sources d’énergie des êtres vivants"
+      ],
+      "texte": "f. Expliquer en quoi l’eau, la lumière, les sels minéraux et le gaz carbonique sont essentiels aux végétaux",
+      "prioritaire": true,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": "apprentissage",
+        "6": "maitrise"
+      },
+      "page": 12,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "SCT-LUN-103",
+      "competence": "L’univers vivant",
+      "section": null,
+      "chemin": [
+        "B. Énergie",
+        "1. Sources d’énergie des êtres vivants"
+      ],
+      "texte": "g. Décrire des technologies de l’agriculture et de l’alimentation (ex. : croisement et bouturage de plantes, sélection et reproduction des animaux, fabrication d’aliments, pasteurisation)",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "apprentissage",
+        "5": "apprentissage",
+        "6": "maitrise"
+      },
+      "page": 12,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "SCT-LUN-104",
+      "competence": "L’univers vivant",
+      "section": null,
+      "chemin": [
+        "B. Énergie",
+        "2. Transformation de l’énergie chez les êtres vivants"
+      ],
+      "texte": "a. Illustrer une chaîne alimentaire simple (3 ou 4 maillons)",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "maitrise",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 12,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "SCT-LUN-105",
+      "competence": "L’univers vivant",
+      "section": null,
+      "chemin": [
+        "B. Énergie",
+        "2. Transformation de l’énergie chez les êtres vivants"
+      ],
+      "texte": "b. Décrire une pyramide alimentaire d’un milieu donné",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": "apprentissage",
+        "6": "maitrise"
+      },
+      "page": 12,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "SCT-LUN-106",
+      "competence": "L’univers vivant",
+      "section": null,
+      "chemin": [
+        "C. Forces et mouvements",
+        "1. Mouvements chez les animaux"
+      ],
+      "texte": "a. Décrire divers modes de locomotion chez les animaux (marche, reptation, vol, saut)",
+      "prioritaire": true,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "maitrise",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 12,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "SCT-LUN-107",
+      "competence": "L’univers vivant",
+      "section": null,
+      "chemin": [
+        "C. Forces et mouvements",
+        "1. Mouvements chez les animaux"
+      ],
+      "texte": "b. Nommer d’autres types de mouvements chez les animaux et leur fonction (ex. : défense, parade nuptiale)",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "maitrise",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 12,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "SCT-LUN-108",
+      "competence": "L’univers vivant",
+      "section": null,
+      "chemin": [
+        "C. Forces et mouvements",
+        "2. Mouvements chez les végétaux"
+      ],
+      "texte": "a. Distinguer trois mouvements chez les végétaux (géotropisme, hydrotropisme, phototropisme)",
+      "prioritaire": true,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": "apprentissage",
+        "6": "maitrise"
+      },
+      "page": 12,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "SCT-LUN-109",
+      "competence": "L’univers vivant",
+      "section": null,
+      "chemin": [
+        "C. Forces et mouvements",
+        "2. Mouvements chez les végétaux"
+      ],
+      "texte": "b. Expliquer en quoi les mouvements des végétaux leur permettent de répondre à leurs besoins fondamentaux",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": "apprentissage",
+        "6": "maitrise"
+      },
+      "page": 12,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "SCT-LUN-110",
+      "competence": "L’univers vivant",
+      "section": null,
+      "chemin": [
+        "D. Systèmes et interaction",
+        "1. Interaction entre les organismes vivants et leur milieu"
+      ],
+      "texte": "a. Décrire des caractéristiques physiques qui témoignent de l’adaptation d’un animal à son milieu",
+      "prioritaire": true,
+      "progression": {
+        "1": "apprentissage",
+        "2": "maitrise",
+        "3": "reinvestissement",
+        "4": "reinvestissement",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 12,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "SCT-LUN-111",
+      "competence": "L’univers vivant",
+      "section": null,
+      "chemin": [
+        "D. Systèmes et interaction",
+        "1. Interaction entre les organismes vivants et leur milieu"
+      ],
+      "texte": "b. Décrire des comportements d’un animal familier qui lui permettent de s’adapter à son milieu",
+      "prioritaire": true,
+      "progression": {
+        "1": "apprentissage",
+        "2": "maitrise",
+        "3": "reinvestissement",
+        "4": "reinvestissement",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 12,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "SCT-LUN-112",
+      "competence": "L’univers vivant",
+      "section": null,
+      "chemin": [
+        "D. Systèmes et interaction",
+        "1. Interaction entre les organismes vivants et leur milieu"
+      ],
+      "texte": "c. Identifier des habitats ainsi que les populations animales et végétales qui y sont associées",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "maitrise",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 12,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "SCT-LUN-113",
+      "competence": "L’univers vivant",
+      "section": null,
+      "chemin": [
+        "D. Systèmes et interaction",
+        "1. Interaction entre les organismes vivants et leur milieu"
+      ],
+      "texte": "d. Décrire comment les animaux satisfont à leurs besoins fondamentaux à l’intérieur de leur habitat",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "maitrise",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 12,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "SCT-LUN-114",
+      "competence": "L’univers vivant",
+      "section": null,
+      "chemin": [
+        "D. Systèmes et interaction",
+        "1. Interaction entre les organismes vivants et leur milieu"
+      ],
+      "texte": "e. Décrire des relations entre les vivants (parasitisme, prédation)",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "maitrise",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 12,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "SCT-LUN-115",
+      "competence": "L’univers vivant",
+      "section": null,
+      "chemin": [
+        "D. Systèmes et interaction",
+        "1. Interaction entre les organismes vivants et leur milieu"
+      ],
+      "texte": "f. Expliquer des adaptations d’animaux et de végétaux permettant d’augmenter leurs chances de survie (ex. : mimétisme, camouflage)",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "maitrise",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 12,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "SCT-LUN-116",
+      "competence": "L’univers vivant",
+      "section": null,
+      "chemin": [
+        "D. Systèmes et interaction",
+        "2. Utilisation du vivant pour la consommation"
+      ],
+      "texte": "a. Donner des exemples d’utilisation du vivant (ex. : viande, légume, bois, cuir)",
+      "prioritaire": true,
+      "progression": {
+        "1": "apprentissage",
+        "2": "maitrise",
+        "3": "reinvestissement",
+        "4": "reinvestissement",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 12,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "SCT-LUN-117",
+      "competence": "L’univers vivant",
+      "section": null,
+      "chemin": [
+        "D. Systèmes et interaction",
+        "3. Interaction entre l’être humain et son milieu"
+      ],
+      "texte": "a. Décrire des impacts des activités humaines sur son environnement (ex. : exploitation des ressources, pollution, gestion des déchets, aménagement du territoire, urbanisation, agriculture)",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "apprentissage",
+        "5": "apprentissage",
+        "6": "maitrise"
+      },
+      "page": 12,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "SCT-LUN-118",
+      "competence": "L’univers vivant",
+      "section": null,
+      "chemin": [
+        "D. Systèmes et interaction",
+        "3. Interaction entre l’être humain et son milieu"
+      ],
+      "texte": "a. Décrire les principales étapes de production de divers aliments de base (ex. : fabrication du beurre, du pain, du yogourt)",
+      "prioritaire": false,
+      "progression": {
+        "1": "apprentissage",
+        "2": "maitrise",
+        "3": "reinvestissement",
+        "4": "reinvestissement",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 13,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "SCT-LUN-119",
+      "competence": "L’univers vivant",
+      "section": null,
+      "chemin": [
+        "D. Systèmes et interaction",
+        "5. Technologies de l’environnement"
+      ],
+      "texte": "a. Expliquer des concepts scientifiques et technologiques associés au recyclage et au compostage (ex. : propriétés de la matière, changements d’état, changements physiques, changements chimiques, chaîne alimentaire, énergie)",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "apprentissage",
+        "5": "apprentissage",
+        "6": "maitrise"
+      },
+      "page": 13,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "SCT-LUN-120",
+      "competence": "L’univers vivant",
+      "section": null,
+      "chemin": [
+        "E. Techniques et instrumentation",
+        "1. Utilisation d’instruments d’observation simples"
+      ],
+      "texte": "a. Utiliser adéquatement des instruments d’observation simples (loupe, binoculaire, jumelles)",
+      "prioritaire": true,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "apprentissage",
+        "5": "apprentissage",
+        "6": "maitrise"
+      },
+      "page": 13,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "SCT-LUN-121",
+      "competence": "L’univers vivant",
+      "section": null,
+      "chemin": [
+        "E. Techniques et instrumentation",
+        "2. Utilisation d’instruments de mesure simples"
+      ],
+      "texte": "a. Utiliser adéquatement des instruments de mesure simples (règles, compte- gouttes, cylindre gradué, balance, thermomètre)",
+      "prioritaire": true,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "apprentissage",
+        "5": "apprentissage",
+        "6": "maitrise"
+      },
+      "page": 13,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "SCT-LUN-122",
+      "competence": "L’univers vivant",
+      "section": null,
+      "chemin": [
+        "E. Techniques et instrumentation",
+        "3. Conception et fabrication d’environnements 1"
+      ],
+      "texte": "a. Concevoir et fabriquer des environnements (ex. : aquarium, terrarium, incubateur, serre)",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "apprentissage",
+        "5": "apprentissage",
+        "6": "maitrise"
+      },
+      "page": 13,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "SCT-LUN-123",
+      "competence": "L’univers vivant",
+      "section": null,
+      "chemin": [
+        "F. Langage approprié",
+        "1. Terminologie liée à la compréhension de l’univers vivant"
+      ],
+      "texte": "a. Utiliser adéquatement la terminologie associée à l’univers vivant",
+      "prioritaire": false,
+      "progression": {
+        "1": "apprentissage",
+        "2": "apprentissage",
+        "3": "apprentissage",
+        "4": "apprentissage",
+        "5": "apprentissage",
+        "6": "maitrise"
+      },
+      "page": 13,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "SCT-LUN-124",
+      "competence": "L’univers vivant",
+      "section": null,
+      "chemin": [
+        "F. Langage approprié",
+        "1. Terminologie liée à la compréhension de l’univers vivant"
+      ],
+      "texte": "b. Distinguer le sens d’un terme utilisé dans un contexte scientifique et technologique du sens qui lui est attribué dans le langage courant (ex. : habitat, respiration, métamorphose)",
+      "prioritaire": false,
+      "progression": {
+        "1": "apprentissage",
+        "2": "apprentissage",
+        "3": "apprentissage",
+        "4": "apprentissage",
+        "5": "apprentissage",
+        "6": "maitrise"
+      },
+      "page": 13,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "SCT-LUN-125",
+      "competence": "L’univers vivant",
+      "section": null,
+      "chemin": [
+        "F. Langage approprié",
+        "2. Conventions et modes de représentation propres aux concepts à l’étude"
+      ],
+      "texte": "a. Communiquer à l’aide des modes de représentation adéquats dans le respect des règles et des conventions propres à la science et à la technologie (symboles, graphiques, tableaux, dessins, croquis)",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "apprentissage",
+        "5": "apprentissage",
+        "6": "maitrise"
+      },
+      "page": 13,
+      "a_verifier": false,
+      "note": ""
+    }
+  ],
+  "source_url": "https://cdn-contenu.quebec.ca/cdn-contenu/education/pfeq/primaire/progressions-apprentissages/PFEQ-progression-apprentissages-science-technologie-primaire.pdf",
+  "controle_logique": {
+    "date": "2026-11-10",
+    "illogiques": 0,
+    "note": ""
+  }
+}

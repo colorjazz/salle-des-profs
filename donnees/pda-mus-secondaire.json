@@ -1,0 +1,3734 @@
+{
+  "discipline": "Musique",
+  "code_discipline": "MUS",
+  "ordre": "secondaire",
+  "source": "PFEQ-progression-apprentissages-musique-secondaire.pdf",
+  "annees": [
+    "1",
+    "2",
+    "3",
+    "4",
+    "5"
+  ],
+  "pages_avec_grandes_images": [],
+  "bilan": {
+    "nombre_savoirs": 179,
+    "a_verifier": 0,
+    "prioritaires": 0
+  },
+  "savoirs": [
+    {
+      "id": "MUS-ECY-001",
+      "competence": "Connaissances",
+      "section": "2e cycle : Programme optionnel Musique et multimédia",
+      "chemin": [
+        "A. Règles relatives à la musique d’ensemble"
+      ],
+      "texte": "b. Identifier des indications sonores ou visuelles liées à la musique d’ensemble (ex. : début et fin de l’œuvre, nuances, pulsation, changement de tempo)",
+      "prioritaire": false,
+      "progression": {
+        "1": "apprentissage",
+        "2": "maitrise",
+        "3": null,
+        "4": null,
+        "5": null
+      },
+      "page": 6,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "MUS-ECY-002",
+      "competence": "Connaissances",
+      "section": "2e cycle : Programme optionnel Musique et multimédia",
+      "chemin": [
+        "A. Règles relatives à la musique d’ensemble"
+      ],
+      "texte": "c. Différencier des indications sonores ou visuelles liées à la musique d’ensemble et plus particulièrement le phrasé et l’équilibre entre les parties",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "maitrise",
+        "5": null
+      },
+      "page": 6,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "MUS-ECY-003",
+      "competence": "Connaissances",
+      "section": "2e cycle : Programme optionnel Musique et multimédia",
+      "chemin": [
+        "A. Règles relatives à la musique d’ensemble"
+      ],
+      "texte": "d. Décrire les caractéristiques des indications sonores ou visuelles liées à la musique d’ensemble et plus particulièrement l’expression",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "apprentissage",
+        "5": "maitrise"
+      },
+      "page": 6,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "MUS-ECY-004",
+      "competence": "Connaissances",
+      "section": "2e cycle : Programme optionnel Musique et multimédia",
+      "chemin": [
+        "A. Règles relatives à la musique d’ensemble"
+      ],
+      "texte": "e. Comparer des indications sonores ou visuelles liées à la musique d’ensemble",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "apprentissage",
+        "5": "maitrise"
+      },
+      "page": 6,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "MUS-ECY-005",
+      "competence": "Connaissances",
+      "section": "2e cycle : Programme optionnel Musique et multimédia",
+      "chemin": [
+        "A. Règles relatives à la musique d’ensemble"
+      ],
+      "texte": "f. Comparer des indications sonores ou visuelles liées à la musique d’ensemble avec les outils propres au multimédia (ex. : pulsation sonore ou visuelle)",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "apprentissage",
+        "5": "maitrise"
+      },
+      "page": 6,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "MUS-ECY-006",
+      "competence": "Connaissances",
+      "section": "2e cycle : Programme optionnel Musique et multimédia",
+      "chemin": [
+        "B. Procédés de composition"
+      ],
+      "texte": "b. Identifier des procédés de composition (ex. : question/ réponse, contraste, reproduction sonore, répétition, collage, ostinato, miroir, augmentation)",
+      "prioritaire": false,
+      "progression": {
+        "1": "apprentissage",
+        "2": "maitrise",
+        "3": null,
+        "4": null,
+        "5": null
+      },
+      "page": 6,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "MUS-ECY-007",
+      "competence": "Connaissances",
+      "section": "2e cycle : Programme optionnel Musique et multimédia",
+      "chemin": [
+        "B. Procédés de composition"
+      ],
+      "texte": "c. Différencier certains procédés de composition (ex. : ostinato, couplet-refrain)",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "maitrise",
+        "5": null
+      },
+      "page": 6,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "MUS-ECY-008",
+      "competence": "Connaissances",
+      "section": "2e cycle : Programme optionnel Musique et multimédia",
+      "chemin": [
+        "B. Procédés de composition"
+      ],
+      "texte": "d. Décrire les caractéristiques de certains procédés de composition (ex. : répétition d’une formule rythmique, mélodique ou harmonique de l’ostinato)",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "apprentissage",
+        "5": "maitrise"
+      },
+      "page": 6,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "MUS-ECY-009",
+      "competence": "Connaissances",
+      "section": "2e cycle : Programme optionnel Musique et multimédia",
+      "chemin": [
+        "B. Procédés de composition"
+      ],
+      "texte": "e. Comparer les caractéristiques de certains procédés de composition (ex. : changement [permutation] de l’ordre des cellules mélodiques, ajout [insertion] d’une ou de plusieurs mesures rythmiques et mélodiques)",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "apprentissage",
+        "5": "maitrise"
+      },
+      "page": 6,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "MUS-ECY-010",
+      "competence": "Connaissances",
+      "section": "2e cycle : Programme optionnel Musique et multimédia",
+      "chemin": [
+        "C. Moyens sonores, techniques",
+        "1. Musique vocale, musique instrumentale"
+      ],
+      "texte": "b. Identifier des moyens sonores parmi les suivants : voix, cordes, vents, percussions, percussions corporelles, technologies de l’information et de la communication",
+      "prioritaire": false,
+      "progression": {
+        "1": "apprentissage",
+        "2": "maitrise",
+        "3": null,
+        "4": null,
+        "5": null
+      },
+      "page": 6,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "MUS-ECY-011",
+      "competence": "Connaissances",
+      "section": "2e cycle : Programme optionnel Musique et multimédia",
+      "chemin": [
+        "C. Moyens sonores, techniques",
+        "1. Musique vocale, musique instrumentale"
+      ],
+      "texte": "c. Différencier les moyens sonores utilisés en classe",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "maitrise",
+        "5": null
+      },
+      "page": 6,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "MUS-ECY-012",
+      "competence": "Connaissances",
+      "section": "2e cycle : Programme optionnel Musique et multimédia",
+      "chemin": [
+        "C. Moyens sonores, techniques",
+        "1. Musique vocale, musique instrumentale"
+      ],
+      "texte": "d. Décrire les caractéristiques des moyens sonores utilisés en classe (ex. : familles d’instruments)",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "apprentissage",
+        "5": "maitrise"
+      },
+      "page": 6,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "MUS-ECY-013",
+      "competence": "Connaissances",
+      "section": "2e cycle : Programme optionnel Musique et multimédia",
+      "chemin": [
+        "C. Moyens sonores, techniques",
+        "1. Musique vocale, musique instrumentale"
+      ],
+      "texte": "f. Comparer les caractéristiques des moyens sonores avec ceux des outils propres aux multimédias utilisés en classe",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "apprentissage",
+        "5": "maitrise"
+      },
+      "page": 7,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "MUS-ECY-014",
+      "competence": "Connaissances",
+      "section": "2e cycle : Programme optionnel Musique et multimédia",
+      "chemin": [
+        "C. Moyens sonores, techniques",
+        "2. Techniques vocales"
+      ],
+      "texte": "b. Identifier des éléments de la technique vocale (ex. : respiration, justesse, posture, tonus, prononciation, émission du son)",
+      "prioritaire": false,
+      "progression": {
+        "1": "apprentissage",
+        "2": "maitrise",
+        "3": null,
+        "4": null,
+        "5": null
+      },
+      "page": 7,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "MUS-ECY-015",
+      "competence": "Connaissances",
+      "section": "2e cycle : Programme optionnel Musique et multimédia",
+      "chemin": [
+        "C. Moyens sonores, techniques",
+        "2. Techniques vocales"
+      ],
+      "texte": "c. Différencier des éléments de la technique vocale (ex. : l’attaque du son de l’émission du son, l’inspiration de l’expiration)",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "maitrise",
+        "5": null
+      },
+      "page": 7,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "MUS-ECY-016",
+      "competence": "Connaissances",
+      "section": "2e cycle : Programme optionnel Musique et multimédia",
+      "chemin": [
+        "C. Moyens sonores, techniques",
+        "2. Techniques vocales"
+      ],
+      "texte": "d. Expliquer l’utilité de différentes techniques vocales dans l’apprentissage de la voix (ex. : aisance vocale, souplesse, détente)",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "apprentissage",
+        "5": "maitrise"
+      },
+      "page": 7,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "MUS-ECY-017",
+      "competence": "Connaissances",
+      "section": "2e cycle : Programme optionnel Musique et multimédia",
+      "chemin": [
+        "C. Moyens sonores, techniques",
+        "2. Techniques vocales"
+      ],
+      "texte": "e. Comparer différentes techniques vocales utilisées (ex. : exercices liés à l’émission de son, à la prononciation, à la justesse)",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "apprentissage",
+        "5": "maitrise"
+      },
+      "page": 7,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "MUS-ECY-018",
+      "competence": "Connaissances",
+      "section": "2e cycle : Programme optionnel Musique et multimédia",
+      "chemin": [
+        "C. Moyens sonores, techniques",
+        "2. Techniques vocales"
+      ],
+      "texte": "f. Comparer l’utilisation de différentes techniques vocales à considérer lors du traitement du son (ex. : projection et émission du son adaptées à l’enregistrement)",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "apprentissage",
+        "5": "maitrise"
+      },
+      "page": 7,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "MUS-ECY-019",
+      "competence": "Connaissances",
+      "section": "2e cycle : Programme optionnel Musique et multimédia",
+      "chemin": [
+        "C. Moyens sonores, techniques",
+        "3. Techniques instrumentales"
+      ],
+      "texte": "b. Identifier des éléments de la technique instrumentale (ex. : posture, maintien, respiration [inspiration/expiration], émission du son, attaque du son, articulation)",
+      "prioritaire": false,
+      "progression": {
+        "1": "apprentissage",
+        "2": "maitrise",
+        "3": null,
+        "4": null,
+        "5": null
+      },
+      "page": 7,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "MUS-ECY-020",
+      "competence": "Connaissances",
+      "section": "2e cycle : Programme optionnel Musique et multimédia",
+      "chemin": [
+        "C. Moyens sonores, techniques",
+        "3. Techniques instrumentales"
+      ],
+      "texte": "c. Différencier des éléments de la technique instrumentale (ex. : attaque du son et émission du son)",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "maitrise",
+        "5": null
+      },
+      "page": 7,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "MUS-ECY-021",
+      "competence": "Connaissances",
+      "section": "2e cycle : Programme optionnel Musique et multimédia",
+      "chemin": [
+        "C. Moyens sonores, techniques",
+        "3. Techniques instrumentales"
+      ],
+      "texte": "d. Expliquer l’utilité de différentes techniques instrumentales (ex. : agilité, flexibilité, concentration)",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "apprentissage",
+        "5": "maitrise"
+      },
+      "page": 7,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "MUS-ECY-022",
+      "competence": "Connaissances",
+      "section": "2e cycle : Programme optionnel Musique et multimédia",
+      "chemin": [
+        "C. Moyens sonores, techniques",
+        "3. Techniques instrumentales"
+      ],
+      "texte": "e. Comparer différentes techniques instrumentales utilisées",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "apprentissage",
+        "5": "maitrise"
+      },
+      "page": 7,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "MUS-ECY-023",
+      "competence": "Connaissances",
+      "section": "2e cycle : Programme optionnel Musique et multimédia",
+      "chemin": [
+        "C. Moyens sonores, techniques",
+        "3. Techniques instrumentales"
+      ],
+      "texte": "f. Comparer l’utilisation de techniques instrumentales à considérer lors du traitement du son (ex. : projection et émission du son adaptées à l’enregistrement)",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "apprentissage",
+        "5": "maitrise"
+      },
+      "page": 7,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "MUS-ECY-024",
+      "competence": "Connaissances",
+      "section": "2e cycle : Programme optionnel Musique et multimédia",
+      "chemin": [
+        "D. Médias, outils, techniques"
+      ],
+      "texte": "a. Comparer les caractéristiques des éléments des médias propres au multimédia (ex. : son, texte, image fixe, image en mouvement, image 3D)",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "apprentissage",
+        "5": "maitrise"
+      },
+      "page": 7,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "MUS-ECY-025",
+      "competence": "Connaissances",
+      "section": "2e cycle : Programme optionnel Musique et multimédia",
+      "chemin": [
+        "D. Médias, outils, techniques"
+      ],
+      "texte": "b. Comparer les caractéristiques des éléments des outils propres au multimédia (ex. : microphone, amplificateur, console)",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "apprentissage",
+        "5": "maitrise"
+      },
+      "page": 7,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "MUS-ECY-026",
+      "competence": "Connaissances",
+      "section": "2e cycle : Programme optionnel Musique et multimédia",
+      "chemin": [
+        "D. Médias, outils, techniques"
+      ],
+      "texte": "c. Comparer les caractéristiques des éléments des techniques propres au multimédia (ex. : prise de son, amplification, mixage direct)",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "apprentissage",
+        "5": "maitrise"
+      },
+      "page": 7,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "MUS-ECY-027",
+      "competence": "Connaissances",
+      "section": "2e cycle : Programme optionnel Musique et multimédia",
+      "chemin": [
+        "E. Concepts et notions",
+        "1. Langage musical 1.1. Représentation graphique à l’aide d’un code traditionnel ou d’un code non traditionnel"
+      ],
+      "texte": "b. Identifier des symboles graphiques liés au langage musical et à la structure selon l’instrument joué",
+      "prioritaire": false,
+      "progression": {
+        "1": "apprentissage",
+        "2": "maitrise",
+        "3": null,
+        "4": null,
+        "5": null
+      },
+      "page": 7,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "MUS-ECY-028",
+      "competence": "Connaissances",
+      "section": "2e cycle : Programme optionnel Musique et multimédia",
+      "chemin": [
+        "E. Concepts et notions",
+        "1. Langage musical 1.1. Représentation graphique à l’aide d’un code traditionnel ou d’un code non traditionnel"
+      ],
+      "texte": "c. Différencier certains symboles graphiques liés au langage musical et à la structure",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "maitrise",
+        "5": null
+      },
+      "page": 7,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "MUS-ECY-029",
+      "competence": "Connaissances",
+      "section": "2e cycle : Programme optionnel Musique et multimédia",
+      "chemin": [
+        "E. Concepts et notions",
+        "1. Langage musical 1.1. Représentation graphique à l’aide d’un code traditionnel ou d’un code non traditionnel"
+      ],
+      "texte": "d. Décrire les caractéristiques de certains symboles graphiques liés au langage musical et à la structure",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "apprentissage",
+        "5": "maitrise"
+      },
+      "page": 7,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "MUS-ECY-030",
+      "competence": "Connaissances",
+      "section": "2e cycle : Programme optionnel Musique et multimédia",
+      "chemin": [
+        "E. Concepts et notions",
+        "1. Langage musical 1.1. Représentation graphique à l’aide d’un code traditionnel ou d’un code non traditionnel"
+      ],
+      "texte": "e. Comparer les caractéristiques de certains symboles graphiques liés au langage musical et à la structure",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "apprentissage",
+        "5": "maitrise"
+      },
+      "page": 7,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "MUS-ECY-031",
+      "competence": "Connaissances",
+      "section": "2e cycle : Programme optionnel Musique et multimédia",
+      "chemin": [
+        "E. Concepts et notions",
+        "1. Langage musical 1.1. Représentation graphique à l’aide d’un code traditionnel ou d’un code non traditionnel"
+      ],
+      "texte": "b. Identifier des nuances parmi les suivantes : forte, piano, crescendo, decrescendo, pianissimo, fortissimo, mezzo piano, mezzo forte, subito piano",
+      "prioritaire": false,
+      "progression": {
+        "1": "apprentissage",
+        "2": "maitrise",
+        "3": null,
+        "4": null,
+        "5": null
+      },
+      "page": 8,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "MUS-ECY-032",
+      "competence": "Connaissances",
+      "section": "2e cycle : Programme optionnel Musique et multimédia",
+      "chemin": [
+        "E. Concepts et notions",
+        "1. Langage musical 1.1. Représentation graphique à l’aide d’un code traditionnel ou d’un code non traditionnel"
+      ],
+      "texte": "c. Relever les caractéristiques de certaines nuances",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "maitrise",
+        "5": null
+      },
+      "page": 8,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "MUS-ECY-033",
+      "competence": "Connaissances",
+      "section": "2e cycle : Programme optionnel Musique et multimédia",
+      "chemin": [
+        "E. Concepts et notions",
+        "1. Langage musical 1.1. Représentation graphique à l’aide d’un code traditionnel ou d’un code non traditionnel"
+      ],
+      "texte": "d. Relever et comparer les subtilités de certaines nuances (ex. : entre pianissimo et piano, entre forte et mezzo forte)",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "apprentissage",
+        "5": "maitrise"
+      },
+      "page": 8,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "MUS-ECY-034",
+      "competence": "Connaissances",
+      "section": "2e cycle : Programme optionnel Musique et multimédia",
+      "chemin": [
+        "E. Concepts et notions",
+        "1. Langage musical 1.1. Représentation graphique à l’aide d’un code traditionnel ou d’un code non traditionnel"
+      ],
+      "texte": "e. Relever et comparer les subtilités de certaines nuances ayant fait l’objet d’un traitement numérique ou analogique 1.3. Durée",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "apprentissage",
+        "5": "maitrise"
+      },
+      "page": 8,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "MUS-ECY-035",
+      "competence": "Connaissances",
+      "section": "2e cycle : Programme optionnel Musique et multimédia",
+      "chemin": [
+        "E. Concepts et notions",
+        "1. Langage musical 1.1. Représentation graphique à l’aide d’un code traditionnel ou d’un code non traditionnel"
+      ],
+      "texte": "b. Identifier des figures de notes, de silences et des signes de prolongement parmi les suivants : ronde, blanche, noire, soupir, deux croches, croche, double-croche, pause, demi-pause, demi-soupir, point d’augmentation, liaison de prolongation et point d’orgue",
+      "prioritaire": false,
+      "progression": {
+        "1": "apprentissage",
+        "2": "maitrise",
+        "3": null,
+        "4": null,
+        "5": null
+      },
+      "page": 8,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "MUS-ECY-036",
+      "competence": "Connaissances",
+      "section": "2e cycle : Programme optionnel Musique et multimédia",
+      "chemin": [
+        "E. Concepts et notions",
+        "1. Langage musical 1.1. Représentation graphique à l’aide d’un code traditionnel ou d’un code non traditionnel"
+      ],
+      "texte": "c. Différencier certaines figures de notes et de silences, et des signes de prolongement",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "maitrise",
+        "5": null
+      },
+      "page": 8,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "MUS-ECY-037",
+      "competence": "Connaissances",
+      "section": "2e cycle : Programme optionnel Musique et multimédia",
+      "chemin": [
+        "E. Concepts et notions",
+        "1. Langage musical 1.1. Représentation graphique à l’aide d’un code traditionnel ou d’un code non traditionnel"
+      ],
+      "texte": "d. Décrire les caractéristiques de certaines figures de notes, de silences et des signes de prolongement",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "apprentissage",
+        "5": "maitrise"
+      },
+      "page": 8,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "MUS-ECY-038",
+      "competence": "Connaissances",
+      "section": "2e cycle : Programme optionnel Musique et multimédia",
+      "chemin": [
+        "E. Concepts et notions",
+        "1. Langage musical 1.1. Représentation graphique à l’aide d’un code traditionnel ou d’un code non traditionnel"
+      ],
+      "texte": "e. Comparer les caractéristiques de certaines figures de notes et de silences, ainsi que des signes de prolongement",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "apprentissage",
+        "5": "maitrise"
+      },
+      "page": 8,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "MUS-ECY-039",
+      "competence": "Connaissances",
+      "section": "2e cycle : Programme optionnel Musique et multimédia",
+      "chemin": [
+        "E. Concepts et notions",
+        "1. Langage musical 1.1. Représentation graphique à l’aide d’un code traditionnel ou d’un code non traditionnel"
+      ],
+      "texte": "f. Comparer les caractéristiques de certaines figures de notes et de silences, ainsi que des signes de prolongement ayant fait l’objet d’un traitement numérique ou analogique 1.4. Hauteur",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "apprentissage",
+        "5": "maitrise"
+      },
+      "page": 8,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "MUS-ECY-040",
+      "competence": "Connaissances",
+      "section": "2e cycle : Programme optionnel Musique et multimédia",
+      "chemin": [
+        "E. Concepts et notions",
+        "1. Langage musical 1.1. Représentation graphique à l’aide d’un code traditionnel ou d’un code non traditionnel"
+      ],
+      "texte": "b. Identifier des registres, des sons de l’échelle diatonique, des notes sur la portée et les lignes supplémentaires dans les différentes clés selon l’instrument joué, ainsi que des signes d’altération [dièse, bémol, bécarre] accidentelle et des signes d’altération à la clé",
+      "prioritaire": false,
+      "progression": {
+        "1": "apprentissage",
+        "2": "maitrise",
+        "3": null,
+        "4": null,
+        "5": null
+      },
+      "page": 8,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "MUS-ECY-041",
+      "competence": "Connaissances",
+      "section": "2e cycle : Programme optionnel Musique et multimédia",
+      "chemin": [
+        "E. Concepts et notions",
+        "1. Langage musical 1.1. Représentation graphique à l’aide d’un code traditionnel ou d’un code non traditionnel"
+      ],
+      "texte": "c. Différencier les registres, des sons de l’échelle diatonique, y compris l’échelle chromatique, et les signes d’altération",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "maitrise",
+        "5": null
+      },
+      "page": 8,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "MUS-ECY-042",
+      "competence": "Connaissances",
+      "section": "2e cycle : Programme optionnel Musique et multimédia",
+      "chemin": [
+        "E. Concepts et notions",
+        "1. Langage musical 1.1. Représentation graphique à l’aide d’un code traditionnel ou d’un code non traditionnel"
+      ],
+      "texte": "d. Décrire les caractéristiques des différents registres, des sons de l’échelle diatonique et chromatique ainsi que les divers signes d’altération",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "apprentissage",
+        "5": "maitrise"
+      },
+      "page": 8,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "MUS-ECY-043",
+      "competence": "Connaissances",
+      "section": "2e cycle : Programme optionnel Musique et multimédia",
+      "chemin": [
+        "E. Concepts et notions",
+        "1. Langage musical 1.1. Représentation graphique à l’aide d’un code traditionnel ou d’un code non traditionnel"
+      ],
+      "texte": "e. Comparer les caractéristiques des différents registres, des sons de l’échelle diatonique et chromatique, la transposition à l’octave (8va) et les doubles altérations",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "apprentissage",
+        "5": "maitrise"
+      },
+      "page": 8,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "MUS-ECY-044",
+      "competence": "Connaissances",
+      "section": "2e cycle : Programme optionnel Musique et multimédia",
+      "chemin": [
+        "E. Concepts et notions",
+        "1. Langage musical 1.1. Représentation graphique à l’aide d’un code traditionnel ou d’un code non traditionnel"
+      ],
+      "texte": "f. Comparer les caractéristiques des différents registres, des sons de l’échelle diatonique et chromatique, la transposition à l’octave (8va) et les doubles altérations ayant fait l’objet d’un traitement numérique ou analogique 1.5. Timbre",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "apprentissage",
+        "5": "maitrise"
+      },
+      "page": 8,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "MUS-ECY-045",
+      "competence": "Connaissances",
+      "section": "2e cycle : Programme optionnel Musique et multimédia",
+      "chemin": [
+        "E. Concepts et notions",
+        "1. Langage musical 1.1. Représentation graphique à l’aide d’un code traditionnel ou d’un code non traditionnel"
+      ],
+      "texte": "b. Identifier des instruments et la famille à laquelle ils appartiennent ainsi que les registres de la voix (soprano, alto, ténor, basse)",
+      "prioritaire": false,
+      "progression": {
+        "1": "apprentissage",
+        "2": "maitrise",
+        "3": null,
+        "4": null,
+        "5": null
+      },
+      "page": 8,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "MUS-ECY-046",
+      "competence": "Connaissances",
+      "section": "2e cycle : Programme optionnel Musique et multimédia",
+      "chemin": [
+        "E. Concepts et notions",
+        "1. Langage musical 1.1. Représentation graphique à l’aide d’un code traditionnel ou d’un code non traditionnel"
+      ],
+      "texte": "c. Dégager les caractéristiques des instruments et la famille à laquelle ils appartiennent ainsi que les registres de la voix",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "maitrise",
+        "5": null
+      },
+      "page": 8,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "MUS-ECY-047",
+      "competence": "Connaissances",
+      "section": "2e cycle : Programme optionnel Musique et multimédia",
+      "chemin": [
+        "E. Concepts et notions",
+        "1. Langage musical 1.1. Représentation graphique à l’aide d’un code traditionnel ou d’un code non traditionnel"
+      ],
+      "texte": "d. Décrire les différentes façons de produire un son (ex. : vibration à partir d’une colonne d’air, cordes, percussions, sons numériques)",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "apprentissage",
+        "5": "maitrise"
+      },
+      "page": 8,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "MUS-ECY-048",
+      "competence": "Connaissances",
+      "section": "2e cycle : Programme optionnel Musique et multimédia",
+      "chemin": [
+        "E. Concepts et notions",
+        "1. Langage musical 1.1. Représentation graphique à l’aide d’un code traditionnel ou d’un code non traditionnel"
+      ],
+      "texte": "f. Comparer les particularités du mode de production du son par la voix et par différentes familles d’instruments avec ceux ayant fait l’objet d’un traitement numérique ou analogique (ex. : synthétiseur numérique, échantillonneur) 1.6. Qualité du son",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "apprentissage",
+        "5": "maitrise"
+      },
+      "page": 9,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "MUS-ECY-049",
+      "competence": "Connaissances",
+      "section": "2e cycle : Programme optionnel Musique et multimédia",
+      "chemin": [
+        "E. Concepts et notions",
+        "1. Langage musical 1.1. Représentation graphique à l’aide d’un code traditionnel ou d’un code non traditionnel"
+      ],
+      "texte": "b. Identifier les qualités du son et des signes d’articulation (ex. : staccato, legato, accent, sforzando)",
+      "prioritaire": false,
+      "progression": {
+        "1": "apprentissage",
+        "2": "maitrise",
+        "3": null,
+        "4": null,
+        "5": null
+      },
+      "page": 9,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "MUS-ECY-050",
+      "competence": "Connaissances",
+      "section": "2e cycle : Programme optionnel Musique et multimédia",
+      "chemin": [
+        "E. Concepts et notions",
+        "1. Langage musical 1.1. Représentation graphique à l’aide d’un code traditionnel ou d’un code non traditionnel"
+      ],
+      "texte": "c. Dégager les qualités du son et des signes d’articulation (ex. : staccato, legato, accent, sforzando, appogiature, chevron)",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "maitrise",
+        "5": null
+      },
+      "page": 9,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "MUS-ECY-051",
+      "competence": "Connaissances",
+      "section": "2e cycle : Programme optionnel Musique et multimédia",
+      "chemin": [
+        "E. Concepts et notions",
+        "1. Langage musical 1.1. Représentation graphique à l’aide d’un code traditionnel ou d’un code non traditionnel"
+      ],
+      "texte": "d. Décrire les caractéristiques des qualités du son et des signes d’articulation",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "apprentissage",
+        "5": "maitrise"
+      },
+      "page": 9,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "MUS-ECY-052",
+      "competence": "Connaissances",
+      "section": "2e cycle : Programme optionnel Musique et multimédia",
+      "chemin": [
+        "E. Concepts et notions",
+        "1. Langage musical 1.1. Représentation graphique à l’aide d’un code traditionnel ou d’un code non traditionnel"
+      ],
+      "texte": "e. Comparer les différentes qualités du son et des signes d’articulation",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "apprentissage",
+        "5": "maitrise"
+      },
+      "page": 9,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "MUS-ECY-053",
+      "competence": "Connaissances",
+      "section": "2e cycle : Programme optionnel Musique et multimédia",
+      "chemin": [
+        "E. Concepts et notions",
+        "1. Langage musical 1.1. Représentation graphique à l’aide d’un code traditionnel ou d’un code non traditionnel"
+      ],
+      "texte": "f. Comparer les différentes qualités du son et des signes d’articulation ayant fait l’objet d’un traitement numérique ou analogique",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "apprentissage",
+        "5": "maitrise"
+      },
+      "page": 9,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "MUS-ECY-054",
+      "competence": "Connaissances",
+      "section": "2e cycle : Programme optionnel Musique et multimédia",
+      "chemin": [
+        "E. Concepts et notions",
+        "2. Structure 2.1. Forme"
+      ],
+      "texte": "b. Identifier des signes de renvoi et la forme d’une pièce parmi les suivantes : forme personnelle, forme A B, forme A B A, canon à deux voix, rondo, canon, thème et variations",
+      "prioritaire": false,
+      "progression": {
+        "1": "apprentissage",
+        "2": "maitrise",
+        "3": null,
+        "4": null,
+        "5": null
+      },
+      "page": 9,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "MUS-ECY-055",
+      "competence": "Connaissances",
+      "section": "2e cycle : Programme optionnel Musique et multimédia",
+      "chemin": [
+        "E. Concepts et notions",
+        "2. Structure 2.1. Forme"
+      ],
+      "texte": "c. Différencier des formes et des signes de renvoi et plus particulièrement le canon, le rondo, le thème et les variations",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "maitrise",
+        "5": null
+      },
+      "page": 9,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "MUS-ECY-056",
+      "competence": "Connaissances",
+      "section": "2e cycle : Programme optionnel Musique et multimédia",
+      "chemin": [
+        "E. Concepts et notions",
+        "2. Structure 2.1. Forme"
+      ],
+      "texte": "d. Décrire les éléments constitutifs d’une forme musicale",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "apprentissage",
+        "5": "maitrise"
+      },
+      "page": 9,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "MUS-ECY-057",
+      "competence": "Connaissances",
+      "section": "2e cycle : Programme optionnel Musique et multimédia",
+      "chemin": [
+        "E. Concepts et notions",
+        "2. Structure 2.1. Forme"
+      ],
+      "texte": "e. Comparer différentes formes musicales à l’aide de leurs éléments constitutifs 2.2. Tempo",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "apprentissage",
+        "5": "maitrise"
+      },
+      "page": 9,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "MUS-ECY-058",
+      "competence": "Connaissances",
+      "section": "2e cycle : Programme optionnel Musique et multimédia",
+      "chemin": [
+        "E. Concepts et notions",
+        "2. Structure 2.1. Forme"
+      ],
+      "texte": "b. Identifier des tempi parmi les suivants: lento, moderato, allegro, accelerando, rallentando, changement de tempo, ad libitum, a tempo, ritenuto",
+      "prioritaire": false,
+      "progression": {
+        "1": "apprentissage",
+        "2": "maitrise",
+        "3": null,
+        "4": null,
+        "5": null
+      },
+      "page": 9,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "MUS-ECY-059",
+      "competence": "Connaissances",
+      "section": "2e cycle : Programme optionnel Musique et multimédia",
+      "chemin": [
+        "E. Concepts et notions",
+        "2. Structure 2.1. Forme"
+      ],
+      "texte": "c. Différencier des termes propres aux tempi",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "maitrise",
+        "5": null
+      },
+      "page": 9,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "MUS-ECY-060",
+      "competence": "Connaissances",
+      "section": "2e cycle : Programme optionnel Musique et multimédia",
+      "chemin": [
+        "E. Concepts et notions",
+        "2. Structure 2.1. Forme"
+      ],
+      "texte": "d. Décrire les caractéristiques de différents tempi",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "apprentissage",
+        "5": "maitrise"
+      },
+      "page": 9,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "MUS-ECY-061",
+      "competence": "Connaissances",
+      "section": "2e cycle : Programme optionnel Musique et multimédia",
+      "chemin": [
+        "E. Concepts et notions",
+        "2. Structure 2.1. Forme"
+      ],
+      "texte": "e. Comparer certaines subtilités de tempi à l’aide de leurs caractéristiques 2.3. Organisation rythmique",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "apprentissage",
+        "5": "maitrise"
+      },
+      "page": 9,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "MUS-ECY-062",
+      "competence": "Connaissances",
+      "section": "2e cycle : Programme optionnel Musique et multimédia",
+      "chemin": [
+        "E. Concepts et notions",
+        "2. Structure 2.1. Forme"
+      ],
+      "texte": "b. Identifier différents éléments de l’organisation rythmique (ex. : pulsation, mesures, cellules rythmiques simples)",
+      "prioritaire": false,
+      "progression": {
+        "1": "apprentissage",
+        "2": "maitrise",
+        "3": null,
+        "4": null,
+        "5": null
+      },
+      "page": 9,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "MUS-ECY-063",
+      "competence": "Connaissances",
+      "section": "2e cycle : Programme optionnel Musique et multimédia",
+      "chemin": [
+        "E. Concepts et notions",
+        "2. Structure 2.1. Forme"
+      ],
+      "texte": "c. Relever des éléments de l’organisation rythmique et plus particulièrement les mesures simples binaires ou ternaires",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "maitrise",
+        "5": null
+      },
+      "page": 9,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "MUS-ECY-064",
+      "competence": "Connaissances",
+      "section": "2e cycle : Programme optionnel Musique et multimédia",
+      "chemin": [
+        "E. Concepts et notions",
+        "2. Structure 2.1. Forme"
+      ],
+      "texte": "d. Décrire les caractéristiques de certains éléments de l’organisation rythmique",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "apprentissage",
+        "5": "maitrise"
+      },
+      "page": 9,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "MUS-ECY-065",
+      "competence": "Connaissances",
+      "section": "2e cycle : Programme optionnel Musique et multimédia",
+      "chemin": [
+        "E. Concepts et notions",
+        "2. Structure 2.1. Forme"
+      ],
+      "texte": "e. Comparer les caractéristiques de certains éléments de l’organisation rythmique et plus particulièrement la syncope et les mesures composées 2.4. Organisation mélodique",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "apprentissage",
+        "5": "maitrise"
+      },
+      "page": 9,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "MUS-ECY-066",
+      "competence": "Connaissances",
+      "section": "2e cycle : Programme optionnel Musique et multimédia",
+      "chemin": [
+        "E. Concepts et notions",
+        "2. Structure 2.1. Forme"
+      ],
+      "texte": "b. Identifier des éléments de l’organisation mélodique (ex. : phrase musicale, séries ascendantes et descendantes de sons, sons conjoints, sons disjoints, série de sons répétés à hauteur fixe, glissando)",
+      "prioritaire": false,
+      "progression": {
+        "1": "apprentissage",
+        "2": "maitrise",
+        "3": null,
+        "4": null,
+        "5": null
+      },
+      "page": 10,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "MUS-ECY-067",
+      "competence": "Connaissances",
+      "section": "2e cycle : Programme optionnel Musique et multimédia",
+      "chemin": [
+        "E. Concepts et notions",
+        "2. Structure 2.1. Forme"
+      ],
+      "texte": "c. Relever des éléments de l’organisation mélodique (ex. : suites de sons chromatiques ou diatoniques ascendants et descendants)",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "maitrise",
+        "5": null
+      },
+      "page": 10,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "MUS-ECY-068",
+      "competence": "Connaissances",
+      "section": "2e cycle : Programme optionnel Musique et multimédia",
+      "chemin": [
+        "E. Concepts et notions",
+        "2. Structure 2.1. Forme"
+      ],
+      "texte": "d. Décrire les caractéristiques de certains éléments de l’organisation mélodique (ex. : description d’une gamme majeure)",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "apprentissage",
+        "5": "maitrise"
+      },
+      "page": 10,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "MUS-ECY-069",
+      "competence": "Connaissances",
+      "section": "2e cycle : Programme optionnel Musique et multimédia",
+      "chemin": [
+        "E. Concepts et notions",
+        "2. Structure 2.1. Forme"
+      ],
+      "texte": "e. Comparer des éléments de l’organisation mélodique (ex. : différents intervalles simples) 2.5. Organisation harmonique",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "apprentissage",
+        "5": "maitrise"
+      },
+      "page": 10,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "MUS-ECY-070",
+      "competence": "Connaissances",
+      "section": "2e cycle : Programme optionnel Musique et multimédia",
+      "chemin": [
+        "E. Concepts et notions",
+        "2. Structure 2.1. Forme"
+      ],
+      "texte": "a. Nommer les éléments de l’organisation harmonique suivants : grappe de sons, cluster, accords majeur et mineur",
+      "prioritaire": false,
+      "progression": {
+        "1": "apprentissage",
+        "2": "maitrise",
+        "3": null,
+        "4": null,
+        "5": null
+      },
+      "page": 10,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "MUS-ECY-071",
+      "competence": "Connaissances",
+      "section": "2e cycle : Programme optionnel Musique et multimédia",
+      "chemin": [
+        "E. Concepts et notions",
+        "2. Structure 2.1. Forme"
+      ],
+      "texte": "b. Relever certains éléments de l’organisation harmonique et plus particulièrement les accords majeur et mineur",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "maitrise",
+        "5": null
+      },
+      "page": 10,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "MUS-ECY-072",
+      "competence": "Connaissances",
+      "section": "2e cycle : Programme optionnel Musique et multimédia",
+      "chemin": [
+        "E. Concepts et notions",
+        "2. Structure 2.1. Forme"
+      ],
+      "texte": "c. Décrire les caractéristiques de certains éléments de l’organisation harmonique (ex. : ensemble de sons conjoints simultanés du cluster)",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "apprentissage",
+        "5": "maitrise"
+      },
+      "page": 10,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "MUS-ECY-073",
+      "competence": "Connaissances",
+      "section": "2e cycle : Programme optionnel Musique et multimédia",
+      "chemin": [
+        "E. Concepts et notions",
+        "2. Structure 2.1. Forme"
+      ],
+      "texte": "d. Comparer les éléments de l’organisation harmonique (ex. : différentes tonalités) 2.6. Représentation graphique (codes personnels)",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "apprentissage",
+        "5": "maitrise"
+      },
+      "page": 10,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "MUS-ECY-074",
+      "competence": "Connaissances",
+      "section": "2e cycle : Programme optionnel Musique et multimédia",
+      "chemin": [
+        "E. Concepts et notions",
+        "2. Structure 2.1. Forme"
+      ],
+      "texte": "b. Identifier des symboles graphiques (codes personnels) liés au langage musical et à la structure d’une pièce",
+      "prioritaire": false,
+      "progression": {
+        "1": "apprentissage",
+        "2": "maitrise",
+        "3": null,
+        "4": null,
+        "5": null
+      },
+      "page": 10,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "MUS-ECY-075",
+      "competence": "Connaissances",
+      "section": "2e cycle : Programme optionnel Musique et multimédia",
+      "chemin": [
+        "E. Concepts et notions",
+        "2. Structure 2.1. Forme"
+      ],
+      "texte": "c. Différencier certains symboles graphiques liés au langage musical et à la structure d’une pièce",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "maitrise",
+        "5": null
+      },
+      "page": 10,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "MUS-ECY-076",
+      "competence": "Connaissances",
+      "section": "2e cycle : Programme optionnel Musique et multimédia",
+      "chemin": [
+        "E. Concepts et notions",
+        "2. Structure 2.1. Forme"
+      ],
+      "texte": "d. Décrire les caractéristiques de certains symboles graphiques liés au langage musical et à la structure d’une pièce",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "apprentissage",
+        "5": "maitrise"
+      },
+      "page": 10,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "MUS-ECY-077",
+      "competence": "Connaissances",
+      "section": "2e cycle : Programme optionnel Musique et multimédia",
+      "chemin": [
+        "E. Concepts et notions",
+        "2. Structure 2.1. Forme"
+      ],
+      "texte": "e. Comparer les caractéristiques de certains symboles graphiques d’une pièce",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "apprentissage",
+        "5": "maitrise"
+      },
+      "page": 10,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "MUS-ECY-078",
+      "competence": "Connaissances",
+      "section": "2e cycle : Programme optionnel Musique et multimédia",
+      "chemin": [
+        "E. Concepts et notions",
+        "3. Répertoire musical et repères culturels pour l’appréciation"
+      ],
+      "texte": "b. Nommer des périodes artistiques (ex. : contemporaine, classique, baroque) et des styles d’œuvres (ex. : populaire, chansonnier, blues, jazz)",
+      "prioritaire": false,
+      "progression": {
+        "1": "apprentissage",
+        "2": "maitrise",
+        "3": null,
+        "4": null,
+        "5": null
+      },
+      "page": 10,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "MUS-ECY-079",
+      "competence": "Connaissances",
+      "section": "2e cycle : Programme optionnel Musique et multimédia",
+      "chemin": [
+        "E. Concepts et notions",
+        "3. Répertoire musical et repères culturels pour l’appréciation"
+      ],
+      "texte": "c. Identifier des œuvres du répertoire musical québécois et de celui d’autres cultures",
+      "prioritaire": false,
+      "progression": {
+        "1": "apprentissage",
+        "2": "maitrise",
+        "3": null,
+        "4": null,
+        "5": null
+      },
+      "page": 10,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "MUS-ECY-080",
+      "competence": "Connaissances",
+      "section": "2e cycle : Programme optionnel Musique et multimédia",
+      "chemin": [
+        "E. Concepts et notions",
+        "3. Répertoire musical et repères culturels pour l’appréciation"
+      ],
+      "texte": "d. Identifier des périodes artistiques, des styles d’œuvres et des repères culturels (ex. : éléments de l’histoire de la musique)",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "maitrise",
+        "5": null
+      },
+      "page": 10,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "MUS-ECY-081",
+      "competence": "Connaissances",
+      "section": "2e cycle : Programme optionnel Musique et multimédia",
+      "chemin": [
+        "E. Concepts et notions",
+        "3. Répertoire musical et repères culturels pour l’appréciation"
+      ],
+      "texte": "e. Associer des œuvres à des périodes artistiques ou des styles",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "apprentissage",
+        "5": "maitrise"
+      },
+      "page": 10,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "MUS-ECY-082",
+      "competence": "Connaissances",
+      "section": "2e cycle : Programme optionnel Musique et multimédia",
+      "chemin": [
+        "E. Concepts et notions",
+        "3. Répertoire musical et repères culturels pour l’appréciation"
+      ],
+      "texte": "f. Associer des repères culturels (ex. : compositeurs, contexte socioculturel) à des œuvres du répertoire québécois et de celui d’autres cultures",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "apprentissage",
+        "5": "maitrise"
+      },
+      "page": 10,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "MUS-ECY-083",
+      "competence": "Connaissances",
+      "section": "2e cycle : Programme optionnel Musique et multimédia",
+      "chemin": [
+        "E. Concepts et notions",
+        "3. Répertoire musical et repères culturels pour l’appréciation"
+      ],
+      "texte": "g. Nommer des œuvres ou des compositeurs de différentes périodes artistiques relevant de l’impressionnisme, de l’expressionnisme, du néoclassicisme, du romantisme, du classicisme, du baroque, de la Renaissance ou du Moyen Âge",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "apprentissage",
+        "5": "maitrise"
+      },
+      "page": 10,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "MUS-ECY-084",
+      "competence": "Connaissances",
+      "section": "2e cycle : Programme optionnel Musique et multimédia",
+      "chemin": [
+        "E. Concepts et notions",
+        "3. Répertoire musical et repères culturels pour l’appréciation"
+      ],
+      "texte": "h. Décrire des repères culturels (ex. : expériences culturelles) associés aux œuvres du répertoire musical québécois et de celui d’autres cultures",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "apprentissage",
+        "5": "maitrise"
+      },
+      "page": 10,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "MUS-CRE-001",
+      "competence": "1 – Créer des œuvres musicales",
+      "section": null,
+      "chemin": [
+        "A. Exploiter des idées en vue d’une création musicale"
+      ],
+      "texte": "b. Trouver des idées liées au langage, aux règles et aux outils propres à la musique qui émergent de la proposition de création (ex. : procédés de composition, moyens sonores, langage musical)",
+      "prioritaire": false,
+      "progression": {
+        "1": "apprentissage",
+        "2": "maitrise",
+        "3": null,
+        "4": null,
+        "5": null
+      },
+      "page": 11,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "MUS-CRE-002",
+      "competence": "1 – Créer des œuvres musicales",
+      "section": null,
+      "chemin": [
+        "A. Exploiter des idées en vue d’une création musicale"
+      ],
+      "texte": "c. Mettre à l’essai des idées liées au contenu musical adaptées à une improvisation ou à une composition 1 (ex. : moyens sonores, techniques, structure)",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "maitrise",
+        "5": null
+      },
+      "page": 11,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "MUS-CRE-003",
+      "competence": "1 – Créer des œuvres musicales",
+      "section": null,
+      "chemin": [
+        "A. Exploiter des idées en vue d’une création musicale"
+      ],
+      "texte": "d. Mettre à l’essai des idées liées au contenu musical et adaptées à une composition ou à un arrangement 1 (ex. : procédés de composition, langage musical, moyens sonores)",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "apprentissage",
+        "5": "maitrise"
+      },
+      "page": 11,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "MUS-CRE-004",
+      "competence": "1 – Créer des œuvres musicales",
+      "section": null,
+      "chemin": [
+        "A. Exploiter des idées en vue d’une création musicale"
+      ],
+      "texte": "e. Mettre à l’essai et choisir des idées musicales adaptées à une composition, une improvisation ou un arrangement 1 selon l’instrumentation proposée (ex. : procédés de composition, langage musical, structure)",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "apprentissage",
+        "5": "maitrise"
+      },
+      "page": 11,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "MUS-CRE-005",
+      "competence": "1 – Créer des œuvres musicales",
+      "section": null,
+      "chemin": [
+        "A. Exploiter des idées en vue d’une création musicale"
+      ],
+      "texte": "f. Mettre à l’essai et choisir des idées musicales adaptées à une composition, une improvisation ou un arrangement 1 selon les médias et les outils multimédias proposés (ex. : ordinateur, synthétiseur, caméra vidéo)",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "apprentissage",
+        "5": "maitrise"
+      },
+      "page": 11,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "MUS-CRE-006",
+      "competence": "1 – Créer des œuvres musicales",
+      "section": null,
+      "chemin": [
+        "B. Exploiter des moyens sonores, des éléments du langage musical et des éléments de techniques liées à la discipline",
+        "1. Langage musical et représentation graphique"
+      ],
+      "texte": "b. Faire l’essai de différents éléments du langage musical dans de courtes improvisations mélodiques ou rythmiques",
+      "prioritaire": false,
+      "progression": {
+        "1": "apprentissage",
+        "2": "maitrise",
+        "3": null,
+        "4": null,
+        "5": null
+      },
+      "page": 11,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "MUS-CRE-007",
+      "competence": "1 – Créer des œuvres musicales",
+      "section": null,
+      "chemin": [
+        "B. Exploiter des moyens sonores, des éléments du langage musical et des éléments de techniques liées à la discipline",
+        "1. Langage musical et représentation graphique"
+      ],
+      "texte": "c. Faire l’essai de différents éléments du langage musical adaptés au développement d’une production sonore 2 avec représentation graphique",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "maitrise",
+        "5": null
+      },
+      "page": 11,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "MUS-CRE-008",
+      "competence": "1 – Créer des œuvres musicales",
+      "section": null,
+      "chemin": [
+        "B. Exploiter des moyens sonores, des éléments du langage musical et des éléments de techniques liées à la discipline",
+        "1. Langage musical et représentation graphique"
+      ],
+      "texte": "d. Faire l’essai de différents éléments du langage musical adaptés au développement d’une production sonore 2 avec représentation graphique ou mixte",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "apprentissage",
+        "5": "maitrise"
+      },
+      "page": 11,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "MUS-CRE-009",
+      "competence": "1 – Créer des œuvres musicales",
+      "section": null,
+      "chemin": [
+        "B. Exploiter des moyens sonores, des éléments du langage musical et des éléments de techniques liées à la discipline",
+        "1. Langage musical et représentation graphique"
+      ],
+      "texte": "e. Utiliser différents éléments du langage musical à l’intérieur d’une production sonore 2 avec représentation graphique ou mixte",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "apprentissage",
+        "5": "maitrise"
+      },
+      "page": 11,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "MUS-CRE-010",
+      "competence": "1 – Créer des œuvres musicales",
+      "section": null,
+      "chemin": [
+        "B. Exploiter des moyens sonores, des éléments du langage musical et des éléments de techniques liées à la discipline",
+        "1. Langage musical et représentation graphique"
+      ],
+      "texte": "f. Utiliser différents éléments du langage musical à l’intérieur d’une production sonore 2 avec représentation graphique, mixte ou multimédia",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "apprentissage",
+        "5": "maitrise"
+      },
+      "page": 11,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "MUS-CRE-011",
+      "competence": "1 – Créer des œuvres musicales",
+      "section": null,
+      "chemin": [
+        "B. Exploiter des moyens sonores, des éléments du langage musical et des éléments de techniques liées à la discipline",
+        "2. Moyens sonores et techniques"
+      ],
+      "texte": "b. Rechercher des sonorités variées parmi des moyens sonores en faisant appel à sa mémoire ou en jouant de courtes improvisations (ex. : utilisation de maillets en bois, métal, feutre et autres matériaux)",
+      "prioritaire": false,
+      "progression": {
+        "1": "apprentissage",
+        "2": "maitrise",
+        "3": null,
+        "4": null,
+        "5": null
+      },
+      "page": 12,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "MUS-CRE-012",
+      "competence": "1 – Créer des œuvres musicales",
+      "section": null,
+      "chemin": [
+        "B. Exploiter des moyens sonores, des éléments du langage musical et des éléments de techniques liées à la discipline",
+        "2. Moyens sonores et techniques"
+      ],
+      "texte": "c. Sélectionner divers moyens sonores et techniques pour sa création (ex. : différentes techniques de manipulation)",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "maitrise",
+        "5": null
+      },
+      "page": 12,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "MUS-CRE-013",
+      "competence": "1 – Créer des œuvres musicales",
+      "section": null,
+      "chemin": [
+        "B. Exploiter des moyens sonores, des éléments du langage musical et des éléments de techniques liées à la discipline",
+        "2. Moyens sonores et techniques"
+      ],
+      "texte": "d. Mettre en valeur divers moyens sonores et techniques utilisés dans sa création (ex. : effets sonores utilisés dans son jeu musical)",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "apprentissage",
+        "5": "maitrise"
+      },
+      "page": 12,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "MUS-CRE-014",
+      "competence": "1 – Créer des œuvres musicales",
+      "section": null,
+      "chemin": [
+        "B. Exploiter des moyens sonores, des éléments du langage musical et des éléments de techniques liées à la discipline",
+        "2. Moyens sonores et techniques"
+      ],
+      "texte": "e. Utiliser des moyens sonores et des techniques de façon personnelle",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "apprentissage",
+        "5": "maitrise"
+      },
+      "page": 12,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "MUS-CRE-015",
+      "competence": "1 – Créer des œuvres musicales",
+      "section": null,
+      "chemin": [
+        "B. Exploiter des moyens sonores, des éléments du langage musical et des éléments de techniques liées à la discipline",
+        "2. Moyens sonores et techniques"
+      ],
+      "texte": "f. Utiliser des techniques vocales, instrumentales et multimédias de façon variée",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "apprentissage",
+        "5": "maitrise"
+      },
+      "page": 12,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "MUS-CRE-016",
+      "competence": "1 – Créer des œuvres musicales",
+      "section": null,
+      "chemin": [
+        "C. Structurer sa création musicale",
+        "1. Procédés de composition"
+      ],
+      "texte": "b. Jouer de courtes séquences en utilisant un procédé de composition donné (ex. : contraste, répétition)",
+      "prioritaire": false,
+      "progression": {
+        "1": "apprentissage",
+        "2": "maitrise",
+        "3": null,
+        "4": null,
+        "5": null
+      },
+      "page": 12,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "MUS-CRE-017",
+      "competence": "1 – Créer des œuvres musicales",
+      "section": null,
+      "chemin": [
+        "C. Structurer sa création musicale",
+        "1. Procédés de composition"
+      ],
+      "texte": "c. Jouer des séquences en appliquant différents procédés de composition (ex. : reproduction sonore et collage)",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "maitrise",
+        "5": null
+      },
+      "page": 12,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "MUS-CRE-018",
+      "competence": "1 – Créer des œuvres musicales",
+      "section": null,
+      "chemin": [
+        "C. Structurer sa création musicale",
+        "1. Procédés de composition"
+      ],
+      "texte": "d. Construire son idée musicale en appliquant un procédé de composition donné",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "apprentissage",
+        "5": "maitrise"
+      },
+      "page": 12,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "MUS-CRE-019",
+      "competence": "1 – Créer des œuvres musicales",
+      "section": null,
+      "chemin": [
+        "C. Structurer sa création musicale",
+        "1. Procédés de composition"
+      ],
+      "texte": "e. Élaborer une séquence qui met en évidence le procédé de composition le plus représentatif de son intention de création (ex. : utilisation des nuances et de la hauteur dans le contraste)",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "apprentissage",
+        "5": "maitrise"
+      },
+      "page": 12,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "MUS-CRE-020",
+      "competence": "1 – Créer des œuvres musicales",
+      "section": null,
+      "chemin": [
+        "C. Structurer sa création musicale",
+        "1. Procédés de composition"
+      ],
+      "texte": "f. Élaborer une séquence qui met en évidence le procédé de composition le plus représentatif de sa production multimédia (ex. : utilisation du collage dans un montage d’animation)",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "apprentissage",
+        "5": "maitrise"
+      },
+      "page": 12,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "MUS-CRE-021",
+      "competence": "1 – Créer des œuvres musicales",
+      "section": null,
+      "chemin": [
+        "C. Structurer sa création musicale",
+        "2. Structure et représentation graphique"
+      ],
+      "texte": "b. Faire des essais d’éléments de structure adaptés à sa création (ex. : utilisation d’une forme musicale et d’un tempo)",
+      "prioritaire": false,
+      "progression": {
+        "1": "apprentissage",
+        "2": "maitrise",
+        "3": null,
+        "4": null,
+        "5": null
+      },
+      "page": 12,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "MUS-CRE-022",
+      "competence": "1 – Créer des œuvres musicales",
+      "section": null,
+      "chemin": [
+        "C. Structurer sa création musicale",
+        "2. Structure et représentation graphique"
+      ],
+      "texte": "c. Sélectionner des éléments de structure adaptés à sa création (ex. : utilisation de cellules rythmiques simples dans un rondo)",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "maitrise",
+        "5": null
+      },
+      "page": 12,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "MUS-CRE-023",
+      "competence": "1 – Créer des œuvres musicales",
+      "section": null,
+      "chemin": [
+        "C. Structurer sa création musicale",
+        "2. Structure et représentation graphique"
+      ],
+      "texte": "d. Appliquer différents éléments de structure adaptés à sa création (ex. : utilisation du thème et variations avec des changements de tempo)",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "apprentissage",
+        "5": "maitrise"
+      },
+      "page": 12,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "MUS-CRE-024",
+      "competence": "1 – Créer des œuvres musicales",
+      "section": null,
+      "chemin": [
+        "C. Structurer sa création musicale",
+        "2. Structure et représentation graphique"
+      ],
+      "texte": "e. Mettre en valeur différents éléments de structure dans sa création (ex. : utilisation de la forme A B A avec des tempi contrastants et une modulation)",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "apprentissage",
+        "5": "maitrise"
+      },
+      "page": 12,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "MUS-CRE-025",
+      "competence": "1 – Créer des œuvres musicales",
+      "section": null,
+      "chemin": [
+        "D. Rendre compte de son expérience de création musicale"
+      ],
+      "texte": "b. Utiliser le vocabulaire disciplinaire selon la terminologie prescrite dans ce programme",
+      "prioritaire": false,
+      "progression": {
+        "1": "apprentissage",
+        "2": "maitrise",
+        "3": null,
+        "4": null,
+        "5": null
+      },
+      "page": 12,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "MUS-CRE-026",
+      "competence": "1 – Créer des œuvres musicales",
+      "section": null,
+      "chemin": [
+        "D. Rendre compte de son expérience de création musicale"
+      ],
+      "texte": "c. Utiliser le vocabulaire disciplinaire selon la terminologie prescrite dans chacun des programmes",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "maitrise",
+        "5": null
+      },
+      "page": 12,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "MUS-CRE-027",
+      "competence": "1 – Créer des œuvres musicales",
+      "section": null,
+      "chemin": [
+        "D. Rendre compte de son expérience de création musicale"
+      ],
+      "texte": "e. Décrire des aspects de son expérience qui sont liés à la dynamique de création et plus particulièrement aux stratégies utilisées (ex. : stratégies de mémorisation)",
+      "prioritaire": false,
+      "progression": {
+        "1": "apprentissage",
+        "2": "maitrise",
+        "3": null,
+        "4": null,
+        "5": null
+      },
+      "page": 12,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "MUS-CRE-028",
+      "competence": "1 – Créer des œuvres musicales",
+      "section": null,
+      "chemin": [
+        "D. Rendre compte de son expérience de création musicale"
+      ],
+      "texte": "f. Décrire des aspects de son expérience qui sont liés à la dynamique de création et aux stratégies utilisées (ex. : utilisation des trois phases de la dynamique de création, stratégies de discrimination auditive)",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "maitrise",
+        "5": null
+      },
+      "page": 12,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "MUS-INT-001",
+      "competence": "2 – Interpréter des œuvres musicales",
+      "section": null,
+      "chemin": [
+        "A. S’approprier le contenu musical de la pièce",
+        "1. Langage musical et représentation graphique"
+      ],
+      "texte": "b. Déchiffrer des éléments du langage musical de la pièce proposée en faisant appel à des stratégies de lecture",
+      "prioritaire": false,
+      "progression": {
+        "1": "apprentissage",
+        "2": "maitrise",
+        "3": null,
+        "4": null,
+        "5": null
+      },
+      "page": 14,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "MUS-INT-002",
+      "competence": "2 – Interpréter des œuvres musicales",
+      "section": null,
+      "chemin": [
+        "A. S’approprier le contenu musical de la pièce",
+        "1. Langage musical et représentation graphique"
+      ],
+      "texte": "c. Lire les phrases de la pièce proposée en tenant compte de différents éléments du langage musical (ex. : nuances, figures de notes et de silences)",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "maitrise",
+        "5": null
+      },
+      "page": 14,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "MUS-INT-003",
+      "competence": "2 – Interpréter des œuvres musicales",
+      "section": null,
+      "chemin": [
+        "A. S’approprier le contenu musical de la pièce",
+        "1. Langage musical et représentation graphique"
+      ],
+      "texte": "d. Lire la pièce en continuité en respectant différents éléments du langage musical",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "apprentissage",
+        "5": "maitrise"
+      },
+      "page": 14,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "MUS-INT-004",
+      "competence": "2 – Interpréter des œuvres musicales",
+      "section": null,
+      "chemin": [
+        "A. S’approprier le contenu musical de la pièce",
+        "1. Langage musical et représentation graphique"
+      ],
+      "texte": "e. Intégrer les éléments du langage musical à son jeu musical en faisant appel à des stratégies de mémorisation",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "apprentissage",
+        "5": "maitrise"
+      },
+      "page": 14,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "MUS-INT-005",
+      "competence": "2 – Interpréter des œuvres musicales",
+      "section": null,
+      "chemin": [
+        "A. S’approprier le contenu musical de la pièce",
+        "2. Structure et représentation graphique"
+      ],
+      "texte": "b. Déchiffrer des éléments de structure d’une pièce musicale (ex. : forme, signes de renvoi, changement de tempo, cellules rythmiques simples, phrase musicale, accords majeur et mineur)",
+      "prioritaire": false,
+      "progression": {
+        "1": "apprentissage",
+        "2": "maitrise",
+        "3": null,
+        "4": null,
+        "5": null
+      },
+      "page": 14,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "MUS-INT-006",
+      "competence": "2 – Interpréter des œuvres musicales",
+      "section": null,
+      "chemin": [
+        "A. S’approprier le contenu musical de la pièce",
+        "2. Structure et représentation graphique"
+      ],
+      "texte": "c. Lire les phrases d’une pièce musicale en tenant compte de différents éléments de structure (ex. : signes de renvoi, tempi, mesures simples, tonalité)",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "maitrise",
+        "5": null
+      },
+      "page": 14,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "MUS-INT-007",
+      "competence": "2 – Interpréter des œuvres musicales",
+      "section": null,
+      "chemin": [
+        "A. S’approprier le contenu musical de la pièce",
+        "2. Structure et représentation graphique"
+      ],
+      "texte": "d. Lire la pièce en continuité en respectant différents éléments de structure",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "apprentissage",
+        "5": "maitrise"
+      },
+      "page": 14,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "MUS-INT-008",
+      "competence": "2 – Interpréter des œuvres musicales",
+      "section": null,
+      "chemin": [
+        "A. S’approprier le contenu musical de la pièce",
+        "2. Structure et représentation graphique"
+      ],
+      "texte": "e. Intégrer les éléments de structure à son jeu musical en faisant appel à des stratégies de mémorisation",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "apprentissage",
+        "5": "maitrise"
+      },
+      "page": 14,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "MUS-INT-009",
+      "competence": "2 – Interpréter des œuvres musicales",
+      "section": null,
+      "chemin": [
+        "A. S’approprier le contenu musical de la pièce",
+        "2. Structure et représentation graphique"
+      ],
+      "texte": "f. Relever les aspects historiques et socioculturels à considérer dans la dynamique d’interprétation",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "apprentissage",
+        "5": "maitrise"
+      },
+      "page": 14,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "MUS-INT-010",
+      "competence": "2 – Interpréter des œuvres musicales",
+      "section": null,
+      "chemin": [
+        "A. S’approprier le contenu musical de la pièce",
+        "3. Moyens sonores"
+      ],
+      "texte": "b. Exécuter des phrases musicales en tenant compte du moyen sonore utilisé (ex. : voix, cordes, vents, percussions, percussions corporelles, technologies de l’information et de la communication)",
+      "prioritaire": false,
+      "progression": {
+        "1": "apprentissage",
+        "2": "maitrise",
+        "3": null,
+        "4": null,
+        "5": null
+      },
+      "page": 14,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "MUS-INT-011",
+      "competence": "2 – Interpréter des œuvres musicales",
+      "section": null,
+      "chemin": [
+        "A. S’approprier le contenu musical de la pièce",
+        "3. Moyens sonores"
+      ],
+      "texte": "c. Jouer les phrases musicales en continuité en tenant compte du moyen sonore utilisé",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "apprentissage",
+        "5": "maitrise"
+      },
+      "page": 14,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "MUS-INT-012",
+      "competence": "2 – Interpréter des œuvres musicales",
+      "section": null,
+      "chemin": [
+        "A. S’approprier le contenu musical de la pièce",
+        "3. Moyens sonores"
+      ],
+      "texte": "e. Jouer les phrases musicales avec la voix, un instrument ou un moyen sonore technologique en mettant en évidence les subtilités du langage musical de la pièce multimédia",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "apprentissage",
+        "5": "maitrise"
+      },
+      "page": 15,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "MUS-INT-013",
+      "competence": "2 – Interpréter des œuvres musicales",
+      "section": null,
+      "chemin": [
+        "B. Exploiter des éléments de technique",
+        "1. Techniques vocales et instrumentales"
+      ],
+      "texte": "b. Appliquer, dans des phrases musicales, les éléments de technique demandés (ex. : posture, respiration, articulation) en tenant compte de la structure de la pièce",
+      "prioritaire": false,
+      "progression": {
+        "1": "apprentissage",
+        "2": "maitrise",
+        "3": null,
+        "4": null,
+        "5": null
+      },
+      "page": 15,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "MUS-INT-014",
+      "competence": "2 – Interpréter des œuvres musicales",
+      "section": null,
+      "chemin": [
+        "B. Exploiter des éléments de technique",
+        "1. Techniques vocales et instrumentales"
+      ],
+      "texte": "c. Combiner des éléments de technique dans une courte pièce (ex. : justesse, projection) en tenant compte de la structure de la pièce",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "maitrise",
+        "5": null
+      },
+      "page": 15,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "MUS-INT-015",
+      "competence": "2 – Interpréter des œuvres musicales",
+      "section": null,
+      "chemin": [
+        "B. Exploiter des éléments de technique",
+        "1. Techniques vocales et instrumentales"
+      ],
+      "texte": "d. Appliquer les techniques appropriées pour exécuter un passage musical",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "apprentissage",
+        "5": "maitrise"
+      },
+      "page": 15,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "MUS-INT-016",
+      "competence": "2 – Interpréter des œuvres musicales",
+      "section": null,
+      "chemin": [
+        "B. Exploiter des éléments de technique",
+        "1. Techniques vocales et instrumentales"
+      ],
+      "texte": "e. Intégrer à son jeu musical différents éléments de technique selon la complexité de la pièce",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "apprentissage",
+        "5": "maitrise"
+      },
+      "page": 15,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "MUS-INT-017",
+      "competence": "2 – Interpréter des œuvres musicales",
+      "section": null,
+      "chemin": [
+        "B. Exploiter des éléments de technique",
+        "1. Techniques vocales et instrumentales"
+      ],
+      "texte": "f. Intégrer à son jeu musical différents éléments de technique vocale, instrumentale et multimédia",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "apprentissage",
+        "5": "maitrise"
+      },
+      "page": 15,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "MUS-INT-018",
+      "competence": "2 – Interpréter des œuvres musicales",
+      "section": null,
+      "chemin": [
+        "C. S’approprier le caractère expressif de la pièce"
+      ],
+      "texte": "b. Appliquer des éléments liés au caractère expressif de la pièce (ex. : utilisation de nuances inhérentes à la pièce)",
+      "prioritaire": false,
+      "progression": {
+        "1": "apprentissage",
+        "2": "maitrise",
+        "3": null,
+        "4": null,
+        "5": null
+      },
+      "page": 15,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "MUS-INT-019",
+      "competence": "2 – Interpréter des œuvres musicales",
+      "section": null,
+      "chemin": [
+        "C. S’approprier le caractère expressif de la pièce"
+      ],
+      "texte": "c. Mettre en valeur, dans son jeu musical, des éléments expressifs particuliers de la pièce (ex. : changement de tempo en rapport avec l’expression demandée)",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "maitrise",
+        "5": null
+      },
+      "page": 15,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "MUS-INT-020",
+      "competence": "2 – Interpréter des œuvres musicales",
+      "section": null,
+      "chemin": [
+        "C. S’approprier le caractère expressif de la pièce"
+      ],
+      "texte": "d. Ajuster son jeu musical à certains passages expressifs de la pièce (ex. : changement simultané de nuances et de tempo en rapport avec l’expression demandée)",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "apprentissage",
+        "5": "maitrise"
+      },
+      "page": 15,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "MUS-INT-021",
+      "competence": "2 – Interpréter des œuvres musicales",
+      "section": null,
+      "chemin": [
+        "C. S’approprier le caractère expressif de la pièce"
+      ],
+      "texte": "e. Intégrer à son jeu musical différentes techniques liées au caractère expressif de la pièce (ex. : utilisation de techniques particulières afin de produire des effets acoustiques)",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "apprentissage",
+        "5": "maitrise"
+      },
+      "page": 15,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "MUS-INT-022",
+      "competence": "2 – Interpréter des œuvres musicales",
+      "section": null,
+      "chemin": [
+        "C. S’approprier le caractère expressif de la pièce"
+      ],
+      "texte": "f. Intégrer à son jeu musical différentes techniques liées au caractère expressif de la pièce multimédia (ex. : utilisation de techniques variées pour produire des effets électroniques)",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "apprentissage",
+        "5": "maitrise"
+      },
+      "page": 15,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "MUS-INT-023",
+      "competence": "2 – Interpréter des œuvres musicales",
+      "section": null,
+      "chemin": [
+        "D. Respecter les règles relatives à la musique d’ensemble"
+      ],
+      "texte": "b. Tenir compte des indications sonores ou visuelles de la musique d’ensemble liées à la pièce musicale (ex. : changements de tempo)",
+      "prioritaire": false,
+      "progression": {
+        "1": "apprentissage",
+        "2": "maitrise",
+        "3": null,
+        "4": null,
+        "5": null
+      },
+      "page": 15,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "MUS-INT-024",
+      "competence": "2 – Interpréter des œuvres musicales",
+      "section": null,
+      "chemin": [
+        "D. Respecter les règles relatives à la musique d’ensemble"
+      ],
+      "texte": "c. Mettre en application dans son jeu musical des indications sonores ou visuelles de la musique d’ensemble (ex. : le phrasé et l’équilibre entre les parties)",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "maitrise",
+        "5": null
+      },
+      "page": 15,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "MUS-INT-025",
+      "competence": "2 – Interpréter des œuvres musicales",
+      "section": null,
+      "chemin": [
+        "D. Respecter les règles relatives à la musique d’ensemble"
+      ],
+      "texte": "d. Ajuster son jeu musical à certaines indications sonores ou visuelles",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "apprentissage",
+        "5": "maitrise"
+      },
+      "page": 15,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "MUS-INT-026",
+      "competence": "2 – Interpréter des œuvres musicales",
+      "section": null,
+      "chemin": [
+        "D. Respecter les règles relatives à la musique d’ensemble"
+      ],
+      "texte": "e. Intégrer à son jeu musical une combinaison d’indications sonores ou visuelles",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "apprentissage",
+        "5": "maitrise"
+      },
+      "page": 15,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "MUS-INT-027",
+      "competence": "2 – Interpréter des œuvres musicales",
+      "section": null,
+      "chemin": [
+        "D. Respecter les règles relatives à la musique d’ensemble"
+      ],
+      "texte": "f. Intégrer à son jeu musical une combinaison d’indications sonores ou visuelles (ex. : tenir compte de la pulsation sonore ou visuelle et des nuances à l’écran)",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "apprentissage",
+        "5": "maitrise"
+      },
+      "page": 15,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "MUS-INT-028",
+      "competence": "2 – Interpréter des œuvres musicales",
+      "section": null,
+      "chemin": [
+        "E. Rendre compte de son expérience d’interprétation"
+      ],
+      "texte": "b. Utiliser le vocabulaire disciplinaire selon la terminologie prescrite dans ce programme",
+      "prioritaire": false,
+      "progression": {
+        "1": "apprentissage",
+        "2": "maitrise",
+        "3": null,
+        "4": null,
+        "5": null
+      },
+      "page": 15,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "MUS-INT-029",
+      "competence": "2 – Interpréter des œuvres musicales",
+      "section": null,
+      "chemin": [
+        "E. Rendre compte de son expérience d’interprétation"
+      ],
+      "texte": "c. Utiliser le vocabulaire disciplinaire selon la terminologie prescrite dans chacun des programmes",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "maitrise",
+        "5": null
+      },
+      "page": 15,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "MUS-INT-030",
+      "competence": "2 – Interpréter des œuvres musicales",
+      "section": null,
+      "chemin": [
+        "E. Rendre compte de son expérience d’interprétation"
+      ],
+      "texte": "e. Décrire des aspects de son expérience qui sont liés à la dynamique d’interprétation et plus particulièrement aux stratégies utilisées (ex. : démarches visant à déchiffrer des partitions)",
+      "prioritaire": false,
+      "progression": {
+        "1": "apprentissage",
+        "2": "maitrise",
+        "3": null,
+        "4": null,
+        "5": null
+      },
+      "page": 16,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "MUS-INT-031",
+      "competence": "2 – Interpréter des œuvres musicales",
+      "section": null,
+      "chemin": [
+        "E. Rendre compte de son expérience d’interprétation"
+      ],
+      "texte": "f. Décrire des aspects de son expérience qui sont liés à la dynamique d’interprétation et aux stratégies utilisées (ex. : moyens de s’approprier des éléments de la technique, modes de fonctionnement au cours du travail collectif)",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "maitrise",
+        "5": null
+      },
+      "page": 16,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "MUS-APP-001",
+      "competence": "3 – Apprécier des œuvres musicales",
+      "section": null,
+      "chemin": [
+        "A. Analyser une pièce musicale"
+      ],
+      "texte": "b. Relever des éléments constitutifs de l’œuvre 1 (ex. : moyens sonores, éléments du langage musical, structure)",
+      "prioritaire": false,
+      "progression": {
+        "1": "apprentissage",
+        "2": "maitrise",
+        "3": null,
+        "4": null,
+        "5": null
+      },
+      "page": 17,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "MUS-APP-002",
+      "competence": "3 – Apprécier des œuvres musicales",
+      "section": null,
+      "chemin": [
+        "A. Analyser une pièce musicale"
+      ],
+      "texte": "c. Faire des liens entre les éléments de contenu repérés et les aspects historiques et socioculturels représentés dans l’œuvre (ex. : éléments de structure, moyens sonores associés à la musique folklorique d’un pays)",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "maitrise",
+        "5": null
+      },
+      "page": 17,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "MUS-APP-003",
+      "competence": "3 – Apprécier des œuvres musicales",
+      "section": null,
+      "chemin": [
+        "A. Analyser une pièce musicale"
+      ],
+      "texte": "d. Situer, dans l’œuvre, des éléments de contenu qui ont une portée symbolique (ex. : forme, moyens sonores particuliers à une culture)",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "apprentissage",
+        "5": "maitrise"
+      },
+      "page": 17,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "MUS-APP-004",
+      "competence": "3 – Apprécier des œuvres musicales",
+      "section": null,
+      "chemin": [
+        "A. Analyser une pièce musicale"
+      ],
+      "texte": "e. Relever des éléments de contenu liés à l’interprétation de l’œuvre (ex. : nuances et tempo associés au jeu musical)",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": "apprentissage",
+        "5": "maitrise"
+      },
+      "page": 17,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "MUS-APP-005",
+      "competence": "3 – Apprécier des œuvres musicales",
+      "section": null,
+      "chemin": [
+        "A. Analyser une pièce musicale"
+      ],
+      "texte": "f. Situer, dans l’œuvre, des éléments de contenu multimédia qui ont une portée symbolique (ex. : choix d’un timbre particulier, type d’instrument utilisé, traitement de l’œuvre au regard du sens ou des effets recherchés)",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "apprentissage",
+        "5": "maitrise"
+      },
+      "page": 17,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "MUS-APP-006",
+      "competence": "3 – Apprécier des œuvres musicales",
+      "section": null,
+      "chemin": [
+        "A. Analyser une pièce musicale",
+        "1. Langage musical"
+      ],
+      "texte": "b. Relever des similitudes et des contrastes associés aux éléments du langage musical utilisés dans l’œuvre (ex. : nuances, durée, hauteur)",
+      "prioritaire": false,
+      "progression": {
+        "1": "apprentissage",
+        "2": "maitrise",
+        "3": null,
+        "4": null,
+        "5": null
+      },
+      "page": 17,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "MUS-APP-007",
+      "competence": "3 – Apprécier des œuvres musicales",
+      "section": null,
+      "chemin": [
+        "A. Analyser une pièce musicale",
+        "1. Langage musical"
+      ],
+      "texte": "c. Identifier différentes façons d’utiliser des éléments du langage musical dans l’œuvre (ex. : changement de tempo)",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "maitrise",
+        "5": null
+      },
+      "page": 17,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "MUS-APP-008",
+      "competence": "3 – Apprécier des œuvres musicales",
+      "section": null,
+      "chemin": [
+        "A. Analyser une pièce musicale",
+        "1. Langage musical"
+      ],
+      "texte": "d. Décrire les façons d’utiliser des éléments du langage musical dans l’œuvre (ex. : répétition d’un motif rythmique ou mélodique en changeant les nuances)",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "apprentissage",
+        "5": "maitrise"
+      },
+      "page": 17,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "MUS-APP-009",
+      "competence": "3 – Apprécier des œuvres musicales",
+      "section": null,
+      "chemin": [
+        "A. Analyser une pièce musicale",
+        "1. Langage musical"
+      ],
+      "texte": "e. Décrire les éléments du langage musical qui caractérisent particulièrement l’œuvre (ex. : identification des sons de l’échelle chromatique)",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "apprentissage",
+        "5": "maitrise"
+      },
+      "page": 17,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "MUS-APP-010",
+      "competence": "3 – Apprécier des œuvres musicales",
+      "section": null,
+      "chemin": [
+        "A. Analyser une pièce musicale",
+        "1. Langage musical"
+      ],
+      "texte": "f. Décrire les éléments du langage musical qui caractérisent particulièrement l’œuvre multimédia (ex. : variation de la durée et de la hauteur par le traitement du son)",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "apprentissage",
+        "5": "maitrise"
+      },
+      "page": 17,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "MUS-APP-011",
+      "competence": "3 – Apprécier des œuvres musicales",
+      "section": null,
+      "chemin": [
+        "A. Analyser une pièce musicale",
+        "2. Moyens sonores et techniques"
+      ],
+      "texte": "b. Relever des moyens sonores et techniques utilisés dans l’œuvre (ex. : voix, cordes, vents, techniques de manipulation)",
+      "prioritaire": false,
+      "progression": {
+        "1": "apprentissage",
+        "2": "maitrise",
+        "3": null,
+        "4": null,
+        "5": null
+      },
+      "page": 17,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "MUS-APP-012",
+      "competence": "3 – Apprécier des œuvres musicales",
+      "section": null,
+      "chemin": [
+        "A. Analyser une pièce musicale",
+        "2. Moyens sonores et techniques"
+      ],
+      "texte": "c. Identifier différentes façons d’utiliser des moyens sonores et techniques dans l’œuvre (ex. : cordes pincées, cordes frottées)",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "maitrise",
+        "5": null
+      },
+      "page": 17,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "MUS-APP-013",
+      "competence": "3 – Apprécier des œuvres musicales",
+      "section": null,
+      "chemin": [
+        "A. Analyser une pièce musicale",
+        "2. Moyens sonores et techniques"
+      ],
+      "texte": "d. Décrire les façons d’utiliser les moyens sonores et techniques dans l’œuvre (ex. : utilisation de l’archet pour les cordes frottées)",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "apprentissage",
+        "5": "maitrise"
+      },
+      "page": 18,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "MUS-APP-014",
+      "competence": "3 – Apprécier des œuvres musicales",
+      "section": null,
+      "chemin": [
+        "A. Analyser une pièce musicale",
+        "2. Moyens sonores et techniques"
+      ],
+      "texte": "e. Décrire les aspects particuliers du jeu vocal ou instrumental qui caractérisent l’œuvre (ex. : différentes techniques de manipulation pour le même instrument)",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "apprentissage",
+        "5": "maitrise"
+      },
+      "page": 18,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "MUS-APP-015",
+      "competence": "3 – Apprécier des œuvres musicales",
+      "section": null,
+      "chemin": [
+        "A. Analyser une pièce musicale",
+        "2. Moyens sonores et techniques"
+      ],
+      "texte": "f. Décrire les aspects particuliers du jeu vocal, du jeu instrumental, des médias, des outils et des techniques qui caractérisent l’œuvre multimédia (ex. : distinction entre la voix naturelle et la voix traitée)",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "apprentissage",
+        "5": "maitrise"
+      },
+      "page": 18,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "MUS-APP-016",
+      "competence": "3 – Apprécier des œuvres musicales",
+      "section": null,
+      "chemin": [
+        "A. Analyser une pièce musicale",
+        "3. Procédés de composition"
+      ],
+      "texte": "b. Relever des similitudes et des contrastes associés aux procédés de composition utilisés dans l’œuvre (ex. : reproduction sonore, répétition, collage)",
+      "prioritaire": false,
+      "progression": {
+        "1": "apprentissage",
+        "2": "maitrise",
+        "3": null,
+        "4": null,
+        "5": null
+      },
+      "page": 18,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "MUS-APP-017",
+      "competence": "3 – Apprécier des œuvres musicales",
+      "section": null,
+      "chemin": [
+        "A. Analyser une pièce musicale",
+        "3. Procédés de composition"
+      ],
+      "texte": "c. Identifier différentes façons d’utiliser les procédés de composition dans l’œuvre (ex. : changement de registre dans une reproduction sonore)",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "maitrise",
+        "5": null
+      },
+      "page": 18,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "MUS-APP-018",
+      "competence": "3 – Apprécier des œuvres musicales",
+      "section": null,
+      "chemin": [
+        "A. Analyser une pièce musicale",
+        "3. Procédés de composition"
+      ],
+      "texte": "d. Décrire les façons d’utiliser les procédés de composition dans l’œuvre (ex. : contraste du tempo, des nuances, de la durée dans une reproduction sonore, une répétition ou un collage)",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "apprentissage",
+        "5": "maitrise"
+      },
+      "page": 18,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "MUS-APP-019",
+      "competence": "3 – Apprécier des œuvres musicales",
+      "section": null,
+      "chemin": [
+        "A. Analyser une pièce musicale",
+        "3. Procédés de composition"
+      ],
+      "texte": "e. Identifier des aspects particuliers des procédés de composition utilisés dans l’œuvre (ex. : l’effet de nuances, les variétés de tempi dans une reproduction sonore, une répétition ou un collage)",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "apprentissage",
+        "5": "maitrise"
+      },
+      "page": 18,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "MUS-APP-020",
+      "competence": "3 – Apprécier des œuvres musicales",
+      "section": null,
+      "chemin": [
+        "A. Analyser une pièce musicale",
+        "3. Procédés de composition"
+      ],
+      "texte": "f. Identifier des aspects particuliers des procédés de composition utilisés dans l’œuvre multimédia (ex. : ostinato représenté avec une des modifications des signaux, collage numérique)",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "apprentissage",
+        "5": "maitrise"
+      },
+      "page": 18,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "MUS-APP-021",
+      "competence": "3 – Apprécier des œuvres musicales",
+      "section": null,
+      "chemin": [
+        "A. Analyser une pièce musicale",
+        "4. Structure"
+      ],
+      "texte": "b. Relever des similitudes et des contrastes dans certains passages associés aux éléments de structure de l’œuvre (ex. : forme, tempo, organisations rythmique, mélodique, harmonique)",
+      "prioritaire": false,
+      "progression": {
+        "1": "apprentissage",
+        "2": "maitrise",
+        "3": null,
+        "4": null,
+        "5": null
+      },
+      "page": 18,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "MUS-APP-022",
+      "competence": "3 – Apprécier des œuvres musicales",
+      "section": null,
+      "chemin": [
+        "A. Analyser une pièce musicale",
+        "4. Structure"
+      ],
+      "texte": "c. Identifier des éléments de structure de l’œuvre (ex. : forme A B A, allegro, accelerando, etc.)",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "maitrise",
+        "5": null
+      },
+      "page": 18,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "MUS-APP-023",
+      "competence": "3 – Apprécier des œuvres musicales",
+      "section": null,
+      "chemin": [
+        "A. Analyser une pièce musicale",
+        "4. Structure"
+      ],
+      "texte": "d. Décrire la fonction de différents éléments de structure de l’œuvre",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "apprentissage",
+        "5": "maitrise"
+      },
+      "page": 18,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "MUS-APP-024",
+      "competence": "3 – Apprécier des œuvres musicales",
+      "section": null,
+      "chemin": [
+        "A. Analyser une pièce musicale",
+        "4. Structure"
+      ],
+      "texte": "e. Décrire l’utilisation de certains éléments de structure et les mettre en relation avec la signification de l’œuvre (ex. : changement de tonalité associé à un changement d’atmosphère)",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "apprentissage",
+        "5": "maitrise"
+      },
+      "page": 18,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "MUS-APP-025",
+      "competence": "3 – Apprécier des œuvres musicales",
+      "section": null,
+      "chemin": [
+        "A. Analyser une pièce musicale",
+        "4. Structure"
+      ],
+      "texte": "f. Décrire l’utilisation de certains éléments de structure et les mettre en relation avec la signification de l’œuvre multimédia (ex. : grappe de sons avec retour d’effets électroniques ou réverbération associée au caractère expressif)",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "apprentissage",
+        "5": "maitrise"
+      },
+      "page": 18,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "MUS-APP-026",
+      "competence": "3 – Apprécier des œuvres musicales",
+      "section": null,
+      "chemin": [
+        "B. Interpréter le sens de l’œuvre"
+      ],
+      "texte": "b. Faire des liens entre les éléments musicaux observés et la signification perçue (ex. : le choix du tempo adapté à l’émotion ou à l’atmosphère musicale recherchée)",
+      "prioritaire": false,
+      "progression": {
+        "1": "apprentissage",
+        "2": "maitrise",
+        "3": null,
+        "4": null,
+        "5": null
+      },
+      "page": 18,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "MUS-APP-027",
+      "competence": "3 – Apprécier des œuvres musicales",
+      "section": null,
+      "chemin": [
+        "B. Interpréter le sens de l’œuvre"
+      ],
+      "texte": "c. Faire des liens entre les éléments musicaux observés, la signification perçue et les éléments expressifs de l’œuvre (ex. : série descendante de sons pour représenter un moment dramatique)",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "maitrise",
+        "5": null
+      },
+      "page": 18,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "MUS-APP-028",
+      "competence": "3 – Apprécier des œuvres musicales",
+      "section": null,
+      "chemin": [
+        "B. Interpréter le sens de l’œuvre"
+      ],
+      "texte": "d. Faire des liens entre les éléments musicaux observés, la signification perçue et la symbolique de l’œuvre (ex. : certains éléments du langage musical et de la structure qui témoignent du traitement de l’œuvre au regard du sens ou des effets recherchés)",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "apprentissage",
+        "5": "maitrise"
+      },
+      "page": 18,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "MUS-APP-029",
+      "competence": "3 – Apprécier des œuvres musicales",
+      "section": null,
+      "chemin": [
+        "C. Porter un jugement d’ordre critique et esthétique"
+      ],
+      "texte": "c. Utiliser le vocabulaire disciplinaire selon la terminologie prescrite dans chacun des programmes",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "maitrise",
+        "5": null
+      },
+      "page": 19,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "MUS-APP-030",
+      "competence": "3 – Apprécier des œuvres musicales",
+      "section": null,
+      "chemin": [
+        "C. Porter un jugement d’ordre critique et esthétique"
+      ],
+      "texte": "e. Exprimer ses préférences au regard de ses observations et des critères d’appréciation retenus",
+      "prioritaire": false,
+      "progression": {
+        "1": "apprentissage",
+        "2": "maitrise",
+        "3": null,
+        "4": null,
+        "5": null
+      },
+      "page": 19,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "MUS-APP-031",
+      "competence": "3 – Apprécier des œuvres musicales",
+      "section": null,
+      "chemin": [
+        "C. Porter un jugement d’ordre critique et esthétique"
+      ],
+      "texte": "f. Justifier son point de vue en appuyant son argumentation sur des liens entre les différents éléments retenus",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "maitrise",
+        "5": null
+      },
+      "page": 19,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "MUS-APP-032",
+      "competence": "3 – Apprécier des œuvres musicales",
+      "section": null,
+      "chemin": [
+        "C. Porter un jugement d’ordre critique et esthétique"
+      ],
+      "texte": "g. Justifier son point de vue en appuyant son argumentation sur le contenu de l’œuvre, le sens perçu et les critères d’appréciation retenus",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "apprentissage",
+        "5": "maitrise"
+      },
+      "page": 19,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "MUS-APP-033",
+      "competence": "3 – Apprécier des œuvres musicales",
+      "section": null,
+      "chemin": [
+        "D. Rendre compte de son expérience d’appréciation"
+      ],
+      "texte": "b. Utiliser le vocabulaire disciplinaire selon la terminologie prescrite dans ce programme",
+      "prioritaire": false,
+      "progression": {
+        "1": "apprentissage",
+        "2": "maitrise",
+        "3": null,
+        "4": null,
+        "5": null
+      },
+      "page": 19,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "MUS-APP-034",
+      "competence": "3 – Apprécier des œuvres musicales",
+      "section": null,
+      "chemin": [
+        "D. Rendre compte de son expérience d’appréciation"
+      ],
+      "texte": "c. Utiliser le vocabulaire disciplinaire selon la terminologie prescrite dans chacun des programmes",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "maitrise",
+        "5": null
+      },
+      "page": 19,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "MUS-APP-035",
+      "competence": "3 – Apprécier des œuvres musicales",
+      "section": null,
+      "chemin": [
+        "D. Rendre compte de son expérience d’appréciation"
+      ],
+      "texte": "e. Décrire des aspects de son expérience qui sont liés à la dynamique d’appréciation et plus particulièrement aux stratégies utilisées (ex. : utilisation de différents procédés de discrimination auditive)",
+      "prioritaire": false,
+      "progression": {
+        "1": "apprentissage",
+        "2": "maitrise",
+        "3": null,
+        "4": null,
+        "5": null
+      },
+      "page": 19,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "MUS-APP-036",
+      "competence": "3 – Apprécier des œuvres musicales",
+      "section": null,
+      "chemin": [
+        "D. Rendre compte de son expérience d’appréciation"
+      ],
+      "texte": "f. Décrire des aspects de son expérience qui sont liés à la dynamique d’appréciation et aux stratégies utilisées (ex. : capacité de repérer les éléments expressifs, stratégie liée à l’observation)",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "apprentissage",
+        "4": "maitrise",
+        "5": null
+      },
+      "page": 19,
+      "a_verifier": false,
+      "note": ""
+    }
+  ],
+  "source_url": "https://cdn-contenu.quebec.ca/cdn-contenu/education/pfeq/secondaire/progressions-apprentissages/PFEQ-progression-apprentissages-musique-secondaire.pdf",
+  "controle_logique": {
+    "date": "2026-11-10",
+    "illogiques": 0
+  }
+}
