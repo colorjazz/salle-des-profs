@@ -173,12 +173,12 @@ s.addNotes("Résumé en quatre idées. On peut demander aux élèves de les reco
 // 11. Questions
 s = pres.addSlide({ masterName: 'SOMBRE', sectionTitle: 'Interpréter' });
 s.addText('À votre tour', { placeholder: 'title' });
-const q = [['Établir des changements et des continuités', 'Nommez un changement et une continuité dans le domaine de l\'éducation entre 1950 et 1970.'],
+const q = [['Déterminer des changements et des continuités', 'Nommez un changement et une continuité dans le domaine de l\'éducation entre 1950 et 1970.'],
   ['Déterminer des causes et des conséquences', 'Pourquoi le gouvernement Lesage nationalise-t-il l\'électricité ? Nommez une conséquence pour le Québec.'],
-  ['Interpréter une réalité sociale', 'La Révolution tranquille est-elle une rupture ou une continuité ? Appuyez votre réponse sur deux faits.']];
+  ['Compétence 2 : interpréter une réalité sociale', 'La Révolution tranquille est-elle une rupture ou une continuité ? Appuyez votre réponse sur deux faits.']];
 q.forEach(([h, t], i) => { const y = 1.6 + i * 1.7; rond(s, 0.6, y + 0.1, 0.75, String(i + 1), C.accent1, 18);
   T(s, h.toUpperCase(), { x: 1.65, y: y, w: 10.9, h: 0.4, fontSize: 13, bold: true, color: C.accent4, charSpacing: 1 });
   T(s, t, { x: 1.65, y: y + 0.45, w: 10.9, h: 0.9, fontSize: 20, color: C.background2 }); });
-s.addNotes("Questions organisées par opération intellectuelle, comme à l'épreuve ministérielle de 4e secondaire. La troisième peut devenir un court texte argumentatif.");
+s.addNotes("Les deux premières questions reprennent des opérations intellectuelles du cadre d'évaluation ; la troisième relève de la compétence 2. La troisième peut devenir un court texte argumentatif.");
 
 (async () => { await pres.writeFile({ fileName: 'revolution-tranquille-hqc-sec4.pptx' }); await applyTheme('revolution-tranquille-hqc-sec4.pptx', THEME); console.log('ok'); })();

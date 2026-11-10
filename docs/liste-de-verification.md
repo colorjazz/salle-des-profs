@@ -75,7 +75,8 @@
 
 ## Volet Créer
 - [x] Qualité de référence validée : activité Word (Confédération) et présentation PowerPoint (Révolution tranquille), dans `exemples/`
-- [ ] Extraire le programme d'Histoire du Québec et du Canada (et les autres disciplines du secondaire) dans `donnees/`
+- [x] Programme d'Histoire du Québec et du Canada extrait (`donnees/programme-hqc-secondaire.json`) : 427 éléments, tous vérifiés dans le texte du PDF
+- [ ] Extraire les 37 autres PDA et les cadres d'évaluation (inventaire : `donnees/inventaire-pfeq.csv`)
 - [ ] Gabarits Word et PowerPoint dans le navigateur (pptxgenjs, docx)
 - [ ] Contrôle automatique : aucune citation inventée, dates dans la période, savoirs existants
 

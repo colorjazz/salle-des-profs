@@ -1,0 +1,2505 @@
+{
+  "discipline": "Histoire du Québec et du Canada",
+  "code_discipline": "HQC",
+  "ordre": "secondaire",
+  "niveaux": [
+    "S3",
+    "S4"
+  ],
+  "source": {
+    "programme": "PFEQ-histoire-quebec-canada-secondaire.pdf",
+    "cadre": "PFEQ-cadre-evaluation-histoire-quebec-canada-secondaire.pdf",
+    "date_version_programme": "2017",
+    "url_programme": "https://cdn-contenu.quebec.ca/cdn-contenu/education/pfeq/secondaire/programmes/PFEQ-histoire-quebec-canada-secondaire.pdf",
+    "url_cadre": "https://cdn-contenu.quebec.ca/cdn-contenu/education/pfeq/cadres-evaluation/secondaire/francais/PFEQ-cadre-evaluation-histoire-quebec-canada-secondaire.pdf"
+  },
+  "competences": [
+    {
+      "code": "HQC-C1",
+      "nom": "Caractériser une période de l’histoire du Québec et du Canada"
+    },
+    {
+      "code": "HQC-C2",
+      "nom": "Interpréter une réalité sociale"
+    }
+  ],
+  "concepts_communs": [
+    "culture",
+    "économie",
+    "pouvoir",
+    "société",
+    "territoire"
+  ],
+  "periodes": [
+    {
+      "id": "HQC-P1",
+      "niveau": "S3",
+      "bornes": "Des origines à 1608",
+      "titre": "L’expérience des Autochtones et le projet de colonie",
+      "realite_sociale": "Selon la thèse des migrations asiatiques et l’état des connaissances actuelles sur le sujet, il y a plusieurs millénaires, alors que le climat favorise l’accès au nord-ouest de l’Amérique, des peuples venus d’Asie à la suite de hordes d’animaux sauvages empruntent les passages terrestres libérés par les glaces pour rallier le centre et le sud du continent. Le nord-est de l’Amérique du Nord est ainsi peuplé environ 15 000 ans avant nos jours, à la faveur de températures plus clémentes. Les migrations se succèdent au fil des siècles. Nomades à l’origine, certains groupes se sédentarisent progressivement une fois les conditions favorables réunies. La relation entretenue avec le milieu et les ressources du territoire conditionne le mode de vie des peuples autochtones. Ils vivent de chasse, de pêche, de cueillette et d’agriculture dans des proportions variables selon le territoire occupé. Au gré des saisons, ils puisent dans leur environnement ce dont ils ont besoin et font du commerce pour pallier les ressources dont ils ne disposent pas et entretenir leurs relations avec les autres peuples. Le territoire québécois actuel est occupé, dans les années 1500, par des peuples qui ont leurs langues, leurs coutumes et leurs croyances propres. Alliés ou rivaux, ils s’organisent autour de structures politiques et sociales autonomes qui fondent leur mode de prise de décision. Bien qu’uniques, les Premières Nations et la nation inuite présentent certaines caractéristiques communes. Iroquoiens, Algonquiens et Inuits se partagent les ressources des Appalaches, de la vallée du Saint-Laurent et du Bouclier canadien. Tous entretiennent des rapports fondés sur la réciprocité. Ils se perçoivent comme un élément parmi un vaste ensemble, dont la préservation de l’équilibre est au cœur de leur vision du monde; ils ne constituent pas la pièce maîtresse de leur environnement. Le 16 e siècle voit les contacts entre Autochtones et Européens se multiplier. Les chasseurs basques et les pêcheurs normands et bretons, qui fréquentent les eaux et les rives de l’est du continent nord-américain, y découvrent quantité de mammifères marins et d’abondants bancs de poissons dont ils tireront profit des siècles durant. Au cours de leurs voyages, ils nouent avec les premiers occupants du territoire des relations qu’intensifient les tentatives de colonisation parrainées par la couronne française. En quête de richesses, les explorateurs, Jacques Cartier en tête, usent de l’expérience des Autochtones pour tenter d’apprivoiser un pays qui leur paraît immense et sauvage. Les perspectives contrastées des Européens et des Autochtones colorent les premiers contacts. À l’origine d’incompréhensions mutuelles, elles éclairent néanmoins leurs perceptions des avantages et des inconvénients de leurs rapports. C’est sur le fondement des relations entre Autochtones et Européens que s’organise la colonisation française en Amérique. Les réseaux d’échanges des sociétés autochtones, leurs alliances et leur connaissance du territoire et de ses ressources constituent des atouts dont profitent les Français. Les événements de cette période de l’histoire du Québec et du Canada jettent les bases de l’émergence d’une société française en Amérique. La caractérisation de la période des origines à 1608 repose sur l’établissement et la mise en relation des éléments distinctifs qui en permettent la description. Elle conduit à l’établissement d’une chronologie cohérente révélant la succession des événements et nécessite la considération d’éléments géographiques utiles à leur compréhension. Elle révèle la perspective et l’apport des Autochtones et ceux des différents acteurs qui ont joué un rôle significatif dans le parcours de la société. Elle amène les élèves à lier entre elles plusieurs informations relatives aux différents aspects de société pour décrire comment étaient les choses à l’époque des premiers contacts entre Autochtones et Européens. L’interprétation a pour objet L’expérience des Autochtones et le projet de colonie . Elle amène les élèves à expliquer comment les relations entre les peuples autochtones et leur connaissance du territoire ont contribué à l’exploitation de ses ressources par les Français ainsi qu’à leurs tentatives d’établissement. La réalité sociale évoque le changement, les transformations; elle met en valeur l’interaction entre les aspects de société et favorise l’arrimage entre l’histoire politique et l’histoire sociale. Le recours à une méthode d’analyse critique facilite l’analyse des changements et des continuités de même que celle des causes et des conséquences qui expliquent cette réalité. L’étude de la réalité sociale mène à la découverte de multiples perspectives dont la prise en compte permet d’assurer la validité de l’interprétation.",
+      "page": 28,
+      "themes": [
+        {
+          "id": "HQC-P1-T01",
+          "theme": "Premiers occupants du territoire",
+          "elements": [
+            {
+              "id": "HQC-P1-T01-a",
+              "texte": "Migrations à l’origine du peuplement du nord-est de l’Amérique"
+            },
+            {
+              "id": "HQC-P1-T01-b",
+              "texte": "Familles linguistiques"
+            },
+            {
+              "id": "HQC-P1-T01-c",
+              "texte": "Premières Nations et nation inuite"
+            },
+            {
+              "id": "HQC-P1-T01-d",
+              "texte": "Territoire occupé"
+            },
+            {
+              "id": "HQC-P1-T01-e",
+              "texte": "Modes de vie"
+            }
+          ]
+        },
+        {
+          "id": "HQC-P1-T02",
+          "theme": "Rapports sociaux chez les Autochtones",
+          "elements": [
+            {
+              "id": "HQC-P1-T02-a",
+              "texte": "Structures matrilinéaire et patrilinéaire"
+            },
+            {
+              "id": "HQC-P1-T02-b",
+              "texte": "Tradition chamanique"
+            },
+            {
+              "id": "HQC-P1-T02-c",
+              "texte": "Éducation des enfants"
+            },
+            {
+              "id": "HQC-P1-T02-d",
+              "texte": "Partage des biens"
+            },
+            {
+              "id": "HQC-P1-T02-e",
+              "texte": "Tradition orale"
+            },
+            {
+              "id": "HQC-P1-T02-f",
+              "texte": "Don et contre-don"
+            }
+          ]
+        },
+        {
+          "id": "HQC-P1-T03",
+          "theme": "Prise de décision chez les Autochtones",
+          "elements": [
+            {
+              "id": "HQC-P1-T03-a",
+              "texte": "Désignation des chefs"
+            },
+            {
+              "id": "HQC-P1-T03-b",
+              "texte": "Rôle des chefs et des aînés"
+            }
+          ]
+        },
+        {
+          "id": "HQC-P1-T04",
+          "theme": "Réseaux d’échange autochtones",
+          "elements": [
+            {
+              "id": "HQC-P1-T04-a",
+              "texte": "Activités économiques"
+            },
+            {
+              "id": "HQC-P1-T04-b",
+              "texte": "Échanges entre nations"
+            },
+            {
+              "id": "HQC-P1-T04-c",
+              "texte": "Étendue des réseaux d’échange sur le continent"
+            },
+            {
+              "id": "HQC-P1-T04-d",
+              "texte": "Utilisation des voies d’eau"
+            }
+          ]
+        },
+        {
+          "id": "HQC-P1-T05",
+          "theme": "Alliances et rivalités au sein des Premières Nations",
+          "elements": [
+            {
+              "id": "HQC-P1-T05-a",
+              "texte": "Système d’alliances"
+            },
+            {
+              "id": "HQC-P1-T05-b",
+              "texte": "Objets de rivalité"
+            },
+            {
+              "id": "HQC-P1-T05-c",
+              "texte": "Guerres"
+            },
+            {
+              "id": "HQC-P1-T05-d",
+              "texte": "Sort des prisonniers"
+            }
+          ]
+        },
+        {
+          "id": "HQC-P1-T06",
+          "theme": "Premiers contacts",
+          "elements": [
+            {
+              "id": "HQC-P1-T06-a",
+              "texte": "Conjoncture européenne"
+            },
+            {
+              "id": "HQC-P1-T06-b",
+              "texte": "Explorations européennes en Amérique"
+            },
+            {
+              "id": "HQC-P1-T06-c",
+              "texte": "Pêcheries européennes et chasse à la baleine"
+            },
+            {
+              "id": "HQC-P1-T06-d",
+              "texte": "Produits échangés entre des Autochtones et des Européens"
+            },
+            {
+              "id": "HQC-P1-T06-e",
+              "texte": "Perspective des Autochtones"
+            }
+          ]
+        },
+        {
+          "id": "HQC-P1-T07",
+          "theme": "Exploration et occupation du territoire par les Français",
+          "elements": [
+            {
+              "id": "HQC-P1-T07-a",
+              "texte": "Premiers voyages de Jacques Cartier"
+            },
+            {
+              "id": "HQC-P1-T07-b",
+              "texte": "Colonie de peuplement sur le cap Rouge"
+            },
+            {
+              "id": "HQC-P1-T07-c",
+              "texte": "Autres tentatives de colonisation par la France dans le nord-est de l’Amérique"
+            },
+            {
+              "id": "HQC-P1-T07-d",
+              "texte": "Alliance franco-amérindienne de 1603"
+            }
+          ]
+        }
+      ],
+      "concepts_particuliers": [
+        "Alliance",
+        "Échange",
+        "Environnement"
+      ]
+    },
+    {
+      "id": "HQC-P2",
+      "niveau": "S3",
+      "bornes": "1608-1760",
+      "titre": "L’évolution de la société coloniale sous l’autorité de la métropole française",
+      "realite_sociale": "La fin des guerres de religion qu’officialise l’édit de Nantes rétablit l’ordre social en France. La couronne, momentanément délestée des luttes intestines, remet la colonisation de l’Amérique du Nord à l’ordre du jour. Le roi concède le monopole du commerce des fourrures à des compagnies. L’installation de sujets français en Nouvelle-France apparaît essentielle à l’essor de la France. Tandis qu’à Tadoussac, où les Français ont scellé une première alliance avec des nations autochtones en 1603, les seuls besoins de la traite sont priorisés, l’habitation de Port-Royal en Acadie accueille en 1605 quelque 80 colons. Il faut toutefois attendre la fondation de Québec en 1608 par Samuel de Champlain pour qu’un premier établissement permanent voie le jour en Nouvelle-France. La prospérité de la colonie est tributaire de son développement économique et social ainsi que de la politique mercantile de la métropole. Champlain s’allie, entre autres, aux Algonquins, aux Innus (Montagnais) et aux Hurons-Wendats (Hurons), dont la connaissance du territoire favorise l’expansion économique et territoriale du commerce des fourrures et l’adaptation des colons. Les compagnies se succèdent à la tête de la colonie; l’économie est polarisée et la population croît lentement. Les structures administratives, qui s’édifient d’abord dans les villes, et les structures sociales européennes sont reproduites, puis adaptées au contexte de la Nouvelle-France. Le régime seigneurial, qui organise la distribution et l’occupation du sol, marque les liens entre les colons et les élites. Les communautés religieuses sont à l’œuvre. Récollets, Jésuites et Ursulines évangélisent des Autochtones et se chargent de l’encadrement des colons. Des hôpitaux sont fondés et des écoles sont érigées, particulièrement par des congrégations féminines. Graduellement, d’une génération à l’autre, les coloniaux se distancient de la métropole. Leur réalité impose l’adoption d’habitudes de vie compatibles avec le milieu; la société en émergence se singularise. Les habitants s’adaptent au territoire, notamment en empruntant aux Autochtones des objets et des habitudes alimentaires. Dans les échanges, chacun fait valoir ses intérêts, parfois au détriment de l’autre. Alors que se développe la colonie, certaines populations autochtones se fragilisent, notamment en proie aux épidémies et aux guerres. L’instauration du Gouvernement royal en 1663 marque un tournant. En faisant de la Nouvelle-France une colonie royale, Louis XIV entreprend sa réorganisation judiciaire et politique, la dotant, entre autres, d’un conseil souverain. Alors que le gouverneur commande l’armée et se charge de la diplomatie avec les Premières Nations, l’intendant met en place un ensemble de mesures avalisées par la métropole pour dynamiser l’économie et régir la vie civile des habitants. Arrivé en 1665, Jean Talon, premier intendant en Nouvelle-France, développe le commerce et l’industrie, et favorise la croissance de la production agricole. Il contribue à l’adoption et à l’application de politiques démographiques qui, bien que temporaires, auront des répercussions sur l’accroissement naturel de la population, certaines de ces politiques ayant mené notamment à l’arrivée d’un grand nombre de femmes. Le territoire nord-américain est vaste et ses ressources sont convoitées. Leur exploitation est l’objet d’hostilités répétées opposant, entre autres, les Iroquois à d’autres habitants de la colonie. La France et la Grande-Bretagne tentent d’imposer leur suprématie sur le continent, comme ailleurs en Europe, aux Indes et aux Antilles. La Nouvelle-France est l’objet de rivalités qui redéfinissent ses frontières et influencent les décisions la concernant. Les guerres intercoloniales jalonnent la marche vers la conquête de la Nouvelle-France par la Grande-Bretagne. Les affrontements entre les sujets britanniques, les sujets français et leurs alliés autochtones sur le territoire de l’Ohio, où s’amorce la guerre de Sept Ans, s’étendent aux territoires disputés du nord-est avant de se transporter à Québec, qu’un important siège et la bataille des Plaines d’Abraham feront tomber aux mains des Britanniques. La caractérisation de la période 1608-1760 repose sur l’établissement et la mise en relation des éléments distinctifs qui en permettent la description. Elle conduit à l’établissement d’une chronologie cohérente révélant la succession des événements et nécessite la considération d’éléments géographiques utiles à leur compréhension. Elle révèle la perspective et l’apport des différents acteurs qui ont joué un rôle significatif dans le parcours de la société. Elle amène les élèves à lier entre elles plusieurs informations relatives aux différents aspects de société pour décrire comment étaient les choses à l’époque de la Nouvelle-France. L’interprétation a pour objet L’évolution de la société coloniale sous l’autorité de la métropole française . Elle amène les élèves à expliquer les relations entre la société coloniale et la France. La réalité sociale évoque le changement, les transformations; elle met en valeur l’interaction entre les aspects de société et favorise l’arrimage entre l’histoire politique et l’histoire sociale. Le recours à une méthode d’analyse critique facilite l’analyse des changements et des continuités de même que celle des causes et des conséquences qui expliquent cette réalité. L’étude de la réalité sociale mène à la découverte de multiples perspectives dont la prise en compte permet d’assurer la validité de l’interprétation.",
+      "page": 32,
+      "themes": [
+        {
+          "id": "HQC-P2-T01",
+          "theme": "Monopole des compagnies",
+          "elements": [
+            {
+              "id": "HQC-P2-T01-a",
+              "texte": "Privilèges et obligations des compagnies"
+            },
+            {
+              "id": "HQC-P2-T01-b",
+              "texte": "Mercantilisme"
+            },
+            {
+              "id": "HQC-P2-T01-c",
+              "texte": "Premiers gouverneurs"
+            }
+          ]
+        },
+        {
+          "id": "HQC-P2-T02",
+          "theme": "Gouvernement royal",
+          "elements": [
+            {
+              "id": "HQC-P2-T02-a",
+              "texte": "Absolutisme de droit divin"
+            },
+            {
+              "id": "HQC-P2-T02-b",
+              "texte": "Secrétaire d’État à la marine"
+            },
+            {
+              "id": "HQC-P2-T02-c",
+              "texte": "Gouverneur"
+            },
+            {
+              "id": "HQC-P2-T02-d",
+              "texte": "Organisation militaire"
+            },
+            {
+              "id": "HQC-P2-T02-e",
+              "texte": "Intendant"
+            },
+            {
+              "id": "HQC-P2-T02-f",
+              "texte": "Conseil souverain"
+            }
+          ]
+        },
+        {
+          "id": "HQC-P2-T03",
+          "theme": "Territoire français en Amérique",
+          "elements": [
+            {
+              "id": "HQC-P2-T03-a",
+              "texte": "Premiers établissements dans la vallée du Saint-Laurent"
+            },
+            {
+              "id": "HQC-P2-T03-b",
+              "texte": "Territoire de pêche"
+            },
+            {
+              "id": "HQC-P2-T03-c",
+              "texte": "Territoire revendiqué"
+            },
+            {
+              "id": "HQC-P2-T03-d",
+              "texte": "Territoire occupé"
+            },
+            {
+              "id": "HQC-P2-T03-e",
+              "texte": "Possessions britanniques"
+            },
+            {
+              "id": "HQC-P2-T03-f",
+              "texte": "Traité de Saint-Germain-en-Laye (1632)"
+            }
+          ]
+        },
+        {
+          "id": "HQC-P2-T04",
+          "theme": "Guerre et diplomatie chez les Premières Nations",
+          "elements": [
+            {
+              "id": "HQC-P2-T04-a",
+              "texte": "Alliances avec les Européens"
+            },
+            {
+              "id": "HQC-P2-T04-b",
+              "texte": "Guerres iroquoises"
+            },
+            {
+              "id": "HQC-P2-T04-c",
+              "texte": "Grande Paix de Montréal"
+            }
+          ]
+        },
+        {
+          "id": "HQC-P2-T05",
+          "theme": "Commerce des fourrures",
+          "elements": [
+            {
+              "id": "HQC-P2-T05-a",
+              "texte": "Exploitation de la ressource"
+            },
+            {
+              "id": "HQC-P2-T05-b",
+              "texte": "Exploration du territoire"
+            },
+            {
+              "id": "HQC-P2-T05-c",
+              "texte": "Rôle des agents"
+            },
+            {
+              "id": "HQC-P2-T05-d",
+              "texte": "Congé de traite"
+            }
+          ]
+        },
+        {
+          "id": "HQC-P2-T06",
+          "theme": "Église catholique",
+          "elements": [
+            {
+              "id": "HQC-P2-T06-a",
+              "texte": "Communautés religieuses"
+            },
+            {
+              "id": "HQC-P2-T06-b",
+              "texte": "Évangélisation des Autochtones"
+            },
+            {
+              "id": "HQC-P2-T06-c",
+              "texte": "Services sociaux et soins de santé"
+            },
+            {
+              "id": "HQC-P2-T06-d",
+              "texte": "Rôle de l’évêque"
+            },
+            {
+              "id": "HQC-P2-T06-e",
+              "texte": "Encadrement des colons"
+            },
+            {
+              "id": "HQC-P2-T06-f",
+              "texte": "Établissement de paroisses"
+            }
+          ]
+        },
+        {
+          "id": "HQC-P2-T07",
+          "theme": "Croissance de la population",
+          "elements": [
+            {
+              "id": "HQC-P2-T07-a",
+              "texte": "Origines sociales et géographiques des immigrants"
+            },
+            {
+              "id": "HQC-P2-T07-b",
+              "texte": "Politique de peuplement"
+            },
+            {
+              "id": "HQC-P2-T07-c",
+              "texte": "Filles du Roy"
+            },
+            {
+              "id": "HQC-P2-T07-d",
+              "texte": "Accroissement naturel"
+            }
+          ]
+        },
+        {
+          "id": "HQC-P2-T08",
+          "theme": "Villes du Canada",
+          "elements": [
+            {
+              "id": "HQC-P2-T08-a",
+              "texte": "Occupation du sol"
+            },
+            {
+              "id": "HQC-P2-T08-b",
+              "texte": "Population urbaine"
+            },
+            {
+              "id": "HQC-P2-T08-c",
+              "texte": "Esclavage"
+            },
+            {
+              "id": "HQC-P2-T08-d",
+              "texte": "Centre administratif et culturel"
+            },
+            {
+              "id": "HQC-P2-T08-e",
+              "texte": "Place publique"
+            }
+          ]
+        },
+        {
+          "id": "HQC-P2-T09",
+          "theme": "Régime seigneurial",
+          "elements": [
+            {
+              "id": "HQC-P2-T09-a",
+              "texte": "Organisation sociale"
+            },
+            {
+              "id": "HQC-P2-T09-b",
+              "texte": "Organisation territoriale"
+            },
+            {
+              "id": "HQC-P2-T09-c",
+              "texte": "Diversité sociale des seigneurs"
+            },
+            {
+              "id": "HQC-P2-T09-d",
+              "texte": "Vie quotidienne"
+            }
+          ]
+        },
+        {
+          "id": "HQC-P2-T10",
+          "theme": "Diversification économique",
+          "elements": [
+            {
+              "id": "HQC-P2-T10-a",
+              "texte": "Obstacles à la diversification de l’économie"
+            },
+            {
+              "id": "HQC-P2-T10-b",
+              "texte": "Mesures des intendants"
+            },
+            {
+              "id": "HQC-P2-T10-c",
+              "texte": "Activités agricoles"
+            },
+            {
+              "id": "HQC-P2-T10-d",
+              "texte": "Activités artisanales"
+            },
+            {
+              "id": "HQC-P2-T10-e",
+              "texte": "Commerce triangulaire"
+            }
+          ]
+        },
+        {
+          "id": "HQC-P2-T11",
+          "theme": "Adaptation des colons",
+          "elements": [
+            {
+              "id": "HQC-P2-T11-a",
+              "texte": "Empreinte culturelle européenne"
+            },
+            {
+              "id": "HQC-P2-T11-b",
+              "texte": "Éloignement géographique de la métropole"
+            },
+            {
+              "id": "HQC-P2-T11-c",
+              "texte": "Acclimatation"
+            },
+            {
+              "id": "HQC-P2-T11-d",
+              "texte": "Relations avec des Autochtones"
+            }
+          ]
+        },
+        {
+          "id": "HQC-P2-T12",
+          "theme": "Populations autochtones",
+          "elements": [
+            {
+              "id": "HQC-P2-T12-a",
+              "texte": "Domiciliés"
+            },
+            {
+              "id": "HQC-P2-T12-b",
+              "texte": "Acculturation"
+            },
+            {
+              "id": "HQC-P2-T12-c",
+              "texte": "Métissage"
+            },
+            {
+              "id": "HQC-P2-T12-d",
+              "texte": "Choc microbien"
+            }
+          ]
+        },
+        {
+          "id": "HQC-P2-T13",
+          "theme": "Guerres intercoloniales",
+          "elements": [
+            {
+              "id": "HQC-P2-T13-a",
+              "texte": "Empires coloniaux"
+            },
+            {
+              "id": "HQC-P2-T13-b",
+              "texte": "Objets des rivalités coloniales"
+            },
+            {
+              "id": "HQC-P2-T13-c",
+              "texte": "Rapports de force"
+            },
+            {
+              "id": "HQC-P2-T13-d",
+              "texte": "Traité d’Utrecht"
+            },
+            {
+              "id": "HQC-P2-T13-e",
+              "texte": "Guerre de Sept Ans"
+            }
+          ]
+        },
+        {
+          "id": "HQC-P2-T14",
+          "theme": "Guerre de la Conquête",
+          "elements": [
+            {
+              "id": "HQC-P2-T14-a",
+              "texte": "Affrontements en Ohio"
+            },
+            {
+              "id": "HQC-P2-T14-b",
+              "texte": "Déportation des Acadiens"
+            },
+            {
+              "id": "HQC-P2-T14-c",
+              "texte": "Prise de Louisbourg"
+            },
+            {
+              "id": "HQC-P2-T14-d",
+              "texte": "Avancées britanniques dans la vallée du Saint-Laurent"
+            },
+            {
+              "id": "HQC-P2-T14-e",
+              "texte": "Siège de Québec"
+            },
+            {
+              "id": "HQC-P2-T14-f",
+              "texte": "Bataille des Plaines d’Abraham"
+            },
+            {
+              "id": "HQC-P2-T14-g",
+              "texte": "Bataille de Sainte-Foy"
+            },
+            {
+              "id": "HQC-P2-T14-h",
+              "texte": "Milice canadienne"
+            }
+          ]
+        }
+      ],
+      "concepts_particuliers": [
+        "Adaptation",
+        "Évangélisation",
+        "Mercantilisme"
+      ]
+    },
+    {
+      "id": "HQC-P3",
+      "niveau": "S3",
+      "bornes": "1760-1791",
+      "titre": "La Conquête et le changement d’empire",
+      "realite_sociale": "L’armée britannique s’empare officiellement de la ville de Québec cinq jours après la bataille des Plaines d’Abraham en 1759. Montréal, où se sont repliées les troupes françaises, capitule l’année suivante devant l’imposant déploiement militaire ennemi. Les Britanniques contrôlent une importante partie du territoire de la Nouvelle-France, dévastée par plusieurs années de guerre au détriment des populations, exténuées. Alors que la guerre entre les métropoles se poursuit sur d’autres fronts, une transition s’amorce dans la colonie avec l’instauration du régime militaire. En vertu des traités de capitulation de 1759 et de 1760, les structures sociales et administratives développées sous l’égide française ne sont pas systématiquement réprimées. Les nouveaux administrateurs adoptent néanmoins un ensemble de mesures pour assurer le fonctionnement de la colonie. Le sort de la population dépend de la conclusion de la guerre de Sept Ans. Il est scellé en 1763 par le traité de Paris et la Proclamation royale, qui dote la nouvelle colonie britannique d’une première constitution. Le territoire de la Province de Québec, confiné à la vallée du Saint-Laurent, est désormais la possession de la couronne britannique. La Proclamation royale, par ailleurs, estompe la révolte de certaines nations autochtones, à qui un vaste territoire est réservé à l’ouest et au nord des colonies britanniques. En 1764, l’administration militaire est remplacée par un gouvernement civil, et l’imposition des lois civiles et criminelles anglaises est prévue. Les intentions des autorités métropolitaines sont claires. L’assimilation graduelle des nouveaux sujets à la culture britannique est souhaitable. Les premiers gouverneurs se montrent toutefois conciliants envers les Canadiens, essentiellement des ruraux, qui représentent la vaste majorité de la population coloniale. Le caractère français et catholique de la colonie, dénoncé par les marchands britanniques, est au cœur des concessions octroyées par James Murray et son successeur, Guy Carleton. Alors que les différends s’accumulent entre la Grande-Bretagne et les Treize colonies, les Britanniques maintiennent un calme relatif dans la Province de Québec, entre autres en sanctionnant l’Acte de Québec en 1774, puis en contrant l’invasion américaine. Dans la Province de Québec, qu’a désertée une partie de l’élite politique et économique de l’ancienne colonie française à la suite de la capitulation de Montréal, la haute administration est essentiellement l’affaire des Britanniques. Les marchands écossais dominent l’économie coloniale, dont le commerce des fourrures est toujours le principal pôle. Les nouveaux capitaux favorisent le redressement de l’économie, à laquelle contribuent les Canadiens et les Autochtones à différents égards. La gestion de la colonie est sous la responsabilité du gouverneur et de conseillers loyaux à la couronne britannique; les Canadiens souhaitant accéder à des postes administratifs doivent prêter allégeance à cette dernière. La pratique de la religion catholique est dominante en dépit des instructions royales qui prônent l’établissement de l’Église anglicane. Les quelques écoles catholiques côtoient un nombre croissant d’écoles protestantes. Le clergé et les seigneurs canadiens s’accommodent des politiques des premiers gouverneurs et, plus tard, de celles de la couronne, pendant que la nouvelle bourgeoisie professionnelle canadienne et certains marchands britanniques manifestent leur insatisfaction à l’égard de la gouvernance de la colonie. Les Loyalistes, qui arrivent dans la province à la suite de la déclaration d’indépendance des États-Unis, ajoutent, entre autres, leur voix aux doléances portant sur les problèmes constitutionnels. Les conjonctures politiques et démographiques, les revendications de certains membres influents de la colonie ainsi que les nombreuses pétitions acheminées à Londres contribuent à l’adoption de l’Acte constitutionnel, qui divise la Province de Québec en deux, et à l’octroi d’une assemblée législative. La caractérisation de la période 1760-1791 repose sur l’établissement et la mise en relation des éléments distinctifs qui en permettent la description. Elle conduit à l’établissement d’une chronologie cohérente révélant la succession des événements et nécessite la considération d’éléments géographiques utiles à leur compréhension. Elle révèle la perspective et l’apport des différents acteurs qui ont joué un rôle significatif dans le parcours de la société. Elle amène les élèves à lier entre elles plusieurs informations relatives aux différents aspects de société pour décrire comment étaient les choses à l’époque de la Province de Québec avant l’adoption de l’Acte constitutionnel. L’interprétation a pour objet La Conquête et le changement d’empire . Elle amène les élèves à expliquer comment le changement d’empire a marqué la société coloniale. La réalité sociale évoque le changement, les transformations; elle met en valeur l’interaction entre les aspects de société et favorise l’arrimage entre l’histoire politique et l’histoire sociale. Le recours à une méthode d’analyse critique facilite l’analyse des changements et des continuités de même que celle des causes et des conséquences qui expliquent cette réalité. L’étude de la réalité sociale mène à la découverte de multiples perspectives dont la prise en compte permet d’assurer la validité de l’interprétation.",
+      "page": 37,
+      "themes": [
+        {
+          "id": "HQC-P3-T01",
+          "theme": "Régime militaire",
+          "elements": [
+            {
+              "id": "HQC-P3-T01-a",
+              "texte": "Capitulation de Montréal"
+            },
+            {
+              "id": "HQC-P3-T01-b",
+              "texte": "Émigration de Canadiens"
+            },
+            {
+              "id": "HQC-P3-T01-c",
+              "texte": "Reconstruction de la colonie"
+            },
+            {
+              "id": "HQC-P3-T01-d",
+              "texte": "Administration militaire de la colonie"
+            },
+            {
+              "id": "HQC-P3-T01-e",
+              "texte": "Conditions imposées aux Canadiens"
+            }
+          ]
+        },
+        {
+          "id": "HQC-P3-T02",
+          "theme": "Proclamation royale",
+          "elements": [
+            {
+              "id": "HQC-P3-T02-a",
+              "texte": "Traité de Paris (1763)"
+            },
+            {
+              "id": "HQC-P3-T02-b",
+              "texte": "Structures politiques, juridiques et administratives"
+            },
+            {
+              "id": "HQC-P3-T02-c",
+              "texte": "Territoire de la Province de Québec"
+            },
+            {
+              "id": "HQC-P3-T02-d",
+              "texte": "Droits territoriaux des Indiens"
+            },
+            {
+              "id": "HQC-P3-T02-e",
+              "texte": "Autres colonies britanniques en Amérique du Nord"
+            }
+          ]
+        },
+        {
+          "id": "HQC-P3-T03",
+          "theme": "Statut des Indiens",
+          "elements": [
+            {
+              "id": "HQC-P3-T03-a",
+              "texte": "Révolte de Pontiac"
+            },
+            {
+              "id": "HQC-P3-T03-b",
+              "texte": "Département des Affaires indiennes"
+            },
+            {
+              "id": "HQC-P3-T03-c",
+              "texte": "Revendications des Premières Nations"
+            }
+          ]
+        },
+        {
+          "id": "HQC-P3-T04",
+          "theme": "Instructions au gouverneur Murray",
+          "elements": [
+            {
+              "id": "HQC-P3-T04-a",
+              "texte": "Instauration du gouvernement civil"
+            },
+            {
+              "id": "HQC-P3-T04-b",
+              "texte": "Assimilation des Canadiens"
+            },
+            {
+              "id": "HQC-P3-T04-c",
+              "texte": "Serment du Test"
+            },
+            {
+              "id": "HQC-P3-T04-d",
+              "texte": "Concessions accordées aux Canadiens"
+            }
+          ]
+        },
+        {
+          "id": "HQC-P3-T05",
+          "theme": "Mouvements de revendication",
+          "elements": [
+            {
+              "id": "HQC-P3-T05-a",
+              "texte": "Groupes d’influence"
+            },
+            {
+              "id": "HQC-P3-T05-b",
+              "texte": "Objets des pétitions"
+            }
+          ]
+        },
+        {
+          "id": "HQC-P3-T06",
+          "theme": "Acte de Québec",
+          "elements": [
+            {
+              "id": "HQC-P3-T06-a",
+              "texte": "Religion et droits civils"
+            },
+            {
+              "id": "HQC-P3-T06-b",
+              "texte": "Pouvoirs exécutif, législatif et judiciaire"
+            },
+            {
+              "id": "HQC-P3-T06-c",
+              "texte": "Rôle du gouverneur"
+            },
+            {
+              "id": "HQC-P3-T06-d",
+              "texte": "Réactions des différents groupes"
+            },
+            {
+              "id": "HQC-P3-T06-e",
+              "texte": "Territoire de la Province de Québec"
+            }
+          ]
+        },
+        {
+          "id": "HQC-P3-T07",
+          "theme": "Invasion américaine",
+          "elements": [
+            {
+              "id": "HQC-P3-T07-a",
+              "texte": "Lois intolérables ou Coercive Acts"
+            },
+            {
+              "id": "HQC-P3-T07-b",
+              "texte": "Lettres aux Canadiens"
+            },
+            {
+              "id": "HQC-P3-T07-c",
+              "texte": "Occupation de Montréal et siège de Québec"
+            },
+            {
+              "id": "HQC-P3-T07-d",
+              "texte": "Déclaration d’indépendance des États-Unis"
+            },
+            {
+              "id": "HQC-P3-T07-e",
+              "texte": "Territoire de la Province de Québec et des États-Unis à la suite de l’adoption du traité de Paris (1783)"
+            },
+            {
+              "id": "HQC-P3-T07-f",
+              "texte": "Migration de populations autochtones"
+            }
+          ]
+        },
+        {
+          "id": "HQC-P3-T08",
+          "theme": "Loyalistes",
+          "elements": [
+            {
+              "id": "HQC-P3-T08-a",
+              "texte": "Conditions de vie des migrants"
+            },
+            {
+              "id": "HQC-P3-T08-b",
+              "texte": "Établissement des colons"
+            }
+          ]
+        },
+        {
+          "id": "HQC-P3-T09",
+          "theme": "Économie coloniale",
+          "elements": [
+            {
+              "id": "HQC-P3-T09-a",
+              "texte": "Politique économique britannique"
+            },
+            {
+              "id": "HQC-P3-T09-b",
+              "texte": "Contrôle des marchands britanniques"
+            },
+            {
+              "id": "HQC-P3-T09-c",
+              "texte": "Commerce des fourrures"
+            },
+            {
+              "id": "HQC-P3-T09-d",
+              "texte": "Production agricole"
+            },
+            {
+              "id": "HQC-P3-T09-e",
+              "texte": "Pêche"
+            }
+          ]
+        },
+        {
+          "id": "HQC-P3-T10",
+          "theme": "Situation sociodémographique",
+          "elements": [
+            {
+              "id": "HQC-P3-T10-a",
+              "texte": "Immigration britannique"
+            },
+            {
+              "id": "HQC-P3-T10-b",
+              "texte": "Réfugiés acadiens"
+            },
+            {
+              "id": "HQC-P3-T10-c",
+              "texte": "Composition de la population"
+            },
+            {
+              "id": "HQC-P3-T10-d",
+              "texte": "Usage de la langue française"
+            },
+            {
+              "id": "HQC-P3-T10-e",
+              "texte": "Accroissement naturel des Canadiens"
+            },
+            {
+              "id": "HQC-P3-T10-f",
+              "texte": "Bourgeoisie professionnelle canadienne"
+            }
+          ]
+        },
+        {
+          "id": "HQC-P3-T11",
+          "theme": "Église catholique",
+          "elements": [
+            {
+              "id": "HQC-P3-T11-a",
+              "texte": "Clergé"
+            },
+            {
+              "id": "HQC-P3-T11-b",
+              "texte": "Communautés religieuses"
+            },
+            {
+              "id": "HQC-P3-T11-c",
+              "texte": "Écoles"
+            },
+            {
+              "id": "HQC-P3-T11-d",
+              "texte": "Hôpitaux"
+            }
+          ]
+        },
+        {
+          "id": "HQC-P3-T12",
+          "theme": "Église anglicane",
+          "elements": [
+            {
+              "id": "HQC-P3-T12-a",
+              "texte": "Lieux de culte"
+            },
+            {
+              "id": "HQC-P3-T12-b",
+              "texte": "Écoles"
+            }
+          ]
+        }
+      ],
+      "concepts_particuliers": [
+        "Allégeance",
+        "Assimilation",
+        "Constitution"
+      ]
+    },
+    {
+      "id": "HQC-P4",
+      "niveau": "S3",
+      "bornes": "1791-1840",
+      "titre": "Les revendications et les luttes nationales",
+      "realite_sociale": "Les appels répétés à la métropole provenant de la Province de Québec quant à sa situation sociopolitique s’intensifient dans les années 1780, entre autres avec l’arrivée des Loyalistes. Parmi les demandes, parfois contradictoires, qui sont formulées, l’octroi d’une chambre d’assemblée rallie de plus en plus d’adeptes chez les francophones et les anglophones. Londres modifie la constitution de la colonie en 1791 en adoptant l’Acte constitutionnel, qui institue le parlementarisme représentatif, le droit de vote étant accordé aux hommes et aux femmes selon certaines conditions. Le Bas-Canada et le Haut-Canada sont formés, une assemblée législative s’ajoute pour chacune des deux colonies à la structure politique existante et les principaux acquis de l’Acte de Québec sont préservés. L’Acte constitutionnel conduit à une division territoriale, juridique, ethnique et linguistique de la colonie. Largement majoritaires à l’ouest de la rivière des Outaouais, les anglophones sont minoritaires au Bas-Canada, essentiellement concentrés dans les villes de Montréal, de William-Henry (Sorel) et de Québec. Au 19 e siècle, la dualité linguistique s’accentue. Les idées souvent opposées de la bourgeoisie professionnelle canadienne et de la bourgeoisie marchande anglophone sont diffusées par la presse. Les dissensions politiques nourrissent le nationalisme canadien qu’amplifient les conditions socioéconomiques qui ont cours. La population du Bas-Canada croît au rythme des nombreuses naissances chez les Canadiens et de l’immigration. La majorité des nouveaux arrivants proviennent des îles britanniques, souvent d’Irlande, et leur immigration se déroule généralement dans des conditions difficiles. Plusieurs s’installent en ville, convoitant les emplois non spécialisés de l’industrie naissante que stimule la disponibilité de capitaux. L’économie locale, à laquelle concourent majoritairement les francophones, est essentiellement agricole. De nouvelles terres, dont le septième est réservé à l’Église anglicane, sont concédées selon le système des cantons, désormais privilégié. La demande de la Grande-Bretagne pour le blé canadien est de plus en plus importante. Au tournant du siècle, la production est en hausse. Jusqu’à la crise des années 1830, malgré les disparités, les conditions de vie des agriculteurs s’améliorent. Durant la saison morte et au-delà de celle-ci, alors que les femmes organisent la vie de famille et s’occupent de la ferme, les hommes sont de plus en plus nombreux à travailler au profit du commerce du bois. Dans le contexte du blocus continental de Napoléon, le développement de ce commerce accentue l’intégration graduelle de l’économie coloniale à l’économie britannique. Avec la morue, la fourrure constitue encore un des principaux produits échangés. Son commerce décline toutefois graduellement, tout comme la participation des Autochtones aux activités économiques. La première campagne électorale du Bas-Canada s’amorce au printemps 1792. La Chambre d’assemblée est le théâtre des premiers débats entre les députés dont les intérêts convergent vers le Parti canadien, qui est majoritaire, et les députés liés à la classe marchande britannique. Outre les questions linguistiques et économiques, les faibles pouvoirs de la Chambre et l’efficience de l’exercice démocratique accentuent les tensions, exacerbées sous l’administration du gouverneur James Craig. Le gouverneur dispose alors d’une vaste autorité et les conseils sont non élus. La Chambre réclame le contrôle des actions du gouvernement colonial. Inspirés par les mouvements nationaux et libéraux qui ont cours en Europe et le mouvement de décolonisation en Amérique latine, la majorité parlementaire accentue la pression sur la métropole. En 1826, le Parti canadien, dirigé par Louis-Joseph Papineau, devient le Parti patriote. Il profite, tout en y contribuant, de la montée du nationalisme canadien. À la suite de la présentation des résolutions Russell, que Londres offre en réponse aux 92 résolutions adoptées par les députés du Bas-Canada, des assemblées populaires sont tenues. Des appels à la mobilisation sont lancés et des boycottages sont organisés. Le discours des élites religieuses catholiques, qui comme au cours de la guerre anglo-américaine se rangent derrière les autorités britanniques, contraste avec la volonté des patriotes et celle de certains curés de paroisses. Des affrontements entre organisations paramilitaires ont lieu à Montréal. Des mandats d’arrêt sont lancés et les chefs patriotes sont arrêtés ou choisissent de s’exiler alors qu’éclate la révolte armée. La victoire des patriotes à Saint-Denis ne laisse pas augurer la suite des choses, les défaites s’accumulant tant au Bas-Canada qu’au Haut-Canada. Les rébellions de 1837 et de 1838 sont matées, des centaines d’individus sont appréhendés, certains sont condamnés à l’exil et d’autres sont exécutés. Lord Durham est envoyé par Londres pour enquêter. Il prend la mesure des effets qu’ont engendrés le refus d’accorder la responsabilité ministérielle à la Chambre d’assemblée et la concentration des pouvoirs entre les mains de la « clique du Château » ou du Family Compact . De plus, il constate la « crise raciale » qui divise la colonie du Bas-Canada. L’union des deux Canada, avec comme objectif l’assimilation des Canadiens, est recommandée. La caractérisation de la période 1791-1840 repose sur l’établissement et la mise en relation des éléments distinctifs qui en permettent la description. Elle conduit à l’établissement d’une chronologie cohérente révélant la succession des événements et nécessite la considération d’éléments géographiques utiles à leur compréhension. Elle révèle la perspective et l’apport des différents acteurs qui ont joué un rôle significatif dans le parcours de la société. Elle amène les élèves à lier entre elles plusieurs informations relatives aux différents aspects de société pour décrire comment étaient les choses au Bas-Canada avant l’adoption de l’Acte d’Union. L’interprétation a pour objet Les revendications et les luttes nationales . Elle amène les élèves à expliquer la montée du nationalisme dans une colonie en quête d’autonomie politique. La réalité sociale évoque le changement, les transformations; elle met en valeur l’interaction entre les aspects de société et favorise l’arrimage entre l’histoire politique et l’histoire sociale. Le recours à une méthode d’analyse critique facilite l’analyse des changements et des continuités de même que celle des causes et des conséquences qui expliquent cette réalité. L’étude de la réalité sociale mène à la découverte de multiples perspectives dont la prise en compte permet d’assurer la validité de l’interprétation.",
+      "page": 43,
+      "themes": [
+        {
+          "id": "HQC-P4-T01",
+          "theme": "Acte constitutionnel",
+          "elements": [
+            {
+              "id": "HQC-P4-T01-a",
+              "texte": "Chambre d’assemblée et Conseil législatif"
+            },
+            {
+              "id": "HQC-P4-T01-b",
+              "texte": "Gouverneur et Conseil exécutif"
+            },
+            {
+              "id": "HQC-P4-T01-c",
+              "texte": "Droit de vote et d’éligibilité des hommes et des femmes"
+            },
+            {
+              "id": "HQC-P4-T01-d",
+              "texte": "Territoires du Bas-Canada et du Haut-Canada"
+            }
+          ]
+        },
+        {
+          "id": "HQC-P4-T02",
+          "theme": "Débats parlementaires",
+          "elements": [
+            {
+              "id": "HQC-P4-T02-a",
+              "texte": "Autorité du gouverneur"
+            },
+            {
+              "id": "HQC-P4-T02-b",
+              "texte": "Sujets débattus à la Chambre d’assemblée"
+            },
+            {
+              "id": "HQC-P4-T02-c",
+              "texte": "Partis politiques"
+            }
+          ]
+        },
+        {
+          "id": "HQC-P4-T03",
+          "theme": "Nationalismes",
+          "elements": [
+            {
+              "id": "HQC-P4-T03-a",
+              "texte": "Dualité linguistique"
+            },
+            {
+              "id": "HQC-P4-T03-b",
+              "texte": "Nationalisme britannique"
+            },
+            {
+              "id": "HQC-P4-T03-c",
+              "texte": "Nationalisme canadien"
+            }
+          ]
+        },
+        {
+          "id": "HQC-P4-T04",
+          "theme": "Idées libérales et républicaines",
+          "elements": [
+            {
+              "id": "HQC-P4-T04-a",
+              "texte": "Mouvement occidental de libération nationale"
+            },
+            {
+              "id": "HQC-P4-T04-b",
+              "texte": "Libéralisme politique"
+            },
+            {
+              "id": "HQC-P4-T04-c",
+              "texte": "Républicanisme"
+            },
+            {
+              "id": "HQC-P4-T04-d",
+              "texte": "Presse écrite"
+            }
+          ]
+        },
+        {
+          "id": "HQC-P4-T05",
+          "theme": "Population",
+          "elements": [
+            {
+              "id": "HQC-P4-T05-a",
+              "texte": "Composition de la population du Bas-Canada et du Haut-Canada"
+            },
+            {
+              "id": "HQC-P4-T05-b",
+              "texte": "Accroissement de la population du Bas-Canada et du Haut-Canada"
+            },
+            {
+              "id": "HQC-P4-T05-c",
+              "texte": "Groupes sociaux"
+            },
+            {
+              "id": "HQC-P4-T05-d",
+              "texte": "Agents des Indiens"
+            },
+            {
+              "id": "HQC-P4-T05-e",
+              "texte": "Abolition de l’esclavage"
+            }
+          ]
+        },
+        {
+          "id": "HQC-P4-T06",
+          "theme": "Soulèvements de 1837-1838",
+          "elements": [
+            {
+              "id": "HQC-P4-T06-a",
+              "texte": "Les 92 résolutions"
+            },
+            {
+              "id": "HQC-P4-T06-b",
+              "texte": "Les résolutions Russell"
+            },
+            {
+              "id": "HQC-P4-T06-c",
+              "texte": "Assemblées populaires"
+            },
+            {
+              "id": "HQC-P4-T06-d",
+              "texte": "Mesures de répression prises par l’État colonial"
+            },
+            {
+              "id": "HQC-P4-T06-e",
+              "texte": "Haut et bas clergés catholiques"
+            },
+            {
+              "id": "HQC-P4-T06-f",
+              "texte": "Conflit armé"
+            },
+            {
+              "id": "HQC-P4-T06-g",
+              "texte": "Déclaration d’indépendance du Bas-Canada"
+            },
+            {
+              "id": "HQC-P4-T06-h",
+              "texte": "Suspension de la constitution"
+            },
+            {
+              "id": "HQC-P4-T06-i",
+              "texte": "Rébellions au Haut-Canada"
+            }
+          ]
+        },
+        {
+          "id": "HQC-P4-T07",
+          "theme": "Capitaux et infrastructures",
+          "elements": [
+            {
+              "id": "HQC-P4-T07-a",
+              "texte": "Création des banques"
+            },
+            {
+              "id": "HQC-P4-T07-b",
+              "texte": "Construction de routes et de ponts"
+            },
+            {
+              "id": "HQC-P4-T07-c",
+              "texte": "Construction de canaux"
+            },
+            {
+              "id": "HQC-P4-T07-d",
+              "texte": "Construction de chemins de fer"
+            }
+          ]
+        },
+        {
+          "id": "HQC-P4-T08",
+          "theme": "Agriculture",
+          "elements": [
+            {
+              "id": "HQC-P4-T08-a",
+              "texte": "Organisation du territoire"
+            },
+            {
+              "id": "HQC-P4-T08-b",
+              "texte": "Corn Laws"
+            },
+            {
+              "id": "HQC-P4-T08-c",
+              "texte": "Culture intensive du blé"
+            },
+            {
+              "id": "HQC-P4-T08-d",
+              "texte": "Crise des années 1830"
+            }
+          ]
+        },
+        {
+          "id": "HQC-P4-T09",
+          "theme": "Commerce des fourrures",
+          "elements": [
+            {
+              "id": "HQC-P4-T09-a",
+              "texte": "Expansion des territoires exploités"
+            },
+            {
+              "id": "HQC-P4-T09-b",
+              "texte": "Marché de la fourrure"
+            },
+            {
+              "id": "HQC-P4-T09-c",
+              "texte": "Fusion des compagnies"
+            }
+          ]
+        },
+        {
+          "id": "HQC-P4-T10",
+          "theme": "Commerce du bois",
+          "elements": [
+            {
+              "id": "HQC-P4-T10-a",
+              "texte": "Tarifs préférentiels"
+            },
+            {
+              "id": "HQC-P4-T10-b",
+              "texte": "Blocus continental"
+            },
+            {
+              "id": "HQC-P4-T10-c",
+              "texte": "Transformation du bois"
+            },
+            {
+              "id": "HQC-P4-T10-d",
+              "texte": "Construction navale"
+            },
+            {
+              "id": "HQC-P4-T10-e",
+              "texte": "Métiers"
+            },
+            {
+              "id": "HQC-P4-T10-f",
+              "texte": "Territoires exploités"
+            }
+          ]
+        },
+        {
+          "id": "HQC-P4-T11",
+          "theme": "Mouvements migratoires",
+          "elements": [
+            {
+              "id": "HQC-P4-T11-a",
+              "texte": "Conditions sociales et économiques en Grande-Bretagne"
+            },
+            {
+              "id": "HQC-P4-T11-b",
+              "texte": "Épidémies et quarantaine"
+            },
+            {
+              "id": "HQC-P4-T11-c",
+              "texte": "Lieux d’établissement des immigrants"
+            },
+            {
+              "id": "HQC-P4-T11-d",
+              "texte": "Émigration vers les États-Unis"
+            },
+            {
+              "id": "HQC-P4-T11-e",
+              "texte": "Migration vers les villes"
+            },
+            {
+              "id": "HQC-P4-T11-f",
+              "texte": "Régions de colonisation"
+            }
+          ]
+        },
+        {
+          "id": "HQC-P4-T12",
+          "theme": "Guerre anglo-américaine de 1812",
+          "elements": [
+            {
+              "id": "HQC-P4-T12-a",
+              "texte": "Alliance avec des Premières Nations"
+            },
+            {
+              "id": "HQC-P4-T12-b",
+              "texte": "Église catholique"
+            },
+            {
+              "id": "HQC-P4-T12-c",
+              "texte": "Participation des Canadiens"
+            }
+          ]
+        },
+        {
+          "id": "HQC-P4-T13",
+          "theme": "Église anglicane",
+          "elements": [
+            {
+              "id": "HQC-P4-T13-a",
+              "texte": "Diocèse de Québec"
+            },
+            {
+              "id": "HQC-P4-T13-b",
+              "texte": "Participation de l’évêque aux conseils"
+            },
+            {
+              "id": "HQC-P4-T13-c",
+              "texte": "Réserves du clergé"
+            },
+            {
+              "id": "HQC-P4-T13-d",
+              "texte": "Écoles publiques gratuites"
+            }
+          ]
+        },
+        {
+          "id": "HQC-P4-T14",
+          "theme": "Rapport Durham",
+          "elements": [
+            {
+              "id": "HQC-P4-T14-a",
+              "texte": "Exercice du pouvoir"
+            },
+            {
+              "id": "HQC-P4-T14-b",
+              "texte": "Crise raciale"
+            },
+            {
+              "id": "HQC-P4-T14-c",
+              "texte": "Union des deux Canada"
+            },
+            {
+              "id": "HQC-P4-T14-d",
+              "texte": "Assimilation des Canadiens"
+            },
+            {
+              "id": "HQC-P4-T14-e",
+              "texte": "Responsabilité ministérielle"
+            }
+          ]
+        }
+      ],
+      "concepts_particuliers": [
+        "Bourgeoisie",
+        "Nationalisme",
+        "Parlementarisme"
+      ]
+    },
+    {
+      "id": "HQC-P5",
+      "niveau": "S4",
+      "bornes": "1840-1896",
+      "titre": "La formation du régime fédéral canadien",
+      "realite_sociale": "La coexistence de deux nations au Bas-Canada et la privation d’un gouvernement responsable dans les deux colonies formées sous l’Acte constitutionnel sont, selon Lord Durham, à l’origine de tensions ethnolinguistiques et politiques. Londres réagit promptement à la publication du Rapport sur les affaires de l’Amérique septentrionale britannique . En 1840, l’union des colonies du Bas-Canada et du Haut-Canada est réalisée. Le sentiment d’appartenance à la nation canadienne, développé au début du 19 e siècle, est éprouvé par l’Acte d’Union, qui vise l’assimilation du Canada français, dont le poids politique décroît. Dans la nouvelle assemblée législative, le Bas-Canada est représenté par 42 députés, autant que le Haut-Canada, moins populeux. L’anglais est la langue officielle au parlement et la dette élevée du Haut-Canada est reportée dans le budget de la Province du Canada. L’échec des rébellions, le renouvellement de la classe politique et l’influence accrue de l’Église catholique, notamment, tempèrent l’exacerbation des Canadiens français. Les relations économiques entre la métropole et la colonie sont en mutation. Progressivement, Londres abandonne ses tarifs préférentiels au profit du libre-échange et laisse à la colonie l’initiative de son développement économique. Des liens commerciaux plus étroits se tissent avec les États-Unis. L’accumulation de capitaux, par des marchands de Montréal et de Québec, essentiellement d’origine britannique, le développement des réseaux de transport ferroviaire et fluvial ainsi que les progrès techniques favorisent, entre autres, une première phase d’industrialisation dans la vallée du Saint-Laurent. Des manufactures s’établissent et la production se mécanise. Des villes croissent, d’autres naissent. L’urbanisation s’accélère, tandis que le développement des services publics et d’hygiène peine pour suivre le pas. Un irrémédiable processus de prolétarisation est amorcé. Les citadins, dont de nouveaux venus issus de milieux ruraux ou de l’immigration européenne, toujours en hausse, grossissent les rangs des travailleurs peu qualifiés exécutant des tâches de plus en plus répétitives. L’exploitation d’une main-d’œuvre bon marché, dont font les frais, entre autres, femmes et enfants, maximise les profits de la bourgeoisie d’affaires. Les difficiles conditions de travail des classes populaires conduisent à des grèves qu’encouragent des syndicats qui comptent un nombre croissant de membres. La situation socioéconomique d’un grand nombre de familles est précaire. La recherche d’emploi conduit à une émigration sans précédent de Canadiens français vers les États-Unis, mouvement que les autorités religieuses et civiles tentent d’endiguer, notamment en ouvrant de nouvelles régions de colonisation, et ce, souvent en empiétant sur des territoires occupés par des Autochtones. Les familles qui s’y installent s’adonnent, là comme ailleurs en région, à une agriculture de subsistance et à un travail pour une industrie forestière en croissance, pendant qu’à proximité des villes et des villages une agriculture de marché se développe. L’Église catholique s’impose désormais comme principal acteur dans la préservation des droits et de l’identité de la population canadienne-française, dont certaines manifestations socioculturelles sont par ailleurs le reflet. Les effectifs religieux sont gonflés par une ferveur nouvelle et l’arrivée d’un grand nombre de communautés en provenance de France. Déjà responsables des hôpitaux et des écoles, prêtres, sœurs et frères animent et soutiennent la majorité des institutions sociales auxquelles contribuent aussi les femmes de la bourgeoisie. Les élites religieuses catholiques s’appuient sur un nationalisme de survivance et profitent du mouvement ultramontain pour faire la promotion d’une Église influente dont les valeurs conservatrices se trouvent en opposition avec les valeurs libérales, notamment défendues par l’Institut canadien. À travers ces clivages idéologiques, la place des femmes, exclues de la sphère politique dans la seconde moitié du 19 siècle, est de plus en plus sujette à des remises en question. L’approche des successeurs de Papineau repose sur la participation active du Bas-Canada aux affaires de la colonie. L’alliance réformiste de Louis-Hippolyte LaFontaine et de Robert Baldwin conduit ultimement à l’application, en 1848, de la responsabilité ministérielle. Le bill des indemnités, adopté sous l’égide de ce principe démocratique, amplifie la grogne entre les tories et les réformistes. Les troubles de 1849 sont suivis d’une ère d’instabilité politique dans la décennie 1850. Celle-ci n’est calmée qu’en 1867, année charnière de l’histoire du Québec et du Canada, une fois l’Acte de l’Amérique du Nord britannique sanctionné. Les Canadiens d’origine britannique, majoritaires dans la nouvelle entité territoriale, les Canadiens français, essentiellement concentrés au Québec, et les peuples autochtones des anciennes colonies sont réunis dans un système fédéral avec, à sa tête, le conservateur John A. Macdonald, le premier à occuper le poste de premier ministre du Canada. Le régime fédéral canadien orchestre le partage des pouvoirs entre Londres, Ottawa et les provinces, notamment dans les affaires sociales et juridiques, telles que l’éducation, les langues et les lois civiles, et en ce qui a trait aux populations autochtones pour la plupart désormais soumises à la Loi sur les Indiens de 1876. Le Dominion du Canada naît toutefois de la conciliation d’un certain nombre d’autres intérêts, notamment économiques. La fédération contribue au développement d’un marché intérieur que stimulera tant bien que mal, en réponse aux contrecoups de l’économie mondiale, la Politique nationale. Limité au centre et à l’est d’abord, le territoire canadien prend de l’expansion vers l’ouest. La réunion des vastes étendues territoriales au nord du 49 parallèle sous une même entité politique ne se fait toutefois pas sans heurts. L’opposition des Métis à l’annexion de leurs territoires et des débats sur les droits scolaires des catholiques génèrent des tensions entre les communautés franco-catholiques et anglo-protestantes. Ces tensions s’ajoutent à des différends entre les provinces et l’État fédéral, de l’ampleur desquels témoigne la première conférence interprovinciale instituée par Honoré Mercier, où les premiers ministres promeuvent l’autonomie provinciale. Le sentiment nationaliste des Canadiens français est relancé. L’élection du gouvernement de Wilfrid Laurier, qui coïncide avec le début d’une deuxième phase d’industrialisation au Canada, annonce la remise en question des politiques conservatrices et le début d’un cycle d’affirmation nationale, à l’échelle canadienne cette fois. La caractérisation de la période 1840-1896 repose sur l’établissement et la mise en relation des éléments distinctifs qui en permettent la description. Elle conduit à l’établissement d’une chronologie cohérente révélant la succession des événements et nécessite la considération d’éléments géographiques utiles à leur compréhension. Elle révèle la perspective et l’apport des différents acteurs qui ont joué un rôle significatif dans le parcours de la société. Elle amène les élèves à lier entre elles plusieurs informations relatives aux différents aspects de société pour décrire comment étaient les choses à l’époque de la Province du Canada et au cours des premières décennies du Dominion du Canada. L’interprétation a pour objet La formation du régime fédéral canadien . Elle amène les élèves à expliquer la mise en place d’un cadre politique dans une période de bouleversements sociodémographiques et économiques. La réalité sociale évoque le changement, les transformations; elle met en valeur l’interaction entre les aspects de société et favorise l’arrimage entre l’histoire politique et l’histoire sociale. Le recours à une méthode d’analyse critique facilite l’analyse des changements et des continuités de même que celle des causes et des conséquences qui expliquent cette réalité. L’étude de la réalité sociale mène à la découverte de multiples perspectives dont la prise en compte permet d’assurer la validité de l’interprétation.",
+      "page": 50,
+      "themes": [
+        {
+          "id": "HQC-P5-T01",
+          "theme": "Acte d’Union",
+          "elements": [
+            {
+              "id": "HQC-P5-T01-a",
+              "texte": "Contexte sociopolitique et économique"
+            },
+            {
+              "id": "HQC-P5-T01-b",
+              "texte": "Structure politique"
+            },
+            {
+              "id": "HQC-P5-T01-c",
+              "texte": "Dispositions administratives"
+            },
+            {
+              "id": "HQC-P5-T01-d",
+              "texte": "Territoire de la Province du Canada"
+            }
+          ]
+        },
+        {
+          "id": "HQC-P5-T02",
+          "theme": "Économie coloniale",
+          "elements": [
+            {
+              "id": "HQC-P5-T02-a",
+              "texte": "Adoption du libre-échange par le Royaume-Uni"
+            },
+            {
+              "id": "HQC-P5-T02-b",
+              "texte": "Traité de réciprocité avec les États-Unis"
+            }
+          ]
+        },
+        {
+          "id": "HQC-P5-T03",
+          "theme": "Gouvernement responsable",
+          "elements": [
+            {
+              "id": "HQC-P5-T03-a",
+              "texte": "Alliance des Réformistes"
+            },
+            {
+              "id": "HQC-P5-T03-b",
+              "texte": "Fonctionnement du gouvernement responsable"
+            },
+            {
+              "id": "HQC-P5-T03-c",
+              "texte": "Instabilité ministérielle"
+            }
+          ]
+        },
+        {
+          "id": "HQC-P5-T04",
+          "theme": "Affaires indiennes",
+          "elements": [
+            {
+              "id": "HQC-P5-T04-a",
+              "texte": "Création des réserves indiennes au Bas-Canada"
+            },
+            {
+              "id": "HQC-P5-T04-b",
+              "texte": "Missions catholiques et protestantes"
+            },
+            {
+              "id": "HQC-P5-T04-c",
+              "texte": "Loi sur les Indiens"
+            }
+          ]
+        },
+        {
+          "id": "HQC-P5-T05",
+          "theme": "Acte de l’Amérique du Nord britannique",
+          "elements": [
+            {
+              "id": "HQC-P5-T05-a",
+              "texte": "Grande Coalition"
+            },
+            {
+              "id": "HQC-P5-T05-b",
+              "texte": "Conférences"
+            },
+            {
+              "id": "HQC-P5-T05-c",
+              "texte": "Structure du fédéralisme canadien"
+            },
+            {
+              "id": "HQC-P5-T05-d",
+              "texte": "Territoire du Dominion du Canada"
+            }
+          ]
+        },
+        {
+          "id": "HQC-P5-T06",
+          "theme": "Relations fédérales-provinciales",
+          "elements": [
+            {
+              "id": "HQC-P5-T06-a",
+              "texte": "Champs de compétence"
+            },
+            {
+              "id": "HQC-P5-T06-b",
+              "texte": "Répartition des revenus"
+            },
+            {
+              "id": "HQC-P5-T06-c",
+              "texte": "Conférence interprovinciale"
+            },
+            {
+              "id": "HQC-P5-T06-d",
+              "texte": "Soulèvements des Métis"
+            },
+            {
+              "id": "HQC-P5-T06-e",
+              "texte": "Écoles catholiques hors Québec"
+            }
+          ]
+        },
+        {
+          "id": "HQC-P5-T07",
+          "theme": "Politique nationale",
+          "elements": [
+            {
+              "id": "HQC-P5-T07-a",
+              "texte": "Crise économique de 1873"
+            },
+            {
+              "id": "HQC-P5-T07-b",
+              "texte": "Politique tarifaire"
+            },
+            {
+              "id": "HQC-P5-T07-c",
+              "texte": "Chemin de fer transcontinental du Canadien Pacifique"
+            },
+            {
+              "id": "HQC-P5-T07-d",
+              "texte": "Colonisation des terres de l’Ouest"
+            }
+          ]
+        },
+        {
+          "id": "HQC-P5-T08",
+          "theme": "Migrations",
+          "elements": [
+            {
+              "id": "HQC-P5-T08-a",
+              "texte": "Exode rural"
+            },
+            {
+              "id": "HQC-P5-T08-b",
+              "texte": "Émigration vers les États-Unis"
+            },
+            {
+              "id": "HQC-P5-T08-c",
+              "texte": "Ouverture de régions de colonisation"
+            },
+            {
+              "id": "HQC-P5-T08-d",
+              "texte": "Immigration transatlantique"
+            }
+          ]
+        },
+        {
+          "id": "HQC-P5-T09",
+          "theme": "Rôle des femmes",
+          "elements": [
+            {
+              "id": "HQC-P5-T09-a",
+              "texte": "Statuts juridique et politique"
+            },
+            {
+              "id": "HQC-P5-T09-b",
+              "texte": "Secteurs d’activité"
+            },
+            {
+              "id": "HQC-P5-T09-c",
+              "texte": "Communautés religieuses féminines"
+            },
+            {
+              "id": "HQC-P5-T09-d",
+              "texte": "Organisations féminines anglophones"
+            }
+          ]
+        },
+        {
+          "id": "HQC-P5-T10",
+          "theme": "Présence de l’Église catholique",
+          "elements": [
+            {
+              "id": "HQC-P5-T10-a",
+              "texte": "Ultramontanisme"
+            },
+            {
+              "id": "HQC-P5-T10-b",
+              "texte": "Anticléricalisme"
+            },
+            {
+              "id": "HQC-P5-T10-c",
+              "texte": "Nationalisme de survivance"
+            },
+            {
+              "id": "HQC-P5-T10-d",
+              "texte": "Dualisme confessionnel des institutions sociales"
+            }
+          ]
+        },
+        {
+          "id": "HQC-P5-T11",
+          "theme": "Manifestations socioculturelles",
+          "elements": [
+            {
+              "id": "HQC-P5-T11-a",
+              "texte": "Œuvres patriotiques"
+            },
+            {
+              "id": "HQC-P5-T11-b",
+              "texte": "Émergence de la littérature féminine"
+            },
+            {
+              "id": "HQC-P5-T11-c",
+              "texte": "Enseignement supérieur"
+            }
+          ]
+        },
+        {
+          "id": "HQC-P5-T12",
+          "theme": "Première phase d’industrialisation",
+          "elements": [
+            {
+              "id": "HQC-P5-T12-a",
+              "texte": "Capitalisme industriel"
+            },
+            {
+              "id": "HQC-P5-T12-b",
+              "texte": "Réseau de transport continental de l’est"
+            },
+            {
+              "id": "HQC-P5-T12-c",
+              "texte": "Secteurs de production"
+            },
+            {
+              "id": "HQC-P5-T12-d",
+              "texte": "Division du travail"
+            },
+            {
+              "id": "HQC-P5-T12-e",
+              "texte": "Conditions de vie et de travail des hommes, des femmes et des enfants"
+            },
+            {
+              "id": "HQC-P5-T12-f",
+              "texte": "Mouvement ouvrier"
+            },
+            {
+              "id": "HQC-P5-T12-g",
+              "texte": "Urbanisation"
+            }
+          ]
+        },
+        {
+          "id": "HQC-P5-T13",
+          "theme": "Industrie forestière",
+          "elements": [
+            {
+              "id": "HQC-P5-T13-a",
+              "texte": "Régions d’exploitation"
+            },
+            {
+              "id": "HQC-P5-T13-b",
+              "texte": "Industrie du bois de sciage"
+            }
+          ]
+        },
+        {
+          "id": "HQC-P5-T14",
+          "theme": "Exploitations agricoles",
+          "elements": [
+            {
+              "id": "HQC-P5-T14-a",
+              "texte": "Production laitière"
+            },
+            {
+              "id": "HQC-P5-T14-b",
+              "texte": "Mécanisation"
+            },
+            {
+              "id": "HQC-P5-T14-c",
+              "texte": "Droits seigneuriaux"
+            }
+          ]
+        }
+      ],
+      "concepts_particuliers": [
+        "Fédéralisme",
+        "Industrialisation",
+        "Migration"
+      ]
+    },
+    {
+      "id": "HQC-P6",
+      "niveau": "S4",
+      "bornes": "1896-1945",
+      "titre": "Les nationalismes et l’autonomie du Canada",
+      "realite_sociale": "La première phase d’industrialisation se déroule dans la seconde moitié du 19 e siècle, alors que le Canada intègre progressivement l’économie capitaliste. Le développement de la fédération et la Politique nationale stimulent la production industrielle et favorisent l’expansion territoriale. L’année 1896 constitue un tournant dans le développement social, économique et politique du dominion britannique. L’élection de Laurier, premier Canadien français à occuper le poste de premier ministre du Canada, puis celle d’un gouvernement libéral à Québec un an plus tard augurent la montée en force du libéralisme. Les politiques engagées par les gouvernements comme l’action des mouvements d’affirmation contribuent alors à redéfinir l’autonomie du Canada sur le plan politique, économique et socioculturel. Le contexte sociopolitique canadien évolue. De nouvelles provinces font leur entrée dans la fédération. Un nombre croissant d’immigrants, dont plusieurs sont originaires des pays de l’est et du sud de l’Europe, peuplent l’Ouest et les villes du centre. Bien qu’un ensemble de droits soient toujours refusés aux femmes, leur place évolue graduellement. Elles sont nombreuses à s’unir dans des organisations féministes anglophones laïques, dont la Montreal Suffrage Association , présidée par Carrie Derick, ou franco-catholiques, telles que la Fédération nationale Saint-Jean-Baptiste, fondée par Marie Lacoste Gérin-Lajoie et Caroline Béïque. Dans l’ensemble formé par l’Acte de l’Amérique du Nord britannique, les Premières Nations, toujours soumises à une politique d’assimilation qui s’étend graduellement à la nation inuite, peinent à maintenir leurs modes de vie traditionnels; la proportion du Québec dans la population canadienne est en recul; en 1911, 22 % des Canadiens sont nés à l’étranger. L’opposition marquée de nombreux Canadiens français à la participation du Canada à la guerre des Boers, à l’imposition de la conscription lors de la Première Guerre mondiale, plus largement à l’impérialisme, ainsi qu’à l’application du règlement 17 en Ontario témoigne de la teneur et de l’évolution des débats entre les nationalismes qui cohabitent au Canada. Dans la foulée, l’autonomie politique du Canada à l’égard de la Grande-Bretagne s’accroît. Elle culmine légalement avec l’obtention du statut de Westminster en 1931. Sur le plan diplomatique, le pays peut désormais entretenir des relations égalitaires avec le reste du monde. Huit ans plus tard, c’est le Canada lui-même qui déclare la guerre à l’Allemagne et c’est à son gouvernement seul d’organiser l’effort de guerre et la mobilisation de la population, conscrite ou non. Le degré d’autonomie du Canada est aussi tributaire d’impératifs économiques. Au tournant du siècle, les politiques libérales laissent l’initiative du développement économique aux entreprises privées, ce qui donne le ton à la nouvelle phase d’industrialisation qui s’amorce. Au Québec, celle-ci est marquée par l’exploitation des ressources naturelles, favorable au développement des régions où les minières et les papetières profitent d’une demande accrue, et de l’arrivée massive de capitaux américains. La deuxième phase est aussi celle de la concentration des entreprises et du développement de l’industrie militaire, financée par les impôts et la vente d’obligations de la Victoire. La prospérité d’avant-guerre et celle, plus momentanée, de l’économie de guerre et des « années folles » contrastent avec la misère vécue pendant la crise économique qui a suivi l’effondrement de la bourse new-yorkaise en 1929. En période de croissance, les usines tournent à plein régime et les échanges économiques sont soutenus. Le marché de l’emploi est stable; les organisations syndicales se développent. En période de crise, le chômage augmente et la mobilisation des travailleurs est ardue. Les femmes contribuent davantage à l’industrie, pour laquelle elles constituent une main-d’œuvre bon marché, souvent temporaire, et accèdent aux emplois de services, qui se multiplient. La société industrielle accentue les clivages sociaux, l’effort ultime de restriction revenant systématiquement aux populations les moins nanties. L’urbanisation du Québec se poursuit. Le recensement de 1921 confirme que la population devient majoritairement urbaine dans les années 1910. Montréal accueille la majorité des nouveaux venus, dont la sélection est étroitement contrôlée. Québec, Hull et Sherbrooke, entre autres, attirent aussi de nouveaux résidents. La ville offre de nombreux services à ses habitants, qui consomment des biens et des loisirs plus accessibles. Son territoire s’étend, parfois sur des terres destinées à l’agriculture, un secteur en pleine transformation. Moins nombreuses, les fermes sont exploitées par des agriculteurs de mieux en mieux formés et outillés. Le développement des moyens de communication et des transports facilite les échanges entre la ville et la campagne, qui demeurent néanmoins profondément contrastées. Dans les années 1920, alors que la doctrine du catholicisme social diffusée en Occident conduit notamment, au Québec, à la création de syndicats catholiques, se développe un nouveau courant nationaliste Groulx un ardent artisan. Œuvrant, entre autres, au développement du mouvement coopératif en réponse aux inégalités socioéconomiques, l’Église est omniprésente dans les affaires économiques et sociales. L’ampleur de la crise des années 1930, qui entraîne une remise en question du capitalisme, contraint toutefois l’État à intervenir davantage. Les assemblées législatives votent des lois, mettent sur pied des programmes sociaux, créent des chantiers de travaux publics et encouragent la colonisation pour porter secours aux chômeurs. Les pressants besoins de réformes économiques, politiques et sociales qui naissent de la Grande dépression favorisent la prise du pouvoir par l’Union nationale. Le premier mandat de Maurice Duplessis, marqué par les lois antisyndicales et les politiques agricoles, conforte toutefois, par la faiblesse des interventions en matière d’assistance sociale, l’aile conservatrice du parti ainsi que les autorités cléricales. La crainte d’une seconde conscription, notamment, permet aux idées progressistes du gouvernement d’Adélard Godbout de s’imposer le temps d’un mandat, secouant au passage le joug du clergé catholique. Ayant obtenu le droit de vote au fédéral en 1918, sous l’effet des revendications d’activistes de plusieurs provinces canadiennes, les femmes ont gain de cause au Québec en 1940. Plusieurs décennies de militantisme féminin ont permis l’obtention de certains droits politiques, juridiques et sociaux pour la majorité des Québécoises. Le gouvernement libéral légifère par ailleurs dans le domaine de l’éducation, notamment en rendant la fréquentation de l’école obligatoire, crée de nouveaux ministères et fonde la Commission hydroélectrique de Québec, Hydro-Québec. La fin de la Seconde Guerre mondiale, la plus longue et la plus meurtrière du 20 e siècle, ouvre plus que jamais la porte à une nouvelle phase de modernisation dont la Révolution tranquille constitue la principale manifestation. La caractérisation de la période 1896-1945 repose sur l’établissement et la mise en relation des éléments distinctifs qui en permettent la description. Elle conduit à l’établissement d’une chronologie cohérente révélant la succession des événements et nécessite la considération d’éléments géographiques utiles à leur compréhension. Elle révèle la perspective et l’apport des différents acteurs qui ont joué un rôle significatif dans le parcours de la société. Elle amène les élèves à lier entre elles plusieurs informations relatives aux différents aspects de société pour décrire comment étaient les choses dans le Québec de la première moitié du 20 e siècle. L’interprétation a pour objet Les nationalismes et l’autonomie du Canada . Elle amène les élèves à expliquer le maintien des particularités linguistiques et culturelles du Québec alors que se redéfinit l’autonomie politique, économique et socioculturelle du Canada. La réalité sociale évoque le changement, les transformations; elle met en valeur l’interaction entre les aspects de société et favorise l’arrimage entre l’histoire politique et l’histoire sociale. Le recours à une méthode d’analyse critique facilite l’analyse des changements et des continuités de même que celle des causes et des conséquences qui expliquent cette réalité. L’étude de la réalité sociale mène à la découverte de multiples perspectives dont la prise en compte permet d’assurer la validité de l’interprétation.",
+      "page": 56,
+      "themes": [
+        {
+          "id": "HQC-P6-T01",
+          "theme": "Statut du Canada dans l’Empire britannique",
+          "elements": [
+            {
+              "id": "HQC-P6-T01-a",
+              "texte": "Impérialisme"
+            },
+            {
+              "id": "HQC-P6-T01-b",
+              "texte": "Nationalisme canadien-français"
+            },
+            {
+              "id": "HQC-P6-T01-c",
+              "texte": "Soutien militaire canadien"
+            },
+            {
+              "id": "HQC-P6-T01-d",
+              "texte": "Statut de Westminster"
+            }
+          ]
+        },
+        {
+          "id": "HQC-P6-T02",
+          "theme": "Clérico-nationalisme",
+          "elements": [
+            {
+              "id": "HQC-P6-T02-a",
+              "texte": "L’Action française"
+            },
+            {
+              "id": "HQC-P6-T02-b",
+              "texte": "Programme de restauration sociale"
+            },
+            {
+              "id": "HQC-P6-T02-c",
+              "texte": "Rôle des francophones dans l’économie"
+            }
+          ]
+        },
+        {
+          "id": "HQC-P6-T03",
+          "theme": "Politique intérieure canadienne",
+          "elements": [
+            {
+              "id": "HQC-P6-T03-a",
+              "texte": "Ère libérale"
+            },
+            {
+              "id": "HQC-P6-T03-b",
+              "texte": "Pouvoirs fiscaux"
+            },
+            {
+              "id": "HQC-P6-T03-c",
+              "texte": "Minorité franco-catholique"
+            },
+            {
+              "id": "HQC-P6-T03-d",
+              "texte": "Gouverne des populations des Premières Nations et de la nation inuite"
+            },
+            {
+              "id": "HQC-P6-T03-e",
+              "texte": "Territoire canadien"
+            }
+          ]
+        },
+        {
+          "id": "HQC-P6-T04",
+          "theme": "Deuxième phase d’industrialisation",
+          "elements": [
+            {
+              "id": "HQC-P6-T04-a",
+              "texte": "Ressources naturelles"
+            },
+            {
+              "id": "HQC-P6-T04-b",
+              "texte": "Production manufacturière et domestique"
+            },
+            {
+              "id": "HQC-P6-T04-c",
+              "texte": "Industrie de guerre"
+            },
+            {
+              "id": "HQC-P6-T04-d",
+              "texte": "Capitalisme de monopole"
+            },
+            {
+              "id": "HQC-P6-T04-e",
+              "texte": "Investissements étrangers"
+            },
+            {
+              "id": "HQC-P6-T04-f",
+              "texte": "Rôle de l’État"
+            },
+            {
+              "id": "HQC-P6-T04-g",
+              "texte": "Échanges commerciaux"
+            }
+          ]
+        },
+        {
+          "id": "HQC-P6-T05",
+          "theme": "Milieux urbains",
+          "elements": [
+            {
+              "id": "HQC-P6-T05-a",
+              "texte": "Santé publique"
+            },
+            {
+              "id": "HQC-P6-T05-b",
+              "texte": "Infrastructures"
+            },
+            {
+              "id": "HQC-P6-T05-c",
+              "texte": "Services"
+            }
+          ]
+        },
+        {
+          "id": "HQC-P6-T06",
+          "theme": "Culture de masse",
+          "elements": [
+            {
+              "id": "HQC-P6-T06-a",
+              "texte": "Radio"
+            },
+            {
+              "id": "HQC-P6-T06-b",
+              "texte": "Cinéma"
+            },
+            {
+              "id": "HQC-P6-T06-c",
+              "texte": "Romans du terroir"
+            },
+            {
+              "id": "HQC-P6-T06-d",
+              "texte": "Sport professionnel"
+            },
+            {
+              "id": "HQC-P6-T06-e",
+              "texte": "Cabarets"
+            }
+          ]
+        },
+        {
+          "id": "HQC-P6-T07",
+          "theme": "Luttes des femmes",
+          "elements": [
+            {
+              "id": "HQC-P6-T07-a",
+              "texte": "Accès à l’éducation"
+            },
+            {
+              "id": "HQC-P6-T07-b",
+              "texte": "Marché du travail"
+            },
+            {
+              "id": "HQC-P6-T07-c",
+              "texte": "Reconnaissance juridique"
+            },
+            {
+              "id": "HQC-P6-T07-d",
+              "texte": "Droit de vote et d’éligibilité"
+            }
+          ]
+        },
+        {
+          "id": "HQC-P6-T08",
+          "theme": "Mouvement syndical",
+          "elements": [
+            {
+              "id": "HQC-P6-T08-a",
+              "texte": "Syndicats américains et catholiques"
+            },
+            {
+              "id": "HQC-P6-T08-b",
+              "texte": "Grèves"
+            },
+            {
+              "id": "HQC-P6-T08-c",
+              "texte": "Législation ouvrière"
+            }
+          ]
+        },
+        {
+          "id": "HQC-P6-T09",
+          "theme": "Église catholique",
+          "elements": [
+            {
+              "id": "HQC-P6-T09-a",
+              "texte": "Importance de l’effectif religieux"
+            },
+            {
+              "id": "HQC-P6-T09-b",
+              "texte": "Influence morale et culturelle"
+            }
+          ]
+        },
+        {
+          "id": "HQC-P6-T10",
+          "theme": "Éducation et formation technique",
+          "elements": [
+            {
+              "id": "HQC-P6-T10-a",
+              "texte": "Fréquentation scolaire des francophones et des anglophones"
+            },
+            {
+              "id": "HQC-P6-T10-b",
+              "texte": "Législation"
+            },
+            {
+              "id": "HQC-P6-T10-c",
+              "texte": "Scolarisation des garçons et des filles"
+            },
+            {
+              "id": "HQC-P6-T10-d",
+              "texte": "Perfectionnement des pratiques agricoles"
+            }
+          ]
+        },
+        {
+          "id": "HQC-P6-T11",
+          "theme": "Flux migratoires",
+          "elements": [
+            {
+              "id": "HQC-P6-T11-a",
+              "texte": "Origines ethniques des immigrants"
+            },
+            {
+              "id": "HQC-P6-T11-b",
+              "texte": "Structures d’accueil"
+            },
+            {
+              "id": "HQC-P6-T11-c",
+              "texte": "Contrôle de l’immigration"
+            },
+            {
+              "id": "HQC-P6-T11-d",
+              "texte": "Montée de la xénophobie"
+            }
+          ]
+        },
+        {
+          "id": "HQC-P6-T12",
+          "theme": "Première Guerre mondiale",
+          "elements": [
+            {
+              "id": "HQC-P6-T12-a",
+              "texte": "Intérêts nationaux européens"
+            },
+            {
+              "id": "HQC-P6-T12-b",
+              "texte": "Gouvernement de guerre"
+            },
+            {
+              "id": "HQC-P6-T12-c",
+              "texte": "Crise de la conscription"
+            },
+            {
+              "id": "HQC-P6-T12-d",
+              "texte": "Effort de guerre des hommes et des femmes"
+            },
+            {
+              "id": "HQC-P6-T12-e",
+              "texte": "Rétablissement civil des soldats"
+            },
+            {
+              "id": "HQC-P6-T12-f",
+              "texte": "Société des Nations"
+            }
+          ]
+        },
+        {
+          "id": "HQC-P6-T13",
+          "theme": "Grande dépression",
+          "elements": [
+            {
+              "id": "HQC-P6-T13-a",
+              "texte": "Krach boursier de 1929"
+            },
+            {
+              "id": "HQC-P6-T13-b",
+              "texte": "Problèmes socioéconomiques"
+            },
+            {
+              "id": "HQC-P6-T13-c",
+              "texte": "Colonisation"
+            },
+            {
+              "id": "HQC-P6-T13-d",
+              "texte": "Mesures des gouvernements fédéral et provincial"
+            }
+          ]
+        },
+        {
+          "id": "HQC-P6-T14",
+          "theme": "Remise en question du capitalisme",
+          "elements": [
+            {
+              "id": "HQC-P6-T14-a",
+              "texte": "Keynésianisme"
+            },
+            {
+              "id": "HQC-P6-T14-b",
+              "texte": "Idéologies sociopolitiques"
+            }
+          ]
+        },
+        {
+          "id": "HQC-P6-T15",
+          "theme": "Seconde Guerre mondiale",
+          "elements": [
+            {
+              "id": "HQC-P6-T15-a",
+              "texte": "Climat politique et économique européen"
+            },
+            {
+              "id": "HQC-P6-T15-b",
+              "texte": "Gouvernement de guerre"
+            },
+            {
+              "id": "HQC-P6-T15-c",
+              "texte": "Plébiscite sur la conscription"
+            },
+            {
+              "id": "HQC-P6-T15-d",
+              "texte": "Effort de guerre des hommes et des femmes"
+            },
+            {
+              "id": "HQC-P6-T15-e",
+              "texte": "Démobilisation"
+            }
+          ]
+        }
+      ],
+      "concepts_particuliers": [
+        "Impérialisme",
+        "Libéralisme",
+        "Urbanisation"
+      ]
+    },
+    {
+      "id": "HQC-P7",
+      "niveau": "S4",
+      "bornes": "1945-1980",
+      "titre": "La modernisation du Québec et la Révolution tranquille",
+      "realite_sociale": "En 1945, la reddition de l’Allemagne et la capitulation du Japon scellent la fin de la Seconde Guerre mondiale, qui a bouleversé les rapports de force en Occident. Le conflit a fait plus de 40 000 victimes canadiennes. Au retour des soldats, l’inquiétude, la douleur et les privations cèdent lentement le pas à la prospérité économique et à une nouvelle phase de modernisation. Après des années empreintes de conservatisme, le Québec entre, dans les années 1960, dans une ère d’affirmation alors que s’opère irréversiblement un changement dans les mentalités et sur le plan politique. Jusqu’à la crise énergétique des années 1970, le Québec profite d’un contexte mondial favorable à son développement économique. Le commerce, continental d’abord, international ensuite, s’accroît. Les besoins du principal partenaire économique du Canada, les États-Unis, sont multipliés, entre autres, par la guerre froide qui l’oppose à l’URSS. Montréal perd sa suprématie financière et commerciale au profit de Toronto, qui accueille plusieurs Anglo-Québécois, particulièrement dans la décennie 1970, notamment à la suite du transfert de sièges sociaux. La consommation de biens et de services diversifiés contribue plus que jamais à la croissance de l’économie : c’est le début de la société de consommation. Sous l’influence de la culture américaine, les modes de vie tendent à s’uniformiser. Après avoir connu son apogée dans le premier tiers du 20 e siècle, l’influence de l’Église catholique décline; progressivement, la société et les institutions québécoises se laïcisent. L’autorité morale du clergé est remise en question par la promotion et l’adoption de valeurs transmises par des artistes de diverses disciplines, des syndicalistes et des intellectuels ainsi que par certains médias de masse. La population rajeunit sous l’effet du bébé-boum. À la suite de la sédentarisation, le taux d’accroissement naturel est aussi en hausse chez les Autochtones. Leur culture s’effrite toutefois. Entre autres maux, la fréquentation obligatoire des pensionnats, dont l’existence est vouée à la propagation de la culture judéo-chrétienne et à l’assimilation des Autochtones au reste de la population canadienne, contribue à accélérer le déclin de certaines langues autochtones et à fragiliser le tissu social dans plusieurs communautés. Par ailleurs, les territoires ancestraux sont convoités par l’État, qui souhaite poursuivre le développement économique de la province. Les conventions établies avec les Cris, les Inuits et les Naskapis sont représentatives de la nécessaire conciliation entre l’État québécois et les Premières Nations et la nation inuite, au sein desquelles se profile une forme de nationalisme autochtone et émergent de nouveaux leaders. Le bilan migratoire du Québec est positif. Les nouveaux arrivants, dont l’origine est de plus en plus diversifiée, s’installent majoritairement au cœur de la métropole, alors que plusieurs francophones vont peupler sa banlieue. Montréal présente un caractère cosmopolite et poursuit son anglicisation, plusieurs immigrants adoptant la langue anglaise, essentiellement pour des motifs socioéconomiques. En région, où l’exploitation des matières premières stimule l’économie, les producteurs profitent du développement de la technologie agricole. Les fermes prennent de l’expansion et bénéficient, entre autres, du programme d’électrification rurale pour accroître leur rendement. La modernisation du Québec va de pair avec l’accès des femmes aux espaces d’ordinaire occupés par les hommes et une dévalorisation de leurs responsabilités traditionnelles. L’autonomie économique acquise par le travail effectué hors du foyer, particulièrement à partir des années 1960, offre aux femmes une plus grande liberté de choix. Des gains juridiques et sociaux en ce qui a trait au statut des époux, à la contraception, au divorce et à la maternité ponctuent la quête d’égalité. Les femmes font davantage entendre leur voix dans les revendications des travailleurs en cette période où culmine le mouvement syndical, qui se nationalise, se déconfessionnalise et s’anime. Les grèves d’Asbestos et de Murdochville de même que celles des employés des secteurs public et parapublic sont des exemples de l’intensité et de la complexité de certains conflits d’alors. Reporté au pouvoir en 1944, Duplessis privilégie le libéralisme économique tout en perpétuant des politiques sociales conservatrices. Régionalisme et autonomie provinciale face à un État fédéral interventionniste motivent, entre autres, ses actions pendant près de quinze ans, que la mémoire collective rappelle fréquemment à l’esprit par l’expression grande noirceur . Le bref passage de Paul Sauvé annonce un renouveau qu’incarne, dans toute sa mesure, le gouvernement libéral de Jean Lesage, qui met en place, à la suite d’autres leaders occidentaux, les conditions nécessaires au passage à l’État-providence. Les questions nationales et celles des droits linguistiques, sur lesquels portent les projets de loi n 63, 22 et 101, accaparent les actions et les débats des vingt années suivantes, les années 1960 marquant une rupture dans Le Québec vit sa révolution tranquille. Fort d’un large consensus social, l’État québécois est l’instrument de l’accélération de la modernisation de ses institutions et de la promotion de l’identité québécoise. Les principes de l’État-providence sont soutenus par la création de ministères et de sociétés d’État et la professionnalisation de l’administration publique. Les réseaux de la santé et des services sociaux ainsi que le système scolaire sont réformés, des outils d’intervention en matière économique sont créés et une politique étrangère est adoptée, conduisant à la réouverture de bureaux du Québec à l’étranger, notamment à Paris et à Londres. Les transformations socioéconomiques et politiques de même que les changements de mentalités sont les germes tout autant que les fruits d’un courant néonationaliste qui tourne le dos à un nationalisme traditionnel. Le vocable Québécois se substitue à celui de Canadien français . Le milieu culturel, doté d’une première politique, est effervescent avec les Pauline Julien, Félix Leclerc, Alfred Pellan, Mordecai Richler et Michel Tremblay, notamment. Certains artistes comme d’autres membres de la société, dont plusieurs jeunes hommes et femmes, se font porteurs du projet national. Montréal offre une fenêtre sur le Québec et le Canada à l’ensemble du monde avec l’Exposition universelle d’abord, puis avec les Jeux olympiques. Au tournant des années 1970, sous la gouverne de Robert Bourassa au provincial et de Pierre Elliott Trudeau au fédéral, le Québec est le théâtre d’une radicalisation de certains nationalistes. La crise d’Octobre, qui conduit à l’imposition de mesures de guerre, divise le Québec. L’assassinat du ministre Pierre Laporte discrédite le Front de libération du Québec, sans toutefois couper court à la quête d’égalité et d’indépendance du Québec. Fondé à la suite de la création du Ralliement national et du Rassemblement pour l’indépendance nationale, le Parti québécois forme le gouvernement en 1976. Quatre ans plus tard, le sort du Québec dans l’ensemble canadien est remis entre les mains des Québécois, alors que le gouvernement de René Lévesque les consulte lors d’un référendum sur la souveraineté-association. La caractérisation de la période 1945-1980 repose sur l’établissement et la mise en relation des éléments distinctifs qui en permettent la description. Elle conduit à l’établissement d’une chronologie cohérente révélant la succession des événements et nécessite la considération d’éléments géographiques utiles à leur compréhension. Elle révèle la perspective et l’apport des différents acteurs qui ont joué un rôle significatif dans le parcours de la société. Elle amène les élèves à lier entre elles plusieurs informations relatives aux différents aspects de société pour décrire comment étaient les choses dans le Québec de l’après-guerre et à l’époque de la Révolution tranquille. L’interprétation a pour objet La modernisation du Québec et la Révolution tranquille . Elle amène les élèves à expliquer l’évolution des mœurs des Québécois au rythme de la transformation des institutions du Québec et du rôle de l’État. La réalité sociale évoque le changement, les transformations; elle met en valeur l’interaction entre les aspects de société et favorise l’arrimage entre l’histoire politique et l’histoire sociale. Le recours à une méthode d’analyse critique facilite l’analyse des changements et des continuités de même que celle des causes et des conséquences qui expliquent cette réalité. L’étude de la réalité sociale mène à la découverte de multiples perspectives dont la prise en compte permet d’assurer la validité de l’interprétation.",
+      "page": 62,
+      "themes": [
+        {
+          "id": "HQC-P7-T01",
+          "theme": "Rapports de force en Occident",
+          "elements": [
+            {
+              "id": "HQC-P7-T01-a",
+              "texte": "Guerre froide"
+            },
+            {
+              "id": "HQC-P7-T01-b",
+              "texte": "Souveraineté canadienne dans l’Arctique"
+            },
+            {
+              "id": "HQC-P7-T01-c",
+              "texte": "Luttes sociales aux États-Unis et en France"
+            }
+          ]
+        },
+        {
+          "id": "HQC-P7-T02",
+          "theme": "Agglomération urbaine",
+          "elements": [
+            {
+              "id": "HQC-P7-T02-a",
+              "texte": "Banlieue"
+            },
+            {
+              "id": "HQC-P7-T02-b",
+              "texte": "Infrastructures"
+            }
+          ]
+        },
+        {
+          "id": "HQC-P7-T03",
+          "theme": "Accroissement naturel",
+          "elements": [
+            {
+              "id": "HQC-P7-T03-a",
+              "texte": "Bébé-boum"
+            },
+            {
+              "id": "HQC-P7-T03-b",
+              "texte": "Dénatalité"
+            },
+            {
+              "id": "HQC-P7-T03-c",
+              "texte": "Taux de natalité de la population autochtone"
+            }
+          ]
+        },
+        {
+          "id": "HQC-P7-T04",
+          "theme": "Nouveaux arrivants",
+          "elements": [
+            {
+              "id": "HQC-P7-T04-a",
+              "texte": "Communautés culturelles"
+            },
+            {
+              "id": "HQC-P7-T04-b",
+              "texte": "Création du ministère de l’Immigration du Québec"
+            },
+            {
+              "id": "HQC-P7-T04-c",
+              "texte": "Accueil de réfugiés"
+            }
+          ]
+        },
+        {
+          "id": "HQC-P7-T05",
+          "theme": "Développement régional",
+          "elements": [
+            {
+              "id": "HQC-P7-T05-a",
+              "texte": "Modernisation de l’agriculture"
+            },
+            {
+              "id": "HQC-P7-T05-b",
+              "texte": "Protection du territoire agricole"
+            },
+            {
+              "id": "HQC-P7-T05-c",
+              "texte": "Exploitation des ressources naturelles"
+            }
+          ]
+        },
+        {
+          "id": "HQC-P7-T06",
+          "theme": "Fédération canadienne",
+          "elements": [
+            {
+              "id": "HQC-P7-T06-a",
+              "texte": "Programmes fédéraux dans le domaine social"
+            },
+            {
+              "id": "HQC-P7-T06-b",
+              "texte": "Continentalisation de l’économie"
+            },
+            {
+              "id": "HQC-P7-T06-c",
+              "texte": "Commission Laurendeau-Dunton"
+            },
+            {
+              "id": "HQC-P7-T06-d",
+              "texte": "Négociations constitutionnelles"
+            }
+          ]
+        },
+        {
+          "id": "HQC-P7-T07",
+          "theme": "Pensionnats indiens au Québec",
+          "elements": [
+            {
+              "id": "HQC-P7-T07-a",
+              "texte": "Régime des pensionnats indiens du Canada"
+            },
+            {
+              "id": "HQC-P7-T07-b",
+              "texte": "Organisation socio-institutionnelle"
+            },
+            {
+              "id": "HQC-P7-T07-c",
+              "texte": "Activités éducatives"
+            }
+          ]
+        },
+        {
+          "id": "HQC-P7-T08",
+          "theme": "Société de consommation",
+          "elements": [
+            {
+              "id": "HQC-P7-T08-a",
+              "texte": "Influence de la culture américaine"
+            },
+            {
+              "id": "HQC-P7-T08-b",
+              "texte": "Publicité"
+            },
+            {
+              "id": "HQC-P7-T08-c",
+              "texte": "Augmentation du pouvoir d’achat"
+            }
+          ]
+        },
+        {
+          "id": "HQC-P7-T09",
+          "theme": "Période duplessiste",
+          "elements": [
+            {
+              "id": "HQC-P7-T09-a",
+              "texte": "Libéralisme économique"
+            },
+            {
+              "id": "HQC-P7-T09-b",
+              "texte": "Conservatisme social"
+            },
+            {
+              "id": "HQC-P7-T09-c",
+              "texte": "Autonomie provinciale"
+            },
+            {
+              "id": "HQC-P7-T09-d",
+              "texte": "Cléricalisme"
+            },
+            {
+              "id": "HQC-P7-T09-e",
+              "texte": "Financement de l’éducation et de la santé"
+            },
+            {
+              "id": "HQC-P7-T09-f",
+              "texte": "Contestation"
+            }
+          ]
+        },
+        {
+          "id": "HQC-P7-T10",
+          "theme": "Néonationalisme",
+          "elements": [
+            {
+              "id": "HQC-P7-T10-a",
+              "texte": "Mouvement de décolonisation"
+            },
+            {
+              "id": "HQC-P7-T10-b",
+              "texte": "Identité territoriale"
+            },
+            {
+              "id": "HQC-P7-T10-c",
+              "texte": "Mouvement indépendantiste"
+            },
+            {
+              "id": "HQC-P7-T10-d",
+              "texte": "Création du Parti québécois"
+            }
+          ]
+        },
+        {
+          "id": "HQC-P7-T11",
+          "theme": "Révolution tranquille",
+          "elements": [
+            {
+              "id": "HQC-P7-T11-a",
+              "texte": "Mesures économiques et sociales progressistes"
+            },
+            {
+              "id": "HQC-P7-T11-b",
+              "texte": "Création de ministères et de sociétés d’État"
+            },
+            {
+              "id": "HQC-P7-T11-c",
+              "texte": "Réforme des institutions démocratiques"
+            },
+            {
+              "id": "HQC-P7-T11-d",
+              "texte": "Protection de la langue française"
+            },
+            {
+              "id": "HQC-P7-T11-e",
+              "texte": "Droits et libertés de la personne"
+            },
+            {
+              "id": "HQC-P7-T11-f",
+              "texte": "Délégation du Québec à l’étranger"
+            },
+            {
+              "id": "HQC-P7-T11-g",
+              "texte": "Déconfessionnalisation"
+            }
+          ]
+        },
+        {
+          "id": "HQC-P7-T12",
+          "theme": "Féminisme",
+          "elements": [
+            {
+              "id": "HQC-P7-T12-a",
+              "texte": "Gains juridiques"
+            },
+            {
+              "id": "HQC-P7-T12-b",
+              "texte": "Autonomie économique"
+            },
+            {
+              "id": "HQC-P7-T12-c",
+              "texte": "Droits sexuels et reproductifs"
+            },
+            {
+              "id": "HQC-P7-T12-d",
+              "texte": "Métiers non traditionnels et activités professionnelles"
+            }
+          ]
+        },
+        {
+          "id": "HQC-P7-T13",
+          "theme": "Effervescence socioculturelle",
+          "elements": [
+            {
+              "id": "HQC-P7-T13-a",
+              "texte": "Chanson d’expression française"
+            },
+            {
+              "id": "HQC-P7-T13-b",
+              "texte": "Émergence du théâtre québécois"
+            },
+            {
+              "id": "HQC-P7-T13-c",
+              "texte": "Lieux de diffusion culturelle"
+            },
+            {
+              "id": "HQC-P7-T13-d",
+              "texte": "Diversité des manifestations culturelles"
+            }
+          ]
+        },
+        {
+          "id": "HQC-P7-T14",
+          "theme": "Affirmation des nations autochtones",
+          "elements": [
+            {
+              "id": "HQC-P7-T14-a",
+              "texte": "Revendications territoriales et politiques"
+            },
+            {
+              "id": "HQC-P7-T14-b",
+              "texte": "Reconnaissance des droits ancestraux"
+            },
+            {
+              "id": "HQC-P7-T14-c",
+              "texte": "Politique indienne du Gouvernement du Canada"
+            },
+            {
+              "id": "HQC-P7-T14-d",
+              "texte": "Gouvernance"
+            }
+          ]
+        },
+        {
+          "id": "HQC-P7-T15",
+          "theme": "Relations patronales-syndicales",
+          "elements": [
+            {
+              "id": "HQC-P7-T15-a",
+              "texte": "Syndicalisation des employés de l’État"
+            },
+            {
+              "id": "HQC-P7-T15-b",
+              "texte": "Conflits"
+            },
+            {
+              "id": "HQC-P7-T15-c",
+              "texte": "Fronts communs"
+            },
+            {
+              "id": "HQC-P7-T15-d",
+              "texte": "Action sociale et politique des syndicats"
+            }
+          ]
+        }
+      ],
+      "concepts_particuliers": [
+        "État-providence",
+        "Féminisme",
+        "Laïcisation"
+      ]
+    },
+    {
+      "id": "HQC-P8",
+      "niveau": "S4",
+      "bornes": "De 1980 à nos jours",
+      "titre": "Les choix de société dans le Québec contemporain",
+      "realite_sociale": "Après son élection, en 1976, le Parti québécois intensifie, à la suite des gouvernements unionistes et libéraux, les mesures visant à permettre l’affirmation des particularités du Québec, dont la langue française. L’adoption du projet de loi n o 101 met en lumière les enjeux culturels et linguistiques qui mobilisent les Québécois avant le référendum de 1980. Les décennies suivantes exposent les Québécois à d’autres enjeux complexes, de nature et d’ampleur variées. L’étude des conjonctures culturelle, économique, politique, sociale et territoriale révèle les circonstances dans lesquelles ont été, sont et seront faits les choix de société dans le Québec contemporain. Le 20 mai 1980, près de 60 % des Québécois ayant voté rejettent la demande du gouvernement de lui octroyer le mandat de négocier la souveraineté-association. Selon un engagement pris pendant la campagne référendaire, le premier ministre Trudeau propose une réforme constitutionnelle aux gouvernements provinciaux. Au bout de plusieurs mois de négociation, alors que plane la possibilité d’un rapatriement unilatéral, le gouvernement fédéral rallie neuf des dix provinces, les demandes du Québec n’étant pas satisfaites. La Loi constitutionnelle de 1982, qui inclut la Charte canadienne des droits et libertés, est ratifiée en présence de la reine Élisabeth II mais sans représentant du Gouvernement du Québec, absent lors de la finalisation de l’entente. L’élection des conservateurs de Brian Mulroney à Ottawa est le présage d’une possible réconciliation. Les libéraux, reportés au pouvoir au Québec en 1985, retiennent cinq conditions pour l’adhésion du Québec à la Constitution, dont la reconnaissance du caractère distinct de la société québécoise. Celles-ci sont largement discutées lors de la conférence du lac Meech, qui mène à un accord que ne ratifie pas l’ensemble des provinces, Terre-Neuve et le Manitoba n’ayant pas respecté le délai. Un ultime effort, par des référendums populaires cette fois, est également vain à la suite de l’accord de Charlottetown, en 1992. L’échec de Meech relance la ferveur nationaliste. La commission Bélanger-Campeau et le rapport Allaire reconnaissent une légitimité à la cause souverainiste. Pendant la campagne référendaire de 1995, le Bloc québécois puis l’Action démocratique du Québec s’allient au Parti québécois dans la promotion du Oui . Le Parti libéral du Québec, le Parti libéral du Canada et le Parti progressiste-conservateur, mobilisés dans le camp du Non , se portent à la défense de l’unité canadienne. Les questions économiques et territoriales ainsi que l’évocation d’un refus de négocier par le gouvernement fédéral en cas de défaite nourrissent les débats. Les Québécois sont déchirés. Le 30 octobre 1995, l’option du Oui récolte 49,42 % des votes et celle du Non , 50,58 %. Le renversement des rapports de force et d’autres enjeux écartent l’essentiel de la question constitutionnelle dans les décennies suivantes, que marquent néanmoins des débats sur les compétences provinciales et les transferts fédéraux. Dans les années 1980 et les suivantes, les périodes de croissance alternent avec les périodes de récession. La crise du début des années 1980 force la fermeture de mines et d’industries, entraînant du même souffle la dévitalisation de plusieurs localités. L’heure est aux économies d’échelle. Le secteur tertiaire gagne encore du terrain pendant que se développe l’économie du savoir. Les emplois précaires et à temps partiel se multiplient. Ils sont notamment occupés par des jeunes et souvent par des femmes, dont le rattrapage salarial et juridique n’est pas encore assuré malgré l’adoption de projets de loi et l’action des syndicats en ce sens. Alors qu’un courant néolibéral engendrant une redéfinition du rôle des États traverse l’Occident, les gouvernements québécois successifs interviennent dans certaines sphères pour le maintien des conditions socioéconomiques des Québécois, notamment en instituant le réseau des centres de la petite enfance et l’assurance parentale, soutenant ainsi l’accès des femmes au marché de l’emploi. Les déficits répétés conduisent néanmoins les gouvernements fédéral et provincial à une certaine forme de désengagement que la crise économique mondiale qui a commencé en 2008 contribue toutefois à freiner momentanément. Le mouvement d’intégration dans lequel le monde est lancé se poursuit. Les échanges se mondialisent. Le Québec, dont l’économie profite de l’Accord de libre-échange nord américain (ALENA), n’échappe pas à la tendance. L’effacement des frontières est aussi propice à la diffusion des cultures et à celle des idées qu’accélèrent la démocratisation d’Internet, l’information continue et l’éclosion des réseaux sociaux. Les appartenances nationales sont davantage exposées; les relations internationales se complexifient. Les consciences s’ouvrent par ailleurs sur des enjeux jusqu’alors inconsidérés par les États. Les pluies acides et les changements climatiques préoccupent les autorités, qui doivent plus que jamais composer avec des impératifs de développement économique et la nécessité de limiter les effets de l’activité humaine sur les écosystèmes. Des événements singuliers tels que les inondations dans les régions du Saguenay–Lac Saint-Jean et de la Montérégie ainsi que la crise du verglas en rappellent aux Québécois la fragilité. À la suite de la conclusion de l’Accord Canada-Québec, inspiré de l’entente Couture-Cullen de 1978, la population québécoise augmente essentiellement grâce à l’immigration, qui se fait souvent à la faveur d’immigrants francophones ou de langues latines. De nouveaux enjeux démographiques et générationnels se dessinent. Les femmes ont moins d’enfants et les ont plus tard. L’espérance de vie augmente; le vieillissement de la population exerce, entre autres, une pression supplémentaire sur le système de santé. Pour plusieurs populations autochtones, les conditions de vie dans les communautés, les villages inuits et les villes sont peu favorables : la population s’accroît, mais elle est en proie à d’importants problèmes sociaux; et les taux de scolarité et d’emploi sont peu élevés. Les mouvements d’affirmation et de revendication s’accentuent, notamment après 1990, année au cours de laquelle une dispute territoriale est à l’origine d’un conflit à Oka entre les Mohawks et les autorités fédérales et provinciales. Si la discrimination et les réticences à l’égard des Autochtones sont souvent vives, certaines initiatives, telles que la mise sur pied de la Commission de vérité et réconciliation du Canada, permettent une meilleure compréhension du parcours des peuples autochtones. Les attentats du 11 septembre 2001 ébranlent la conscience des Nord-Américains. Le début du 21 e siècle est le présage d’une montée de l’individualisme et du pragmatisme politique et économique auxquels des mouvements citoyens font contrepoids, le développement économique du Québec, notamment, étant le prétexte d’actions militantes d’ampleur variées qui mobilisent diverses franges de la société civile. Au travers des transparence qui se posent, le Québec des années 2000 est effervescent sur le plan culturel et technologique, où il se démarque à l’échelle internationale. Œuvrant pour la sauvegarde de son autonomie au sein du régime fédéral canadien, il tente la difficile conciliation des contraintes économiques et des attentes sociales. La caractérisation de la période de 1980 à nos jours repose sur l’établissement et la mise en relation des éléments distinctifs qui en permettent la description. Elle conduit à l’établissement d’une chronologie cohérente révélant la succession des événements et nécessite la considération d’éléments géographiques utiles à leur compréhension. Elle révèle la perspective et l’apport des différents acteurs qui ont joué un rôle significatif dans le parcours de la société. Elle amène les élèves à lier entre elles plusieurs informations relatives aux différents aspects de société pour décrire comment étaient les choses au Québec à l’aube et au début du nouveau millénaire. L’interprétation a pour objet Les choix de société dans le Québec contemporain . Elle amène les élèves à expliquer les circonstances culturelles, économiques, politiques, sociales et territoriales qui ont amené, qui amènent ou qui amèneront les Québécois à faire d’importants choix démographiques, environnementaux, technologiques, etc. La réalité sociale évoque le changement, les transformations; elle met en valeur l’interaction entre les aspects de société et favorise l’arrimage entre l’histoire politique et l’histoire sociale. Le recours à une méthode d’analyse critique facilite l’analyse des changements et des continuités de même que celle des causes et des conséquences qui expliquent cette réalité. L’étude de la réalité sociale mène à la découverte de multiples perspectives dont la prise en compte permet d’assurer la validité de l’interprétation.",
+      "page": 68,
+      "themes": [
+        {
+          "id": "HQC-P8-T01",
+          "theme": "Redéfinition du rôle de l’État",
+          "elements": [
+            {
+              "id": "HQC-P8-T01-a",
+              "texte": "Politiques néolibérales"
+            },
+            {
+              "id": "HQC-P8-T01-b",
+              "texte": "Financement des programmes sociaux"
+            },
+            {
+              "id": "HQC-P8-T01-c",
+              "texte": "Économie sociale"
+            },
+            {
+              "id": "HQC-P8-T01-d",
+              "texte": "Société civile"
+            },
+            {
+              "id": "HQC-P8-T01-e",
+              "texte": "Consultations publiques"
+            },
+            {
+              "id": "HQC-P8-T01-f",
+              "texte": "Neutralité de l’État"
+            }
+          ]
+        },
+        {
+          "id": "HQC-P8-T02",
+          "theme": "Droits des Autochtones",
+          "elements": [
+            {
+              "id": "HQC-P8-T02-a",
+              "texte": "Loi constitutionnelle de 1982"
+            },
+            {
+              "id": "HQC-P8-T02-b",
+              "texte": "Crise d’Oka"
+            },
+            {
+              "id": "HQC-P8-T02-c",
+              "texte": "Ententes et conventions"
+            },
+            {
+              "id": "HQC-P8-T02-d",
+              "texte": "Commission de vérité et réconciliation du Canada"
+            }
+          ]
+        },
+        {
+          "id": "HQC-P8-T03",
+          "theme": "Mondialisation de l’économie",
+          "elements": [
+            {
+              "id": "HQC-P8-T03-a",
+              "texte": "Québec inc."
+            },
+            {
+              "id": "HQC-P8-T03-b",
+              "texte": "Accords de libre-échange"
+            },
+            {
+              "id": "HQC-P8-T03-c",
+              "texte": "Secteurs d’exportation"
+            }
+          ]
+        },
+        {
+          "id": "HQC-P8-T04",
+          "theme": "Statut politique du Québec",
+          "elements": [
+            {
+              "id": "HQC-P8-T04-a",
+              "texte": "Référendum sur la souveraineté-association"
+            },
+            {
+              "id": "HQC-P8-T04-b",
+              "texte": "Rapatriement de la Constitution"
+            },
+            {
+              "id": "HQC-P8-T04-c",
+              "texte": "Accord du lac Meech"
+            },
+            {
+              "id": "HQC-P8-T04-d",
+              "texte": "Commission Bélanger-Campeau"
+            },
+            {
+              "id": "HQC-P8-T04-e",
+              "texte": "Rapport Allaire"
+            },
+            {
+              "id": "HQC-P8-T04-f",
+              "texte": "Accord de Charlottetown"
+            },
+            {
+              "id": "HQC-P8-T04-g",
+              "texte": "Référendum sur la souveraineté"
+            },
+            {
+              "id": "HQC-P8-T04-h",
+              "texte": "Actions postréférendaires"
+            }
+          ]
+        },
+        {
+          "id": "HQC-P8-T05",
+          "theme": "Évolution sociodémographique",
+          "elements": [
+            {
+              "id": "HQC-P8-T05-a",
+              "texte": "Vieillissement de la population"
+            },
+            {
+              "id": "HQC-P8-T05-b",
+              "texte": "Politique familiale"
+            },
+            {
+              "id": "HQC-P8-T05-c",
+              "texte": "Appartenance ethnoculturelle"
+            },
+            {
+              "id": "HQC-P8-T05-d",
+              "texte": "Santé publique"
+            },
+            {
+              "id": "HQC-P8-T05-e",
+              "texte": "Conditions de vie dans les collectivités autochtones"
+            }
+          ]
+        },
+        {
+          "id": "HQC-P8-T06",
+          "theme": "Égalité hommes-femmes",
+          "elements": [
+            {
+              "id": "HQC-P8-T06-a",
+              "texte": "Équité salariale"
+            },
+            {
+              "id": "HQC-P8-T06-b",
+              "texte": "Parité"
+            },
+            {
+              "id": "HQC-P8-T06-c",
+              "texte": "Conciliation travail-famille"
+            }
+          ]
+        },
+        {
+          "id": "HQC-P8-T07",
+          "theme": "Industrie culturelle",
+          "elements": [
+            {
+              "id": "HQC-P8-T07-a",
+              "texte": "Financement de la culture"
+            },
+            {
+              "id": "HQC-P8-T07-b",
+              "texte": "Diffusion de la culture"
+            },
+            {
+              "id": "HQC-P8-T07-c",
+              "texte": "Politique culturelle"
+            }
+          ]
+        },
+        {
+          "id": "HQC-P8-T08",
+          "theme": "Question linguistique",
+          "elements": [
+            {
+              "id": "HQC-P8-T08-a",
+              "texte": "Langue d’affichage"
+            },
+            {
+              "id": "HQC-P8-T08-b",
+              "texte": "Langue d’enseignement"
+            },
+            {
+              "id": "HQC-P8-T08-c",
+              "texte": "Langues autochtones"
+            }
+          ]
+        },
+        {
+          "id": "HQC-P8-T09",
+          "theme": "Préoccupations environnementales",
+          "elements": [
+            {
+              "id": "HQC-P8-T09-a",
+              "texte": "Contrôle des normes environnementales"
+            },
+            {
+              "id": "HQC-P8-T09-b",
+              "texte": "Exploitation des ressources"
+            }
+          ]
+        },
+        {
+          "id": "HQC-P8-T10",
+          "theme": "Dévitalisation de localités",
+          "elements": [
+            {
+              "id": "HQC-P8-T10-a",
+              "texte": "Villes mono-industrielles"
+            },
+            {
+              "id": "HQC-P8-T10-b",
+              "texte": "Services de proximité"
+            },
+            {
+              "id": "HQC-P8-T10-c",
+              "texte": "Mouvements migratoires"
+            },
+            {
+              "id": "HQC-P8-T10-d",
+              "texte": "Relève agricole"
+            },
+            {
+              "id": "HQC-P8-T10-e",
+              "texte": "Poids politique"
+            }
+          ]
+        },
+        {
+          "id": "HQC-P8-T11",
+          "theme": "Relations internationales",
+          "elements": [
+            {
+              "id": "HQC-P8-T11-a",
+              "texte": "Représentation dans les organisations et conférences internationales"
+            },
+            {
+              "id": "HQC-P8-T11-b",
+              "texte": "Missions économiques"
+            },
+            {
+              "id": "HQC-P8-T11-c",
+              "texte": "Missions à l’étranger de l’armée canadienne"
+            }
+          ]
+        },
+        {
+          "id": "HQC-P8-T12",
+          "theme": "Ère de l’information",
+          "elements": [
+            {
+              "id": "HQC-P8-T12-a",
+              "texte": "Utilisation d’Internet"
+            },
+            {
+              "id": "HQC-P8-T12-b",
+              "texte": "Information continue"
+            },
+            {
+              "id": "HQC-P8-T12-c",
+              "texte": "Intégration et concentration des médias"
+            }
+          ]
+        }
+      ],
+      "concepts_particuliers": [
+        "Néolibéralisme",
+        "Société civile",
+        "Souverainisme"
+      ]
+    }
+  ],
+  "cadre_evaluation": {
+    "resultat": "Un seul résultat disciplinaire pour les deux compétences (100 %)",
+    "criteres": [
+      "Maîtrise des connaissances présentées dans la section intitulée Contenu de formation",
+      "Utilisation appropriée de connaissances",
+      "Représentation cohérente d’une période de l’histoire du Québec et du Canada",
+      "Rigueur de l’interprétation"
+    ],
+    "operations_intellectuelles": [
+      "Situer dans le temps et dans l’espace",
+      "Établir des faits",
+      "Dégager des différences et des similitudes",
+      "Déterminer des causes et des conséquences",
+      "Déterminer des changements et des continuités",
+      "Mettre en relation des faits",
+      "Établir des liens de causalité"
+    ],
+    "note": "L’utilisation et la production d’outils techniques (lignes du temps, cartes historiques) peuvent faire l’objet d’une rétroaction, mais ne comptent pas dans les résultats du bulletin."
+  },
+  "controle": {
+    "date": "2026-11-10",
+    "elements_verifies_dans_le_texte_du_pdf": "427 / 427",
+    "note": "Pas de PDA pour cette discipline : la section Précision des connaissances du programme en tient lieu."
+  }
+}
