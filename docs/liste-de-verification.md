@@ -73,6 +73,12 @@
 - [ ] Piste : **Azure AI Document Intelligence (Read) à Québec** pour placer les surlignages exactement sur les mots (boîtes de chaque mot manuscrit). Ajoute un sous-traitant (Microsoft) à l'EFVP. À mesurer avec `tools/surlignages` de la 1.0.
 - [ ] Si Azure est utilisé un jour : demander la surveillance des abus modifiée (aucune conservation des copies)
 
+## Volet Créer
+- [x] Qualité de référence validée : activité Word (Confédération) et présentation PowerPoint (Révolution tranquille), dans `exemples/`
+- [ ] Extraire le programme d'Histoire du Québec et du Canada (et les autres disciplines du secondaire) dans `donnees/`
+- [ ] Gabarits Word et PowerPoint dans le navigateur (pptxgenjs, docx)
+- [ ] Contrôle automatique : aucune citation inventée, dates dans la période, savoirs existants
+
 ## Phases
 - [ ] **Première version :** groupes chiffrés, évaluation imprimable avec QR, numérisation, correction IA validée par l'enseignante, connexion Microsoft et courriel, OneDrive
 - [ ] **Phase 2 :** tableau de bord des compétences, importation des groupes par Microsoft

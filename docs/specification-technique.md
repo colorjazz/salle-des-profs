@@ -177,6 +177,27 @@ La version 2 (Claude) remplace la première (Gemini, moins précise, gardée pou
 
 **À valider avant de coder** : annexes V à VII du Régime pédagogique (formulaires du bulletin), cadres CST/TS/SN et CCQ, calcul de la moyenne de groupe et de l'arrondi avec le centre de services pilote.
 
+## 7 bis. Volet Créer
+
+**Référence de qualité, validée le 10 novembre 2026** (dossier `exemples/`) :
+- `activite-hqc-sec4-confederation.docx` : activité avec un dossier documentaire, des questions par opération intellectuelle, des versions soutien et enrichie, un corrigé et une grille.
+- `revolution-tranquille-hqc-sec4.pptx` : présentation de 11 diapositives, avec des notes pour l'enseignant et des questions finales.
+
+**Règles de contenu**
+1. **Ancré dans le programme** : période, compétences, opérations intellectuelles et savoirs tirés des données officielles (`donnees/`). À faire : extraire le programme d'Histoire du Québec et du Canada et les autres disciplines du secondaire.
+2. **Aucune citation inventée.** Les positions de personnages historiques sont résumées et présentées comme telles. Seules les citations vérifiables (slogans connus, extraits fournis par l'enseignante) sont permises.
+3. **Différenciation** : soutien, régulier et enrichi, sur la même notion.
+4. **Corrigé et grille** avec tout matériel évaluable.
+5. **Mention de relecture** : le contenu est à relire par l'enseignante avant l'utilisation en classe.
+6. **Aucune donnée d'élève** (circuit Création) : n'importe quel modèle d'IA peut être utilisé.
+7. **Style** : palette Carnet, polices fournies avec Office (Cambria, Calibri), sans emoji.
+
+**Construction technique**
+- L'IA renvoie le **contenu en JSON structuré** (titre, documents, questions, corrigé, diapositives, notes), jamais un fichier.
+- Le **navigateur** fabrique les fichiers à partir de gabarits : PowerPoint avec `pptxgenjs`, Word avec la bibliothèque `docx`, PDF à l'impression. Le rendu reste donc stable et à la marque, quel que soit le modèle.
+- Un contrôle automatique vérifie le JSON avant la mise en page : dates dans la période, savoirs existants dans `donnees/`, aucune citation entre guillemets attribuée à une personne, sauf dans une liste autorisée.
+- Exportation : téléchargement, ou enregistrement dans le dossier de l'application dans OneDrive.
+
 ## 8. Sécurité
 
 - En-têtes de sécurité stricts (CSP, HSTS), cookies `HttpOnly`, `Secure` et `SameSite`.
