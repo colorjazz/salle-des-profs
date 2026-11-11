@@ -36,6 +36,8 @@ La tentative de Gemini (`gemini/resultats/inventaire-pfeq-gemini-OBSOLETE.csv`) 
 | `precision-gcu-secondaire.json` | Géographie culturelle : 366 énoncés, 6 aires culturelles (Précision des apprentissages : listes, sans progression par année) |
 | `precision-h20-secondaire.json` | Histoire du 20e siècle : 123 énoncés, 4 réalités sociales |
 | `precision-mc4-secondaire.json`, `precision-mc2-secondaire.json` | Monde contemporain, 5e : 197 énoncés, 5 thèmes (4 unités) ; 124 énoncés, 3 thèmes (2 unités, sous-ensemble exact de la version à 4 unités) |
+| `pda-alsb-secondaire.json`, `pda-alse-secondaire.json` | Anglais, langue seconde, programmes de base (188 savoirs) et enrichi (212) : 1re à 5e ; `vu_au_primaire` : lettre P du document (78 et 76) |
+| `pda-elt-secondaire.json` | Espagnol, langue tierce : 385 savoirs, 3e à 5e (2e cycle) |
 | `cadre-fra-primaire.json` | Compétences, critères, pondérations par cycle |
 | `cadre-mat-primaire.json` | Compétences, critères, pondérations par cycle |
 | `programme-hqc-secondaire.json` | Histoire du Québec et du Canada, 3e et 4e secondaire : 8 périodes, concepts, texte officiel de la réalité sociale, 103 thèmes et 427 éléments de connaissances, critères et 7 opérations intellectuelles du cadre (`outils/extraire_hqc.py`) |
@@ -45,7 +47,7 @@ La tentative de Gemini (`gemini/resultats/inventaire-pfeq-gemini-OBSOLETE.csv`) 
 | Ordre | Validées (contrôle de logique sans erreur ou cas conformes au document) | À adapter |
 |---|---|---|
 | Primaire | Français, mathématique, science et technologie, univers social, éducation physique, art dramatique, arts plastiques, danse, musique | Anglais, langue seconde (colonne de catégories en plus, pages à image) ; Culture et citoyenneté québécoise (progression par cycle, crochets) |
-| Secondaire | Art dramatique, arts plastiques, danse, éducation physique, musique, français langue seconde (base et enrichi), intégration linguistique, mathématique, sciences (ST, STE, ATS, SE), chimie, physique, univers social (géographie, histoire et éducation à la citoyenneté, géographie culturelle, histoire du 20e siècle, monde contemporain) | Français (pages à image), anglais, CCQ, espagnol |
+| Secondaire | Art dramatique, arts plastiques, danse, éducation physique, musique, français langue seconde (base et enrichi), intégration linguistique, mathématique, sciences (ST, STE, ATS, SE), chimie, physique, univers social (géographie, histoire et éducation à la citoyenneté, géographie culturelle, histoire du 20e siècle, monde contemporain), anglais langue seconde (base et enrichi), espagnol | Français (pages à image), CCQ |
 
 Progression : `apprentissage` (flèche), `maitrise` (étoile), `reinvestissement` (case bleue), `null` (vide).
 
@@ -84,6 +86,13 @@ Univers social : PDA à une ou deux colonnes au 1er cycle, et « Précision des 
 python3 -I outils/extraire_pda_us_sec.py PDA-geographie.pdf GEO donnees/pda-geo-secondaire.json
 python3 -I outils/extraire_pda_us_sec.py PDA-histoire.pdf HEC donnees/pda-hec-secondaire.json
 python3 -I outils/extraire_precisions_us.py Precision.pdf MC4 "Monde contemporain (4 unités)" 5e donnees/precision-mc4-secondaire.json
+```
+
+Langues (anglais, espagnol) :
+
+```bash
+python3 -I outils/extraire_pda_langues_sec.py PDA-anglais-base.pdf ALSB "Anglais, langue seconde (programme de base)" 1,2,3,4,5 donnees/pda-alsb-secondaire.json
+python3 -I outils/extraire_pda_langues_sec.py PDA-espagnol.pdf ELT "Espagnol, langue tierce" 3,4,5 donnees/pda-elt-secondaire.json
 ```
 
 Chimie et physique (colonnes de largeurs inégales, colonne « 1er cycle » en plus dans les stratégies, repérée d'après l'en-tête CHI ou PHY) :

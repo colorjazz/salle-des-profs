@@ -427,7 +427,7 @@ def extraire(chemin):
             if re.match(r'^Note\s*:', texte) and savoirs and savoirs[-1]['page'] == num:
                 savoirs[-1]['note_pda'] = (savoirs[-1].get('note_pda', '') + ' ' + texte).strip()
                 continue
-            m = re.search(r'\s*\bNote\s*:?\s*(.*)$', texte)
+            m = re.search(r'\s*\bNote\b\s*:?\s*(.*)$', texte)   # « Note », pas « Noter »
             if m:
                 note_pda = (m.group(1) + ' ' + note_pda).strip()
                 texte = texte[:m.start()].strip()

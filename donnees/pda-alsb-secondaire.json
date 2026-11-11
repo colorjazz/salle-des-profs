@@ -1,0 +1,3857 @@
+{
+  "discipline": "Anglais, langue seconde (programme de base)",
+  "code_discipline": "ALSB",
+  "ordre": "secondaire",
+  "source": "PFEQ-progression-apprentissages-anglais-langue-seconde-base-secondaire.pdf",
+  "annees": [
+    "1",
+    "2",
+    "3",
+    "4",
+    "5"
+  ],
+  "pages_sans_colonnes_reperees": [],
+  "bilan": {
+    "nombre_savoirs": 188,
+    "vus_au_primaire": 78,
+    "a_verifier": 0
+  },
+  "savoirs": [
+    {
+      "id": "ALSB-CUL-001",
+      "champ": "Culture",
+      "section": "Culture",
+      "chemin": [
+        "A. Dimension esthétique Produits culturels tels que le cinéma, la littérature, la musique et les médias qui représentent les cultures anglophones"
+      ],
+      "texte": "a. Explorer les produits culturels de cultures anglophones",
+      "vu_au_primaire": true,
+      "progression": {
+        "1": null,
+        "2": "apprentissage",
+        "3": "apprentissage",
+        "4": "apprentissage",
+        "5": "apprentissage"
+      },
+      "page": 6,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ALSB-CUL-002",
+      "champ": "Culture",
+      "section": "Culture",
+      "chemin": [
+        "A. Dimension esthétique Produits culturels tels que le cinéma, la littérature, la musique et les médias qui représentent les cultures anglophones"
+      ],
+      "texte": "b. Comparer les produits culturels de cultures anglophones à ceux de sa propre culture",
+      "progression": {
+        "1": null,
+        "2": "apprentissage",
+        "3": "apprentissage",
+        "4": "apprentissage",
+        "5": "apprentissage"
+      },
+      "page": 6,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ALSB-CUL-003",
+      "champ": "Culture",
+      "section": "Culture",
+      "chemin": [
+        "B. Dimension sociologique Modes de vie en lien avec différents thèmes comme la famille, les relations personnelles, les loisirs, les us et coutumes, les héros et l’histoire"
+      ],
+      "texte": "a. Explorer les modes de vie de cultures anglophones",
+      "vu_au_primaire": true,
+      "progression": {
+        "1": null,
+        "2": "apprentissage",
+        "3": "apprentissage",
+        "4": "apprentissage",
+        "5": "apprentissage"
+      },
+      "page": 6,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ALSB-CUL-004",
+      "champ": "Culture",
+      "section": "Culture",
+      "chemin": [
+        "B. Dimension sociologique Modes de vie en lien avec différents thèmes comme la famille, les relations personnelles, les loisirs, les us et coutumes, les héros et l’histoire"
+      ],
+      "texte": "b. Comparer les modes de vie de cultures anglophones à ceux de sa propre culture",
+      "progression": {
+        "1": null,
+        "2": "apprentissage",
+        "3": "apprentissage",
+        "4": "apprentissage",
+        "5": "apprentissage"
+      },
+      "page": 6,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ALSB-CUL-005",
+      "champ": "Culture",
+      "section": "Culture",
+      "chemin": [
+        "C. Dimension sociolinguistique Conventions de communication telles que les conventions sociales, les aptitudes paralinguistiques, le code linguistique et l’humour"
+      ],
+      "texte": "a. Explorer les conventions de communication de cultures anglophones",
+      "vu_au_primaire": true,
+      "progression": {
+        "1": null,
+        "2": "apprentissage",
+        "3": "apprentissage",
+        "4": "apprentissage",
+        "5": "apprentissage"
+      },
+      "page": 6,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ALSB-CUL-006",
+      "champ": "Culture",
+      "section": "Culture",
+      "chemin": [
+        "C. Dimension sociolinguistique Conventions de communication telles que les conventions sociales, les aptitudes paralinguistiques, le code linguistique et l’humour"
+      ],
+      "texte": "b. Comparer les conventions de communication de cultures anglophones à celles de sa propre culture",
+      "progression": {
+        "1": null,
+        "2": "apprentissage",
+        "3": "apprentissage",
+        "4": "apprentissage",
+        "5": "apprentissage"
+      },
+      "page": 6,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ALSB-REP-001",
+      "champ": "Répertoire linguistique",
+      "section": "Répertoire linguistique",
+      "chemin": [
+        "A. Langue fonctionnelle",
+        "1. Conventions sociales"
+      ],
+      "texte": "a. Saluer et répondre aux salutations (ex. How are you? Not so bad, and you? What’s new?)",
+      "vu_au_primaire": true,
+      "progression": {
+        "1": null,
+        "2": "reinvestissement",
+        "3": "reinvestissement",
+        "4": "reinvestissement",
+        "5": "reinvestissement"
+      },
+      "page": 7,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ALSB-REP-002",
+      "champ": "Répertoire linguistique",
+      "section": "Répertoire linguistique",
+      "chemin": [
+        "A. Langue fonctionnelle",
+        "1. Conventions sociales"
+      ],
+      "texte": "b. Prendre congé (ex. Take care! See you later! I have to go.)",
+      "vu_au_primaire": true,
+      "progression": {
+        "1": null,
+        "2": "reinvestissement",
+        "3": "reinvestissement",
+        "4": "reinvestissement",
+        "5": "reinvestissement"
+      },
+      "page": 7,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ALSB-REP-003",
+      "champ": "Répertoire linguistique",
+      "section": "Répertoire linguistique",
+      "chemin": [
+        "A. Langue fonctionnelle",
+        "1. Conventions sociales"
+      ],
+      "texte": "c. Utiliser des expressions de politesse (ex. Please. Thank you very much! You’re more than welcome.)",
+      "vu_au_primaire": true,
+      "progression": {
+        "1": null,
+        "2": "reinvestissement",
+        "3": "reinvestissement",
+        "4": "reinvestissement",
+        "5": "reinvestissement"
+      },
+      "page": 7,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ALSB-REP-004",
+      "champ": "Répertoire linguistique",
+      "section": "Répertoire linguistique",
+      "chemin": [
+        "A. Langue fonctionnelle",
+        "1. Conventions sociales"
+      ],
+      "texte": "d. Commencer et terminer des conversations téléphoniques et utiliser la messagerie vocale (ex. Hello, I’m calling about…,Thank you for calling. Please leave a message after the beep.)",
+      "progression": {
+        "1": null,
+        "2": "apprentissage",
+        "3": "maitrise",
+        "4": "reinvestissement",
+        "5": "reinvestissement"
+      },
+      "page": 7,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ALSB-REP-005",
+      "champ": "Répertoire linguistique",
+      "section": "Répertoire linguistique",
+      "chemin": [
+        "A. Langue fonctionnelle",
+        "2. Excuses"
+      ],
+      "texte": "a. Présenter et recevoir des excuses (ex. I apologize. Sorry, I didn’t mean to…, Don’t worry about it.)",
+      "vu_au_primaire": true,
+      "progression": {
+        "1": null,
+        "2": "reinvestissement",
+        "3": "reinvestissement",
+        "4": "reinvestissement",
+        "5": "reinvestissement"
+      },
+      "page": 7,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ALSB-REP-006",
+      "champ": "Répertoire linguistique",
+      "section": "Répertoire linguistique",
+      "chemin": [
+        "A. Langue fonctionnelle",
+        "3. Formules pour interrompre poliment une conversation"
+      ],
+      "texte": "a. Interrompre poliment une conversation (ex. Excuse me. Sorry to interrupt, but…, Before you continue…)",
+      "progression": {
+        "1": null,
+        "2": "apprentissage",
+        "3": "maitrise",
+        "4": "reinvestissement",
+        "5": "reinvestissement"
+      },
+      "page": 7,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ALSB-REP-007",
+      "champ": "Répertoire linguistique",
+      "section": "Répertoire linguistique",
+      "chemin": [
+        "A. Langue fonctionnelle",
+        "3. Formules pour interrompre poliment une conversation"
+      ],
+      "texte": "a. Décrire des caractéristiques élémentaires de personnes, d’animaux, d’objets et de lieux (ex. He looks..., This is a…, She is very intelligent.)",
+      "vu_au_primaire": true,
+      "progression": {
+        "1": null,
+        "2": "reinvestissement",
+        "3": "reinvestissement",
+        "4": "reinvestissement",
+        "5": "reinvestissement"
+      },
+      "page": 8,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ALSB-REP-008",
+      "champ": "Répertoire linguistique",
+      "section": "Répertoire linguistique",
+      "chemin": [
+        "A. Langue fonctionnelle",
+        "3. Formules pour interrompre poliment une conversation"
+      ],
+      "texte": "b. Se renseigner sur des personnes, des animaux, des objets et des lieux (ex. Who are they? Where is it? What’s your…?)",
+      "vu_au_primaire": true,
+      "progression": {
+        "1": null,
+        "2": "apprentissage",
+        "3": "maitrise",
+        "4": "reinvestissement",
+        "5": "reinvestissement"
+      },
+      "page": 8,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ALSB-REP-009",
+      "champ": "Répertoire linguistique",
+      "section": "Répertoire linguistique",
+      "chemin": [
+        "A. Langue fonctionnelle",
+        "3. Formules pour interrompre poliment une conversation"
+      ],
+      "texte": "c. Décrire des événements, des expériences, des idées et des problématiques (ex. This is about…, It was the best day of my life because...)",
+      "progression": {
+        "1": null,
+        "2": "apprentissage",
+        "3": "apprentissage",
+        "4": "apprentissage",
+        "5": "maitrise"
+      },
+      "page": 8,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ALSB-REP-010",
+      "champ": "Répertoire linguistique",
+      "section": "Répertoire linguistique",
+      "chemin": [
+        "A. Langue fonctionnelle",
+        "3. Formules pour interrompre poliment une conversation"
+      ],
+      "texte": "d. Se renseigner sur des événements, des expériences, des idées et des problématiques (ex. What does it look like? Can you tell me more about...)",
+      "progression": {
+        "1": null,
+        "2": "apprentissage",
+        "3": "apprentissage",
+        "4": "apprentissage",
+        "5": "maitrise"
+      },
+      "page": 8,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ALSB-REP-011",
+      "champ": "Répertoire linguistique",
+      "section": "Répertoire linguistique",
+      "chemin": [
+        "A. Langue fonctionnelle",
+        "5. Formules pour gagner du temps et mots de remplissage"
+      ],
+      "texte": "a. Utiliser des « gagneurs de temps » pour trouver quoi dire et comment le dire (ex. Just a minute. Wait a second. Let me think.)",
+      "vu_au_primaire": true,
+      "progression": {
+        "1": null,
+        "2": "reinvestissement",
+        "3": "reinvestissement",
+        "4": "reinvestissement",
+        "5": "reinvestissement"
+      },
+      "page": 8,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ALSB-REP-012",
+      "champ": "Répertoire linguistique",
+      "section": "Répertoire linguistique",
+      "chemin": [
+        "A. Langue fonctionnelle",
+        "5. Formules pour gagner du temps et mots de remplissage"
+      ],
+      "texte": "b. Utiliser des « remplisseurs de pause » pour entretenir la conversation (ex. I mean…, You know…, Well…)",
+      "progression": {
+        "1": null,
+        "2": "apprentissage",
+        "3": "maitrise",
+        "4": "reinvestissement",
+        "5": "reinvestissement"
+      },
+      "page": 8,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ALSB-REP-013",
+      "champ": "Répertoire linguistique",
+      "section": "Répertoire linguistique",
+      "chemin": [
+        "A. Langue fonctionnelle",
+        "6. Réparties et connecteurs"
+      ],
+      "texte": "a. Inviter les interlocuteurs à prendre part à la conversation et à maintenir l’interaction (ex. What about you? Are you sure? What’s your point of view?)",
+      "vu_au_primaire": true,
+      "progression": {
+        "1": null,
+        "2": "maitrise",
+        "3": "reinvestissement",
+        "4": "reinvestissement",
+        "5": "reinvestissement"
+      },
+      "page": 8,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ALSB-REP-014",
+      "champ": "Répertoire linguistique",
+      "section": "Répertoire linguistique",
+      "chemin": [
+        "A. Langue fonctionnelle",
+        "7. Mises en garde"
+      ],
+      "texte": "a. Faire des mises en garde (ex. Watch out! Be careful! You’d better not…)",
+      "vu_au_primaire": true,
+      "progression": {
+        "1": null,
+        "2": "reinvestissement",
+        "3": "reinvestissement",
+        "4": "reinvestissement",
+        "5": "reinvestissement"
+      },
+      "page": 8,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ALSB-REP-015",
+      "champ": "Répertoire linguistique",
+      "section": "Répertoire linguistique",
+      "chemin": [
+        "A. Langue fonctionnelle",
+        "8. Accords et désaccords"
+      ],
+      "texte": "a. Exprimer son accord ou son désaccord (ex. Me too. I don’t think so. We don’t agree with...)",
+      "vu_au_primaire": true,
+      "progression": {
+        "1": null,
+        "2": "reinvestissement",
+        "3": "reinvestissement",
+        "4": "reinvestissement",
+        "5": "reinvestissement"
+      },
+      "page": 8,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ALSB-REP-016",
+      "champ": "Répertoire linguistique",
+      "section": "Répertoire linguistique",
+      "chemin": [
+        "A. Langue fonctionnelle",
+        "8. Accords et désaccords"
+      ],
+      "texte": "b. Demander à d’autres personnes si elles sont en accord ou en désaccord (ex. Do you agree? Who disagrees? Are you okay with…?)",
+      "vu_au_primaire": true,
+      "progression": {
+        "1": null,
+        "2": "maitrise",
+        "3": "reinvestissement",
+        "4": "reinvestissement",
+        "5": "reinvestissement"
+      },
+      "page": 8,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ALSB-REP-017",
+      "champ": "Répertoire linguistique",
+      "section": "Répertoire linguistique",
+      "chemin": [
+        "A. Langue fonctionnelle",
+        "9. Opinions"
+      ],
+      "texte": "a. Émettre ses opinions (ex. In my opinion…, I think that…, I’m for/against…)",
+      "vu_au_primaire": true,
+      "progression": {
+        "1": null,
+        "2": "apprentissage",
+        "3": "maitrise",
+        "4": "reinvestissement",
+        "5": "reinvestissement"
+      },
+      "page": 8,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ALSB-REP-018",
+      "champ": "Répertoire linguistique",
+      "section": "Répertoire linguistique",
+      "chemin": [
+        "A. Langue fonctionnelle",
+        "9. Opinions"
+      ],
+      "texte": "b. Demander l’opinion d’autres personnes (ex. What do you think? What’s your opinion? Is he for or against…?)",
+      "vu_au_primaire": true,
+      "progression": {
+        "1": null,
+        "2": "apprentissage",
+        "3": "maitrise",
+        "4": "reinvestissement",
+        "5": "reinvestissement"
+      },
+      "page": 8,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ALSB-REP-019",
+      "champ": "Répertoire linguistique",
+      "section": "Répertoire linguistique",
+      "chemin": [
+        "A. Langue fonctionnelle",
+        "9. Opinions"
+      ],
+      "texte": "c. Appuyer ses opinions (ex. I believe this because…, For example…, Based on the text…)",
+      "progression": {
+        "1": null,
+        "2": "apprentissage",
+        "3": "apprentissage",
+        "4": "apprentissage",
+        "5": "maitrise"
+      },
+      "page": 8,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ALSB-REP-020",
+      "champ": "Répertoire linguistique",
+      "section": "Répertoire linguistique",
+      "chemin": [
+        "A. Langue fonctionnelle",
+        "9. Opinions"
+      ],
+      "texte": "d. Demander à d’autres personnes d’appuyer leurs opinions (ex. Why do you say that? Why are you against…? What are your arguments?)",
+      "progression": {
+        "1": null,
+        "2": "apprentissage",
+        "3": "apprentissage",
+        "4": "apprentissage",
+        "5": "maitrise"
+      },
+      "page": 8,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ALSB-REP-021",
+      "champ": "Répertoire linguistique",
+      "section": "Répertoire linguistique",
+      "chemin": [
+        "A. Langue fonctionnelle",
+        "10. Capacités"
+      ],
+      "texte": "a. Énoncer des capacités (ex. He’s good at…, They are unable to…, I can/can’t…)",
+      "vu_au_primaire": true,
+      "progression": {
+        "1": null,
+        "2": "maitrise",
+        "3": "reinvestissement",
+        "4": "reinvestissement",
+        "5": "reinvestissement"
+      },
+      "page": 8,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ALSB-REP-022",
+      "champ": "Répertoire linguistique",
+      "section": "Répertoire linguistique",
+      "chemin": [
+        "A. Langue fonctionnelle",
+        "10. Capacités"
+      ],
+      "texte": "b. Se renseigner sur des capacités (ex. Do they know how to…? Can it…? Are you good at…?)",
+      "vu_au_primaire": true,
+      "progression": {
+        "1": null,
+        "2": "apprentissage",
+        "3": "maitrise",
+        "4": "reinvestissement",
+        "5": "reinvestissement"
+      },
+      "page": 8,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ALSB-REP-023",
+      "champ": "Répertoire linguistique",
+      "section": "Répertoire linguistique",
+      "chemin": [
+        "A. Langue fonctionnelle",
+        "11. Sentiments"
+      ],
+      "texte": "a. Exprimer des sentiments (ex. I’m thrilled. She feels..., They’re happy.)",
+      "vu_au_primaire": true,
+      "progression": {
+        "1": null,
+        "2": "maitrise",
+        "3": "reinvestissement",
+        "4": "reinvestissement",
+        "5": "reinvestissement"
+      },
+      "page": 8,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ALSB-REP-024",
+      "champ": "Répertoire linguistique",
+      "section": "Répertoire linguistique",
+      "chemin": [
+        "A. Langue fonctionnelle",
+        "11. Sentiments"
+      ],
+      "texte": "b. Se renseigner sur les sentiments d’autres personnes (ex. How do you feel about…? Are you okay? Why is she sad?)",
+      "vu_au_primaire": true,
+      "progression": {
+        "1": null,
+        "2": "apprentissage",
+        "3": "maitrise",
+        "4": "reinvestissement",
+        "5": "reinvestissement"
+      },
+      "page": 8,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ALSB-REP-025",
+      "champ": "Répertoire linguistique",
+      "section": "Répertoire linguistique",
+      "chemin": [
+        "A. Langue fonctionnelle",
+        "12. Intérêts, goûts et préférences"
+      ],
+      "texte": "a. Exprimer des intérêts, des goûts et des préférences (ex. They like…, I can’t stand…, She prefers…)",
+      "vu_au_primaire": true,
+      "progression": {
+        "1": null,
+        "2": "maitrise",
+        "3": "reinvestissement",
+        "4": "reinvestissement",
+        "5": "reinvestissement"
+      },
+      "page": 8,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ALSB-REP-026",
+      "champ": "Répertoire linguistique",
+      "section": "Répertoire linguistique",
+      "chemin": [
+        "A. Langue fonctionnelle",
+        "12. Intérêts, goûts et préférences"
+      ],
+      "texte": "b. Se renseigner sur les intérêts, les goûts et les préférences d’autres personnes (ex. Which would you prefer? What’s your favourite…? Why do you like…?)",
+      "vu_au_primaire": true,
+      "progression": {
+        "1": null,
+        "2": "apprentissage",
+        "3": "maitrise",
+        "4": "reinvestissement",
+        "5": "reinvestissement"
+      },
+      "page": 8,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ALSB-REP-027",
+      "champ": "Répertoire linguistique",
+      "section": "Répertoire linguistique",
+      "chemin": [
+        "A. Langue fonctionnelle",
+        "13. Décisions et indécisions"
+      ],
+      "texte": "a. Exprimer une décision ou une indécision (ex. I decided that…, We choose this one. I’m not sure about this.)",
+      "progression": {
+        "1": null,
+        "2": "apprentissage",
+        "3": "maitrise",
+        "4": "reinvestissement",
+        "5": "reinvestissement"
+      },
+      "page": 9,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ALSB-REP-028",
+      "champ": "Répertoire linguistique",
+      "section": "Répertoire linguistique",
+      "chemin": [
+        "A. Langue fonctionnelle",
+        "13. Décisions et indécisions"
+      ],
+      "texte": "b. Se renseigner sur la décision ou l’indécision d’autres personnes (ex. What have you decided? Have you made up your mind? What’s your decision?)",
+      "progression": {
+        "1": null,
+        "2": "apprentissage",
+        "3": "maitrise",
+        "4": "reinvestissement",
+        "5": "reinvestissement"
+      },
+      "page": 9,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ALSB-REP-029",
+      "champ": "Répertoire linguistique",
+      "section": "Répertoire linguistique",
+      "chemin": [
+        "A. Langue fonctionnelle",
+        "14. Permissions"
+      ],
+      "texte": "a. Demander une permission (ex. May/Can I…? Do you mind if…? Is it all right if…?)",
+      "vu_au_primaire": true,
+      "progression": {
+        "1": null,
+        "2": "reinvestissement",
+        "3": "reinvestissement",
+        "4": "reinvestissement",
+        "5": "reinvestissement"
+      },
+      "page": 9,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ALSB-REP-030",
+      "champ": "Répertoire linguistique",
+      "section": "Répertoire linguistique",
+      "chemin": [
+        "A. Langue fonctionnelle",
+        "14. Permissions"
+      ],
+      "texte": "b. Accorder ou refuser une permission (ex. Yes, go ahead. No you can’t. Sure, no problem.)",
+      "progression": {
+        "1": null,
+        "2": "maitrise",
+        "3": "reinvestissement",
+        "4": "reinvestissement",
+        "5": "reinvestissement"
+      },
+      "page": 9,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ALSB-REP-031",
+      "champ": "Répertoire linguistique",
+      "section": "Répertoire linguistique",
+      "chemin": [
+        "A. Langue fonctionnelle",
+        "15. Conseils et rétroactions"
+      ],
+      "texte": "a. Donner des conseils et une rétroaction (ex. Why don’t you try…, If I were you, I would…, You could…)",
+      "progression": {
+        "1": null,
+        "2": "apprentissage",
+        "3": "apprentissage",
+        "4": "maitrise",
+        "5": "reinvestissement"
+      },
+      "page": 9,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ALSB-REP-032",
+      "champ": "Répertoire linguistique",
+      "section": "Répertoire linguistique",
+      "chemin": [
+        "A. Langue fonctionnelle",
+        "15. Conseils et rétroactions"
+      ],
+      "texte": "b. Demander des conseils et une rétroaction (ex. What would you do? Could you give me your feedback on this? Would you have a look at…?)",
+      "progression": {
+        "1": null,
+        "2": "apprentissage",
+        "3": "apprentissage",
+        "4": "maitrise",
+        "5": "reinvestissement"
+      },
+      "page": 9,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ALSB-REP-033",
+      "champ": "Répertoire linguistique",
+      "section": "Répertoire linguistique",
+      "chemin": [
+        "A. Langue fonctionnelle",
+        "16. Directives, consignes et routines de classe"
+      ],
+      "texte": "a. Participer à la vie de classe (ex. Write this down. I would like to work with…, How was your weekend?)",
+      "vu_au_primaire": true,
+      "progression": {
+        "1": null,
+        "2": "reinvestissement",
+        "3": "reinvestissement",
+        "4": "reinvestissement",
+        "5": "reinvestissement"
+      },
+      "page": 9,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ALSB-REP-034",
+      "champ": "Répertoire linguistique",
+      "section": "Répertoire linguistique",
+      "chemin": [
+        "A. Langue fonctionnelle",
+        "17. Aide"
+      ],
+      "texte": "a. Demander de l’aide (ex. How do you write…? How would you do this? Can you help me with…?)",
+      "vu_au_primaire": true,
+      "progression": {
+        "1": null,
+        "2": "reinvestissement",
+        "3": "reinvestissement",
+        "4": "reinvestissement",
+        "5": "reinvestissement"
+      },
+      "page": 9,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ALSB-REP-035",
+      "champ": "Répertoire linguistique",
+      "section": "Répertoire linguistique",
+      "chemin": [
+        "A. Langue fonctionnelle",
+        "17. Aide"
+      ],
+      "texte": "b. Accepter ou refuser l’aide offerte (ex. No thanks. Sure, that’s fine. Yes, I’ll help you.)",
+      "vu_au_primaire": true,
+      "progression": {
+        "1": null,
+        "2": "reinvestissement",
+        "3": "reinvestissement",
+        "4": "reinvestissement",
+        "5": "reinvestissement"
+      },
+      "page": 9,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ALSB-REP-036",
+      "champ": "Répertoire linguistique",
+      "section": "Répertoire linguistique",
+      "chemin": [
+        "A. Langue fonctionnelle",
+        "17. Aide"
+      ],
+      "texte": "c. Offrir de l’aide (ex. Do you want me to help you? I can help you with…, Let me give you a hand.)",
+      "vu_au_primaire": true,
+      "progression": {
+        "1": null,
+        "2": "apprentissage",
+        "3": "maitrise",
+        "4": "reinvestissement",
+        "5": "reinvestissement"
+      },
+      "page": 9,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ALSB-REP-037",
+      "champ": "Répertoire linguistique",
+      "section": "Répertoire linguistique",
+      "chemin": [
+        "A. Langue fonctionnelle",
+        "18. Besoins"
+      ],
+      "texte": "a. Exprimer des besoins, des désirs et des obligations (ex. They need…, I really want…, We must…)",
+      "vu_au_primaire": true,
+      "progression": {
+        "1": null,
+        "2": "maitrise",
+        "3": "reinvestissement",
+        "4": "reinvestissement",
+        "5": "reinvestissement"
+      },
+      "page": 9,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ALSB-REP-038",
+      "champ": "Répertoire linguistique",
+      "section": "Répertoire linguistique",
+      "chemin": [
+        "A. Langue fonctionnelle",
+        "18. Besoins"
+      ],
+      "texte": "b. Se renseigner sur des besoins, des désirs et des obligations (ex. What do they need? What does she want? What do we have to do?)",
+      "vu_au_primaire": true,
+      "progression": {
+        "1": null,
+        "2": "apprentissage",
+        "3": "maitrise",
+        "4": "reinvestissement",
+        "5": "reinvestissement"
+      },
+      "page": 9,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ALSB-REP-039",
+      "champ": "Répertoire linguistique",
+      "section": "Répertoire linguistique",
+      "chemin": [
+        "A. Langue fonctionnelle",
+        "19. Demandes de renseignements"
+      ],
+      "texte": "a. Demander une information (ex. Who/What/Where/When/Why/How...? Does he…? Can they…? Are you...?)",
+      "vu_au_primaire": true,
+      "progression": {
+        "1": null,
+        "2": "apprentissage",
+        "3": "apprentissage",
+        "4": "maitrise",
+        "5": "reinvestissement"
+      },
+      "page": 9,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ALSB-REP-040",
+      "champ": "Répertoire linguistique",
+      "section": "Répertoire linguistique",
+      "chemin": [
+        "A. Langue fonctionnelle",
+        "20. Clarifications"
+      ],
+      "texte": "a. Solliciter des clarifications (ex. Could you repeat, please? Can you say that another way? What does… mean?)",
+      "vu_au_primaire": true,
+      "progression": {
+        "1": null,
+        "2": "reinvestissement",
+        "3": "reinvestissement",
+        "4": "reinvestissement",
+        "5": "reinvestissement"
+      },
+      "page": 9,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ALSB-REP-041",
+      "champ": "Répertoire linguistique",
+      "section": "Répertoire linguistique",
+      "chemin": [
+        "A. Langue fonctionnelle",
+        "20. Clarifications"
+      ],
+      "texte": "b. Offrir des clarifications (ex. What I said was…, Let me explain..., I mean…)",
+      "progression": {
+        "1": null,
+        "2": "apprentissage",
+        "3": "maitrise",
+        "4": "reinvestissement",
+        "5": "reinvestissement"
+      },
+      "page": 9,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ALSB-REP-042",
+      "champ": "Répertoire linguistique",
+      "section": "Répertoire linguistique",
+      "chemin": [
+        "A. Langue fonctionnelle",
+        "21. Suggestions"
+      ],
+      "texte": "a. Faire des suggestions (ex. Let’s…, Maybe you should…, Why don’t we…?)",
+      "vu_au_primaire": true,
+      "progression": {
+        "1": null,
+        "2": "maitrise",
+        "3": "reinvestissement",
+        "4": "reinvestissement",
+        "5": "reinvestissement"
+      },
+      "page": 9,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ALSB-REP-043",
+      "champ": "Répertoire linguistique",
+      "section": "Répertoire linguistique",
+      "chemin": [
+        "A. Langue fonctionnelle",
+        "21. Suggestions"
+      ],
+      "texte": "b. Demander des suggestions (ex. Should I…? What do you suggest? Do you have a suggestion?)",
+      "progression": {
+        "1": null,
+        "2": "apprentissage",
+        "3": "maitrise",
+        "4": "reinvestissement",
+        "5": "reinvestissement"
+      },
+      "page": 9,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ALSB-REP-044",
+      "champ": "Répertoire linguistique",
+      "section": "Répertoire linguistique",
+      "chemin": [
+        "A. Langue fonctionnelle",
+        "22. Invitations"
+      ],
+      "texte": "a. Faire des invitations (ex. Let’s go to…, Would you like to…? Do you want to join us?)",
+      "vu_au_primaire": true,
+      "progression": {
+        "1": null,
+        "2": "maitrise",
+        "3": "reinvestissement",
+        "4": "reinvestissement",
+        "5": "reinvestissement"
+      },
+      "page": 9,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ALSB-REP-045",
+      "champ": "Répertoire linguistique",
+      "section": "Répertoire linguistique",
+      "chemin": [
+        "B. Vocabulaire"
+      ],
+      "texte": "a. Utiliser le vocabulaire ciblé lié à l’environnement immédiat comme la classe, la maison ou la collectivité (ex. stapler).",
+      "vu_au_primaire": true,
+      "progression": {
+        "1": null,
+        "2": "reinvestissement",
+        "3": "reinvestissement",
+        "4": "reinvestissement",
+        "5": "reinvestissement"
+      },
+      "page": 10,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ALSB-REP-046",
+      "champ": "Répertoire linguistique",
+      "section": "Répertoire linguistique",
+      "chemin": [
+        "B. Vocabulaire"
+      ],
+      "texte": "b. Utiliser le vocabulaire ciblé lié aux champs d’intérêt et aux besoins de l’élève comme les loisirs, les relations personnelles et les emplois (ex. sports equipment)",
+      "vu_au_primaire": true,
+      "progression": {
+        "1": null,
+        "2": "apprentissage",
+        "3": "maitrise",
+        "4": "reinvestissement",
+        "5": "reinvestissement"
+      },
+      "page": 10,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ALSB-REP-047",
+      "champ": "Répertoire linguistique",
+      "section": "Répertoire linguistique",
+      "chemin": [
+        "B. Vocabulaire",
+        "c. Utiliser le vocabulaire ciblé lié aux problématiques relevant des domaines généraux de formation"
+      ],
+      "texte": "Orientation et entrepreneuriat (ex. occupations)",
+      "vu_au_primaire": true,
+      "progression": {
+        "1": null,
+        "2": "apprentissage",
+        "3": "apprentissage",
+        "4": "apprentissage",
+        "5": "apprentissage"
+      },
+      "page": 10,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ALSB-REP-048",
+      "champ": "Répertoire linguistique",
+      "section": "Répertoire linguistique",
+      "chemin": [
+        "B. Vocabulaire",
+        "c. Utiliser le vocabulaire ciblé lié aux problématiques relevant des domaines généraux de formation"
+      ],
+      "texte": "Environnement et consommation (ex. pollution)",
+      "progression": {
+        "1": null,
+        "2": "apprentissage",
+        "3": "apprentissage",
+        "4": "apprentissage",
+        "5": "apprentissage"
+      },
+      "page": 10,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ALSB-REP-049",
+      "champ": "Répertoire linguistique",
+      "section": "Répertoire linguistique",
+      "chemin": [
+        "B. Vocabulaire",
+        "c. Utiliser le vocabulaire ciblé lié aux problématiques relevant des domaines généraux de formation"
+      ],
+      "texte": "Médias (ex. copyrights)",
+      "progression": {
+        "1": null,
+        "2": "apprentissage",
+        "3": "apprentissage",
+        "4": "apprentissage",
+        "5": "apprentissage"
+      },
+      "page": 10,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ALSB-REP-050",
+      "champ": "Répertoire linguistique",
+      "section": "Répertoire linguistique",
+      "chemin": [
+        "B. Vocabulaire",
+        "c. Utiliser le vocabulaire ciblé lié aux problématiques relevant des domaines généraux de formation"
+      ],
+      "texte": "Vivre-ensemble et citoyenneté (ex. democracy)",
+      "progression": {
+        "1": null,
+        "2": "apprentissage",
+        "3": "apprentissage",
+        "4": "apprentissage",
+        "5": "apprentissage"
+      },
+      "page": 10,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ALSB-REP-051",
+      "champ": "Répertoire linguistique",
+      "section": "Répertoire linguistique",
+      "chemin": [
+        "B. Vocabulaire",
+        "d. Utiliser le vocabulaire ciblé lié au développement des compétences transversales"
+      ],
+      "texte": "Se donner des méthodes de travail efficaces (ex. process)",
+      "vu_au_primaire": true,
+      "progression": {
+        "1": null,
+        "2": "apprentissage",
+        "3": "apprentissage",
+        "4": "apprentissage",
+        "5": "apprentissage"
+      },
+      "page": 11,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ALSB-REP-052",
+      "champ": "Répertoire linguistique",
+      "section": "Répertoire linguistique",
+      "chemin": [
+        "B. Vocabulaire",
+        "d. Utiliser le vocabulaire ciblé lié au développement des compétences transversales"
+      ],
+      "texte": "Exploiter les technologies de l’information et de la communication (ex. networks)",
+      "progression": {
+        "1": null,
+        "2": "apprentissage",
+        "3": "apprentissage",
+        "4": "apprentissage",
+        "5": "apprentissage"
+      },
+      "page": 11,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ALSB-REP-053",
+      "champ": "Répertoire linguistique",
+      "section": "Répertoire linguistique",
+      "chemin": [
+        "B. Vocabulaire",
+        "d. Utiliser le vocabulaire ciblé lié au développement des compétences transversales"
+      ],
+      "texte": "Actualiser son potentiel (ex. autonomy)",
+      "progression": {
+        "1": null,
+        "2": "apprentissage",
+        "3": "apprentissage",
+        "4": "apprentissage",
+        "5": "apprentissage"
+      },
+      "page": 11,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ALSB-REP-054",
+      "champ": "Répertoire linguistique",
+      "section": "Répertoire linguistique",
+      "chemin": [
+        "B. Vocabulaire",
+        "d. Utiliser le vocabulaire ciblé lié au développement des compétences transversales"
+      ],
+      "texte": "Coopérer (ex. teammates)",
+      "progression": {
+        "1": null,
+        "2": "apprentissage",
+        "3": "apprentissage",
+        "4": "apprentissage",
+        "5": "apprentissage"
+      },
+      "page": 11,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ALSB-REP-055",
+      "champ": "Répertoire linguistique",
+      "section": "Répertoire linguistique",
+      "chemin": [
+        "B. Vocabulaire",
+        "d. Utiliser le vocabulaire ciblé lié au développement des compétences transversales"
+      ],
+      "texte": "Communiquer de façon appropriée (ex. audience)",
+      "progression": {
+        "1": null,
+        "2": "apprentissage",
+        "3": "apprentissage",
+        "4": "apprentissage",
+        "5": "apprentissage"
+      },
+      "page": 11,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ALSB-REP-056",
+      "champ": "Répertoire linguistique",
+      "section": "Répertoire linguistique",
+      "chemin": [
+        "B. Vocabulaire"
+      ],
+      "texte": "e. Utiliser le vocabulaire ciblé lié aux stratégies de communication et d’apprentissage (ex. skim: quick read)",
+      "vu_au_primaire": true,
+      "progression": {
+        "1": null,
+        "2": "apprentissage",
+        "3": "apprentissage",
+        "4": "apprentissage",
+        "5": "maitrise"
+      },
+      "page": 11,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ALSB-REP-057",
+      "champ": "Répertoire linguistique",
+      "section": "Répertoire linguistique",
+      "chemin": [
+        "B. Vocabulaire"
+      ],
+      "texte": "f. Utiliser le vocabulaire ciblé lié aux démarches de réponse, d’écriture et de production (ex. response process: exploring, connecting, generalizing)",
+      "progression": {
+        "1": null,
+        "2": "apprentissage",
+        "3": "apprentissage",
+        "4": "maitrise",
+        "5": "reinvestissement"
+      },
+      "page": 11,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ALSB-REP-058",
+      "champ": "Répertoire linguistique",
+      "section": "Répertoire linguistique",
+      "chemin": [
+        "B. Vocabulaire"
+      ],
+      "texte": "g. Utiliser le vocabulaire ciblé lié aux conventions linguistiques (intonation, ponctuation et grammaire) (ex. talk: silent letter ‘l’)",
+      "vu_au_primaire": true,
+      "progression": {
+        "1": null,
+        "2": "apprentissage",
+        "3": "apprentissage",
+        "4": "maitrise",
+        "5": "reinvestissement"
+      },
+      "page": 11,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ALSB-REP-059",
+      "champ": "Répertoire linguistique",
+      "section": "Répertoire linguistique",
+      "chemin": [
+        "B. Vocabulaire"
+      ],
+      "texte": "h. Utiliser le vocabulaire ciblé lié aux textes (ex. text components: subtitles)",
+      "vu_au_primaire": true,
+      "progression": {
+        "1": null,
+        "2": "apprentissage",
+        "3": "apprentissage",
+        "4": "apprentissage",
+        "5": "maitrise"
+      },
+      "page": 11,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ALSB-REP-060",
+      "champ": "Répertoire linguistique",
+      "section": "Répertoire linguistique",
+      "chemin": [
+        "C. Conventions linguistiques",
+        "1. Intonation et prononciation"
+      ],
+      "texte": "a. Varier la hauteur de la voix pour moduler le sens (ex. hausser la voix pour exprimer sa surprise : It’s snowing?_↑)",
+      "vu_au_primaire": true,
+      "progression": {
+        "1": null,
+        "2": "apprentissage",
+        "3": "maitrise",
+        "4": "reinvestissement",
+        "5": "reinvestissement"
+      },
+      "page": 12,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ALSB-REP-061",
+      "champ": "Répertoire linguistique",
+      "section": "Répertoire linguistique",
+      "chemin": [
+        "C. Conventions linguistiques",
+        "1. Intonation et prononciation"
+      ],
+      "texte": "b. Mettre l’accent au bon endroit et bien prononcer les mots utilisés fréquemment pour participer à la vie de la classe (ex. Wednesday: \\' wenz-day\\)",
+      "vu_au_primaire": true,
+      "progression": {
+        "1": null,
+        "2": "apprentissage",
+        "3": "maitrise",
+        "4": "reinvestissement",
+        "5": "reinvestissement"
+      },
+      "page": 12,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ALSB-REP-062",
+      "champ": "Répertoire linguistique",
+      "section": "Répertoire linguistique",
+      "chemin": [
+        "C. Conventions linguistiques",
+        "1. Intonation et prononciation"
+      ],
+      "texte": "c. Mettre l’accent au bon endroit et bien prononcer les mots ciblés liés à la réalisation des tâches (ex. chocolate: \\' chä-clate\\)",
+      "progression": {
+        "1": null,
+        "2": "apprentissage",
+        "3": "apprentissage",
+        "4": "apprentissage",
+        "5": "apprentissage"
+      },
+      "page": 12,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ALSB-REP-063",
+      "champ": "Répertoire linguistique",
+      "section": "Répertoire linguistique",
+      "chemin": [
+        "C. Conventions linguistiques",
+        "2. Grammaire"
+      ],
+      "texte": "a. Utiliser la connaissance de l’emploi des majuscules, des règles de ponctuation et de l’orthographe d’usage ciblés pour construire le sens des textes",
+      "vu_au_primaire": true,
+      "progression": {
+        "1": null,
+        "2": "apprentissage",
+        "3": "apprentissage",
+        "4": "maitrise",
+        "5": "reinvestissement"
+      },
+      "page": 12,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ALSB-REP-064",
+      "champ": "Répertoire linguistique",
+      "section": "Répertoire linguistique",
+      "chemin": [
+        "C. Conventions linguistiques",
+        "2. Grammaire"
+      ],
+      "texte": "b. Utiliser la connaissance de l’emploi des majuscules, des règles de ponctuation et de l’orthographe d’usage ciblés pour écrire et produire des textes",
+      "vu_au_primaire": true,
+      "progression": {
+        "1": null,
+        "2": "apprentissage",
+        "3": "apprentissage",
+        "4": "maitrise",
+        "5": "reinvestissement"
+      },
+      "page": 12,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ALSB-REP-065",
+      "champ": "Répertoire linguistique",
+      "section": "Répertoire linguistique",
+      "chemin": [
+        "C. Conventions linguistiques",
+        "2. Grammaire"
+      ],
+      "texte": "c. Utiliser la connaissance des structures grammaticales ciblées pour construire le sens des messages oraux et écrits",
+      "vu_au_primaire": true,
+      "progression": {
+        "1": null,
+        "2": "apprentissage",
+        "3": "apprentissage",
+        "4": "apprentissage",
+        "5": "apprentissage"
+      },
+      "page": 12,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ALSB-REP-066",
+      "champ": "Répertoire linguistique",
+      "section": "Répertoire linguistique",
+      "chemin": [
+        "C. Conventions linguistiques",
+        "2. Grammaire"
+      ],
+      "texte": "d. Utiliser les structures grammaticales ciblées pour formuler des messages oraux et écrits",
+      "vu_au_primaire": true,
+      "progression": {
+        "1": null,
+        "2": "apprentissage",
+        "3": "apprentissage",
+        "4": "apprentissage",
+        "5": "apprentissage"
+      },
+      "page": 12,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ALSB-STR-001",
+      "champ": "Stratégies",
+      "section": "Stratégies",
+      "chemin": [
+        "A. Stratégies de communication Stratégies servant à résoudre les problèmes qui surviennent lorsque l’élève participe à une interaction ou l’entretient",
+        "1. Liste des stratégies de communication"
+      ],
+      "texte": "1.1. Faire des gestes",
+      "vu_au_primaire": true,
+      "progression": {
+        "1": null,
+        "2": "reinvestissement",
+        "3": "reinvestissement",
+        "4": "reinvestissement",
+        "5": "reinvestissement"
+      },
+      "page": 13,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ALSB-STR-002",
+      "champ": "Stratégies",
+      "section": "Stratégies",
+      "chemin": [
+        "A. Stratégies de communication Stratégies servant à résoudre les problèmes qui surviennent lorsque l’élève participe à une interaction ou l’entretient",
+        "1. Liste des stratégies de communication"
+      ],
+      "texte": "a. Recourir à une action physique pour transmettre ou appuyer son message",
+      "progression": {
+        "1": null,
+        "2": "reinvestissement",
+        "3": "reinvestissement",
+        "4": "reinvestissement",
+        "5": "reinvestissement"
+      },
+      "page": 13,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ALSB-STR-003",
+      "champ": "Stratégies",
+      "section": "Stratégies",
+      "chemin": [
+        "A. Stratégies de communication Stratégies servant à résoudre les problèmes qui surviennent lorsque l’élève participe à une interaction ou l’entretient",
+        "1. Liste des stratégies de communication"
+      ],
+      "texte": "1.2. Reprendre",
+      "progression": {
+        "1": null,
+        "2": "apprentissage",
+        "3": "maitrise",
+        "4": "reinvestissement",
+        "5": "reinvestissement"
+      },
+      "page": 13,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ALSB-STR-004",
+      "champ": "Stratégies",
+      "section": "Stratégies",
+      "chemin": [
+        "A. Stratégies de communication Stratégies servant à résoudre les problèmes qui surviennent lorsque l’élève participe à une interaction ou l’entretient",
+        "1. Liste des stratégies de communication"
+      ],
+      "texte": "a. Répéter ce qu’une personne vient de dire pour vérifier sa propre compréhension",
+      "progression": {
+        "1": null,
+        "2": "apprentissage",
+        "3": "maitrise",
+        "4": "reinvestissement",
+        "5": "reinvestissement"
+      },
+      "page": 13,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ALSB-STR-005",
+      "champ": "Stratégies",
+      "section": "Stratégies",
+      "chemin": [
+        "A. Stratégies de communication Stratégies servant à résoudre les problèmes qui surviennent lorsque l’élève participe à une interaction ou l’entretient",
+        "1. Liste des stratégies de communication"
+      ],
+      "texte": "1.3. Reformuler",
+      "progression": {
+        "1": null,
+        "2": "apprentissage",
+        "3": "maitrise",
+        "4": "reinvestissement",
+        "5": "reinvestissement"
+      },
+      "page": 13,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ALSB-STR-006",
+      "champ": "Stratégies",
+      "section": "Stratégies",
+      "chemin": [
+        "A. Stratégies de communication Stratégies servant à résoudre les problèmes qui surviennent lorsque l’élève participe à une interaction ou l’entretient",
+        "1. Liste des stratégies de communication"
+      ],
+      "texte": "a. Exprimer d’une autre façon",
+      "progression": {
+        "1": null,
+        "2": "apprentissage",
+        "3": "maitrise",
+        "4": "reinvestissement",
+        "5": "reinvestissement"
+      },
+      "page": 13,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ALSB-STR-007",
+      "champ": "Stratégies",
+      "section": "Stratégies",
+      "chemin": [
+        "A. Stratégies de communication Stratégies servant à résoudre les problèmes qui surviennent lorsque l’élève participe à une interaction ou l’entretient",
+        "1. Liste des stratégies de communication"
+      ],
+      "texte": "1.4. Faire de courtes pauses",
+      "vu_au_primaire": true,
+      "progression": {
+        "1": null,
+        "2": "reinvestissement",
+        "3": "reinvestissement",
+        "4": "reinvestissement",
+        "5": "reinvestissement"
+      },
+      "page": 13,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ALSB-STR-008",
+      "champ": "Stratégies",
+      "section": "Stratégies",
+      "chemin": [
+        "A. Stratégies de communication Stratégies servant à résoudre les problèmes qui surviennent lorsque l’élève participe à une interaction ou l’entretient",
+        "1. Liste des stratégies de communication"
+      ],
+      "texte": "a. Se donner le temps de réagir pour trouver quoi dire et comment le dire",
+      "progression": {
+        "1": null,
+        "2": "reinvestissement",
+        "3": "reinvestissement",
+        "4": "reinvestissement",
+        "5": "reinvestissement"
+      },
+      "page": 13,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ALSB-STR-009",
+      "champ": "Stratégies",
+      "section": "Stratégies",
+      "chemin": [
+        "A. Stratégies de communication Stratégies servant à résoudre les problèmes qui surviennent lorsque l’élève participe à une interaction ou l’entretient",
+        "1. Liste des stratégies de communication"
+      ],
+      "texte": "1.5. Substituer",
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "reinvestissement",
+        "4": "reinvestissement",
+        "5": "reinvestissement"
+      },
+      "page": 13,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ALSB-STR-010",
+      "champ": "Stratégies",
+      "section": "Stratégies",
+      "chemin": [
+        "A. Stratégies de communication Stratégies servant à résoudre les problèmes qui surviennent lorsque l’élève participe à une interaction ou l’entretient",
+        "1. Liste des stratégies de communication"
+      ],
+      "texte": "a. Utiliser une expression ou des mots moins précis pour remplacer un mot non connu",
+      "vu_au_primaire": true,
+      "progression": {
+        "1": null,
+        "2": "maitrise",
+        "3": "reinvestissement",
+        "4": "reinvestissement",
+        "5": "reinvestissement"
+      },
+      "page": 13,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ALSB-STR-011",
+      "champ": "Stratégies",
+      "section": "Stratégies",
+      "chemin": [
+        "A. Stratégies de communication Stratégies servant à résoudre les problèmes qui surviennent lorsque l’élève participe à une interaction ou l’entretient",
+        "2. Autorégulation des stratégies de communication"
+      ],
+      "texte": "a. Utiliser des moyens d’autoévaluation pour réfléchir à l’efficacité d’une stratégie de communication donnée (ex. la grille d’autoévaluation, la discussion en classe)",
+      "vu_au_primaire": true,
+      "progression": {
+        "1": null,
+        "2": "apprentissage",
+        "3": "apprentissage",
+        "4": "maitrise",
+        "5": "reinvestissement"
+      },
+      "page": 13,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ALSB-STR-012",
+      "champ": "Stratégies",
+      "section": "Stratégies",
+      "chemin": [
+        "A. Stratégies de communication Stratégies servant à résoudre les problèmes qui surviennent lorsque l’élève participe à une interaction ou l’entretient",
+        "2. Autorégulation des stratégies de communication",
+        "b. Gérer un répertoire de stratégies de communication"
+      ],
+      "texte": "Choisir celles qui conviennent à la tâche à réaliser",
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": "apprentissage",
+        "5": "apprentissage"
+      },
+      "page": 13,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ALSB-STR-013",
+      "champ": "Stratégies",
+      "section": "Stratégies",
+      "chemin": [
+        "A. Stratégies de communication Stratégies servant à résoudre les problèmes qui surviennent lorsque l’élève participe à une interaction ou l’entretient",
+        "2. Autorégulation des stratégies de communication",
+        "b. Gérer un répertoire de stratégies de communication"
+      ],
+      "texte": "Savoir comment les utiliser",
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": "apprentissage",
+        "5": "apprentissage"
+      },
+      "page": 13,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ALSB-STR-014",
+      "champ": "Stratégies",
+      "section": "Stratégies",
+      "chemin": [
+        "A. Stratégies de communication Stratégies servant à résoudre les problèmes qui surviennent lorsque l’élève participe à une interaction ou l’entretient",
+        "2. Autorégulation des stratégies de communication",
+        "b. Gérer un répertoire de stratégies de communication"
+      ],
+      "texte": "Analyser leur efficacité",
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": "apprentissage",
+        "5": "apprentissage"
+      },
+      "page": 13,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ALSB-STR-015",
+      "champ": "Stratégies",
+      "section": "Stratégies",
+      "chemin": [
+        "A. Stratégies de communication Stratégies servant à résoudre les problèmes qui surviennent lorsque l’élève participe à une interaction ou l’entretient",
+        "2. Autorégulation des stratégies de communication",
+        "b. Gérer un répertoire de stratégies de communication"
+      ],
+      "texte": "Apporter les modifications nécessaires",
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": "apprentissage",
+        "5": "apprentissage"
+      },
+      "page": 13,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ALSB-STR-016",
+      "champ": "Stratégies",
+      "section": "Stratégies",
+      "chemin": [
+        "B. Stratégies métacognitives Stratégies servant à réguler ses apprentissages"
+      ],
+      "texte": "1.1. Prêter une attention dirigée",
+      "vu_au_primaire": true,
+      "progression": {
+        "1": null,
+        "2": "maitrise",
+        "3": "reinvestissement",
+        "4": "reinvestissement",
+        "5": "reinvestissement"
+      },
+      "page": 14,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ALSB-STR-017",
+      "champ": "Stratégies",
+      "section": "Stratégies",
+      "chemin": [
+        "B. Stratégies métacognitives Stratégies servant à réguler ses apprentissages"
+      ],
+      "texte": "a. Prêter attention à la tâche et éviter consciemment les distractions",
+      "progression": {
+        "1": null,
+        "2": "maitrise",
+        "3": "reinvestissement",
+        "4": "reinvestissement",
+        "5": "reinvestissement"
+      },
+      "page": 14,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ALSB-STR-018",
+      "champ": "Stratégies",
+      "section": "Stratégies",
+      "chemin": [
+        "B. Stratégies métacognitives Stratégies servant à réguler ses apprentissages"
+      ],
+      "texte": "1.2. Prêter une attention sélective",
+      "vu_au_primaire": true,
+      "progression": {
+        "1": null,
+        "2": "reinvestissement",
+        "3": "reinvestissement",
+        "4": "reinvestissement",
+        "5": "reinvestissement"
+      },
+      "page": 14,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ALSB-STR-019",
+      "champ": "Stratégies",
+      "section": "Stratégies",
+      "chemin": [
+        "B. Stratégies métacognitives Stratégies servant à réguler ses apprentissages"
+      ],
+      "texte": "a. Décider à l’avance de porter attention à certains détails",
+      "progression": {
+        "1": null,
+        "2": "reinvestissement",
+        "3": "reinvestissement",
+        "4": "reinvestissement",
+        "5": "reinvestissement"
+      },
+      "page": 14,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ALSB-STR-020",
+      "champ": "Stratégies",
+      "section": "Stratégies",
+      "chemin": [
+        "B. Stratégies métacognitives Stratégies servant à réguler ses apprentissages"
+      ],
+      "texte": "1.3. Planifier",
+      "vu_au_primaire": true,
+      "progression": {
+        "1": null,
+        "2": "apprentissage",
+        "3": "apprentissage",
+        "4": "maitrise",
+        "5": "reinvestissement"
+      },
+      "page": 14,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ALSB-STR-021",
+      "champ": "Stratégies",
+      "section": "Stratégies",
+      "chemin": [
+        "B. Stratégies métacognitives Stratégies servant à réguler ses apprentissages"
+      ],
+      "texte": "a. Déterminer les éléments nécessaires à la réalisation d’une tâche",
+      "progression": {
+        "1": null,
+        "2": "apprentissage",
+        "3": "apprentissage",
+        "4": "maitrise",
+        "5": "reinvestissement"
+      },
+      "page": 14,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ALSB-STR-022",
+      "champ": "Stratégies",
+      "section": "Stratégies",
+      "chemin": [
+        "B. Stratégies métacognitives Stratégies servant à réguler ses apprentissages"
+      ],
+      "texte": "1.4. Rechercher ou créer des occasions pour s’exercer",
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": "apprentissage",
+        "5": "maitrise"
+      },
+      "page": 14,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ALSB-STR-023",
+      "champ": "Stratégies",
+      "section": "Stratégies",
+      "chemin": [
+        "B. Stratégies métacognitives Stratégies servant à réguler ses apprentissages"
+      ],
+      "texte": "a. Trouver des situations où pratiquer l’anglais à l’extérieur de la classe",
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": "apprentissage",
+        "5": "maitrise"
+      },
+      "page": 14,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ALSB-STR-024",
+      "champ": "Stratégies",
+      "section": "Stratégies",
+      "chemin": [
+        "B. Stratégies métacognitives Stratégies servant à réguler ses apprentissages"
+      ],
+      "texte": "1.5. S’autoévaluer",
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": "reinvestissement"
+      },
+      "page": 14,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ALSB-STR-025",
+      "champ": "Stratégies",
+      "section": "Stratégies",
+      "chemin": [
+        "B. Stratégies métacognitives Stratégies servant à réguler ses apprentissages"
+      ],
+      "texte": "a. Évaluer ses progrès en réfléchissant à ce qui a été appris et à la façon dont on s’y est pris",
+      "vu_au_primaire": true,
+      "progression": {
+        "1": null,
+        "2": "apprentissage",
+        "3": "apprentissage",
+        "4": "maitrise",
+        "5": "reinvestissement"
+      },
+      "page": 14,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ALSB-STR-026",
+      "champ": "Stratégies",
+      "section": "Stratégies",
+      "chemin": [
+        "B. Stratégies métacognitives Stratégies servant à réguler ses apprentissages"
+      ],
+      "texte": "1.6. S’autocorriger",
+      "vu_au_primaire": true,
+      "progression": {
+        "1": null,
+        "2": "apprentissage",
+        "3": "apprentissage",
+        "4": "maitrise",
+        "5": "reinvestissement"
+      },
+      "page": 14,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ALSB-STR-027",
+      "champ": "Stratégies",
+      "section": "Stratégies",
+      "chemin": [
+        "B. Stratégies métacognitives Stratégies servant à réguler ses apprentissages"
+      ],
+      "texte": "a. Vérifier et corriger ce que l’on dit ou écrit",
+      "progression": {
+        "1": null,
+        "2": "apprentissage",
+        "3": "apprentissage",
+        "4": "maitrise",
+        "5": "reinvestissement"
+      },
+      "page": 14,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ALSB-STR-028",
+      "champ": "Stratégies",
+      "section": "Stratégies",
+      "chemin": [
+        "B. Stratégies métacognitives Stratégies servant à réguler ses apprentissages"
+      ],
+      "texte": "1.7. Se fixer des buts et des objectifs d’apprentissage",
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": "apprentissage",
+        "5": "maitrise"
+      },
+      "page": 14,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ALSB-STR-029",
+      "champ": "Stratégies",
+      "section": "Stratégies",
+      "chemin": [
+        "B. Stratégies métacognitives Stratégies servant à réguler ses apprentissages"
+      ],
+      "texte": "a. Établir des objectifs à court et à long terme pour apprendre l’anglais",
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": "apprentissage",
+        "5": "maitrise"
+      },
+      "page": 14,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ALSB-STR-030",
+      "champ": "Stratégies",
+      "section": "Stratégies",
+      "chemin": [
+        "B. Stratégies métacognitives Stratégies servant à réguler ses apprentissages",
+        "2. Autorégulation des stratégies métacognitives"
+      ],
+      "texte": "a. Utiliser des moyens d’autoévaluation pour réfléchir à l’efficacité d’une stratégie métacognitive donnée (ex. la grille d’autoévaluation, la discussion en classe)",
+      "vu_au_primaire": true,
+      "progression": {
+        "1": null,
+        "2": "apprentissage",
+        "3": "apprentissage",
+        "4": "maitrise",
+        "5": "reinvestissement"
+      },
+      "page": 14,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ALSB-STR-031",
+      "champ": "Stratégies",
+      "section": "Stratégies",
+      "chemin": [
+        "B. Stratégies métacognitives Stratégies servant à réguler ses apprentissages",
+        "2. Autorégulation des stratégies métacognitives",
+        "b. Gérer un répertoire de stratégies métacognitives"
+      ],
+      "texte": "Choisir celles qui conviennent à la tâche à réaliser",
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": "apprentissage",
+        "5": "apprentissage"
+      },
+      "page": 14,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ALSB-STR-032",
+      "champ": "Stratégies",
+      "section": "Stratégies",
+      "chemin": [
+        "B. Stratégies métacognitives Stratégies servant à réguler ses apprentissages",
+        "2. Autorégulation des stratégies métacognitives",
+        "b. Gérer un répertoire de stratégies métacognitives"
+      ],
+      "texte": "Savoir comment les utiliser",
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": "apprentissage",
+        "5": "apprentissage"
+      },
+      "page": 14,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ALSB-STR-033",
+      "champ": "Stratégies",
+      "section": "Stratégies",
+      "chemin": [
+        "B. Stratégies métacognitives Stratégies servant à réguler ses apprentissages",
+        "2. Autorégulation des stratégies métacognitives",
+        "b. Gérer un répertoire de stratégies métacognitives"
+      ],
+      "texte": "Analyser leur efficacité",
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": "apprentissage",
+        "5": "apprentissage"
+      },
+      "page": 14,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ALSB-STR-034",
+      "champ": "Stratégies",
+      "section": "Stratégies",
+      "chemin": [
+        "B. Stratégies métacognitives Stratégies servant à réguler ses apprentissages",
+        "2. Autorégulation des stratégies métacognitives",
+        "b. Gérer un répertoire de stratégies métacognitives"
+      ],
+      "texte": "Apporter les modifications nécessaires",
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": "apprentissage",
+        "5": "apprentissage"
+      },
+      "page": 14,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ALSB-STR-035",
+      "champ": "Stratégies",
+      "section": "Stratégies",
+      "chemin": [
+        "C. Stratégies cognitives Stratégies servant à s’approprier les contenus à l’étude et à interagir avec ceux-ci",
+        "1. Liste des stratégies cognitives"
+      ],
+      "texte": "1.1. Activer les connaissances antérieures",
+      "vu_au_primaire": true,
+      "progression": {
+        "1": null,
+        "2": "maitrise",
+        "3": "reinvestissement",
+        "4": "reinvestissement",
+        "5": "reinvestissement"
+      },
+      "page": 14,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ALSB-STR-036",
+      "champ": "Stratégies",
+      "section": "Stratégies",
+      "chemin": [
+        "C. Stratégies cognitives Stratégies servant à s’approprier les contenus à l’étude et à interagir avec ceux-ci",
+        "1. Liste des stratégies cognitives"
+      ],
+      "texte": "a. Établir un lien entre l’information nouvelle et ce qui est connu",
+      "progression": {
+        "1": null,
+        "2": "maitrise",
+        "3": "reinvestissement",
+        "4": "reinvestissement",
+        "5": "reinvestissement"
+      },
+      "page": 14,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ALSB-STR-037",
+      "champ": "Stratégies",
+      "section": "Stratégies",
+      "chemin": [
+        "C. Stratégies cognitives Stratégies servant à s’approprier les contenus à l’étude et à interagir avec ceux-ci",
+        "1. Liste des stratégies cognitives"
+      ],
+      "texte": "1.2. Comparer",
+      "progression": {
+        "1": null,
+        "2": "apprentissage",
+        "3": "maitrise",
+        "4": "reinvestissement",
+        "5": "reinvestissement"
+      },
+      "page": 14,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ALSB-STR-038",
+      "champ": "Stratégies",
+      "section": "Stratégies",
+      "chemin": [
+        "C. Stratégies cognitives Stratégies servant à s’approprier les contenus à l’étude et à interagir avec ceux-ci",
+        "1. Liste des stratégies cognitives"
+      ],
+      "texte": "a. Noter les similitudes et les différences importantes",
+      "progression": {
+        "1": null,
+        "2": "apprentissage",
+        "3": "maitrise",
+        "4": "reinvestissement",
+        "5": "reinvestissement"
+      },
+      "page": 14,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ALSB-STR-039",
+      "champ": "Stratégies",
+      "section": "Stratégies",
+      "chemin": [
+        "C. Stratégies cognitives Stratégies servant à s’approprier les contenus à l’étude et à interagir avec ceux-ci",
+        "1. Liste des stratégies cognitives"
+      ],
+      "texte": "1.3. Retarder la réponse",
+      "progression": {
+        "1": null,
+        "2": "apprentissage",
+        "3": "maitrise",
+        "4": "reinvestissement",
+        "5": "reinvestissement"
+      },
+      "page": 14,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ALSB-STR-040",
+      "champ": "Stratégies",
+      "section": "Stratégies",
+      "chemin": [
+        "C. Stratégies cognitives Stratégies servant à s’approprier les contenus à l’étude et à interagir avec ceux-ci",
+        "1. Liste des stratégies cognitives"
+      ],
+      "texte": "a. Prendre le temps d’écouter et prendre la parole quand on est prêt",
+      "progression": {
+        "1": null,
+        "2": "apprentissage",
+        "3": "maitrise",
+        "4": "reinvestissement",
+        "5": "reinvestissement"
+      },
+      "page": 14,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ALSB-STR-041",
+      "champ": "Stratégies",
+      "section": "Stratégies",
+      "chemin": [
+        "C. Stratégies cognitives Stratégies servant à s’approprier les contenus à l’étude et à interagir avec ceux-ci",
+        "1. Liste des stratégies cognitives"
+      ],
+      "texte": "1.4. Inférer",
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "reinvestissement",
+        "4": "reinvestissement",
+        "5": "reinvestissement"
+      },
+      "page": 14,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ALSB-STR-042",
+      "champ": "Stratégies",
+      "section": "Stratégies",
+      "chemin": [
+        "C. Stratégies cognitives Stratégies servant à s’approprier les contenus à l’étude et à interagir avec ceux-ci",
+        "1. Liste des stratégies cognitives"
+      ],
+      "texte": "a. Deviner intelligemment à partir de tous les indices disponibles comme le contexte, les mots apparentés, les mots et expressions connus, les indices visuels, l’intonation",
+      "vu_au_primaire": true,
+      "progression": {
+        "1": null,
+        "2": "maitrise",
+        "3": "reinvestissement",
+        "4": "reinvestissement",
+        "5": "reinvestissement"
+      },
+      "page": 14,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ALSB-STR-043",
+      "champ": "Stratégies",
+      "section": "Stratégies",
+      "chemin": [
+        "C. Stratégies cognitives Stratégies servant à s’approprier les contenus à l’étude et à interagir avec ceux-ci",
+        "1. Liste des stratégies cognitives"
+      ],
+      "texte": "1.5. Pratiquer",
+      "vu_au_primaire": true,
+      "progression": {
+        "1": null,
+        "2": "reinvestissement",
+        "3": "reinvestissement",
+        "4": "reinvestissement",
+        "5": "reinvestissement"
+      },
+      "page": 14,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ALSB-STR-044",
+      "champ": "Stratégies",
+      "section": "Stratégies",
+      "chemin": [
+        "C. Stratégies cognitives Stratégies servant à s’approprier les contenus à l’étude et à interagir avec ceux-ci",
+        "1. Liste des stratégies cognitives"
+      ],
+      "texte": "a. Réutiliser les notions linguistiques apprises en classe d’ALS",
+      "progression": {
+        "1": null,
+        "2": "reinvestissement",
+        "3": "reinvestissement",
+        "4": "reinvestissement",
+        "5": "reinvestissement"
+      },
+      "page": 14,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ALSB-STR-045",
+      "champ": "Stratégies",
+      "section": "Stratégies",
+      "chemin": [
+        "C. Stratégies cognitives Stratégies servant à s’approprier les contenus à l’étude et à interagir avec ceux-ci",
+        "1. Liste des stratégies cognitives"
+      ],
+      "texte": "1.6. Prédire",
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "reinvestissement",
+        "4": "reinvestissement",
+        "5": "reinvestissement"
+      },
+      "page": 14,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ALSB-STR-046",
+      "champ": "Stratégies",
+      "section": "Stratégies",
+      "chemin": [
+        "C. Stratégies cognitives Stratégies servant à s’approprier les contenus à l’étude et à interagir avec ceux-ci",
+        "1. Liste des stratégies cognitives"
+      ],
+      "texte": "a. Formuler des hypothèses à partir de ses connaissances antérieures, du sujet, de la tâche à accomplir, des éléments constitutifs d’un texte ou en survolant le texte",
+      "vu_au_primaire": true,
+      "progression": {
+        "1": null,
+        "2": "maitrise",
+        "3": "reinvestissement",
+        "4": "reinvestissement",
+        "5": "reinvestissement"
+      },
+      "page": 14,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ALSB-STR-047",
+      "champ": "Stratégies",
+      "section": "Stratégies",
+      "chemin": [
+        "C. Stratégies cognitives Stratégies servant à s’approprier les contenus à l’étude et à interagir avec ceux-ci",
+        "1. Liste des stratégies cognitives"
+      ],
+      "texte": "1.7. Recombiner",
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": "reinvestissement",
+        "5": "reinvestissement"
+      },
+      "page": 14,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ALSB-STR-048",
+      "champ": "Stratégies",
+      "section": "Stratégies",
+      "chemin": [
+        "C. Stratégies cognitives Stratégies servant à s’approprier les contenus à l’étude et à interagir avec ceux-ci",
+        "1. Liste des stratégies cognitives"
+      ],
+      "texte": "a. Construire une phrase qui a du sens en réunissant d’une nouvelle façon des mots et des expressions connus",
+      "progression": {
+        "1": null,
+        "2": "apprentissage",
+        "3": "maitrise",
+        "4": "reinvestissement",
+        "5": "reinvestissement"
+      },
+      "page": 14,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ALSB-STR-049",
+      "champ": "Stratégies",
+      "section": "Stratégies",
+      "chemin": [
+        "C. Stratégies cognitives Stratégies servant à s’approprier les contenus à l’étude et à interagir avec ceux-ci",
+        "1. Liste des stratégies cognitives"
+      ],
+      "texte": "1.8. Repérer",
+      "vu_au_primaire": true,
+      "progression": {
+        "1": null,
+        "2": "maitrise",
+        "3": "reinvestissement",
+        "4": "reinvestissement",
+        "5": "reinvestissement"
+      },
+      "page": 14,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ALSB-STR-050",
+      "champ": "Stratégies",
+      "section": "Stratégies",
+      "chemin": [
+        "C. Stratégies cognitives Stratégies servant à s’approprier les contenus à l’étude et à interagir avec ceux-ci",
+        "1. Liste des stratégies cognitives"
+      ],
+      "texte": "a. Chercher un renseignement précis dans un texte",
+      "progression": {
+        "1": null,
+        "2": "maitrise",
+        "3": "reinvestissement",
+        "4": "reinvestissement",
+        "5": "reinvestissement"
+      },
+      "page": 14,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ALSB-STR-051",
+      "champ": "Stratégies",
+      "section": "Stratégies",
+      "chemin": [
+        "C. Stratégies cognitives Stratégies servant à s’approprier les contenus à l’étude et à interagir avec ceux-ci",
+        "1. Liste des stratégies cognitives"
+      ],
+      "texte": "1.9. Survoler",
+      "vu_au_primaire": true,
+      "progression": {
+        "1": null,
+        "2": "maitrise",
+        "3": "reinvestissement",
+        "4": "reinvestissement",
+        "5": "reinvestissement"
+      },
+      "page": 14,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ALSB-STR-052",
+      "champ": "Stratégies",
+      "section": "Stratégies",
+      "chemin": [
+        "C. Stratégies cognitives Stratégies servant à s’approprier les contenus à l’étude et à interagir avec ceux-ci",
+        "1. Liste des stratégies cognitives"
+      ],
+      "texte": "a. Lire rapidement un texte pour en avoir un aperçu global",
+      "progression": {
+        "1": null,
+        "2": "maitrise",
+        "3": "reinvestissement",
+        "4": "reinvestissement",
+        "5": "reinvestissement"
+      },
+      "page": 14,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ALSB-STR-053",
+      "champ": "Stratégies",
+      "section": "Stratégies",
+      "chemin": [
+        "C. Stratégies cognitives Stratégies servant à s’approprier les contenus à l’étude et à interagir avec ceux-ci",
+        "1. Liste des stratégies cognitives"
+      ],
+      "texte": "1.10. Prendre des notes",
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": "reinvestissement",
+        "5": "reinvestissement"
+      },
+      "page": 14,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ALSB-STR-054",
+      "champ": "Stratégies",
+      "section": "Stratégies",
+      "chemin": [
+        "C. Stratégies cognitives Stratégies servant à s’approprier les contenus à l’étude et à interagir avec ceux-ci",
+        "1. Liste des stratégies cognitives"
+      ],
+      "texte": "a. Consigner l’information pertinente de façon structurée (ex. les organisateurs graphiques, les questions, les amorces)",
+      "vu_au_primaire": true,
+      "progression": {
+        "1": null,
+        "2": "apprentissage",
+        "3": "maitrise",
+        "4": "reinvestissement",
+        "5": "reinvestissement"
+      },
+      "page": 14,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ALSB-STR-055",
+      "champ": "Stratégies",
+      "section": "Stratégies",
+      "chemin": [
+        "C. Stratégies cognitives Stratégies servant à s’approprier les contenus à l’étude et à interagir avec ceux-ci",
+        "1. Liste des stratégies cognitives"
+      ],
+      "texte": "1.11. Transférer",
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": "apprentissage",
+        "5": "maitrise"
+      },
+      "page": 14,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ALSB-STR-056",
+      "champ": "Stratégies",
+      "section": "Stratégies",
+      "chemin": [
+        "C. Stratégies cognitives Stratégies servant à s’approprier les contenus à l’étude et à interagir avec ceux-ci",
+        "1. Liste des stratégies cognitives"
+      ],
+      "texte": "a. Utiliser les acquis récents dans un nouveau contexte",
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": "apprentissage",
+        "5": "maitrise"
+      },
+      "page": 14,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ALSB-STR-057",
+      "champ": "Stratégies",
+      "section": "Stratégies",
+      "chemin": [
+        "C. Stratégies cognitives Stratégies servant à s’approprier les contenus à l’étude et à interagir avec ceux-ci",
+        "1. Liste des stratégies cognitives"
+      ],
+      "texte": "1.12. Établir des correspondances sémantiques",
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": "reinvestissement"
+      },
+      "page": 14,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ALSB-STR-058",
+      "champ": "Stratégies",
+      "section": "Stratégies",
+      "chemin": [
+        "C. Stratégies cognitives Stratégies servant à s’approprier les contenus à l’étude et à interagir avec ceux-ci",
+        "1. Liste des stratégies cognitives"
+      ],
+      "texte": "a. Grouper des idées selon des attributs communs pour établir des liens entre les concepts",
+      "progression": {
+        "1": null,
+        "2": "apprentissage",
+        "3": "apprentissage",
+        "4": "maitrise",
+        "5": "reinvestissement"
+      },
+      "page": 14,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ALSB-STR-059",
+      "champ": "Stratégies",
+      "section": "Stratégies",
+      "chemin": [
+        "C. Stratégies cognitives Stratégies servant à s’approprier les contenus à l’étude et à interagir avec ceux-ci",
+        "2. Autorégulation des stratégies cognitives"
+      ],
+      "texte": "a. Utiliser des moyens d’autoévaluation pour réfléchir à l’efficacité d’une stratégie cognitive donnée (ex. la grille d’autoévaluation, la discussion en classe)",
+      "vu_au_primaire": true,
+      "progression": {
+        "1": null,
+        "2": "apprentissage",
+        "3": "apprentissage",
+        "4": "maitrise",
+        "5": "reinvestissement"
+      },
+      "page": 15,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ALSB-STR-060",
+      "champ": "Stratégies",
+      "section": "Stratégies",
+      "chemin": [
+        "C. Stratégies cognitives Stratégies servant à s’approprier les contenus à l’étude et à interagir avec ceux-ci",
+        "2. Autorégulation des stratégies cognitives",
+        "b. Gérer un répertoire de stratégies cognitives"
+      ],
+      "texte": "Choisir celles qui conviennent à la tâche à réaliser",
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": "apprentissage",
+        "5": "apprentissage"
+      },
+      "page": 15,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ALSB-STR-061",
+      "champ": "Stratégies",
+      "section": "Stratégies",
+      "chemin": [
+        "C. Stratégies cognitives Stratégies servant à s’approprier les contenus à l’étude et à interagir avec ceux-ci",
+        "2. Autorégulation des stratégies cognitives",
+        "b. Gérer un répertoire de stratégies cognitives"
+      ],
+      "texte": "Savoir comment les utiliser",
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": "apprentissage",
+        "5": "apprentissage"
+      },
+      "page": 15,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ALSB-STR-062",
+      "champ": "Stratégies",
+      "section": "Stratégies",
+      "chemin": [
+        "C. Stratégies cognitives Stratégies servant à s’approprier les contenus à l’étude et à interagir avec ceux-ci",
+        "2. Autorégulation des stratégies cognitives",
+        "b. Gérer un répertoire de stratégies cognitives"
+      ],
+      "texte": "Analyser leur efficacité",
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": "apprentissage",
+        "5": "apprentissage"
+      },
+      "page": 15,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ALSB-STR-063",
+      "champ": "Stratégies",
+      "section": "Stratégies",
+      "chemin": [
+        "C. Stratégies cognitives Stratégies servant à s’approprier les contenus à l’étude et à interagir avec ceux-ci",
+        "2. Autorégulation des stratégies cognitives",
+        "b. Gérer un répertoire de stratégies cognitives"
+      ],
+      "texte": "Apporter les modifications nécessaires",
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": "apprentissage",
+        "5": "apprentissage"
+      },
+      "page": 15,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ALSB-STR-064",
+      "champ": "Stratégies",
+      "section": "Stratégies",
+      "chemin": [
+        "D. Stratégies socioaffectives Stratégies servant à apprendre avec les autres et à contrôler les aspects sociaux et affectifs de l’apprentissage.",
+        "1. Liste des stratégies socioaffectives"
+      ],
+      "texte": "1.1. Demander de l’aide, de répéter, de clarifier ou de confirmer",
+      "vu_au_primaire": true,
+      "progression": {
+        "1": null,
+        "2": "reinvestissement",
+        "3": "reinvestissement",
+        "4": "reinvestissement",
+        "5": "reinvestissement"
+      },
+      "page": 15,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ALSB-STR-065",
+      "champ": "Stratégies",
+      "section": "Stratégies",
+      "chemin": [
+        "D. Stratégies socioaffectives Stratégies servant à apprendre avec les autres et à contrôler les aspects sociaux et affectifs de l’apprentissage.",
+        "1. Liste des stratégies socioaffectives"
+      ],
+      "texte": "a. Solliciter de l’aide, de la répétition, de la clarification ou du renforcement",
+      "progression": {
+        "1": null,
+        "2": "reinvestissement",
+        "3": "reinvestissement",
+        "4": "reinvestissement",
+        "5": "reinvestissement"
+      },
+      "page": 15,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ALSB-STR-066",
+      "champ": "Stratégies",
+      "section": "Stratégies",
+      "chemin": [
+        "D. Stratégies socioaffectives Stratégies servant à apprendre avec les autres et à contrôler les aspects sociaux et affectifs de l’apprentissage.",
+        "1. Liste des stratégies socioaffectives",
+        "1.2. Poser des questions"
+      ],
+      "texte": "a. Demander un conseil, une rétroaction ou d’être corrigé pour favoriser l’apprentissage",
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": "apprentissage",
+        "5": "maitrise"
+      },
+      "page": 15,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ALSB-STR-067",
+      "champ": "Stratégies",
+      "section": "Stratégies",
+      "chemin": [
+        "D. Stratégies socioaffectives Stratégies servant à apprendre avec les autres et à contrôler les aspects sociaux et affectifs de l’apprentissage.",
+        "1. Liste des stratégies socioaffectives"
+      ],
+      "texte": "1.3. Coopérer",
+      "vu_au_primaire": true,
+      "progression": {
+        "1": null,
+        "2": "maitrise",
+        "3": "reinvestissement",
+        "4": "reinvestissement",
+        "5": "reinvestissement"
+      },
+      "page": 15,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ALSB-STR-068",
+      "champ": "Stratégies",
+      "section": "Stratégies",
+      "chemin": [
+        "D. Stratégies socioaffectives Stratégies servant à apprendre avec les autres et à contrôler les aspects sociaux et affectifs de l’apprentissage.",
+        "1. Liste des stratégies socioaffectives",
+        "1.2. Poser des questions"
+      ],
+      "texte": "a. Travailler avec d’autres vers un but commun",
+      "progression": {
+        "1": null,
+        "2": "maitrise",
+        "3": "reinvestissement",
+        "4": "reinvestissement",
+        "5": "reinvestissement"
+      },
+      "page": 15,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ALSB-STR-069",
+      "champ": "Stratégies",
+      "section": "Stratégies",
+      "chemin": [
+        "D. Stratégies socioaffectives Stratégies servant à apprendre avec les autres et à contrôler les aspects sociaux et affectifs de l’apprentissage.",
+        "1. Liste des stratégies socioaffectives",
+        "1.4. Se familiariser avec les repères culturels"
+      ],
+      "texte": "a. Essayer de communiquer avec une personne anglophone, en apprendre le plus possible sur les cultures anglophones et s’exercer à s’exprimer en anglais avec d’autres",
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": "apprentissage",
+        "5": "apprentissage"
+      },
+      "page": 15,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ALSB-STR-070",
+      "champ": "Stratégies",
+      "section": "Stratégies",
+      "chemin": [
+        "D. Stratégies socioaffectives Stratégies servant à apprendre avec les autres et à contrôler les aspects sociaux et affectifs de l’apprentissage.",
+        "1. Liste des stratégies socioaffectives"
+      ],
+      "texte": "1.5. S’encourager/se récompenser et encourager/récompenser les autres",
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": "reinvestissement",
+        "5": "reinvestissement"
+      },
+      "page": 15,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ALSB-STR-071",
+      "champ": "Stratégies",
+      "section": "Stratégies",
+      "chemin": [
+        "D. Stratégies socioaffectives Stratégies servant à apprendre avec les autres et à contrôler les aspects sociaux et affectifs de l’apprentissage.",
+        "1. Liste des stratégies socioaffectives",
+        "1.4. Se familiariser avec les repères culturels"
+      ],
+      "texte": "a. Faire des commentaires positifs pendant une tâche et se féliciter et féliciter les autres une fois la tâche accomplie",
+      "progression": {
+        "1": null,
+        "2": "apprentissage",
+        "3": "maitrise",
+        "4": "reinvestissement",
+        "5": "reinvestissement"
+      },
+      "page": 15,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ALSB-STR-072",
+      "champ": "Stratégies",
+      "section": "Stratégies",
+      "chemin": [
+        "D. Stratégies socioaffectives Stratégies servant à apprendre avec les autres et à contrôler les aspects sociaux et affectifs de l’apprentissage.",
+        "1. Liste des stratégies socioaffectives"
+      ],
+      "texte": "1.6. Diminuer l’anxiété",
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": "reinvestissement",
+        "5": "reinvestissement"
+      },
+      "page": 15,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ALSB-STR-073",
+      "champ": "Stratégies",
+      "section": "Stratégies",
+      "chemin": [
+        "D. Stratégies socioaffectives Stratégies servant à apprendre avec les autres et à contrôler les aspects sociaux et affectifs de l’apprentissage.",
+        "1. Liste des stratégies socioaffectives",
+        "1.4. Se familiariser avec les repères culturels"
+      ],
+      "texte": "a. Atténuer la tension en se rappelant les buts visés, les progrès accomplis et les ressources disponibles",
+      "progression": {
+        "1": null,
+        "2": "apprentissage",
+        "3": "maitrise",
+        "4": "reinvestissement",
+        "5": "reinvestissement"
+      },
+      "page": 15,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ALSB-STR-074",
+      "champ": "Stratégies",
+      "section": "Stratégies",
+      "chemin": [
+        "D. Stratégies socioaffectives Stratégies servant à apprendre avec les autres et à contrôler les aspects sociaux et affectifs de l’apprentissage.",
+        "1. Liste des stratégies socioaffectives"
+      ],
+      "texte": "1.7. Prendre des risques",
+      "vu_au_primaire": true,
+      "progression": {
+        "1": null,
+        "2": "apprentissage",
+        "3": "maitrise",
+        "4": "reinvestissement",
+        "5": "reinvestissement"
+      },
+      "page": 15,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ALSB-STR-075",
+      "champ": "Stratégies",
+      "section": "Stratégies",
+      "chemin": [
+        "D. Stratégies socioaffectives Stratégies servant à apprendre avec les autres et à contrôler les aspects sociaux et affectifs de l’apprentissage.",
+        "1. Liste des stratégies socioaffectives",
+        "1.4. Se familiariser avec les repères culturels"
+      ],
+      "texte": "a. Oser communiquer en anglais en acceptant la possibilité de faire des erreurs",
+      "progression": {
+        "1": null,
+        "2": "apprentissage",
+        "3": "maitrise",
+        "4": "reinvestissement",
+        "5": "reinvestissement"
+      },
+      "page": 15,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ALSB-STR-076",
+      "champ": "Stratégies",
+      "section": "Stratégies",
+      "chemin": [
+        "D. Stratégies socioaffectives Stratégies servant à apprendre avec les autres et à contrôler les aspects sociaux et affectifs de l’apprentissage.",
+        "2. Autorégulation des stratégies socioaffectives"
+      ],
+      "texte": "a. Utiliser des moyens d’autoévaluation pour réfléchir à l’efficacité d’une stratégie socioaffective donnée (ex. la grille d’autoévaluation, la discussion en classe)",
+      "vu_au_primaire": true,
+      "progression": {
+        "1": null,
+        "2": "apprentissage",
+        "3": "apprentissage",
+        "4": "maitrise",
+        "5": "reinvestissement"
+      },
+      "page": 15,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ALSB-STR-077",
+      "champ": "Stratégies",
+      "section": "Stratégies",
+      "chemin": [
+        "D. Stratégies socioaffectives Stratégies servant à apprendre avec les autres et à contrôler les aspects sociaux et affectifs de l’apprentissage.",
+        "2. Autorégulation des stratégies socioaffectives",
+        "b. Gérer un répertoire de stratégies socioaffectives"
+      ],
+      "texte": "Choisir celles qui conviennent à la tâche à réaliser",
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": "apprentissage",
+        "5": "apprentissage"
+      },
+      "page": 15,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ALSB-STR-078",
+      "champ": "Stratégies",
+      "section": "Stratégies",
+      "chemin": [
+        "D. Stratégies socioaffectives Stratégies servant à apprendre avec les autres et à contrôler les aspects sociaux et affectifs de l’apprentissage.",
+        "2. Autorégulation des stratégies socioaffectives",
+        "b. Gérer un répertoire de stratégies socioaffectives"
+      ],
+      "texte": "Savoir comment les utiliser",
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": "apprentissage",
+        "5": "apprentissage"
+      },
+      "page": 15,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ALSB-STR-079",
+      "champ": "Stratégies",
+      "section": "Stratégies",
+      "chemin": [
+        "D. Stratégies socioaffectives Stratégies servant à apprendre avec les autres et à contrôler les aspects sociaux et affectifs de l’apprentissage.",
+        "2. Autorégulation des stratégies socioaffectives",
+        "b. Gérer un répertoire de stratégies socioaffectives"
+      ],
+      "texte": "Analyser leur efficacité",
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": "apprentissage",
+        "5": "apprentissage"
+      },
+      "page": 15,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ALSB-STR-080",
+      "champ": "Stratégies",
+      "section": "Stratégies",
+      "chemin": [
+        "D. Stratégies socioaffectives Stratégies servant à apprendre avec les autres et à contrôler les aspects sociaux et affectifs de l’apprentissage.",
+        "2. Autorégulation des stratégies socioaffectives",
+        "b. Gérer un répertoire de stratégies socioaffectives"
+      ],
+      "texte": "Apporter les modifications nécessaires",
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": "apprentissage",
+        "5": "apprentissage"
+      },
+      "page": 15,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ALSB-DEM-001",
+      "champ": "Démarches",
+      "section": "Démarches",
+      "chemin": [
+        "A. Démarche de réponse",
+        "1. Étape : Explorer le texte",
+        "1.1. Avant l’écoute, la lecture ou le visionnement d’un texte :"
+      ],
+      "texte": "a. Utiliser les stratégies, les questions, les amorces et la connaissance des éléments constitutifs des textes pour se préparer à réagir",
+      "progression": {
+        "1": null,
+        "2": "apprentissage",
+        "3": "maitrise",
+        "4": "reinvestissement",
+        "5": "reinvestissement"
+      },
+      "page": 16,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ALSB-DEM-002",
+      "champ": "Démarches",
+      "section": "Démarches",
+      "chemin": [
+        "A. Démarche de réponse",
+        "1. Étape : Explorer le texte",
+        "1.1. Avant l’écoute, la lecture ou le visionnement d’un texte :"
+      ],
+      "texte": "b. Utiliser la connaissance des caractéristiques des textes pour se préparer à réagir",
+      "progression": {
+        "1": null,
+        "2": "apprentissage",
+        "3": "apprentissage",
+        "4": "apprentissage",
+        "5": "maitrise"
+      },
+      "page": 16,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ALSB-DEM-003",
+      "champ": "Démarches",
+      "section": "Démarches",
+      "chemin": [
+        "A. Démarche de réponse",
+        "1. Étape : Explorer le texte",
+        "1.2. Pendant l’écoute, la lecture ou le visionnement d’un texte :"
+      ],
+      "texte": "a. Repérer les détails jugés importants",
+      "progression": {
+        "1": null,
+        "2": "apprentissage",
+        "3": "maitrise",
+        "4": "reinvestissement",
+        "5": "reinvestissement"
+      },
+      "page": 16,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ALSB-DEM-004",
+      "champ": "Démarches",
+      "section": "Démarches",
+      "chemin": [
+        "A. Démarche de réponse",
+        "1. Étape : Explorer le texte",
+        "1.2. Pendant l’écoute, la lecture ou le visionnement d’un texte :"
+      ],
+      "texte": "b. Déterminer le message global",
+      "progression": {
+        "1": null,
+        "2": "apprentissage",
+        "3": "apprentissage",
+        "4": "maitrise",
+        "5": "reinvestissement"
+      },
+      "page": 16,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ALSB-DEM-005",
+      "champ": "Démarches",
+      "section": "Démarches",
+      "chemin": [
+        "A. Démarche de réponse",
+        "1. Étape : Explorer le texte",
+        "1.3. Après l’écoute, la lecture ou le visionnement d’un texte :"
+      ],
+      "texte": "a. Répondre individuellement aux questions et compléter les amorces liées au sens propre",
+      "progression": {
+        "1": null,
+        "2": "apprentissage",
+        "3": "maitrise",
+        "4": "reinvestissement",
+        "5": "reinvestissement"
+      },
+      "page": 16,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ALSB-DEM-006",
+      "champ": "Démarches",
+      "section": "Démarches",
+      "chemin": [
+        "A. Démarche de réponse",
+        "1. Étape : Explorer le texte",
+        "1.3. Après l’écoute, la lecture ou le visionnement d’un texte :"
+      ],
+      "texte": "b. Répondre individuellement aux questions et compléter les amorces liées au sens figuré",
+      "progression": {
+        "1": null,
+        "2": "apprentissage",
+        "3": "apprentissage",
+        "4": "apprentissage",
+        "5": "maitrise"
+      },
+      "page": 16,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ALSB-DEM-007",
+      "champ": "Démarches",
+      "section": "Démarches",
+      "chemin": [
+        "A. Démarche de réponse",
+        "1. Étape : Explorer le texte",
+        "1.3. Après l’écoute, la lecture ou le visionnement d’un texte :"
+      ],
+      "texte": "c. Discuter avec les autres de sa compréhension des textes pour la vérifier, la clarifier et l’approfondir",
+      "progression": {
+        "1": null,
+        "2": "apprentissage",
+        "3": "apprentissage",
+        "4": "maitrise",
+        "5": "reinvestissement"
+      },
+      "page": 16,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ALSB-DEM-008",
+      "champ": "Démarches",
+      "section": "Démarches",
+      "chemin": [
+        "B. Démarche d’écriture",
+        "1. Avant de s’engager dans la démarche d’écriture :"
+      ],
+      "texte": "a. Identifier les éléments constitutifs dans les modèles de textes écrits",
+      "vu_au_primaire": true,
+      "progression": {
+        "1": null,
+        "2": "apprentissage",
+        "3": "maitrise",
+        "4": "reinvestissement",
+        "5": "reinvestissement"
+      },
+      "page": 17,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ALSB-DEM-009",
+      "champ": "Démarches",
+      "section": "Démarches",
+      "chemin": [
+        "B. Démarche d’écriture",
+        "1. Avant de s’engager dans la démarche d’écriture :"
+      ],
+      "texte": "b. Analyser des exemples de textes écrits",
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": "apprentissage",
+        "5": "maitrise"
+      },
+      "page": 17,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ALSB-DEM-010",
+      "champ": "Démarches",
+      "section": "Démarches",
+      "chemin": [
+        "B. Démarche d’écriture",
+        "2. Étape : Préparation"
+      ],
+      "texte": "a. Effectuer avec d’autres un exercice de remue-méninges afin de trouver des idées sur le sujet",
+      "vu_au_primaire": true,
+      "progression": {
+        "1": null,
+        "2": "apprentissage",
+        "3": "maitrise",
+        "4": "reinvestissement",
+        "5": "reinvestissement"
+      },
+      "page": 17,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ALSB-DEM-011",
+      "champ": "Démarches",
+      "section": "Démarches",
+      "chemin": [
+        "B. Démarche d’écriture",
+        "2. Étape : Préparation"
+      ],
+      "texte": "b. Effectuer des recherches sur le sujet",
+      "vu_au_primaire": true,
+      "progression": {
+        "1": null,
+        "2": "apprentissage",
+        "3": "maitrise",
+        "4": "reinvestissement",
+        "5": "reinvestissement"
+      },
+      "page": 17,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ALSB-DEM-012",
+      "champ": "Démarches",
+      "section": "Démarches",
+      "chemin": [
+        "B. Démarche d’écriture",
+        "2. Étape : Préparation"
+      ],
+      "texte": "c. Tenir compte de l’intention de communication et du destinataire",
+      "vu_au_primaire": true,
+      "progression": {
+        "1": null,
+        "2": "apprentissage",
+        "3": "maitrise",
+        "4": "reinvestissement",
+        "5": "reinvestissement"
+      },
+      "page": 17,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ALSB-DEM-013",
+      "champ": "Démarches",
+      "section": "Démarches",
+      "chemin": [
+        "B. Démarche d’écriture",
+        "2. Étape : Préparation"
+      ],
+      "texte": "d. Choisir le niveau de langage approprié (ex. ton, vocabulaire)",
+      "vu_au_primaire": true,
+      "progression": {
+        "1": null,
+        "2": "apprentissage",
+        "3": "maitrise",
+        "4": "reinvestissement",
+        "5": "reinvestissement"
+      },
+      "page": 17,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ALSB-DEM-014",
+      "champ": "Démarches",
+      "section": "Démarches",
+      "chemin": [
+        "B. Démarche d’écriture",
+        "2. Étape : Préparation"
+      ],
+      "texte": "e. Faire un plan",
+      "vu_au_primaire": true,
+      "progression": {
+        "1": null,
+        "2": "apprentissage",
+        "3": "maitrise",
+        "4": "reinvestissement",
+        "5": "reinvestissement"
+      },
+      "page": 17,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ALSB-DEM-015",
+      "champ": "Démarches",
+      "section": "Démarches",
+      "chemin": [
+        "B. Démarche d’écriture",
+        "3. Étape : Rédaction de l’ébauche"
+      ],
+      "texte": "a. Noter ses idées, ses opinions, ses réflexions et ses impressions en se reportant au plan",
+      "vu_au_primaire": true,
+      "progression": {
+        "1": null,
+        "2": "apprentissage",
+        "3": "maitrise",
+        "4": "reinvestissement",
+        "5": "reinvestissement"
+      },
+      "page": 17,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ALSB-DEM-016",
+      "champ": "Démarches",
+      "section": "Démarches",
+      "chemin": [
+        "C. Démarche de production",
+        "1. Avant de s’engager dans la démarche de production :"
+      ],
+      "texte": "a. Identifier les éléments constitutifs dans les modèles de textes médiatiques",
+      "progression": {
+        "1": null,
+        "2": "apprentissage",
+        "3": "maitrise",
+        "4": "reinvestissement",
+        "5": "reinvestissement"
+      },
+      "page": 18,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ALSB-DEM-017",
+      "champ": "Démarches",
+      "section": "Démarches",
+      "chemin": [
+        "C. Démarche de production",
+        "1. Avant de s’engager dans la démarche de production :"
+      ],
+      "texte": "b. Analyser des exemples de textes médiatiques",
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": "apprentissage",
+        "5": "maitrise"
+      },
+      "page": 19,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ALSB-DEM-018",
+      "champ": "Démarches",
+      "section": "Démarches",
+      "chemin": [
+        "C. Démarche de production",
+        "2. Étape : Préproduction"
+      ],
+      "texte": "a. Établir le plan avec les membres de l’équipe",
+      "progression": {
+        "1": null,
+        "2": "apprentissage",
+        "3": "maitrise",
+        "4": "reinvestissement",
+        "5": "reinvestissement"
+      },
+      "page": 19,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ALSB-DEM-019",
+      "champ": "Démarches",
+      "section": "Démarches",
+      "chemin": [
+        "C. Démarche de production",
+        "2. Étape : Préproduction"
+      ],
+      "texte": "b. Effectuer avec d’autres un exercice de remue-méninges afin de trouver des idées sur le sujet",
+      "progression": {
+        "1": null,
+        "2": "apprentissage",
+        "3": "maitrise",
+        "4": "reinvestissement",
+        "5": "reinvestissement"
+      },
+      "page": 19,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ALSB-DEM-020",
+      "champ": "Démarches",
+      "section": "Démarches",
+      "chemin": [
+        "C. Démarche de production",
+        "2. Étape : Préproduction"
+      ],
+      "texte": "c. Effectuer des recherches sur le sujet",
+      "progression": {
+        "1": null,
+        "2": "apprentissage",
+        "3": "maitrise",
+        "4": "reinvestissement",
+        "5": "reinvestissement"
+      },
+      "page": 19,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ALSB-DEM-021",
+      "champ": "Démarches",
+      "section": "Démarches",
+      "chemin": [
+        "C. Démarche de production",
+        "2. Étape : Préproduction"
+      ],
+      "texte": "d. Choisir le support médiatique et les conventions correspondantes (ex. affiche : titre accrocheur, slogan, grande photo)",
+      "progression": {
+        "1": null,
+        "2": "apprentissage",
+        "3": "maitrise",
+        "4": "reinvestissement",
+        "5": "reinvestissement"
+      },
+      "page": 19,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ALSB-DEM-022",
+      "champ": "Démarches",
+      "section": "Démarches",
+      "chemin": [
+        "C. Démarche de production",
+        "2. Étape : Préproduction"
+      ],
+      "texte": "e. Choisir le niveau de langage approprié (ex. ton, vocabulaire )",
+      "progression": {
+        "1": null,
+        "2": "apprentissage",
+        "3": "maitrise",
+        "4": "reinvestissement",
+        "5": "reinvestissement"
+      },
+      "page": 19,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ALSB-DEM-023",
+      "champ": "Démarches",
+      "section": "Démarches",
+      "chemin": [
+        "C. Démarche de production",
+        "2. Étape : Préproduction"
+      ],
+      "texte": "f. Cibler l’intention de communication, le destinataire et les repères culturels",
+      "progression": {
+        "1": null,
+        "2": "apprentissage",
+        "3": "maitrise",
+        "4": "reinvestissement",
+        "5": "reinvestissement"
+      },
+      "page": 19,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ALSB-DEM-024",
+      "champ": "Démarches",
+      "section": "Démarches",
+      "chemin": [
+        "C. Démarche de production",
+        "2. Étape : Préproduction"
+      ],
+      "texte": "g. Écrire une phrase qui résume l’objectif de la production",
+      "progression": {
+        "1": null,
+        "2": "apprentissage",
+        "3": "maitrise",
+        "4": "reinvestissement",
+        "5": "reinvestissement"
+      },
+      "page": 19,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ALSB-DEM-025",
+      "champ": "Démarches",
+      "section": "Démarches",
+      "chemin": [
+        "C. Démarche de production",
+        "2. Étape : Préproduction"
+      ],
+      "texte": "h. Faire un plan du texte médiatique (ex. un scénario-maquette)",
+      "progression": {
+        "1": null,
+        "2": "apprentissage",
+        "3": "maitrise",
+        "4": "reinvestissement",
+        "5": "reinvestissement"
+      },
+      "page": 19,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ALSB-DEM-026",
+      "champ": "Démarches",
+      "section": "Démarches",
+      "chemin": [
+        "C. Démarche de production",
+        "2. Étape : Préproduction"
+      ],
+      "texte": "i. Valider ses idées avec les autres et apporter des modifications selon la rétroaction reçue",
+      "progression": {
+        "1": null,
+        "2": "apprentissage",
+        "3": "maitrise",
+        "4": "reinvestissement",
+        "5": "reinvestissement"
+      },
+      "page": 19,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ALSB-DEM-027",
+      "champ": "Démarches",
+      "section": "Démarches",
+      "chemin": [
+        "C. Démarche de production",
+        "3. Étape : Production"
+      ],
+      "texte": "a. Créer la version préliminaire du texte médiatique avec les membres de l’équipe",
+      "progression": {
+        "1": null,
+        "2": "apprentissage",
+        "3": "apprentissage",
+        "4": "apprentissage",
+        "5": "maitrise"
+      },
+      "page": 19,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ALSB-DEM-028",
+      "champ": "Démarches",
+      "section": "Démarches",
+      "chemin": [
+        "C. Démarche de production",
+        "3. Étape : Production"
+      ],
+      "texte": "b. Utiliser les conventions médiatiques appropriées",
+      "progression": {
+        "1": null,
+        "2": "apprentissage",
+        "3": "apprentissage",
+        "4": "apprentissage",
+        "5": "maitrise"
+      },
+      "page": 19,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ALSB-DEM-029",
+      "champ": "Démarches",
+      "section": "Démarches",
+      "chemin": [
+        "C. Démarche de production",
+        "3. Étape : Production"
+      ],
+      "texte": "c. Valider la version préliminaire du texte médiatique auprès d’un échantillon de destinataires cibles et apporter des modifications selon la rétroaction reçue (corrections et dernières retouches)",
+      "progression": {
+        "1": null,
+        "2": "apprentissage",
+        "3": "apprentissage",
+        "4": "apprentissage",
+        "5": "maitrise"
+      },
+      "page": 19,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ALSB-DEM-030",
+      "champ": "Démarches",
+      "section": "Démarches",
+      "chemin": [
+        "C. Démarche de production",
+        "4. Étape : Postproduction"
+      ],
+      "texte": "a. Partager la version finale du texte médiatique avec les destinataires cibles",
+      "progression": {
+        "1": null,
+        "2": "apprentissage",
+        "3": "apprentissage",
+        "4": "apprentissage",
+        "5": "maitrise"
+      },
+      "page": 19,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ALSB-DEM-031",
+      "champ": "Démarches",
+      "section": "Démarches",
+      "chemin": [
+        "C. Démarche de production",
+        "4. Étape : Postproduction"
+      ],
+      "texte": "b. Utiliser des moyens d’autoévaluation pour réfléchir à la démarche et la version finale du texte médiatique (ex. la grille d’autoévaluation, la discussion en classe)",
+      "progression": {
+        "1": null,
+        "2": "apprentissage",
+        "3": "apprentissage",
+        "4": "apprentissage",
+        "5": "maitrise"
+      },
+      "page": 19,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ALSB-TEX-001",
+      "champ": "Textes",
+      "section": "Textes",
+      "chemin": [
+        "A. Types de textes"
+      ],
+      "texte": "a. Explorer une variété de textes authentiques courants, littéraires et informatifs",
+      "vu_au_primaire": true,
+      "progression": {
+        "1": null,
+        "2": "apprentissage",
+        "3": "apprentissage",
+        "4": "apprentissage",
+        "5": "apprentissage"
+      },
+      "page": 20,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ALSB-TEX-002",
+      "champ": "Textes",
+      "section": "Textes",
+      "chemin": [
+        "B. Éléments constitutifs des textes"
+      ],
+      "texte": "a. Utiliser les éléments constitutifs des textes pour construire le sens au moment d’en écouter, d’en lire ou d’en visionner",
+      "vu_au_primaire": true,
+      "progression": {
+        "1": null,
+        "2": "apprentissage",
+        "3": "maitrise",
+        "4": "reinvestissement",
+        "5": "reinvestissement"
+      },
+      "page": 20,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ALSB-TEX-003",
+      "champ": "Textes",
+      "section": "Textes",
+      "chemin": [
+        "B. Éléments constitutifs des textes"
+      ],
+      "texte": "b. Appliquer la connaissance des éléments constitutifs des textes pour en écrire et en produire",
+      "vu_au_primaire": true,
+      "progression": {
+        "1": null,
+        "2": "apprentissage",
+        "3": "maitrise",
+        "4": "reinvestissement",
+        "5": "reinvestissement"
+      },
+      "page": 20,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ALSB-TEX-004",
+      "champ": "Textes",
+      "section": "Textes",
+      "chemin": [
+        "C. Caractéristiques des textes"
+      ],
+      "texte": "a. Utiliser les caractéristiques internes et contextuelles des textes pour construire le sens au moment d’en écouter, d’en lire ou d’en visionner",
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": "apprentissage",
+        "5": "maitrise"
+      },
+      "page": 20,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ALSB-TEX-005",
+      "champ": "Textes",
+      "section": "Textes",
+      "chemin": [
+        "C. Caractéristiques des textes"
+      ],
+      "texte": "b. Appliquer la connaissance des caractéristiques internes et contextuelles des textes pour en écrire et en produire",
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": "apprentissage",
+        "5": "maitrise"
+      },
+      "page": 20,
+      "a_verifier": false,
+      "note": ""
+    }
+  ]
+}
