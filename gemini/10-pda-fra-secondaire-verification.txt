@@ -1,0 +1,156 @@
+TÂCHE : Vérifier visuellement la progression de 61 savoirs de la PDA de français au secondaire.
+
+CONTEXTE
+J'ai extrait automatiquement la Progression des apprentissages (PDA), Français, langue d'enseignement, secondaire, du ministère de l'Éducation du Québec. Pour 61 lignes, mon programme a un doute : symboles dessinés dans une image, découpage incertain, ou progression inhabituelle (souvent une case bleue qui couvre toute la ligne). J'ai besoin que tu lises ces lignes visuellement dans le PDF que je te joins.
+
+PIÈCE JOINTE
+Le PDF officiel : PFEQ-progression-apprentissages-francais-langue-enseignement-secondaire.pdf
+Traite SEULEMENT les pages 8, 9, 11, 13, 16, 19, 20, 21, 24, 29, 31, 32, 40, 41, 45, 46, 47, 50, 51, 53, 56, 57, 61, 63, 64, 65, 68, 69 (numéros de page du fichier PDF, pas ceux imprimés au bas des pages).
+
+LÉGENDE
+- flèche : l'élève apprend avec l'intervention de l'enseignant -> "apprentissage"
+- étoile : l'élève le fait par lui-même à la fin de l'année -> "maitrise"
+- case bleue : l'élève réutilise cette connaissance -> "reinvestissement"
+- case vide -> null
+Les colonnes de droite sont, de gauche à droite : 1re, 2e, 3e, 4e et 5e secondaire.
+Dans certaines cellules, une ou plusieurs lettres accompagnent le symbole : L (lecture), E (écriture), O (communication orale). Recopie-les dans "modes".
+Attention : une case bleue fusionnée peut s'étendre sur plusieurs lignes ou sur plusieurs colonnes ; elle vaut pour chaque ligne et chaque colonne qu'elle couvre.
+
+RÈGLES
+1. Ne fais aucune recherche web. Lis uniquement le PDF joint, en regardant les pages comme des images.
+2. Pour chaque identifiant de la liste ci-dessous, donne la progression que tu vois dans le PDF.
+3. Si mon texte regroupe plusieurs lignes du tableau (deux énoncés collés), découpe-le : un objet par ligne du tableau, avec le même "id" suivi de -a, -b, -c.
+4. Recopie le texte de chaque ligne mot pour mot, tel qu'il apparaît dans le PDF.
+5. Si tu n'es pas certain d'un symbole ou d'une lettre, mets "certain": false et explique en une phrase dans "remarque".
+6. Réponds UNIQUEMENT avec du JSON valide, sans texte avant ni après, sans bloc de code.
+
+FORMAT (exemple fictif, les valeurs ne sont pas réelles)
+[
+  { "id": "FRA-XXX-000", "page": 0, "texte": "texte exact de la ligne",
+    "progression": { "1": null, "2": "apprentissage", "3": "maitrise", "4": "reinvestissement", "5": "reinvestissement" },
+    "modes": { "2": "L", "3": "LE" }, "certain": true, "remarque": "" }
+]
+
+LIGNES À VÉRIFIER (texte tel que mon programme l'a lu, parfois mal découpé, et sa lecture actuelle)
+- page 8 | FRA-PRE-011 | ii. son intention décrire pour faire connaître (ex. : article de revue, capsule d’information, compte rendu d’évènement, résumé); point de vue plutôt neutre décrire pour inciter à agir ( ex. : entrevue, note critique,…
+    lecture actuelle : 1re:vide / 2e:vide / 3e:bleu / 4e:bleu / 5e:bleu
+- page 9 | FRA-PRE-022 | i. les procédés descriptifs l’énumération des aspects la caractérisation la situation dans l’espace la situation dans le temps
+    lecture actuelle : 1re:vide / 2e:bleu / 3e:bleu / 4e:bleu / 5e:bleu
+- page 9 | FRA-PRE-023 | ii. les moyens linguistiques le champ lexical lié au sujet la précision du vocabulaire NOMMER-CARACTÉRISER 1.2; 3.1; 8 le lexique pour situer dans l’espace le nom propre ou commun de lieu pour localiser (ex. : il est …
+    lecture actuelle : 1re:étoile / 2e:bleu / 3e:bleu / 4e:bleu / 5e:bleu
+- page 11 | FRA-PRE-044 | 3.2. Reconnaître ou utiliser les moyens qui marquent l’organisation du texte
+    lecture actuelle : 1re:étoile / 2e:vide / 3e:vide / 4e:vide / 5e:vide
+- page 13 | FRA-PRE-060 | plutôt neutre (ex. : article de vulgarisation, explication dans un manuel, une variété de langue standard des structures syntaxiques comme la phrase et la tournure impersonnelles, la construction avec le pronom on , l…
+    lecture actuelle : 1re:vide / 2e:vide / 3e:étoile / 4e:étoile / 5e:étoile | modes lus : 3e=LO, 4e=L, 5e=O
+- page 16 | FRA-PRE-100 | ii. l’emploi de discours rapportés (citation et discours indirect) dont l’exactitude a été vérifiée DR
+    lecture actuelle : 1re:vide / 2e:vide / 3e:étoile / 4e:étoile / 5e:étoile | modes lus : 4e=L, 5e=O
+- page 16 | FRA-PRE-103 | b. Reconnaître ou élaborer une réponse synthétique à la question à l’aide d’organisateurs textuels ayant une valeur de synthèse ( en résumé, bref, finalement )
+    lecture actuelle : 1re:vide / 2e:vide / 3e:étoile / 4e:bleu / 5e:étoile | modes lus : 5e=O
+- page 19 | FRA-PRE-118 | neutre (domaine du savoir) ou subjectif (domaine de la subjectivité)
+    lecture actuelle : 1re:flèche / 2e:étoile / 3e:bleu / 4e:bleu / 5e:bleu | modes lus : 1e=LO, 2e=L
+- page 19 | FRA-PRE-138 | a. Observer l’absence fréquente de titre
+    lecture actuelle : 1re:flèche / 2e:bleu / 3e:bleu / 4e:bleu / 5e:bleu | modes lus : 1e=L
+- page 20 | FRA-PRE-139 | a. Énoncer le propos (ex. : Dans la phrase « Les feuilles tombent tôt cet automne », le GN cet automne est complément de P.)
+    lecture actuelle : 1re:étoile / 2e:bleu / 3e:étoile / 4e:bleu / 5e:bleu | modes lus : 1e=O
+- page 20 | FRA-PRE-143 | ii. par l’établissement de liens entre un commentaire et un ou plusieurs aspects de l’œuvre (ex. : thème, intrigue, façon de décrire les personnages) en s’appuyant sur le texte ou en le comparant à une autre œuvre, ci…
+    lecture actuelle : 1re:vide / 2e:étoile / 3e:étoile / 4e:étoile / 5e:bleu | modes lus : 3e=O, 4e=LO
+- page 20 | FRA-PRE-149 | ii. des phrases subordonnées et leur subordonnant exprimant les valeurs la cause (ex. : parce que (2 e secondaire), sous prétexte que ) la comparaison (ex. : aussi que, autant que, de même que ) la justification (ex. …
+    lecture actuelle : 1re:vide / 2e:flèche / 3e:vide / 4e:vide / 5e:bleu | modes lus : 4e=LO
+- page 21 | FRA-PRE-152 | 2.4. Constater la concision du texte, ou la rechercher en ne présentant que les informations pertinentes, celles qui fondent le propos 2.5. Dégager ou présenter la conclusion : reformulation du propos qui a été justifié
+    lecture actuelle : 1re:vide / 2e:flèche / 3e:flèche / 4e:étoile / 5e:étoile | modes lus : 4e=LO, 5e=O
+- page 24 | FRA-PRE-184 | 2. Organisation d’un genre argumentatif : façon dont se réalise la séquence argumentative (P2 : 46, 48-49, 65-71, 90-93, 97, 120-121) 2.1. Comprendre le titre ou donner un titre accrocheur, selon le genre 2.2. Reconna…
+    lecture actuelle : 1re:vide / 2e:vide / 3e:vide / 4e:bleu / 5e:bleu
+- page 29 | FRA-PRE-219 | i. ses caractéristiques : ses champs d’intérêt, ses genres préférés, ses connaissances littéraires (lien avec son répertoire personnalisé), l’efficacité de ses stratégies de lecture et d’écoute
+    lecture actuelle : 1re:flèche / 2e:étoile / 3e:étoile / 4e:étoile / 5e:bleu | modes lus : 1e=LO, 2e=LO, 3e=LO, 4e=L
+- page 31 | FRA-PRE-246 | l’effet psychologique du lieu (ex. : l’angoisse d’un personnage qui traverse un pont de glace qui s’effrite) la façon de s’exprimer dans ce lieu (particularités régionales au Québec ou dans la francophonie)
+    lecture actuelle : 1re:vide / 2e:flèche / 3e:étoile / 4e:bleu / 5e:bleu
+- page 31 | FRA-PRE-247 | l’évocation : association d’idées, d’images, de mots; appel à des repères culturels (ex. : Dans le salon : des fauteuils Louis XVI ; cette description évoque un milieu aisé, une manière de vivre)
+    lecture actuelle : 1re:vide / 2e:flèche / 3e:étoile / 4e:flèche / 5e:étoile | modes lus : 2e=L, 3e=LO, 4e=L
+- page 31 | FRA-PRE-249 | la description de l’époque (ex. : les évènements particuliers, le mode de vie, les arts, les valeurs et les préoccupations du temps; les façons de s’exprimer (17 e /21 e siècle)
+    lecture actuelle : 1re:vide / 2e:vide / 3e:étoile / 4e:étoile / 5e:bleu | modes lus : 3e=LO, 4e=L
+- page 31 | FRA-PRE-251 | iii. les déplacements dans l’espace et le temps l’itinéraire du personnage principal (ex. : Le tour du monde en 80 jours , Jules Verne) les liens entre les déplacements et la quête (recherche de liberté, fuite, symbol…
+    lecture actuelle : 1re:vide / 2e:bleu / 3e:bleu / 4e:bleu / 5e:bleu
+- page 31 | FRA-PRE-252 | i. les caractéristiques de la quête la quête d’équilibre marquée davantage par l’action (ex. : Les aventures de Don Quichotte , Miguel Cervantes) la quête d’équilibre marquée davantage par l’évolution du personnage (e…
+    lecture actuelle : 1re:vide / 2e:vide / 3e:vide / 4e:bleu / 5e:bleu
+- page 31 | FRA-PRE-253 | ii. la séquence narrative : situation initiale, élément déclencheur, actions, réactions et évènements, dénouement la présence de la situation finale, ou d’une morale ou des deux
+    lecture actuelle : 1re:étoile / 2e:flèche / 3e:étoile / 4e:bleu / 5e:bleu | modes lus : 2e=LO, 3e=L
+- page 31 | FRA-PRE-254 | iii. le déroulement des évènements l’ordre chronologique les ruptures dans la chronologie (retour en arrière, anticipation) et leurs effets les modifications de l’ordre typique des étapes de la séquence et leurs ouver…
+    lecture actuelle : 1re:vide / 2e:vide / 3e:étoile / 4e:flèche / 5e:étoile | modes lus : 1e=L, 2e=LE, 3e=LEO, 4e=L, 5e=L
+- page 32 | FRA-PRE-260 | iv. l’insertion de séquences argumentatives (ex. : La Peste , Albert Camus)
+    lecture actuelle : 1re:étoile / 2e:étoile / 3e:vide / 4e:étoile / 5e:étoile | modes lus : 4e=L, 5e=LO
+- page 32 | FRA-PRE-264 | i. des caractéristiques de genres (ou des écarts par rapport à un genre)
+    lecture actuelle : 1re:flèche / 2e:étoile / 3e:étoile / 4e:étoile / 5e:étoile | modes lus : 1e=L, 2e=L, 3e=LO, 4e=L, 5e=LO
+- page 32 | FRA-PRE-265 | ii. des critères d’appréciation 2.3. Dégager du récit la thématique et la vision du monde (P1 : 105) (P2 : 51, 95-99, 150)
+    lecture actuelle : 1re:flèche / 2e:étoile / 3e:étoile / 4e:étoile / 5e:étoile | modes lus : 1e=L, 2e=L, 3e=LO, 4e=L, 5e=LO
+- page 32 | FRA-PRE-267 | b. Dégager ou traiter les thèmes et les sous-thèmes et les relier au sens général de l’œuvre : création de réseaux de sens autour des caractéristiques des personnages, de leurs actions et de leurs motivations en établ…
+    lecture actuelle : 1re:vide / 2e:vide / 3e:étoile / 4e:flèche / 5e:étoile | modes lus : 3e=LO, 4e=L
+- page 32 | FRA-PRE-268 | c. Reconnaître la vision du monde du narrateur, sa prise de position révélée par la modalisation des énoncés, les commentaires, la symbolique de certains éléments, les discours rapportés, les séquences argumentatives,…
+    lecture actuelle : 1re:vide / 2e:vide / 3e:flèche / 4e:flèche / 5e:étoile | modes lus : 3e=LO, 4e=L, 5e=LO
+- page 40 | FRA-PRE-323 | des symboles
+    lecture actuelle : 1re:étoile / 2e:étoile / 3e:vide / 4e:vide / 5e:étoile | modes lus : 5e=LO
+- page 40 | FRA-PRE-334 | réguliers (même nombre de pieds) ou libres
+    lecture actuelle : 1re:étoile / 2e:étoile / 3e:vide / 4e:étoile / 5e:étoile | modes lus : 4e=LO, 5e=LO
+- page 41 | FRA-PRE-344 | particulière (ex. : le mot dessiné, le calligramme) et son lien avec le sens général du poème
+    lecture actuelle : 1re:vide / 2e:flèche / 3e:étoile / 4e:bleu / 5e:étoile | modes lus : 2e=LO, 3e=LO
+- page 41 | FRA-PRE-345 | l’enjambement, le rejet et le lien avec le sens
+    lecture actuelle : 1re:flèche / 2e:étoile / 3e:étoile / 4e:vide / 5e:étoile | modes lus : 5e=LO
+- page 41 | FRA-PRE-353 | iii. les procédés poétiques utilisés par le poète (le langage poétique) le choix des mots et leurs agencements, la structure, le rythme et la sonorité du poème (voir 2.1) les marques ou l’absence de marques énonciativ…
+    lecture actuelle : 1re:vide / 2e:vide / 3e:vide / 4e:vide / 5e:bleu | modes lus : 1e=LO, 2e=LO, 3e=LO, 4e=LO, 5e=LO
+- page 45 | FRA-DEU-015 | variété de langue (ex. : automobile, voiture, bagnole, bazou )
+    lecture actuelle : 1re:étoile / 2e:vide / 3e:étoile / 4e:étoile / 5e:bleu
+- page 46 | FRA-DEU-023 | union de mots avec ou sans trait d’union (ex. : porte-bonheur, planche à neige )
+    lecture actuelle : 1re:étoile / 2e:bleu / 3e:étoile / 4e:bleu / 5e:bleu
+- page 46 | FRA-DEU-026 | télescopage, abrègement (ex. : bibliobus, courriel, prof, télé ) P distinction entre l’emploi à l’oral et l’emploi à l’écrit
+    lecture actuelle : 1re:étoile / 2e:étoile / 3e:bleu / 4e:étoile / 5e:bleu
+- page 46 | FRA-DEU-029 | P twittlittérature ) effets de sens (ex. : technicité, impression d’avant-garde, effet de mode)
+    lecture actuelle : 1re:étoile / 2e:étoile / 3e:bleu / 4e:flèche / 5e:étoile
+- page 46 | FRA-DEU-030 | emprunt (ex . : wapiti, yogourt, rafle ) et emploi de régionalismes (ex. : débarbouillette, dispendieux, poutine ); emprunt critiqué et anglicisme (ex. : chum, line up, appointement ) 1.3. Reconnaître ou utiliser le p…
+    lecture actuelle : 1re:étoile / 2e:vide / 3e:flèche / 4e:étoile / 5e:étoile
+- page 46 | FRA-DEU-033 | c. Les pronoms je ou il comme seul nom de narrateur dans un récit 1.4. Reconnaître ou utiliser le verbe à l’infinitif pour nommer (ex. : saler, poivrer)
+    lecture actuelle : 1re:étoile / 2e:bleu / 3e:étoile / 4e:étoile / 5e:bleu
+- page 47 | FRA-DEU-040 | b. Le nom noyau et son déterminant 1 P
+    lecture actuelle : 1re:vide / 2e:bleu / 3e:bleu / 4e:bleu / 5e:bleu
+- page 47 | FRA-DEU-041 | i. l’identification du nom par ses caractéristiques 2 syntaxiques : non effaçable; précédé d’un déterminant; donneur de genre, de nombre, de personne P morphologiques : variable en nombre; forme simple ou complexe sém…
+    lecture actuelle : 1re:vide / 2e:bleu / 3e:bleu / 4e:bleu / 5e:bleu
+- page 47 | FRA-DEU-042 | ii. la variation du nombre du nom P nombre du nom précédé d’un déterminant complexe (ex. : bien des personnes, pas une feuille, peu d’amis ) nombre du nom collectif (ex. : la foule , sans s ) et du nom qui le suit (ex…
+    lecture actuelle : 1re:bleu / 2e:bleu / 3e:bleu / 4e:bleu / 5e:bleu
+- page 47 | FRA-DEU-043 | iii. l’identification du déterminant par ses caractéristiques syntaxiques : obligatoirement devant le nom; receveur de genre et de nombre du nom donneur P morphologiques : variable; forme simple ou complexe sémantique…
+    lecture actuelle : 1re:vide / 2e:bleu / 3e:bleu / 4e:bleu / 5e:bleu
+- page 47 | FRA-DEU-044 | iv. l’accord du déterminant accord des déterminants receveurs du genre et du nombre du nom donneur (ex. : cette fille, certaines fleurs, leurs enfants ); les P déterminants complexes (ex. : toutes les femmes ) correct…
+    lecture actuelle : 1re:vide / 2e:vide / 3e:étoile / 4e:bleu / 5e:bleu
+- page 50 | FRA-DEU-092 | a. Les groupes dans la fonction d’ attribut du sujet P LE 2.4
+    lecture actuelle : 1re:flèche / 2e:étoile / 3e:bleu / 4e:étoile / 5e:bleu
+- page 50 | FRA-DEU-097 | Effacement possible des éléments identiques et de même fonction syntaxique (ex. : Des documents sonores et des documents visuels sont disponibles à la bibliothèque.)
+    lecture actuelle : 1re:vide / 2e:étoile / 3e:bleu / 4e:flèche / 5e:étoile
+- page 51 | FRA-DEU-108 | P sujet qui reprend un nom collectif (ex. : La foule était calme; elle s’est dispersée rapidement. )
+    lecture actuelle : 1re:étoile / 2e:flèche / 3e:étoile / 4e:étoile / 5e:bleu | modes lus : 1e=L, 4e=O
+- page 51 | FRA-DEU-114 | ii. par un GAdv : ici, là, là-bas (ex. : Elle passe ses étés sur le bord du fleuve, là, le temps passe moins vite. )
+    lecture actuelle : 1re:flèche / 2e:étoile / 3e:bleu / 4e:étoile / 5e:bleu | modes lus : 1e=LO
+- page 53 | FRA-DEU-135 | subordonnée complétive complément de l’adjectif (3 e ) ou du nom (5 e ) (voir 4.1)
+    lecture actuelle : 1re:vide / 2e:vide / 3e:étoile / 4e:bleu / 5e:étoile
+- page 53 | FRA-DEU-136 | subordonnée complément de phrase à valeur temporelle LE 2.3 autres valeurs (ex. : but, comparaison, conséquence, concession)
+    lecture actuelle : 1re:étoile / 2e:bleu / 3e:étoile / 4e:étoile / 5e:étoile
+- page 56 | FRA-DEU-157 | b. Les évènements les uns par rapport aux autres : l’antériorité, la simultanéité, la postériorité (ex. : la veille [et non hier ] , le lendemain [et non demain ] , le jour même, le samedi d’avant, cette année-là, deu…
+    lecture actuelle : 1re:flèche / 2e:flèche / 3e:étoile / 4e:bleu / 5e:bleu | modes lus : 1e=LEO, 2e=LO
+- page 56 | FRA-DEU-168 | cas particuliers plusieurs sujets de 3 e personne, coordonnés par des P coordonnants exprimant l’addition plusieurs sujets de 3 e personne, coordonnés par des coordonnants exprimant le choix plusieurs sujets constitué…
+    lecture actuelle : 1re:étoile / 2e:étoile / 3e:étoile / 4e:bleu / 5e:étoile | modes lus : 2e=L
+- page 57 | FRA-DEU-171 | cas particuliers le complément direct est le pronom en ou le , substitué à une phrase ou une partie de texte le participe passé est suivi d’un verbe à l’infinitif le participe passé des verbes pronominaux le participe…
+    lecture actuelle : 1re:étoile / 2e:bleu / 3e:bleu / 4e:étoile / 5e:étoile
+- page 57 | FRA-DEU-177 | courants (ex. : être , sembler , demeurer , etc.) P
+    lecture actuelle : 1re:bleu / 2e:bleu / 3e:bleu / 4e:bleu / 5e:bleu
+- page 61 | FRA-DEU-247 | a. Le GV prédicat dans des phrases avec un seul verbe conjugué à un temps P simple de l’indicatif
+    lecture actuelle : 1re:bleu / 2e:bleu / 3e:bleu / 4e:bleu / 5e:bleu
+- page 63 | FRA-DEU-270 | i. la citation, le dialogue, le monologue intérieur, le mot entre guillemets
+    lecture actuelle : 1re:étoile / 2e:étoile / 3e:bleu / 4e:étoile / 5e:bleu | modes lus : 1e=LO, 2e=LO
+- page 64 | FRA-DEU-272 | a. Un verbe introducteur suivi des propos rapportés et une ponctuation particulière : les deux-points et les guillemets, le point avant la fermeture des P guillemets (ex. : Le proverbe dit : « Il ne faut pas vendre la…
+    lecture actuelle : 1re:étoile / 2e:bleu / 3e:étoile / 4e:bleu / 5e:bleu
+- page 64 | FRA-DEU-277 | a. Le retrait à la ligne et le tiret P
+    lecture actuelle : 1re:bleu / 2e:étoile / 3e:bleu / 4e:bleu / 5e:bleu
+- page 64 | FRA-DEU-283 | d. Le non-verbal
+    lecture actuelle : 1re:vide / 2e:étoile / 3e:bleu / 4e:étoile / 5e:bleu | modes lus : 2e=O
+- page 65 | FRA-DEU-290 | b. Un groupe incident (ex. : au dire des experts, selon les témoins ) ou une phrase incidente (ex. : Il est, tout le monde le dit, un candidat sérieux. ); ponctuation 1 3.3. Reconnaître le discours indirect libre : le…
+    lecture actuelle : 1re:vide / 2e:étoile / 3e:étoile / 4e:bleu / 5e:étoile | modes lus : 2e=L, 5e=L
+- page 68 | FRA-DEU-323 | ii. la comparaison et la métaphore courante ou littéraire (ex. : il se sent comme un poisson dans l’eau ; ce politicien est un vrai renard )
+    lecture actuelle : 1re:étoile / 2e:étoile / 3e:bleu / 4e:flèche / 5e:flèche
+- page 69 | FRA-DEU-338 | 2.6. Reconnaître le sens du non-verbal et de la prosodie ou y recourir (ex. : ton moqueur, enflammé, autoritaire; hauteur de la voix, en particulier dans l’exclamation) 2.7. Reconnaître ou choisir des marques graphiqu…
+    lecture actuelle : 1re:vide / 2e:vide / 3e:flèche / 4e:étoile / 5e:bleu | modes lus : 3e=L, 4e=O
