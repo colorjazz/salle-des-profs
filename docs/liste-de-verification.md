@@ -133,3 +133,16 @@
 - [ ] Lancer la **recherche 3** (Loi 25) avant le café avec la conseillère pédagogique
 - [ ] Plus tard : recherches 2, 5 et 6
 - [ ] Quand vous aurez des crédits : une fiche d'une page, une fiche technique pour les TI et un brouillon d'EFVP
+
+## Idée : « Le balado du lundi »
+- [ ] Un résumé audio d'une ou deux minutes, le lundi matin, de ce qui s'en vient dans la semaine : réunions, remise des notes, récupération, surveillances, activités sur l'heure du midi
+- [ ] Une version texte accompagne l'audio (accessibilité, écoute impossible en classe)
+- [ ] Trois sources possibles, au choix :
+  - [ ] **L'équipe de direction** : elle publie les événements de l'école pour tout le personnel
+  - [ ] **La direction de niveau** : des messages ciblés pour un niveau ou un cycle
+  - [ ] **Les courriels de l'usager**, s'il active l'option : l'IA en extrait les dates et les tâches
+- [ ] Personnalisé avec l'horaire de l'enseignante (ses surveillances, ses périodes de récupération) et sa planification (évaluations prévues, notes à remettre)
+- [ ] **Courriels : attention.** Il faut la permission Microsoft `Mail.Read`, bien plus large que le dossier de l'application. Option désactivée par défaut, consentement explicite, approbation des TI, traitement au Canada seulement, aucun courriel conservé (seulement les événements extraits)
+- [ ] Les courriels peuvent contenir des renseignements sur des élèves (parents, plans d'intervention) : le résumé ne doit jamais nommer d'élève
+- [ ] Voix de synthèse en français québécois ; vérifier qu'un service de synthèse vocale est offert dans la région de Montréal
+- [ ] Argument de vente : la direction rejoint tout son personnel en deux minutes, au lieu d'un courriel du dimanche soir que personne ne lit
