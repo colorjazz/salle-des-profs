@@ -53,17 +53,44 @@ def colonnes(page):
     for i in range(len(pos)):
         chaine = [pos[i]]   # chaîne de len(ANNEES) traits
         for x, n in pos[i + 1:]:
-            if 16.5 <= x - chaine[-1][0] <= 20.5:
+            if PAS[0] <= x - chaine[-1][0] <= PAS[1]:
                 chaine.append((x, n))
             if len(chaine) == len(ANNEES):
                 break
         if len(chaine) == len(ANNEES) and (meilleure is None or sum(n for _, n in chaine) > sum(n for _, n in meilleure)):
             meilleure = chaine
+    if A_DROITE:
+        # plusieurs chaînes possibles : celle dont la dernière colonne porte l'en-tête (ex. CHI, PHY)
+        ancres = [(w['x0'] + w['x1']) / 2 for w in page.extract_words() if w['text'] in ANCRES]
+        chaines = []
+        for i in range(len(pos)):
+            ch = [pos[i]]
+            for x, n in pos[i + 1:]:
+                if PAS[0] <= x - ch[-1][0] <= PAS[1]:
+                    ch.append((x, n))
+                if len(ch) == len(ANNEES):
+                    break
+            if len(ch) == len(ANNEES):
+                chaines.append(ch)
+        global DERNIERE_CHAINE
+        bonnes = [ch for ch in chaines if any(ch[-1][0] < a < ch[-1][0] + PAS[1] + 8 for a in ancres)]
+        if not bonnes and DERNIERE_CHAINE:
+            # page de suite sans en-tête : la même position qu'à la page précédente
+            bonnes = [ch for ch in chaines if abs(ch[-1][0] - DERNIERE_CHAINE) < 2.5]
+        if bonnes:
+            meilleure = bonnes[0]
+            DERNIERE_CHAINE = meilleure[-1][0]
     if not meilleure:
         return None
     xs = [x for x, _ in meilleure]
     largeur = (xs[-1] - xs[0]) / (len(xs) - 1)
     cols = [(x, x + largeur) for x in xs]
+    if A_DROITE:
+        # colonne supplémentaire à gauche (ex. « 1er cycle » du tableau des stratégies)
+        gauche = [x for x, _ in pos if PAS[0] <= xs[0] - x <= PAS[1]]
+        page.colonne_gauche = (gauche[-1], xs[0]) if gauche else None
+    if PAS[1] - PAS[0] > 5:   # colonnes de largeurs inégales : chaque colonne va jusqu'au trait suivant
+        cols = [(a, b) for a, b in zip(xs, xs[1:])] + [(xs[-1], xs[-1] + largeur)]
     if DERNIERE_JUSQUAU_BORD:
         # la dernière colonne (ex. STE) peut être plus large : elle va jusqu'au bord droit du tableau
         bords = [r['x1'] for r in page.rects if r['height'] < 2.5 and xs[-1] + 15 < r['x1'] < xs[-1] + 45]
@@ -250,6 +277,13 @@ TRACE = []  # (page, x0, x1, haut, bas, valeur) pour la vérification visuelle
 
 
 DERNIERE_JUSQUAU_BORD = False
+COLONNE_GAUCHE = '1er-cycle'
+ANCRES = ()
+DERNIERE_CHAINE = None
+A_DROITE = False     # plusieurs chaînes de colonnes : garder la plus à droite
+RUBRIQUES = False    # énoncés sans marqueur : garder la rubrique qui les précède
+SEPARER_FIN = False  # en fin de page, cellules sans marqueur : énoncés à part (sinon rattachées)
+PAS = (16.5, 20.5)   # écart permis entre deux traits verticaux de colonnes
 LOSANGE = False   # repérer le losange à gauche des énoncés (PDA de science)
 
 
@@ -270,7 +304,7 @@ def valeur(rendu, cellule_x, bande):
 def extraire(chemin):
     pdf = pdfplumber.open(chemin)
     champ = section = None
-    pile, savoirs, sans_colonnes = {}, [], []
+    pile, savoirs, sans_colonnes, rubrique = {}, [], [], None
     for num, page in enumerate(pdf.pages, 1):
         # titre du champ : la dernière ligne en gros caractères du haut de page (sous le nom de la discipline)
         gros = [c for c in page.chars if c['size'] >= 12.5 and 35 <= c['top'] <= 110 and c['text'].strip()]
@@ -327,20 +361,31 @@ def extraire(chemin):
             if n == 3:
                 x_lettre = r['x0']
             if n is not None or not elements:
-                meme_cellule = [l for l in en_attente if not any(l['bottom'] < h < r['top'] for h in horiz)]
-                autres = [l for l in en_attente if l not in meme_cellule]
-                if autres:   # rangée sans marqueur dans sa propre cellule
-                    elements.append({'niveau': None, 'lignes': autres, 'top': autres[0]['top']})
+                # rangées en attente, regroupées par cellule : la dernière, si elle est dans la cellule
+                # du marqueur, s'y rattache (ex. numérateur d'une fraction) ; les autres sont des énoncés à part
+                if en_attente and not any(en_attente[-1][-1]['bottom'] < h < r['top'] for h in horiz):
+                    meme_cellule = en_attente.pop()
+                else:
+                    meme_cellule = []
+                for groupe in en_attente:
+                    elements.append({'niveau': None, 'lignes': groupe, 'top': groupe[0]['top']})
                 elements.append({'niveau': n, 'lignes': meme_cellule + [r], 'top': min([r['top']] + [l['top'] for l in meme_cellule])})
                 en_attente = []
             else:
-                prec_bas = max(l['bottom'] for l in elements[-1]['lignes'])
+                prec = en_attente[-1] if en_attente else elements[-1]['lignes']
+                prec_bas = max(l['bottom'] for l in prec)
                 if any(prec_bas < h < r['top'] for h in horiz):
-                    en_attente.append(r)   # nouvelle cellule : appartient à l'élément suivant (ex. numérateur d'une fraction)
+                    en_attente.append([r])   # nouvelle cellule
+                elif en_attente:
+                    en_attente[-1].append(r)
                 else:
                     elements[-1]['lignes'].append(r)
         if en_attente and elements:
-            elements[-1]['lignes'] += en_attente
+            if SEPARER_FIN:
+                for groupe in en_attente:
+                    elements.append({'niveau': None, 'lignes': groupe, 'top': groupe[0]['top']})
+            else:
+                elements[-1]['lignes'] += [l for g in en_attente for l in g]
         seqs = etiquettes_sequences(page, cols)
         for i, e in enumerate(elements):
             avec_marqueur = [l for l in e['lignes'] if not l['petit'] and niveau(l['texte'])]
@@ -355,6 +400,8 @@ def extraire(chemin):
             prog = {}
             for k, a in enumerate(ANNEES):
                 prog[a] = valeur(rendu, cols[k], (t, b))
+            if A_DROITE and getattr(page, 'colonne_gauche', None):
+                prog = {COLONNE_GAUCHE: valeur(rendu, page.colonne_gauche, (t, b)), **prog}
             dans = [s for s in seqs if t - 1 <= (s[1] + s[2]) / 2 <= b + 1]
             if len(dans) >= 2:
                 for k, a in COLONNES_SEQUENCES:
@@ -385,6 +432,7 @@ def extraire(chemin):
             if not a_symbole:
                 pile = {k: v for k, v in pile.items() if k < n}
                 pile[n] = texte
+                rubrique = texte if e['niveau'] is None else None
                 continue
             empile = any(len(l['texte']) <= 3 for l in principales[1:]) or any(len(l['texte']) <= 3 for l in principales[:1] if len(principales) > 1)
             formule = bool(re.search(r'[=^√]|\bf\(x\)', texte))
@@ -402,6 +450,7 @@ def extraire(chemin):
                 'progression': prog, 'page': num,
                 'a_verifier': bool(raisons), 'note': ' '.join(raisons),
                 **({'note_pda': note_pda} if note_pda else {}),
+                **({'rubrique': rubrique} if RUBRIQUES and e['niveau'] is None and rubrique else {}),
                 **({'losange': True} if LOSANGE and losange(rendu, e, x_col) else {}),
             })
         if titre:

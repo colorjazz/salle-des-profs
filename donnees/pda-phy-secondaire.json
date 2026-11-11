@@ -1,0 +1,2583 @@
+{
+  "discipline": "Physique",
+  "code_discipline": "PHY",
+  "ordre": "secondaire",
+  "source": "PFEQ-progression-apprentissages-physique-secondaire.pdf",
+  "annees": [
+    "ATS-3",
+    "ATS-SE-4",
+    "ST-3",
+    "ST-STE-4",
+    "PHY-5"
+  ],
+  "legende": {
+    "ATS-3": "Applications technologiques et scientifiques, 3e",
+    "ATS-SE-4": "ATS et Science et environnement, 4e",
+    "ST-3": "Science et technologie, 3e",
+    "ST-STE-4": "ST et Science et technologie de l’environnement, 4e",
+    "PHY-5": "Physique, 5e (programme optionnel)",
+    "1er-cycle": "Stratégies seulement : colonne du 1er cycle",
+    "rappel": "Énoncé non numéroté : connaissance déjà abordée en 3e ou en 4e"
+  },
+  "pages_sans_colonnes_reperees": [],
+  "bilan": {
+    "nombre_savoirs": 134,
+    "rappels": 36,
+    "a_verifier": 0
+  },
+  "savoirs": [
+    {
+      "id": "PHY-CIN-001",
+      "champ": "Cinématique",
+      "chemin": [],
+      "rubrique": "Relation entre la vitesse, la distance et le temps",
+      "texte": "Décrire qualitativement la relation entre la vitesse, la distance et le temps",
+      "rappel": true,
+      "progression": {
+        "ATS-3": null,
+        "ATS-SE-4": "maitrise",
+        "ST-3": null,
+        "ST-STE-4": null,
+        "PHY-5": "reinvestissement"
+      },
+      "page": 6,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "PHY-CIN-002",
+      "champ": "Cinématique",
+      "chemin": [],
+      "rubrique": "Relation entre la vitesse, la distance et le temps",
+      "texte": "Appliquer la relation mathématique entre la vitesse constante, la distance et le temps (v = d/Δt)",
+      "rappel": true,
+      "progression": {
+        "ATS-3": null,
+        "ATS-SE-4": "maitrise",
+        "ST-3": null,
+        "ST-STE-4": null,
+        "PHY-5": "reinvestissement"
+      },
+      "page": 6,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "PHY-CIN-003",
+      "champ": "Cinématique",
+      "chemin": [
+        "1. Système de référence"
+      ],
+      "texte": "i. Choisir un système de référence approprié à la situation",
+      "progression": {
+        "ATS-3": null,
+        "ATS-SE-4": null,
+        "ST-3": null,
+        "ST-STE-4": null,
+        "PHY-5": "maitrise"
+      },
+      "page": 6,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "PHY-CIN-004",
+      "champ": "Cinématique",
+      "chemin": [
+        "2. Mouvement rectiligne uniforme",
+        "a. Relation entre la position par rapport à l’origine, la vitesse et le temps"
+      ],
+      "texte": "i. Expliquer qualitativement et à l’aide d’un graphique la relation entre la position d’un objet par rapport à l’origine (déplacement), sa vitesse et le temps pendant lequel il est en mouvement",
+      "progression": {
+        "ATS-3": null,
+        "ATS-SE-4": null,
+        "ST-3": null,
+        "ST-STE-4": null,
+        "PHY-5": "maitrise"
+      },
+      "page": 6,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "PHY-CIN-005",
+      "champ": "Cinématique",
+      "chemin": [
+        "2. Mouvement rectiligne uniforme",
+        "a. Relation entre la position par rapport à l’origine, la vitesse et le temps"
+      ],
+      "texte": "ii. Appliquer la relation mathématique entre la position par rapport à l’origine (déplacement), la vitesse et le temps (Δs = vΔt) dans une situation donnée",
+      "progression": {
+        "ATS-3": null,
+        "ATS-SE-4": null,
+        "ST-3": null,
+        "ST-STE-4": null,
+        "PHY-5": "maitrise"
+      },
+      "page": 6,
+      "a_verifier": false,
+      "note": "Exposants notés ^, indices notés _."
+    },
+    {
+      "id": "PHY-CIN-006",
+      "champ": "Cinématique",
+      "chemin": [
+        "2. Mouvement rectiligne uniforme",
+        "b. Déplacement et distance parcourue"
+      ],
+      "texte": "i. Distinguer le déplacement de la distance parcourue",
+      "progression": {
+        "ATS-3": null,
+        "ATS-SE-4": null,
+        "ST-3": null,
+        "ST-STE-4": null,
+        "PHY-5": "maitrise"
+      },
+      "page": 6,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "PHY-CIN-007",
+      "champ": "Cinématique",
+      "chemin": [
+        "2. Mouvement rectiligne uniforme",
+        "b. Déplacement et distance parcourue"
+      ],
+      "rubrique": "Changements de vitesse",
+      "texte": "Utiliser des mécanismes permettant des variations de vitesse dans la conception d’objets techniques",
+      "rappel": true,
+      "progression": {
+        "ATS-3": null,
+        "ATS-SE-4": "maitrise",
+        "ST-3": null,
+        "ST-STE-4": "maitrise",
+        "PHY-5": "reinvestissement"
+      },
+      "page": 6,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "PHY-CIN-008",
+      "champ": "Cinématique",
+      "chemin": [
+        "3. Mouvement rectiligne uniformément accéléré"
+      ],
+      "texte": "i. Expliquer qualitativement et à l’aide d’un graphique la relation entre l’accélération d’un corps, la variation de sa vitesse et le temps pendant lequel elle varie",
+      "progression": {
+        "ATS-3": null,
+        "ATS-SE-4": null,
+        "ST-3": null,
+        "ST-STE-4": null,
+        "PHY-5": "maitrise"
+      },
+      "page": 7,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "PHY-CIN-009",
+      "champ": "Cinématique",
+      "chemin": [
+        "3. Mouvement rectiligne uniformément accéléré"
+      ],
+      "texte": "ii. Appliquer la relation mathématique entre l’accélération, la variation de la vitesse et le temps (a = Δv/Δt) dans une situation donnée",
+      "progression": {
+        "ATS-3": null,
+        "ATS-SE-4": null,
+        "ST-3": null,
+        "ST-STE-4": null,
+        "PHY-5": "maitrise"
+      },
+      "page": 7,
+      "a_verifier": false,
+      "note": "Exposants notés ^, indices notés _."
+    },
+    {
+      "id": "PHY-CIN-010",
+      "champ": "Cinématique",
+      "chemin": [
+        "3. Mouvement rectiligne uniformément accéléré",
+        "b. Relation entre l’accélération, la distance parcourue et le temps"
+      ],
+      "texte": "i. Expliquer qualitativement et à l’aide d’un graphique la relation entre l’accélération d’un corps, la distance qu’il a parcourue et le temps écoulé",
+      "progression": {
+        "ATS-3": null,
+        "ATS-SE-4": null,
+        "ST-3": null,
+        "ST-STE-4": null,
+        "PHY-5": "maitrise"
+      },
+      "page": 7,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "PHY-CIN-011",
+      "champ": "Cinématique",
+      "chemin": [
+        "3. Mouvement rectiligne uniformément accéléré",
+        "b. Relation entre l’accélération, la distance parcourue et le temps"
+      ],
+      "texte": "ii. Appliquer la relation mathématique entre l’accélération, la distance parcourue et le temps (Δs = v_iΔt + ½aΔt^2) dans une situation donnée",
+      "progression": {
+        "ATS-3": null,
+        "ATS-SE-4": null,
+        "ST-3": null,
+        "ST-STE-4": null,
+        "PHY-5": "maitrise"
+      },
+      "page": 7,
+      "a_verifier": false,
+      "note": "Exposants notés ^, indices notés _."
+    },
+    {
+      "id": "PHY-CIN-012",
+      "champ": "Cinématique",
+      "chemin": [
+        "3. Mouvement rectiligne uniformément accéléré",
+        "c. Vitesse moyenne et vitesse instantanée"
+      ],
+      "texte": "i. Déterminer la vitesse moyenne d’un objet",
+      "progression": {
+        "ATS-3": null,
+        "ATS-SE-4": null,
+        "ST-3": null,
+        "ST-STE-4": null,
+        "PHY-5": "maitrise"
+      },
+      "page": 7,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "PHY-CIN-013",
+      "champ": "Cinématique",
+      "chemin": [
+        "3. Mouvement rectiligne uniformément accéléré",
+        "c. Vitesse moyenne et vitesse instantanée"
+      ],
+      "texte": "ii. Déterminer la vitesse instantanée d’un objet",
+      "progression": {
+        "ATS-3": null,
+        "ATS-SE-4": null,
+        "ST-3": null,
+        "ST-STE-4": null,
+        "PHY-5": "maitrise"
+      },
+      "page": 7,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "PHY-CIN-014",
+      "champ": "Cinématique",
+      "chemin": [
+        "3. Mouvement rectiligne uniformément accéléré",
+        "c. Vitesse moyenne et vitesse instantanée"
+      ],
+      "texte": "iii. Expliquer la distinction entre vitesse moyenne et vitesse instantanée",
+      "progression": {
+        "ATS-3": null,
+        "ATS-SE-4": null,
+        "ST-3": null,
+        "ST-STE-4": null,
+        "PHY-5": "maitrise"
+      },
+      "page": 7,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "PHY-CIN-015",
+      "champ": "Cinématique",
+      "chemin": [
+        "3. Mouvement rectiligne uniformément accéléré",
+        "d. Chute libre"
+      ],
+      "texte": "i. Expliquer qualitativement et à l’aide d’un graphique le mouvement d’un corps en chute libre (position, déplacement, vitesse moyenne, vitesse instantanée, accélération)",
+      "progression": {
+        "ATS-3": null,
+        "ATS-SE-4": null,
+        "ST-3": null,
+        "ST-STE-4": null,
+        "PHY-5": "maitrise"
+      },
+      "page": 7,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "PHY-CIN-016",
+      "champ": "Cinématique",
+      "chemin": [
+        "3. Mouvement rectiligne uniformément accéléré",
+        "d. Chute libre"
+      ],
+      "texte": "ii. Déterminer la position, le déplacement, la vitesse moyenne, la vitesse instantanée ou l’accélération d’un corps en chute libre",
+      "progression": {
+        "ATS-3": null,
+        "ATS-SE-4": null,
+        "ST-3": null,
+        "ST-STE-4": null,
+        "PHY-5": "maitrise"
+      },
+      "page": 7,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "PHY-CIN-017",
+      "champ": "Cinématique",
+      "chemin": [
+        "3. Mouvement rectiligne uniformément accéléré",
+        "e. Mouvement d’un corps sur un plan incliné"
+      ],
+      "texte": "i. Expliquer qualitativement et à l’aide d’un graphique le mouvement d’un corps sur un plan incliné (position, déplacement, vitesse moyenne, vitesse instantanée, accélération)",
+      "progression": {
+        "ATS-3": null,
+        "ATS-SE-4": null,
+        "ST-3": null,
+        "ST-STE-4": null,
+        "PHY-5": "maitrise"
+      },
+      "page": 7,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "PHY-CIN-018",
+      "champ": "Cinématique",
+      "chemin": [
+        "3. Mouvement rectiligne uniformément accéléré",
+        "e. Mouvement d’un corps sur un plan incliné"
+      ],
+      "texte": "ii. Déterminer la position, le déplacement, la vitesse moyenne, la vitesse instantanée ou l’accélération d’un corps sur un plan incliné",
+      "progression": {
+        "ATS-3": null,
+        "ATS-SE-4": null,
+        "ST-3": null,
+        "ST-STE-4": null,
+        "PHY-5": "maitrise"
+      },
+      "page": 7,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "PHY-CIN-019",
+      "champ": "Cinématique",
+      "chemin": [
+        "4. Mouvement des projectiles"
+      ],
+      "texte": "a. Expliquer le mouvement d’un projectile (combinaison d’un mouvement rectiligne uniforme et d’un mouvement rectiligne uniformément accéléré)",
+      "progression": {
+        "ATS-3": null,
+        "ATS-SE-4": null,
+        "ST-3": null,
+        "ST-STE-4": null,
+        "PHY-5": "maitrise"
+      },
+      "page": 7,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "PHY-CIN-020",
+      "champ": "Cinématique",
+      "chemin": [
+        "4. Mouvement des projectiles"
+      ],
+      "texte": "b. Déterminer la position, le déplacement, la vitesse instantanée d’un projectile ou le temps écoulé",
+      "progression": {
+        "ATS-3": null,
+        "ATS-SE-4": null,
+        "ST-3": null,
+        "ST-STE-4": null,
+        "PHY-5": "maitrise"
+      },
+      "page": 7,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "PHY-DYN-001",
+      "champ": "Dynamique",
+      "chemin": [
+        "4. Mouvement des projectiles"
+      ],
+      "rubrique": "Relation entre le travail, la force et le déplacement",
+      "texte": "Décrire qualitativement la relation entre le travail, la force appliquée sur un corps et son déplacement",
+      "rappel": true,
+      "progression": {
+        "ATS-3": null,
+        "ATS-SE-4": "maitrise",
+        "ST-3": null,
+        "ST-STE-4": "maitrise",
+        "PHY-5": "reinvestissement"
+      },
+      "page": 8,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "PHY-DYN-002",
+      "champ": "Dynamique",
+      "chemin": [
+        "4. Mouvement des projectiles"
+      ],
+      "rubrique": "Relation entre le travail, la force et le déplacement",
+      "texte": "Appliquer la relation mathématique entre le travail, la force efficace et le déplacement (W = FΔs)",
+      "rappel": true,
+      "progression": {
+        "ATS-3": null,
+        "ATS-SE-4": "maitrise",
+        "ST-3": null,
+        "ST-STE-4": "maitrise",
+        "PHY-5": "reinvestissement"
+      },
+      "page": 8,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "PHY-DYN-003",
+      "champ": "Dynamique",
+      "chemin": [
+        "4. Mouvement des projectiles"
+      ],
+      "rubrique": "Relation entre la masse et le poids",
+      "texte": "Décrire qualitativement la relation entre la masse et le poids",
+      "rappel": true,
+      "progression": {
+        "ATS-3": null,
+        "ATS-SE-4": "maitrise",
+        "ST-3": null,
+        "ST-STE-4": "maitrise",
+        "PHY-5": "reinvestissement"
+      },
+      "page": 8,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "PHY-DYN-004",
+      "champ": "Dynamique",
+      "chemin": [
+        "4. Mouvement des projectiles"
+      ],
+      "rubrique": "Relation entre la masse et le poids",
+      "texte": "Appliquer la relation mathématique entre la masse et le poids (F_g = mg)",
+      "rappel": true,
+      "progression": {
+        "ATS-3": null,
+        "ATS-SE-4": "maitrise",
+        "ST-3": null,
+        "ST-STE-4": "maitrise",
+        "PHY-5": "reinvestissement"
+      },
+      "page": 8,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "PHY-DYN-005",
+      "champ": "Dynamique",
+      "chemin": [
+        "4. Mouvement des projectiles"
+      ],
+      "rubrique": "Force efficace",
+      "texte": "Définir la force efficace comme étant la composante de la force appliquée qui est exercée parallèlement au déplacement",
+      "rappel": true,
+      "progression": {
+        "ATS-3": null,
+        "ATS-SE-4": "maitrise",
+        "ST-3": null,
+        "ST-STE-4": "maitrise",
+        "PHY-5": "reinvestissement"
+      },
+      "page": 8,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "PHY-DYN-006",
+      "champ": "Dynamique",
+      "chemin": [
+        "4. Mouvement des projectiles"
+      ],
+      "rubrique": "Force efficace",
+      "texte": "Déterminer graphiquement la grandeur de la force efficace dans une situation donnée",
+      "rappel": true,
+      "progression": {
+        "ATS-3": null,
+        "ATS-SE-4": "maitrise",
+        "ST-3": null,
+        "ST-STE-4": "maitrise",
+        "PHY-5": "reinvestissement"
+      },
+      "page": 8,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "PHY-DYN-007",
+      "champ": "Dynamique",
+      "chemin": [
+        "1. Accélération gravitationnelle"
+      ],
+      "texte": "a. Comparer les valeurs moyennes de l’accélération gravitationnelle terrestre et lunaire (9,8 m/s^2 sur Terre, 1,6 m/s^2 sur la Lune)",
+      "progression": {
+        "ATS-3": null,
+        "ATS-SE-4": null,
+        "ST-3": null,
+        "ST-STE-4": null,
+        "PHY-5": "maitrise"
+      },
+      "page": 8,
+      "a_verifier": false,
+      "note": "Exposants notés ^, indices notés _."
+    },
+    {
+      "id": "PHY-DYN-008",
+      "champ": "Dynamique",
+      "chemin": [
+        "2. Force gravitationnelle"
+      ],
+      "texte": "a. Associer la chute libre d’un corps à l’effet de la force gravitationnelle",
+      "progression": {
+        "ATS-3": null,
+        "ATS-SE-4": null,
+        "ST-3": null,
+        "ST-STE-4": null,
+        "PHY-5": "maitrise"
+      },
+      "page": 8,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "PHY-DYN-009",
+      "champ": "Dynamique",
+      "chemin": [
+        "2. Force gravitationnelle"
+      ],
+      "texte": "b. Associer la force gravitationnelle d’un corps à son poids",
+      "progression": {
+        "ATS-3": null,
+        "ATS-SE-4": null,
+        "ST-3": null,
+        "ST-STE-4": null,
+        "PHY-5": "maitrise"
+      },
+      "page": 8,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "PHY-DYN-010",
+      "champ": "Dynamique",
+      "chemin": [
+        "2. Force gravitationnelle"
+      ],
+      "texte": "c. Déterminer la composante de la force gravitationnelle parallèle au déplacement d’un corps (ex. : plan incliné)",
+      "progression": {
+        "ATS-3": null,
+        "ATS-SE-4": null,
+        "ST-3": null,
+        "ST-STE-4": null,
+        "PHY-5": "maitrise"
+      },
+      "page": 9,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "PHY-DYN-011",
+      "champ": "Dynamique",
+      "chemin": [
+        "3. Lois de Newton"
+      ],
+      "texte": "a. Décrire qualitativement le principe d’inertie (1^re loi de Newton)",
+      "progression": {
+        "ATS-3": null,
+        "ATS-SE-4": null,
+        "ST-3": null,
+        "ST-STE-4": null,
+        "PHY-5": "maitrise"
+      },
+      "page": 9,
+      "a_verifier": false,
+      "note": "Exposants notés ^, indices notés _."
+    },
+    {
+      "id": "PHY-DYN-012",
+      "champ": "Dynamique",
+      "chemin": [
+        "3. Lois de Newton"
+      ],
+      "texte": "b. Décrire qualitativement la relation entre la force appliquée sur un corps, sa masse et son accélération (2^e loi de Newton)",
+      "progression": {
+        "ATS-3": null,
+        "ATS-SE-4": null,
+        "ST-3": null,
+        "ST-STE-4": null,
+        "PHY-5": "maitrise"
+      },
+      "page": 9,
+      "a_verifier": false,
+      "note": "Exposants notés ^, indices notés _."
+    },
+    {
+      "id": "PHY-DYN-013",
+      "champ": "Dynamique",
+      "chemin": [
+        "3. Lois de Newton"
+      ],
+      "texte": "c. Appliquer la relation mathématique entre la force appliquée, la masse et l’accélération (F = ma)",
+      "progression": {
+        "ATS-3": null,
+        "ATS-SE-4": null,
+        "ST-3": null,
+        "ST-STE-4": null,
+        "PHY-5": "maitrise"
+      },
+      "page": 9,
+      "a_verifier": false,
+      "note": "Exposants notés ^, indices notés _."
+    },
+    {
+      "id": "PHY-DYN-014",
+      "champ": "Dynamique",
+      "chemin": [
+        "3. Lois de Newton"
+      ],
+      "texte": "d. Décrire qualitativement le principe d’action-réaction (3^e loi de Newton)",
+      "progression": {
+        "ATS-3": null,
+        "ATS-SE-4": null,
+        "ST-3": null,
+        "ST-STE-4": null,
+        "PHY-5": "maitrise"
+      },
+      "page": 9,
+      "a_verifier": false,
+      "note": "Exposants notés ^, indices notés _."
+    },
+    {
+      "id": "PHY-DYN-015",
+      "champ": "Dynamique",
+      "chemin": [
+        "3. Lois de Newton"
+      ],
+      "texte": "e. Expliquer un phénomène ou le fonctionnement d’un objet technique à l’aide des lois de Newton",
+      "progression": {
+        "ATS-3": null,
+        "ATS-SE-4": null,
+        "ST-3": null,
+        "ST-STE-4": null,
+        "PHY-5": "maitrise"
+      },
+      "page": 9,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "PHY-DYN-016",
+      "champ": "Dynamique",
+      "chemin": [
+        "3. Lois de Newton"
+      ],
+      "rubrique": "Pression",
+      "texte": "Définir la pression comme étant la force exercée par les particules lorsqu’elles entrent en collision avec une surface contraignante",
+      "rappel": true,
+      "progression": {
+        "ATS-3": "maitrise",
+        "ATS-SE-4": "reinvestissement",
+        "ST-3": "maitrise",
+        "ST-STE-4": "reinvestissement",
+        "PHY-5": "reinvestissement"
+      },
+      "page": 9,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "PHY-DYN-017",
+      "champ": "Dynamique",
+      "chemin": [
+        "3. Lois de Newton"
+      ],
+      "rubrique": "Adhérence et frottement entre les pièces",
+      "texte": "Décrire les avantages et les inconvénients liés à l’adhérence et au frottement entre les pièces dans un objet technique",
+      "rappel": true,
+      "progression": {
+        "ATS-3": null,
+        "ATS-SE-4": "maitrise",
+        "ST-3": null,
+        "ST-STE-4": "maitrise",
+        "PHY-5": "reinvestissement"
+      },
+      "page": 9,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "PHY-DYN-018",
+      "champ": "Dynamique",
+      "chemin": [
+        "4. Force de frottement"
+      ],
+      "texte": "a. Expliquer les effets possibles d’une force de frottement (ralentir, arrêter ou empêcher le mouvement d’un corps)",
+      "progression": {
+        "ATS-3": null,
+        "ATS-SE-4": null,
+        "ST-3": null,
+        "ST-STE-4": null,
+        "PHY-5": "maitrise"
+      },
+      "page": 9,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "PHY-DYN-019",
+      "champ": "Dynamique",
+      "chemin": [
+        "4. Force de frottement"
+      ],
+      "texte": "b. Nommer des facteurs qui modifient la grandeur de la force de frottement pour une situation donnée (ex. : nature des surfaces en contact, forme d’un corps qui se déplace dans un fluide)",
+      "progression": {
+        "ATS-3": null,
+        "ATS-SE-4": null,
+        "ST-3": null,
+        "ST-STE-4": null,
+        "PHY-5": "maitrise"
+      },
+      "page": 9,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "PHY-DYN-020",
+      "champ": "Dynamique",
+      "chemin": [
+        "4. Force de frottement"
+      ],
+      "texte": "c. Déterminer la valeur de la force de frottement dans une situation donnée (force de frottement = force motrice - force résultante)",
+      "progression": {
+        "ATS-3": null,
+        "ATS-SE-4": null,
+        "ST-3": null,
+        "ST-STE-4": null,
+        "PHY-5": "maitrise"
+      },
+      "page": 9,
+      "a_verifier": false,
+      "note": "Exposants notés ^, indices notés _."
+    },
+    {
+      "id": "PHY-DYN-021",
+      "champ": "Dynamique",
+      "chemin": [
+        "4. Force de frottement"
+      ],
+      "rubrique": "Contraintes",
+      "texte": "Décrire les contraintes auxquelles sont soumis divers objets techniques : traction, compression, torsion (ex. : la partie supérieure d’une poutre subit des contraintes de compression)",
+      "rappel": true,
+      "progression": {
+        "ATS-3": "maitrise",
+        "ATS-SE-4": "reinvestissement",
+        "ST-3": "maitrise",
+        "ST-STE-4": "reinvestissement",
+        "PHY-5": "reinvestissement"
+      },
+      "page": 9,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "PHY-DYN-022",
+      "champ": "Dynamique",
+      "chemin": [
+        "4. Force de frottement"
+      ],
+      "rubrique": "Contraintes",
+      "texte": "Décrire les contraintes auxquelles sont soumis divers objets techniques : traction, compression, torsion, flexion, cisaillement (ex. : un tremplin est soumis à des contraintes de flexion)",
+      "rappel": true,
+      "progression": {
+        "ATS-3": null,
+        "ATS-SE-4": "maitrise",
+        "ST-3": null,
+        "ST-STE-4": "maitrise",
+        "PHY-5": "reinvestissement"
+      },
+      "page": 9,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "PHY-DYN-023",
+      "champ": "Dynamique",
+      "chemin": [
+        "5. Force centripète"
+      ],
+      "texte": "a. Expliquer qualitativement l’effet d’une force centripète sur un corps en mouvement",
+      "progression": {
+        "ATS-3": null,
+        "ATS-SE-4": null,
+        "ST-3": null,
+        "ST-STE-4": null,
+        "PHY-5": "maitrise"
+      },
+      "page": 9,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "PHY-DYN-024",
+      "champ": "Dynamique",
+      "chemin": [
+        "6. Diagramme de corps libre"
+      ],
+      "texte": "a. Représenter les forces qui s’exercent sur un corps à l’aide de vecteurs",
+      "progression": {
+        "ATS-3": null,
+        "ATS-SE-4": null,
+        "ST-3": null,
+        "ST-STE-4": null,
+        "PHY-5": "maitrise"
+      },
+      "page": 9,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "PHY-DYN-025",
+      "champ": "Dynamique",
+      "chemin": [
+        "7. Équilibre et résultante de plusieurs forces"
+      ],
+      "texte": "a. Déterminer la grandeur et l’orientation du vecteur associé à la force résultante d’un système de forces",
+      "progression": {
+        "ATS-3": null,
+        "ATS-SE-4": null,
+        "ST-3": null,
+        "ST-STE-4": null,
+        "PHY-5": "maitrise"
+      },
+      "page": 9,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "PHY-DYN-026",
+      "champ": "Dynamique",
+      "chemin": [
+        "7. Équilibre et résultante de plusieurs forces"
+      ],
+      "texte": "b. Déterminer la grandeur et l’orientation du vecteur associé à la force équilibrante d’un système de forces",
+      "progression": {
+        "ATS-3": null,
+        "ATS-SE-4": null,
+        "ST-3": null,
+        "ST-STE-4": null,
+        "PHY-5": "maitrise"
+      },
+      "page": 9,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "PHY-TRA-001",
+      "champ": "Transformation de l’énergie",
+      "chemin": [
+        "7. Équilibre et résultante de plusieurs forces"
+      ],
+      "rubrique": "Formes d’énergie",
+      "texte": "Décrire les formes d’énergie chimique, thermique, mécanique et rayonnante",
+      "rappel": true,
+      "progression": {
+        "ATS-3": "maitrise",
+        "ATS-SE-4": "reinvestissement",
+        "ST-3": "maitrise",
+        "ST-STE-4": "reinvestissement",
+        "PHY-5": "reinvestissement"
+      },
+      "page": 10,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "PHY-TRA-002",
+      "champ": "Transformation de l’énergie",
+      "chemin": [
+        "7. Équilibre et résultante de plusieurs forces"
+      ],
+      "rubrique": "Formes d’énergie",
+      "texte": "Définir le joule comme étant l’unité de mesure de l’énergie",
+      "rappel": true,
+      "progression": {
+        "ATS-3": null,
+        "ATS-SE-4": null,
+        "ST-3": "maitrise",
+        "ST-STE-4": "reinvestissement",
+        "PHY-5": "reinvestissement"
+      },
+      "page": 10,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "PHY-TRA-003",
+      "champ": "Transformation de l’énergie",
+      "chemin": [
+        "7. Équilibre et résultante de plusieurs forces"
+      ],
+      "rubrique": "Loi de la conservation de l’énergie",
+      "texte": "Expliquer qualitativement la loi de la conservation de l’énergie",
+      "rappel": true,
+      "progression": {
+        "ATS-3": null,
+        "ATS-SE-4": "maitrise",
+        "ST-3": null,
+        "ST-STE-4": "maitrise",
+        "PHY-5": "reinvestissement"
+      },
+      "page": 10,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "PHY-TRA-004",
+      "champ": "Transformation de l’énergie",
+      "chemin": [
+        "7. Équilibre et résultante de plusieurs forces"
+      ],
+      "rubrique": "Loi de la conservation de l’énergie",
+      "texte": "Appliquer la loi de la conservation de l’énergie dans divers contextes",
+      "rappel": true,
+      "progression": {
+        "ATS-3": null,
+        "ATS-SE-4": "maitrise",
+        "ST-3": null,
+        "ST-STE-4": "maitrise",
+        "PHY-5": "reinvestissement"
+      },
+      "page": 10,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "PHY-TRA-005",
+      "champ": "Transformation de l’énergie",
+      "chemin": [
+        "7. Équilibre et résultante de plusieurs forces"
+      ],
+      "rubrique": "Rendement énergétique",
+      "texte": "Définir le rendement énergétique d’un appareil ou d’un système comme étant la proportion de l’énergie consommée qui est transformée en travail efficace (quantité d’énergie utile / quantité d’énergie consommée × 100)",
+      "rappel": true,
+      "progression": {
+        "ATS-3": null,
+        "ATS-SE-4": "maitrise",
+        "ST-3": null,
+        "ST-STE-4": "maitrise",
+        "PHY-5": "reinvestissement"
+      },
+      "page": 10,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "PHY-TRA-006",
+      "champ": "Transformation de l’énergie",
+      "chemin": [
+        "7. Équilibre et résultante de plusieurs forces"
+      ],
+      "rubrique": "Rendement énergétique",
+      "texte": "Relation entre le travail, la force et le déplacement",
+      "rappel": true,
+      "progression": {
+        "ATS-3": null,
+        "ATS-SE-4": "maitrise",
+        "ST-3": null,
+        "ST-STE-4": "maitrise",
+        "PHY-5": "reinvestissement"
+      },
+      "page": 10,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "PHY-TRA-007",
+      "champ": "Transformation de l’énergie",
+      "chemin": [
+        "7. Équilibre et résultante de plusieurs forces"
+      ],
+      "rubrique": "Rendement énergétique",
+      "texte": "Décrire qualitativement la relation entre le travail, la force appliquée sur un corps et son déplacement",
+      "rappel": true,
+      "progression": {
+        "ATS-3": null,
+        "ATS-SE-4": "maitrise",
+        "ST-3": null,
+        "ST-STE-4": "maitrise",
+        "PHY-5": "reinvestissement"
+      },
+      "page": 10,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "PHY-TRA-008",
+      "champ": "Transformation de l’énergie",
+      "chemin": [
+        "7. Équilibre et résultante de plusieurs forces"
+      ],
+      "rubrique": "Rendement énergétique",
+      "texte": "Appliquer la relation mathématique entre le travail, la force efficace et le déplacement (W = FΔs)",
+      "rappel": true,
+      "progression": {
+        "ATS-3": null,
+        "ATS-SE-4": "maitrise",
+        "ST-3": null,
+        "ST-STE-4": "maitrise",
+        "PHY-5": "reinvestissement"
+      },
+      "page": 10,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "PHY-TRA-009",
+      "champ": "Transformation de l’énergie",
+      "chemin": [
+        "7. Équilibre et résultante de plusieurs forces"
+      ],
+      "rubrique": "Relation entre l’énergie potentielle, la masse, l’accélération et le déplacement",
+      "texte": "Décrire qualitativement la relation entre l’énergie potentielle d’un corps, sa masse, l’accélération gravitationnelle et son déplacement",
+      "rappel": true,
+      "progression": {
+        "ATS-3": null,
+        "ATS-SE-4": "maitrise",
+        "ST-3": null,
+        "ST-STE-4": "maitrise",
+        "PHY-5": "reinvestissement"
+      },
+      "page": 10,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "PHY-TRA-010",
+      "champ": "Transformation de l’énergie",
+      "chemin": [
+        "7. Équilibre et résultante de plusieurs forces"
+      ],
+      "rubrique": "Relation entre l’énergie potentielle, la masse, l’accélération et le déplacement",
+      "texte": "Appliquer la relation mathématique entre l’énergie potentielle, la masse, l’accélération gravitationnelle et le déplacement (E_p = mgh)",
+      "rappel": true,
+      "progression": {
+        "ATS-3": null,
+        "ATS-SE-4": "maitrise",
+        "ST-3": null,
+        "ST-STE-4": "maitrise",
+        "PHY-5": "reinvestissement"
+      },
+      "page": 10,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "PHY-TRA-011",
+      "champ": "Transformation de l’énergie",
+      "chemin": [
+        "7. Équilibre et résultante de plusieurs forces"
+      ],
+      "rubrique": "Relation entre l’énergie potentielle, la masse, l’accélération et le déplacement",
+      "texte": "Décrire qualitativement la relation entre l’énergie cinétique d’un corps, sa masse et sa vitesse",
+      "rappel": true,
+      "progression": {
+        "ATS-3": null,
+        "ATS-SE-4": "maitrise",
+        "ST-3": null,
+        "ST-STE-4": "maitrise",
+        "PHY-5": "reinvestissement"
+      },
+      "page": 11,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "PHY-TRA-012",
+      "champ": "Transformation de l’énergie",
+      "chemin": [
+        "7. Équilibre et résultante de plusieurs forces"
+      ],
+      "rubrique": "Relation entre l’énergie potentielle, la masse, l’accélération et le déplacement",
+      "texte": "Appliquer la relation mathématique entre l’énergie cinétique, la masse et la vitesse (E_k = ½mv)",
+      "rappel": true,
+      "progression": {
+        "ATS-3": null,
+        "ATS-SE-4": "maitrise",
+        "ST-3": null,
+        "ST-STE-4": "maitrise",
+        "PHY-5": "reinvestissement"
+      },
+      "page": 11,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "PHY-TRA-013",
+      "champ": "Transformation de l’énergie",
+      "chemin": [
+        "7. Équilibre et résultante de plusieurs forces"
+      ],
+      "rubrique": "Relation entre le travail et l’énergie",
+      "texte": "Décrire qualitativement la relation entre le travail effectué sur un corps et sa variation d’énergie",
+      "rappel": true,
+      "progression": {
+        "ATS-3": null,
+        "ATS-SE-4": "maitrise",
+        "ST-3": null,
+        "ST-STE-4": "maitrise",
+        "PHY-5": "reinvestissement"
+      },
+      "page": 11,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "PHY-TRA-014",
+      "champ": "Transformation de l’énergie",
+      "chemin": [
+        "7. Équilibre et résultante de plusieurs forces"
+      ],
+      "rubrique": "Relation entre le travail et l’énergie",
+      "texte": "Appliquer la relation mathématique entre le travail et l’énergie (W = ΔE)",
+      "rappel": true,
+      "progression": {
+        "ATS-3": null,
+        "ATS-SE-4": "maitrise",
+        "ST-3": null,
+        "ST-STE-4": "maitrise",
+        "PHY-5": "reinvestissement"
+      },
+      "page": 11,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "PHY-TRA-015",
+      "champ": "Transformation de l’énergie",
+      "chemin": [
+        "1. Énergie mécanique"
+      ],
+      "texte": "a. Expliquer qualitativement une transformation d’énergie mécanique dans une situation donnée (ex. : un manège en mouvement)",
+      "progression": {
+        "ATS-3": null,
+        "ATS-SE-4": null,
+        "ST-3": null,
+        "ST-STE-4": null,
+        "PHY-5": "maitrise"
+      },
+      "page": 11,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "PHY-TRA-016",
+      "champ": "Transformation de l’énergie",
+      "chemin": [
+        "1. Énergie mécanique"
+      ],
+      "texte": "b. Appliquer les relations mathématiques associées à l’énergie cinétique, aux types d’énergie potentielle (gravitationnelle, élastique), au travail et à la chaleur",
+      "progression": {
+        "ATS-3": null,
+        "ATS-SE-4": null,
+        "ST-3": null,
+        "ST-STE-4": null,
+        "PHY-5": "maitrise"
+      },
+      "page": 11,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "PHY-TRA-017",
+      "champ": "Transformation de l’énergie",
+      "chemin": [
+        "1. Énergie mécanique"
+      ],
+      "texte": "c. Analyser quantitativement une transformation d’énergie mécanique dans une situation donnée",
+      "progression": {
+        "ATS-3": null,
+        "ATS-SE-4": null,
+        "ST-3": null,
+        "ST-STE-4": null,
+        "PHY-5": "maitrise"
+      },
+      "page": 11,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "PHY-TRA-018",
+      "champ": "Transformation de l’énergie",
+      "chemin": [
+        "2. Loi de Hooke"
+      ],
+      "texte": "a. Expliquer qualitativement la relation entre l’énergie d’un ressort hélicoïdal, sa constante d’élasticité et la variation de sa longueur par rapport à celle au repos, dans une situation donnée (ex. : les ressorts d’un matelas)",
+      "progression": {
+        "ATS-3": null,
+        "ATS-SE-4": null,
+        "ST-3": null,
+        "ST-STE-4": null,
+        "PHY-5": "maitrise"
+      },
+      "page": 11,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "PHY-TRA-019",
+      "champ": "Transformation de l’énergie",
+      "chemin": [
+        "2. Loi de Hooke"
+      ],
+      "texte": "b. Appliquer la relation mathématique entre l’énergie potentielle élastique, la constante d’élasticité et la variation de longueur dans une situation donnée (E= ½kl)",
+      "progression": {
+        "ATS-3": null,
+        "ATS-SE-4": null,
+        "ST-3": null,
+        "ST-STE-4": null,
+        "PHY-5": "maitrise"
+      },
+      "page": 11,
+      "a_verifier": false,
+      "note": "Exposants notés ^, indices notés _."
+    },
+    {
+      "id": "PHY-TRA-020",
+      "champ": "Transformation de l’énergie",
+      "chemin": [
+        "2. Loi de Hooke"
+      ],
+      "rubrique": "Relation entre puissance et énergie électrique",
+      "texte": "Décrire qualitativement la relation entre l’énergie électrique consommée par un appareil, sa puissance et son temps d’utilisation",
+      "rappel": true,
+      "progression": {
+        "ATS-3": null,
+        "ATS-SE-4": "maitrise",
+        "ST-3": null,
+        "ST-STE-4": "maitrise",
+        "PHY-5": "reinvestissement"
+      },
+      "page": 11,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "PHY-TRA-021",
+      "champ": "Transformation de l’énergie",
+      "chemin": [
+        "2. Loi de Hooke"
+      ],
+      "rubrique": "Relation entre puissance et énergie électrique",
+      "texte": "Appliquer la relation mathématique entre l’énergie électrique consommée, la puissance d’un appareil électrique et le temps d’utilisation (E = PΔt)",
+      "rappel": true,
+      "progression": {
+        "ATS-3": null,
+        "ATS-SE-4": "maitrise",
+        "ST-3": null,
+        "ST-STE-4": "maitrise",
+        "PHY-5": "reinvestissement"
+      },
+      "page": 11,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "PHY-TRA-022",
+      "champ": "Transformation de l’énergie",
+      "chemin": [
+        "3. Relation entre la puissance, le travail et le temps"
+      ],
+      "texte": "a. Expliquer qualitativement la relation entre la puissance d’un système, le travail accompli et le temps pendant lequel il s’effectue",
+      "progression": {
+        "ATS-3": null,
+        "ATS-SE-4": null,
+        "ST-3": null,
+        "ST-STE-4": null,
+        "PHY-5": "maitrise"
+      },
+      "page": 11,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "PHY-TRA-023",
+      "champ": "Transformation de l’énergie",
+      "chemin": [
+        "3. Relation entre la puissance, le travail et le temps"
+      ],
+      "texte": "b. Appliquer la relation mathématique entre la puissance, le travail et le temps (P = W/Δt)",
+      "progression": {
+        "ATS-3": null,
+        "ATS-SE-4": null,
+        "ST-3": null,
+        "ST-STE-4": null,
+        "PHY-5": "maitrise"
+      },
+      "page": 11,
+      "a_verifier": false,
+      "note": "Exposants notés ^, indices notés _."
+    },
+    {
+      "id": "PHY-OPT-001",
+      "champ": "Optique géométrique",
+      "chemin": [
+        "3. Relation entre la puissance, le travail et le temps"
+      ],
+      "rubrique": "Déviation des ondes lumineuses",
+      "texte": "Décrire la façon dont les rayons lumineux sont déviés par une surface réfléchissante plane",
+      "rappel": true,
+      "progression": {
+        "ATS-3": "maitrise",
+        "ATS-SE-4": "reinvestissement",
+        "ST-3": "maitrise",
+        "ST-STE-4": "reinvestissement",
+        "PHY-5": "reinvestissement"
+      },
+      "page": 12,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "PHY-OPT-002",
+      "champ": "Optique géométrique",
+      "chemin": [
+        "3. Relation entre la puissance, le travail et le temps"
+      ],
+      "rubrique": "Déviation des ondes lumineuses",
+      "texte": "Déterminer l’angle de réflexion d’un rayon lumineux à la surface d’un miroir plan",
+      "rappel": true,
+      "progression": {
+        "ATS-3": "maitrise",
+        "ATS-SE-4": "reinvestissement",
+        "ST-3": "maitrise",
+        "ST-STE-4": "reinvestissement",
+        "PHY-5": "reinvestissement"
+      },
+      "page": 12,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "PHY-OPT-003",
+      "champ": "Optique géométrique",
+      "chemin": [
+        "3. Relation entre la puissance, le travail et le temps"
+      ],
+      "rubrique": "Déviation des ondes lumineuses",
+      "texte": "Décrire la façon dont les rayons lumineux sont déviés lorsqu’ils traversent la surface d’une substance translucide convexe ou concave",
+      "rappel": true,
+      "progression": {
+        "ATS-3": "maitrise",
+        "ATS-SE-4": "reinvestissement",
+        "ST-3": "maitrise",
+        "ST-STE-4": "reinvestissement",
+        "PHY-5": "reinvestissement"
+      },
+      "page": 12,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "PHY-OPT-004",
+      "champ": "Optique géométrique",
+      "chemin": [
+        "1. Lois de Snell-Descartes (réflexion)",
+        "a. Rayons incident et réfléchi"
+      ],
+      "texte": "i. Définir un rayon lumineux comme étant une construction théorique indiquant la direction de la propagation de la lumière",
+      "progression": {
+        "ATS-3": null,
+        "ATS-SE-4": null,
+        "ST-3": null,
+        "ST-STE-4": null,
+        "PHY-5": "maitrise"
+      },
+      "page": 12,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "PHY-OPT-005",
+      "champ": "Optique géométrique",
+      "chemin": [
+        "1. Lois de Snell-Descartes (réflexion)",
+        "a. Rayons incident et réfléchi"
+      ],
+      "texte": "ii. Identifier les rayons incident et réfléchi sur une représentation schématique ou dans une situation réelle",
+      "progression": {
+        "ATS-3": null,
+        "ATS-SE-4": null,
+        "ST-3": null,
+        "ST-STE-4": null,
+        "PHY-5": "maitrise"
+      },
+      "page": 12,
+      "a_verifier": false,
+      "note": "Exposants notés ^, indices notés _."
+    },
+    {
+      "id": "PHY-OPT-006",
+      "champ": "Optique géométrique",
+      "chemin": [
+        "1. Lois de Snell-Descartes (réflexion)",
+        "a. Rayons incident et réfléchi"
+      ],
+      "texte": "iii. Distinguer la réflexion diffuse de la réflexion spéculaire dans diverses situations",
+      "progression": {
+        "ATS-3": null,
+        "ATS-SE-4": null,
+        "ST-3": null,
+        "ST-STE-4": null,
+        "PHY-5": "maitrise"
+      },
+      "page": 12,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "PHY-OPT-007",
+      "champ": "Optique géométrique",
+      "chemin": [
+        "1. Lois de Snell-Descartes (réflexion)",
+        "b. Angles d’incidence et de réflexion"
+      ],
+      "texte": "i. Mesurer les angles d’incidence et de réflexion sur une représentation schématique ou expérimentalement",
+      "progression": {
+        "ATS-3": null,
+        "ATS-SE-4": null,
+        "ST-3": null,
+        "ST-STE-4": null,
+        "PHY-5": "maitrise"
+      },
+      "page": 12,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "PHY-OPT-008",
+      "champ": "Optique géométrique",
+      "chemin": [
+        "1. Lois de Snell-Descartes (réflexion)",
+        "b. Angles d’incidence et de réflexion"
+      ],
+      "texte": "ii. Expliquer qualitativement et quantitativement un phénomène à l’aide de la loi de la réflexion (ex. : hauteur minimale d’un miroir nécessaire pour qu’une personne voie son corps en entier, étendue d’un champ de vision)",
+      "progression": {
+        "ATS-3": null,
+        "ATS-SE-4": null,
+        "ST-3": null,
+        "ST-STE-4": null,
+        "PHY-5": "maitrise"
+      },
+      "page": 12,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "PHY-OPT-009",
+      "champ": "Optique géométrique",
+      "chemin": [
+        "1. Lois de Snell-Descartes (réflexion)",
+        "b. Angles d’incidence et de réflexion"
+      ],
+      "rubrique": "Foyer d’une lentille",
+      "texte": "Déterminer la position du foyer d’une lentille concave et d’une lentille convexe",
+      "rappel": true,
+      "progression": {
+        "ATS-3": "maitrise",
+        "ATS-SE-4": "reinvestissement",
+        "ST-3": "maitrise",
+        "ST-STE-4": "reinvestissement",
+        "PHY-5": "reinvestissement"
+      },
+      "page": 12,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "PHY-OPT-010",
+      "champ": "Optique géométrique",
+      "chemin": [
+        "1. Lois de Snell-Descartes (réflexion)",
+        "b. Angles d’incidence et de réflexion"
+      ],
+      "rubrique": "Foyer d’une lentille",
+      "texte": "Décrire le lien entre la position du foyer d’une lentille et le degré de déviation des rayons lumineux dans diverses situations (ex. : accommodation du cristallin, choix de verres correcteurs)",
+      "rappel": true,
+      "progression": {
+        "ATS-3": "maitrise",
+        "ATS-SE-4": "reinvestissement",
+        "ST-3": "maitrise",
+        "ST-STE-4": "reinvestissement",
+        "PHY-5": "reinvestissement"
+      },
+      "page": 12,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "PHY-OPT-011",
+      "champ": "Optique géométrique",
+      "chemin": [
+        "1. Lois de Snell-Descartes (réflexion)",
+        "b. Angles d’incidence et de réflexion"
+      ],
+      "rubrique": "Récepteurs sensoriels (Œil)",
+      "texte": "Identifier les principales parties de l’œil impliquées dans la vision (iris, cornée, cristallin, rétine)",
+      "rappel": true,
+      "progression": {
+        "ATS-3": "maitrise",
+        "ATS-SE-4": "reinvestissement",
+        "ST-3": "maitrise",
+        "ST-STE-4": "reinvestissement",
+        "PHY-5": "reinvestissement"
+      },
+      "page": 13,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "PHY-OPT-012",
+      "champ": "Optique géométrique",
+      "chemin": [
+        "1. Lois de Snell-Descartes (réflexion)",
+        "b. Angles d’incidence et de réflexion"
+      ],
+      "rubrique": "Récepteurs sensoriels (Œil)",
+      "texte": "Décrire la fonction des principales parties de l’œil",
+      "rappel": true,
+      "progression": {
+        "ATS-3": "maitrise",
+        "ATS-SE-4": "reinvestissement",
+        "ST-3": "maitrise",
+        "ST-STE-4": "reinvestissement",
+        "PHY-5": "reinvestissement"
+      },
+      "page": 13,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "PHY-OPT-013",
+      "champ": "Optique géométrique",
+      "chemin": [
+        "2. Loi de Snell-Descartes (réfraction)",
+        "a. Rayons incident et réfracté"
+      ],
+      "texte": "i. Identifier les rayons incident et réfracté sur une représentation schématique ou dans une situation réelle",
+      "progression": {
+        "ATS-3": null,
+        "ATS-SE-4": null,
+        "ST-3": null,
+        "ST-STE-4": null,
+        "PHY-5": "maitrise"
+      },
+      "page": 13,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "PHY-OPT-014",
+      "champ": "Optique géométrique",
+      "chemin": [
+        "2. Loi de Snell-Descartes (réfraction)",
+        "b. Angles d’incidence et de réfraction"
+      ],
+      "texte": "i. Mesurer les angles d’incidence et de réfraction sur une représentation schématique ou expérimentalement",
+      "progression": {
+        "ATS-3": null,
+        "ATS-SE-4": null,
+        "ST-3": null,
+        "ST-STE-4": null,
+        "PHY-5": "maitrise"
+      },
+      "page": 13,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "PHY-OPT-015",
+      "champ": "Optique géométrique",
+      "chemin": [
+        "2. Loi de Snell-Descartes (réfraction)",
+        "c. Indice de réfraction"
+      ],
+      "texte": "i. Définir l’indice de réfraction d’un milieu comme étant le rapport entre la vitesse de propagation de la lumière dans le vide et sa vitesse dans ce milieu (n = c/v)",
+      "progression": {
+        "ATS-3": null,
+        "ATS-SE-4": null,
+        "ST-3": null,
+        "ST-STE-4": null,
+        "PHY-5": "maitrise"
+      },
+      "page": 13,
+      "a_verifier": false,
+      "note": "Exposants notés ^, indices notés _."
+    },
+    {
+      "id": "PHY-OPT-016",
+      "champ": "Optique géométrique",
+      "chemin": [
+        "2. Loi de Snell-Descartes (réfraction)",
+        "c. Indice de réfraction"
+      ],
+      "texte": "ii. Déterminer expérimentalement ou mathématiquement l’indice de réfraction de divers milieux",
+      "progression": {
+        "ATS-3": null,
+        "ATS-SE-4": null,
+        "ST-3": null,
+        "ST-STE-4": null,
+        "PHY-5": "maitrise"
+      },
+      "page": 13,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "PHY-OPT-017",
+      "champ": "Optique géométrique",
+      "chemin": [
+        "2. Loi de Snell-Descartes (réfraction)",
+        "c. Indice de réfraction"
+      ],
+      "texte": "iii. Expliquer qualitativement et quantitativement un phénomène à l’aide de la loi de la réfraction (n_1sinΘ_1= n_2sinΘ_2) (ex. : paille dans un verre d’eau)",
+      "progression": {
+        "ATS-3": null,
+        "ATS-SE-4": null,
+        "ST-3": null,
+        "ST-STE-4": null,
+        "PHY-5": "maitrise"
+      },
+      "page": 13,
+      "a_verifier": false,
+      "note": "Exposants notés ^, indices notés _."
+    },
+    {
+      "id": "PHY-OPT-018",
+      "champ": "Optique géométrique",
+      "chemin": [
+        "2. Loi de Snell-Descartes (réfraction)",
+        "c. Indice de réfraction"
+      ],
+      "texte": "iv. Expliquer le phénomène de réflexion totale interne (ex. : mirage, fibre optique)",
+      "progression": {
+        "ATS-3": null,
+        "ATS-SE-4": null,
+        "ST-3": null,
+        "ST-STE-4": null,
+        "PHY-5": "maitrise"
+      },
+      "page": 13,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "PHY-OPT-019",
+      "champ": "Optique géométrique",
+      "chemin": [
+        "3. Images",
+        "a. Type d’image"
+      ],
+      "texte": "i. Expliquer la distinction entre image réelle et image virtuelle",
+      "progression": {
+        "ATS-3": null,
+        "ATS-SE-4": null,
+        "ST-3": null,
+        "ST-STE-4": null,
+        "PHY-5": "maitrise"
+      },
+      "page": 13,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "PHY-OPT-020",
+      "champ": "Optique géométrique",
+      "chemin": [
+        "3. Images",
+        "b. Caractéristiques de l’image"
+      ],
+      "texte": "i. Déterminer les caractéristiques de l’image obtenue dans une situation donnée (miroirs et lentilles)",
+      "progression": {
+        "ATS-3": null,
+        "ATS-SE-4": null,
+        "ST-3": null,
+        "ST-STE-4": null,
+        "PHY-5": "maitrise"
+      },
+      "page": 13,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "PHY-OPT-021",
+      "champ": "Optique géométrique",
+      "chemin": [
+        "3. Images",
+        "b. Caractéristiques de l’image"
+      ],
+      "texte": "ii. Appliquer les relations mathématiques qui permettent de déterminer la position, l’orientation et la hauteur d’un objet ou de son image dans le cas de miroirs ou de lentilles (Gr = h_i/h_o = -d_i/d_o = -q/p = l_i/l_f = l_f/l_o ; 1/l_f = 1/d_i + 1/d_o)",
+      "progression": {
+        "ATS-3": null,
+        "ATS-SE-4": null,
+        "ST-3": null,
+        "ST-STE-4": null,
+        "PHY-5": "maitrise"
+      },
+      "page": 13,
+      "a_verifier": false,
+      "note": "Exposants notés ^, indices notés _."
+    },
+    {
+      "id": "PHY-TEC-001",
+      "champ": "Techniques",
+      "chemin": [
+        "1. Techniques d’utilisation sécuritaire du matériel de laboratoire ou d'atelier"
+      ],
+      "texte": "a. Utiliser le matériel de laboratoire de façon sécuritaire (ex. : ne jamais orienter un faisceau laser en direction d’un visage, s’assurer de bien fixer les montages)",
+      "progression": {
+        "ATS-3": "apprentissage",
+        "ATS-SE-4": "maitrise",
+        "ST-3": "apprentissage",
+        "ST-STE-4": "maitrise",
+        "PHY-5": "reinvestissement"
+      },
+      "page": 14,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "PHY-TEC-002",
+      "champ": "Techniques",
+      "chemin": [
+        "2. Techniques d’utilisation d’instruments d’observation"
+      ],
+      "texte": "a. Utiliser de façon adéquate un instrument d’observation (ex. : appareil photo, caméra vidéo, sonde)",
+      "progression": {
+        "ATS-3": "reinvestissement",
+        "ATS-SE-4": "reinvestissement",
+        "ST-3": "reinvestissement",
+        "ST-STE-4": "reinvestissement",
+        "PHY-5": "reinvestissement"
+      },
+      "page": 14,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "PHY-TEC-003",
+      "champ": "Techniques",
+      "chemin": [
+        "B. Techniques liées aux mesures",
+        "1. Vérification de la fidélité, de la justesse et de la sensibilité des instruments de mesure"
+      ],
+      "texte": "a. Effectuer plusieurs fois la même mesure pour vérifier la fidélité de l’instrument utilisé",
+      "progression": {
+        "ATS-3": null,
+        "ATS-SE-4": "maitrise",
+        "ST-3": null,
+        "ST-STE-4": "maitrise",
+        "PHY-5": "reinvestissement"
+      },
+      "page": 14,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "PHY-TEC-004",
+      "champ": "Techniques",
+      "chemin": [
+        "B. Techniques liées aux mesures",
+        "1. Vérification de la fidélité, de la justesse et de la sensibilité des instruments de mesure"
+      ],
+      "texte": "b. Effectuer les opérations requises pour s’assurer de la justesse d’un instrument de mesure (ex. : calibrer une sonde, positionner adéquatement un instrument de mesure dans un montage)",
+      "progression": {
+        "ATS-3": null,
+        "ATS-SE-4": "maitrise",
+        "ST-3": null,
+        "ST-STE-4": "maitrise",
+        "PHY-5": "reinvestissement"
+      },
+      "page": 14,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "PHY-TEC-005",
+      "champ": "Techniques",
+      "chemin": [
+        "B. Techniques liées aux mesures",
+        "1. Vérification de la fidélité, de la justesse et de la sensibilité des instruments de mesure"
+      ],
+      "texte": "c. Choisir un instrument de mesure en tenant compte de la sensibilité de l’instrument (ex. : utiliser un chronomètre au lieu d’une montre analogique)",
+      "progression": {
+        "ATS-3": null,
+        "ATS-SE-4": "maitrise",
+        "ST-3": null,
+        "ST-STE-4": "maitrise",
+        "PHY-5": "reinvestissement"
+      },
+      "page": 14,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "PHY-TEC-006",
+      "champ": "Techniques",
+      "chemin": [
+        "B. Techniques liées aux mesures",
+        "2. Interprétation des résultats de la mesure"
+      ],
+      "texte": "a. Déterminer l’erreur attribuable à un instrument de mesure (ex. : l’erreur sur la mesure effectuée à l’aide d’un dynamomètre correspond à la moitié de la plus petite graduation, celle d’un ruban à mesurer correspond à la valeur de la plus petite graduation)",
+      "progression": {
+        "ATS-3": null,
+        "ATS-SE-4": "maitrise",
+        "ST-3": null,
+        "ST-STE-4": "maitrise",
+        "PHY-5": "reinvestissement"
+      },
+      "page": 14,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "PHY-TEC-007",
+      "champ": "Techniques",
+      "chemin": [
+        "B. Techniques liées aux mesures",
+        "2. Interprétation des résultats de la mesure"
+      ],
+      "texte": "b. Estimer les erreurs associées à l’utilisateur et à l’environnement lors d’une mesure (ex. : pour un chronomètre, on estime à 0,1 seconde l’erreur attribuable au temps de réaction)",
+      "progression": {
+        "ATS-3": null,
+        "ATS-SE-4": "maitrise",
+        "ST-3": null,
+        "ST-STE-4": "maitrise",
+        "PHY-5": "reinvestissement"
+      },
+      "page": 14,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "PHY-TEC-008",
+      "champ": "Techniques",
+      "chemin": [
+        "B. Techniques liées aux mesures",
+        "2. Interprétation des résultats de la mesure"
+      ],
+      "texte": "c. Exprimer un résultat avec un nombre de chiffres significatifs qui tient compte des erreurs sur la mesure (ex. : une mesure de 10,35 cm effectuée avec une règle graduée au millimètre devrait s’exprimer 10,4 cm ou 104 mm)",
+      "progression": {
+        "ATS-3": null,
+        "ATS-SE-4": "maitrise",
+        "ST-3": null,
+        "ST-STE-4": "maitrise",
+        "PHY-5": "reinvestissement"
+      },
+      "page": 14,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "PHY-TEC-009",
+      "champ": "Techniques",
+      "chemin": [
+        "B. Techniques liées aux mesures",
+        "2. Interprétation des résultats de la mesure"
+      ],
+      "texte": "d. Exprimer la valeur d’une mesure avec son incertitude absolue ou relative (ex. : 24,1 ± 0,1 cm ou 24,1 cm ± 0,4 %)",
+      "progression": {
+        "ATS-3": null,
+        "ATS-SE-4": null,
+        "ST-3": null,
+        "ST-STE-4": null,
+        "PHY-5": "maitrise"
+      },
+      "page": 14,
+      "a_verifier": false,
+      "note": "Exposants notés ^, indices notés _."
+    },
+    {
+      "id": "PHY-STR-001",
+      "champ": "Stratégies",
+      "chemin": [
+        "B. Techniques liées aux mesures"
+      ],
+      "texte": "1. Aborder un problème ou un phénomène à partir de divers cadres de référence (ex. : social, environnemental, historique, économique)",
+      "progression": {
+        "1er-cycle": "reinvestissement",
+        "ATS-3": "reinvestissement",
+        "ATS-SE-4": "reinvestissement",
+        "ST-3": "reinvestissement",
+        "ST-STE-4": "reinvestissement",
+        "PHY-5": "reinvestissement"
+      },
+      "page": 15,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "PHY-STR-002",
+      "champ": "Stratégies",
+      "chemin": [
+        "B. Techniques liées aux mesures"
+      ],
+      "texte": "2. Discerner les éléments pertinents à la résolution du problème",
+      "progression": {
+        "1er-cycle": "reinvestissement",
+        "ATS-3": "reinvestissement",
+        "ATS-SE-4": "reinvestissement",
+        "ST-3": "reinvestissement",
+        "ST-STE-4": "reinvestissement",
+        "PHY-5": "reinvestissement"
+      },
+      "page": 15,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "PHY-STR-003",
+      "champ": "Stratégies",
+      "chemin": [
+        "B. Techniques liées aux mesures"
+      ],
+      "texte": "3. Évoquer des problèmes similaires déjà résolus",
+      "progression": {
+        "1er-cycle": "reinvestissement",
+        "ATS-3": "reinvestissement",
+        "ATS-SE-4": "reinvestissement",
+        "ST-3": "reinvestissement",
+        "ST-STE-4": "reinvestissement",
+        "PHY-5": "reinvestissement"
+      },
+      "page": 15,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "PHY-STR-004",
+      "champ": "Stratégies",
+      "chemin": [
+        "B. Techniques liées aux mesures"
+      ],
+      "texte": "4. Prendre conscience de ses représentations préalables",
+      "progression": {
+        "1er-cycle": "reinvestissement",
+        "ATS-3": "reinvestissement",
+        "ATS-SE-4": "reinvestissement",
+        "ST-3": "reinvestissement",
+        "ST-STE-4": "reinvestissement",
+        "PHY-5": "reinvestissement"
+      },
+      "page": 15,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "PHY-STR-005",
+      "champ": "Stratégies",
+      "chemin": [
+        "B. Techniques liées aux mesures"
+      ],
+      "texte": "5. Schématiser ou illustrer le problème",
+      "progression": {
+        "1er-cycle": "reinvestissement",
+        "ATS-3": "reinvestissement",
+        "ATS-SE-4": "reinvestissement",
+        "ST-3": "reinvestissement",
+        "ST-STE-4": "reinvestissement",
+        "PHY-5": "reinvestissement"
+      },
+      "page": 15,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "PHY-STR-006",
+      "champ": "Stratégies",
+      "chemin": [
+        "B. Techniques liées aux mesures"
+      ],
+      "texte": "6. Formuler des questions",
+      "progression": {
+        "1er-cycle": "reinvestissement",
+        "ATS-3": "reinvestissement",
+        "ATS-SE-4": "reinvestissement",
+        "ST-3": "reinvestissement",
+        "ST-STE-4": "reinvestissement",
+        "PHY-5": "reinvestissement"
+      },
+      "page": 15,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "PHY-STR-007",
+      "champ": "Stratégies",
+      "chemin": [
+        "B. Techniques liées aux mesures"
+      ],
+      "texte": "7. Émettre des hypothèses (ex. : seul, en équipe, en groupe)",
+      "progression": {
+        "1er-cycle": "reinvestissement",
+        "ATS-3": "reinvestissement",
+        "ATS-SE-4": "reinvestissement",
+        "ST-3": "reinvestissement",
+        "ST-STE-4": "reinvestissement",
+        "PHY-5": "reinvestissement"
+      },
+      "page": 15,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "PHY-STR-008",
+      "champ": "Stratégies",
+      "chemin": [
+        "B. Techniques liées aux mesures"
+      ],
+      "texte": "8. Explorer diverses avenues de solution",
+      "progression": {
+        "1er-cycle": "reinvestissement",
+        "ATS-3": "reinvestissement",
+        "ATS-SE-4": "reinvestissement",
+        "ST-3": "reinvestissement",
+        "ST-STE-4": "reinvestissement",
+        "PHY-5": "reinvestissement"
+      },
+      "page": 15,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "PHY-STR-009",
+      "champ": "Stratégies",
+      "chemin": [
+        "B. Techniques liées aux mesures"
+      ],
+      "texte": "9. Anticiper les résultats de sa démarche",
+      "progression": {
+        "1er-cycle": "reinvestissement",
+        "ATS-3": "reinvestissement",
+        "ATS-SE-4": "reinvestissement",
+        "ST-3": "reinvestissement",
+        "ST-STE-4": "reinvestissement",
+        "PHY-5": "reinvestissement"
+      },
+      "page": 15,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "PHY-STR-010",
+      "champ": "Stratégies",
+      "chemin": [
+        "B. Techniques liées aux mesures"
+      ],
+      "texte": "10. Imaginer des solutions à un problème à partir de ses explications",
+      "progression": {
+        "1er-cycle": "reinvestissement",
+        "ATS-3": "reinvestissement",
+        "ATS-SE-4": "reinvestissement",
+        "ST-3": "reinvestissement",
+        "ST-STE-4": "reinvestissement",
+        "PHY-5": "reinvestissement"
+      },
+      "page": 15,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "PHY-STR-011",
+      "champ": "Stratégies",
+      "chemin": [
+        "B. Techniques liées aux mesures"
+      ],
+      "texte": "11. Prendre en considération les contraintes en jeu dans la résolution d’un problème ou la réalisation d’un objet (ex. : cahier des charges, ressources disponibles, temps alloué)",
+      "progression": {
+        "1er-cycle": "reinvestissement",
+        "ATS-3": "reinvestissement",
+        "ATS-SE-4": "reinvestissement",
+        "ST-3": "reinvestissement",
+        "ST-STE-4": "reinvestissement",
+        "PHY-5": "reinvestissement"
+      },
+      "page": 15,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "PHY-STR-012",
+      "champ": "Stratégies",
+      "chemin": [
+        "B. Techniques liées aux mesures"
+      ],
+      "texte": "12. Réfléchir sur ses erreurs afin d’en identifier la source",
+      "progression": {
+        "1er-cycle": "reinvestissement",
+        "ATS-3": "reinvestissement",
+        "ATS-SE-4": "reinvestissement",
+        "ST-3": "reinvestissement",
+        "ST-STE-4": "reinvestissement",
+        "PHY-5": "reinvestissement"
+      },
+      "page": 15,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "PHY-STR-013",
+      "champ": "Stratégies",
+      "chemin": [
+        "B. Techniques liées aux mesures"
+      ],
+      "texte": "13. Faire appel à divers modes de raisonnement (ex. : induire, déduire, inférer, comparer, classifier)",
+      "progression": {
+        "1er-cycle": "reinvestissement",
+        "ATS-3": "reinvestissement",
+        "ATS-SE-4": "reinvestissement",
+        "ST-3": "reinvestissement",
+        "ST-STE-4": "reinvestissement",
+        "PHY-5": "reinvestissement"
+      },
+      "page": 15,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "PHY-STR-014",
+      "champ": "Stratégies",
+      "chemin": [
+        "B. Techniques liées aux mesures"
+      ],
+      "texte": "14. Recourir à des démarches empiriques (ex. : tâtonnement, analyse, exploration à l’aide des sens)",
+      "progression": {
+        "1er-cycle": "reinvestissement",
+        "ATS-3": "reinvestissement",
+        "ATS-SE-4": "reinvestissement",
+        "ST-3": "reinvestissement",
+        "ST-STE-4": "reinvestissement",
+        "PHY-5": "reinvestissement"
+      },
+      "page": 15,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "PHY-STR-015",
+      "champ": "Stratégies",
+      "chemin": [
+        "B. Techniques liées aux mesures"
+      ],
+      "texte": "15. Vérifier la cohérence de sa démarche et effectuer les ajustements nécessaires",
+      "progression": {
+        "1er-cycle": "maitrise",
+        "ATS-3": "reinvestissement",
+        "ATS-SE-4": "reinvestissement",
+        "ST-3": "reinvestissement",
+        "ST-STE-4": "reinvestissement",
+        "PHY-5": "reinvestissement"
+      },
+      "page": 15,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "PHY-STR-016",
+      "champ": "Stratégies",
+      "chemin": [
+        "B. Techniques liées aux mesures"
+      ],
+      "texte": "16. Inventorier le plus grand nombre possible d’informations scientifiques, technologiques et contextuelles éventuellement utiles pour cerner un problème ou prévoir des tendances",
+      "progression": {
+        "1er-cycle": null,
+        "ATS-3": "apprentissage",
+        "ATS-SE-4": "maitrise",
+        "ST-3": "apprentissage",
+        "ST-STE-4": "maitrise",
+        "PHY-5": "reinvestissement"
+      },
+      "page": 15,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "PHY-STR-017",
+      "champ": "Stratégies",
+      "chemin": [
+        "B. Techniques liées aux mesures"
+      ],
+      "texte": "17. Généraliser à partir de plusieurs cas particuliers structurellement semblables",
+      "progression": {
+        "1er-cycle": null,
+        "ATS-3": "apprentissage",
+        "ATS-SE-4": "maitrise",
+        "ST-3": "apprentissage",
+        "ST-STE-4": "maitrise",
+        "PHY-5": "reinvestissement"
+      },
+      "page": 15,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "PHY-STR-018",
+      "champ": "Stratégies",
+      "chemin": [
+        "B. Techniques liées aux mesures"
+      ],
+      "texte": "18. Élaborer divers scénarios possibles",
+      "progression": {
+        "1er-cycle": null,
+        "ATS-3": "apprentissage",
+        "ATS-SE-4": "maitrise",
+        "ST-3": "apprentissage",
+        "ST-STE-4": "maitrise",
+        "PHY-5": "reinvestissement"
+      },
+      "page": 15,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "PHY-STR-019",
+      "champ": "Stratégies",
+      "chemin": [
+        "B. Techniques liées aux mesures"
+      ],
+      "texte": "19. Envisager divers points de vue liés aux problématiques scientifiques ou technologiques",
+      "progression": {
+        "1er-cycle": null,
+        "ATS-3": "apprentissage",
+        "ATS-SE-4": "maitrise",
+        "ST-3": "apprentissage",
+        "ST-STE-4": "maitrise",
+        "PHY-5": "reinvestissement"
+      },
+      "page": 15,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "PHY-STR-020",
+      "champ": "Stratégies",
+      "chemin": [
+        "B. Stratégies d’instrumentation"
+      ],
+      "texte": "1. Recourir à différentes sources d’information (ex. : livre, journal, site Web, revue, expert)",
+      "progression": {
+        "1er-cycle": "reinvestissement",
+        "ATS-3": "reinvestissement",
+        "ATS-SE-4": "reinvestissement",
+        "ST-3": "reinvestissement",
+        "ST-STE-4": "reinvestissement",
+        "PHY-5": "reinvestissement"
+      },
+      "page": 16,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "PHY-STR-021",
+      "champ": "Stratégies",
+      "chemin": [
+        "B. Stratégies d’instrumentation"
+      ],
+      "texte": "2. Valider les sources d’information",
+      "progression": {
+        "1er-cycle": "reinvestissement",
+        "ATS-3": "reinvestissement",
+        "ATS-SE-4": "reinvestissement",
+        "ST-3": "reinvestissement",
+        "ST-STE-4": "reinvestissement",
+        "PHY-5": "reinvestissement"
+      },
+      "page": 16,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "PHY-STR-022",
+      "champ": "Stratégies",
+      "chemin": [
+        "B. Stratégies d’instrumentation"
+      ],
+      "texte": "3. Recourir au dessin pour illustrer une solution (ex. : schéma, croquis, dessin technique)",
+      "progression": {
+        "1er-cycle": "reinvestissement",
+        "ATS-3": "reinvestissement",
+        "ATS-SE-4": "reinvestissement",
+        "ST-3": "reinvestissement",
+        "ST-STE-4": "reinvestissement",
+        "PHY-5": "reinvestissement"
+      },
+      "page": 16,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "PHY-STR-023",
+      "champ": "Stratégies",
+      "chemin": [
+        "B. Stratégies d’instrumentation"
+      ],
+      "texte": "4. Recourir à des outils de consignation (ex. : schéma, notes, graphique, protocole, journal de bord)",
+      "progression": {
+        "1er-cycle": "reinvestissement",
+        "ATS-3": "reinvestissement",
+        "ATS-SE-4": "reinvestissement",
+        "ST-3": "reinvestissement",
+        "ST-STE-4": "reinvestissement",
+        "PHY-5": "reinvestissement"
+      },
+      "page": 16,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "PHY-STR-024",
+      "champ": "Stratégies",
+      "chemin": [
+        "B. Stratégies d’instrumentation"
+      ],
+      "texte": "5. Recourir à des techniques ou des outils d’observation variés",
+      "progression": {
+        "1er-cycle": "reinvestissement",
+        "ATS-3": "reinvestissement",
+        "ATS-SE-4": "reinvestissement",
+        "ST-3": "reinvestissement",
+        "ST-STE-4": "reinvestissement",
+        "PHY-5": "reinvestissement"
+      },
+      "page": 16,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "PHY-STR-025",
+      "champ": "Stratégies",
+      "chemin": [
+        "B. Stratégies d’instrumentation"
+      ],
+      "texte": "6. Sélectionner des techniques ou des outils d’observation",
+      "progression": {
+        "1er-cycle": "maitrise",
+        "ATS-3": "reinvestissement",
+        "ATS-SE-4": "reinvestissement",
+        "ST-3": "reinvestissement",
+        "ST-STE-4": "reinvestissement",
+        "PHY-5": "reinvestissement"
+      },
+      "page": 16,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "PHY-STR-026",
+      "champ": "Stratégies",
+      "chemin": [
+        "C. Stratégies d’analyse"
+      ],
+      "texte": "1. Déterminer les contraintes et les éléments importants pour la résolution d’un problème",
+      "progression": {
+        "1er-cycle": "maitrise",
+        "ATS-3": "reinvestissement",
+        "ATS-SE-4": "reinvestissement",
+        "ST-3": "reinvestissement",
+        "ST-STE-4": "reinvestissement",
+        "PHY-5": "reinvestissement"
+      },
+      "page": 16,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "PHY-STR-027",
+      "champ": "Stratégies",
+      "chemin": [
+        "C. Stratégies d’analyse"
+      ],
+      "texte": "2. Diviser un problème complexe en sous-problèmes plus simples",
+      "progression": {
+        "1er-cycle": "maitrise",
+        "ATS-3": "reinvestissement",
+        "ATS-SE-4": "reinvestissement",
+        "ST-3": "reinvestissement",
+        "ST-STE-4": "reinvestissement",
+        "PHY-5": "reinvestissement"
+      },
+      "page": 16,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "PHY-STR-028",
+      "champ": "Stratégies",
+      "chemin": [
+        "C. Stratégies d’analyse"
+      ],
+      "texte": "3. Faire appel à divers modes de raisonnement pour traiter les informations (ex. : inférer, induire, déduire, comparer, classifier, sérier)",
+      "progression": {
+        "1er-cycle": "maitrise",
+        "ATS-3": "reinvestissement",
+        "ATS-SE-4": "reinvestissement",
+        "ST-3": "reinvestissement",
+        "ST-STE-4": "reinvestissement",
+        "PHY-5": "reinvestissement"
+      },
+      "page": 16,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "PHY-STR-029",
+      "champ": "Stratégies",
+      "chemin": [
+        "C. Stratégies d’analyse"
+      ],
+      "texte": "4. Raisonner par analogie pour traiter des informations à l’aide de ses connaissances scientifiques et technologiques",
+      "progression": {
+        "1er-cycle": null,
+        "ATS-3": "apprentissage",
+        "ATS-SE-4": "maitrise",
+        "ST-3": "apprentissage",
+        "ST-STE-4": "maitrise",
+        "PHY-5": "reinvestissement"
+      },
+      "page": 16,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "PHY-STR-030",
+      "champ": "Stratégies",
+      "chemin": [
+        "C. Stratégies d’analyse"
+      ],
+      "texte": "5. Sélectionner des critères qui permettent de se positionner au regard d’une problématique scientifique ou technologique",
+      "progression": {
+        "1er-cycle": null,
+        "ATS-3": "apprentissage",
+        "ATS-SE-4": "maitrise",
+        "ST-3": "apprentissage",
+        "ST-STE-4": "maitrise",
+        "PHY-5": "reinvestissement"
+      },
+      "page": 16,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "PHY-STR-031",
+      "champ": "Stratégies",
+      "chemin": [
+        "D. Stratégies de communication"
+      ],
+      "texte": "1. Recourir à des modes de communication variés pour proposer des explications ou des solutions (ex. : exposé, texte, protocole)",
+      "progression": {
+        "1er-cycle": "reinvestissement",
+        "ATS-3": "reinvestissement",
+        "ATS-SE-4": "reinvestissement",
+        "ST-3": "reinvestissement",
+        "ST-STE-4": "reinvestissement",
+        "PHY-5": "reinvestissement"
+      },
+      "page": 16,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "PHY-STR-032",
+      "champ": "Stratégies",
+      "chemin": [
+        "D. Stratégies de communication"
+      ],
+      "texte": "2. Organiser les données en vue de les présenter (ex. : tableau, diagramme, graphique)",
+      "progression": {
+        "1er-cycle": "reinvestissement",
+        "ATS-3": "reinvestissement",
+        "ATS-SE-4": "reinvestissement",
+        "ST-3": "reinvestissement",
+        "ST-STE-4": "reinvestissement",
+        "PHY-5": "reinvestissement"
+      },
+      "page": 16,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "PHY-STR-033",
+      "champ": "Stratégies",
+      "chemin": [
+        "D. Stratégies de communication"
+      ],
+      "texte": "3. Échanger des informations",
+      "progression": {
+        "1er-cycle": "reinvestissement",
+        "ATS-3": "reinvestissement",
+        "ATS-SE-4": "reinvestissement",
+        "ST-3": "reinvestissement",
+        "ST-STE-4": "reinvestissement",
+        "PHY-5": "reinvestissement"
+      },
+      "page": 16,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "PHY-STR-034",
+      "champ": "Stratégies",
+      "chemin": [
+        "D. Stratégies de communication"
+      ],
+      "texte": "4. Confronter différentes explications ou solutions possibles à un problème pour en évaluer la pertinence (ex. : séance plénière)",
+      "progression": {
+        "1er-cycle": "reinvestissement",
+        "ATS-3": "reinvestissement",
+        "ATS-SE-4": "reinvestissement",
+        "ST-3": "reinvestissement",
+        "ST-STE-4": "reinvestissement",
+        "PHY-5": "reinvestissement"
+      },
+      "page": 16,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "PHY-STR-035",
+      "champ": "Stratégies",
+      "chemin": [
+        "D. Stratégies de communication"
+      ],
+      "texte": "5. Recourir à des outils permettant de représenter des données sous forme de tableaux et de graphiques ou de tracer des diagrammes",
+      "progression": {
+        "1er-cycle": "maitrise",
+        "ATS-3": "reinvestissement",
+        "ATS-SE-4": "reinvestissement",
+        "ST-3": "reinvestissement",
+        "ST-STE-4": "reinvestissement",
+        "PHY-5": "reinvestissement"
+      },
+      "page": 16,
+      "a_verifier": false,
+      "note": ""
+    }
+  ]
+}
