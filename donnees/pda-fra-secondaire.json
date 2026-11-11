@@ -19,9 +19,9 @@
     47
   ],
   "bilan": {
-    "nombre_savoirs": 713,
-    "a_verifier": 61,
-    "prioritaires": 33
+    "nombre_savoirs": 746,
+    "a_verifier": 0,
+    "prioritaires": 32
   },
   "savoirs": [
     {
@@ -249,24 +249,56 @@
       "note": ""
     },
     {
-      "id": "FRA-PRE-011",
+      "id": "FRA-PRE-011-b",
       "competence": "Première partie : les modes de discours",
       "section": null,
       "chemin": [
-        "1. Situation de communication (P1 : 103, 113, 124, 126, 130, 142) (P2 : 43, 46, 50, 64, 67, 89-90, 92-94, 97, 110-111) 1.1. En lecture et en écoute (réception) Analyser la situation et en tenir compte"
+        "1. Situation de communication (P1 : 103, 113, 124, 126, 130, 142) (P2 : 43, 46, 50, 64, 67, 89-90, 92-94, 97, 110-111) 1.1. En lecture et en écoute (réception) Analyser la situation et en tenir compte",
+        "ii. son intention"
       ],
-      "texte": "ii. son intention décrire pour faire connaître (ex. : article de revue, capsule d’information, compte rendu d’évènement, résumé); point de vue plutôt neutre décrire pour inciter à agir ( ex. : entrevue, note critique, quatrième de couverture); point de vue plutôt expressif ou subjectif décrire pour faire comprendre (ex. : article de vulgarisation scientifique, contexte de la controverse); point de vue plutôt neutre décrire pour créer des éléments d’un univers (lieu, personnage de récit); point de vue plutôt expressif ou subjectif",
+      "texte": "décrire pour faire connaître (ex. : article de revue, capsule d’information, compte rendu d’évènement, résumé); point de vue plutôt neutre",
       "prioritaire": false,
       "progression": {
-        "1": null,
-        "2": null,
+        "1": "maitrise",
+        "2": "maitrise",
+        "3": "maitrise",
+        "4": "maitrise",
+        "5": "reinvestissement"
+      },
+      "page": 8,
+      "a_verifier": false,
+      "note": "Vérifié visuellement (lecture du PDF, confirmée visuellement).",
+      "modes": {
+        "1": "E",
+        "2": "EO",
+        "3": "E",
+        "4": "E"
+      }
+    },
+    {
+      "id": "FRA-PRE-011-c",
+      "competence": "Première partie : les modes de discours",
+      "section": null,
+      "chemin": [
+        "1. Situation de communication (P1 : 103, 113, 124, 126, 130, 142) (P2 : 43, 46, 50, 64, 67, 89-90, 92-94, 97, 110-111) 1.1. En lecture et en écoute (réception) Analyser la situation et en tenir compte",
+        "ii. son intention"
+      ],
+      "texte": "décrire pour inciter à agir (ex. : entrevue, note critique, quatrième de couverture); point de vue plutôt expressif ou subjectif",
+      "prioritaire": false,
+      "progression": {
+        "1": "maitrise",
+        "2": "maitrise",
         "3": "reinvestissement",
         "4": "reinvestissement",
         "5": "reinvestissement"
       },
       "page": 8,
-      "a_verifier": true,
-      "note": "Progression inhabituelle : à vérifier visuellement (la case bleue peut valoir pour toute la ligne)."
+      "a_verifier": false,
+      "note": "Vérifié visuellement (Gemini et lecture du PDF concordantes).",
+      "modes": {
+        "1": "E",
+        "2": "EO"
+      }
     },
     {
       "id": "FRA-PRE-012",
@@ -475,35 +507,67 @@
       "note": ""
     },
     {
-      "id": "FRA-PRE-022",
+      "id": "FRA-PRE-022-b",
       "competence": "Première partie : les modes de discours",
       "section": null,
       "chemin": [
         "1. Situation de communication (P1 : 103, 113, 124, 126, 130, 142) (P2 : 43, 46, 50, 64, 67, 89-90, 92-94, 97, 110-111) 1.1. En lecture et en écoute (réception) Analyser la situation et en tenir compte",
-        "b. Identifier les aspects et les sous-aspects décrits ou les développer avec précision, de détaillée, en ayant recours aux moyens suivants :"
+        "b. Identifier les aspects et les sous-aspects décrits ou les développer avec précision, de détaillée, en ayant recours aux moyens suivants :",
+        "i. les procédés descriptifs"
       ],
-      "texte": "i. les procédés descriptifs l’énumération des aspects la caractérisation la situation dans l’espace la situation dans le temps",
+      "texte": "l’énumération des aspects",
       "prioritaire": false,
       "progression": {
-        "1": null,
-        "2": "reinvestissement",
+        "1": "maitrise",
+        "2": "maitrise",
         "3": "reinvestissement",
         "4": "reinvestissement",
         "5": "reinvestissement"
       },
       "page": 9,
-      "a_verifier": true,
-      "note": "Progression inhabituelle : à vérifier visuellement (la case bleue peut valoir pour toute la ligne)."
+      "a_verifier": false,
+      "note": "Vérifié visuellement (Gemini et lecture du PDF concordantes).",
+      "modes": {
+        "1": "LEO",
+        "2": "LEO"
+      }
     },
     {
-      "id": "FRA-PRE-023",
+      "id": "FRA-PRE-022-c",
       "competence": "Première partie : les modes de discours",
       "section": null,
       "chemin": [
         "1. Situation de communication (P1 : 103, 113, 124, 126, 130, 142) (P2 : 43, 46, 50, 64, 67, 89-90, 92-94, 97, 110-111) 1.1. En lecture et en écoute (réception) Analyser la situation et en tenir compte",
-        "b. Identifier les aspects et les sous-aspects décrits ou les développer avec précision, de détaillée, en ayant recours aux moyens suivants :"
+        "b. Identifier les aspects et les sous-aspects décrits ou les développer avec précision, de détaillée, en ayant recours aux moyens suivants :",
+        "i. les procédés descriptifs"
       ],
-      "texte": "ii. les moyens linguistiques le champ lexical lié au sujet la précision du vocabulaire NOMMER-CARACTÉRISER 1.2; 3.1; 8 le lexique pour situer dans l’espace le nom propre ou commun de lieu pour localiser (ex. : il est parti pour New York; l’édifice Marie-Guyart ) les verbes qui situent ou expriment un mouvement dans l’espace (ex. : grimper, jouxter, longer, monter, s’élever, se trouver ) les adverbes qui situent (ex. : en arrière, très loin ) ou qui peuvent faire référence au lieu de l’énonciation (ex. : ici, là ) les prépositions qui désignent l’emplacement (ex. : au premier plan, entre ), l’orientation (ex. : au sud de ), l’éloignement ou la proximité (ex. : près de ), la distance (ex. : à des années-lumière ) la dérivation lexicale : les préfixes qui marquent une position ou un mouvement dans l’espace [ex. : en, em (dans), ante, pré (avant), post (après), rétro (en arrière) , trans (à travers)] les groupes de mots qui expriment le temps et la phrase subordonnée à valeur temporelle LE 1; 2.3",
+      "texte": "la caractérisation",
+      "prioritaire": false,
+      "progression": {
+        "1": "maitrise",
+        "2": "maitrise",
+        "3": "reinvestissement",
+        "4": "reinvestissement",
+        "5": "reinvestissement"
+      },
+      "page": 9,
+      "a_verifier": false,
+      "note": "Vérifié visuellement (Gemini et lecture du PDF concordantes).",
+      "modes": {
+        "1": "LEO",
+        "2": "LEO"
+      }
+    },
+    {
+      "id": "FRA-PRE-022-d",
+      "competence": "Première partie : les modes de discours",
+      "section": null,
+      "chemin": [
+        "1. Situation de communication (P1 : 103, 113, 124, 126, 130, 142) (P2 : 43, 46, 50, 64, 67, 89-90, 92-94, 97, 110-111) 1.1. En lecture et en écoute (réception) Analyser la situation et en tenir compte",
+        "b. Identifier les aspects et les sous-aspects décrits ou les développer avec précision, de détaillée, en ayant recours aux moyens suivants :",
+        "i. les procédés descriptifs"
+      ],
+      "texte": "la situation dans l’espace",
       "prioritaire": false,
       "progression": {
         "1": "maitrise",
@@ -513,9 +577,114 @@
         "5": "reinvestissement"
       },
       "page": 9,
-      "a_verifier": true,
-      "note": "Symboles intégrés dans une image : vérifier visuellement.",
-      "renvois": "NOMMER CARACTÉRISER SITUER DANS TEMPS"
+      "a_verifier": false,
+      "note": "Vérifié visuellement (Gemini et lecture du PDF concordantes).",
+      "modes": {
+        "1": "LEO"
+      }
+    },
+    {
+      "id": "FRA-PRE-022-e",
+      "competence": "Première partie : les modes de discours",
+      "section": null,
+      "chemin": [
+        "1. Situation de communication (P1 : 103, 113, 124, 126, 130, 142) (P2 : 43, 46, 50, 64, 67, 89-90, 92-94, 97, 110-111) 1.1. En lecture et en écoute (réception) Analyser la situation et en tenir compte",
+        "b. Identifier les aspects et les sous-aspects décrits ou les développer avec précision, de détaillée, en ayant recours aux moyens suivants :",
+        "i. les procédés descriptifs"
+      ],
+      "texte": "la situation dans le temps",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": "maitrise",
+        "3": "reinvestissement",
+        "4": "reinvestissement",
+        "5": "reinvestissement"
+      },
+      "page": 9,
+      "a_verifier": false,
+      "note": "Vérifié visuellement (Gemini et lecture du PDF concordantes).",
+      "modes": {
+        "2": "LEO"
+      }
+    },
+    {
+      "id": "FRA-PRE-023-b",
+      "competence": "Première partie : les modes de discours",
+      "section": null,
+      "chemin": [
+        "1. Situation de communication (P1 : 103, 113, 124, 126, 130, 142) (P2 : 43, 46, 50, 64, 67, 89-90, 92-94, 97, 110-111) 1.1. En lecture et en écoute (réception) Analyser la situation et en tenir compte",
+        "b. Identifier les aspects et les sous-aspects décrits ou les développer avec précision, de détaillée, en ayant recours aux moyens suivants :",
+        "ii. les moyens linguistiques"
+      ],
+      "texte": "le champ lexical lié au sujet",
+      "prioritaire": false,
+      "progression": {
+        "1": "maitrise",
+        "2": "maitrise",
+        "3": "reinvestissement",
+        "4": "reinvestissement",
+        "5": "reinvestissement"
+      },
+      "page": 9,
+      "a_verifier": false,
+      "note": "Vérifié visuellement (Gemini et lecture du PDF concordantes).",
+      "modes": {
+        "1": "LEO",
+        "2": "LEO"
+      }
+    },
+    {
+      "id": "FRA-PRE-023-c",
+      "competence": "Première partie : les modes de discours",
+      "section": null,
+      "chemin": [
+        "1. Situation de communication (P1 : 103, 113, 124, 126, 130, 142) (P2 : 43, 46, 50, 64, 67, 89-90, 92-94, 97, 110-111) 1.1. En lecture et en écoute (réception) Analyser la situation et en tenir compte",
+        "b. Identifier les aspects et les sous-aspects décrits ou les développer avec précision, de détaillée, en ayant recours aux moyens suivants :",
+        "ii. les moyens linguistiques"
+      ],
+      "texte": "la précision du vocabulaire NOMMER-CARACTÉRISER 1.2; 3.1; 8",
+      "prioritaire": false,
+      "progression": {
+        "1": "maitrise",
+        "2": "maitrise",
+        "3": "reinvestissement",
+        "4": "reinvestissement",
+        "5": "reinvestissement"
+      },
+      "page": 9,
+      "a_verifier": false,
+      "note": "Vérifié visuellement (Gemini et lecture du PDF concordantes).",
+      "modes": {
+        "1": "LEO",
+        "2": "LEO"
+      }
+    },
+    {
+      "id": "FRA-PRE-023-e",
+      "competence": "Première partie : les modes de discours",
+      "section": null,
+      "chemin": [
+        "1. Situation de communication (P1 : 103, 113, 124, 126, 130, 142) (P2 : 43, 46, 50, 64, 67, 89-90, 92-94, 97, 110-111) 1.1. En lecture et en écoute (réception) Analyser la situation et en tenir compte",
+        "b. Identifier les aspects et les sous-aspects décrits ou les développer avec précision, de détaillée, en ayant recours aux moyens suivants :",
+        "ii. les moyens linguistiques",
+        "le lexique pour situer dans l’espace"
+      ],
+      "texte": "le nom propre ou commun de lieu pour localiser (ex. : il est parti pour New York ; l’édifice Marie-Guyart)",
+      "prioritaire": false,
+      "progression": {
+        "1": "maitrise",
+        "2": "reinvestissement",
+        "3": "reinvestissement",
+        "4": "reinvestissement",
+        "5": "reinvestissement"
+      },
+      "page": 9,
+      "a_verifier": false,
+      "note": "Vérifié visuellement (Gemini et lecture du PDF concordantes).",
+      "modes": {
+        "1": "LE"
+      }
     },
     {
       "id": "FRA-PRE-024",
@@ -946,26 +1115,6 @@
       "renvois": "SITUER DANS TEMPS"
     },
     {
-      "id": "FRA-PRE-044",
-      "competence": "Première partie : les modes de discours",
-      "section": null,
-      "chemin": [
-        "3. Cohérence et organisation du texte (P1 : 105-106, 116, 127, 131-132, 141) (P2 : 44, 47, 70-72, 97) 3.1. Reconnaître ou utiliser des moyens textuels qui assurent la cohérence du"
-      ],
-      "texte": "3.2. Reconnaître ou utiliser les moyens qui marquent l’organisation du texte",
-      "prioritaire": true,
-      "progression": {
-        "1": "maitrise",
-        "2": null,
-        "3": null,
-        "4": null,
-        "5": null
-      },
-      "page": 11,
-      "a_verifier": true,
-      "note": "Ligne sans marqueur de liste : vérifier le découpage."
-    },
-    {
       "id": "FRA-PRE-045",
       "competence": "Première partie : les modes de discours",
       "section": null,
@@ -1278,15 +1427,16 @@
       }
     },
     {
-      "id": "FRA-PRE-060",
+      "id": "FRA-PRE-060-b",
       "competence": "Première partie : les modes de discours",
       "section": null,
       "chemin": [
         "1. Situation de communication (P2 : 43, 46, 49, 64, 67, 89, 94, 110-113) 1.1. En lecture et en écoute (réception) Analyser la situation et en tenir compte",
         "a. Identifier l’énonciateur",
-        "ii. son point de vue"
+        "ii. son point de vue",
+        "plutôt neutre (ex. : article de vulgarisation, explication dans un manuel, reportage, texte d’analyse)"
       ],
-      "texte": "plutôt neutre (ex. : article de vulgarisation, explication dans un manuel, une variété de langue standard des structures syntaxiques comme la phrase et la tournure impersonnelles, la construction avec le pronom on , la phrase de forme passive",
+      "texte": "une variété de langue standard",
       "prioritaire": false,
       "progression": {
         "1": null,
@@ -1296,13 +1446,36 @@
         "5": "maitrise"
       },
       "page": 13,
-      "a_verifier": true,
-      "note": "Progression inhabituelle : à vérifier visuellement (la case bleue peut valoir pour toute la ligne).",
+      "a_verifier": false,
+      "note": "Vérifié visuellement (Gemini et lecture du PDF concordantes).",
       "modes": {
         "3": "LO",
         "4": "L",
         "5": "O"
       }
+    },
+    {
+      "id": "FRA-PRE-060-c",
+      "competence": "Première partie : les modes de discours",
+      "section": null,
+      "chemin": [
+        "1. Situation de communication (P2 : 43, 46, 49, 64, 67, 89, 94, 110-113) 1.1. En lecture et en écoute (réception) Analyser la situation et en tenir compte",
+        "a. Identifier l’énonciateur",
+        "ii. son point de vue",
+        "plutôt neutre (ex. : article de vulgarisation, explication dans un manuel, reportage, texte d’analyse)"
+      ],
+      "texte": "des structures syntaxiques comme la phrase et la tournure impersonnelles, la construction avec le pronom on, la phrase de forme passive",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "maitrise",
+        "4": "reinvestissement",
+        "5": "reinvestissement"
+      },
+      "page": 13,
+      "a_verifier": false,
+      "note": "Vérifié visuellement (lecture du PDF, confirmée visuellement)."
     },
     {
       "id": "FRA-PRE-061",
@@ -2173,7 +2346,7 @@
         "1. Situation de communication (P2 : 43, 46, 49, 64, 67, 89, 94, 110-113) 1.1. En lecture et en écoute (réception) Analyser la situation et en tenir compte",
         "c. Interpréter ou employer des procédés d’explication"
       ],
-      "texte": "ii. l’emploi de discours rapportés (citation et discours indirect) dont l’exactitude a été vérifiée DR",
+      "texte": "ii. l’emploi de discours rapportés (citation et discours indirect) dont l’exactitude a été vérifiée INTRODUIRE DES DR",
       "prioritaire": false,
       "progression": {
         "1": null,
@@ -2183,13 +2356,13 @@
         "5": "maitrise"
       },
       "page": 16,
-      "a_verifier": true,
-      "note": "Progression inhabituelle : à vérifier visuellement (la case bleue peut valoir pour toute la ligne).",
+      "a_verifier": false,
+      "note": "Vérifié visuellement (Gemini et lecture du PDF concordantes).",
       "modes": {
+        "3": "LEO",
         "4": "L",
         "5": "O"
-      },
-      "renvois": "INTRODUIRE DES"
+      }
     },
     {
       "id": "FRA-PRE-101",
@@ -2240,7 +2413,7 @@
       "chemin": [
         "1. Situation de communication (P2 : 43, 46, 49, 64, 67, 89, 94, 110-113) 1.1. En lecture et en écoute (réception) Analyser la situation et en tenir compte"
       ],
-      "texte": "b. Reconnaître ou élaborer une réponse synthétique à la question à l’aide d’organisateurs textuels ayant une valeur de synthèse ( en résumé, bref, finalement )",
+      "texte": "b. Reconnaître ou élaborer une réponse synthétique à la question à l’aide d’organisateurs textuels ayant une valeur de synthèse (en résumé, bref, finalement)",
       "prioritaire": false,
       "progression": {
         "1": null,
@@ -2250,9 +2423,10 @@
         "5": "maitrise"
       },
       "page": 16,
-      "a_verifier": true,
-      "note": "Progression inhabituelle : à vérifier visuellement (la case bleue peut valoir pour toute la ligne).",
+      "a_verifier": false,
+      "note": "Vérifié visuellement (Gemini et lecture du PDF concordantes).",
       "modes": {
+        "3": "LEO",
         "5": "O"
       }
     },
@@ -2568,8 +2742,8 @@
         "5": "reinvestissement"
       },
       "page": 19,
-      "a_verifier": true,
-      "note": "Progression inhabituelle : à vérifier visuellement (la case bleue peut valoir pour toute la ligne).",
+      "a_verifier": false,
+      "note": "Vérifié visuellement (Gemini et lecture du PDF concordantes).",
       "modes": {
         "1": "LO",
         "2": "L"
@@ -3014,8 +3188,8 @@
         "5": "reinvestissement"
       },
       "page": 19,
-      "a_verifier": true,
-      "note": "Progression inhabituelle : à vérifier visuellement (la case bleue peut valoir pour toute la ligne).",
+      "a_verifier": false,
+      "note": "Vérifié visuellement (Gemini et lecture du PDF concordantes).",
       "modes": {
         "1": "L"
       }
@@ -3037,10 +3211,11 @@
         "5": "reinvestissement"
       },
       "page": 20,
-      "a_verifier": true,
-      "note": "Progression inhabituelle : à vérifier visuellement (la case bleue peut valoir pour toute la ligne).",
+      "a_verifier": false,
+      "note": "Vérifié visuellement (lecture du PDF, confirmée visuellement).",
       "modes": {
-        "1": "O"
+        "1": "O",
+        "3": "E"
       }
     },
     {
@@ -3116,7 +3291,7 @@
         "B. Pour un propos relevant de la subjectivité : l’interprétation et l’appréciation",
         "d. Reconnaître la ou les raisons qui fondent le propos ou justifier ce dernier"
       ],
-      "texte": "ii. par l’établissement de liens entre un commentaire et un ou plusieurs aspects de l’œuvre (ex. : thème, intrigue, façon de décrire les personnages) en s’appuyant sur le texte ou en le comparant à une autre œuvre, citation à l’appui, si nécessaire (ex. : Les garçons s’identifieraient aux personnages masculins à cause de leurs qualités de débrouillardise et de courage. Par exemple, dans l’évènement X, page Y, on trouve… ) DR 2; 3 2.3. Utiliser les ressources de la langue pour comprendre et pour produire une",
+      "texte": "ii. par l’établissement de liens entre un commentaire et un ou plusieurs aspects de l’œuvre (ex. : thème, intrigue, façon de décrire les personnages) en s’appuyant sur le texte ou en le comparant à une autre œuvre, citation à l’appui, si nécessaire (ex. : Les garçons s’identifieraient aux personnages masculins à cause de leurs qualités de débrouillardise et de courage. Par exemple, dans l’évènement X, page Y, on trouve...) INTRODUIRE DES DR 2; 3",
       "prioritaire": false,
       "progression": {
         "1": null,
@@ -3126,13 +3301,13 @@
         "5": "reinvestissement"
       },
       "page": 20,
-      "a_verifier": true,
-      "note": "Progression inhabituelle : à vérifier visuellement (la case bleue peut valoir pour toute la ligne).",
+      "a_verifier": false,
+      "note": "Vérifié visuellement (Gemini, confirmé visuellement).",
       "modes": {
+        "2": "LEO",
         "3": "O",
         "4": "LO"
-      },
-      "renvois": "INTRODUIRE DES"
+      }
     },
     {
       "id": "FRA-PRE-144",
@@ -3252,26 +3427,81 @@
       }
     },
     {
-      "id": "FRA-PRE-149",
+      "id": "FRA-PRE-149-b",
       "competence": "Première partie : les modes de discours",
       "section": null,
       "chemin": [
         "B. Pour un propos relevant de la subjectivité : l’interprétation et l’appréciation",
-        "b. Interpréter ou utiliser des phrases pour cerner ou marquer les liens entre les raisons"
+        "b. Interpréter ou utiliser des phrases pour cerner ou marquer les liens entre les raisons",
+        "ii. des phrases subordonnées et leur subordonnant exprimant les valeurs suivantes :"
       ],
-      "texte": "ii. des phrases subordonnées et leur subordonnant exprimant les valeurs la cause (ex. : parce que (2 e secondaire), sous prétexte que ) la comparaison (ex. : aussi que, autant que, de même que ) la justification (ex. : attendu que, comme, étant donné que, puisque ) et la ponctuation adéquate",
+      "texte": "la cause (ex. : parce que (2e secondaire), sous prétexte que)",
       "prioritaire": false,
       "progression": {
         "1": null,
-        "2": "apprentissage",
-        "3": null,
-        "4": null,
+        "2": "maitrise",
+        "3": "maitrise",
+        "4": "maitrise",
         "5": "reinvestissement"
       },
       "page": 20,
-      "a_verifier": true,
-      "note": "Symboles intégrés dans une image : vérifier visuellement. Progression inhabituelle : à vérifier visuellement (la case bleue peut valoir pour toute la ligne).",
+      "a_verifier": false,
+      "note": "Vérifié visuellement (Gemini et lecture du PDF concordantes).",
       "modes": {
+        "2": "LEO",
+        "3": "LEO",
+        "4": "LO"
+      }
+    },
+    {
+      "id": "FRA-PRE-149-c",
+      "competence": "Première partie : les modes de discours",
+      "section": null,
+      "chemin": [
+        "B. Pour un propos relevant de la subjectivité : l’interprétation et l’appréciation",
+        "b. Interpréter ou utiliser des phrases pour cerner ou marquer les liens entre les raisons",
+        "ii. des phrases subordonnées et leur subordonnant exprimant les valeurs suivantes :"
+      ],
+      "texte": "la comparaison (ex. : aussi que, autant que, de même que)",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "maitrise",
+        "4": "maitrise",
+        "5": "reinvestissement"
+      },
+      "page": 20,
+      "a_verifier": false,
+      "note": "Vérifié visuellement (lecture du PDF, confirmée visuellement).",
+      "modes": {
+        "3": "LEO",
+        "4": "LO"
+      }
+    },
+    {
+      "id": "FRA-PRE-149-d",
+      "competence": "Première partie : les modes de discours",
+      "section": null,
+      "chemin": [
+        "B. Pour un propos relevant de la subjectivité : l’interprétation et l’appréciation",
+        "b. Interpréter ou utiliser des phrases pour cerner ou marquer les liens entre les raisons",
+        "ii. des phrases subordonnées et leur subordonnant exprimant les valeurs suivantes :"
+      ],
+      "texte": "la justification (ex. : attendu que, comme, étant donné que, puisque) et la ponctuation adéquate",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "maitrise",
+        "4": "maitrise",
+        "5": "reinvestissement"
+      },
+      "page": 20,
+      "a_verifier": false,
+      "note": "Vérifié visuellement (Gemini et lecture du PDF concordantes).",
+      "modes": {
+        "3": "LEO",
         "4": "LO"
       }
     },
@@ -3321,28 +3551,54 @@
       "note": ""
     },
     {
-      "id": "FRA-PRE-152",
+      "id": "FRA-PRE-152-a",
       "competence": "Première partie : les modes de discours",
       "section": null,
       "chemin": [
         "B. Pour un propos relevant de la subjectivité : l’interprétation et l’appréciation",
         "b. Interpréter ou utiliser des phrases pour cerner ou marquer les liens entre les raisons"
       ],
-      "texte": "2.4. Constater la concision du texte, ou la rechercher en ne présentant que les informations pertinentes, celles qui fondent le propos 2.5. Dégager ou présenter la conclusion : reformulation du propos qui a été justifié",
+      "texte": "2.4. Constater la concision du texte, ou la rechercher en ne présentant que les informations pertinentes, celles qui fondent le propos",
       "prioritaire": false,
       "progression": {
         "1": null,
-        "2": "apprentissage",
+        "2": null,
         "3": "apprentissage",
         "4": "maitrise",
         "5": "maitrise"
       },
       "page": 21,
-      "a_verifier": true,
-      "note": "Ligne sans marqueur de liste : vérifier le découpage.",
+      "a_verifier": false,
+      "note": "Vérifié visuellement (lecture du PDF, confirmée visuellement).",
       "modes": {
+        "3": "EO",
         "4": "LO",
         "5": "O"
+      }
+    },
+    {
+      "id": "FRA-PRE-152-b",
+      "competence": "Première partie : les modes de discours",
+      "section": null,
+      "chemin": [
+        "B. Pour un propos relevant de la subjectivité : l’interprétation et l’appréciation",
+        "b. Interpréter ou utiliser des phrases pour cerner ou marquer les liens entre les raisons"
+      ],
+      "texte": "2.5. Dégager ou présenter la conclusion : reformulation du propos qui a été justifié",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": "apprentissage",
+        "3": "reinvestissement",
+        "4": "maitrise",
+        "5": "reinvestissement"
+      },
+      "page": 21,
+      "a_verifier": false,
+      "note": "Vérifié visuellement (lecture du PDF, confirmée visuellement).",
+      "modes": {
+        "2": "LEO",
+        "4": "LO"
       }
     },
     {
@@ -4043,13 +4299,14 @@
       "note": ""
     },
     {
-      "id": "FRA-PRE-184",
+      "id": "FRA-PRE-184-b",
       "competence": "Première partie : les modes de discours",
       "section": null,
       "chemin": [
-        "B. Pour un propos relevant de la subjectivité : l’interprétation et l’appréciation"
+        "B. Pour un propos relevant de la subjectivité : l’interprétation et l’appréciation",
+        "2. Organisation d’un genre argumentatif : façon dont se réalise la séquence argumentative (P2 : 46, 48-49, 65-71, 90-93, 97, 120-121)"
       ],
-      "texte": "2. Organisation d’un genre argumentatif : façon dont se réalise la séquence argumentative (P2 : 46, 48-49, 65-71, 90-93, 97, 120-121) 2.1. Comprendre le titre ou donner un titre accrocheur, selon le genre 2.2. Reconnaître ou introduire le sujet de la controverse",
+      "texte": "2.1. Comprendre le titre ou donner un titre accrocheur, selon le genre",
       "prioritaire": true,
       "progression": {
         "1": null,
@@ -4059,8 +4316,8 @@
         "5": "reinvestissement"
       },
       "page": 24,
-      "a_verifier": true,
-      "note": "Progression inhabituelle : à vérifier visuellement (la case bleue peut valoir pour toute la ligne)."
+      "a_verifier": false,
+      "note": "Vérifié visuellement (lecture du PDF, confirmée visuellement)."
     },
     {
       "id": "FRA-PRE-185",
@@ -4822,8 +5079,8 @@
         "5": "reinvestissement"
       },
       "page": 29,
-      "a_verifier": true,
-      "note": "Progression inhabituelle : à vérifier visuellement (la case bleue peut valoir pour toute la ligne).",
+      "a_verifier": false,
+      "note": "Vérifié visuellement (Gemini et lecture du PDF concordantes).",
       "modes": {
         "1": "LO",
         "2": "LO",
@@ -5468,7 +5725,7 @@
       "renvois": "NOMMER CARACTÉRISER"
     },
     {
-      "id": "FRA-PRE-246",
+      "id": "FRA-PRE-246-a",
       "competence": "Première partie : les modes de discours",
       "section": null,
       "chemin": [
@@ -5477,7 +5734,33 @@
         "b. Cerner ou décrire le cadre spatiotemporel dans lequel se déroulent les genre de récit",
         "i. la reconstruction ou la construction du cadre spatial"
       ],
-      "texte": "l’effet psychologique du lieu (ex. : l’angoisse d’un personnage qui traverse un pont de glace qui s’effrite) la façon de s’exprimer dans ce lieu (particularités régionales au Québec ou dans la francophonie)",
+      "texte": "l’effet psychologique du lieu (ex. : l’angoisse d’un personnage qui traverse un pont de glace qui s’effrite)",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "maitrise",
+        "4": "reinvestissement",
+        "5": "reinvestissement"
+      },
+      "page": 31,
+      "a_verifier": false,
+      "note": "Vérifié visuellement (lecture du PDF, confirmée visuellement).",
+      "modes": {
+        "3": "LEO"
+      }
+    },
+    {
+      "id": "FRA-PRE-246-b",
+      "competence": "Première partie : les modes de discours",
+      "section": null,
+      "chemin": [
+        "B. Stratégie basée sur l’explication argumentative : expliquer quelque chose avec d’influencer ou de convaincre son destinataire",
+        "2. Organisation d’un genre narratif : façon dont se réalise la séquence narrative 2.1. Identifier ou choisir un narrateur (P1 : 113, 130) (P2 : 50, 67, 71, 95, 98, 154)",
+        "b. Cerner ou décrire le cadre spatiotemporel dans lequel se déroulent les genre de récit",
+        "i. la reconstruction ou la construction du cadre spatial"
+      ],
+      "texte": "la façon de s’exprimer dans ce lieu (particularités régionales au Québec ou dans la francophonie)",
       "prioritaire": false,
       "progression": {
         "1": null,
@@ -5487,8 +5770,12 @@
         "5": "reinvestissement"
       },
       "page": 31,
-      "a_verifier": true,
-      "note": "Ligne sans marqueur de liste : vérifier le découpage."
+      "a_verifier": false,
+      "note": "Vérifié visuellement (Gemini et lecture du PDF concordantes).",
+      "modes": {
+        "2": "LE",
+        "3": "LEO"
+      }
     },
     {
       "id": "FRA-PRE-247",
@@ -5500,22 +5787,23 @@
         "b. Cerner ou décrire le cadre spatiotemporel dans lequel se déroulent les genre de récit",
         "i. la reconstruction ou la construction du cadre spatial"
       ],
-      "texte": "l’évocation : association d’idées, d’images, de mots; appel à des repères culturels (ex. : Dans le salon : des fauteuils Louis XVI ; cette description évoque un milieu aisé, une manière de vivre)",
+      "texte": "l’évocation : association d’idées, d’images, de mots; appel à des repères culturels (ex. : Dans le salon : des fauteuils Louis XVI; cette description évoque un milieu aisé, une manière de vivre)",
       "prioritaire": false,
       "progression": {
         "1": null,
         "2": "apprentissage",
         "3": "maitrise",
-        "4": "apprentissage",
+        "4": "maitrise",
         "5": "maitrise"
       },
       "page": 31,
-      "a_verifier": true,
-      "note": "Progression inhabituelle : à vérifier visuellement (la case bleue peut valoir pour toute la ligne).",
+      "a_verifier": false,
+      "note": "Vérifié visuellement (lecture du PDF, confirmée visuellement).",
       "modes": {
         "2": "L",
         "3": "LO",
-        "4": "L"
+        "4": "LE",
+        "5": "E"
       }
     },
     {
@@ -5551,7 +5839,7 @@
         "b. Cerner ou décrire le cadre spatiotemporel dans lequel se déroulent les genre de récit",
         "i. la reconstruction ou la construction du cadre spatial"
       ],
-      "texte": "la description de l’époque (ex. : les évènements particuliers, le mode de vie, les arts, les valeurs et les préoccupations du temps; les façons de s’exprimer (17 e /21 e siècle)",
+      "texte": "la description de l’époque (ex. : les évènements particuliers, le mode de vie, les arts, les valeurs et les préoccupations du temps; les façons de s’exprimer (17e/21e siècle)",
       "prioritaire": false,
       "progression": {
         "1": null,
@@ -5561,8 +5849,8 @@
         "5": "reinvestissement"
       },
       "page": 31,
-      "a_verifier": true,
-      "note": "Progression inhabituelle : à vérifier visuellement (la case bleue peut valoir pour toute la ligne).",
+      "a_verifier": false,
+      "note": "Vérifié visuellement (Gemini et lecture du PDF concordantes).",
       "modes": {
         "3": "LO",
         "4": "L"
@@ -5596,77 +5884,114 @@
       }
     },
     {
-      "id": "FRA-PRE-251",
+      "id": "FRA-PRE-251-b",
       "competence": "Première partie : les modes de discours",
       "section": null,
       "chemin": [
         "B. Stratégie basée sur l’explication argumentative : expliquer quelque chose avec d’influencer ou de convaincre son destinataire",
         "2. Organisation d’un genre narratif : façon dont se réalise la séquence narrative 2.1. Identifier ou choisir un narrateur (P1 : 113, 130) (P2 : 50, 67, 71, 95, 98, 154)",
-        "b. Cerner ou décrire le cadre spatiotemporel dans lequel se déroulent les genre de récit"
+        "b. Cerner ou décrire le cadre spatiotemporel dans lequel se déroulent les genre de récit",
+        "iii. les déplacements dans l’espace et le temps"
       ],
-      "texte": "iii. les déplacements dans l’espace et le temps l’itinéraire du personnage principal (ex. : Le tour du monde en 80 jours , Jules Verne) les liens entre les déplacements et la quête (recherche de liberté, fuite, symbolisme des lieux) (ex. : Nikolski , Nicolas Dickner)",
+      "texte": "l’itinéraire du personnage principal (ex. : Le tour du monde en 80 jours, Jules Verne)",
       "prioritaire": false,
       "progression": {
-        "1": null,
+        "1": "maitrise",
         "2": "reinvestissement",
         "3": "reinvestissement",
         "4": "reinvestissement",
         "5": "reinvestissement"
       },
       "page": 31,
-      "a_verifier": true,
-      "note": "Symboles intégrés dans une image : vérifier visuellement. Progression inhabituelle : à vérifier visuellement (la case bleue peut valoir pour toute la ligne)."
+      "a_verifier": false,
+      "note": "Vérifié visuellement (Gemini et lecture du PDF concordantes).",
+      "modes": {
+        "1": "LEO"
+      }
     },
     {
-      "id": "FRA-PRE-252",
+      "id": "FRA-PRE-251-c",
       "competence": "Première partie : les modes de discours",
       "section": null,
       "chemin": [
         "B. Stratégie basée sur l’explication argumentative : expliquer quelque chose avec d’influencer ou de convaincre son destinataire",
         "2. Organisation d’un genre narratif : façon dont se réalise la séquence narrative 2.1. Identifier ou choisir un narrateur (P1 : 113, 130) (P2 : 50, 67, 71, 95, 98, 154)",
-        "c. Cerner ou créer l’intrigue : la quête d’équilibre du personnage principal et sa"
+        "b. Cerner ou décrire le cadre spatiotemporel dans lequel se déroulent les genre de récit",
+        "iii. les déplacements dans l’espace et le temps"
       ],
-      "texte": "i. les caractéristiques de la quête la quête d’équilibre marquée davantage par l’action (ex. : Les aventures de Don Quichotte , Miguel Cervantes) la quête d’équilibre marquée davantage par l’évolution du personnage (ex. : Ru , Kim Thuy)",
+      "texte": "les liens entre les déplacements et la quête (recherche de liberté, fuite, symbolisme des lieux) (ex. : Nikolski, Nicolas Dickner)",
       "prioritaire": false,
       "progression": {
         "1": null,
         "2": null,
-        "3": null,
-        "4": "reinvestissement",
+        "3": "maitrise",
+        "4": "maitrise",
         "5": "reinvestissement"
       },
       "page": 31,
-      "a_verifier": true,
-      "note": "Symboles intégrés dans une image : vérifier visuellement. Progression inhabituelle : à vérifier visuellement (la case bleue peut valoir pour toute la ligne)."
+      "a_verifier": false,
+      "note": "Vérifié visuellement (Gemini et lecture du PDF concordantes).",
+      "modes": {
+        "3": "LEO",
+        "4": "LE"
+      }
     },
     {
-      "id": "FRA-PRE-253",
+      "id": "FRA-PRE-252-b",
       "competence": "Première partie : les modes de discours",
       "section": null,
       "chemin": [
         "B. Stratégie basée sur l’explication argumentative : expliquer quelque chose avec d’influencer ou de convaincre son destinataire",
         "2. Organisation d’un genre narratif : façon dont se réalise la séquence narrative 2.1. Identifier ou choisir un narrateur (P1 : 113, 130) (P2 : 50, 67, 71, 95, 98, 154)",
-        "c. Cerner ou créer l’intrigue : la quête d’équilibre du personnage principal et sa"
+        "c. Cerner ou créer l’intrigue : la quête d’équilibre du personnage principal et sa",
+        "i. les caractéristiques de la quête"
       ],
-      "texte": "ii. la séquence narrative : situation initiale, élément déclencheur, actions, réactions et évènements, dénouement la présence de la situation finale, ou d’une morale ou des deux",
+      "texte": "la quête d’équilibre marquée davantage par l’action (ex. : Les aventures de Don Quichotte, Miguel Cervantes)",
       "prioritaire": false,
       "progression": {
         "1": "maitrise",
-        "2": "apprentissage",
+        "2": "maitrise",
         "3": "maitrise",
         "4": "reinvestissement",
         "5": "reinvestissement"
       },
       "page": 31,
-      "a_verifier": true,
-      "note": "Progression inhabituelle : à vérifier visuellement (la case bleue peut valoir pour toute la ligne).",
+      "a_verifier": false,
+      "note": "Vérifié visuellement (Gemini et lecture du PDF concordantes).",
       "modes": {
-        "2": "LO",
-        "3": "L"
+        "1": "LE",
+        "2": "LE",
+        "3": "LEO"
       }
     },
     {
-      "id": "FRA-PRE-254",
+      "id": "FRA-PRE-252-c",
+      "competence": "Première partie : les modes de discours",
+      "section": null,
+      "chemin": [
+        "B. Stratégie basée sur l’explication argumentative : expliquer quelque chose avec d’influencer ou de convaincre son destinataire",
+        "2. Organisation d’un genre narratif : façon dont se réalise la séquence narrative 2.1. Identifier ou choisir un narrateur (P1 : 113, 130) (P2 : 50, 67, 71, 95, 98, 154)",
+        "c. Cerner ou créer l’intrigue : la quête d’équilibre du personnage principal et sa",
+        "i. les caractéristiques de la quête"
+      ],
+      "texte": "la quête d’équilibre marquée davantage par l’évolution du personnage (ex. : Ru, Kim Thuy)",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": "maitrise"
+      },
+      "page": 31,
+      "a_verifier": false,
+      "note": "Vérifié visuellement (relecture visuelle).",
+      "modes": {
+        "5": "LEO"
+      }
+    },
+    {
+      "id": "FRA-PRE-253-a",
       "competence": "Première partie : les modes de discours",
       "section": null,
       "chemin": [
@@ -5674,7 +5999,119 @@
         "2. Organisation d’un genre narratif : façon dont se réalise la séquence narrative 2.1. Identifier ou choisir un narrateur (P1 : 113, 130) (P2 : 50, 67, 71, 95, 98, 154)",
         "c. Cerner ou créer l’intrigue : la quête d’équilibre du personnage principal et sa"
       ],
-      "texte": "iii. le déroulement des évènements l’ordre chronologique les ruptures dans la chronologie (retour en arrière, anticipation) et leurs effets les modifications de l’ordre typique des étapes de la séquence et leurs ouverture du récit par l’élément déclencheur, le dénouement ou la situation finale (ex. : La route de Chlifa , Michèle Marineau) enchaînement ou entrelacement de déclencheurs, d’actions et d’évènements, de dénouements secondaires ou parallèles; histoires enchâssées (ex. : Les braconniers d’histoires , Nancy Huston)",
+      "texte": "ii. la séquence narrative : situation initiale, élément déclencheur, actions, réactions et évènements, dénouement",
+      "prioritaire": false,
+      "progression": {
+        "1": "maitrise",
+        "2": "maitrise",
+        "3": "reinvestissement",
+        "4": "reinvestissement",
+        "5": "reinvestissement"
+      },
+      "page": 31,
+      "a_verifier": false,
+      "note": "Vérifié visuellement (lecture du PDF, confirmée visuellement).",
+      "modes": {
+        "1": "LEO",
+        "2": "LEO"
+      }
+    },
+    {
+      "id": "FRA-PRE-253-b",
+      "competence": "Première partie : les modes de discours",
+      "section": null,
+      "chemin": [
+        "B. Stratégie basée sur l’explication argumentative : expliquer quelque chose avec d’influencer ou de convaincre son destinataire",
+        "2. Organisation d’un genre narratif : façon dont se réalise la séquence narrative 2.1. Identifier ou choisir un narrateur (P1 : 113, 130) (P2 : 50, 67, 71, 95, 98, 154)",
+        "c. Cerner ou créer l’intrigue : la quête d’équilibre du personnage principal et sa"
+      ],
+      "texte": "la présence de la situation finale, ou d’une morale ou des deux",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": "apprentissage",
+        "3": "maitrise",
+        "4": "maitrise",
+        "5": "reinvestissement"
+      },
+      "page": 31,
+      "a_verifier": false,
+      "note": "Vérifié visuellement (lecture du PDF, confirmée visuellement).",
+      "modes": {
+        "2": "LO",
+        "3": "LE",
+        "4": "E"
+      }
+    },
+    {
+      "id": "FRA-PRE-254-b",
+      "competence": "Première partie : les modes de discours",
+      "section": null,
+      "chemin": [
+        "B. Stratégie basée sur l’explication argumentative : expliquer quelque chose avec d’influencer ou de convaincre son destinataire",
+        "2. Organisation d’un genre narratif : façon dont se réalise la séquence narrative 2.1. Identifier ou choisir un narrateur (P1 : 113, 130) (P2 : 50, 67, 71, 95, 98, 154)",
+        "c. Cerner ou créer l’intrigue : la quête d’équilibre du personnage principal et sa",
+        "iii. le déroulement des évènements SITUER DANS LE TEMPS 1.2; 3"
+      ],
+      "texte": "l’ordre chronologique",
+      "prioritaire": false,
+      "progression": {
+        "1": "maitrise",
+        "2": "maitrise",
+        "3": "maitrise",
+        "4": "reinvestissement",
+        "5": "reinvestissement"
+      },
+      "page": 31,
+      "a_verifier": false,
+      "note": "Vérifié visuellement (lecture du PDF, confirmée visuellement).",
+      "modes": {
+        "1": "LEO",
+        "2": "LEO",
+        "3": "LEO"
+      }
+    },
+    {
+      "id": "FRA-PRE-254-c",
+      "competence": "Première partie : les modes de discours",
+      "section": null,
+      "chemin": [
+        "B. Stratégie basée sur l’explication argumentative : expliquer quelque chose avec d’influencer ou de convaincre son destinataire",
+        "2. Organisation d’un genre narratif : façon dont se réalise la séquence narrative 2.1. Identifier ou choisir un narrateur (P1 : 113, 130) (P2 : 50, 67, 71, 95, 98, 154)",
+        "c. Cerner ou créer l’intrigue : la quête d’équilibre du personnage principal et sa",
+        "iii. le déroulement des évènements SITUER DANS LE TEMPS 1.2; 3"
+      ],
+      "texte": "les ruptures dans la chronologie (retour en arrière, anticipation) et leurs effets",
+      "prioritaire": false,
+      "progression": {
+        "1": "apprentissage",
+        "2": "maitrise",
+        "3": "maitrise",
+        "4": null,
+        "5": "maitrise"
+      },
+      "page": 31,
+      "a_verifier": false,
+      "note": "Vérifié visuellement (relecture visuelle).",
+      "modes": {
+        "1": "L",
+        "2": "L",
+        "3": "LO",
+        "5": "E"
+      }
+    },
+    {
+      "id": "FRA-PRE-254-e",
+      "competence": "Première partie : les modes de discours",
+      "section": null,
+      "chemin": [
+        "B. Stratégie basée sur l’explication argumentative : expliquer quelque chose avec d’influencer ou de convaincre son destinataire",
+        "2. Organisation d’un genre narratif : façon dont se réalise la séquence narrative 2.1. Identifier ou choisir un narrateur (P1 : 113, 130) (P2 : 50, 67, 71, 95, 98, 154)",
+        "c. Cerner ou créer l’intrigue : la quête d’équilibre du personnage principal et sa",
+        "iii. le déroulement des évènements SITUER DANS LE TEMPS 1.2; 3",
+        "les modifications de l’ordre typique des étapes de la séquence et leurs effets"
+      ],
+      "texte": "ouverture du récit par l’élément déclencheur, le dénouement ou la situation finale (ex. : La route de Chlifa, Michèle Marineau)",
       "prioritaire": false,
       "progression": {
         "1": null,
@@ -5684,14 +6121,12 @@
         "5": "maitrise"
       },
       "page": 31,
-      "a_verifier": true,
-      "note": "Symboles intégrés dans une image : vérifier visuellement.",
+      "a_verifier": false,
+      "note": "Vérifié visuellement (Gemini et lecture du PDF concordantes).",
       "modes": {
-        "1": "L",
-        "2": "LE",
-        "3": "LEO",
-        "4": "L",
-        "5": "L"
+        "3": "L",
+        "4": "E",
+        "5": "EO"
       }
     },
     {
@@ -5821,18 +6256,18 @@
         "2. Organisation d’un genre narratif : façon dont se réalise la séquence narrative 2.1. Identifier ou choisir un narrateur (P1 : 113, 130) (P2 : 50, 67, 71, 95, 98, 154)",
         "c. Cerner ou créer l’intrigue : la quête d’équilibre du personnage principal et sa"
       ],
-      "texte": "iv. l’insertion de séquences argumentatives (ex. : La Peste , Albert Camus)",
+      "texte": "iv. l’insertion de séquences argumentatives (ex. : La Peste, Albert Camus)",
       "prioritaire": false,
       "progression": {
-        "1": "maitrise",
-        "2": "maitrise",
+        "1": null,
+        "2": null,
         "3": null,
         "4": "maitrise",
         "5": "maitrise"
       },
       "page": 32,
-      "a_verifier": true,
-      "note": "Progression inhabituelle : à vérifier visuellement (la case bleue peut valoir pour toute la ligne).",
+      "a_verifier": false,
+      "note": "Vérifié visuellement (Gemini et lecture du PDF concordantes).",
       "modes": {
         "4": "L",
         "5": "LO"
@@ -5917,15 +6352,15 @@
       "texte": "i. des caractéristiques de genres (ou des écarts par rapport à un genre)",
       "prioritaire": false,
       "progression": {
-        "1": "apprentissage",
+        "1": "maitrise",
         "2": "maitrise",
         "3": "maitrise",
         "4": "maitrise",
         "5": "maitrise"
       },
       "page": 32,
-      "a_verifier": true,
-      "note": "Progression inhabituelle : à vérifier visuellement (la case bleue peut valoir pour toute la ligne).",
+      "a_verifier": false,
+      "note": "Vérifié visuellement (Gemini et lecture du PDF concordantes).",
       "modes": {
         "1": "L",
         "2": "L",
@@ -5935,7 +6370,7 @@
       }
     },
     {
-      "id": "FRA-PRE-265",
+      "id": "FRA-PRE-265-a",
       "competence": "Première partie : les modes de discours",
       "section": null,
       "chemin": [
@@ -5943,7 +6378,7 @@
         "2. Organisation d’un genre narratif : façon dont se réalise la séquence narrative 2.1. Identifier ou choisir un narrateur (P1 : 113, 130) (P2 : 50, 67, 71, 95, 98, 154)",
         "c. Cerner ou créer l’intrigue : la quête d’équilibre du personnage principal et sa"
       ],
-      "texte": "ii. des critères d’appréciation 2.3. Dégager du récit la thématique et la vision du monde (P1 : 105) (P2 : 51, 95-99, 150)",
+      "texte": "ii. des critères d’appréciation",
       "prioritaire": true,
       "progression": {
         "1": "apprentissage",
@@ -5953,8 +6388,8 @@
         "5": "maitrise"
       },
       "page": 32,
-      "a_verifier": true,
-      "note": "Progression inhabituelle : à vérifier visuellement (la case bleue peut valoir pour toute la ligne).",
+      "a_verifier": false,
+      "note": "Vérifié visuellement (Gemini et lecture du PDF concordantes).",
       "modes": {
         "1": "L",
         "2": "L",
@@ -5996,23 +6431,23 @@
         "B. Stratégie basée sur l’explication argumentative : expliquer quelque chose avec d’influencer ou de convaincre son destinataire",
         "2. Organisation d’un genre narratif : façon dont se réalise la séquence narrative 2.1. Identifier ou choisir un narrateur (P1 : 113, 130) (P2 : 50, 67, 71, 95, 98, 154)"
       ],
-      "texte": "b. Dégager ou traiter les thèmes et les sous-thèmes et les relier au sens général de l’œuvre : création de réseaux de sens autour des caractéristiques des personnages, de leurs actions et de leurs motivations en établissant un lien avec les aspects historiques et socioculturels représentés dans l’œuvre 2",
+      "texte": "b. Dégager ou traiter les thèmes et les sous-thèmes et les relier au sens général de l’œuvre : création de réseaux de sens autour des caractéristiques des personnages, de leurs actions et de leurs motivations en établissant un lien avec les aspects historiques et socioculturels représentés dans l’œuvre MODALISER 2",
       "prioritaire": false,
       "progression": {
         "1": null,
         "2": null,
         "3": "maitrise",
-        "4": "apprentissage",
+        "4": "maitrise",
         "5": "maitrise"
       },
       "page": 32,
-      "a_verifier": true,
-      "note": "Progression inhabituelle : à vérifier visuellement (la case bleue peut valoir pour toute la ligne).",
+      "a_verifier": false,
+      "note": "Vérifié visuellement (Gemini et lecture du PDF concordantes).",
       "modes": {
         "3": "LO",
-        "4": "L"
-      },
-      "renvois": "MODALISER"
+        "4": "LE",
+        "5": "LEO"
+      }
     },
     {
       "id": "FRA-PRE-268",
@@ -6022,7 +6457,7 @@
         "B. Stratégie basée sur l’explication argumentative : expliquer quelque chose avec d’influencer ou de convaincre son destinataire",
         "2. Organisation d’un genre narratif : façon dont se réalise la séquence narrative 2.1. Identifier ou choisir un narrateur (P1 : 113, 130) (P2 : 50, 67, 71, 95, 98, 154)"
       ],
-      "texte": "c. Reconnaître la vision du monde du narrateur, sa prise de position révélée par la modalisation des énoncés, les commentaires, la symbolique de certains éléments, les discours rapportés, les séquences argumentatives, etc. 2",
+      "texte": "c. Reconnaître la vision du monde du narrateur, sa prise de position révélée par la modalisation des énoncés, les commentaires, la symbolique de certains éléments, les discours rapportés, les séquences argumentatives, etc. MODALISER 2",
       "prioritaire": false,
       "progression": {
         "1": null,
@@ -6032,14 +6467,13 @@
         "5": "maitrise"
       },
       "page": 32,
-      "a_verifier": true,
-      "note": "Progression inhabituelle : à vérifier visuellement (la case bleue peut valoir pour toute la ligne).",
+      "a_verifier": false,
+      "note": "Vérifié visuellement (Gemini et lecture du PDF concordantes).",
       "modes": {
         "3": "LO",
         "4": "L",
         "5": "LO"
-      },
-      "renvois": "MODALISER"
+      }
     },
     {
       "id": "FRA-PRE-269",
@@ -7323,15 +7757,15 @@
       "texte": "des symboles",
       "prioritaire": false,
       "progression": {
-        "1": "maitrise",
-        "2": "maitrise",
+        "1": null,
+        "2": null,
         "3": null,
         "4": null,
         "5": "maitrise"
       },
       "page": 40,
-      "a_verifier": true,
-      "note": "Progression inhabituelle : à vérifier visuellement (la case bleue peut valoir pour toute la ligne).",
+      "a_verifier": false,
+      "note": "Vérifié visuellement (lecture du PDF, confirmée visuellement).",
       "modes": {
         "5": "LO"
       }
@@ -7597,15 +8031,15 @@
       "texte": "réguliers (même nombre de pieds) ou libres",
       "prioritaire": false,
       "progression": {
-        "1": "maitrise",
-        "2": "maitrise",
+        "1": null,
+        "2": null,
         "3": null,
         "4": "maitrise",
         "5": "maitrise"
       },
       "page": 40,
-      "a_verifier": true,
-      "note": "Progression inhabituelle : à vérifier visuellement (la case bleue peut valoir pour toute la ligne).",
+      "a_verifier": false,
+      "note": "Vérifié visuellement (lecture du PDF, confirmée visuellement).",
       "modes": {
         "4": "LO",
         "5": "LO"
@@ -7851,11 +8285,11 @@
         "2": "apprentissage",
         "3": "maitrise",
         "4": "reinvestissement",
-        "5": "maitrise"
+        "5": "reinvestissement"
       },
       "page": 41,
-      "a_verifier": true,
-      "note": "Progression inhabituelle : à vérifier visuellement (la case bleue peut valoir pour toute la ligne).",
+      "a_verifier": false,
+      "note": "Vérifié visuellement (lecture du PDF, confirmée visuellement).",
       "modes": {
         "2": "LO",
         "3": "LO"
@@ -7873,15 +8307,15 @@
       "texte": "l’enjambement, le rejet et le lien avec le sens",
       "prioritaire": false,
       "progression": {
-        "1": "apprentissage",
-        "2": "maitrise",
-        "3": "maitrise",
+        "1": null,
+        "2": null,
+        "3": null,
         "4": null,
         "5": "maitrise"
       },
       "page": 41,
-      "a_verifier": true,
-      "note": "Progression inhabituelle : à vérifier visuellement (la case bleue peut valoir pour toute la ligne).",
+      "a_verifier": false,
+      "note": "Vérifié visuellement (lecture du PDF, confirmée visuellement).",
       "modes": {
         "5": "LO"
       }
@@ -8072,32 +8506,60 @@
       }
     },
     {
-      "id": "FRA-PRE-353",
+      "id": "FRA-PRE-353-b",
       "competence": "Première partie : les modes de discours",
       "section": null,
       "chemin": [
         "B. Stratégie basée sur l’explication argumentative : expliquer quelque chose avec d’influencer ou de convaincre son destinataire",
         "2. Organisation d’un genre poétique (P1 : 104-105, 114-117) (P2 : 46-51, 65-67, 99-100, 156-157) 2.1. Découvrir le langage poétique",
-        "b. Reconnaître les ressources qui créent le rythme et la sonorité du poème"
+        "b. Reconnaître les ressources qui créent le rythme et la sonorité du poème",
+        "iii. les procédés poétiques utilisés par le poète (le langage poétique)"
       ],
-      "texte": "iii. les procédés poétiques utilisés par le poète (le langage poétique) le choix des mots et leurs agencements, la structure, le rythme et la sonorité du poème (voir 2.1) les marques ou l’absence de marques énonciatives qui désignent l’énonciateur ou le rapport entre l’énonciateur et le destinataire et le lecteur-auditeur les marques du rapport d’engagement ou de distanciation de l’énonciateur avec le thème ou les valeurs (ex. : vocabulaire, variété de langue, ton)",
+      "texte": "le choix des mots et leurs agencements, la structure, le rythme et la sonorité du poème (voir 2.1)",
       "prioritaire": false,
       "progression": {
-        "1": null,
-        "2": null,
-        "3": null,
-        "4": null,
-        "5": "reinvestissement"
+        "1": "maitrise",
+        "2": "maitrise",
+        "3": "maitrise",
+        "4": "maitrise",
+        "5": "maitrise"
       },
       "page": 41,
-      "a_verifier": true,
-      "note": "Progression inhabituelle : à vérifier visuellement (la case bleue peut valoir pour toute la ligne).",
+      "a_verifier": false,
+      "note": "Vérifié visuellement (lecture du PDF, confirmée visuellement).",
       "modes": {
         "1": "LO",
         "2": "LO",
         "3": "LO",
         "4": "LO",
         "5": "LO"
+      }
+    },
+    {
+      "id": "FRA-PRE-353-c",
+      "competence": "Première partie : les modes de discours",
+      "section": null,
+      "chemin": [
+        "B. Stratégie basée sur l’explication argumentative : expliquer quelque chose avec d’influencer ou de convaincre son destinataire",
+        "2. Organisation d’un genre poétique (P1 : 104-105, 114-117) (P2 : 46-51, 65-67, 99-100, 156-157) 2.1. Découvrir le langage poétique",
+        "b. Reconnaître les ressources qui créent le rythme et la sonorité du poème",
+        "iii. les procédés poétiques utilisés par le poète (le langage poétique)"
+      ],
+      "texte": "les marques ou l’absence de marques énonciatives qui désignent l’énonciateur ou le rapport entre l’énonciateur et le destinataire et le lecteur-auditeur",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": "maitrise",
+        "4": "maitrise",
+        "5": "reinvestissement"
+      },
+      "page": 41,
+      "a_verifier": false,
+      "note": "Vérifié visuellement (lecture du PDF, confirmée visuellement).",
+      "modes": {
+        "3": "LO",
+        "4": "LO"
       }
     },
     {
@@ -8890,18 +9352,22 @@
         "A. Les ressources de la langue pour nommer",
         "b. L’utilisation (en compréhension et en production) des relations de sens entre les"
       ],
-      "texte": "variété de langue (ex. : automobile, voiture, bagnole, bazou )",
+      "texte": "variété de langue (ex. : automobile, voiture, bagnole, bazou)",
       "prioritaire": false,
       "progression": {
-        "1": "maitrise",
+        "1": null,
         "2": null,
         "3": "maitrise",
         "4": "maitrise",
         "5": "reinvestissement"
       },
       "page": 45,
-      "a_verifier": true,
-      "note": "Progression inhabituelle : à vérifier visuellement (la case bleue peut valoir pour toute la ligne)."
+      "a_verifier": false,
+      "note": "Vérifié visuellement (Gemini et lecture du PDF concordantes).",
+      "modes": {
+        "3": "LEO",
+        "4": "LEO"
+      }
     },
     {
       "id": "FRA-DEU-016",
@@ -9068,18 +9534,21 @@
         "c. L’utilisation (en compréhension et en production) des procédés de formation des orthographiques",
         "i. procédé de dérivation"
       ],
-      "texte": "union de mots avec ou sans trait d’union (ex. : porte-bonheur, planche à neige )",
+      "texte": "union de mots avec ou sans trait d’union (ex. : porte-bonheur, planche à neige)",
       "prioritaire": false,
       "progression": {
         "1": "maitrise",
         "2": "reinvestissement",
-        "3": "maitrise",
+        "3": "reinvestissement",
         "4": "reinvestissement",
         "5": "reinvestissement"
       },
       "page": 46,
-      "a_verifier": true,
-      "note": "Progression inhabituelle : à vérifier visuellement (la case bleue peut valoir pour toute la ligne)."
+      "a_verifier": false,
+      "note": "Vérifié visuellement (lecture du PDF, confirmée visuellement).",
+      "modes": {
+        "1": "LE"
+      }
     },
     {
       "id": "FRA-DEU-024",
@@ -9125,7 +9594,7 @@
       "note": ""
     },
     {
-      "id": "FRA-DEU-026",
+      "id": "FRA-DEU-026-a",
       "competence": "Deuxième partie : les ressources de la langue",
       "section": null,
       "chemin": [
@@ -9133,18 +9602,47 @@
         "c. L’utilisation (en compréhension et en production) des procédés de formation des orthographiques",
         "i. procédé de dérivation"
       ],
-      "texte": "télescopage, abrègement (ex. : bibliobus, courriel, prof, télé ) P distinction entre l’emploi à l’oral et l’emploi à l’écrit",
+      "texte": "télescopage, abrègement (ex. : bibliobus, courriel, prof, télé)",
       "prioritaire": false,
       "progression": {
         "1": "maitrise",
         "2": "maitrise",
         "3": "reinvestissement",
+        "4": "reinvestissement",
+        "5": "reinvestissement"
+      },
+      "page": 46,
+      "a_verifier": false,
+      "note": "Vérifié visuellement (Gemini et lecture du PDF concordantes).",
+      "modes": {
+        "1": "LEO",
+        "2": "LEO"
+      }
+    },
+    {
+      "id": "FRA-DEU-026-b",
+      "competence": "Deuxième partie : les ressources de la langue",
+      "section": null,
+      "chemin": [
+        "A. Les ressources de la langue pour nommer",
+        "c. L’utilisation (en compréhension et en production) des procédés de formation des orthographiques",
+        "i. procédé de dérivation"
+      ],
+      "texte": "distinction entre l’emploi à l’oral et l’emploi à l’écrit",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": null,
         "4": "maitrise",
         "5": "reinvestissement"
       },
       "page": 46,
-      "a_verifier": true,
-      "note": "Progression inhabituelle : à vérifier visuellement (la case bleue peut valoir pour toute la ligne)."
+      "a_verifier": false,
+      "note": "Vérifié visuellement (Gemini et lecture du PDF concordantes).",
+      "modes": {
+        "4": "LEO"
+      }
     },
     {
       "id": "FRA-DEU-027",
@@ -9199,21 +9697,25 @@
         "c. L’utilisation (en compréhension et en production) des procédés de formation des orthographiques",
         "i. procédé de dérivation"
       ],
-      "texte": "P twittlittérature ) effets de sens (ex. : technicité, impression d’avant-garde, effet de mode)",
+      "texte": "effets de sens (ex. : technicité, impression d’avant-garde, effet de mode)",
       "prioritaire": false,
       "progression": {
-        "1": "maitrise",
-        "2": "maitrise",
-        "3": "reinvestissement",
+        "1": null,
+        "2": null,
+        "3": null,
         "4": "apprentissage",
         "5": "maitrise"
       },
       "page": 46,
-      "a_verifier": true,
-      "note": "Progression inhabituelle : à vérifier visuellement (la case bleue peut valoir pour toute la ligne)."
+      "a_verifier": false,
+      "note": "Vérifié visuellement (Gemini et lecture du PDF concordantes).",
+      "modes": {
+        "4": "LEO",
+        "5": "LEO"
+      }
     },
     {
-      "id": "FRA-DEU-030",
+      "id": "FRA-DEU-030-a",
       "competence": "Deuxième partie : les ressources de la langue",
       "section": null,
       "chemin": [
@@ -9221,18 +9723,23 @@
         "c. L’utilisation (en compréhension et en production) des procédés de formation des orthographiques",
         "i. procédé de dérivation"
       ],
-      "texte": "emprunt (ex . : wapiti, yogourt, rafle ) et emploi de régionalismes (ex. : débarbouillette, dispendieux, poutine ); emprunt critiqué et anglicisme (ex. : chum, line up, appointement ) 1.3. Reconnaître ou utiliser le pronom pour nommer",
+      "texte": "emprunt (ex. : wapiti, yogourt, rafle) et emploi de régionalismes (ex. : débarbouillette, dispendieux, poutine); emprunt critiqué et anglicisme (ex. : chum, line up, appointement)",
       "prioritaire": false,
       "progression": {
-        "1": "maitrise",
+        "1": null,
         "2": null,
         "3": "apprentissage",
         "4": "maitrise",
         "5": "maitrise"
       },
       "page": 46,
-      "a_verifier": true,
-      "note": "Progression inhabituelle : à vérifier visuellement (la case bleue peut valoir pour toute la ligne)."
+      "a_verifier": false,
+      "note": "Vérifié visuellement (lecture du PDF, confirmée visuellement).",
+      "modes": {
+        "3": "LEO",
+        "4": "LEO",
+        "5": "LEO"
+      }
     },
     {
       "id": "FRA-DEU-031",
@@ -9275,24 +9782,50 @@
       "note": ""
     },
     {
-      "id": "FRA-DEU-033",
+      "id": "FRA-DEU-033-a",
       "competence": "Deuxième partie : les ressources de la langue",
       "section": null,
       "chemin": [
         "A. Les ressources de la langue pour nommer"
       ],
-      "texte": "c. Les pronoms je ou il comme seul nom de narrateur dans un récit 1.4. Reconnaître ou utiliser le verbe à l’infinitif pour nommer (ex. : saler, poivrer)",
+      "texte": "c. Les pronoms je ou il comme seul nom de narrateur dans un récit",
       "prioritaire": false,
       "progression": {
-        "1": "maitrise",
-        "2": "reinvestissement",
-        "3": "maitrise",
+        "1": null,
+        "2": null,
+        "3": null,
         "4": "maitrise",
         "5": "reinvestissement"
       },
       "page": 46,
-      "a_verifier": true,
-      "note": "Progression inhabituelle : à vérifier visuellement (la case bleue peut valoir pour toute la ligne)."
+      "a_verifier": false,
+      "note": "Vérifié visuellement (Gemini et lecture du PDF concordantes).",
+      "modes": {
+        "4": "LE"
+      }
+    },
+    {
+      "id": "FRA-DEU-033-b",
+      "competence": "Deuxième partie : les ressources de la langue",
+      "section": null,
+      "chemin": [
+        "A. Les ressources de la langue pour nommer"
+      ],
+      "texte": "1.4. Reconnaître ou utiliser le verbe à l’infinitif pour nommer (ex. : saler, poivrer)",
+      "prioritaire": false,
+      "progression": {
+        "1": "maitrise",
+        "2": "reinvestissement",
+        "3": "reinvestissement",
+        "4": "reinvestissement",
+        "5": "reinvestissement"
+      },
+      "page": 46,
+      "a_verifier": false,
+      "note": "Vérifié visuellement (Gemini et lecture du PDF concordantes).",
+      "modes": {
+        "1": "LEO"
+      }
     },
     {
       "id": "FRA-DEU-034",
@@ -9422,49 +9955,106 @@
       "chemin": [
         "A. Les ressources de la langue pour nommer"
       ],
-      "texte": "b. Le nom noyau et son déterminant 1 P",
+      "texte": "b. Le nom noyau et son déterminant 1",
       "prioritaire": false,
       "progression": {
-        "1": null,
+        "1": "maitrise",
         "2": "reinvestissement",
         "3": "reinvestissement",
         "4": "reinvestissement",
         "5": "reinvestissement"
       },
       "page": 47,
-      "a_verifier": true,
-      "note": "Symboles intégrés dans une image : vérifier visuellement. Progression inhabituelle : à vérifier visuellement (la case bleue peut valoir pour toute la ligne)."
+      "a_verifier": false,
+      "note": "Vérifié visuellement (lecture du PDF, confirmée visuellement).",
+      "modes": {
+        "1": "LEO"
+      }
     },
     {
-      "id": "FRA-DEU-041",
+      "id": "FRA-DEU-041-b",
       "competence": "Deuxième partie : les ressources de la langue",
       "section": null,
       "chemin": [
         "A. Les ressources de la langue pour nommer",
-        "c. L’utilisation (en compréhension et en production) des procédés de formation des orthographiques"
+        "c. L’utilisation (en compréhension et en production) des procédés de formation des orthographiques",
+        "i. l’identification du nom par ses caractéristiques 2"
       ],
-      "texte": "i. l’identification du nom par ses caractéristiques 2 syntaxiques : non effaçable; précédé d’un déterminant; donneur de genre, de nombre, de personne P morphologiques : variable en nombre; forme simple ou complexe sémantiques : traits (ex. : commun/propre; animé/inanimé)",
+      "texte": "syntaxiques : non effaçable; précédé d’un déterminant; donneur de genre, de nombre, de personne",
       "prioritaire": false,
       "progression": {
-        "1": null,
+        "1": "maitrise",
         "2": "reinvestissement",
         "3": "reinvestissement",
         "4": "reinvestissement",
         "5": "reinvestissement"
       },
       "page": 47,
-      "a_verifier": true,
-      "note": "Symboles intégrés dans une image : vérifier visuellement. Progression inhabituelle : à vérifier visuellement (la case bleue peut valoir pour toute la ligne)."
+      "a_verifier": false,
+      "note": "Vérifié visuellement (Gemini et lecture du PDF concordantes).",
+      "modes": {
+        "1": "LE"
+      }
     },
     {
-      "id": "FRA-DEU-042",
+      "id": "FRA-DEU-041-c",
+      "competence": "Deuxième partie : les ressources de la langue",
+      "section": null,
+      "chemin": [
+        "A. Les ressources de la langue pour nommer",
+        "c. L’utilisation (en compréhension et en production) des procédés de formation des orthographiques",
+        "i. l’identification du nom par ses caractéristiques 2"
+      ],
+      "texte": "morphologiques : variable en nombre; forme simple ou complexe",
+      "prioritaire": false,
+      "progression": {
+        "1": "maitrise",
+        "2": "reinvestissement",
+        "3": "reinvestissement",
+        "4": "reinvestissement",
+        "5": "reinvestissement"
+      },
+      "page": 47,
+      "a_verifier": false,
+      "note": "Vérifié visuellement (Gemini et lecture du PDF concordantes).",
+      "modes": {
+        "1": "LE"
+      }
+    },
+    {
+      "id": "FRA-DEU-041-d",
+      "competence": "Deuxième partie : les ressources de la langue",
+      "section": null,
+      "chemin": [
+        "A. Les ressources de la langue pour nommer",
+        "c. L’utilisation (en compréhension et en production) des procédés de formation des orthographiques",
+        "i. l’identification du nom par ses caractéristiques 2"
+      ],
+      "texte": "sémantiques : traits (ex. : commun/propre; animé/inanimé)",
+      "prioritaire": false,
+      "progression": {
+        "1": "maitrise",
+        "2": "reinvestissement",
+        "3": "reinvestissement",
+        "4": "reinvestissement",
+        "5": "reinvestissement"
+      },
+      "page": 47,
+      "a_verifier": false,
+      "note": "Vérifié visuellement (Gemini et lecture du PDF concordantes).",
+      "modes": {
+        "1": "LE"
+      }
+    },
+    {
+      "id": "FRA-DEU-042-a",
       "competence": "Deuxième partie : les ressources de la langue",
       "section": null,
       "chemin": [
         "A. Les ressources de la langue pour nommer",
         "c. L’utilisation (en compréhension et en production) des procédés de formation des orthographiques"
       ],
-      "texte": "ii. la variation du nombre du nom P nombre du nom précédé d’un déterminant complexe (ex. : bien des personnes, pas une feuille, peu d’amis ) nombre du nom collectif (ex. : la foule , sans s ) et du nom qui le suit (ex. : le troupeau de vaches, une horde de touristes ) nombre des infinitifs employés comme substantifs (ex. : des allers et retours, les savoir-faire )",
+      "texte": "ii. la variation du nombre du nom",
       "prioritaire": false,
       "progression": {
         "1": "reinvestissement",
@@ -9474,50 +10064,184 @@
         "5": "reinvestissement"
       },
       "page": 47,
-      "a_verifier": true,
-      "note": "Symboles intégrés dans une image : vérifier visuellement. Progression inhabituelle : à vérifier visuellement (la case bleue peut valoir pour toute la ligne)."
+      "a_verifier": false,
+      "note": "Vérifié visuellement (Gemini et lecture du PDF concordantes)."
     },
     {
-      "id": "FRA-DEU-043",
+      "id": "FRA-DEU-042-b",
       "competence": "Deuxième partie : les ressources de la langue",
       "section": null,
       "chemin": [
         "A. Les ressources de la langue pour nommer",
         "c. L’utilisation (en compréhension et en production) des procédés de formation des orthographiques"
       ],
-      "texte": "iii. l’identification du déterminant par ses caractéristiques syntaxiques : obligatoirement devant le nom; receveur de genre et de nombre du nom donneur P morphologiques : variable; forme simple ou complexe sémantiques : défini, numéral, démonstratif, etc.",
+      "texte": "nombre du nom précédé d’un déterminant complexe (ex. : bien des personnes, pas une feuille, peu d’amis)",
       "prioritaire": false,
       "progression": {
-        "1": null,
+        "1": "maitrise",
+        "2": "maitrise",
+        "3": "reinvestissement",
+        "4": "reinvestissement",
+        "5": "reinvestissement"
+      },
+      "page": 47,
+      "a_verifier": false,
+      "note": "Vérifié visuellement (Gemini et lecture du PDF concordantes).",
+      "modes": {
+        "1": "LE",
+        "2": "E"
+      }
+    },
+    {
+      "id": "FRA-DEU-042-c",
+      "competence": "Deuxième partie : les ressources de la langue",
+      "section": null,
+      "chemin": [
+        "A. Les ressources de la langue pour nommer",
+        "c. L’utilisation (en compréhension et en production) des procédés de formation des orthographiques"
+      ],
+      "texte": "nombre du nom collectif (ex. : la foule, sans s) et du nom qui le suit (ex. : le troupeau de vaches, une horde de touristes)",
+      "prioritaire": false,
+      "progression": {
+        "1": "maitrise",
         "2": "reinvestissement",
         "3": "reinvestissement",
         "4": "reinvestissement",
         "5": "reinvestissement"
       },
       "page": 47,
-      "a_verifier": true,
-      "note": "Symboles intégrés dans une image : vérifier visuellement. Progression inhabituelle : à vérifier visuellement (la case bleue peut valoir pour toute la ligne)."
+      "a_verifier": false,
+      "note": "Vérifié visuellement (lecture du PDF, confirmée visuellement).",
+      "modes": {
+        "1": "LE"
+      }
     },
     {
-      "id": "FRA-DEU-044",
+      "id": "FRA-DEU-043-b",
       "competence": "Deuxième partie : les ressources de la langue",
       "section": null,
       "chemin": [
         "A. Les ressources de la langue pour nommer",
-        "c. L’utilisation (en compréhension et en production) des procédés de formation des orthographiques"
+        "c. L’utilisation (en compréhension et en production) des procédés de formation des orthographiques",
+        "iii. l’identification du déterminant par ses caractéristiques"
       ],
-      "texte": "iv. l’accord du déterminant accord des déterminants receveurs du genre et du nombre du nom donneur (ex. : cette fille, certaines fleurs, leurs enfants ); les P déterminants complexes (ex. : toutes les femmes ) correction des marques erronées de genre et de nombre à l’oral P (ex. : une autobus) accord de déterminants souvent en opposition avec d’autres classes de mots (ex. : tout ) à l’aide des manipulations syntaxiques 2.2. Reconnaître ou utiliser des phrases à construction particulière",
+      "texte": "syntaxiques : obligatoirement devant le nom; receveur de genre et de nombre du nom donneur",
       "prioritaire": false,
       "progression": {
-        "1": null,
-        "2": null,
-        "3": "maitrise",
+        "1": "maitrise",
+        "2": "reinvestissement",
+        "3": "reinvestissement",
         "4": "reinvestissement",
         "5": "reinvestissement"
       },
       "page": 47,
-      "a_verifier": true,
-      "note": "Symboles intégrés dans une image : vérifier visuellement."
+      "a_verifier": false,
+      "note": "Vérifié visuellement (Gemini et lecture du PDF concordantes).",
+      "modes": {
+        "1": "LE"
+      }
+    },
+    {
+      "id": "FRA-DEU-043-c",
+      "competence": "Deuxième partie : les ressources de la langue",
+      "section": null,
+      "chemin": [
+        "A. Les ressources de la langue pour nommer",
+        "c. L’utilisation (en compréhension et en production) des procédés de formation des orthographiques",
+        "iii. l’identification du déterminant par ses caractéristiques"
+      ],
+      "texte": "morphologiques : variable; forme simple ou complexe",
+      "prioritaire": false,
+      "progression": {
+        "1": "maitrise",
+        "2": "reinvestissement",
+        "3": "reinvestissement",
+        "4": "reinvestissement",
+        "5": "reinvestissement"
+      },
+      "page": 47,
+      "a_verifier": false,
+      "note": "Vérifié visuellement (Gemini et lecture du PDF concordantes).",
+      "modes": {
+        "1": "LE"
+      }
+    },
+    {
+      "id": "FRA-DEU-043-d",
+      "competence": "Deuxième partie : les ressources de la langue",
+      "section": null,
+      "chemin": [
+        "A. Les ressources de la langue pour nommer",
+        "c. L’utilisation (en compréhension et en production) des procédés de formation des orthographiques",
+        "iii. l’identification du déterminant par ses caractéristiques"
+      ],
+      "texte": "sémantiques : défini, numéral, démonstratif, etc.",
+      "prioritaire": false,
+      "progression": {
+        "1": "maitrise",
+        "2": "reinvestissement",
+        "3": "reinvestissement",
+        "4": "reinvestissement",
+        "5": "reinvestissement"
+      },
+      "page": 47,
+      "a_verifier": false,
+      "note": "Vérifié visuellement (Gemini et lecture du PDF concordantes).",
+      "modes": {
+        "1": "LE"
+      }
+    },
+    {
+      "id": "FRA-DEU-044-b",
+      "competence": "Deuxième partie : les ressources de la langue",
+      "section": null,
+      "chemin": [
+        "A. Les ressources de la langue pour nommer",
+        "c. L’utilisation (en compréhension et en production) des procédés de formation des orthographiques",
+        "iv. l’accord du déterminant"
+      ],
+      "texte": "accord des déterminants receveurs du genre et du nombre du nom donneur (ex. : cette fille, certaines fleurs, leurs enfants); les déterminants complexes (ex. : toutes les femmes)",
+      "prioritaire": false,
+      "progression": {
+        "1": "maitrise",
+        "2": "maitrise",
+        "3": "reinvestissement",
+        "4": "reinvestissement",
+        "5": "reinvestissement"
+      },
+      "page": 47,
+      "a_verifier": false,
+      "note": "Vérifié visuellement (Gemini et lecture du PDF concordantes).",
+      "modes": {
+        "1": "LEO",
+        "2": "EO"
+      }
+    },
+    {
+      "id": "FRA-DEU-044-c",
+      "competence": "Deuxième partie : les ressources de la langue",
+      "section": null,
+      "chemin": [
+        "A. Les ressources de la langue pour nommer",
+        "c. L’utilisation (en compréhension et en production) des procédés de formation des orthographiques",
+        "iv. l’accord du déterminant"
+      ],
+      "texte": "correction des marques erronées de genre et de nombre à l’oral (ex. : une autobus)",
+      "prioritaire": false,
+      "progression": {
+        "1": "maitrise",
+        "2": "maitrise",
+        "3": "reinvestissement",
+        "4": "reinvestissement",
+        "5": "reinvestissement"
+      },
+      "page": 47,
+      "a_verifier": false,
+      "note": "Vérifié visuellement (Gemini et lecture du PDF concordantes).",
+      "modes": {
+        "1": "LEO",
+        "2": "EO"
+      }
     },
     {
       "id": "FRA-DEU-045",
@@ -10562,7 +11286,7 @@
         "B. Les ressources de la langue pour caractériser",
         "4. LES STRUCTURES SYNTAXIQUES (construction et règles d’accord) POUR (P1 : 133 à 135) (P2 : 124-125, 127-128, 129) 4.1. Reconnaître ou utiliser les expansions du nom dans le groupe nominal (GN); fonctions"
       ],
-      "texte": "a. Les groupes dans la fonction d’ attribut du sujet P LE 2.4",
+      "texte": "a. Les groupes dans la fonction d’attribut du sujet SITUER DANS LE TEMPS 2.4",
       "prioritaire": false,
       "progression": {
         "1": "apprentissage",
@@ -10572,9 +11296,13 @@
         "5": "reinvestissement"
       },
       "page": 50,
-      "a_verifier": true,
-      "note": "Progression inhabituelle : à vérifier visuellement (la case bleue peut valoir pour toute la ligne).",
-      "renvois": "SITUER DANS TEMPS"
+      "a_verifier": false,
+      "note": "Vérifié visuellement (lecture du PDF, confirmée visuellement).",
+      "modes": {
+        "1": "LE",
+        "2": "LE",
+        "4": "LE"
+      }
     },
     {
       "id": "FRA-DEU-093",
@@ -10679,12 +11407,15 @@
         "1": null,
         "2": "maitrise",
         "3": "reinvestissement",
-        "4": "apprentissage",
-        "5": "maitrise"
+        "4": "reinvestissement",
+        "5": "reinvestissement"
       },
       "page": 50,
-      "a_verifier": true,
-      "note": "Progression inhabituelle : à vérifier visuellement (la case bleue peut valoir pour toute la ligne)."
+      "a_verifier": false,
+      "note": "Vérifié visuellement (relecture visuelle).",
+      "modes": {
+        "2": "LE"
+      }
     },
     {
       "id": "FRA-DEU-098",
@@ -10922,7 +11653,7 @@
         "b. La substitution",
         "i. par un pronom (choix et orthographe en fonction du genre, du nombre et de la l’antécédent)"
       ],
-      "texte": "P sujet qui reprend un nom collectif (ex. : La foule était calme; elle s’est dispersée rapidement. )",
+      "texte": "qui reprend un nom collectif (ex. : La foule était calme; elle s’est dispersée rapidement.)",
       "prioritaire": false,
       "progression": {
         "1": "maitrise",
@@ -10932,10 +11663,12 @@
         "5": "reinvestissement"
       },
       "page": 51,
-      "a_verifier": true,
-      "note": "Progression inhabituelle : à vérifier visuellement (la case bleue peut valoir pour toute la ligne).",
+      "a_verifier": false,
+      "note": "Vérifié visuellement (lecture du PDF, confirmée visuellement).",
       "modes": {
         "1": "L",
+        "2": "E",
+        "3": "EO",
         "4": "O"
       }
     },
@@ -11073,20 +11806,21 @@
         "5. LES PROCÉDÉS DE REPRISE (P1 : 131) (P2 : 115-116) 5.1. Reconnaître ou utiliser des procédés de reprise pour nommer",
         "b. La substitution"
       ],
-      "texte": "ii. par un GAdv : ici, là, là-bas (ex. : Elle passe ses étés sur le bord du fleuve, là, le temps passe moins vite. )",
+      "texte": "ii. par un GAdv : ici, là, là-bas (ex. : Elle passe ses étés sur le bord du fleuve, là, le temps passe moins vite.)",
       "prioritaire": false,
       "progression": {
         "1": "apprentissage",
         "2": "maitrise",
         "3": "reinvestissement",
-        "4": "maitrise",
+        "4": "reinvestissement",
         "5": "reinvestissement"
       },
       "page": 51,
-      "a_verifier": true,
-      "note": "Progression inhabituelle : à vérifier visuellement (la case bleue peut valoir pour toute la ligne).",
+      "a_verifier": false,
+      "note": "Vérifié visuellement (Gemini et lecture du PDF concordantes).",
       "modes": {
-        "1": "LO"
+        "1": "LO",
+        "2": "LEO"
       }
     },
     {
@@ -11528,7 +12262,7 @@
         "D. Les outils pour faire de la grammaire",
         "a. Les constituants obligatoires et facultatifs (groupe ayant la fonction de sujet, groupe prédicat, groupe ayant la fonction de complément de phrase) de phrases qui conjugué à un mode personnel"
       ],
-      "texte": "subordonnée complétive complément de l’adjectif (3 e ) ou du nom (5 e ) (voir 4.1)",
+      "texte": "subordonnée complétive complément de l’adjectif (3e) ou du nom (5e) (voir 4.1)",
       "prioritaire": false,
       "progression": {
         "1": null,
@@ -11538,30 +12272,64 @@
         "5": "maitrise"
       },
       "page": 53,
-      "a_verifier": true,
-      "note": "Progression inhabituelle : à vérifier visuellement (la case bleue peut valoir pour toute la ligne)."
+      "a_verifier": false,
+      "note": "Vérifié visuellement (Gemini et lecture du PDF concordantes).",
+      "modes": {
+        "3": "LE",
+        "5": "LE"
+      }
     },
     {
-      "id": "FRA-DEU-136",
+      "id": "FRA-DEU-136-b",
       "competence": "Deuxième partie : les ressources de la langue",
       "section": null,
       "chemin": [
         "D. Les outils pour faire de la grammaire",
-        "a. Les constituants obligatoires et facultatifs (groupe ayant la fonction de sujet, groupe prédicat, groupe ayant la fonction de complément de phrase) de phrases qui conjugué à un mode personnel"
+        "a. Les constituants obligatoires et facultatifs (groupe ayant la fonction de sujet, groupe prédicat, groupe ayant la fonction de complément de phrase) de phrases qui conjugué à un mode personnel",
+        "subordonnée complément de phrase"
       ],
-      "texte": "subordonnée complément de phrase à valeur temporelle LE 2.3 autres valeurs (ex. : but, comparaison, conséquence, concession)",
+      "texte": "à valeur temporelle SITUER DANS LE TEMPS 2.3",
       "prioritaire": false,
       "progression": {
         "1": "maitrise",
         "2": "reinvestissement",
+        "3": "reinvestissement",
+        "4": "reinvestissement",
+        "5": "reinvestissement"
+      },
+      "page": 53,
+      "a_verifier": false,
+      "note": "Vérifié visuellement (Gemini et lecture du PDF concordantes).",
+      "modes": {
+        "1": "LE"
+      }
+    },
+    {
+      "id": "FRA-DEU-136-c",
+      "competence": "Deuxième partie : les ressources de la langue",
+      "section": null,
+      "chemin": [
+        "D. Les outils pour faire de la grammaire",
+        "a. Les constituants obligatoires et facultatifs (groupe ayant la fonction de sujet, groupe prédicat, groupe ayant la fonction de complément de phrase) de phrases qui conjugué à un mode personnel",
+        "subordonnée complément de phrase"
+      ],
+      "texte": "autres valeurs (ex. : but, comparaison, conséquence, concession)",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
         "3": "maitrise",
         "4": "maitrise",
         "5": "maitrise"
       },
       "page": 53,
-      "a_verifier": true,
-      "note": "Progression inhabituelle : à vérifier visuellement (la case bleue peut valoir pour toute la ligne).",
-      "renvois": "SITUER DANS TEMPS"
+      "a_verifier": false,
+      "note": "Vérifié visuellement (Gemini et lecture du PDF concordantes).",
+      "modes": {
+        "3": "LE",
+        "4": "LE",
+        "5": "LE"
+      }
     },
     {
       "id": "FRA-DEU-137",
@@ -11994,21 +12762,22 @@
         "A. Les ressources de la langue pour situer dans le temps",
         "1. LE LEXIQUE (sens et orthographe lexicale) 1.1. Reconnaître ou utiliser les mots et les groupes de mots qui donnent des"
       ],
-      "texte": "b. Les évènements les uns par rapport aux autres : l’antériorité, la simultanéité, la postériorité (ex. : la veille [et non hier ] , le lendemain [et non demain ] , le jour même, le samedi d’avant, cette année-là, deux ans plus tard, pendant que )",
+      "texte": "b. Les évènements les uns par rapport aux autres : l’antériorité, la simultanéité, la postériorité (ex. : la veille [et non hier], le lendemain [et non demain], le jour même, le samedi d’avant, cette année-là, deux ans plus tard, pendant que)",
       "prioritaire": false,
       "progression": {
         "1": "apprentissage",
-        "2": "apprentissage",
+        "2": "maitrise",
         "3": "maitrise",
         "4": "reinvestissement",
         "5": "reinvestissement"
       },
       "page": 56,
-      "a_verifier": true,
-      "note": "Progression inhabituelle : à vérifier visuellement (la case bleue peut valoir pour toute la ligne).",
+      "a_verifier": false,
+      "note": "Vérifié visuellement (lecture du PDF, confirmée visuellement).",
       "modes": {
-        "1": "LEO",
-        "2": "LO"
+        "1": "O",
+        "2": "LEO",
+        "3": "LEO"
       }
     },
     {
@@ -12226,28 +12995,84 @@
       "note": ""
     },
     {
-      "id": "FRA-DEU-168",
+      "id": "FRA-DEU-168-b",
       "competence": "Deuxième partie : les ressources de la langue",
       "section": null,
       "chemin": [
         "A. Les ressources de la langue pour situer dans le temps",
         "1. LE LEXIQUE (sens et orthographe lexicale) 1.1. Reconnaître ou utiliser les mots et les groupes de mots qui donnent des",
-        "b. L’accord du verbe, de l’auxiliaire de conjugaison, des auxiliaires d’aspect et de"
+        "b. L’accord du verbe, de l’auxiliaire de conjugaison, des auxiliaires d’aspect et de",
+        "cas particuliers"
       ],
-      "texte": "cas particuliers plusieurs sujets de 3 e personne, coordonnés par des P coordonnants exprimant l’addition plusieurs sujets de 3 e personne, coordonnés par des coordonnants exprimant le choix plusieurs sujets constitués de noms et de pronoms de personnes différentes le sujet est le pronom on le sujet, nom collectif avec ou sans expansion (ex. : la multitude, la plupart, une nuée d’abeilles ) le sujet est plus d’un ou moins de deux suivi ou non d’un nom",
+      "texte": "plusieurs sujets de 3e personne, coordonnés par des coordonnants exprimant l’addition",
       "prioritaire": false,
       "progression": {
         "1": "maitrise",
         "2": "maitrise",
-        "3": "maitrise",
+        "3": "reinvestissement",
         "4": "reinvestissement",
-        "5": "maitrise"
+        "5": "reinvestissement"
       },
       "page": 56,
-      "a_verifier": true,
-      "note": "Progression inhabituelle : à vérifier visuellement (la case bleue peut valoir pour toute la ligne).",
+      "a_verifier": false,
+      "note": "Vérifié visuellement (Gemini et lecture du PDF concordantes).",
       "modes": {
-        "2": "L"
+        "1": "LEO",
+        "2": "LEO"
+      }
+    },
+    {
+      "id": "FRA-DEU-168-c",
+      "competence": "Deuxième partie : les ressources de la langue",
+      "section": null,
+      "chemin": [
+        "A. Les ressources de la langue pour situer dans le temps",
+        "1. LE LEXIQUE (sens et orthographe lexicale) 1.1. Reconnaître ou utiliser les mots et les groupes de mots qui donnent des",
+        "b. L’accord du verbe, de l’auxiliaire de conjugaison, des auxiliaires d’aspect et de",
+        "cas particuliers"
+      ],
+      "texte": "plusieurs sujets de 3e personne, coordonnés par des coordonnants exprimant le choix",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": "maitrise",
+        "3": "maitrise",
+        "4": "reinvestissement",
+        "5": "reinvestissement"
+      },
+      "page": 56,
+      "a_verifier": false,
+      "note": "Vérifié visuellement (relecture visuelle).",
+      "modes": {
+        "2": "L",
+        "3": "EO"
+      }
+    },
+    {
+      "id": "FRA-DEU-168-d",
+      "competence": "Deuxième partie : les ressources de la langue",
+      "section": null,
+      "chemin": [
+        "A. Les ressources de la langue pour situer dans le temps",
+        "1. LE LEXIQUE (sens et orthographe lexicale) 1.1. Reconnaître ou utiliser les mots et les groupes de mots qui donnent des",
+        "b. L’accord du verbe, de l’auxiliaire de conjugaison, des auxiliaires d’aspect et de",
+        "cas particuliers"
+      ],
+      "texte": "plusieurs sujets constitués de noms et de pronoms de personnes différentes",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": "apprentissage",
+        "3": "maitrise",
+        "4": "reinvestissement",
+        "5": "reinvestissement"
+      },
+      "page": 56,
+      "a_verifier": false,
+      "note": "Vérifié visuellement (Gemini et lecture du PDF concordantes).",
+      "modes": {
+        "2": "LEO",
+        "3": "LEO"
       }
     },
     {
@@ -12295,26 +13120,108 @@
       "note": ""
     },
     {
-      "id": "FRA-DEU-171",
+      "id": "FRA-DEU-171-b",
       "competence": "Deuxième partie : les ressources de la langue",
       "section": null,
       "chemin": [
         "A. Les ressources de la langue pour situer dans le temps",
         "1. LE LEXIQUE (sens et orthographe lexicale) 1.1. Reconnaître ou utiliser les mots et les groupes de mots qui donnent des",
-        "b. L’accord du verbe, de l’auxiliaire de conjugaison, des auxiliaires d’aspect et de"
+        "b. L’accord du verbe, de l’auxiliaire de conjugaison, des auxiliaires d’aspect et de",
+        "cas particuliers"
       ],
-      "texte": "cas particuliers le complément direct est le pronom en ou le , substitué à une phrase ou une partie de texte le participe passé est suivi d’un verbe à l’infinitif le participe passé des verbes pronominaux le participe passé des verbes impersonnels : invariable 2.2. Reconnaître ou utiliser des groupes dans la fonction de complément de phrase: GN (ex. : le soir ), GPrép (ex. : dès minuit ), GAdv (ex. : demain ) 2.3. Reconnaître ou utiliser la phrase subordonnée à valeur temporelle dans la de phrase",
+      "texte": "le complément direct est le pronom en ou le, substitué à une phrase ou une partie de texte",
       "prioritaire": false,
       "progression": {
-        "1": "maitrise",
-        "2": "reinvestissement",
-        "3": "reinvestissement",
+        "1": null,
+        "2": null,
+        "3": null,
         "4": "maitrise",
+        "5": "reinvestissement"
+      },
+      "page": 57,
+      "a_verifier": false,
+      "note": "Vérifié visuellement (lecture du PDF, confirmée visuellement).",
+      "modes": {
+        "4": "LE"
+      }
+    },
+    {
+      "id": "FRA-DEU-171-c",
+      "competence": "Deuxième partie : les ressources de la langue",
+      "section": null,
+      "chemin": [
+        "A. Les ressources de la langue pour situer dans le temps",
+        "1. LE LEXIQUE (sens et orthographe lexicale) 1.1. Reconnaître ou utiliser les mots et les groupes de mots qui donnent des",
+        "b. L’accord du verbe, de l’auxiliaire de conjugaison, des auxiliaires d’aspect et de",
+        "cas particuliers"
+      ],
+      "texte": "le participe passé est suivi d’un verbe à l’infinitif",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": "maitrise",
+        "5": "reinvestissement"
+      },
+      "page": 57,
+      "a_verifier": false,
+      "note": "Vérifié visuellement (lecture du PDF, confirmée visuellement).",
+      "modes": {
+        "4": "LE"
+      }
+    },
+    {
+      "id": "FRA-DEU-171-d",
+      "competence": "Deuxième partie : les ressources de la langue",
+      "section": null,
+      "chemin": [
+        "A. Les ressources de la langue pour situer dans le temps",
+        "1. LE LEXIQUE (sens et orthographe lexicale) 1.1. Reconnaître ou utiliser les mots et les groupes de mots qui donnent des",
+        "b. L’accord du verbe, de l’auxiliaire de conjugaison, des auxiliaires d’aspect et de",
+        "cas particuliers"
+      ],
+      "texte": "le participe passé des verbes pronominaux",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
         "5": "maitrise"
       },
       "page": 57,
-      "a_verifier": true,
-      "note": "Progression inhabituelle : à vérifier visuellement (la case bleue peut valoir pour toute la ligne)."
+      "a_verifier": false,
+      "note": "Vérifié visuellement (lecture du PDF, confirmée visuellement).",
+      "modes": {
+        "5": "LE"
+      }
+    },
+    {
+      "id": "FRA-DEU-171-e",
+      "competence": "Deuxième partie : les ressources de la langue",
+      "section": null,
+      "chemin": [
+        "A. Les ressources de la langue pour situer dans le temps",
+        "1. LE LEXIQUE (sens et orthographe lexicale) 1.1. Reconnaître ou utiliser les mots et les groupes de mots qui donnent des",
+        "b. L’accord du verbe, de l’auxiliaire de conjugaison, des auxiliaires d’aspect et de",
+        "cas particuliers"
+      ],
+      "texte": "le participe passé des verbes impersonnels : invariable",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": "maitrise"
+      },
+      "page": 57,
+      "a_verifier": false,
+      "note": "Vérifié visuellement (lecture du PDF, confirmée visuellement).",
+      "modes": {
+        "5": "LE"
+      }
     },
     {
       "id": "FRA-DEU-172",
@@ -12439,7 +13346,7 @@
         "b. Le verbe attributif",
         "i. les sortes"
       ],
-      "texte": "courants (ex. : être , sembler , demeurer , etc.) P",
+      "texte": "courants (ex. : être, sembler, demeurer, etc.)",
       "prioritaire": false,
       "progression": {
         "1": "reinvestissement",
@@ -12449,8 +13356,8 @@
         "5": "reinvestissement"
       },
       "page": 57,
-      "a_verifier": true,
-      "note": "Progression inhabituelle : à vérifier visuellement (la case bleue peut valoir pour toute la ligne)."
+      "a_verifier": false,
+      "note": "Vérifié visuellement (Gemini et lecture du PDF concordantes)."
     },
     {
       "id": "FRA-DEU-178",
@@ -13983,7 +14890,7 @@
         "B. Les outils pour faire de la grammaire",
         "6. LE GROUPE VERBAL ET SES CONSTITUANTS 6.1. Identifier le groupe verbal (GV) prédicat , constituant obligatoire de la phrase"
       ],
-      "texte": "a. Le GV prédicat dans des phrases avec un seul verbe conjugué à un temps P simple de l’indicatif",
+      "texte": "a. Le GV prédicat dans des phrases avec un seul verbe conjugué à un temps simple de l’indicatif",
       "prioritaire": false,
       "progression": {
         "1": "reinvestissement",
@@ -13993,8 +14900,8 @@
         "5": "reinvestissement"
       },
       "page": 61,
-      "a_verifier": true,
-      "note": "Progression inhabituelle : à vérifier visuellement (la case bleue peut valoir pour toute la ligne)."
+      "a_verifier": false,
+      "note": "Vérifié visuellement (Gemini et lecture du PDF concordantes)."
     },
     {
       "id": "FRA-DEU-248",
@@ -14494,12 +15401,12 @@
         "1": "maitrise",
         "2": "maitrise",
         "3": "reinvestissement",
-        "4": "maitrise",
+        "4": "reinvestissement",
         "5": "reinvestissement"
       },
       "page": 63,
-      "a_verifier": true,
-      "note": "Progression inhabituelle : à vérifier visuellement (la case bleue peut valoir pour toute la ligne).",
+      "a_verifier": false,
+      "note": "Vérifié visuellement (lecture du PDF, confirmée visuellement).",
       "modes": {
         "1": "LO",
         "2": "LO"
@@ -14537,18 +15444,21 @@
         "A. Les ressources de la langue pour introduire des discours rapportés (DR)",
         "2. LE DISCOURS DIRECT (P1 : 130) (P2 : 114, 128, 142) 2.1. Reconnaître les caractéristiques du discours direct"
       ],
-      "texte": "a. Un verbe introducteur suivi des propos rapportés et une ponctuation particulière : les deux-points et les guillemets, le point avant la fermeture des P guillemets (ex. : Le proverbe dit : « Il ne faut pas vendre la peau de l’ours avant de l’avoir tué. » )",
+      "texte": "a. Un verbe introducteur suivi des propos rapportés et une ponctuation particulière : les deux-points et les guillemets, le point avant la fermeture des guillemets (ex. : Le proverbe dit : « Il ne faut pas vendre la peau de l’ours avant de l’avoir tué. »)",
       "prioritaire": false,
       "progression": {
         "1": "maitrise",
         "2": "reinvestissement",
-        "3": "maitrise",
+        "3": "reinvestissement",
         "4": "reinvestissement",
         "5": "reinvestissement"
       },
       "page": 64,
-      "a_verifier": true,
-      "note": "Progression inhabituelle : à vérifier visuellement (la case bleue peut valoir pour toute la ligne)."
+      "a_verifier": false,
+      "note": "Vérifié visuellement (lecture du PDF, confirmée visuellement).",
+      "modes": {
+        "1": "LE"
+      }
     },
     {
       "id": "FRA-DEU-273",
@@ -14653,18 +15563,18 @@
         "A. Les ressources de la langue pour introduire des discours rapportés (DR)",
         "2. LE DISCOURS DIRECT (P1 : 130) (P2 : 114, 128, 142) 2.1. Reconnaître les caractéristiques du discours direct"
       ],
-      "texte": "a. Le retrait à la ligne et le tiret P",
+      "texte": "a. Le retrait à la ligne et le tiret",
       "prioritaire": false,
       "progression": {
         "1": "reinvestissement",
-        "2": "maitrise",
+        "2": "reinvestissement",
         "3": "reinvestissement",
         "4": "reinvestissement",
         "5": "reinvestissement"
       },
       "page": 64,
-      "a_verifier": true,
-      "note": "Progression inhabituelle : à vérifier visuellement (la case bleue peut valoir pour toute la ligne)."
+      "a_verifier": false,
+      "note": "Vérifié visuellement (Gemini et lecture du PDF concordantes)."
     },
     {
       "id": "FRA-DEU-278",
@@ -14801,12 +15711,12 @@
         "1": null,
         "2": "maitrise",
         "3": "reinvestissement",
-        "4": "maitrise",
+        "4": "reinvestissement",
         "5": "reinvestissement"
       },
       "page": 64,
-      "a_verifier": true,
-      "note": "Progression inhabituelle : à vérifier visuellement (la case bleue peut valoir pour toute la ligne).",
+      "a_verifier": false,
+      "note": "Vérifié visuellement (Gemini et lecture du PDF concordantes).",
       "modes": {
         "2": "O"
       }
@@ -14955,30 +15865,53 @@
       "renvois": "SITUER DANS TEMPS"
     },
     {
-      "id": "FRA-DEU-290",
+      "id": "FRA-DEU-290-a",
       "competence": "Deuxième partie : les ressources de la langue",
       "section": null,
       "chemin": [
         "A. Les ressources de la langue pour introduire des discours rapportés (DR)",
         "3. LE DISCOURS INDIRECT (P1 : 130) (P2 : 114, 127-128) 3.1. Reconnaître les caractéristiques du discours indirect"
       ],
-      "texte": "b. Un groupe incident (ex. : au dire des experts, selon les témoins ) ou une phrase incidente (ex. : Il est, tout le monde le dit, un candidat sérieux. ); ponctuation 1 3.3. Reconnaître le discours indirect libre : les propos sont rapportés dans une phrase indépendante généralement sans ponctuation particulière (ex. : Claire informe son père. Elle sera en retard, sa tente a été inondée, elle a attendu les secours. )",
+      "texte": "b. Un groupe incident (ex. : au dire des experts, selon les témoins) ou une phrase incidente (ex. : Il est, tout le monde le dit, un candidat sérieux.); ponctuation MODALISER 1",
       "prioritaire": false,
       "progression": {
         "1": null,
         "2": "maitrise",
         "3": "maitrise",
         "4": "reinvestissement",
+        "5": "reinvestissement"
+      },
+      "page": 65,
+      "a_verifier": false,
+      "note": "Vérifié visuellement (Gemini et lecture du PDF concordantes).",
+      "modes": {
+        "2": "L",
+        "3": "LEO"
+      }
+    },
+    {
+      "id": "FRA-DEU-290-b",
+      "competence": "Deuxième partie : les ressources de la langue",
+      "section": null,
+      "chemin": [
+        "A. Les ressources de la langue pour introduire des discours rapportés (DR)",
+        "3. LE DISCOURS INDIRECT (P1 : 130) (P2 : 114, 127-128) 3.1. Reconnaître les caractéristiques du discours indirect"
+      ],
+      "texte": "3.3. Reconnaître le discours indirect libre : les propos sont rapportés dans une phrase indépendante généralement sans ponctuation particulière (ex. : Claire informe son père. Elle sera en retard, sa tente a été inondée, elle a attendu les secours.)",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
         "5": "maitrise"
       },
       "page": 65,
-      "a_verifier": true,
-      "note": "Progression inhabituelle : à vérifier visuellement (la case bleue peut valoir pour toute la ligne).",
+      "a_verifier": false,
+      "note": "Vérifié visuellement (Gemini et lecture du PDF concordantes).",
       "modes": {
-        "2": "L",
         "5": "L"
-      },
-      "renvois": "MODALISER"
+      }
     },
     {
       "id": "FRA-DEU-291",
@@ -15742,18 +16675,22 @@
         "2. L’ATTITUDE (LE POINT DE VUE) DE L’ÉNONCIATEUR PAR RAPPORT AU PROPOS (P2 : 50, 111-113) 2.1. Reconnaître ou choisir les mots qui révèlent la subjectivité de l’énonciateur",
         "b. Un vocabulaire exprimant des modalités"
       ],
-      "texte": "ii. la comparaison et la métaphore courante ou littéraire (ex. : il se sent comme un poisson dans l’eau ; ce politicien est un vrai renard )",
+      "texte": "ii. la comparaison et la métaphore courante ou littéraire (ex. : il se sent comme un poisson dans l’eau; ce politicien est un vrai renard)",
       "prioritaire": false,
       "progression": {
         "1": "maitrise",
         "2": "maitrise",
         "3": "reinvestissement",
-        "4": "apprentissage",
-        "5": "apprentissage"
+        "4": "reinvestissement",
+        "5": "reinvestissement"
       },
       "page": 68,
-      "a_verifier": true,
-      "note": "Progression inhabituelle : à vérifier visuellement (la case bleue peut valoir pour toute la ligne)."
+      "a_verifier": false,
+      "note": "Vérifié visuellement (lecture du PDF, confirmée visuellement).",
+      "modes": {
+        "1": "LE",
+        "2": "LE"
+      }
     },
     {
       "id": "FRA-DEU-324",
@@ -16076,7 +17013,7 @@
       }
     },
     {
-      "id": "FRA-DEU-338",
+      "id": "FRA-DEU-338-a",
       "competence": "Deuxième partie : les ressources de la langue",
       "section": null,
       "chemin": [
@@ -16084,7 +17021,32 @@
         "2. L’ATTITUDE (LE POINT DE VUE) DE L’ÉNONCIATEUR PAR RAPPORT AU PROPOS (P2 : 50, 111-113) 2.1. Reconnaître ou choisir les mots qui révèlent la subjectivité de l’énonciateur",
         "d. Des pronoms"
       ],
-      "texte": "2.6. Reconnaître le sens du non-verbal et de la prosodie ou y recourir (ex. : ton moqueur, enflammé, autoritaire; hauteur de la voix, en particulier dans l’exclamation) 2.7. Reconnaître ou choisir des marques graphiques (ex. : capitales, gras, police, soulignement)",
+      "texte": "2.6. Reconnaître le sens du non-verbal et de la prosodie ou y recourir (ex. : ton moqueur, enflammé, autoritaire; hauteur de la voix, en particulier dans l’exclamation)",
+      "prioritaire": false,
+      "progression": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": "maitrise",
+        "5": "reinvestissement"
+      },
+      "page": 69,
+      "a_verifier": false,
+      "note": "Vérifié visuellement (lecture du PDF, confirmée visuellement).",
+      "modes": {
+        "4": "O"
+      }
+    },
+    {
+      "id": "FRA-DEU-338-b",
+      "competence": "Deuxième partie : les ressources de la langue",
+      "section": null,
+      "chemin": [
+        "B. Langue orale et langue écrite",
+        "2. L’ATTITUDE (LE POINT DE VUE) DE L’ÉNONCIATEUR PAR RAPPORT AU PROPOS (P2 : 50, 111-113) 2.1. Reconnaître ou choisir les mots qui révèlent la subjectivité de l’énonciateur",
+        "d. Des pronoms"
+      ],
+      "texte": "2.7. Reconnaître ou choisir des marques graphiques (ex. : capitales, gras, police, soulignement)",
       "prioritaire": false,
       "progression": {
         "1": null,
@@ -16094,11 +17056,11 @@
         "5": "reinvestissement"
       },
       "page": 69,
-      "a_verifier": true,
-      "note": "Ligne sans marqueur de liste : vérifier le découpage. Progression inhabituelle : à vérifier visuellement (la case bleue peut valoir pour toute la ligne).",
+      "a_verifier": false,
+      "note": "Vérifié visuellement (Gemini et lecture du PDF concordantes).",
       "modes": {
         "3": "L",
-        "4": "O"
+        "4": "LE"
       }
     }
   ],
@@ -16111,5 +17073,12 @@
   "controle_logique": {
     "date": "2026-11-10",
     "note": "55 lignes inhabituelles marquées à vérifier ; pages à image : [8, 9, 20, 31, 41, 47]"
+  },
+  "verification_visuelle": {
+    "date": "2026-11-11",
+    "lignes_verifiees": 116,
+    "savoirs_remplaces": 61,
+    "entetes_sans_symbole": 22,
+    "methode": "Lecture visuelle par Gemini (gemini/10), recoupée avec une lecture des cellules par pixels ; les désaccords ont été tranchés en regardant la page."
   }
 }

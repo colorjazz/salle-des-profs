@@ -1,0 +1,1046 @@
+[
+  {
+    "id": "FRA-PRE-011-a",
+    "page": 8,
+    "texte": "ii. son intention",
+    "progression": { "1": null, "2": null, "3": null, "4": null, "5": null },
+    "modes": {},
+    "certain": true,
+    "remarque": "Ligne d'en-tête de sous-section."
+  },
+  {
+    "id": "FRA-PRE-011-b",
+    "page": 8,
+    "texte": "décrire pour faire connaître (ex. : article de revue, capsule d’information, compte rendu d’évènement, résumé); point de vue plutôt neutre",
+    "progression": { "1": "maitrise", "2": "maitrise", "3": "reinvestissement", "4": "reinvestissement", "5": "reinvestissement" },
+    "modes": { "1": "É", "2": "ÉO" },
+    "certain": false,
+    "remarque": "L'index (p. 79) confirme l'apprentissage systématique (étoile) de D 1.2a en 1re, 2e, 3e et 4e sec., suivi du réinvestissement."
+  },
+  {
+    "id": "FRA-PRE-011-c",
+    "page": 8,
+    "texte": "décrire pour inciter à agir (ex. : entrevue, note critique, quatrième de couverture); point de vue plutôt expressif ou subjectif",
+    "progression": { "1": "maitrise", "2": "maitrise", "3": "reinvestissement", "4": "reinvestissement", "5": "reinvestissement" },
+    "modes": { "1": "É", "2": "ÉO" },
+    "certain": false,
+    "remarque": "Symbole étoile en 1re et 2e secondaire suivi d'une zone bleue de réinvestissement de la 3e à la 5e secondaire."
+  },
+  {
+    "id": "FRA-PRE-022-a",
+    "page": 9,
+    "texte": "i. les procédés descriptifs",
+    "progression": { "1": null, "2": null, "3": null, "4": null, "5": null },
+    "modes": {},
+    "certain": true,
+    "remarque": "Ligne d'en-tête."
+  },
+  {
+    "id": "FRA-PRE-022-b",
+    "page": 9,
+    "texte": "l’énumération des aspects",
+    "progression": { "1": "maitrise", "2": "maitrise", "3": "reinvestissement", "4": "reinvestissement", "5": "reinvestissement" },
+    "modes": { "1": "LÉO", "2": "LÉO" },
+    "certain": true,
+    "remarque": ""
+  },
+  {
+    "id": "FRA-PRE-022-c",
+    "page": 9,
+    "texte": "la caractérisation",
+    "progression": { "1": "maitrise", "2": "maitrise", "3": "reinvestissement", "4": "reinvestissement", "5": "reinvestissement" },
+    "modes": { "1": "LÉO", "2": "LÉO" },
+    "certain": true,
+    "remarque": ""
+  },
+  {
+    "id": "FRA-PRE-022-d",
+    "page": 9,
+    "texte": "la situation dans l’espace",
+    "progression": { "1": "maitrise", "2": "reinvestissement", "3": "reinvestissement", "4": "reinvestissement", "5": "reinvestissement" },
+    "modes": { "1": "LÉO" },
+    "certain": true,
+    "remarque": ""
+  },
+  {
+    "id": "FRA-PRE-022-e",
+    "page": 9,
+    "texte": "la situation dans le temps",
+    "progression": { "1": null, "2": "maitrise", "3": "reinvestissement", "4": "reinvestissement", "5": "reinvestissement" },
+    "modes": { "2": "LÉO" },
+    "certain": true,
+    "remarque": ""
+  },
+  {
+    "id": "FRA-PRE-023-a",
+    "page": 9,
+    "texte": "ii. les moyens linguistiques",
+    "progression": { "1": null, "2": null, "3": null, "4": null, "5": null },
+    "modes": {},
+    "certain": true,
+    "remarque": "Ligne d'en-tête."
+  },
+  {
+    "id": "FRA-PRE-023-b",
+    "page": 9,
+    "texte": "le champ lexical lié au sujet",
+    "progression": { "1": "maitrise", "2": "maitrise", "3": "reinvestissement", "4": "reinvestissement", "5": "reinvestissement" },
+    "modes": { "1": "LÉO", "2": "LÉO" },
+    "certain": true,
+    "remarque": ""
+  },
+  {
+    "id": "FRA-PRE-023-c",
+    "page": 9,
+    "texte": "la précision du vocabulaire NOMMER-CARACTÉRISER 1.2; 3.1; 8",
+    "progression": { "1": "maitrise", "2": "maitrise", "3": "reinvestissement", "4": "reinvestissement", "5": "reinvestissement" },
+    "modes": { "1": "LÉO", "2": "LÉO" },
+    "certain": true,
+    "remarque": ""
+  },
+  {
+    "id": "FRA-PRE-023-d",
+    "page": 9,
+    "texte": "le lexique pour situer dans l’espace",
+    "progression": { "1": null, "2": null, "3": null, "4": null, "5": null },
+    "modes": {},
+    "certain": true,
+    "remarque": "Sous-titre introduisant les éléments de localisation spatiale."
+  },
+  {
+    "id": "FRA-PRE-023-e",
+    "page": 9,
+    "texte": "le nom propre ou commun de lieu pour localiser (ex. : il est parti pour New York ; l’édifice Marie-Guyart)",
+    "progression": { "1": "maitrise", "2": "reinvestissement", "3": "reinvestissement", "4": "reinvestissement", "5": "reinvestissement" },
+    "modes": { "1": "LÉ" },
+    "certain": false,
+    "remarque": "Étoile en 1re secondaire (confirmée par l'index D 2.3b sous Nom/GN en 1re) suivie de réinvestissement."
+  },
+  {
+    "id": "FRA-PRE-044",
+    "page": 11,
+    "texte": "3.2. Reconnaître ou utiliser les moyens qui marquent l’organisation du texte",
+    "progression": { "1": null, "2": null, "3": null, "4": null, "5": null },
+    "modes": {},
+    "certain": true,
+    "remarque": "Ligne de titre de section 3.2 ; l'étoile lue par le programme appartenait à 3.2.a (Les intitulés)."
+  },
+  {
+    "id": "FRA-PRE-060-a",
+    "page": 13,
+    "texte": "plutôt neutre (ex. : article de vulgarisation, explication dans un manuel, reportage, texte d’analyse)",
+    "progression": { "1": null, "2": null, "3": null, "4": null, "5": null },
+    "modes": {},
+    "certain": true,
+    "remarque": "Sous-titre introduisant les deux caractéristiques du point de vue plutôt neutre."
+  },
+  {
+    "id": "FRA-PRE-060-b",
+    "page": 13,
+    "texte": "une variété de langue standard",
+    "progression": { "1": null, "2": null, "3": "maitrise", "4": "maitrise", "5": "maitrise" },
+    "modes": { "3": "LO", "4": "L", "5": "O" },
+    "certain": true,
+    "remarque": ""
+  },
+  {
+    "id": "FRA-PRE-060-c",
+    "page": 13,
+    "texte": "des structures syntaxiques comme la phrase et la tournure impersonnelles, la construction avec le pronom on, la phrase de forme passive",
+    "progression": { "1": null, "2": null, "3": "maitrise", "4": "maitrise", "5": "maitrise" },
+    "modes": { "3": "LO", "4": "L", "5": "O" },
+    "certain": true,
+    "remarque": ""
+  },
+  {
+    "id": "FRA-PRE-100",
+    "page": 16,
+    "texte": "ii. l’emploi de discours rapportés (citation et discours indirect) dont l’exactitude a été vérifiée INTRODUIRE DES DR",
+    "progression": { "1": null, "2": null, "3": "maitrise", "4": "maitrise", "5": "maitrise" },
+    "modes": { "3": "LÉO", "4": "L", "5": "O" },
+    "certain": true,
+    "remarque": ""
+  },
+  {
+    "id": "FRA-PRE-103",
+    "page": 16,
+    "texte": "b. Reconnaître ou élaborer une réponse synthétique à la question à l’aide d’organisateurs textuels ayant une valeur de synthèse (en résumé, bref, finalement)",
+    "progression": { "1": null, "2": null, "3": "maitrise", "4": "reinvestissement", "5": "maitrise" },
+    "modes": { "3": "LÉO", "5": "O" },
+    "certain": true,
+    "remarque": ""
+  },
+  {
+    "id": "FRA-PRE-118",
+    "page": 19,
+    "texte": "neutre (domaine du savoir) ou subjectif (domaine de la subjectivité)",
+    "progression": { "1": "apprentissage", "2": "maitrise", "3": "reinvestissement", "4": "reinvestissement", "5": "reinvestissement" },
+    "modes": { "1": "LO", "2": "LO" },
+    "certain": true,
+    "remarque": ""
+  },
+  {
+    "id": "FRA-PRE-138",
+    "page": 19,
+    "texte": "a. Observer l’absence fréquente de titre",
+    "progression": { "1": "apprentissage", "2": "reinvestissement", "3": "reinvestissement", "4": "reinvestissement", "5": "reinvestissement" },
+    "modes": { "1": "L" },
+    "certain": true,
+    "remarque": ""
+  },
+  {
+    "id": "FRA-PRE-139",
+    "page": 20,
+    "texte": "a. Énoncer le propos (ex. : Dans la phrase « Les feuilles tombent tôt cet automne », le GN cet automne est complément de P.)",
+    "progression": { "1": "maitrise", "2": "reinvestissement", "3": "reinvestissement", "4": "reinvestissement", "5": "reinvestissement" },
+    "modes": { "1": "O" },
+    "certain": false,
+    "remarque": "L'étoile en 3e secondaire appartient à la ligne suivante (b. Justifier le propos), tandis que a. est en réinvestissement de la 2e à la 5e."
+  },
+  {
+    "id": "FRA-PRE-143",
+    "page": 20,
+    "texte": "ii. par l’établissement de liens entre un commentaire et un ou plusieurs aspects de l’œuvre (ex. : thème, intrigue, façon de décrire les personnages) en s’appuyant sur le texte ou en le comparant à une autre œuvre, citation à l’appui, si nécessaire (ex. : Les garçons s’identifieraient aux personnages masculins à cause de leurs qualités de débrouillardise et de courage. Par exemple, dans l’évènement X, page Y, on trouve...) INTRODUIRE DES DR 2; 3",
+    "progression": { "1": null, "2": "maitrise", "3": "maitrise", "4": "maitrise", "5": "reinvestissement" },
+    "modes": { "2": "LÉO", "3": "O", "4": "LO" },
+    "certain": true,
+    "remarque": ""
+  },
+  {
+    "id": "FRA-PRE-149-a",
+    "page": 20,
+    "texte": "ii. des phrases subordonnées et leur subordonnant exprimant les valeurs suivantes :",
+    "progression": { "1": null, "2": null, "3": null, "4": null, "5": null },
+    "modes": {},
+    "certain": true,
+    "remarque": "Ligne d'en-tête."
+  },
+  {
+    "id": "FRA-PRE-149-b",
+    "page": 20,
+    "texte": "la cause (ex. : parce que (2e secondaire), sous prétexte que)",
+    "progression": { "1": null, "2": "maitrise", "3": "maitrise", "4": "maitrise", "5": "reinvestissement" },
+    "modes": { "2": "LÉO", "3": "LÉO", "4": "LO" },
+    "certain": true,
+    "remarque": ""
+  },
+  {
+    "id": "FRA-PRE-149-c",
+    "page": 20,
+    "texte": "la comparaison (ex. : aussi que, autant que, de même que)",
+    "progression": { "1": null, "2": "apprentissage", "3": "maitrise", "4": "maitrise", "5": "reinvestissement" },
+    "modes": { "2": "LO", "3": "LÉO", "4": "LO" },
+    "certain": true,
+    "remarque": ""
+  },
+  {
+    "id": "FRA-PRE-149-d",
+    "page": 20,
+    "texte": "la justification (ex. : attendu que, comme, étant donné que, puisque) et la ponctuation adéquate",
+    "progression": { "1": null, "2": null, "3": "maitrise", "4": "maitrise", "5": "reinvestissement" },
+    "modes": { "3": "LÉO", "4": "LO" },
+    "certain": true,
+    "remarque": ""
+  },
+  {
+    "id": "FRA-PRE-152-a",
+    "page": 21,
+    "texte": "2.4. Constater la concision du texte, ou la rechercher en ne présentant que les informations pertinentes, celles qui fondent le propos",
+    "progression": { "1": null, "2": "apprentissage", "3": "apprentissage", "4": "maitrise", "5": "maitrise" },
+    "modes": { "2": "É", "3": "ÉO", "4": "LO", "5": "O" },
+    "certain": true,
+    "remarque": ""
+  },
+  {
+    "id": "FRA-PRE-152-b",
+    "page": 21,
+    "texte": "2.5. Dégager ou présenter la conclusion : reformulation du propos qui a été justifié",
+    "progression": { "1": null, "2": "apprentissage", "3": "apprentissage", "4": "reinvestissement", "5": "reinvestissement" },
+    "modes": { "2": "LÉO", "3": "LO" },
+    "certain": false,
+    "remarque": "Aucune entrée pour J 2.5 dans l'index des apprentissages systématiques : flèches en 2e et 3e suivies de réinvestissement."
+  },
+  {
+    "id": "FRA-PRE-184-a",
+    "page": 24,
+    "texte": "2. Organisation d’un genre argumentatif : façon dont se réalise la séquence argumentative (P2 : 46, 48-49, 65-71, 90-93, 97, 120-121)",
+    "progression": { "1": null, "2": null, "3": null, "4": null, "5": null },
+    "modes": {},
+    "certain": true,
+    "remarque": "Titre de section."
+  },
+  {
+    "id": "FRA-PRE-184-b",
+    "page": 24,
+    "texte": "2.1. Comprendre le titre ou donner un titre accrocheur, selon le genre",
+    "progression": { "1": null, "2": null, "3": null, "4": "maitrise", "5": "maitrise" },
+    "modes": { "4": "LÉO", "5": "LÉO" },
+    "certain": false,
+    "remarque": "L'index (p. 77, titre et intertitre) confirme l'étoile pour A 2.1 en 4e et 5e secondaire."
+  },
+  {
+    "id": "FRA-PRE-184-c",
+    "page": 24,
+    "texte": "2.2. Reconnaître ou introduire le sujet de la controverse",
+    "progression": { "1": null, "2": null, "3": null, "4": null, "5": null },
+    "modes": {},
+    "certain": true,
+    "remarque": "Ligne d'en-tête pour 2.2.a et 2.2.b."
+  },
+  {
+    "id": "FRA-PRE-219",
+    "page": 29,
+    "texte": "i. ses caractéristiques : ses champs d’intérêt, ses genres préférés, ses connaissances littéraires (lien avec son répertoire personnalisé), l’efficacité de ses stratégies de lecture et d’écoute",
+    "progression": { "1": "apprentissage", "2": "maitrise", "3": "maitrise", "4": "maitrise", "5": "reinvestissement" },
+    "modes": { "1": "LO", "2": "LO", "3": "LO", "4": "L" },
+    "certain": true,
+    "remarque": ""
+  },
+  {
+    "id": "FRA-PRE-246-a",
+    "page": 31,
+    "texte": "l’effet psychologique du lieu (ex. : l’angoisse d’un personnage qui traverse un pont de glace qui s’effrite)",
+    "progression": { "1": null, "2": "apprentissage", "3": "maitrise", "4": "reinvestissement", "5": "reinvestissement" },
+    "modes": { "2": "LÉO", "3": "LÉO" },
+    "certain": false,
+    "remarque": "Flèche en 2e et étoile en 3e suivies du réinvestissement en 4e et 5e."
+  },
+  {
+    "id": "FRA-PRE-246-b",
+    "page": 31,
+    "texte": "la façon de s’exprimer dans ce lieu (particularités régionales au Québec ou dans la francophonie)",
+    "progression": { "1": null, "2": "apprentissage", "3": "maitrise", "4": "reinvestissement", "5": "reinvestissement" },
+    "modes": { "2": "LÉ", "3": "LÉO" },
+    "certain": false,
+    "remarque": "L'index (p. 80, Variétés de langue) confirme l'étoile pour N 2.2b en 3e secondaire."
+  },
+  {
+    "id": "FRA-PRE-247",
+    "page": 31,
+    "texte": "l’évocation : association d’idées, d’images, de mots; appel à des repères culturels (ex. : Dans le salon : des fauteuils Louis XVI; cette description évoque un milieu aisé, une manière de vivre)",
+    "progression": { "1": null, "2": "apprentissage", "3": "maitrise", "4": "maitrise", "5": "reinvestissement" },
+    "modes": { "2": "L", "3": "LO", "4": "L" },
+    "certain": false,
+    "remarque": "Présence en 2e (L), 3e (LO) et 4e (L) suivie d'un réinvestissement en 5e secondaire."
+  },
+  {
+    "id": "FRA-PRE-249",
+    "page": 31,
+    "texte": "la description de l’époque (ex. : les évènements particuliers, le mode de vie, les arts, les valeurs et les préoccupations du temps; les façons de s’exprimer (17e/21e siècle)",
+    "progression": { "1": null, "2": null, "3": "maitrise", "4": "maitrise", "5": "reinvestissement" },
+    "modes": { "3": "LO", "4": "L" },
+    "certain": true,
+    "remarque": ""
+  },
+  {
+    "id": "FRA-PRE-251-a",
+    "page": 31,
+    "texte": "iii. les déplacements dans l’espace et le temps",
+    "progression": { "1": null, "2": null, "3": null, "4": null, "5": null },
+    "modes": {},
+    "certain": true,
+    "remarque": "Ligne d'en-tête."
+  },
+  {
+    "id": "FRA-PRE-251-b",
+    "page": 31,
+    "texte": "l’itinéraire du personnage principal (ex. : Le tour du monde en 80 jours, Jules Verne)",
+    "progression": { "1": "maitrise", "2": "reinvestissement", "3": "reinvestissement", "4": "reinvestissement", "5": "reinvestissement" },
+    "modes": { "1": "LÉO" },
+    "certain": true,
+    "remarque": ""
+  },
+  {
+    "id": "FRA-PRE-251-c",
+    "page": 31,
+    "texte": "les liens entre les déplacements et la quête (recherche de liberté, fuite, symbolisme des lieux) (ex. : Nikolski, Nicolas Dickner)",
+    "progression": { "1": null, "2": null, "3": "maitrise", "4": "maitrise", "5": "reinvestissement" },
+    "modes": { "3": "LÉO", "4": "LÉ" },
+    "certain": true,
+    "remarque": ""
+  },
+  {
+    "id": "FRA-PRE-252-a",
+    "page": 31,
+    "texte": "i. les caractéristiques de la quête",
+    "progression": { "1": null, "2": null, "3": null, "4": null, "5": null },
+    "modes": {},
+    "certain": true,
+    "remarque": "Ligne d'en-tête."
+  },
+  {
+    "id": "FRA-PRE-252-b",
+    "page": 31,
+    "texte": "la quête d’équilibre marquée davantage par l’action (ex. : Les aventures de Don Quichotte, Miguel Cervantes)",
+    "progression": { "1": "maitrise", "2": "maitrise", "3": "maitrise", "4": "reinvestissement", "5": "reinvestissement" },
+    "modes": { "1": "LÉ", "2": "LÉ", "3": "LÉO" },
+    "certain": true,
+    "remarque": ""
+  },
+  {
+    "id": "FRA-PRE-252-c",
+    "page": 31,
+    "texte": "la quête d’équilibre marquée davantage par l’évolution du personnage (ex. : Ru, Kim Thuy)",
+    "progression": { "1": null, "2": null, "3": "apprentissage", "4": "maitrise", "5": "maitrise" },
+    "modes": { "3": "LÉO", "4": "LÉ", "5": "LÉO" },
+    "certain": false,
+    "remarque": "Étoiles en 4e et 5e secondaire (roman psychologique/initiatique), précédées d'une flèche en 3e."
+  },
+  {
+    "id": "FRA-PRE-253-a",
+    "page": 31,
+    "texte": "ii. la séquence narrative : situation initiale, élément déclencheur, actions, réactions et évènements, dénouement",
+    "progression": { "1": "maitrise", "2": "reinvestissement", "3": "reinvestissement", "4": "reinvestissement", "5": "reinvestissement" },
+    "modes": { "1": "LÉO" },
+    "certain": true,
+    "remarque": ""
+  },
+  {
+    "id": "FRA-PRE-253-b",
+    "page": 31,
+    "texte": "la présence de la situation finale, ou d’une morale ou des deux",
+    "progression": { "1": "maitrise", "2": "maitrise", "3": "apprentissage", "4": "reinvestissement", "5": "reinvestissement" },
+    "modes": { "1": "LÉO", "2": "LÉO", "3": "LO" },
+    "certain": false,
+    "remarque": "Étoiles en 1re et 2e secondaire (fable en 2e), flèche en 3e (LO), puis réinvestissement."
+  },
+  {
+    "id": "FRA-PRE-254-a",
+    "page": 31,
+    "texte": "iii. le déroulement des évènements SITUER DANS LE TEMPS 1.2; 3",
+    "progression": { "1": null, "2": null, "3": null, "4": null, "5": null },
+    "modes": {},
+    "certain": true,
+    "remarque": "Ligne d'en-tête."
+  },
+  {
+    "id": "FRA-PRE-254-b",
+    "page": 31,
+    "texte": "l’ordre chronologique",
+    "progression": { "1": "maitrise", "2": "reinvestissement", "3": "reinvestissement", "4": "reinvestissement", "5": "reinvestissement" },
+    "modes": { "1": "LÉO" },
+    "certain": true,
+    "remarque": ""
+  },
+  {
+    "id": "FRA-PRE-254-c",
+    "page": 31,
+    "texte": "les ruptures dans la chronologie (retour en arrière, anticipation) et leurs effets",
+    "progression": { "1": "apprentissage", "2": "maitrise", "3": "maitrise", "4": "maitrise", "5": "maitrise" },
+    "modes": { "1": "L", "2": "LÉO", "3": "LÉO", "4": "LÉ", "5": "LÉO" },
+    "certain": false,
+    "remarque": "L'index (p. 76, chronologie) indique N 2.2c de la 1re à la 5e secondaire."
+  },
+  {
+    "id": "FRA-PRE-254-d",
+    "page": 31,
+    "texte": "les modifications de l’ordre typique des étapes de la séquence et leurs effets",
+    "progression": { "1": null, "2": null, "3": null, "4": null, "5": null },
+    "modes": {},
+    "certain": true,
+    "remarque": "Ligne d'en-tête."
+  },
+  {
+    "id": "FRA-PRE-254-e",
+    "page": 31,
+    "texte": "ouverture du récit par l’élément déclencheur, le dénouement ou la situation finale (ex. : La route de Chlifa, Michèle Marineau)",
+    "progression": { "1": null, "2": null, "3": "maitrise", "4": "apprentissage", "5": "maitrise" },
+    "modes": { "3": "LO", "4": "ÉO", "5": "L" },
+    "certain": false,
+    "remarque": "Étoile en 3e (LO), flèche en 4e (ÉO) et étoile en 5e (L)."
+  },
+  {
+    "id": "FRA-PRE-260",
+    "page": 32,
+    "texte": "iv. l’insertion de séquences argumentatives (ex. : La Peste, Albert Camus)",
+    "progression": { "1": null, "2": null, "3": null, "4": "maitrise", "5": "maitrise" },
+    "modes": { "4": "L", "5": "LO" },
+    "certain": true,
+    "remarque": ""
+  },
+  {
+    "id": "FRA-PRE-264",
+    "page": 32,
+    "texte": "i. des caractéristiques de genres (ou des écarts par rapport à un genre)",
+    "progression": { "1": "maitrise", "2": "maitrise", "3": "maitrise", "4": "maitrise", "5": "maitrise" },
+    "modes": { "1": "L", "2": "L", "3": "LO", "4": "L", "5": "LO" },
+    "certain": true,
+    "remarque": "Confirmé par l'index (p. 74, Genres de textes : N 2.2g de la 1re à la 5e secondaire)."
+  },
+  {
+    "id": "FRA-PRE-265-a",
+    "page": 32,
+    "texte": "ii. des critères d’appréciation",
+    "progression": { "1": "apprentissage", "2": "maitrise", "3": "maitrise", "4": "maitrise", "5": "maitrise" },
+    "modes": { "1": "L", "2": "L", "3": "LO", "4": "L", "5": "LO" },
+    "certain": true,
+    "remarque": "Confirmé par l'index (p. 71, Appréciation : N 2.2g de la 2e à la 5e secondaire)."
+  },
+  {
+    "id": "FRA-PRE-265-b",
+    "page": 32,
+    "texte": "2.3. Dégager du récit la thématique et la vision du monde (P1 : 105) (P2 : 51, 95-99, 150)",
+    "progression": { "1": null, "2": null, "3": null, "4": null, "5": null },
+    "modes": {},
+    "certain": true,
+    "remarque": "Titre de section 2.3."
+  },
+  {
+    "id": "FRA-PRE-267",
+    "page": 32,
+    "texte": "b. Dégager ou traiter les thèmes et les sous-thèmes et les relier au sens général de l’œuvre : création de réseaux de sens autour des caractéristiques des personnages, de leurs actions et de leurs motivations en établissant un lien avec les aspects historiques et socioculturels représentés dans l’œuvre MODALISER 2",
+    "progression": { "1": null, "2": null, "3": "maitrise", "4": "maitrise", "5": "maitrise" },
+    "modes": { "3": "LO", "4": "LÉ", "5": "LÉO" },
+    "certain": true,
+    "remarque": "Confirmé par l'index (p. 76, thème et vision du monde : N 2.3b en 3e, 4e et 5e)."
+  },
+  {
+    "id": "FRA-PRE-268",
+    "page": 32,
+    "texte": "c. Reconnaître la vision du monde du narrateur, sa prise de position révélée par la modalisation des énoncés, les commentaires, la symbolique de certains éléments, les discours rapportés, les séquences argumentatives, etc. MODALISER 2",
+    "progression": { "1": null, "2": null, "3": "apprentissage", "4": "apprentissage", "5": "maitrise" },
+    "modes": { "3": "LO", "4": "L", "5": "LO" },
+    "certain": true,
+    "remarque": "Confirmé par l'index (p. 76, thème et vision du monde : N 2.3c uniquement en 5e secondaire)."
+  },
+  {
+    "id": "FRA-PRE-323",
+    "page": 40,
+    "texte": "des symboles",
+    "progression": { "1": null, "2": null, "3": "apprentissage", "4": "apprentissage", "5": "maitrise" },
+    "modes": { "3": "LO", "4": "LO", "5": "LO" },
+    "certain": false,
+    "remarque": "Flèches en 3e et 4e secondaire (LO), étoile en 5e secondaire (LO)."
+  },
+  {
+    "id": "FRA-PRE-334",
+    "page": 40,
+    "texte": "réguliers (même nombre de pieds) ou libres",
+    "progression": { "1": null, "2": null, "3": "apprentissage", "4": "maitrise", "5": "maitrise" },
+    "modes": { "3": "LO", "4": "LO", "5": "LO" },
+    "certain": false,
+    "remarque": "Confirmé par l'index (p. 78, rythme et sonorité : P 2.1b en 3e, 4e et 5e)."
+  },
+  {
+    "id": "FRA-PRE-344",
+    "page": 41,
+    "texte": "particulière (ex. : le mot dessiné, le calligramme) et son lien avec le sens général du poème",
+    "progression": { "1": "apprentissage", "2": "maitrise", "3": "maitrise", "4": "reinvestissement", "5": "reinvestissement" },
+    "modes": { "1": "LO", "2": "LO", "3": "LO" },
+    "certain": false,
+    "remarque": "Flèche en 1re (LO), étoiles en 2e et 3e (LO), puis réinvestissement en 4e et 5e."
+  },
+  {
+    "id": "FRA-PRE-345",
+    "page": 41,
+    "texte": "l’enjambement, le rejet et le lien avec le sens",
+    "progression": { "1": null, "2": null, "3": "apprentissage", "4": "apprentissage", "5": "maitrise" },
+    "modes": { "3": "LO", "4": "LO", "5": "LO" },
+    "certain": false,
+    "remarque": "Confirmé par l'index (p. 77, marques et moyens graphiques : P 2.1c en 5e)."
+  },
+  {
+    "id": "FRA-PRE-353-a",
+    "page": 41,
+    "texte": "iii. les procédés poétiques utilisés par le poète (le langage poétique)",
+    "progression": { "1": null, "2": null, "3": null, "4": null, "5": null },
+    "modes": {},
+    "certain": true,
+    "remarque": "Ligne d'en-tête."
+  },
+  {
+    "id": "FRA-PRE-353-b",
+    "page": 41,
+    "texte": "le choix des mots et leurs agencements, la structure, le rythme et la sonorité du poème (voir 2.1)",
+    "progression": { "1": "apprentissage", "2": "maitrise", "3": "maitrise", "4": "maitrise", "5": "reinvestissement" },
+    "modes": { "1": "LO", "2": "LO", "3": "LO", "4": "LO" },
+    "certain": false,
+    "remarque": "Confirmé par l'index (p. 78, choix et agencement des mots : P 2.2b en 2e, 3e et 4e, suivi du réinvestissement en 5e)."
+  },
+  {
+    "id": "FRA-PRE-353-c",
+    "page": 41,
+    "texte": "les marques ou l’absence de marques énonciatives qui désignent l’énonciateur ou le rapport entre l’énonciateur et le destinataire et le lecteur-auditeur",
+    "progression": { "1": null, "2": "apprentissage", "3": "maitrise", "4": "maitrise", "5": "reinvestissement" },
+    "modes": { "2": "LO", "3": "LO", "4": "LO" },
+    "certain": true,
+    "remarque": "Confirmé par l'index (p. 76, marques énonciatives : P 2.2b en 3e et 4e)."
+  },
+  {
+    "id": "FRA-DEU-015",
+    "page": 45,
+    "texte": "variété de langue (ex. : automobile, voiture, bagnole, bazou)",
+    "progression": { "1": null, "2": null, "3": "maitrise", "4": "maitrise", "5": "reinvestissement" },
+    "modes": { "3": "LÉO", "4": "LÉO" },
+    "certain": true,
+    "remarque": "Confirmé par l'index (p. 80, Variétés de langue : nc 1.2b en 3e et 4e)."
+  },
+  {
+    "id": "FRA-DEU-023",
+    "page": 46,
+    "texte": "union de mots avec ou sans trait d’union (ex. : porte-bonheur, planche à neige)",
+    "progression": { "1": "maitrise", "2": "reinvestissement", "3": "maitrise", "4": "reinvestissement", "5": "reinvestissement" },
+    "modes": { "1": "LÉ", "3": "LÉ" },
+    "certain": true,
+    "remarque": "Confirmé par l'index (p. 75, composition des mots : nc 1.2c en 1re et 3e)."
+  },
+  {
+    "id": "FRA-DEU-026-a",
+    "page": 46,
+    "texte": "télescopage, abrègement (ex. : bibliobus, courriel, prof, télé)",
+    "progression": { "1": "maitrise", "2": "maitrise", "3": "reinvestissement", "4": "reinvestissement", "5": "reinvestissement" },
+    "modes": { "1": "LÉO", "2": "LÉO" },
+    "certain": true,
+    "remarque": "Confirmé par l'index (p. 75, néologisme, télescopage : nc 1.2c en 1re et 2e)."
+  },
+  {
+    "id": "FRA-DEU-026-b",
+    "page": 46,
+    "texte": "distinction entre l’emploi à l’oral et l’emploi à l’écrit",
+    "progression": { "1": null, "2": null, "3": null, "4": "maitrise", "5": "reinvestissement" },
+    "modes": { "4": "LÉO" },
+    "certain": true,
+    "remarque": "Confirmé par l'index (p. 75, oral/écrit : nc 1.2c en 4e)."
+  },
+  {
+    "id": "FRA-DEU-029",
+    "page": 46,
+    "texte": "effets de sens (ex. : technicité, impression d’avant-garde, effet de mode)",
+    "progression": { "1": null, "2": null, "3": null, "4": "apprentissage", "5": "maitrise" },
+    "modes": { "4": "LÉO", "5": "LÉO" },
+    "certain": true,
+    "remarque": "Le mot « twittlittérature ) » appartenait à la ligne précédente (création de noms nouveaux : néologisme)."
+  },
+  {
+    "id": "FRA-DEU-030-a",
+    "page": 46,
+    "texte": "emprunt (ex. : wapiti, yogourt, rafle) et emploi de régionalismes (ex. : débarbouillette, dispendieux, poutine); emprunt critiqué et anglicisme (ex. : chum, line up, appointement)",
+    "progression": { "1": null, "2": null, "3": "maitrise", "4": "maitrise", "5": "maitrise" },
+    "modes": { "3": "LÉO", "4": "LÉO", "5": "LÉO" },
+    "certain": true,
+    "remarque": "Confirmé par l'index (p. 75, emprunt, anglicisme : nc 1.2c en 3e, 4e et 5e)."
+  },
+  {
+    "id": "FRA-DEU-030-b",
+    "page": 46,
+    "texte": "1.3. Reconnaître ou utiliser le pronom pour nommer",
+    "progression": { "1": null, "2": null, "3": null, "4": null, "5": null },
+    "modes": {},
+    "certain": true,
+    "remarque": "Titre de section 1.3."
+  },
+  {
+    "id": "FRA-DEU-033-a",
+    "page": 46,
+    "texte": "c. Les pronoms je ou il comme seul nom de narrateur dans un récit",
+    "progression": { "1": null, "2": null, "3": null, "4": "maitrise", "5": "reinvestissement" },
+    "modes": { "4": "É" },
+    "certain": true,
+    "remarque": "Confirmé par l'index (p. 76, narrateur : nc 1.3c en 4e)."
+  },
+  {
+    "id": "FRA-DEU-033-b",
+    "page": 46,
+    "texte": "1.4. Reconnaître ou utiliser le verbe à l’infinitif pour nommer (ex. : saler, poivrer)",
+    "progression": { "1": "maitrise", "2": "reinvestissement", "3": "reinvestissement", "4": "reinvestissement", "5": "reinvestissement" },
+    "modes": { "1": "LÉO" },
+    "certain": true,
+    "remarque": "Confirmé par l'index (p. 80, Verbe/GV : nc 1.4 en 1re)."
+  },
+  {
+    "id": "FRA-DEU-040",
+    "page": 47,
+    "texte": "b. Le nom noyau et son déterminant 1",
+    "progression": { "1": null, "2": null, "3": null, "4": null, "5": null },
+    "modes": {},
+    "certain": true,
+    "remarque": "Ligne d'en-tête ; le P appartenait à la ligne suivante."
+  },
+  {
+    "id": "FRA-DEU-041-a",
+    "page": 47,
+    "texte": "i. l’identification du nom par ses caractéristiques 2",
+    "progression": { "1": null, "2": null, "3": null, "4": null, "5": null },
+    "modes": {},
+    "certain": true,
+    "remarque": "Ligne d'en-tête."
+  },
+  {
+    "id": "FRA-DEU-041-b",
+    "page": 47,
+    "texte": "syntaxiques : non effaçable; précédé d’un déterminant; donneur de genre, de nombre, de personne",
+    "progression": { "1": "maitrise", "2": "reinvestissement", "3": "reinvestissement", "4": "reinvestissement", "5": "reinvestissement" },
+    "modes": { "1": "LÉ" },
+    "certain": true,
+    "remarque": "Cellule fusionnée verticalement couvrant les caractéristiques syntaxiques, morphologiques et sémantiques."
+  },
+  {
+    "id": "FRA-DEU-041-c",
+    "page": 47,
+    "texte": "morphologiques : variable en nombre; forme simple ou complexe",
+    "progression": { "1": "maitrise", "2": "reinvestissement", "3": "reinvestissement", "4": "reinvestissement", "5": "reinvestissement" },
+    "modes": { "1": "LÉ" },
+    "certain": true,
+    "remarque": ""
+  },
+  {
+    "id": "FRA-DEU-041-d",
+    "page": 47,
+    "texte": "sémantiques : traits (ex. : commun/propre; animé/inanimé)",
+    "progression": { "1": "maitrise", "2": "reinvestissement", "3": "reinvestissement", "4": "reinvestissement", "5": "reinvestissement" },
+    "modes": { "1": "LÉ" },
+    "certain": true,
+    "remarque": ""
+  },
+  {
+    "id": "FRA-DEU-042-a",
+    "page": 47,
+    "texte": "ii. la variation du nombre du nom",
+    "progression": { "1": "reinvestissement", "2": "reinvestissement", "3": "reinvestissement", "4": "reinvestissement", "5": "reinvestissement" },
+    "modes": {},
+    "certain": true,
+    "remarque": "Marqué P au primaire et suivi d'une barre bleue de réinvestissement de la 1re à la 5e secondaire."
+  },
+  {
+    "id": "FRA-DEU-042-b",
+    "page": 47,
+    "texte": "nombre du nom précédé d’un déterminant complexe (ex. : bien des personnes, pas une feuille, peu d’amis)",
+    "progression": { "1": "maitrise", "2": "maitrise", "3": "reinvestissement", "4": "reinvestissement", "5": "reinvestissement" },
+    "modes": { "1": "LÉ", "2": "LÉ" },
+    "certain": true,
+    "remarque": ""
+  },
+  {
+    "id": "FRA-DEU-042-c",
+    "page": 47,
+    "texte": "nombre du nom collectif (ex. : la foule, sans s) et du nom qui le suit (ex. : le troupeau de vaches, une horde de touristes)",
+    "progression": { "1": "maitrise", "2": "maitrise", "3": "reinvestissement", "4": "reinvestissement", "5": "reinvestissement" },
+    "modes": { "1": "LÉ", "2": "LÉ" },
+    "certain": true,
+    "remarque": ""
+  },
+  {
+    "id": "FRA-DEU-043-a",
+    "page": 47,
+    "texte": "iii. l’identification du déterminant par ses caractéristiques",
+    "progression": { "1": null, "2": null, "3": null, "4": null, "5": null },
+    "modes": {},
+    "certain": true,
+    "remarque": "Ligne d'en-tête."
+  },
+  {
+    "id": "FRA-DEU-043-b",
+    "page": 47,
+    "texte": "syntaxiques : obligatoirement devant le nom; receveur de genre et de nombre du nom donneur",
+    "progression": { "1": "maitrise", "2": "reinvestissement", "3": "reinvestissement", "4": "reinvestissement", "5": "reinvestissement" },
+    "modes": { "1": "LÉ" },
+    "certain": true,
+    "remarque": "Cellule fusionnée verticalement couvrant les caractéristiques syntaxiques, morphologiques et sémantiques."
+  },
+  {
+    "id": "FRA-DEU-043-c",
+    "page": 47,
+    "texte": "morphologiques : variable; forme simple ou complexe",
+    "progression": { "1": "maitrise", "2": "reinvestissement", "3": "reinvestissement", "4": "reinvestissement", "5": "reinvestissement" },
+    "modes": { "1": "LÉ" },
+    "certain": true,
+    "remarque": ""
+  },
+  {
+    "id": "FRA-DEU-043-d",
+    "page": 47,
+    "texte": "sémantiques : défini, numéral, démonstratif, etc.",
+    "progression": { "1": "maitrise", "2": "reinvestissement", "3": "reinvestissement", "4": "reinvestissement", "5": "reinvestissement" },
+    "modes": { "1": "LÉ" },
+    "certain": true,
+    "remarque": ""
+  },
+  {
+    "id": "FRA-DEU-044-a",
+    "page": 47,
+    "texte": "iv. l’accord du déterminant",
+    "progression": { "1": null, "2": null, "3": null, "4": null, "5": null },
+    "modes": {},
+    "certain": true,
+    "remarque": "Ligne d'en-tête."
+  },
+  {
+    "id": "FRA-DEU-044-b",
+    "page": 47,
+    "texte": "accord des déterminants receveurs du genre et du nombre du nom donneur (ex. : cette fille, certaines fleurs, leurs enfants); les déterminants complexes (ex. : toutes les femmes)",
+    "progression": { "1": "maitrise", "2": "maitrise", "3": "reinvestissement", "4": "reinvestissement", "5": "reinvestissement" },
+    "modes": { "1": "LÉO", "2": "ÉO" },
+    "certain": true,
+    "remarque": ""
+  },
+  {
+    "id": "FRA-DEU-044-c",
+    "page": 47,
+    "texte": "correction des marques erronées de genre et de nombre à l’oral (ex. : une autobus)",
+    "progression": { "1": "maitrise", "2": "maitrise", "3": "reinvestissement", "4": "reinvestissement", "5": "reinvestissement" },
+    "modes": { "1": "LÉO", "2": "ÉO" },
+    "certain": true,
+    "remarque": "Confirmé par l'index (p. 74, Langue orale : nc 2.1b en 1re et 2e)."
+  },
+  {
+    "id": "FRA-DEU-092",
+    "page": 50,
+    "texte": "a. Les groupes dans la fonction d’attribut du sujet SITUER DANS LE TEMPS 2.4",
+    "progression": { "1": "maitrise", "2": "maitrise", "3": "reinvestissement", "4": "maitrise", "5": "reinvestissement" },
+    "modes": { "1": "LÉ", "2": "LÉ", "4": "LÉ" },
+    "certain": true,
+    "remarque": "Confirmé par l'index (p. 70 et 80 : nc 4.2a en 1re, 2e et 4e secondaire)."
+  },
+  {
+    "id": "FRA-DEU-097",
+    "page": 50,
+    "texte": "Effacement possible des éléments identiques et de même fonction syntaxique (ex. : Des documents sonores et des documents visuels sont disponibles à la bibliothèque.)",
+    "progression": { "1": null, "2": null, "3": null, "4": "apprentissage", "5": "maitrise" },
+    "modes": { "4": "LÉ", "5": "LÉO" },
+    "certain": true,
+    "remarque": "Confirmé par l'index (p. 73, Coordination : nc 4.4a en 5e)."
+  },
+  {
+    "id": "FRA-DEU-108",
+    "page": 51,
+    "texte": "qui reprend un nom collectif (ex. : La foule était calme; elle s’est dispersée rapidement.)",
+    "progression": { "1": "maitrise", "2": "maitrise", "3": "reinvestissement", "4": "reinvestissement", "5": "reinvestissement" },
+    "modes": { "1": "LÉO", "2": "ÉO" },
+    "certain": false,
+    "remarque": "Le P appartenait à la ligne précédente (le pronom personnel de 3e personne sujet). Pour le nom collectif, étoiles en 1re et 2e suivies de réinvestissement."
+  },
+  {
+    "id": "FRA-DEU-114",
+    "page": 51,
+    "texte": "ii. par un GAdv : ici, là, là-bas (ex. : Elle passe ses étés sur le bord du fleuve, là, le temps passe moins vite.)",
+    "progression": { "1": "apprentissage", "2": "maitrise", "3": "reinvestissement", "4": "reinvestissement", "5": "reinvestissement" },
+    "modes": { "1": "LO", "2": "LÉO" },
+    "certain": true,
+    "remarque": "Confirmé par l'index (p. 70, Adverbe/GAdv : nc 5.1b uniquement en 2e secondaire)."
+  },
+  {
+    "id": "FRA-DEU-135",
+    "page": 53,
+    "texte": "subordonnée complétive complément de l’adjectif (3e) ou du nom (5e) (voir 4.1)",
+    "progression": { "1": null, "2": null, "3": "maitrise", "4": "reinvestissement", "5": "maitrise" },
+    "modes": { "3": "LÉ", "5": "LÉ" },
+    "certain": true,
+    "remarque": "Confirmé par l'index (p. 79, complétive complément de l'adjectif et du nom : nc 6.2b en 3e et 5e)."
+  },
+  {
+    "id": "FRA-DEU-136-a",
+    "page": 53,
+    "texte": "subordonnée complément de phrase",
+    "progression": { "1": null, "2": null, "3": null, "4": null, "5": null },
+    "modes": {},
+    "certain": true,
+    "remarque": "Ligne d'en-tête."
+  },
+  {
+    "id": "FRA-DEU-136-b",
+    "page": 53,
+    "texte": "à valeur temporelle SITUER DANS LE TEMPS 2.3",
+    "progression": { "1": "maitrise", "2": "reinvestissement", "3": "reinvestissement", "4": "reinvestissement", "5": "reinvestissement" },
+    "modes": { "1": "LÉ" },
+    "certain": true,
+    "remarque": "Confirmé par l'index (p. 79, Subordonnée exprimant le temps : nc 6.2b en 1re)."
+  },
+  {
+    "id": "FRA-DEU-136-c",
+    "page": 53,
+    "texte": "autres valeurs (ex. : but, comparaison, conséquence, concession)",
+    "progression": { "1": null, "2": null, "3": "maitrise", "4": "maitrise", "5": "maitrise" },
+    "modes": { "3": "LÉ", "4": "LÉ", "5": "LÉ" },
+    "certain": true,
+    "remarque": "Confirmé par l'index (p. 79, Subordonnée exprimant but, comparaison, conséquence, concession : nc 6.2b en 3e, 4e et 5e)."
+  },
+  {
+    "id": "FRA-DEU-157",
+    "page": 56,
+    "texte": "b. Les évènements les uns par rapport aux autres : l’antériorité, la simultanéité, la postériorité (ex. : la veille [et non hier], le lendemain [et non demain], le jour même, le samedi d’avant, cette année-là, deux ans plus tard, pendant que)",
+    "progression": { "1": null, "2": "maitrise", "3": "maitrise", "4": "reinvestissement", "5": "reinvestissement" },
+    "modes": { "2": "LÉO", "3": "LÉO" },
+    "certain": true,
+    "remarque": "Confirmé par l'index (p. 76, chronologie : s 1.2b en 2e et 3e)."
+  },
+  {
+    "id": "FRA-DEU-168-a",
+    "page": 56,
+    "texte": "cas particuliers",
+    "progression": { "1": null, "2": null, "3": null, "4": null, "5": null },
+    "modes": {},
+    "certain": true,
+    "remarque": "Ligne d'en-tête."
+  },
+  {
+    "id": "FRA-DEU-168-b",
+    "page": 56,
+    "texte": "plusieurs sujets de 3e personne, coordonnés par des coordonnants exprimant l’addition",
+    "progression": { "1": "maitrise", "2": "maitrise", "3": "reinvestissement", "4": "reinvestissement", "5": "reinvestissement" },
+    "modes": { "1": "LÉO", "2": "LÉO" },
+    "certain": true,
+    "remarque": ""
+  },
+  {
+    "id": "FRA-DEU-168-c",
+    "page": 56,
+    "texte": "plusieurs sujets de 3e personne, coordonnés par des coordonnants exprimant le choix",
+    "progression": { "1": null, "2": null, "3": "maitrise", "4": "reinvestissement", "5": "reinvestissement" },
+    "modes": { "3": "ÉO" },
+    "certain": true,
+    "remarque": ""
+  },
+  {
+    "id": "FRA-DEU-168-d",
+    "page": 56,
+    "texte": "plusieurs sujets constitués de noms et de pronoms de personnes différentes",
+    "progression": { "1": null, "2": "apprentissage", "3": "maitrise", "4": "reinvestissement", "5": "reinvestissement" },
+    "modes": { "2": "LÉO", "3": "LÉO" },
+    "certain": true,
+    "remarque": ""
+  },
+  {
+    "id": "FRA-DEU-171-a",
+    "page": 57,
+    "texte": "cas particuliers",
+    "progression": { "1": null, "2": null, "3": null, "4": null, "5": null },
+    "modes": {},
+    "certain": true,
+    "remarque": "Ligne d'en-tête."
+  },
+  {
+    "id": "FRA-DEU-171-b",
+    "page": 57,
+    "texte": "le complément direct est le pronom en ou le, substitué à une phrase ou une partie de texte",
+    "progression": { "1": null, "2": null, "3": null, "4": null, "5": "maitrise" },
+    "modes": { "5": "LÉO" },
+    "certain": false,
+    "remarque": "L'index (p. 70, Accord du participe passé avec avoir : s 2.1b) indique un apprentissage systématique en 2e (règle générale), 4e et 5e secondaire."
+  },
+  {
+    "id": "FRA-DEU-171-c",
+    "page": 57,
+    "texte": "le participe passé est suivi d’un verbe à l’infinitif",
+    "progression": { "1": null, "2": null, "3": null, "4": "maitrise", "5": "maitrise" },
+    "modes": { "4": "LÉO", "5": "LÉO" },
+    "certain": false,
+    "remarque": "Apprentissage systématique en 4e et 5e secondaire."
+  },
+  {
+    "id": "FRA-DEU-171-d",
+    "page": 57,
+    "texte": "le participe passé des verbes pronominaux",
+    "progression": { "1": null, "2": null, "3": null, "4": "maitrise", "5": "maitrise" },
+    "modes": { "4": "LÉO", "5": "LÉO" },
+    "certain": false,
+    "remarque": "Apprentissage systématique en 4e et 5e secondaire."
+  },
+  {
+    "id": "FRA-DEU-171-e",
+    "page": 57,
+    "texte": "le participe passé des verbes impersonnels : invariable",
+    "progression": { "1": null, "2": null, "3": null, "4": "maitrise", "5": "reinvestissement" },
+    "modes": { "4": "LÉO" },
+    "certain": false,
+    "remarque": "Apprentissage systématique au 2e cycle."
+  },
+  {
+    "id": "FRA-DEU-177",
+    "page": 57,
+    "texte": "courants (ex. : être, sembler, demeurer, etc.)",
+    "progression": { "1": "reinvestissement", "2": "reinvestissement", "3": "reinvestissement", "4": "reinvestissement", "5": "reinvestissement" },
+    "modes": {},
+    "certain": true,
+    "remarque": "Marqué P au primaire et suivi d'une barre bleue de réinvestissement sur les 5 années."
+  },
+  {
+    "id": "FRA-DEU-247",
+    "page": 61,
+    "texte": "a. Le GV prédicat dans des phrases avec un seul verbe conjugué à un temps simple de l’indicatif",
+    "progression": { "1": "reinvestissement", "2": "reinvestissement", "3": "reinvestissement", "4": "reinvestissement", "5": "reinvestissement" },
+    "modes": {},
+    "certain": true,
+    "remarque": "Marqué P au primaire et suivi d'une barre bleue de réinvestissement de la 1re à la 5e secondaire."
+  },
+  {
+    "id": "FRA-DEU-270",
+    "page": 63,
+    "texte": "i. la citation, le dialogue, le monologue intérieur, le mot entre guillemets",
+    "progression": { "1": "maitrise", "2": "maitrise", "3": "maitrise", "4": "reinvestissement", "5": "reinvestissement" },
+    "modes": { "1": "LO", "2": "LO", "3": "LO" },
+    "certain": true,
+    "remarque": "Confirmé par l'index (p. 73, Discours rapportés : dr 2.1b en 1re, 2e et 3e)."
+  },
+  {
+    "id": "FRA-DEU-272",
+    "page": 64,
+    "texte": "a. Un verbe introducteur suivi des propos rapportés et une ponctuation particulière : les deux-points et les guillemets, le point avant la fermeture des guillemets (ex. : Le proverbe dit : « Il ne faut pas vendre la peau de l’ours avant de l’avoir tué. »)",
+    "progression": { "1": "maitrise", "2": "maitrise", "3": "reinvestissement", "4": "reinvestissement", "5": "reinvestissement" },
+    "modes": { "1": "LÉ", "2": "LÉ" },
+    "certain": true,
+    "remarque": "Marqué P au primaire ; étoiles en 1re et 2e secondaire suivies de réinvestissement."
+  },
+  {
+    "id": "FRA-DEU-277",
+    "page": 64,
+    "texte": "a. Le retrait à la ligne et le tiret",
+    "progression": { "1": "reinvestissement", "2": "reinvestissement", "3": "reinvestissement", "4": "reinvestissement", "5": "reinvestissement" },
+    "modes": {},
+    "certain": true,
+    "remarque": "Marqué P au primaire et suivi d'une barre bleue de réinvestissement de la 1re à la 5e secondaire (absent de l'index dr 2.3a)."
+  },
+  {
+    "id": "FRA-DEU-283",
+    "page": 64,
+    "texte": "d. Le non-verbal",
+    "progression": { "1": null, "2": "maitrise", "3": "reinvestissement", "4": "reinvestissement", "5": "reinvestissement" },
+    "modes": { "2": "O" },
+    "certain": true,
+    "remarque": "Confirmé par l'index (p. 75, non-verbal, prosodie : dr 2.4d uniquement en 2e secondaire)."
+  },
+  {
+    "id": "FRA-DEU-290-a",
+    "page": 65,
+    "texte": "b. Un groupe incident (ex. : au dire des experts, selon les témoins) ou une phrase incidente (ex. : Il est, tout le monde le dit, un candidat sérieux.); ponctuation MODALISER 1",
+    "progression": { "1": null, "2": "maitrise", "3": "maitrise", "4": "reinvestissement", "5": "reinvestissement" },
+    "modes": { "2": "L", "3": "LÉO" },
+    "certain": true,
+    "remarque": "Confirmé par l'index (p. 74, Groupe incident et phrase incidente : dr 3.2b en 2e et 3e)."
+  },
+  {
+    "id": "FRA-DEU-290-b",
+    "page": 65,
+    "texte": "3.3. Reconnaître le discours indirect libre : les propos sont rapportés dans une phrase indépendante généralement sans ponctuation particulière (ex. : Claire informe son père. Elle sera en retard, sa tente a été inondée, elle a attendu les secours.)",
+    "progression": { "1": null, "2": null, "3": null, "4": null, "5": "maitrise" },
+    "modes": { "5": "L" },
+    "certain": true,
+    "remarque": "Confirmé par l'index (p. 73, discours direct, indirect, indirect libre : dr 3.3 uniquement en 5e secondaire)."
+  },
+  {
+    "id": "FRA-DEU-323",
+    "page": 68,
+    "texte": "ii. la comparaison et la métaphore courante ou littéraire (ex. : il se sent comme un poisson dans l’eau; ce politicien est un vrai renard)",
+    "progression": { "1": "maitrise", "2": "maitrise", "3": "reinvestissement", "4": "apprentissage", "5": "apprentissage" },
+    "modes": { "1": "LÉO", "2": "LÉO", "4": "LÉO", "5": "LÉO" },
+    "certain": true,
+    "remarque": "Confirmé par l'index (p. 74, Figures de style : m 2.1c en 1re et 2e) suivi d'un réinvestissement en 3e et de flèches en 4e et 5e."
+  },
+  {
+    "id": "FRA-DEU-338-a",
+    "page": 69,
+    "texte": "2.6. Reconnaître le sens du non-verbal et de la prosodie ou y recourir (ex. : ton moqueur, enflammé, autoritaire; hauteur de la voix, en particulier dans l’exclamation)",
+    "progression": { "1": null, "2": null, "3": "apprentissage", "4": "maitrise", "5": "reinvestissement" },
+    "modes": { "3": "LO", "4": "O" },
+    "certain": true,
+    "remarque": "Confirmé par l'index (p. 75, non-verbal, prosodie : m 2.6 uniquement en 4e secondaire)."
+  },
+  {
+    "id": "FRA-DEU-338-b",
+    "page": 69,
+    "texte": "2.7. Reconnaître ou choisir des marques graphiques (ex. : capitales, gras, police, soulignement)",
+    "progression": { "1": null, "2": null, "3": "apprentissage", "4": "maitrise", "5": "reinvestissement" },
+    "modes": { "3": "L", "4": "LÉ" },
+    "certain": true,
+    "remarque": "Confirmé par l'index (p. 77, marques et moyens graphiques : m 2.7 uniquement en 4e secondaire)."
+  }
+]

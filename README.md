@@ -49,7 +49,7 @@ La tentative de Gemini (`gemini/resultats/inventaire-pfeq-gemini-OBSOLETE.csv`) 
 | Ordre | Validées (contrôle de logique sans erreur ou cas conformes au document) | À adapter |
 |---|---|---|
 | Primaire | Français, mathématique, science et technologie, univers social, éducation physique, art dramatique, arts plastiques, danse, musique, culture et citoyenneté québécoise, anglais langue seconde | — |
-| Secondaire | Art dramatique, arts plastiques, danse, éducation physique, musique, français langue seconde (base et enrichi), intégration linguistique, mathématique, sciences (ST, STE, ATS, SE), chimie, physique, univers social (géographie, histoire et éducation à la citoyenneté, géographie culturelle, histoire du 20e siècle, monde contemporain), anglais langue seconde (base et enrichi), espagnol, culture et citoyenneté québécoise | Français (pages à image) |
+| Secondaire | Art dramatique, arts plastiques, danse, éducation physique, musique, français langue seconde (base et enrichi), intégration linguistique, mathématique, sciences (ST, STE, ATS, SE), chimie, physique, univers social (géographie, histoire et éducation à la citoyenneté, géographie culturelle, histoire du 20e siècle, monde contemporain), anglais langue seconde (base et enrichi), espagnol, culture et citoyenneté québécoise, français | — |
 
 Progression : `apprentissage` (flèche), `maitrise` (étoile), `reinvestissement` (case bleue), `null` (vide).
 
@@ -118,6 +118,8 @@ python3 -I outils/extraire_pda_chimie_physique_sec.py PDA-physique.pdf PHY donne
 ```
 
 En mathématique, les 16 rangées à formule empilée, à racine dessinée ou à texte en image sont relues à la main (table `CORRECTIONS` du script). Le contrôle de logique laisse 17 écarts, tous conformes au document (ex. en probabilités, la séquence CST est vide en 4e et bleue en 5e).
+
+**Français au secondaire, vérification visuelle (11 novembre 2026)** : les 61 savoirs signalés ont été lus par Gemini (`gemini/10`), puis recoupés avec une lecture des cellules par pixels (`outils/recouper_verification_fra_sec.py`). 72 lignes concordaient ; les 44 autres ont été tranchées en regardant la page (la lecture par pixels avait raison dans la plupart des cas ; Gemini s'appuyait parfois sur l'index du document plutôt que sur le tableau). Résultat : 746 savoirs, aucun à vérifier. Détail : `gemini/resultats/10-pda-fra-secondaire-recoupement.json`.
 
 Une ligne de Gemini est acceptée seulement si ses cases bleues et ses flèches concordent avec le PDF et si sa séquence est logique.
 
