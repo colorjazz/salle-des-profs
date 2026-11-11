@@ -38,6 +38,7 @@ La tentative de Gemini (`gemini/resultats/inventaire-pfeq-gemini-OBSOLETE.csv`) 
 | `precision-mc4-secondaire.json`, `precision-mc2-secondaire.json` | Monde contemporain, 5e : 197 énoncés, 5 thèmes (4 unités) ; 124 énoncés, 3 thèmes (2 unités, sous-ensemble exact de la version à 4 unités) |
 | `pda-alsb-secondaire.json`, `pda-alse-secondaire.json` | Anglais, langue seconde, programmes de base (188 savoirs) et enrichi (212) : 1re à 5e ; `vu_au_primaire` : lettre P du document (78 et 76) |
 | `pda-elt-secondaire.json` | Espagnol, langue tierce : 385 savoirs, 3e à 5e (2e cycle) |
+| `pda-ccq-primaire.json`, `pda-ccq-secondaire.json` | Culture et citoyenneté québécoise (version 2024). `indicateurs` : composante, énoncé, précision, et par cycle `true` (crochet) ou `false` (trait) — 30 au primaire, 44 au secondaire ; `elements_lies_a_la_competence` (primaire : concepts et formes de dialogue par cycle) ; `contenus` par année : orientations, puis sous-thèmes (primaire) ou concepts principaux (secondaire), éléments de contenu obligatoires, notions et exemples, `education_sexualite` au primaire — 47 éléments au primaire, 110 au secondaire |
 | `cadre-fra-primaire.json` | Compétences, critères, pondérations par cycle |
 | `cadre-mat-primaire.json` | Compétences, critères, pondérations par cycle |
 | `programme-hqc-secondaire.json` | Histoire du Québec et du Canada, 3e et 4e secondaire : 8 périodes, concepts, texte officiel de la réalité sociale, 103 thèmes et 427 éléments de connaissances, critères et 7 opérations intellectuelles du cadre (`outils/extraire_hqc.py`) |
@@ -46,8 +47,8 @@ La tentative de Gemini (`gemini/resultats/inventaire-pfeq-gemini-OBSOLETE.csv`) 
 
 | Ordre | Validées (contrôle de logique sans erreur ou cas conformes au document) | À adapter |
 |---|---|---|
-| Primaire | Français, mathématique, science et technologie, univers social, éducation physique, art dramatique, arts plastiques, danse, musique | Anglais, langue seconde (colonne de catégories en plus, pages à image) ; Culture et citoyenneté québécoise (progression par cycle, crochets) |
-| Secondaire | Art dramatique, arts plastiques, danse, éducation physique, musique, français langue seconde (base et enrichi), intégration linguistique, mathématique, sciences (ST, STE, ATS, SE), chimie, physique, univers social (géographie, histoire et éducation à la citoyenneté, géographie culturelle, histoire du 20e siècle, monde contemporain), anglais langue seconde (base et enrichi), espagnol | Français (pages à image), CCQ |
+| Primaire | Français, mathématique, science et technologie, univers social, éducation physique, art dramatique, arts plastiques, danse, musique, culture et citoyenneté québécoise | Anglais, langue seconde (colonne de catégories en plus, pages à image) |
+| Secondaire | Art dramatique, arts plastiques, danse, éducation physique, musique, français langue seconde (base et enrichi), intégration linguistique, mathématique, sciences (ST, STE, ATS, SE), chimie, physique, univers social (géographie, histoire et éducation à la citoyenneté, géographie culturelle, histoire du 20e siècle, monde contemporain), anglais langue seconde (base et enrichi), espagnol, culture et citoyenneté québécoise | Français (pages à image) |
 
 Progression : `apprentissage` (flèche), `maitrise` (étoile), `reinvestissement` (case bleue), `null` (vide).
 
@@ -86,6 +87,13 @@ Univers social : PDA à une ou deux colonnes au 1er cycle, et « Précision des 
 python3 -I outils/extraire_pda_us_sec.py PDA-geographie.pdf GEO donnees/pda-geo-secondaire.json
 python3 -I outils/extraire_pda_us_sec.py PDA-histoire.pdf HEC donnees/pda-hec-secondaire.json
 python3 -I outils/extraire_precisions_us.py Precision.pdf MC4 "Monde contemporain (4 unités)" 5e donnees/precision-mc4-secondaire.json
+```
+
+Culture et citoyenneté québécoise (document de 2024, tout en texte : tableaux découpés d'après les traits de chaque colonne) :
+
+```bash
+python3 -I outils/extraire_ccq.py PDA-ccq-primaire.pdf primaire donnees/pda-ccq-primaire.json
+python3 -I outils/extraire_ccq.py PDA-ccq-secondaire.pdf secondaire donnees/pda-ccq-secondaire.json
 ```
 
 Langues (anglais, espagnol) :

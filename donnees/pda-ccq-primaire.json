@@ -1,0 +1,1093 @@
+{
+  "discipline": "Culture et citoyenneté québécoise",
+  "code_discipline": "CCQ",
+  "ordre": "primaire",
+  "source": "prim.pdf",
+  "version": "2024",
+  "cycles": [
+    "1",
+    "2",
+    "3"
+  ],
+  "legende": {
+    "cycles": "true : visé à ce cycle (crochet) ; false : pas encore (trait)",
+    "contenus": "Par année : orientations, puis éléments de contenu obligatoires et notions et exemples associés",
+    "education_sexualite": "Éléments de contenu spécifiques (obligatoires) en éducation à la sexualité"
+  },
+  "bilan": {
+    "indicateurs": 30,
+    "elements_lies_competence": 21,
+    "annees": 6,
+    "elements_de_contenu": 47
+  },
+  "indicateurs": [
+    {
+      "competence": "",
+      "composante": "Observation des réalités culturelles",
+      "enonce": "Se poser des questions de compréhension",
+      "cycles": {
+        "1": true,
+        "2": true,
+        "3": true
+      },
+      "page": 6,
+      "id": "CCQP-IND-001"
+    },
+    {
+      "competence": "",
+      "composante": "Observation des réalités culturelles",
+      "enonce": "Se poser des questions philosophiques et éthiques",
+      "cycles": {
+        "1": false,
+        "2": true,
+        "3": true
+      },
+      "page": 6,
+      "id": "CCQP-IND-002"
+    },
+    {
+      "competence": "",
+      "composante": "Observation des réalités culturelles",
+      "enonce": "Réaliser des observations dans son environnement culturel immédiat (famille, école)",
+      "cycles": {
+        "1": true,
+        "2": true,
+        "3": true
+      },
+      "page": 6,
+      "id": "CCQP-IND-003"
+    },
+    {
+      "competence": "",
+      "composante": "Observation des réalités culturelles",
+      "enonce": "Réaliser des observations dans son environnement culturel élargi (quartier, communauté, ville, région, etc.)",
+      "cycles": {
+        "1": false,
+        "2": true,
+        "3": true
+      },
+      "page": 6,
+      "id": "CCQP-IND-004"
+    },
+    {
+      "competence": "",
+      "composante": "Observation des réalités culturelles",
+      "enonce": "Réaliser des observations à l’échelle de la société québécoise",
+      "cycles": {
+        "1": false,
+        "2": false,
+        "3": true
+      },
+      "page": 6,
+      "id": "CCQP-IND-005"
+    },
+    {
+      "competence": "",
+      "composante": "Observation des réalités culturelles",
+      "enonce": "Identifier des informations dans des ressources documentaires",
+      "cycles": {
+        "1": true,
+        "2": true,
+        "3": true
+      },
+      "page": 6,
+      "id": "CCQP-IND-006"
+    },
+    {
+      "competence": "",
+      "composante": "Observation des réalités culturelles",
+      "enonce": "Dégager des caractéristiques des réalités culturelles",
+      "cycles": {
+        "1": true,
+        "2": true,
+        "3": true
+      },
+      "page": 6,
+      "id": "CCQP-IND-007"
+    },
+    {
+      "competence": "",
+      "composante": "Observation des réalités culturelles",
+      "enonce": "Comparer des observations et des informations",
+      "cycles": {
+        "1": true,
+        "2": true,
+        "3": true
+      },
+      "page": 6,
+      "id": "CCQP-IND-008"
+    },
+    {
+      "competence": "",
+      "composante": "Observation des réalités culturelles",
+      "enonce": "Estimer la pertinence d’observations et d’informations",
+      "cycles": {
+        "1": false,
+        "2": true,
+        "3": true
+      },
+      "page": 6,
+      "id": "CCQP-IND-009"
+    },
+    {
+      "competence": "",
+      "composante": "Observation des réalités culturelles",
+      "enonce": "Caractériser des relations entre des personnes, des groupes ou des institutions",
+      "cycles": {
+        "1": false,
+        "2": false,
+        "3": true
+      },
+      "page": 6,
+      "id": "CCQP-IND-010"
+    },
+    {
+      "competence": "",
+      "composante": "Compréhension des émotions",
+      "enonce": "Reconnaître différentes émotions",
+      "cycles": {
+        "1": true,
+        "2": true,
+        "3": true
+      },
+      "page": 6,
+      "id": "CCQP-IND-011"
+    },
+    {
+      "competence": "",
+      "composante": "Compréhension des émotions",
+      "enonce": "Associer des réactions à des émotions",
+      "cycles": {
+        "1": true,
+        "2": true,
+        "3": true
+      },
+      "page": 6,
+      "id": "CCQP-IND-012"
+    },
+    {
+      "competence": "",
+      "composante": "Compréhension des émotions",
+      "enonce": "Identifier des déclencheurs possibles des émotions",
+      "cycles": {
+        "1": false,
+        "2": true,
+        "3": true
+      },
+      "page": 6,
+      "id": "CCQP-IND-013"
+    },
+    {
+      "competence": "",
+      "composante": "Compréhension des émotions",
+      "enonce": "Dégager des émotions qui interviennent dans la formation des points de vue",
+      "cycles": {
+        "1": false,
+        "2": false,
+        "3": true
+      },
+      "page": 6,
+      "id": "CCQP-IND-014"
+    },
+    {
+      "competence": "",
+      "composante": "Examen de points de vue",
+      "enonce": "Identifier des divergences ou des tensions",
+      "cycles": {
+        "1": false,
+        "2": true,
+        "3": true
+      },
+      "page": 6,
+      "id": "CCQP-IND-015"
+    },
+    {
+      "competence": "",
+      "composante": "Examen de points de vue",
+      "enonce": "Identifier des points de vue, des idées qui les constituent et des repères sur lesquels celles-ci s’appuient",
+      "cycles": {
+        "1": false,
+        "2": true,
+        "3": true
+      },
+      "page": 6,
+      "id": "CCQP-IND-016"
+    },
+    {
+      "competence": "",
+      "composante": "Examen de points de vue",
+      "enonce": "Comparer des idées en repérant différentes erreurs de raisonnement",
+      "precision": "− Double faute, faux dilemme, argument d’autorité, appel au stéréotype",
+      "cycles": {
+        "1": false,
+        "2": true,
+        "3": true
+      },
+      "page": 6,
+      "id": "CCQP-IND-017"
+    },
+    {
+      "competence": "",
+      "composante": "Examen de points de vue",
+      "enonce": "Comparer des idées en repérant différentes erreurs de raisonnement",
+      "precision": "− Appel à la popularité, généralisation abusive, attaque personnelle",
+      "cycles": {
+        "1": false,
+        "2": false,
+        "3": true
+      },
+      "page": 6,
+      "id": "CCQP-IND-018"
+    },
+    {
+      "competence": "",
+      "composante": "Examen de points de vue",
+      "enonce": "Comparer des repères",
+      "cycles": {
+        "1": false,
+        "2": true,
+        "3": true
+      },
+      "page": 6,
+      "id": "CCQP-IND-019"
+    },
+    {
+      "competence": "",
+      "composante": "Dialogue",
+      "enonce": "Appliquer les conditions favorables à l’interaction",
+      "cycles": {
+        "1": true,
+        "2": true,
+        "3": true
+      },
+      "page": 6,
+      "id": "CCQP-IND-020"
+    },
+    {
+      "competence": "",
+      "composante": "Dialogue",
+      "enonce": "Considérer ses ressentis",
+      "cycles": {
+        "1": true,
+        "2": true,
+        "3": true
+      },
+      "page": 6,
+      "id": "CCQP-IND-021"
+    },
+    {
+      "competence": "",
+      "composante": "Dialogue",
+      "enonce": "Appuyer ses idées à l’aide de différents moyens",
+      "precision": "− Donner des exemples, faire des liens avec les idées des autres, définir",
+      "cycles": {
+        "1": true,
+        "2": true,
+        "3": true
+      },
+      "page": 6,
+      "id": "CCQP-IND-022"
+    },
+    {
+      "competence": "",
+      "composante": "Dialogue",
+      "enonce": "Appuyer ses idées à l’aide de différents moyens",
+      "precision": "− Donner des raisons, distinguer, formuler un désaccord",
+      "cycles": {
+        "1": false,
+        "2": true,
+        "3": true
+      },
+      "page": 6,
+      "id": "CCQP-IND-023"
+    },
+    {
+      "competence": "",
+      "composante": "Dialogue",
+      "enonce": "Appuyer ses idées à l’aide de différents moyens",
+      "precision": "− Donner des contre-exemples, reformuler les propos des autres, résumer",
+      "cycles": {
+        "1": false,
+        "2": false,
+        "3": true
+      },
+      "page": 6,
+      "id": "CCQP-IND-024"
+    },
+    {
+      "competence": "",
+      "composante": "Dialogue",
+      "enonce": "S’enquérir des idées des autres",
+      "cycles": {
+        "1": true,
+        "2": true,
+        "3": true
+      },
+      "page": 6,
+      "id": "CCQP-IND-025"
+    },
+    {
+      "competence": "",
+      "composante": "Expression de la compréhension",
+      "enonce": "Formuler des constats à partir de la comparaison d’observations et de la prise en compte des émotions",
+      "cycles": {
+        "1": true,
+        "2": true,
+        "3": true
+      },
+      "page": 6,
+      "id": "CCQP-IND-026"
+    },
+    {
+      "competence": "",
+      "composante": "Expression de la compréhension",
+      "enonce": "Formuler des constats à partir de la comparaison de points de vue",
+      "cycles": {
+        "1": false,
+        "2": true,
+        "3": true
+      },
+      "page": 6,
+      "id": "CCQP-IND-027"
+    },
+    {
+      "competence": "",
+      "composante": "Expression de la compréhension",
+      "enonce": "Élaborer des réponses qui tiennent compte de la situation, de soi et des autres",
+      "cycles": {
+        "1": false,
+        "2": false,
+        "3": true
+      },
+      "page": 6,
+      "id": "CCQP-IND-028"
+    },
+    {
+      "competence": "",
+      "composante": "Expression de la compréhension",
+      "enonce": "Comparer des réponses et ajuster les siennes lorsque c’est nécessaire",
+      "cycles": {
+        "1": false,
+        "2": false,
+        "3": true
+      },
+      "page": 6,
+      "id": "CCQP-IND-029"
+    },
+    {
+      "competence": "",
+      "composante": "Expression de la compréhension",
+      "enonce": "Justifier ses réponses",
+      "cycles": {
+        "1": false,
+        "2": false,
+        "3": true
+      },
+      "page": 6,
+      "id": "CCQP-IND-030"
+    }
+  ],
+  "elements_lies_a_la_competence": [
+    {
+      "tableau": "Concepts liés aux disciplines de référence",
+      "element": "Question de compréhension",
+      "cycles": {
+        "1": true,
+        "2": true,
+        "3": true
+      },
+      "page": 7,
+      "id": "CCQP-ELC-001"
+    },
+    {
+      "tableau": "Concepts liés aux disciplines de référence",
+      "element": "Culture",
+      "cycles": {
+        "1": true,
+        "2": true,
+        "3": true
+      },
+      "page": 7,
+      "id": "CCQP-ELC-002"
+    },
+    {
+      "tableau": "Concepts liés aux disciplines de référence",
+      "element": "Réalité culturelle",
+      "cycles": {
+        "1": true,
+        "2": true,
+        "3": true
+      },
+      "page": 7,
+      "id": "CCQP-ELC-003"
+    },
+    {
+      "tableau": "Concepts liés aux disciplines de référence",
+      "element": "Émotion",
+      "cycles": {
+        "1": true,
+        "2": true,
+        "3": true
+      },
+      "page": 7,
+      "id": "CCQP-ELC-004"
+    },
+    {
+      "tableau": "Concepts liés aux disciplines de référence",
+      "element": "Norme",
+      "cycles": {
+        "1": false,
+        "2": true,
+        "3": true
+      },
+      "page": 7,
+      "id": "CCQP-ELC-005"
+    },
+    {
+      "tableau": "Concepts liés aux disciplines de référence",
+      "element": "Question philosophique",
+      "cycles": {
+        "1": false,
+        "2": true,
+        "3": true
+      },
+      "page": 7,
+      "id": "CCQP-ELC-006"
+    },
+    {
+      "tableau": "Concepts liés aux disciplines de référence",
+      "element": "Question éthique",
+      "cycles": {
+        "1": false,
+        "2": true,
+        "3": true
+      },
+      "page": 7,
+      "id": "CCQP-ELC-007"
+    },
+    {
+      "tableau": "Concepts liés aux disciplines de référence",
+      "element": "Point de vue",
+      "cycles": {
+        "1": false,
+        "2": true,
+        "3": true
+      },
+      "page": 7,
+      "id": "CCQP-ELC-008"
+    },
+    {
+      "tableau": "Concepts liés aux disciplines de référence",
+      "element": "Valeur",
+      "cycles": {
+        "1": false,
+        "2": true,
+        "3": true
+      },
+      "page": 7,
+      "id": "CCQP-ELC-009"
+    },
+    {
+      "tableau": "Concepts liés aux disciplines de référence",
+      "element": "Repère",
+      "cycles": {
+        "1": false,
+        "2": true,
+        "3": true
+      },
+      "page": 7,
+      "id": "CCQP-ELC-010"
+    },
+    {
+      "tableau": "Concepts liés aux disciplines de référence",
+      "element": "Raisonnement",
+      "cycles": {
+        "1": false,
+        "2": true,
+        "3": true
+      },
+      "page": 7,
+      "id": "CCQP-ELC-011"
+    },
+    {
+      "tableau": "Concepts liés aux disciplines de référence",
+      "element": "Erreur de raisonnement",
+      "cycles": {
+        "1": false,
+        "2": true,
+        "3": true
+      },
+      "page": 7,
+      "id": "CCQP-ELC-012"
+    },
+    {
+      "tableau": "Concepts liés aux disciplines de référence",
+      "element": "Relation sociale",
+      "cycles": {
+        "1": false,
+        "2": false,
+        "3": true
+      },
+      "page": 7,
+      "id": "CCQP-ELC-013"
+    },
+    {
+      "tableau": "Concepts liés aux disciplines de référence",
+      "element": "Techniques de recherche empirique : observation, questionnaire (ou sondage), entretien",
+      "cycles": {
+        "1": false,
+        "2": false,
+        "3": true
+      },
+      "page": 7,
+      "id": "CCQP-ELC-014"
+    },
+    {
+      "tableau": "Formes de dialogue",
+      "element": "Narration",
+      "cycles": {
+        "1": true,
+        "2": true,
+        "3": true
+      },
+      "page": 8,
+      "id": "CCQP-ELC-015"
+    },
+    {
+      "tableau": "Formes de dialogue",
+      "element": "Conversation",
+      "cycles": {
+        "1": true,
+        "2": true,
+        "3": true
+      },
+      "page": 8,
+      "id": "CCQP-ELC-016"
+    },
+    {
+      "tableau": "Formes de dialogue",
+      "element": "Discussion",
+      "cycles": {
+        "1": true,
+        "2": true,
+        "3": true
+      },
+      "page": 8,
+      "id": "CCQP-ELC-017"
+    },
+    {
+      "tableau": "Formes de dialogue",
+      "element": "Entrevue",
+      "cycles": {
+        "1": false,
+        "2": true,
+        "3": true
+      },
+      "page": 8,
+      "id": "CCQP-ELC-018"
+    },
+    {
+      "tableau": "Formes de dialogue",
+      "element": "Table ronde",
+      "cycles": {
+        "1": false,
+        "2": true,
+        "3": true
+      },
+      "page": 8,
+      "id": "CCQP-ELC-019"
+    },
+    {
+      "tableau": "Formes de dialogue",
+      "element": "Délibération",
+      "cycles": {
+        "1": false,
+        "2": false,
+        "3": true
+      },
+      "page": 8,
+      "id": "CCQP-ELC-020"
+    },
+    {
+      "tableau": "Formes de dialogue",
+      "element": "Débat",
+      "cycles": {
+        "1": false,
+        "2": false,
+        "3": true
+      },
+      "page": 8,
+      "id": "CCQP-ELC-021"
+    }
+  ],
+  "contenus": [
+    {
+      "annee": "1",
+      "orientations": "En 1re année, les élèves sont amenés à explorer les réalités culturelles qui sont au plus près d’eux, dans leur quotidien, dans l’espace familial élargi et à l’école. Ils se penchent sur ce qui peut les intéresser et leur procurer du plaisir, sur ce qui contribue à développer la connaissance qu’ils ont d’eux-mêmes et sur la diversité des champs d’intérêt individuels possibles. Ils s’intéressent aux divers besoins individuels, qui sont satisfaits de différentes manières, par différentes personnes, dont eux-mêmes. C’est l’occasion pour les élèves de réaliser des apprentissages sur la globalité de la sexualité et sur la question de la sécurité et de la protection à l’égard des agressions sexuelles. Pour observer la diversité des types de familles (nucléaires, élargies, monoparentales, homoparentales, adoptives, recomposées, d’accueil, etc.) et des relations qui y ont cours, les élèves s’intéressent aux personnes qui en font partie, qu’elles soient présentes dans le quotidien ou plus éloignées (jusqu’aux ancêtres). Ils peuvent décrire et caractériser des expériences et des émotions associées à différentes situations et à divers contextes familiaux. Ils observent qu’il existe plusieurs types de relations dans la famille (intergénérationnelles et intragénérationnelles) et à l’école (avec les autres enfants et avec les adultes). Ils distinguent aussi différents rituels du quotidien (comme ce qui marque les séparations, les retrouvailles, les repas ou les soins corporels) qui permettent de répondre aux besoins individuels, notamment en matière de sécurité affective et d’hygiène, mais aussi d’organiser les relations familiales et de donner du sens à la vie. Enfin, les élèves se penchent sur la diversité des besoins des êtres vivants dans leur environnement immédiat et celle des relations qu’ils entretiennent avec eux.",
+      "colonnes": [
+        {
+          "sous_theme": "Connaissance de soi",
+          "elements": [
+            {
+              "id": "CCQP-CON-001",
+              "element": "Champ d’intérêt d’une personne",
+              "notions": "Sources de plaisir et de motivation, diversité des champs d’intérêt, diversité des aptitudes, etc."
+            },
+            {
+              "id": "CCQP-CON-002",
+              "element": "Besoins individuels",
+              "notions": "Types de besoins (physiques, affectifs, intellectuels, spirituels, etc.), réponses aux besoins, besoin de sécurité et prévention des agressions sexuelles, dimensions de la sexualité, etc.",
+              "education_sexualite": [
+                "Globalité de la sexualité, besoins du corps, prévention des agressions sexuelles"
+              ]
+            }
+          ]
+        },
+        {
+          "sous_theme": "Relations entre les individus",
+          "elements": [
+            {
+              "id": "CCQP-CON-003",
+              "element": "Relations dans la famille et à l’école",
+              "notions": "Diversité des familles québécoises (nucléaires, élargies, monoparentales, homoparentales, adoptives, recomposées, d’accueil, etc.), diversité des relations (personnes impliquées, expériences, sentiments vécus, etc.), relations familiales intergénérationnelles (parents- enfants, grands-parents et aînés, etc.) et intragénérationnelles (fratries, cousins et cousines, etc.), liens avec la communauté et les ancêtres, relations à l’école (avec les autres enfants et avec les adultes), expression des sentiments dans les relations, etc.",
+              "education_sexualite": [
+                "Diversité des familles"
+              ]
+            }
+          ]
+        },
+        {
+          "sous_theme": "Rituels et célébrations",
+          "elements": [
+            {
+              "id": "CCQP-CON-004",
+              "element": "Rituels du quotidien",
+              "notions": "Exemples de rituels du quotidien (lors des transitions entre les moments de la journée, des séparations, des retrouvailles, du coucher, des repas, des soins corporels, etc.), fonction des rituels (répondre aux besoins individuels, organiser les relations, donner du sens au quotidien, apporter de la stabilité et de la prévisibilité, etc.), etc."
+            }
+          ]
+        },
+        {
+          "sous_theme": "Rapports aux autres êtres vivants",
+          "elements": [
+            {
+              "id": "CCQP-CON-005",
+              "element": "Êtres vivants autour de soi et besoins de ceux-ci",
+              "notions": "Diversité des êtres vivants autour de soi et de leurs besoins, diversité des relations et des expériences avec les autres êtres vivants (affectives, utilitaires, identitaires, de dépendance, d’interdépendance, etc.), etc."
+            }
+          ]
+        }
+      ],
+      "page": 10
+    },
+    {
+      "annee": "2",
+      "orientations": "En 2e année, les élèves approfondissent les réalités culturelles qu’ils ont explorées en 1re année et qui sont au plus près d’eux, dans leur quotidien, dans l’espace familial élargi et à l’école. Ils s’intéressent à la diversité des caractéristiques des personnes dans toutes leurs dimensions, y compris au corps, aux parties sexuelles et à leurs fonctions. Ils prennent conscience des grandes étapes qui ponctuent la vie depuis la naissance et qui peuvent être vécues de manières diversifiées. C’est également l’occasion pour les élèves de comprendre les différents moments qui précèdent la naissance, dont la conception et la grossesse, comme des phénomènes à la fois physiologiques et culturels. Les élèves s’intéressent aux rôles des enfants dans la famille et à l’école et à la variation des attentes envers eux selon les contextes, notamment en lien avec les rôles sexuels et de genre. Ils se penchent aussi sur les différents gestes de civilité qui contribuent à harmoniser et à organiser les relations entre les personnes et avec l’environnement. Ils observent plus particulièrement les rôles joués par les autres êtres vivants dans la vie des humains et peuvent se pencher sur les responsabilités de ces derniers, notamment en matière de bien-être animal. La place des différentes formes de célébration dans la vie est également abordée dans ce thème, qu’il s’agisse de cérémonies religieuses ou séculières ou encore de manières de souligner des événements importants héritées de traditions québécoises ou d’ailleurs.",
+      "colonnes": [
+        {
+          "sous_theme": "Connaissance de soi",
+          "elements": [
+            {
+              "id": "CCQP-CON-006",
+              "element": "Caractéristiques de chaque personne",
+              "notions": "Dimensions de la personne (corps, émotion, comportement, pensée, etc.), diversité des caractéristiques individuelles, parties sexuelles et fonctions de celles-ci, etc.",
+              "education_sexualite": [
+                "Parties sexuelles"
+              ]
+            },
+            {
+              "id": "CCQP-CON-007",
+              "element": "Étapes de la vie depuis la naissance",
+              "notions": "Naissance (conception, grossesse et venue au monde), grandes transitions, principaux apprentissages depuis la naissance, moments heureux et moments tristes, diversité des parcours, etc.",
+              "education_sexualite": [
+                "Grossesse et naissance"
+              ]
+            }
+          ]
+        },
+        {
+          "sous_theme": "Relations entre les individus",
+          "elements": [
+            {
+              "id": "CCQP-CON-008",
+              "element": "Rôles et responsabilités dans la famille et à l’école",
+              "notions": "Rôles et responsabilités dans la famille et à l’école, règles dans la famille, place accordée aux enfants, droits des enfants en contexte familial, variation des attentes et des rôles selon les contextes (dont les rôles sexuels et de genre), obéissance et désobéissance, élaboration des règles en vigueur dans la classe, dans la cour de récréation et à l’école, etc.",
+              "education_sexualite": [
+                "Rôles sexuels et de genre"
+              ]
+            },
+            {
+              "id": "CCQP-CON-009",
+              "element": "Civilité",
+              "notions": "Gestes de civilité (envers les personnes et l’environnement) à l’école et dans la famille, effets des gestes de civilité sur les relations avec les personnes (pacification, diminution de l’incertitude, organisation, etc.), etc."
+            }
+          ]
+        },
+        {
+          "sous_theme": "Rituels et célébrations",
+          "elements": [
+            {
+              "id": "CCQP-CON-010",
+              "element": "Célébrations",
+              "notions": "Traditions (fêtes, repas traditionnels, etc.), cérémonies religieuses et séculières dans les familles québécoises, etc."
+            }
+          ]
+        },
+        {
+          "sous_theme": "Rapports aux autres êtres vivants",
+          "elements": [
+            {
+              "id": "CCQP-CON-011",
+              "element": "Rôles des autres êtres vivants dans la vie des humains",
+              "notions": "Diversité des rôles joués par les autres êtres vivants dans la vie des humains, responsabilités des humains à l’égard des autres êtres vivants, soin des animaux, bien-être animal, etc."
+            }
+          ]
+        }
+      ],
+      "page": 12
+    },
+    {
+      "annee": "3",
+      "orientations": "Au 2e cycle, les élèves élargissent leurs observations à l’espace de leur communauté proche. Ils approfondissent leur compréhension des dynamiques des groupes dans lesquels ils évoluent et qui contribuent au développement de leur identité et de la perception qu’ils ont d’eux-mêmes et des autres. À l’échelle individuelle, les élèves de 3e année examinent, dans toute leur diversité, les notions de désir et de limite personnelle. Dans ce contexte, la question plus particulière de l’intégrité physique et des stratégies de prévention ou d’autoprotection à l’égard des agressions sexuelles est abordée à nouveau. Les élèves sont également invités à s’interroger sur la notion de stéréotype, sur la manière dont les stéréotypes se constituent et sur leurs effets possibles sur la vision que les personnes ont d’elles-mêmes et des autres. Ils examinent les points communs et les différences entre les individus de même que les manières d’exprimer et de reconnaître ces différences. Les élèves développent ainsi des connaissances pour comprendre les contextes d’inclusion et d’exclusion observables autour d’eux et saisir les effets positifs et négatifs de ces situations. À travers l’initiation à certaines questions existentielles, les élèves comprennent que la spiritualité peut s’inscrire dans des pratiques et des croyances, religieuses ou non, qui proposent des visions sur le sens de la vie. Ils examinent différentes conceptions du cycle et des âges de la vie, de la naissance à la mort, et comprennent que les croyances à leur sujet sont variées. À propos de leurs milieux de vie, les élèves prennent connaissance de différentes manières d’habiter le territoire québécois, par exemple selon les régions du Québec ou en fonction des liens entretenus par les Premiers Peuples avec le territoire. Ils s’interrogent sur les différentes relations possibles avec la nature, notamment à la diversité des expériences en lien avec l’agriculture, la forêt et les cours d’eau. Enfin, les élèves de 3e année commencent leurs apprentissages en littératie informationnelle. Ils s’interrogent sur la fiabilité des informations qu’ils peuvent trouver sur différentes plateformes, notamment numériques. En apprenant à distinguer les types d’informations (faits et opinions, publicités) ainsi que les types de sources, ils développent leur pensée critique et identifient des critères qui permettent d’estimer la fiabilité de l’information à laquelle ils accèdent par des outils numériques.",
+      "colonnes": [
+        {
+          "sous_theme": "Perception de soi",
+          "elements": [
+            {
+              "id": "CCQP-CON-012",
+              "element": "Désirs et limites personnelles",
+              "notions": "Diversité des possibles et des désirs, différences entre besoin et désir, diversité des moyens pour combler ses désirs, connais- sance et écoute de ses limites personnelles et de celles des autres, notion de consentement au sens large (à propos du toucher, de l’image, etc.), intégrité physique, prévention (autopro- tection) et dévoilement d’un vécu d’agression sexuelle, etc.",
+              "education_sexualite": [
+                "Prévention des agressions sexuelles"
+              ]
+            },
+            {
+              "id": "CCQP-CON-013",
+              "element": "Stéréotypes et vision de soi",
+              "notions": "Représentations stéréotypées du féminin et du masculin, diversité des stéréotypes (âge, origine ethnique et culturelle, condition socioéconomique, handicap, etc.), effets des stéréotypes sur soi (perception des possibilités et des limites en lien avec son groupe, attentes envers soi, etc.), etc.",
+              "education_sexualite": [
+                "Stéréotypes sexuels et de genre"
+              ]
+            }
+          ]
+        },
+        {
+          "sous_theme": "Dynamiques de groupe",
+          "elements": [
+            {
+              "id": "CCQP-CON-014",
+              "element": "Différences et points communs entre les individus",
+              "notions": "Diversité émotionnelle, corporelle et comportementale, expression et reconnaissance des différences individuelles et des similitudes, etc."
+            },
+            {
+              "id": "CCQP-CON-015",
+              "element": "Inclusion et exclusion",
+              "notions": "Contextes d’acceptation et de rejet par les pairs, effets de l’acceptation et du rejet, rôle de la non-conformité (notamment aux normes de genre) dans l’exclusion, dynamiques de pouvoir dans les groupes de pairs (influence inégale des personnes, intimidation, alliances, etc.), notion de majorité et de minorité, etc.",
+              "education_sexualite": [
+                "Normes de genre"
+              ]
+            }
+          ]
+        },
+        {
+          "sous_theme": "Questions existentielles",
+          "elements": [
+            {
+              "id": "CCQP-CON-016",
+              "element": "Spiritualité",
+              "notions": "Croyances religieuses et autres convictions non religieuses, patrimoine religieux et spirituel québécois, mythologie, sens de la vie, croyances ancestrales, etc."
+            },
+            {
+              "id": "CCQP-CON-017",
+              "element": "Cycle de la vie",
+              "notions": "Âges de la vie (enfance, adolescence, âge adulte, vieillissement, etc.), fin de la vie, deuil, espérance de vie, etc."
+            }
+          ]
+        },
+        {
+          "sous_theme": "Milieux de vie",
+          "elements": [
+            {
+              "id": "CCQP-CON-018",
+              "element": "Relation avec la nature",
+              "notions": "Contact des personnes avec la nature (en lien avec l’agriculture, les animaux, les cours d’eau, la forêt, la chasse et la pêche de subsistance, les activités de plein air, etc.), cohabitation et interrelations avec la nature, apprentissages à travers l’observation de la nature, etc."
+            },
+            {
+              "id": "CCQP-CON-019",
+              "element": "Manière d’habiter le territoire",
+              "notions": "Vie en ville et à la campagne, modes de vie et culture régionale, liens entretenus par les Premiers Peuples avec le territoire, activités culturelles présentes sur le territoire québécois, etc."
+            }
+          ]
+        },
+        {
+          "sous_theme": "Savoirs dans l’espace numérique",
+          "elements": [
+            {
+              "id": "CCQP-CON-020",
+              "element": "Fiabilité de l’information sur les plateformes numériques",
+              "notions": "Types d’informations (faits et opinions, publicité, etc.), types de sources (médias d’information, sites commerciaux, blogues personnels, etc.), intention des producteurs ou auteurs, critères de fiabilité de l’information, etc."
+            }
+          ]
+        }
+      ],
+      "page": 14
+    },
+    {
+      "annee": "4",
+      "orientations": "En 4e année, les élèves poursuivent leurs apprentissages sur les dynamiques qui contribuent au développement de leur identité et de la perception qu’ils ont d’eux-mêmes et des autres dans leur environnement culturel immédiat et élargi ainsi que sur les dynamiques qui caractérisent les groupes et les espaces dans lesquels ils évoluent. Ils se penchent plus spécifiquement sur les principaux changements corporels vécus à la puberté et comprennent que ces transformations qui arrivent à des moments variables selon les individus peuvent susciter des sentiments et des appréciations variés. De même, ils examinent la diversité des forces et des défis de chacune et de chacun, ce qui peut être abordé sous l’angle de l’estime de soi et du sentiment de compétence personnelle dans la vie. Les élèves réfléchissent aux caractéristiques et aux émotions qui distinguent l’amitié et l’amour, voire la camaraderie et l’attirance, ainsi qu’aux attitudes et aux comportements qui peuvent influencer ces relations. Ils peuvent examiner ce qui favorise l’entente, la mésentente et les conflits. À l’échelle des groupes, les élèves s’intéressent au phénomène de l’appartenance culturelle et aux différents groupes qui les entourent. Ils observent que le sentiment d’appartenance peut être variable selon les contextes et les groupes et que la vie communautaire contribue à son développement. L’héritage culturel, par exemple, joue un rôle important dans le sentiment d’appartenance, notamment dans le contexte du Québec. À une échelle plus proche d’eux, les élèves examinent comment les groupes génèrent des normes qui peuvent entraîner différents types de pressions (négatives ou positives) sur les personnes. Dans ce contexte, ils peuvent aborder les phénomènes de la popularité et des effets de mode qui existent au sein des groupes. Ils établissent des liens entre les normes et les inégalités de sexe et de genre. Les élèves s’interrogent par ailleurs sur les pratiques de consommation et leurs effets sur l’environnement. Ils examinent également différentes formes de pratiques écologiques en lien avec des questions variées comme la gestion des déchets, l’alimentation ou encore les vêtements. Enfin, les élèves de 4e année approfondissent leurs connaissances des caractéristiques des médias d’information et des médias sociaux, ainsi que des technologies numériques, afin de comprendre leurs fonctions variées et leur fonctionnement.",
+      "colonnes": [
+        {
+          "sous_theme": "Perception de soi",
+          "elements": [
+            {
+              "id": "CCQP-CON-021",
+              "element": "Changements corporels",
+              "notions": "Marqueurs de la puberté, variabilité de l’apparition des changements pubertaires, sentiments et préoccupations par rapport au fait de grandir, rétroactions de l’entourage, développement de l’identité et de l’expression de genre, etc.",
+              "education_sexualite": [
+                "Changements corporels"
+              ]
+            },
+            {
+              "id": "CCQP-CON-022",
+              "element": "Forces et défis de chaque personne",
+              "notions": "Diversité des forces et des défis, sentiment de compétence, estime de soi, etc."
+            }
+          ]
+        },
+        {
+          "sous_theme": "Dynamiques de groupe",
+          "elements": [
+            {
+              "id": "CCQP-CON-023",
+              "element": "Appartenance culturelle",
+              "notions": "Groupes d’appartenance (famille, quartier, âge, communauté ethnoculturelle, province, pays, sexe et genre, langue, religion, etc.), sentiment d’appartenance, vie communautaire, héritage culturel au Québec, identité autochtone, etc."
+            },
+            {
+              "id": "CCQP-CON-024",
+              "element": "Influence du groupe",
+              "notions": "Normes dans différents groupes, pression positive et négative du groupe, popularité et effets de mode, liens entre les normes et stéréotypes sexuels et de genre et les inégalités, etc.",
+              "education_sexualite": [
+                "Inégalités de sexe et de genre"
+              ]
+            }
+          ]
+        },
+        {
+          "sous_theme": "Questions existentielles",
+          "elements": [
+            {
+              "id": "CCQP-CON-025",
+              "element": "Amitié et amour",
+              "notions": "Différences entre camaraderie, amitié, amour et attirance, caractéristiques des relations d’amitié (signes, réciprocité, empathie, égalité, etc.), attitude et comportements qui influencent les relations interpersonnelles, émotions et sentiments en amitié et en amour, mésententes et conflits, etc.",
+              "education_sexualite": [
+                "Amitié et amour"
+              ]
+            },
+            {
+              "id": "CCQP-CON-026",
+              "element": "Bonheur",
+              "notions": "Éléments contribuant au bonheur, visions du bonheur, plaisirs, joies et bonheur, bonheurs simples et idéaux de bonheur, bonheur individuel et bonheur partagé, bonheur matériel, etc."
+            }
+          ]
+        },
+        {
+          "sous_theme": "Milieux de vie",
+          "elements": [
+            {
+              "id": "CCQP-CON-027",
+              "element": "Consommation",
+              "notions": "Fonctions de la consommation (réponse à des besoins fondamentaux et à des désirs, reconnaissance et appartenance à un groupe, etc.), consommation matérielle et rapport aux objets, enjeux environnementaux de la consommation, etc."
+            },
+            {
+              "id": "CCQP-CON-028",
+              "element": "Pratiques écologiques",
+              "notions": "Gestes individuels (réduire, réparer, recycler, etc.) et écocivisme (éthique citoyenne à l’égard de l’environnement), gestion des déchets, alimentation responsable, etc."
+            }
+          ]
+        },
+        {
+          "sous_theme": "Savoirs dans l’espace numérique",
+          "elements": [
+            {
+              "id": "CCQP-CON-029",
+              "element": "Médias d’information et médias sociaux",
+              "notions": "Caractéristiques des médias d’information (démarche journalistique, diversité de formats, etc.), caractéristiques des médias sociaux (instantanéité, permanence des traces, personnalisation et filtrage par algorithme, etc.), fonctionnement des médias sociaux (utilisation des données, modération, etc.), etc."
+            }
+          ]
+        }
+      ],
+      "page": 16
+    },
+    {
+      "annee": "5",
+      "orientations": "Au 3e cycle, les élèves du primaire élargissent leur observation de la culture En ce qui concerne les enjeux environnementaux, les élèves élargissent leur québécoise jusqu’aux institutions collectives et s’intéressent aux notions de regard et peuvent s’interroger sur différentes notions qui interpellent les choix droit, de participation sociale et de mouvement social, tout en poursuivant leur collectifs et la recherche du bien commun, à l’échelle nationale, régionale ou réflexion sur des aspects qui concernent surtout le développement individuel même locale, comme les changements climatiques, le développement durable et les relations interpersonnelles. ainsi que la protection du territoire et de la biodiversité au Québec. Enfin, les élèves s’interrogent sur les fonctions qu’ils attribuent au numérique dans leur En 5e année, les élèves abordent plus directement la notion d’identité et ce qui vie et sur ses effets variés sur les modes de vie. Ils réfléchissent notamment au la compose, à l’échelle individuelle et à l’échelle collective. Ils réfléchissent à la fait que les expériences et les usages du numérique peuvent être positifs ou diversité des valeurs transmises dans les différents espaces et groupes négatifs, selon les contextes et les personnes, et que les paroles et les fréquentés, à leur hiérarchisation selon les contextes et au caractère partagé comportements numériques peuvent avoir des conséquences (notamment en de certaines d’entre elles à l’échelle collective. Les élèves commencent à réfléchir matière de responsabilité criminelle). à la diversité sociale et culturelle et à l’importance des institutions communes et des espaces de rencontre entre les différentes personnes et les divers groupes qui composent la population du Québec, notamment les cultures autochtones. Ils s’intéressent aux expériences démocratiques en tant que réalité culturelle, que ce soit du point de vue de quelques principes de la culture démocratique, du fonctionnement du système électoral ou encore des espaces de participation démocratique qui leur sont accessibles. La transition vers l’adolescence pose différentes questions importantes aux élèves : leur corps et leur identité sont en transformation, tout comme leurs relations avec les personnes de leur entourage, celles-ci leur laissant plus de liberté tout en exigeant une responsabilisation croissante. Les éveils amoureux et sexuel se produisent à différents moments et de manière variable selon les enfants. Le développement de leur autonomie et de leur utilisation des outils de communication numérique rend importante la poursuite d’une réflexion sur les situations d’agression sexuelle et la sécurité personnelle. Déjà, le passage au secondaire s’invite dans les interrogations des élèves, qui se projettent dans l’avenir et prennent conscience d’objectifs personnels et d’attentes envers les autres et par rapport à l’avenir.",
+      "colonnes": [
+        {
+          "sous_theme": "Identité",
+          "elements": [
+            {
+              "id": "CCQP-CON-030",
+              "element": "Dimensions de l’identité",
+              "notions": "Identité personnelle (moi) et identité collective (nous), composition de l’identité (âge, sexe et genre, milieu socioéconomique, origine ethnoculturelle [dont l’identité autochtone], langue, religion, etc.), identité québécoise, appréciation de son identité, dimension écologique de l’identité, etc.",
+              "education_sexualite": [
+                "Identité de sexe et de genre"
+              ]
+            },
+            {
+              "id": "CCQP-CON-031",
+              "element": "Valeurs personnelles et collectives",
+              "notions": "Diversité et hiérarchie des valeurs selon les contextes, valeurs individuelles et valeurs communes, valeurs démocratiques, valeurs transmises dans la famille, à l’école, dans la publicité, dans les médias québécois, etc."
+            }
+          ]
+        },
+        {
+          "sous_theme": "Vie collective",
+          "elements": [
+            {
+              "id": "CCQP-CON-032",
+              "element": "Diversité sociale et culture partagée",
+              "notions": "Composition diversifiée de la population québécoise, référents culturels québécois partagés, institutions communes et espaces de rencontre, place des Premiers Peuples, éléments des cultures autochtones (shaputuan, pow-wow, etc.), etc."
+            },
+            {
+              "id": "CCQP-CON-033",
+              "element": "Expériences démocratiques",
+              "notions": "Principes démocratiques (majorité, représentation, participation, liberté de presse, etc.), paliers gouvernementaux et système électoral, espaces et expériences de participation démocratique (écoles, groupes de pairs, groupes citoyens, groupes de la société civile, etc.) et pouvoir d’agir, processus de consultation publique, etc."
+            }
+          ]
+        },
+        {
+          "sous_theme": "Occasions de penser sa vie",
+          "elements": [
+            {
+              "id": "CCQP-CON-034",
+              "element": "Transition vers l’adolescence",
+              "notions": "Puberté et transformations physiques et identitaires (rapport aux adultes, relations avec les pairs, etc.), variabilité des éveils amoureux et sexuel selon les individus, prévention des agressions sexuelles et sécurité personnelle (en ligne et hors ligne), consentement sexuel, libertés, contraintes et responsabilisation, etc.",
+              "education_sexualite": [
+                "Puberté, sécurité personnelle"
+              ]
+            },
+            {
+              "id": "CCQP-CON-035",
+              "element": "Attentes pour l’avenir",
+              "notions": "Passage au secondaire, projection de soi dans l’avenir, objectifs personnels, attentes envers les autres et la collectivité, etc."
+            }
+          ]
+        },
+        {
+          "sous_theme": "Transition écologique",
+          "elements": [
+            {
+              "id": "CCQP-CON-036",
+              "element": "Choix collectifs d’avenir",
+              "notions": "Changements climatiques et décisions collectives, initiatives écologiques locales, régionales et nationales, visions du développement durable, protection du territoire, de la biodiversité et des modes de vie traditionnels, etc."
+            }
+          ]
+        },
+        {
+          "sous_theme": "Rapport au numérique",
+          "elements": [
+            {
+              "id": "CCQP-CON-037",
+              "element": "Fonctions et effets du numérique",
+              "notions": "Fonctions du numérique (loisir, information, éducation, communication, diffusion et rayonnement, mobilisation, application utilitaire, etc.), effets du numérique sur les modes de vie et les relations, aspects commerciaux des plateformes numériques, etc."
+            },
+            {
+              "id": "CCQP-CON-038",
+              "element": "Expériences et usages variés du numérique",
+              "notions": "Usages variables chez les jeunes, expériences positives et négatives des personnes (apprentissage et partage, bien-être numérique, cyberdépendance, chambres d’écho, cyberintimidation, etc.), principaux encadrements légaux des actions dans l’espace numérique et conséquences, etc."
+            }
+          ]
+        }
+      ],
+      "page": 18
+    },
+    {
+      "annee": "6",
+      "orientations": "Les élèves de 6e année approfondissent les thèmes qu’ils ont commencé à travailler en 5e année. Ils se penchent sur les différentes affiliations qu’il est possible d’avoir à mesure que l’on grandit et sur les normes corporelles et de genre qui peuvent varier selon les groupes de référence. Ils déploient leur réflexion critique sur les notions de réussite et d’adversité ainsi que sur les différents modèles de vie qui leur sont présentés, les valeurs qui les distinguent et différentes attitudes qu’il est possible d’adopter à l’égard de personnes inspirantes de son milieu ou d’ailleurs. Les élèves s’intéressent à l’idée d’intégration culturelle des personnes. Ils peuvent être amenés, par exemple, à établir des liens entre les choix que les personnes font peu à peu, notamment à propos d’éducation, et la place qu’elles occupent progressivement dans la société et la culture québécoises, ou encore à se pencher sur le phénomène de l’immigration. Les élèves abordent les notions de droit et de liberté pour comprendre leurs droits en tant que personnes ou que membres d’un groupe (par exemple celui des enfants) et réfléchir aux formes de discrimination interdites, dont celles liées au sexe, au genre ou à l’orientation sexuelle. Ils examinent le rôle des mouvements et des groupes environnementaux dans l’exercice de l’écocitoyenneté et peuvent prendre connaissance des divers moyens d’action possibles pour faire valoir des idées, notamment à propos des enjeux environnementaux. Enfin, après avoir porté leur regard sur les fonctions et les usages du numérique, les élèves de 6e année s’intéressent à différents aspects relatifs aux représen- tations de soi et à la sociabilité en ligne. Parmi ceux-ci, ils peuvent aborder les questions de l’image corporelle, aux frontières entre l’espace intime et l’espace public, des risques et des nouvelles possibilités associés aux technologies numériques ou encore de l’anonymat et de la communication respectueuse.",
+      "colonnes": [
+        {
+          "sous_theme": "Identité",
+          "elements": [
+            {
+              "id": "CCQP-CON-039",
+              "element": "Différentes affiliations",
+              "notions": "Groupes de référence, activités choisies, normes corporelles et genrées des groupes de référence, etc.",
+              "education_sexualite": [
+                "Image corporelle"
+              ]
+            },
+            {
+              "id": "CCQP-CON-040",
+              "element": "Intégration culturelle",
+              "notions": "Éducation et intégration à la culture québécoise, contribution à la culture québécoise et à d’autres cultures, parcours migratoires, etc."
+            }
+          ]
+        },
+        {
+          "sous_theme": "Vie collective",
+          "elements": [
+            {
+              "id": "CCQP-CON-041",
+              "element": "Droits et libertés",
+              "notions": "Droits de la personne et droits des groupes (dont les femmes, les personnes issues de la diversité sexuelle et de genre, les groupes linguistiques et les peuples autochtones), droits des enfants et responsabilités des parents, conditions et limites de la liberté (notamment en lien avec les usages du numérique et la responsabilité civile), discrimination, dénonciation et recours en cas de discrimination (Commission des droits de la personne et des droits de la jeunesse), etc.",
+              "education_sexualite": [
+                "Droits et discrimination liée au sexe et au genre"
+              ]
+            },
+            {
+              "id": "CCQP-CON-042",
+              "element": "Participation sociale",
+              "notions": "Espaces de participation sociale (famille, école, quartier, organismes, etc.), diversité des formes de participation sociale (implication dans un groupe, bénévolat, action de solidarité, etc.), solidarité sociale, etc."
+            }
+          ]
+        },
+        {
+          "sous_theme": "Occasions de penser sa vie",
+          "elements": [
+            {
+              "id": "CCQP-CON-043",
+              "element": "Réussite et adversité",
+              "notions": "Visions de la réussite, exemples d’adversité (accident, maladie, échec, perte, etc.), apprentis- sages dans l’épreuve, etc."
+            },
+            {
+              "id": "CCQP-CON-044",
+              "element": "Modèles de vie",
+              "notions": "Diversité des modèles de vie, valeurs véhiculées par différents modèles (performance, mise au service de soi et/ou au service des autres, dépassement individuel, etc.), admiration et adulation, personnes inspirantes de son milieu et d’ailleurs, etc."
+            }
+          ]
+        },
+        {
+          "sous_theme": "Transition écologique",
+          "elements": [
+            {
+              "id": "CCQP-CON-045",
+              "element": "Mouvements environnementaux",
+              "notions": "Groupes environnementaux et militantisme, diversité des revendications relatives à l’environnement (dont celles des jeunes), diversité des moyens d’action des mouvements citoyens et des groupes environnementaux, etc."
+            }
+          ]
+        },
+        {
+          "sous_theme": "Rapport au numérique",
+          "elements": [
+            {
+              "id": "CCQP-CON-046",
+              "element": "Représentation de soi en ligne",
+              "notions": "Exposition de soi en ligne et image corporelle, frontières entre l’espace public et l’espace privé, quête de reconnaissance en ligne, etc.",
+              "education_sexualite": [
+                "Représentation de soi en ligne"
+              ]
+            },
+            {
+              "id": "CCQP-CON-047",
+              "element": "Sociabilité en ligne",
+              "notions": "Transformations de la sociabilité en ligne (relations familiales et amicales, communautés de partage et d’affinités, etc.), risques associés à la sociabilité en ligne (fraude, intimidation, sextorsion, etc.) et comportements sécuritaires (notamment dans une perspective de prévention de l’exploitation sexuelle), anonymat et communication respectueuse en ligne, responsabilité criminelle et conséquences des actions en ligne, action citoyenne sur les plateformes numériques, etc.",
+              "education_sexualite": [
+                "Sécurité en ligne"
+              ]
+            }
+          ]
+        }
+      ],
+      "page": 20
+    }
+  ]
+}

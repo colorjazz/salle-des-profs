@@ -1,0 +1,1359 @@
+{
+  "discipline": "Culture et citoyenneté québécoise",
+  "code_discipline": "CCQ",
+  "ordre": "secondaire",
+  "source": "sec.pdf",
+  "version": "2024",
+  "cycles": [
+    "1",
+    "2"
+  ],
+  "legende": {
+    "cycles": "true : visé à ce cycle (crochet) ; false : pas encore (trait)",
+    "contenus": "Par année : orientations, puis éléments de contenu obligatoires et notions et exemples associés"
+  },
+  "bilan": {
+    "indicateurs": 44,
+    "elements_lies_competence": 0,
+    "annees": 4,
+    "elements_de_contenu": 110
+  },
+  "indicateurs": [
+    {
+      "competence": "Étudier des réalités culturelles",
+      "composante": "Circonscrire l’objet d’étude",
+      "enonce": "Formuler des questions et des réponses provisoires",
+      "cycles": {
+        "1": true,
+        "2": true
+      },
+      "page": 6,
+      "id": "CCQS-IND-001"
+    },
+    {
+      "competence": "Étudier des réalités culturelles",
+      "composante": "Circonscrire l’objet d’étude",
+      "enonce": "Mobiliser des concepts pertinents…",
+      "precision": "… dans la formulation de questions et de réponses provisoires",
+      "cycles": {
+        "1": true,
+        "2": true
+      },
+      "page": 6,
+      "id": "CCQS-IND-002"
+    },
+    {
+      "competence": "Étudier des réalités culturelles",
+      "composante": "Circonscrire l’objet d’étude",
+      "enonce": "Mobiliser des concepts pertinents…",
+      "precision": "… en cours d’analyse et d’interprétation",
+      "cycles": {
+        "1": false,
+        "2": true
+      },
+      "page": 6,
+      "id": "CCQS-IND-003"
+    },
+    {
+      "competence": "Étudier des réalités culturelles",
+      "composante": "Circonscrire l’objet d’étude",
+      "enonce": "Recueillir des données primaires…",
+      "precision": "… à l’aide d’outils de collecte de données préexistants",
+      "cycles": {
+        "1": true,
+        "2": true
+      },
+      "page": 6,
+      "id": "CCQS-IND-004"
+    },
+    {
+      "competence": "Étudier des réalités culturelles",
+      "composante": "Circonscrire l’objet d’étude",
+      "enonce": "Recueillir des données primaires…",
+      "precision": "… à l’aide d’outils de collecte élaborés par soi-même",
+      "cycles": {
+        "1": false,
+        "2": true
+      },
+      "page": 6,
+      "id": "CCQS-IND-005"
+    },
+    {
+      "competence": "Étudier des réalités culturelles",
+      "composante": "Circonscrire l’objet d’étude",
+      "enonce": "Recueillir des données secondaires",
+      "cycles": {
+        "1": true,
+        "2": true
+      },
+      "page": 6,
+      "id": "CCQS-IND-006"
+    },
+    {
+      "competence": "Étudier des réalités culturelles",
+      "composante": "Analyser les relations sociales",
+      "enonce": "Caractériser des relations entre des personnes, des groupes et des institutions",
+      "cycles": {
+        "1": true,
+        "2": true
+      },
+      "page": 6,
+      "id": "CCQS-IND-007"
+    },
+    {
+      "competence": "Étudier des réalités culturelles",
+      "composante": "Analyser les relations sociales",
+      "enonce": "Situer les relations dans le temps et l’espace",
+      "cycles": {
+        "1": true,
+        "2": true
+      },
+      "page": 6,
+      "id": "CCQS-IND-008"
+    },
+    {
+      "competence": "Étudier des réalités culturelles",
+      "composante": "Analyser les relations sociales",
+      "enonce": "Comparer diverses significations…",
+      "precision": "… en faisant ressortir des distinctions",
+      "cycles": {
+        "1": true,
+        "2": true
+      },
+      "page": 6,
+      "id": "CCQS-IND-009"
+    },
+    {
+      "competence": "Étudier des réalités culturelles",
+      "composante": "Analyser les relations sociales",
+      "enonce": "Comparer diverses significations…",
+      "precision": "… en dégageant des variations et des récurrences",
+      "cycles": {
+        "1": false,
+        "2": true
+      },
+      "page": 6,
+      "id": "CCQS-IND-010"
+    },
+    {
+      "competence": "Étudier des réalités culturelles",
+      "composante": "Analyser les relations sociales",
+      "enonce": "Formuler des constats",
+      "cycles": {
+        "1": true,
+        "2": true
+      },
+      "page": 6,
+      "id": "CCQS-IND-011"
+    },
+    {
+      "competence": "Étudier des réalités culturelles",
+      "composante": "Évaluer les savoirs",
+      "enonce": "Établir la pertinence des informations recueillies",
+      "cycles": {
+        "1": true,
+        "2": true
+      },
+      "page": 6,
+      "id": "CCQS-IND-012"
+    },
+    {
+      "competence": "Étudier des réalités culturelles",
+      "composante": "Évaluer les savoirs",
+      "enonce": "Considérer des effets des biais sociocognitifs",
+      "precision": "Biais de confirmation, effet de répétition, biais d’ancrage, effet de halo",
+      "cycles": {
+        "1": true,
+        "2": true
+      },
+      "page": 6,
+      "id": "CCQS-IND-013"
+    },
+    {
+      "competence": "Étudier des réalités culturelles",
+      "composante": "Évaluer les savoirs",
+      "enonce": "Considérer des effets des biais sociocognitifs",
+      "precision": "Biais de désirabilité sociale, biais d’essentialisme, biais d’omission",
+      "cycles": {
+        "1": false,
+        "2": true
+      },
+      "page": 6,
+      "id": "CCQS-IND-014"
+    },
+    {
+      "competence": "Étudier des réalités culturelles",
+      "composante": "Évaluer les savoirs",
+      "enonce": "Identifier des limites de son interprétation…",
+      "precision": "… liées à des aspects non couverts",
+      "cycles": {
+        "1": true,
+        "2": true
+      },
+      "page": 6,
+      "id": "CCQS-IND-015"
+    },
+    {
+      "competence": "Étudier des réalités culturelles",
+      "composante": "Évaluer les savoirs",
+      "enonce": "Identifier des limites de son interprétation…",
+      "precision": "… liées aux données recueillies",
+      "cycles": {
+        "1": false,
+        "2": true
+      },
+      "page": 6,
+      "id": "CCQS-IND-016"
+    },
+    {
+      "competence": "Étudier des réalités culturelles",
+      "composante": "Exposer une compréhension enrichie",
+      "enonce": "Tenir compte de sa compréhension initiale",
+      "cycles": {
+        "1": true,
+        "2": true
+      },
+      "page": 6,
+      "id": "CCQS-IND-017"
+    },
+    {
+      "competence": "Étudier des réalités culturelles",
+      "composante": "Exposer une compréhension enrichie",
+      "enonce": "Intégrer différentes perspectives dans son interprétation",
+      "cycles": {
+        "1": true,
+        "2": true
+      },
+      "page": 6,
+      "id": "CCQS-IND-018"
+    },
+    {
+      "competence": "Étudier des réalités culturelles",
+      "composante": "Exposer une compréhension enrichie",
+      "enonce": "Comparer des interprétations…",
+      "precision": "… en dégageant des similarités et des différences",
+      "cycles": {
+        "1": true,
+        "2": true
+      },
+      "page": 6,
+      "id": "CCQS-IND-019"
+    },
+    {
+      "competence": "Étudier des réalités culturelles",
+      "composante": "Exposer une compréhension enrichie",
+      "enonce": "Comparer des interprétations…",
+      "precision": "… en reliant des similarités et des différences aux démarches de collecte et d’analyse des données",
+      "cycles": {
+        "1": false,
+        "2": true
+      },
+      "page": 6,
+      "id": "CCQS-IND-020"
+    },
+    {
+      "competence": "Réfléchir sur des questions éthiques",
+      "composante": "Dégager la dimension éthique d’une situation",
+      "enonce": "Décrire une situation",
+      "cycles": {
+        "1": true,
+        "2": true
+      },
+      "page": 8,
+      "id": "CCQS-IND-021"
+    },
+    {
+      "competence": "Réfléchir sur des questions éthiques",
+      "composante": "Dégager la dimension éthique d’une situation",
+      "enonce": "Mobiliser des informations et des concepts pertinents",
+      "cycles": {
+        "1": true,
+        "2": true
+      },
+      "page": 8,
+      "id": "CCQS-IND-022"
+    },
+    {
+      "competence": "Réfléchir sur des questions éthiques",
+      "composante": "Dégager la dimension éthique d’une situation",
+      "enonce": "Relever des tensions en présence",
+      "cycles": {
+        "1": true,
+        "2": true
+      },
+      "page": 8,
+      "id": "CCQS-IND-023"
+    },
+    {
+      "competence": "Réfléchir sur des questions éthiques",
+      "composante": "Dégager la dimension éthique d’une situation",
+      "enonce": "Formuler une question éthique",
+      "cycles": {
+        "1": true,
+        "2": true
+      },
+      "page": 8,
+      "id": "CCQS-IND-024"
+    },
+    {
+      "competence": "Réfléchir sur des questions éthiques",
+      "composante": "Examiner une diversité de points de vue",
+      "enonce": "Considérer des points de vue et des expériences",
+      "cycles": {
+        "1": true,
+        "2": true
+      },
+      "page": 8,
+      "id": "CCQS-IND-025"
+    },
+    {
+      "competence": "Réfléchir sur des questions éthiques",
+      "composante": "Examiner une diversité de points de vue",
+      "enonce": "Comparer des repères",
+      "cycles": {
+        "1": true,
+        "2": true
+      },
+      "page": 8,
+      "id": "CCQS-IND-026"
+    },
+    {
+      "competence": "Réfléchir sur des questions éthiques",
+      "composante": "Examiner une diversité de points de vue",
+      "enonce": "Contextualiser les repères…",
+      "precision": "… en les situant dans le temps et l’espace",
+      "cycles": {
+        "1": true,
+        "2": true
+      },
+      "page": 8,
+      "id": "CCQS-IND-027"
+    },
+    {
+      "competence": "Réfléchir sur des questions éthiques",
+      "composante": "Examiner une diversité de points de vue",
+      "enonce": "Contextualiser les repères…",
+      "precision": "… en les reliant à l’environnement social et culturel",
+      "cycles": {
+        "1": false,
+        "2": true
+      },
+      "page": 8,
+      "id": "CCQS-IND-028"
+    },
+    {
+      "competence": "Réfléchir sur des questions éthiques",
+      "composante": "Examiner une diversité de points de vue",
+      "enonce": "Évaluer les raisonnements en présence…",
+      "precision": "… en repérant différentes erreurs de raisonnement — Déjà appris au primaire : Double faute, faux dilemme, argument d’autorité, appel au stéréotype, appel à la popularité, généralisation abusive, attaque personnelle • Nouveau au 1er cycle du secondaire : Appel au clan, caricature, appel à la tradition, appel à la nouveauté, appel aux émotions",
+      "cycles": {
+        "1": true,
+        "2": true
+      },
+      "page": 8,
+      "id": "CCQS-IND-029"
+    },
+    {
+      "competence": "Réfléchir sur des questions éthiques",
+      "composante": "Examiner une diversité de points de vue",
+      "enonce": "Évaluer les raisonnements en présence…",
+      "precision": "… en repérant différentes erreurs de raisonnement — Appel à l’ignorance, fausse analogie, pente fatale, fausse causalité, appel au complot",
+      "cycles": {
+        "1": false,
+        "2": true
+      },
+      "page": 8,
+      "id": "CCQS-IND-030"
+    },
+    {
+      "competence": "Réfléchir sur des questions éthiques",
+      "composante": "Examiner une diversité de points de vue",
+      "enonce": "Évaluer les raisonnements en présence…",
+      "precision": "… selon les types de jugement mobilisés",
+      "cycles": {
+        "1": true,
+        "2": true
+      },
+      "page": 8,
+      "id": "CCQS-IND-031"
+    },
+    {
+      "competence": "Réfléchir sur des questions éthiques",
+      "composante": "Examiner une diversité de points de vue",
+      "enonce": "Évaluer les raisonnements en présence…",
+      "precision": "… avec rigueur, en fonction des types de raisonnement",
+      "cycles": {
+        "1": false,
+        "2": true
+      },
+      "page": 8,
+      "id": "CCQS-IND-032"
+    },
+    {
+      "competence": "Réfléchir sur des questions éthiques",
+      "composante": "Examiner une diversité de points de vue",
+      "enonce": "Mettre en œuvre les conditions favorables à l’interaction",
+      "cycles": {
+        "1": true,
+        "2": true
+      },
+      "page": 8,
+      "id": "CCQS-IND-033"
+    },
+    {
+      "competence": "Réfléchir sur des questions éthiques",
+      "composante": "Élaborer un point de vue",
+      "enonce": "Sélectionner des repères à privilégier",
+      "precision": "… en identifiant des repères pertinents",
+      "cycles": {
+        "1": true,
+        "2": true
+      },
+      "page": 8,
+      "id": "CCQS-IND-034"
+    },
+    {
+      "competence": "Réfléchir sur des questions éthiques",
+      "composante": "Élaborer un point de vue",
+      "enonce": "Sélectionner des repères à privilégier",
+      "precision": "… en proposant des priorisations de repères",
+      "cycles": {
+        "1": false,
+        "2": true
+      },
+      "page": 8,
+      "id": "CCQS-IND-035"
+    },
+    {
+      "competence": "Réfléchir sur des questions éthiques",
+      "composante": "Élaborer un point de vue",
+      "enonce": "Identifier des réponses possibles",
+      "cycles": {
+        "1": true,
+        "2": true
+      },
+      "page": 8,
+      "id": "CCQS-IND-036"
+    },
+    {
+      "competence": "Réfléchir sur des questions éthiques",
+      "composante": "Élaborer un point de vue",
+      "enonce": "Évaluer les effets des réponses sur soi, les autres, les relations et la société",
+      "cycles": {
+        "1": true,
+        "2": true
+      },
+      "page": 8,
+      "id": "CCQS-IND-037"
+    },
+    {
+      "competence": "Réfléchir sur des questions éthiques",
+      "composante": "Élaborer un point de vue",
+      "enonce": "Justifier ses choix…",
+      "precision": "… en rendant compte de son raisonnement",
+      "cycles": {
+        "1": true,
+        "2": true
+      },
+      "page": 8,
+      "id": "CCQS-IND-038"
+    },
+    {
+      "competence": "Réfléchir sur des questions éthiques",
+      "composante": "Élaborer un point de vue",
+      "enonce": "Justifier ses choix…",
+      "precision": "… à l’aide de critères élaborés par soi-même",
+      "cycles": {
+        "1": false,
+        "2": true
+      },
+      "page": 8,
+      "id": "CCQS-IND-039"
+    },
+    {
+      "competence": "Réfléchir sur des questions éthiques",
+      "composante": "Dialoguer",
+      "enonce": "Prendre conscience de ses ressentis, de ses réactions et de son point de vue initial",
+      "cycles": {
+        "1": true,
+        "2": true
+      },
+      "page": 8,
+      "id": "CCQS-IND-040"
+    },
+    {
+      "competence": "Réfléchir sur des questions éthiques",
+      "composante": "Dialoguer",
+      "enonce": "Tenir compte des points de vue, des ressentis et des expériences des autres",
+      "cycles": {
+        "1": true,
+        "2": true
+      },
+      "page": 8,
+      "id": "CCQS-IND-041"
+    },
+    {
+      "competence": "Réfléchir sur des questions éthiques",
+      "composante": "Dialoguer",
+      "enonce": "Mobiliser des moyens pour appuyer ses idées",
+      "precision": "Déjà appris au primaire : Donner des exemples, faire des liens avec les idées des autres, définir, donner des raisons, distinguer, formuler un désaccord, donner des contre-exemples, reformuler les propos des autres, résumer – Nouveau au 1er cycle du secondaire : Examiner l’envers d’une position, nuancer, faire des analogies",
+      "cycles": {
+        "1": true,
+        "2": true
+      },
+      "page": 8,
+      "id": "CCQS-IND-042"
+    },
+    {
+      "competence": "Réfléchir sur des questions éthiques",
+      "composante": "Dialoguer",
+      "enonce": "Mobiliser des moyens pour appuyer ses idées",
+      "precision": "Dégager des présupposés, distinguer degré et nature",
+      "cycles": {
+        "1": false,
+        "2": true
+      },
+      "page": 8,
+      "id": "CCQS-IND-043"
+    },
+    {
+      "competence": "Réfléchir sur des questions éthiques",
+      "composante": "Dialoguer",
+      "enonce": "Mettre en œuvre les conditions favorables à l’interaction",
+      "cycles": {
+        "1": true,
+        "2": true
+      },
+      "page": 8,
+      "id": "CCQS-IND-044"
+    }
+  ],
+  "elements_lies_a_la_competence": [],
+  "contenus": [
+    {
+      "annee": "1",
+      "theme": "Identités et appartenances",
+      "orientations": "Dans le thème Identités et appartenances, les élèves sont amenés à poursuivre leur réflexion sur le processus de construction identitaire. Ils abordent différentes dimensions de l’identité (âge, origine culturelle et sociale, genre, groupes d’appartenance et d’affinité, etc.) qui se combinent et se transforment tout au long de la vie et selon les contextes pour former les identités plurielles des individus. En matière d’éducation à la sexualité, ce thème est l’occasion d’aborder les changements identitaires associés à l’entrée dans l’adolescence et aux éveils amoureux et sexuel, en lien notamment avec l’identité sexuelle et de genre ainsi qu’avec l’image corporelle. La socialisation est le processus à travers lequel l’individu intègre des comportements, des attitudes et des valeurs qui sont partagés dans ses milieux immédiats (famille, amis, culture première) et plus éloignés (école, milieu de travail ou parascolaire, culture seconde). C’est à travers la socialisation que les individus construisent leur identité et leur sentiment d’appartenance à une culture ou à un groupe et qu’ils assument progressivement divers rôles sociaux. La socialisation permet la transmission d’éléments valorisés de la culture, mais également de stéréotypes, notamment à propos du sexe et du genre, de l’âge, de la situation socioéconomique et de l’appartenance à un groupe ethnoculturel. Les individus peuvent développer diverses dynamiques d’appartenance au groupe selon leur degré d’accord avec les normes qui y prédominent. Les élèves sont amenés à réfléchir à différentes dynamiques d’appartenance, dont l’identification, la différenciation, le conformisme et la contestation, et à les interpréter. Le thème Identités et appartenances porte principalement sur la dimension relationnelle et sociale de la construction identitaire des élèves. Il peut soulever plusieurs enjeux éthiques importants, comme la mise en opposition de deux dimensions de l’identité, les tensions possibles entre les règles, les valeurs et les normes de deux groupes d’appartenance différents (par exemple la famille et l’école), les attentes de conformité des groupes et le désir de différenciation des individus.",
+      "colonnes": [
+        {
+          "concept_principal": "Identité",
+          "elements": [
+            {
+              "id": "CCQS-CON-001",
+              "notions_du_concept": true,
+              "notions": "Identité individuelle, identité collective, etc."
+            },
+            {
+              "id": "CCQS-CON-002",
+              "element": "Dimensions de l’identité",
+              "notions": "Classe sociale, sexe et genre, âge, appartenances religieuse et ethnoculturelle, dimension écologique de l’identité, etc."
+            },
+            {
+              "id": "CCQS-CON-003",
+              "element": "Identités plurielles",
+              "notions": "Identité complexe, intersectionnalité, identités numériques, etc."
+            },
+            {
+              "id": "CCQS-CON-004",
+              "element": "Transformation identitaire à l’adolescence",
+              "notions": "Puberté, image corporelle, affirmation progressive de l’autonomie, quête identitaire, crise identitaire, etc."
+            },
+            {
+              "id": "CCQS-CON-005",
+              "element": "Orientation sexuelle",
+              "notions": "Découverte de l’orientation sexuelle, affirmation de l’orientation sexuelle, etc."
+            }
+          ]
+        },
+        {
+          "concept_principal": "Socialisation",
+          "elements": [
+            {
+              "id": "CCQS-CON-006",
+              "notions_du_concept": true,
+              "notions": "Socialisation primaire et secondaire, espaces de socialisation (famille, groupe de pairs, école, médias sociaux, milieu de travail, etc.), etc."
+            },
+            {
+              "id": "CCQS-CON-007",
+              "element": "Culture première et culture seconde",
+              "notions": "Culture familiale, champs d’intérêt, formation des goûts, dispositions, habitus, culture scolaire, arts, sciences et patrimoine, etc."
+            },
+            {
+              "id": "CCQS-CON-008",
+              "element": "Rôles sociaux",
+              "notions": "Rôle professionnel, rôle familial, rôle citoyen, attentes sociales liées à une fonction ou à un statut, etc."
+            },
+            {
+              "id": "CCQS-CON-009",
+              "element": "Éveils amoureux et sexuel",
+              "notions": "Manifestation de l’amitié, de l’amour, de l’attirance, etc."
+            },
+            {
+              "id": "CCQS-CON-010",
+              "element": "Socialisation de genre",
+              "notions": "Développement de l’identité de sexe et de genre, normes et rôles sexuels et de genre, stéréotypes liés à la féminité et à la masculinité, socialisation de genre durant l’enfance et l’adolescence, etc."
+            }
+          ]
+        },
+        {
+          "concept_principal": "Dynamiques d’appartenance",
+          "elements": [
+            {
+              "id": "CCQS-CON-011",
+              "element": "Identification et différenciation",
+              "notions": "Groupes d’appartenance et groupes de référence (notamment à l’école et sur les plateformes numériques), auto-identification, assignation identitaire, etc."
+            },
+            {
+              "id": "CCQS-CON-012",
+              "element": "Conformisme et contestation",
+              "notions": "Place de la différenciation et de la contestation à l’adolescence, inclusion, exclusion, marginalisation, etc."
+            }
+          ]
+        }
+      ],
+      "page": 10
+    },
+    {
+      "annee": "1",
+      "theme": "Vie collective et espace public",
+      "orientations": "Dans le thème Vie collective et espace public, les élèves sont amenés à comprendre les structures qui encadrent la vie civique et la participation sociale au Québec et à réfléchir aux implications pour l’environnement des choix effectués par la collectivité. Les concepts d’espace public et d’espace privé permettent de réfléchir aux frontières parfois ambiguës de la citoyenneté. La vie citoyenne dans une société démocratique s’organise autour d’institutions publiques communes – propres au Québec et au Canada dans le cadre de ce programme – qui sont héritées du passé et qui ont comme mission de représenter la population dans toute sa complexité et de répondre à ses besoins variés. La cohésion sociale au Québec dépend notamment de l’accès, de l’adhésion et de la participation de la population à ces institutions publiques communes. La participation citoyenne, définie comme l’engagement des individus dans leur collectivité dans un objectif de bien commun et de vivre-ensemble, peut se déployer dans plusieurs lieux qui permettent l’expression ou la mise en œuvre des idées ou des valeurs. Ces lieux comprennent les médias traditionnels et numériques, les associations et les organisations sociales ou politiques ainsi que les diverses communautés d’appartenance à toutes les échelles, notamment celle de l’école. Les élèves sont amenés à comprendre comment les choix collectifs ont des effets sur les personnes et les groupes, mais aussi sur l’environnement dans lequel ils vivent, que ce soit à l’échelle de leurs milieux de vie immédiats ou du territoire du Québec. À cet égard, ils s’intéressent au concept de vision holistique, qui repose sur le principe de l’indissociabilité de l’individu, de la communauté et de l’environnement. Ce thème amène les élèves à se pencher sur les notions de citoyenneté, d’institutions publiques communes et de diversité de la société et de la nation québécoises. Une compréhension générale des diverses dimensions de la vie collective et des multiples espaces d’exercice de la citoyenneté québécoise est nécessaire pour saisir que cette dernière ne se limite pas aux institutions démocratiques et qu’elle peut contribuer à la cohésion sociale. Plusieurs enjeux éthiques peuvent être reliés à ce thème, dont la reconnaissance du français comme langue officielle du Québec et le statut des langues autochtones et de l’anglais ainsi que les conceptions différentes en matière de frontières entre l’espace privé et l’espace public, d’intervention de l’État dans la vie des personnes ou encore d’écoresponsabilité.",
+      "colonnes": [
+        {
+          "concept_principal": "Espace public et espace privé",
+          "elements": [
+            {
+              "id": "CCQS-CON-013",
+              "notions_du_concept": true,
+              "notions": "Frontières changeantes entre le public et le privé (en raison notamment du développement des technologies numériques), politisation de questions perçues comme privées (ex. : violence familiale), expressions relatives aux sphères publique et privée (« intérêt public », « le privé est politique », etc.), etc."
+            }
+          ]
+        },
+        {
+          "concept_principal": "Citoyenneté",
+          "elements": [
+            {
+              "id": "CCQS-CON-014",
+              "notions_du_concept": true,
+              "notions": "Conditions d’accès à la citoyenneté, diversité des statuts liés à la citoyenneté, immigration, etc."
+            },
+            {
+              "id": "CCQS-CON-015",
+              "element": "Institutions publiques communes",
+              "notions": "Institutions démocratiques, cadre juridique commun, gouvernement, institutions publiques (hôpitaux, écoles, services sociaux, etc.), intégration des nouveaux arrivants et arrivantes, etc."
+            },
+            {
+              "id": "CCQS-CON-016",
+              "element": "Héritages culturels",
+              "notions": "Premiers Peuples, héritages français et britannique, catholicisme et protestantisme, démocratie, laïcité, nordicité, etc."
+            },
+            {
+              "id": "CCQS-CON-017",
+              "element": "Diversité sociale",
+              "notions": "Diversité ethnoculturelle, linguistique, religieuse, socioéconomique, de genre et d’orientation sexuelle, d’âge, de capacité, etc."
+            }
+          ]
+        },
+        {
+          "concept_principal": "Cohésion sociale",
+          "elements": [
+            {
+              "id": "CCQS-CON-018",
+              "notions_du_concept": true,
+              "notions": "Confiance ou méfiance à l’endroit des institutions, sentiment d’appartenance, situation d’exclusion ou d’accès quant au marché du travail et aux biens et services publics (santé, éducation, etc.), engagement dans la communauté et les affaires publiques, tolérance et intolérance au regard de la différence, etc."
+            }
+          ]
+        },
+        {
+          "concept_principal": "Participation citoyenne",
+          "elements": [
+            {
+              "id": "CCQS-CON-019",
+              "notions_du_concept": true,
+              "notions": "Différentes formes de participation citoyenne (publique, sociale et électorale), espaces de participation citoyenne (médias traditionnels et numériques, associations et organisations publiques et privées, organismes communautaires et non gouvernementaux, école [conseil de classe, comité d’élèves, etc.] et communauté [maison des jeunes, conseil municipal, etc.], espaces informels [voisinage, jardin communautaire, etc.]), actions individuelles et actions collectives, effet des industries médiatiques et des médias alternatifs sur la participation citoyenne, etc."
+            }
+          ]
+        },
+        {
+          "concept_principal": "Écoresponsabilité",
+          "elements": [
+            {
+              "id": "CCQS-CON-020",
+              "notions_du_concept": true,
+              "notions": "Écocitoyenneté, responsabilité environnementale, initiatives écosociales à l’échelle locale et régionale, simplicité volontaire, etc."
+            },
+            {
+              "id": "CCQS-CON-021",
+              "element": "Vision holistique",
+              "notions": "Approche communautaire, roue de la médecine, cercle de la vie, cycles de la vie, modèle holistique de l’apprentissage, etc."
+            }
+          ]
+        }
+      ],
+      "page": 12
+    },
+    {
+      "annee": "2",
+      "theme": "Autonomie et interdépendance",
+      "orientations": "Le thème Autonomie et interdépendance s’inscrit dans la continuité des éléments de contenu du thème Identités et appartenances. L’autonomie peut être conçue comme la capacité de l’individu à prendre des décisions le concernant de manière à répondre à ses besoins et à ses aspirations. L’autonomie de pensée permet de réfléchir de manière critique, que ce soit en matière de relations avec les autres, d’environnement, de sexualité ou de citoyenneté. Les élèves sont amenés à comprendre que les capacités d’agir et de penser par soi-même sont contextualisées et qu’elles se développent de manière variable tout au long du processus de socialisation, lors duquel l’individu intériorise des normes qui visent l’autorégulation de son comportement. Dans ce thème, les élèves sont amenés à réfléchir au fait qu’il n’y a pas de contradiction entre la quête d’autonomie et de liberté et la reconnaissance des nombreuses relations d’interdépendance qui organisent la vie des personnes dans la société québécoise. Ces relations d’interdépendance peuvent exister entre les générations, dans les relations intimes et dans la division du travail ou encore lier les êtres humains au reste des êtres vivants. Les élèves sont également amenés à développer une compréhension nuancée des relations amoureuses et de l’agir sexuel à l’adolescence au Québec et à les relier aux concepts généraux d’autonomie et d’interdépendance, notamment en se penchant sur les bénéfices associés à la mutualité. Ils réfléchissent aux défis qui peuvent être vécus dans ces nouveaux contextes relationnels et s’intéressent à la notion de consentement afin d’apprendre à identifier les situations de violence et les actions possibles pour les prévenir ou les dénoncer. Ils peuvent ainsi réfléchir aux tensions et aux défis parfois vécus en contexte de relations amoureuses et affectives ou lors d’une rupture ou d’une peine d’amour. À l’échelle collective, les élèves s’interrogent aussi sur les pratiques de solidarité et d’entraide qui existent dans leur environnement immédiat et dans la société québécoise. Ils peuvent réfléchir notamment aux tensions entre la poursuite des intérêts personnels et les valeurs d’entraide et de solidarité qui sont susceptibles de coexister dans les cadres familial, communautaire ou national.",
+      "colonnes": [
+        {
+          "concept_principal": "Autonomie",
+          "elements": [
+            {
+              "id": "CCQS-CON-022",
+              "element": "Autorégulation",
+              "notions": "Régulation émotionnelle, régulation comportementale, etc."
+            },
+            {
+              "id": "CCQS-CON-023",
+              "element": "Autodétermination",
+              "notions": "Émancipation, libération, pouvoir d’agir, agentivité, etc."
+            },
+            {
+              "id": "CCQS-CON-024",
+              "element": "Liberté de choix",
+              "notions": "Limites et conditions d’exercice de la liberté, choix et contraintes, marge de manœuvre individuelle, etc."
+            },
+            {
+              "id": "CCQS-CON-025",
+              "element": "Individualisme",
+              "notions": "Intérêts personnels, égocentrisme, centralité de l’individu, normes individualistes, etc."
+            }
+          ]
+        },
+        {
+          "concept_principal": "Interdépendance",
+          "elements": [
+            {
+              "id": "CCQS-CON-026",
+              "element": "Liens intergénérationnels",
+              "notions": "Relations avec les grands-parents, les aînés et les ancêtres, prise en charge des enfants et des personnes en situation de dépendance, transmission de la culture, responsabilité envers les générations futures, etc."
+            },
+            {
+              "id": "CCQS-CON-027",
+              "element": "Division du travail",
+              "notions": "Interdépendance du travail salarié et du travail non rémunéré (travail parental, proche aidance, bénévolat, etc.), spécialisation professionnelle, etc."
+            },
+            {
+              "id": "CCQS-CON-028",
+              "element": "Écosystème",
+              "notions": "Relations entre les êtres vivants, communauté biotique, interdépendance dans la consommation, etc."
+            }
+          ]
+        },
+        {
+          "concept_principal": "Relations intimes à l’adolescence",
+          "elements": [
+            {
+              "id": "CCQS-CON-029",
+              "element": "Trajectoires amoureuses",
+              "notions": "Caractéristiques des pratiques et des représentations en matière de relations intimes, de séduction à l’adolescence, de vision des relations amoureuses, etc."
+            },
+            {
+              "id": "CCQS-CON-030",
+              "element": "Mutualité",
+              "notions": "Prise en compte des besoins des partenaires, réciprocité et confiance, intimité affective à l’adolescence, etc."
+            },
+            {
+              "id": "CCQS-CON-031",
+              "element": "Agir sexuel",
+              "notions": "Dimensions de l’agir sexuel, exploration, désir et excitation sexuels, connaissance et affirmation de soi, respect des limites, agir sexuel en contexte numérique, etc."
+            },
+            {
+              "id": "CCQS-CON-032",
+              "element": "Défis relationnels",
+              "notions": "Divergence des besoins et des attentes, communication et résolution des conflits, rupture amoureuse, peine d’amour, etc."
+            },
+            {
+              "id": "CCQS-CON-033",
+              "element": "Consentement et violence sexuelle",
+              "notions": "Composantes du consentement, validation et contextes d’invalidité, fausses représentations et préjugés liés à la violence sexuelle, prévention et dénonciation de la violence, soutien aux personnes victimes, témoins ou auteures de violence, etc."
+            }
+          ]
+        },
+        {
+          "concept_principal": "Solidarité sociale",
+          "elements": [
+            {
+              "id": "CCQS-CON-034",
+              "element": "Entraide familiale et entre proches",
+              "notions": "Gardiennage, proche aidance, soutien familial, fraternité et sororité, etc."
+            },
+            {
+              "id": "CCQS-CON-035",
+              "element": "Entraide collective",
+              "notions": "Organisations publiques (ministères et organismes, services publics, politiques et programmes publics, etc.), organisations de la société civile (groupes religieux, organismes communautaires, fondations privées et organismes philanthropiques), rôle des outils numériques dans l’entraide, etc."
+            }
+          ]
+        }
+      ],
+      "page": 14
+    },
+    {
+      "annee": "2",
+      "theme": "Démocratie et ordre social",
+      "orientations": "Le thème Démocratie et ordre social s’inscrit dans la continuité des éléments de contenu du thème Vie collective et espace public. Il amène les élèves à approfondir leur connaissance des institutions démocratiques du Québec et du Canada et à comprendre les liens entre leur fonctionnement et les principes qui les fondent. En particulier, les élèves s’intéressent au caractère laïque de la démocratie québécoise et aux différents points de vue et perspectives sur les implications de la laïcité dans l’organisation de la vie politique et sociale, en lien par exemple avec la neutralité de l’État en matière religieuse et les modalités de la séparation de l’État et de la religion. Ils examinent le fonctionnement des différents types de systèmes politiques d’ici, par exemple sous l’angle de la répartition des pouvoirs à l’échelle des municipalités, de la province ou du pays, et se penchent sur le rôle des partis et des associations politiques dans le dialogue démocratique à l’échelle de la nation québécoise, mais également en contexte scolaire. Ils étudient aussi les particularités de l’organisation politique des Premiers Peuples, et s’interrogent sur l’équilibre entre les droits des personnes, les intérêts de la collectivité (droits collectifs) et les responsabilités citoyennes. Les élèves réfléchissent aux diverses structures de contre-pouvoir politique, comme les médias d’information, les syndicats et les mouvements sociaux. Ils explorent la façon dont les institutions politiques ont mis en place des mécanismes qui permettent d’encadrer la gestion des désaccords et des conflits. Les élèves sont amenés à comprendre le rôle des normes dans le maintien de l’ordre social ainsi que les contraintes et les possibilités qu’elles impliquent sur les plans individuel et collectif. Ils réfléchissent aux raisons de se conformer à l’ordre social ou de le remettre en question et aux sanctions formelles ou informelles qui découlent de la transgression des normes. Plusieurs enjeux éthiques peuvent être reliés à ce thème : les tensions entre les droits des personnes et les intérêts de la collectivité, celles entre le principe démocratique de la majorité et le respect des droits des minorités et des Premiers Peuples, les limites de la démocratie représentative, celles de l’usage de la violence par les forces de police et l’armée, les enjeux entourant la désobéissance civile, etc.",
+      "colonnes": [
+        {
+          "concept_principal": "Démocratie",
+          "elements": [
+            {
+              "id": "CCQS-CON-036",
+              "notions_du_concept": true,
+              "notions": "Types de démocratie (représentative, participative, directe) et valeurs démocratiques, caractéristiques des sociétés libres et démocratiques, séparation des pouvoirs, État de droit, égalité, rôle de l’élection et de la représentation (notamment en contexte scolaire), etc."
+            }
+          ]
+        },
+        {
+          "concept_principal": "Institutions démocratiques du Québec et du Canada",
+          "elements": [
+            {
+              "id": "CCQS-CON-037",
+              "element": "Paliers gouvernementaux",
+              "notions": "Rôles respectifs des paliers municipal, provincial et fédéral, partage des pouvoirs, etc."
+            },
+            {
+              "id": "CCQS-CON-038",
+              "element": "Fonctionnement des systèmes politiques québécois et canadien",
+              "notions": "Rôle des pouvoirs législatif (Assemblée nationale, Chambre des communes et Sénat), exécutif (gouvernement) et judiciaire (tribunaux), fonctionnement des élections, modes de scrutin, consultation publique et référendum, etc."
+            },
+            {
+              "id": "CCQS-CON-039",
+              "element": "Laïcité de l’État québécois",
+              "notions": "Séparation de l’État et de la religion, neutralité de l’État en matière religieuse, égalité de tous les citoyens et citoyennes, liberté de conscience, Loi sur la laïcité de l’État, etc."
+            },
+            {
+              "id": "CCQS-CON-040",
+              "element": "Partis et associations politiques",
+              "notions": "Bipartisme et multipartisme, opposition officielle, politique active et implication politique, etc."
+            },
+            {
+              "id": "CCQS-CON-041",
+              "element": "Organisation politique des Premiers Peuples",
+              "notions": "Conseils de bande et gouvernance traditionnelle, conseils tribaux, gouvernance locale et régionale, autodétermination politique, etc."
+            }
+          ]
+        },
+        {
+          "concept_principal": "Droits et responsabilités",
+          "elements": [
+            {
+              "id": "CCQS-CON-042",
+              "element": "Droits des personnes",
+              "notions": "Droits civils et politiques, droits économiques, sociaux et culturels, contrat social, libéralisme, liberté et égalité, etc."
+            },
+            {
+              "id": "CCQS-CON-043",
+              "element": "Intérêts de la collectivité (droits collectifs)",
+              "notions": "Minorité et majorité, droits et intérêts respectifs de la majorité francophone et de la minorité anglophone, droits des femmes, droits reproductifs, droits des peuples autochtones, etc."
+            },
+            {
+              "id": "CCQS-CON-044",
+              "element": "Responsabilités citoyennes",
+              "notions": "Responsabilité de participation sociale, respect des lois et des droits, notamment dans l’usage de la liberté d’expression, participation à l’amélioration des processus démocratiques, etc."
+            }
+          ]
+        },
+        {
+          "concept_principal": "Ordre social",
+          "elements": [
+            {
+              "id": "CCQS-CON-045",
+              "element": "Transgressions et sanctions",
+              "notions": "Moyens d’imposition des normes et d’application des sanctions prévues par la loi, conséquences d’une faute en matière de droit civil et d’une infraction en matière de droit criminel, rôle des forces policières et de l’armée dans l’application des lois et le maintien de l’ordre social, désobéissance civile, contrôle social, criminalité, marginalité, etc."
+            },
+            {
+              "id": "CCQS-CON-046",
+              "element": "Contre-pouvoirs",
+              "notions": "Actions politiques extérieures aux institutions, rôle des organisations communautaires et des mouvements citoyens, rôle des médias d’information en démocratie, effets des technologies numériques sur le dialogue démocratique, etc."
+            }
+          ]
+        }
+      ],
+      "page": 16
+    },
+    {
+      "annee": "4",
+      "theme": "Relations et bienveillance",
+      "orientations": "Le thème Relations et bienveillance s’inscrit dans la continuité des éléments de contenu abordés au 1er cycle du secondaire dans les thèmes Identités et appartenances et Autonomie et interdépendance. Comprenant mieux comment se construisent leur identité et leur autonomie dans le contexte de relations d’appartenance et d’interdépendance, les élèves peuvent réfléchir de manière critique au rôle des pratiques de bienveillance dans leur relation avec eux-mêmes et dans la conduite de leurs interactions avec les autres, mais également dans leur rapport au collectif et à l’environnement dans lesquels ils évoluent, donc en lien avec leur vie citoyenne en contexte québécois. Pour bon nombre d’élèves, l’adolescence est un moment d’exploration de l’attirance, du sentiment amoureux et des intimités affective et sexuelle. Les principes de réciprocité, de souci de l’autre et de respect de soi prennent dans ce contexte une signification nouvelle. Les élèves s’interrogent sur ce qui caractérise les expériences affectives et sexuelles positives et sur le rôle du désir et du plaisir dans celles-ci. Ils sont amenés à développer leur compréhension et leur réflexion concernant les différences entre conflit et violence, les dynamiques de genre qui interviennent dans les relations amoureuses et sexuelles et, de manière générale, leurs cadres de référence relationnels, notamment en lien avec l’égalité et le respect de soi. Dans ce thème, les élèves sont amenés à réfléchir à certaines notions clés associées aux pratiques de bienveillance, comme l’altruisme, le care et l’écologisme. Cette réflexion peut s’appliquer aux relations entre les générations, au soutien des personnes en perte d’autonomie, aux animaux et à l’environnement. S’attarder à ces pratiques de bienveillance permet de saisir leur rôle central dans le fonctionnement de la société québécoise. Les notions abordées peuvent être mobilisées dans l’analyse et la réflexion relatives aux communications numériques, à l’authenticité, aux conflits et à l’hostilité que peuvent vivre les élèves en ligne, par exemple dans des situations de polarisation des points de vue ou de discours haineux. Les élèves réfléchissent également à ce qui entoure l’expression de soi et de la sexualité dans divers contextes numériques.",
+      "colonnes": [
+        {
+          "concept_principal": "Expériences intimes positives",
+          "elements": [
+            {
+              "id": "CCQS-CON-047",
+              "element": "Désir et plaisir sexuels",
+              "notions": "Fantasmes amoureux et sexuels, plaisir psychologique et physique, phases de la réponse sexuelle, etc."
+            },
+            {
+              "id": "CCQS-CON-048",
+              "element": "Intimités affective et sexuelle",
+              "notions": "Contextes et motivations internes et externes relatifs à l’agir sexuel, réciprocité, dynamique relationnelle, etc."
+            },
+            {
+              "id": "CCQS-CON-049",
+              "element": "Relations égalitaires et respect de soi",
+              "notions": "Normes différenciées selon le sexe et le genre, lien entre responsabilité partagée et comportements sexuels égalitaires, consensuels et sécuritaires, etc."
+            },
+            {
+              "id": "CCQS-CON-050",
+              "element": "Violence dans les relations intimes",
+              "notions": "Continuum de la violence, formes et manifestations de la violence en contexte amoureux, signes annonciateurs, moyens de prévenir ou de faire cesser la violence, etc."
+            }
+          ]
+        },
+        {
+          "concept_principal": "Pratiques de bienveillance",
+          "elements": [
+            {
+              "id": "CCQS-CON-051",
+              "element": "Care",
+              "notions": "Reconnaissance de la vulnérabilité et de la dépendance à autrui, pratiques de soin et d’entretien de la vie, accompagnement, entretien et réparation de l’environnement matériel, attention et sensibilité, place du care dans l’espace public et politique, etc."
+            },
+            {
+              "id": "CCQS-CON-052",
+              "element": "Altruisme",
+              "notions": "Empathie, compassion, altérité, sollicitude, etc."
+            },
+            {
+              "id": "CCQS-CON-053",
+              "element": "Écologisme",
+              "notions": "Protection de la nature, des animaux et de la biodiversité, adaptation aux changements climatiques, pratiques écologiques, notamment en lien avec l’alimentation et le mode de vie, antispécisme, biorégionalisme, etc."
+            }
+          ]
+        },
+        {
+          "concept_principal": "Communication numérique",
+          "elements": [
+            {
+              "id": "CCQS-CON-054",
+              "element": "Bienveillance et hostilité en ligne",
+              "notions": "Réglementation et encadrement de la communication numérique, cyberintimidation, harcèlement en ligne, campagnes de solidarité et de soutien en ligne, etc."
+            },
+            {
+              "id": "CCQS-CON-055",
+              "element": "Authenticité",
+              "notions": "Anonymat et avatar, pseudonyme, etc."
+            },
+            {
+              "id": "CCQS-CON-056",
+              "element": "Expression numérique de la sexualité",
+              "notions": "Séduction en ligne, partage d’images intimes (sextage), présentation de soi, etc."
+            }
+          ]
+        }
+      ],
+      "page": 18
+    },
+    {
+      "annee": "4",
+      "theme": "Justice et droit",
+      "orientations": "Le thème Justice et droit s’inscrit dans la continuité des éléments de contenu abordés au 1er cycle dans les thèmes Vie collective et espace public et Démocratie et ordre social. Les concepts de justice et d’injustice, ainsi que de discrimination, font l’objet de réflexions qui permettent d’en définir les frontières et les fondements. La compréhension des principes sur lesquels s’appuient les institutions de justice qui ont juridiction au Québec et des types de justice qui s’appliquent permet une meilleure appréhension de ces institutions et de leurs rôles respectifs au Québec. Les élèves se concentrent sur certaines institutions juridiques et judiciaires qui sont particulièrement importantes, comme les tribunaux, les chartes des droits et libertés (québécoise et canadienne) ainsi que les codes criminel et civil. La connaissance de ces principes et des cadres juridiques en vigueur aux différents paliers gouvernementaux du Québec et du Canada, notamment ceux relatifs aux adolescents en général, permet aux élèves d’interpréter la dimension juridique de multiples situations significatives pour eux et d’y réfléchir. Ils comprennent peu à peu comment le droit est une institution sociale qui se transforme, qui traduit les conceptions culturellement variables de la justice et qui a des implications dans leur quotidien. De manière plus particulière, ils se penchent sur la définition du consentement et des violences sexuelle et conjugale dans le Code criminel ainsi que sur d’autres balises qui encadrent la vie amoureuse et sexuelle au Québec, en lien avec le partage d’images intimes ou le matériel sexuellement explicite par exemple. Ce thème permet aussi d’aborder des enjeux éthiques fondamentaux, relatifs notamment à l’exercice de la justice (réhabilitation, punition et réparation), aux droits concernant la vie et la mort (avortement, clonage, eugénisme, peine de mort, suicide, droits de fin de vie, proportionnalité des soins, etc.) ou aux questions de justice sociale (répartition des richesses, limites de l’intervention de l’État, lutte contre les discriminations, etc.), de droit de l’environnement et de droits des animaux.",
+      "colonnes": [
+        {
+          "concept_principal": "Justice",
+          "elements": [
+            {
+              "id": "CCQS-CON-057",
+              "element": "Principes de justice",
+              "notions": "Présomption d’innocence, proportionnalité de la peine, non- rétroactivité des lois, droit au silence, impartialité, etc."
+            },
+            {
+              "id": "CCQS-CON-058",
+              "element": "Types de justice",
+              "notions": "Justice pénale et justice civile, punition et réhabilitation, réparation (reconnaissance et compensation), redistribution, justice environnementale ou climatique, justice distributrice, justice commutatrice, justice sociale, justice procédurale, justice corrective, etc."
+            }
+          ]
+        },
+        {
+          "concept_principal": "Injustice",
+          "elements": [
+            {
+              "id": "CCQS-CON-059",
+              "notions_du_concept": true,
+              "notions": "Iniquité, exploitation, extorsion, abus, profilage, assujettissement, etc."
+            },
+            {
+              "id": "CCQS-CON-060",
+              "element": "Discrimination",
+              "notions": "Discrimination directe et indirecte, discrimination systémique, etc."
+            }
+          ]
+        },
+        {
+          "concept_principal": "Institutions juridiques et judiciaires vie",
+          "elements": [
+            {
+              "id": "CCQS-CON-061",
+              "element": "Tribunaux et recours juridiques",
+              "notions": "Autorité et indépendance des tribunaux, ordre judiciaire (première instance, Cour d’appel, Cour suprême), jurisprudence, Chambre de la jeunesse, Commission des droits de la personne et des droits de la jeunesse, Tribunal des droits de la personne, modes autochtones de régulation des conflits (justice réparatrice, cercle de partage, etc.), médiation, arbitrage, fonctionnement d’un procès, pénitenciers et prisons, centres jeunesse, etc."
+            },
+            {
+              "id": "CCQS-CON-062",
+              "element": "Chartes des droits et libertés",
+              "notions": "Charte [québécoise] des droits et libertés de la personne, Charte canadienne des droits et libertés, droits fondamentaux reconnus par les chartes (droit à la vie, à la sûreté, à la liberté, à la réputation, à l’intégrité, etc.), etc."
+            },
+            {
+              "id": "CCQS-CON-063",
+              "element": "Code criminel et Code civil",
+              "notions": "Droit criminel et droit civil, Loi sur la protection de la jeunesse, Loi sur le système de justice pénale pour les adolescents, responsabilité civile (diffamation, dommage à la propriété, etc.), propriété intellectuelle (Loi sur le droit d’auteur), droit de l’environnement, droits des animaux, etc."
+            }
+          ]
+        },
+        {
+          "concept_principal": "Encadrement juridique de la amoureuse et sexuelle",
+          "elements": [
+            {
+              "id": "CCQS-CON-064",
+              "element": "Consentement et violence sexuelle",
+              "notions": "Définition juridique du consentement sexuel, demandes répétées et partage consensuel et non consensuel d’images intimes, cyberviolence, exploitation sexuelle des personnes mineures, matériel sexuellement explicite, recours juridiques en matière de violence sexuelle, tribunaux spécialisés, etc."
+            },
+            {
+              "id": "CCQS-CON-065",
+              "element": "Violence conjugale",
+              "notions": "Définition juridique de la violence conjugale, continuum de la violence, formes de la violence conjugale (physique, psychologique, économique et culturelle), féminicide, effets de la violence familiale sur les enfants, etc."
+            }
+          ]
+        }
+      ],
+      "page": 20
+    },
+    {
+      "annee": "4",
+      "theme": "Culture et productions symboliques",
+      "orientations": "La culture québécoise est à l’étude dans chacun des thèmes du programme. Toutefois, le thème Culture et productions symboliques amène les élèves à aborder plus précisément le concept de culture et ses différentes composantes afin de mieux comprendre comment la culture s’inscrit dans les multiples facettes de la vie humaine et comment elle est révélatrice des relations sociales et des particularités des groupes et des sous-groupes qui composent la société québécoise. Dans ce thème, la culture québécoise demeure le contexte privilégié pour comprendre les concepts généraux et particuliers prescrits et y réfléchir. La culture peut être matérielle ou immatérielle. Elle est immatérielle quand elle concerne les langues, les arts, les pratiques, les savoirs et les représentations. Par exemple, les expressions langagières, les particularités culinaires et les productions audiovisuelles ou musicales québécoises sont des formes de culture immatérielle. La culture matérielle, quant à elle, regroupe toutes les traces physiques et concrètes de la culture. Patrimoniale ou non, elle inclut autant les usages du corps et les objets de la vie quotidienne que le patrimoine bâti ou religieux québécois. Les formes de la culture, notamment religieuse, diffèrent selon les milieux sociaux et se transforment dans le temps. Les élèves sont amenés à réfléchir au fait que les sous-cultures reflètent les relations sociales diversifiées qui structurent la société québécoise. Ainsi, ils se penchent sur ce qui distingue et caractérise les cultures classiques que valorisent les institutions comme l’école, les cultures populaires et les cultures alternatives. De même, les cultures autochtones, qui ne s’inscrivent pas dans cette classification, varient selon les nations et les communautés. Les élèves sont par ailleurs amenés à étudier les représentations de la sexualité dans diverses formes de productions culturelles québécoises (comme les arts visuels, le cinéma ou la musique) et à y réfléchir sous divers angles. Les enjeux éthiques soulevés par les distinctions étudiées dans ce thème peuvent être nombreux : dévalorisation de certaines formes culturelles, consommation de productions culturelles québécoises ou étrangères, rôle de l’État dans la préservation du patrimoine culturel, différences générationnelles en matière de goûts culturels, influence des représentations de la sexualité dans les productions culturelles sur la représentation de soi, etc.",
+      "colonnes": [
+        {
+          "concept_principal": "Culture",
+          "elements": [
+            {
+              "id": "CCQS-CON-066",
+              "notions_du_concept": true,
+              "notions": "Dimension symbolique du réel, conceptions de la culture, etc."
+            },
+            {
+              "id": "CCQS-CON-067",
+              "element": "Culture matérielle et immatérielle",
+              "notions": "Patrimoine bâti, objets de consommation, langues, arts, coutumes, croyances, savoirs, etc."
+            },
+            {
+              "id": "CCQS-CON-068",
+              "element": "Cultures numériques",
+              "notions": "Formes de communication, de création et d’interaction au moyen des technologies numériques, arts numériques, types de discours numériques et nouveaux thèmes, multimodalité, etc."
+            },
+            {
+              "id": "CCQS-CON-069",
+              "element": "Transformation culturelle",
+              "notions": "Hybridation culturelle et acculturation, diffusion culturelle, stéréotype culturel, emprunt culturel, etc."
+            },
+            {
+              "id": "CCQS-CON-070",
+              "element": "Culture religieuse",
+              "notions": "Patrimoine religieux, diversité des pratiques et des croyances religieuses au sein des religions, présence de références et de symboles religieux (textes, récits, figures, etc.) dans la culture séculière, déplacement des religiosités, etc."
+            }
+          ]
+        },
+        {
+          "concept_principal": "Sous-culture",
+          "elements": [
+            {
+              "id": "CCQS-CON-071",
+              "notions_du_concept": true,
+              "notions": "Diversité culturelle, culture régionale, culture générationnelle, culture ethnique, culture professionnelle, etc."
+            },
+            {
+              "id": "CCQS-CON-072",
+              "element": "Culture classique et culture scolaire",
+              "notions": "Institutions culturelles, musées, élite culturelle, etc."
+            },
+            {
+              "id": "CCQS-CON-073",
+              "element": "Cultures populaire et de masse",
+              "notions": "Culture des classes populaires, icônes, consommation de masse, médias de masse et contrôle social, industries culturelles, etc."
+            },
+            {
+              "id": "CCQS-CON-074",
+              "element": "Cultures alternatives",
+              "notions": "Contre-culture, culture émergente, etc."
+            }
+          ]
+        },
+        {
+          "concept_principal": "Cultures autochtones",
+          "elements": [
+            {
+              "id": "CCQS-CON-075",
+              "notions_du_concept": true,
+              "notions": "Arts, langues et modes de vie autochtones, lien au territoire, affirmation identitaire, etc."
+            }
+          ]
+        },
+        {
+          "concept_principal": "Représentations de la sexualité",
+          "elements": [
+            {
+              "id": "CCQS-CON-076",
+              "notions_du_concept": true,
+              "notions": "Représentations de la sexualité dans les arts plastiques, le cinéma, la musique et la littérature, sexualisation de l’espace public, matériel sexuellement explicite, normes sexuelles, esthétiques et corporelles genrées, diversité sexuelle dans les médias, effet des contenus numériques sur les représentations médiatiques de la sexualité, etc."
+            }
+          ]
+        }
+      ],
+      "page": 22
+    },
+    {
+      "annee": "4",
+      "theme": "Technologies et défis d’avenir",
+      "orientations": "Le thème Technologies et défis d’avenir amène les élèves à réfléchir aux réalités culturelles qui font intervenir les innovations technologiques des dernières décennies et qui soulèvent des enjeux éthiques et sociaux importants. La compréhension de ces réalités souvent récentes exige aussi des connaissances sur les conditions de production, le fonctionnement et l’usage de ces technologies ainsi que sur leurs effets dans la vie des personnes et des collectivités. Certaines innovations technologiques dans le domaine de la biologie ont permis des avancées rapides en matière de santé et de reproduction, mais interpellent également le sens de la vie et la définition même de l’humanité. Le développement de l’intelligence artificielle et des algorithmes a des répercussions sur des valeurs et des principes fondamentaux de la vie sociale et culturelle ainsi que de la démocratie au Québec, étant donné notamment l’orientation automatisée des informations disponibles et des mouvements de l’opinion ainsi que la reproduction ou l’accentuation des biais sociocognitifs. De grands défis d’avenir se présentent également sur le plan environnemental, et les décisions individuelles et collectives se placent sur un continuum entre le rejet de la technologie et la croyance selon laquelle cette dernière est la principale solution. Les défis posés par les nouvelles technologies et les réponses variées qui sont proposées témoignent des dynamiques culturelles en présence au Québec, notamment des conceptions de la justice et de l’équilibre entre les droits individuels et les intérêts de la collectivité. Les élèves sont ainsi amenés à analyser et à examiner diverses perspectives à propos des biotechnologies, du transhumanisme et du posthumanisme de même que de l’intelligence artificielle, en plus de réfléchir aux choix à privilégier individuellement et collectivement compte tenu de l’ampleur des défis.",
+      "colonnes": [
+        {
+          "concept_principal": "Technologie",
+          "elements": [
+            {
+              "id": "CCQS-CON-077",
+              "notions_du_concept": true,
+              "notions": "Usage de la technologie à différentes échelles, technophilie, technophobie, technocritique, technosolutionnisme, déconnexion du monde vivant, etc."
+            }
+          ]
+        },
+        {
+          "concept_principal": "Innovation technologique",
+          "elements": [
+            {
+              "id": "CCQS-CON-078",
+              "notions_du_concept": true,
+              "notions": "Visions de l’innovation technologique, notion de « progrès », etc."
+            },
+            {
+              "id": "CCQS-CON-079",
+              "element": "Transhumanisme et posthumanisme",
+              "notions": "Augmentation des capacités humaines, cyborgs, futurisme, frontières de l’humanité, etc."
+            },
+            {
+              "id": "CCQS-CON-080",
+              "element": "Biotechnologies",
+              "notions": "Nanotechnologie, sciences cognitives, traitement des maladies, reproduction technologiquement assistée, sélection génétique et eugénisme, organismes génétiquement modifiés, animaux transgéniques, etc."
+            },
+            {
+              "id": "CCQS-CON-081",
+              "element": "Intelligence artificielle",
+              "notions": "Réalité virtuelle, apprentissage profond, robots industriels et domestiques, robots humanoïdes, etc."
+            }
+          ]
+        },
+        {
+          "concept_principal": "Technologies de l’information",
+          "elements": [
+            {
+              "id": "CCQS-CON-082",
+              "notions_du_concept": true,
+              "notions": "Médias sociaux, audience numérique, enjeux économiques des industries médiatiques, données massives (big data), protection des renseignements personnels, cyberdépendance, mobidépendance, etc."
+            },
+            {
+              "id": "CCQS-CON-083",
+              "element": "Algorithmes",
+              "notions": "Fonctionnement des algorithmes, prise de décision automatisée, chambres d’écho, effets des algorithmes sur la vie sociale et politique et sur les biais sociocognitifs, liens entre les technologies de l’information et la désinformation, etc."
+            }
+          ]
+        },
+        {
+          "concept_principal": "Technologie environnementale",
+          "elements": [
+            {
+              "id": "CCQS-CON-084",
+              "notions_du_concept": true,
+              "notions": "Visions du développement durable, effets (potentiel et limites) des innovations technologiques sur l’environnement (économie verte axée sur l’innovation technologique), décroissance, capitalisme vert, transition énergétique, etc."
+            }
+          ]
+        }
+      ],
+      "page": 24
+    },
+    {
+      "annee": "5",
+      "theme": "Quête de sens et visions du monde",
+      "orientations": "Le thème Quête de sens et visions du monde s’inscrit dans la continuité des éléments de contenu abordés depuis la 1re année du secondaire. Il amène les élèves à connaître de grandes questions existentielles qui ont traversé l’histoire de l’humanité et à y réfléchir. Des questions fondamentales relatives au sens de la vie ou à la nature de l’être humain ont été abordées par les religions, les philosophies, les sciences, les courants de pensée politiques, etc. Les réponses à ces questions sont variées et peuvent être mobilisées à la fois dans une réflexion sur la construction de soi comme individu et de ses relations avec les autres et dans les discussions sur les choix collectifs à privilégier au Québec. À l’orée de l’âge adulte, les élèves se penchent sur les différentes manières d’opérer ce passage. Ils s’intéressent à différents aspects de l’intégration sociale et culturelle, notamment au rôle de certains choix importants ou de moments charnières (dont ceux en lien avec les choix professionnels ou relatifs à la parentalité) et à celui des rites de passage qui caractérisent cette période de la vie. À travers ce thème, les élèves sont invités à reconnaître et à distinguer différentes formes de savoirs, dont les savoirs oraux, pratiques et expérientiels, idéologiques, philosophiques, religieux et scientifiques, qui ont des fonctions particulières et des valeurs différenciées selon le contexte. Ils se questionnent aussi sur la place de la sexualité globale dans leur vie présente et future ainsi que sur le rôle de l’introspection dans le développement individuel et dans la compréhension de soi et du monde qui les entoure. Ce thème n’a pas comme objectif d’offrir des réponses particulières à la quête de sens des élèves ou de leur transmettre une vision du monde. Il s’agit plutôt de les amener à réfléchir aux réponses à certaines questions existentielles qu’apporte la culture seconde (ouvrages de philosophie, productions artistiques, etc.), aux expériences marquantes, aux situations d’ambivalence vécues par l’individu et à leur incidence sur la construction identitaire et sur les relations entretenues avec les autres. Les élèves sont amenés à comprendre le rapport dynamique existant entre la conception que l’on se fait de l’être humain, les réponses et les visions du monde que l’on adopte et leurs effets sur les personnes et la société.",
+      "colonnes": [
+        {
+          "concept_principal": "Construction de soi",
+          "elements": [
+            {
+              "id": "CCQS-CON-085",
+              "element": "Questions philosophiques existentielles",
+              "notions": "Sens de la vie et de la mort, libre arbitre et déterminisme, ambivalence de l’être humain (sentiments en opposition, conflit de valeurs, complexité de l’humain, ambiguïté, incertitude, cas de conscience, etc.), bonheur et malheur, etc."
+            },
+            {
+              "id": "CCQS-CON-086",
+              "element": "Agentivité sexuelle et affirmation de soi",
+              "notions": "Définition de ses besoins et capacité à s’affirmer, à prendre des décisions en matière de sexualité et à éprouver du plaisir sexuel, image corporelle positive, etc."
+            },
+            {
+              "id": "CCQS-CON-087",
+              "element": "Réflexion sur soi et introspection",
+              "notions": "Cheminement personnel, rôle des épreuves dans la construction de soi, globalité de la sexualité, développement de soi et bien-être, introspection en lien avec la sexualité, etc."
+            }
+          ]
+        },
+        {
+          "concept_principal": "Intégration sociale et culturelle",
+          "elements": [
+            {
+              "id": "CCQS-CON-088",
+              "notions_du_concept": true,
+              "notions": "Place du numérique dans l’intégration sociale et culturelle, organisation sociale, etc."
+            },
+            {
+              "id": "CCQS-CON-089",
+              "element": "Relations interpersonnelles, affectives et amoureuses",
+              "notions": "Place et importance des relations amoureuses et interpersonnelles dans la vie, équilibre entre dépendance et autonomie, capacité d’intimité affective, réciprocité, etc."
+            },
+            {
+              "id": "CCQS-CON-090",
+              "element": "Rites de passage et expériences marquantes",
+              "notions": "Moments charnières, initiations, effets et significations pour les personnes ou les groupes (dont la transformation, la libération et l’engagement), etc."
+            },
+            {
+              "id": "CCQS-CON-091",
+              "element": "Choix relatifs à l’âge adulte",
+              "notions": "Choix professionnels, parentalité, responsabilités individuelles et collectives liées à la sexualité (grossesse planifiée ou non, infections transmissibles sexuellement et par le sang [ITSS]), etc."
+            },
+            {
+              "id": "CCQS-CON-092",
+              "element": "Engagement social",
+              "notions": "Engagement dans une cause (environnementale, en faveur de l’égalité, etc.), bénévolat, expression de ses opinions dans l’espace public, implication sociale dans un groupe, etc."
+            }
+          ]
+        },
+        {
+          "concept_principal": "Formes de savoirs",
+          "elements": [
+            {
+              "id": "CCQS-CON-093",
+              "notions_du_concept": true,
+              "notions": "Modes de connaissance, fonctions des diverses formes de savoirs, etc."
+            },
+            {
+              "id": "CCQS-CON-094",
+              "element": "Religions et spiritualités",
+              "notions": "Grandes religions monothéistes, spiritualités autochtones (guides spirituels, porteurs de tambours traditionnels, tentes de sudation, etc.), nouveaux mouvements religieux, spiritualités laïques, etc."
+            },
+            {
+              "id": "CCQS-CON-095",
+              "element": "Philosophies",
+              "notions": "Rationalisme, matérialisme, idéalisme, ontologie, métaphysique, logique, etc."
+            },
+            {
+              "id": "CCQS-CON-096",
+              "element": "Idéologies",
+              "notions": "Libéralisme, conservatisme, communisme, socialisme, nationalisme, féminisme, écologie politique, etc."
+            },
+            {
+              "id": "CCQS-CON-097",
+              "element": "Savoirs oraux, pratiques et expérientiels",
+              "notions": "Savoirs ancestraux, récits de pratique, savoirs issus de l’expérience, modes de connaissance autochtones (tradition orale, vision holistique de l’apprentissage, pratiques traditionnelles sur le territoire), etc."
+            },
+            {
+              "id": "CCQS-CON-098",
+              "element": "Sciences",
+              "notions": "Sciences de la nature, sciences humaines et sociales, sciences expérimentales, etc."
+            }
+          ]
+        }
+      ],
+      "page": 26
+    },
+    {
+      "annee": "5",
+      "theme": "Groupes sociaux et rapports de pouvoir",
+      "orientations": "Le thème Groupes sociaux et rapports de pouvoir s’inscrit dans la continuité des éléments de contenu abordés depuis la 1re secondaire à propos des dynamiques sociales et culturelles qui relient l’individu aux différents groupes auxquels il appartient et au cadre politique et juridique qui encadre l’exercice de la citoyenneté au Québec. L’exercice de la citoyenneté soulève régulièrement la question des inégalités sociales. Les élèves sont amenés à travers ce thème à réfléchir aux rapports de pouvoir à l’œuvre entre les groupes et à comprendre pourquoi, malgré des principes d’égalité inscrits dans les chartes des droits et libertés, les inégalités sociales existent encore au Québec. Cette question est d’autant plus importante que de nombreuses initiatives en faveur de l’égalité ont été entreprises par l’État (lois, organismes, politiques, plans d’action, etc.) ou les mouvements sociaux (syndicalisme, féminisme, nationalisme, décolonialisme, etc.) et ont contribué à réduire les inégalités au Québec. Les inégalités, qui peuvent être définies comme la distribution inégale des ressources (économiques, politiques, symboliques, etc.) entre les groupes d’une société, expliquent en grande partie les situations de discrimination, de violence ou d’exploitation qui peuvent persister et générer un sentiment d’injustice. Comprendre le fonctionnement des inégalités permet d’identifier des pistes d’action en faveur de l’égalité et de la justice. L’étude des mouvements sociaux permet aux élèves de constater qu’ils forment eux-mêmes un groupe hétérogène et marqué par les inégalités. Le changement social est complexe parce qu’il implique des réformes institutionnelles, mais aussi des changements dans les mentalités et les pratiques de la population. Ce thème n’amène pas les élèves à adhérer à une vision particulière des inégalités sociales et des mouvements sociaux, mais à examiner la diversité des conceptions et des savoirs en ces matières afin de développer leur capacité d’avoir une pensée critique, de faire des nuances et de participer de manière autonome et constructive au dialogue démocratique concernant ces questions.",
+      "colonnes": [
+        {
+          "concept_principal": "Pouvoir",
+          "elements": [
+            {
+              "id": "CCQS-CON-099",
+              "notions_du_concept": true,
+              "notions": "Capacités, délégation du pouvoir, formes de pouvoir, pouvoir légitime, etc."
+            }
+          ]
+        },
+        {
+          "concept_principal": "Inégalités sociales",
+          "elements": [
+            {
+              "id": "CCQS-CON-100",
+              "notions_du_concept": true,
+              "notions": "Types d’inégalités, effet général des inégalités (discrimination, stigmatisation, ségrégation, marginalisation, exclusion, violence, etc.), autres inégalités sociales (âgisme, capacitisme, inégalités linguistiques, etc.), etc."
+            },
+            {
+              "id": "CCQS-CON-101",
+              "element": "Sexisme et autres inégalités en lien avec le genre et la sexualité",
+              "notions": "Misogynie, contrôle du corps et des capacités reproductives des femmes, division sexuelle du travail, hétéronor- mativité, homo-, lesbo-, bi- et transphobie, violence sexuelle, etc."
+            },
+            {
+              "id": "CCQS-CON-102",
+              "element": "Racisme et colonialisme",
+              "notions": "Ethnocentrisme, xénophobie, profilage racial, appropriation culturelle, génocide, etc."
+            },
+            {
+              "id": "CCQS-CON-103",
+              "element": "Inégalités socioéconomiques",
+              "notions": "Pauvreté et richesse, précarité, exploitation, classes sociales, etc."
+            },
+            {
+              "id": "CCQS-CON-104",
+              "element": "Inégalités environnementales",
+              "notions": "Santé environnementale, lien entre qualité de l’environnement de vie (îlots de chaleur, qualité de l’air, etc.) et inégalités sociales, justice environne- mentale, justice climatique, etc."
+            }
+          ]
+        },
+        {
+          "concept_principal": "Égalité et inclusion sociale",
+          "elements": [
+            {
+              "id": "CCQS-CON-105",
+              "notions_du_concept": true,
+              "notions": "Égalité de droit, égalité de fait, etc."
+            },
+            {
+              "id": "CCQS-CON-106",
+              "element": "Politiques publiques égalitaires",
+              "notions": "Mesures d’action positive, fiscales, d’accessibilité universelle et d’accommodement raisonnable, politiques de lutte contre les violences, plans d’action et stratégies politiques, équité salariale, etc."
+            },
+            {
+              "id": "CCQS-CON-107",
+              "element": "Pratiques égalitaires",
+              "notions": "Partage du travail domestique, de la charge mentale et des soins, conscientisation, sensibilisation, etc."
+            },
+            {
+              "id": "CCQS-CON-108",
+              "element": "Réconciliation",
+              "notions": "Reconnaissance des séquelles intergénérationnelles des pensionnats, de la Loi sur les Indiens et de la dépossession territoriale, Commission de vérité et réconciliation, Commission d’enquête sur les relations entre les Autochtones et certains services publics au Québec, etc."
+            }
+          ]
+        },
+        {
+          "concept_principal": "Mouvement social",
+          "elements": [
+            {
+              "id": "CCQS-CON-109",
+              "notions_du_concept": true,
+              "notions": "Féminisme, syndicalisme, nationalisme, décolonialisme, antiracisme, mouvement LGBTQ+, écologisme, formes d’actions collectives (manifestations, lobbyisme, actions directes, etc.), rôle des médias numériques dans les mobilisations sociales, organismes communautaires de défense des droits, etc."
+            }
+          ]
+        },
+        {
+          "concept_principal": "Changement social",
+          "elements": [
+            {
+              "id": "CCQS-CON-110",
+              "notions_du_concept": true,
+              "notions": "Réforme, révolution, évolution des représentations et des pratiques, facteurs de changement (démographiques, techniques, économiques, politiques, individuels, etc.), etc."
+            }
+          ]
+        }
+      ],
+      "page": 28
+    }
+  ]
+}
