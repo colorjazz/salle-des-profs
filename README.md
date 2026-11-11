@@ -27,6 +27,7 @@ La tentative de Gemini (`gemini/resultats/inventaire-pfeq-gemini-OBSOLETE.csv`) 
 |---|---|
 | `pda-fra-primaire.json` | 1 188 savoirs, progression de la 1re à la 6e année, contenu prioritaire |
 | `pda-mat-primaire.json` | 244 savoirs par domaine (rubriques Vocabulaire et Symboles à part) |
+| `pda-als-primaire.json` | Anglais, langue seconde, primaire : 140 savoirs en 5 catégories ; tableau du 1er cycle (34, progression `1-2` quand la cellule du cycle est fusionnée) et tableau des 2e et 3e cycles (106, colonnes 3 à 6) ; `rubrique` (ex. « Demande d’information ») et `section` (ex. « B—STRATÉGIES D’APPRENTISSAGE ») |
 | `pda-mat-secondaire.json` | 426 savoirs, 6 champs ; colonne `primaire` (rappel des acquis de 6e année), puis 1re à 5e ; en 4e et 5e, valeur commune ou objet par séquence `CST`, `TS`, `SN` (154 savoirs) ; notes de la PDA dans `note_pda` ; formules en notation linéaire (`^` exposant, `_` indice) |
 | `pda-st-ste-secondaire.json` | Science et technologie (ST) et Science et technologie de l’environnement (STE) : 611 savoirs, 6 univers ou parties ; colonnes `1`, `2`, `3`, `4` (ST) et `4-STE` ; `losange` : énoncé propre au programme obligatoire (73) ; stratégies `abordee_au_primaire` (lettre P) |
 | `pda-ats-se-secondaire.json` | Applications technologiques et scientifiques (ATS) et Science et environnement (SE) : 558 savoirs ; colonnes `1` à `4` (ATS) et `4-SE` ; 41 losanges |
@@ -47,7 +48,7 @@ La tentative de Gemini (`gemini/resultats/inventaire-pfeq-gemini-OBSOLETE.csv`) 
 
 | Ordre | Validées (contrôle de logique sans erreur ou cas conformes au document) | À adapter |
 |---|---|---|
-| Primaire | Français, mathématique, science et technologie, univers social, éducation physique, art dramatique, arts plastiques, danse, musique, culture et citoyenneté québécoise | Anglais, langue seconde (colonne de catégories en plus, pages à image) |
+| Primaire | Français, mathématique, science et technologie, univers social, éducation physique, art dramatique, arts plastiques, danse, musique, culture et citoyenneté québécoise, anglais langue seconde | — |
 | Secondaire | Art dramatique, arts plastiques, danse, éducation physique, musique, français langue seconde (base et enrichi), intégration linguistique, mathématique, sciences (ST, STE, ATS, SE), chimie, physique, univers social (géographie, histoire et éducation à la citoyenneté, géographie culturelle, histoire du 20e siècle, monde contemporain), anglais langue seconde (base et enrichi), espagnol, culture et citoyenneté québécoise | Français (pages à image) |
 
 Progression : `apprentissage` (flèche), `maitrise` (étoile), `reinvestissement` (case bleue), `null` (vide).
@@ -87,6 +88,12 @@ Univers social : PDA à une ou deux colonnes au 1er cycle, et « Précision des 
 python3 -I outils/extraire_pda_us_sec.py PDA-geographie.pdf GEO donnees/pda-geo-secondaire.json
 python3 -I outils/extraire_pda_us_sec.py PDA-histoire.pdf HEC donnees/pda-hec-secondaire.json
 python3 -I outils/extraire_precisions_us.py Precision.pdf MC4 "Monde contemporain (4 unités)" 5e donnees/precision-mc4-secondaire.json
+```
+
+Anglais, langue seconde, au primaire (deux tableaux côte à côte ; cellules dessinées par des rectangles à bordure, rangées du 1er cycle lues d'après la colonne de progression) :
+
+```bash
+python3 -I outils/extraire_pda_als_primaire.py PDA-anglais-primaire.pdf donnees/pda-als-primaire.json
 ```
 
 Culture et citoyenneté québécoise (document de 2024, tout en texte : tableaux découpés d'après les traits de chaque colonne) :

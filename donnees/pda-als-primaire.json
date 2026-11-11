@@ -1,0 +1,2443 @@
+{
+  "discipline": "Anglais, langue seconde",
+  "code_discipline": "ALS",
+  "ordre": "primaire",
+  "source": "anglais-langue-seconde.pdf",
+  "annees": [
+    "1",
+    "2",
+    "3",
+    "4",
+    "5",
+    "6"
+  ],
+  "legende": {
+    "1er cycle": "Tableau de gauche (langage contextuel, etc.) : colonnes 1 et 2, ou `1-2` quand le document fusionne la cellule du cycle",
+    "2e et 3e cycles": "Tableau de droite : colonnes 3 à 6",
+    "rubrique": "Intitulé en gras qui regroupe les énoncés (ex. « Demande d’information »)"
+  },
+  "bilan": {
+    "nombre_savoirs": 140,
+    "1er_cycle": 34,
+    "2e_3e_cycles": 106,
+    "a_verifier": 0
+  },
+  "savoirs": [
+    {
+      "id": "ALS-C1G-001",
+      "champ": "Catégorie 1 – Langage contextuel et langage fonctionnel",
+      "cycle": "1er cycle",
+      "section": "LANGAGE CONTEXTUEL",
+      "chemin": [],
+      "rubrique": "Routine de classe",
+      "texte": "Employer des questions ou des énoncés courants (ex. : Finished? Red pencil? That’s correct.)",
+      "progression": {
+        "1-2": "apprentissage"
+      },
+      "page": 4,
+      "a_verifier": false,
+      "note": "",
+      "note_pda": "1"
+    },
+    {
+      "id": "ALS-C1G-002",
+      "champ": "Catégorie 1 – Langage contextuel et langage fonctionnel",
+      "cycle": "1er cycle",
+      "section": "LANGAGE CONTEXTUEL",
+      "chemin": [],
+      "rubrique": "Routine de classe",
+      "texte": "Participer aux réponses en chœur (ex. : Hurry up. No problem.)",
+      "progression": {
+        "1-2": "apprentissage"
+      },
+      "page": 5,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ALS-C1G-003",
+      "champ": "Catégorie 1 – Langage contextuel et langage fonctionnel",
+      "cycle": "1er cycle",
+      "chemin": [],
+      "rubrique": "Routine de classe",
+      "texte": "Réagir aux consignes (ex. : I’m ready.)",
+      "progression": {
+        "1-2": "apprentissage"
+      },
+      "page": 5,
+      "a_verifier": false,
+      "note": "",
+      "note_pda": "1"
+    },
+    {
+      "id": "ALS-C1G-004",
+      "champ": "Catégorie 1 – Langage contextuel et langage fonctionnel",
+      "cycle": "1er cycle",
+      "chemin": [],
+      "rubrique": "Répertoire de mots et de courtes expressions",
+      "texte": "Décrire des personnes ou des personnages, des objets (ex. : Big. Big monster. Blue pants. Delicious apples.)",
+      "progression": {
+        "1-2": "apprentissage"
+      },
+      "page": 5,
+      "a_verifier": false,
+      "note": "",
+      "note_pda": "1"
+    },
+    {
+      "id": "ALS-C1G-005",
+      "champ": "Catégorie 1 – Langage contextuel et langage fonctionnel",
+      "cycle": "1er cycle",
+      "chemin": [],
+      "rubrique": "Répertoire de mots et de courtes expressions",
+      "texte": "Exprimer ses propres besoins immédiats (ex. : Problem, no pencil. Pass sharpener? Drink, please.)",
+      "progression": {
+        "1-2": "apprentissage"
+      },
+      "page": 6,
+      "a_verifier": false,
+      "note": "",
+      "note_pda": "1"
+    },
+    {
+      "id": "ALS-C1G-006",
+      "champ": "Catégorie 1 – Langage contextuel et langage fonctionnel",
+      "cycle": "1er cycle",
+      "chemin": [],
+      "rubrique": "Répertoire de mots et de courtes expressions",
+      "texte": "Exprimer des idées (ex. : Happy, today. I like red. Sing “Reach for the Sky.” No, sing “Old MacDonald.”)",
+      "progression": {
+        "1-2": "apprentissage"
+      },
+      "page": 7,
+      "a_verifier": false,
+      "note": "",
+      "note_pda": "1"
+    },
+    {
+      "id": "ALS-C1G-007",
+      "champ": "Catégorie 1 – Langage contextuel et langage fonctionnel",
+      "cycle": "1er cycle",
+      "chemin": [],
+      "rubrique": "Répertoire de mots et de courtes expressions",
+      "texte": "Utiliser des expressions élémentaires de politesse (ex. : Hi. Hello. Please. Thank-you. Excuse me.)",
+      "progression": {
+        "1-2": "apprentissage"
+      },
+      "page": 7,
+      "a_verifier": false,
+      "note": "",
+      "note_pda": "1"
+    },
+    {
+      "id": "ALS-C1G-008",
+      "champ": "Catégorie 1 – Langage contextuel et langage fonctionnel",
+      "cycle": "1er cycle",
+      "chemin": [],
+      "rubrique": "Routine de classe",
+      "texte": "Donner des encouragements (ex. : Hooray! Good job! Beautiful!)",
+      "progression": {
+        "1-2": "apprentissage"
+      },
+      "page": 8,
+      "a_verifier": false,
+      "note": "",
+      "note_pda": "1"
+    },
+    {
+      "id": "ALS-C1G-009",
+      "champ": "Catégorie 1 – Langage contextuel et langage fonctionnel",
+      "cycle": "1er cycle",
+      "chemin": [],
+      "rubrique": "Répertoire de mots et de courtes expressions",
+      "texte": "Utiliser des expressions pendant le travail en équipe de deux (ex. : My turn/your turn. Good idea. Wait a minute.)",
+      "progression": {
+        "1-2": "apprentissage"
+      },
+      "page": 8,
+      "a_verifier": false,
+      "note": "",
+      "note_pda": "1"
+    },
+    {
+      "id": "ALS-C1G-010",
+      "champ": "Catégorie 1 – Langage contextuel et langage fonctionnel",
+      "cycle": "1er cycle",
+      "chemin": [],
+      "rubrique": "Répertoire de mots et de courtes expressions",
+      "texte": "Utiliser des expressions contenant des mots d’action (ex. : Clap your hands. Turn around. Come here.)",
+      "progression": {
+        "1-2": "apprentissage"
+      },
+      "page": 8,
+      "a_verifier": false,
+      "note": "",
+      "note_pda": "1"
+    },
+    {
+      "id": "ALS-C1G-011",
+      "champ": "Catégorie 1 – Langage contextuel et langage fonctionnel",
+      "cycle": "1er cycle",
+      "chemin": [],
+      "rubrique": "Répertoire de mots et de courtes expressions",
+      "texte": "Utiliser du vocabulaire lié aux objets (ex. : mittens, desk, flashcards)",
+      "progression": {
+        "1-2": "apprentissage"
+      },
+      "page": 8,
+      "a_verifier": false,
+      "note": "",
+      "note_pda": "1"
+    },
+    {
+      "id": "ALS-C1G-012",
+      "champ": "Catégorie 1 – Langage contextuel et langage fonctionnel",
+      "cycle": "1er cycle",
+      "chemin": [],
+      "rubrique": "Répertoire de mots et de courtes expressions",
+      "texte": "Utiliser du vocabulaire lié aux personnes (ex. : friends, mom/dad, girl/boy)",
+      "progression": {
+        "1-2": "apprentissage"
+      },
+      "page": 8,
+      "a_verifier": false,
+      "note": "",
+      "note_pda": "1"
+    },
+    {
+      "id": "ALS-C1G-013",
+      "champ": "Catégorie 1 – Langage contextuel et langage fonctionnel",
+      "cycle": "1er cycle",
+      "chemin": [],
+      "rubrique": "Langage en rapport avec les chansons, les comptines et les histoires",
+      "texte": "Établir son répertoire personnel de mots et de courtes expressions en participant aux chansons et aux comptines",
+      "progression": {
+        "1-2": "apprentissage"
+      },
+      "page": 8,
+      "a_verifier": false,
+      "note": "",
+      "note_pda": "1"
+    },
+    {
+      "id": "ALS-C1G-014",
+      "champ": "Catégorie 1 – Langage contextuel et langage fonctionnel",
+      "cycle": "1er cycle",
+      "chemin": [],
+      "rubrique": "Langage en rapport avec les chansons, les comptines et les histoires",
+      "texte": "Établir son répertoire personnel de mots et de courtes expressions en disant les passages répétitifs des histoires",
+      "progression": {
+        "1-2": "apprentissage"
+      },
+      "page": 8,
+      "a_verifier": false,
+      "note": "",
+      "note_pda": "1"
+    },
+    {
+      "id": "ALS-C2G-001",
+      "champ": "Catégorie 2 – Stratégies",
+      "cycle": "1er cycle",
+      "chemin": [],
+      "rubrique": "Demande d’aide",
+      "texte": "Demander de l’aide",
+      "progression": {
+        "1-2": "apprentissage"
+      },
+      "page": 10,
+      "a_verifier": false,
+      "note": "",
+      "note_pda": "1"
+    },
+    {
+      "id": "ALS-C2G-002",
+      "champ": "Catégorie 2 – Stratégies",
+      "cycle": "1er cycle",
+      "chemin": [],
+      "rubrique": "Demande d’aide",
+      "texte": "Demander à l’interlocuteur de répéter",
+      "progression": {
+        "1-2": "apprentissage"
+      },
+      "page": 11,
+      "a_verifier": false,
+      "note": "",
+      "note_pda": "1"
+    },
+    {
+      "id": "ALS-C2G-003",
+      "champ": "Catégorie 2 – Stratégies",
+      "cycle": "1er cycle",
+      "chemin": [],
+      "rubrique": "Gestes",
+      "texte": "S’exprimer par des gestes, faute de pouvoir trouver les mots appropriés",
+      "progression": {
+        "1-2": "apprentissage"
+      },
+      "page": 11,
+      "a_verifier": false,
+      "note": "",
+      "note_pda": "1"
+    },
+    {
+      "id": "ALS-C2G-004",
+      "champ": "Catégorie 2 – Stratégies",
+      "cycle": "1er cycle",
+      "section": "B—STRATÉGIES D’APPRENTISSAGE",
+      "chemin": [],
+      "rubrique": "Utilisation du langage non verbal",
+      "texte": "Mimer une réponse pour montrer sa compréhension et faciliter l’apprentissage",
+      "progression": {
+        "1-2": "apprentissage"
+      },
+      "page": 11,
+      "a_verifier": false,
+      "note": "",
+      "note_pda": "1"
+    },
+    {
+      "id": "ALS-C2G-005",
+      "champ": "Catégorie 2 – Stratégies",
+      "cycle": "1er cycle",
+      "chemin": [],
+      "rubrique": "Autorégulation",
+      "texte": "Vérifier et adapter sa performance en cours",
+      "progression": {
+        "1-2": "apprentissage"
+      },
+      "page": 11,
+      "a_verifier": false,
+      "note": "",
+      "note_pda": "1"
+    },
+    {
+      "id": "ALS-C2G-006",
+      "champ": "Catégorie 2 – Stratégies",
+      "cycle": "1er cycle",
+      "chemin": [],
+      "rubrique": "Autoévaluation",
+      "texte": "Évaluer sa réussite sur les plans de l’apprentissage et de la performance après une séquence d’apprentissage",
+      "progression": {
+        "1-2": "apprentissage"
+      },
+      "page": 11,
+      "a_verifier": false,
+      "note": "",
+      "note_pda": "1"
+    },
+    {
+      "id": "ALS-C2G-007",
+      "champ": "Catégorie 2 – Stratégies",
+      "cycle": "1er cycle",
+      "chemin": [],
+      "rubrique": "Attention dirigée",
+      "texte": "Décider de prêter attention à une tâche et de ne pas se laisser distraire",
+      "progression": {
+        "1-2": "apprentissage"
+      },
+      "page": 11,
+      "a_verifier": false,
+      "note": "",
+      "note_pda": "1"
+    },
+    {
+      "id": "ALS-C2G-008",
+      "champ": "Catégorie 2 – Stratégies",
+      "cycle": "1er cycle",
+      "chemin": [],
+      "rubrique": "Activation des connaissances antérieures",
+      "texte": "Tirer parti de ses connaissances antérieures comme sources d’information",
+      "progression": {
+        "1-2": "apprentissage"
+      },
+      "page": 11,
+      "a_verifier": false,
+      "note": "",
+      "note_pda": "1"
+    },
+    {
+      "id": "ALS-C2G-009",
+      "champ": "Catégorie 2 – Stratégies",
+      "cycle": "1er cycle",
+      "chemin": [],
+      "rubrique": "Anticipation",
+      "texte": "Anticiper grâce à ses connaissances antérieures, à la tâche à accomplir, au sujet et aux illustrations",
+      "progression": {
+        "1-2": "apprentissage"
+      },
+      "page": 11,
+      "a_verifier": false,
+      "note": "",
+      "note_pda": "1"
+    },
+    {
+      "id": "ALS-C2G-010",
+      "champ": "Catégorie 2 – Stratégies",
+      "cycle": "1er cycle",
+      "chemin": [],
+      "rubrique": "Inférence",
+      "texte": "Deviner intelligemment à partir de tous les indices disponibles, comme le contexte, les mots apparentés, les mots et expressions connus, les indices visuels, les supports visuels, l’intonation et les passages répétitifs",
+      "progression": {
+        "1-2": "apprentissage"
+      },
+      "page": 12,
+      "a_verifier": false,
+      "note": "",
+      "note_pda": "1"
+    },
+    {
+      "id": "ALS-C2G-011",
+      "champ": "Catégorie 2 – Stratégies",
+      "cycle": "1er cycle",
+      "chemin": [],
+      "rubrique": "Pratique",
+      "texte": "Redire, répéter, regrouper, intégrer et assimiler des mots et des expressions (ex. : participer aux chansons et aux comptines, dire les passages répétitifs des histoires)",
+      "progression": {
+        "1-2": "apprentissage"
+      },
+      "page": 12,
+      "a_verifier": false,
+      "note": "",
+      "note_pda": "1"
+    },
+    {
+      "id": "ALS-C2G-012",
+      "champ": "Catégorie 2 – Stratégies",
+      "cycle": "1er cycle",
+      "chemin": [],
+      "rubrique": "Utilisation des ressources",
+      "texte": "Tirer parti des ressources humaines (ex. : enseignants et pairs)",
+      "progression": {
+        "1-2": "apprentissage"
+      },
+      "page": 12,
+      "a_verifier": false,
+      "note": "",
+      "note_pda": "1"
+    },
+    {
+      "id": "ALS-C2G-013",
+      "champ": "Catégorie 2 – Stratégies",
+      "cycle": "1er cycle",
+      "chemin": [],
+      "rubrique": "Utilisation des ressources",
+      "texte": "Tirer parti des ressources matérielles prévues pour l’exécution de la tâche (ex. : affiches, cartes éclairs)",
+      "progression": {
+        "1-2": "apprentissage"
+      },
+      "page": 12,
+      "a_verifier": false,
+      "note": "",
+      "note_pda": "1"
+    },
+    {
+      "id": "ALS-C2G-014",
+      "champ": "Catégorie 2 – Stratégies",
+      "cycle": "1er cycle",
+      "chemin": [],
+      "rubrique": "Coopération",
+      "texte": "Travailler avec les autres, apprendre avec les autres et s’entraider dans la classe",
+      "progression": {
+        "1-2": "apprentissage"
+      },
+      "page": 12,
+      "a_verifier": false,
+      "note": "",
+      "note_pda": "1"
+    },
+    {
+      "id": "ALS-C2G-015",
+      "champ": "Catégorie 2 – Stratégies",
+      "cycle": "1er cycle",
+      "chemin": [],
+      "rubrique": "Coopération",
+      "texte": "Utiliser des mots, des groupes de mots et des expressions pour parler uniquement en anglais",
+      "progression": {
+        "1-2": "apprentissage"
+      },
+      "page": 13,
+      "a_verifier": false,
+      "note": "",
+      "note_pda": "1"
+    },
+    {
+      "id": "ALS-C2G-016",
+      "champ": "Catégorie 2 – Stratégies",
+      "cycle": "1er cycle",
+      "chemin": [],
+      "rubrique": "Coopération",
+      "texte": "Expérimenter avec le langage connu",
+      "progression": {
+        "1-2": "apprentissage"
+      },
+      "page": 13,
+      "a_verifier": false,
+      "note": "",
+      "note_pda": "1"
+    },
+    {
+      "id": "ALS-C2G-017",
+      "champ": "Catégorie 2 – Stratégies",
+      "cycle": "1er cycle",
+      "chemin": [],
+      "rubrique": "Coopération",
+      "texte": "Tenter d’assimiler du langage nouveau",
+      "progression": {
+        "1-2": "apprentissage"
+      },
+      "page": 13,
+      "a_verifier": false,
+      "note": "",
+      "note_pda": "1"
+    },
+    {
+      "id": "ALS-C4G-001",
+      "champ": "Catégorie 4 – Les composantes d’un texte",
+      "cycle": "1er cycle",
+      "chemin": [],
+      "rubrique": "Éléments clés",
+      "texte": "Identifier oralement des personnages, des actions, des objets et des endroits",
+      "progression": {
+        "1-2": "apprentissage"
+      },
+      "page": 18,
+      "a_verifier": false,
+      "note": "",
+      "note_pda": "1"
+    },
+    {
+      "id": "ALS-C4G-002",
+      "champ": "Catégorie 4 – Les composantes d’un texte",
+      "cycle": "1er cycle",
+      "chemin": [],
+      "rubrique": "Événements",
+      "texte": "Identifier oralement les principaux événements",
+      "progression": {
+        "1-2": "apprentissage"
+      },
+      "page": 18,
+      "a_verifier": false,
+      "note": "",
+      "note_pda": "1"
+    },
+    {
+      "id": "ALS-C5G-001",
+      "champ": "Catégorie 5 – Repères culturels et produits culturels",
+      "cycle": "1er cycle",
+      "chemin": [],
+      "rubrique": "Moyens de découverte des REPÈRES CULTURELS",
+      "texte": "Chansons et comptines Comptines Formulettes d’élimination Ritournelles pour saut à la corde Chansons avec gestes Rondes Chansons pour accompagner les jeux de ballon Chansons pour accompagner les jeux de mains Chansons à chanter en chœur Histoires (ex. : Mouse’s First Halloween, Red is Best, The Very Hungry Caterpillar) Modèles audio authentiques Productions audio : DVD et CD Personnes-ressources (ex. : enseignant, conférenciers invités)",
+      "progression": {
+        "1-2": "apprentissage"
+      },
+      "page": 19,
+      "a_verifier": false,
+      "note": "",
+      "note_pda": "1"
+    },
+    {
+      "id": "ALS-C1D-001",
+      "champ": "Catégorie 1 – Langage contextuel et langage fonctionnel",
+      "cycle": "2e et 3e cycles",
+      "chemin": [
+        "H. Douglas Brow voie au répertoire personnel de mots, de groupes de mots et de e qui lui convient pour l’aider à développer les compétences muniquer oralement en anglais. nctionnel, est en mesure d’interagir oralement en anglais en l est formé d’expressions utiles (formules d’usage et expressions sens appartenant au système de la langue). Les expressions la compétence Interagir oralement en anglais. En outre, le mpétences Réinvestir sa compréhension de textes lus et rtent un volet sur le contexte d’apprentissage, où sont décrites les ent des connaissances d’un cycle à un autre. On y définit les ropres aux programmes du premier et des deuxième et troisième Contexte d’apprentissage aux deuxième et troisième cycles du primaire Deuxième cycle x Établissement d’un répertoire personnel de langage fonctionnel grâce à la participation aux routines de classe le) et à l’exécution de tâches presque toutes liées à un environnement familier (ex. : école, maison, voisinage, famille) Troisième cycle Développement d’un répertoire personnel de langage fonctionnel grâce à la participation aux routines de classe et à l’exécution de tâches souvent en rapport avec des thèmes à portée plus générale (ex. : écologie, héros, enfants d’autres pays) Primaire"
+      ],
+      "rubrique": "Routine de la classe",
+      "texte": "Participer à la routine de la classe (ex. : Enseignant : “What’s the date?” Élève : “It’s April second.” E : “What is the weather today?” É : “It’s sunny.” E : “Open your binder.” É : “I forgot my binder.”)",
+      "progression": {
+        "3": "apprentissage",
+        "4": "maitrise",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 4,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ALS-C1D-002",
+      "champ": "Catégorie 1 – Langage contextuel et langage fonctionnel",
+      "cycle": "2e et 3e cycles",
+      "chemin": [
+        "H. Douglas Brow voie au répertoire personnel de mots, de groupes de mots et de e qui lui convient pour l’aider à développer les compétences muniquer oralement en anglais. nctionnel, est en mesure d’interagir oralement en anglais en l est formé d’expressions utiles (formules d’usage et expressions sens appartenant au système de la langue). Les expressions la compétence Interagir oralement en anglais. En outre, le mpétences Réinvestir sa compréhension de textes lus et rtent un volet sur le contexte d’apprentissage, où sont décrites les ent des connaissances d’un cycle à un autre. On y définit les ropres aux programmes du premier et des deuxième et troisième Contexte d’apprentissage aux deuxième et troisième cycles du primaire Deuxième cycle x Établissement d’un répertoire personnel de langage fonctionnel grâce à la participation aux routines de classe le) et à l’exécution de tâches presque toutes liées à un environnement familier (ex. : école, maison, voisinage, famille) Troisième cycle Développement d’un répertoire personnel de langage fonctionnel grâce à la participation aux routines de classe et à l’exécution de tâches souvent en rapport avec des thèmes à portée plus générale (ex. : écologie, héros, enfants d’autres pays) Primaire"
+      ],
+      "rubrique": "Consignes",
+      "texte": "Donner des consignes (ex. : Roll the dice. Pick a card.)",
+      "progression": {
+        "3": "apprentissage",
+        "4": "apprentissage",
+        "5": "maitrise",
+        "6": "reinvestissement"
+      },
+      "page": 5,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ALS-C1D-003",
+      "champ": "Catégorie 1 – Langage contextuel et langage fonctionnel",
+      "cycle": "2e et 3e cycles",
+      "chemin": [
+        "H. Douglas Brow voie au répertoire personnel de mots, de groupes de mots et de e qui lui convient pour l’aider à développer les compétences muniquer oralement en anglais. nctionnel, est en mesure d’interagir oralement en anglais en l est formé d’expressions utiles (formules d’usage et expressions sens appartenant au système de la langue). Les expressions la compétence Interagir oralement en anglais. En outre, le mpétences Réinvestir sa compréhension de textes lus et rtent un volet sur le contexte d’apprentissage, où sont décrites les ent des connaissances d’un cycle à un autre. On y définit les ropres aux programmes du premier et des deuxième et troisième Contexte d’apprentissage aux deuxième et troisième cycles du primaire Deuxième cycle x Établissement d’un répertoire personnel de langage fonctionnel grâce à la participation aux routines de classe le) et à l’exécution de tâches presque toutes liées à un environnement familier (ex. : école, maison, voisinage, famille) Troisième cycle Développement d’un répertoire personnel de langage fonctionnel grâce à la participation aux routines de classe et à l’exécution de tâches souvent en rapport avec des thèmes à portée plus générale (ex. : écologie, héros, enfants d’autres pays) Primaire"
+      ],
+      "rubrique": "Gagner du temps",
+      "texte": "Marquer des pauses pour gagner du temps (ex. : Wait a minute. I’m not ready. Let me think.)",
+      "progression": {
+        "3": "apprentissage",
+        "4": "maitrise",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 5,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ALS-C1D-004",
+      "champ": "Catégorie 1 – Langage contextuel et langage fonctionnel",
+      "cycle": "2e et 3e cycles",
+      "chemin": [
+        "H. Douglas Brow voie au répertoire personnel de mots, de groupes de mots et de e qui lui convient pour l’aider à développer les compétences muniquer oralement en anglais. nctionnel, est en mesure d’interagir oralement en anglais en l est formé d’expressions utiles (formules d’usage et expressions sens appartenant au système de la langue). Les expressions la compétence Interagir oralement en anglais. En outre, le mpétences Réinvestir sa compréhension de textes lus et rtent un volet sur le contexte d’apprentissage, où sont décrites les ent des connaissances d’un cycle à un autre. On y définit les ropres aux programmes du premier et des deuxième et troisième Contexte d’apprentissage aux deuxième et troisième cycles du primaire Deuxième cycle x Établissement d’un répertoire personnel de langage fonctionnel grâce à la participation aux routines de classe le) et à l’exécution de tâches presque toutes liées à un environnement familier (ex. : école, maison, voisinage, famille) Troisième cycle Développement d’un répertoire personnel de langage fonctionnel grâce à la participation aux routines de classe et à l’exécution de tâches souvent en rapport avec des thèmes à portée plus générale (ex. : écologie, héros, enfants d’autres pays) Primaire"
+      ],
+      "rubrique": "Demandes d’aide ou de clarification",
+      "texte": "Demander de l’aide (ex. : Can you help me? I have a problem. How do you say…?)",
+      "progression": {
+        "3": "apprentissage",
+        "4": "maitrise",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 5,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ALS-C1D-005",
+      "champ": "Catégorie 1 – Langage contextuel et langage fonctionnel",
+      "cycle": "2e et 3e cycles",
+      "chemin": [
+        "H. Douglas Brow voie au répertoire personnel de mots, de groupes de mots et de e qui lui convient pour l’aider à développer les compétences muniquer oralement en anglais. nctionnel, est en mesure d’interagir oralement en anglais en l est formé d’expressions utiles (formules d’usage et expressions sens appartenant au système de la langue). Les expressions la compétence Interagir oralement en anglais. En outre, le mpétences Réinvestir sa compréhension de textes lus et rtent un volet sur le contexte d’apprentissage, où sont décrites les ent des connaissances d’un cycle à un autre. On y définit les ropres aux programmes du premier et des deuxième et troisième Contexte d’apprentissage aux deuxième et troisième cycles du primaire Deuxième cycle x Établissement d’un répertoire personnel de langage fonctionnel grâce à la participation aux routines de classe le) et à l’exécution de tâches presque toutes liées à un environnement familier (ex. : école, maison, voisinage, famille) Troisième cycle Développement d’un répertoire personnel de langage fonctionnel grâce à la participation aux routines de classe et à l’exécution de tâches souvent en rapport avec des thèmes à portée plus générale (ex. : écologie, héros, enfants d’autres pays) Primaire"
+      ],
+      "rubrique": "Demandes d’aide ou de clarification",
+      "texte": "Solliciter des clarifications (ex. : I don’t understand. Can you repeat? What do you mean?)",
+      "progression": {
+        "3": "apprentissage",
+        "4": "maitrise",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 5,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ALS-C1D-006",
+      "champ": "Catégorie 1 – Langage contextuel et langage fonctionnel",
+      "cycle": "2e et 3e cycles",
+      "chemin": [
+        "H. Douglas Brow voie au répertoire personnel de mots, de groupes de mots et de e qui lui convient pour l’aider à développer les compétences muniquer oralement en anglais. nctionnel, est en mesure d’interagir oralement en anglais en l est formé d’expressions utiles (formules d’usage et expressions sens appartenant au système de la langue). Les expressions la compétence Interagir oralement en anglais. En outre, le mpétences Réinvestir sa compréhension de textes lus et rtent un volet sur le contexte d’apprentissage, où sont décrites les ent des connaissances d’un cycle à un autre. On y définit les ropres aux programmes du premier et des deuxième et troisième Contexte d’apprentissage aux deuxième et troisième cycles du primaire Deuxième cycle x Établissement d’un répertoire personnel de langage fonctionnel grâce à la participation aux routines de classe le) et à l’exécution de tâches presque toutes liées à un environnement familier (ex. : école, maison, voisinage, famille) Troisième cycle Développement d’un répertoire personnel de langage fonctionnel grâce à la participation aux routines de classe et à l’exécution de tâches souvent en rapport avec des thèmes à portée plus générale (ex. : écologie, héros, enfants d’autres pays) Primaire"
+      ],
+      "rubrique": "Identification",
+      "texte": "Identifier des personnes, des animaux, des objets, des endroits (ex. : I’m a hockey player. This is my sister. It’s a polar bear.)",
+      "progression": {
+        "3": "apprentissage",
+        "4": "maitrise",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 5,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ALS-C1D-007",
+      "champ": "Catégorie 1 – Langage contextuel et langage fonctionnel",
+      "cycle": "2e et 3e cycles",
+      "chemin": [
+        "H. Douglas Brow voie au répertoire personnel de mots, de groupes de mots et de e qui lui convient pour l’aider à développer les compétences muniquer oralement en anglais. nctionnel, est en mesure d’interagir oralement en anglais en l est formé d’expressions utiles (formules d’usage et expressions sens appartenant au système de la langue). Les expressions la compétence Interagir oralement en anglais. En outre, le mpétences Réinvestir sa compréhension de textes lus et rtent un volet sur le contexte d’apprentissage, où sont décrites les ent des connaissances d’un cycle à un autre. On y définit les ropres aux programmes du premier et des deuxième et troisième Contexte d’apprentissage aux deuxième et troisième cycles du primaire Deuxième cycle x Établissement d’un répertoire personnel de langage fonctionnel grâce à la participation aux routines de classe le) et à l’exécution de tâches presque toutes liées à un environnement familier (ex. : école, maison, voisinage, famille) Troisième cycle Développement d’un répertoire personnel de langage fonctionnel grâce à la participation aux routines de classe et à l’exécution de tâches souvent en rapport avec des thèmes à portée plus générale (ex. : écologie, héros, enfants d’autres pays) Primaire"
+      ],
+      "rubrique": "Identification",
+      "texte": "Demander d’identifier ou de s’identifier (ex. : What’s this? What’s your name? Where does he live?)",
+      "progression": {
+        "3": "apprentissage",
+        "4": "apprentissage",
+        "5": "apprentissage",
+        "6": "maitrise"
+      },
+      "page": 5,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ALS-C1D-008",
+      "champ": "Catégorie 1 – Langage contextuel et langage fonctionnel",
+      "cycle": "2e et 3e cycles",
+      "chemin": [
+        "H. Douglas Brow voie au répertoire personnel de mots, de groupes de mots et de e qui lui convient pour l’aider à développer les compétences muniquer oralement en anglais. nctionnel, est en mesure d’interagir oralement en anglais en l est formé d’expressions utiles (formules d’usage et expressions sens appartenant au système de la langue). Les expressions la compétence Interagir oralement en anglais. En outre, le mpétences Réinvestir sa compréhension de textes lus et rtent un volet sur le contexte d’apprentissage, où sont décrites les ent des connaissances d’un cycle à un autre. On y définit les ropres aux programmes du premier et des deuxième et troisième Contexte d’apprentissage aux deuxième et troisième cycles du primaire Deuxième cycle x Établissement d’un répertoire personnel de langage fonctionnel grâce à la participation aux routines de classe le) et à l’exécution de tâches presque toutes liées à un environnement familier (ex. : école, maison, voisinage, famille) Troisième cycle Développement d’un répertoire personnel de langage fonctionnel grâce à la participation aux routines de classe et à l’exécution de tâches souvent en rapport avec des thèmes à portée plus générale (ex. : écologie, héros, enfants d’autres pays) Primaire"
+      ],
+      "rubrique": "Identification",
+      "texte": "Décrire des caractéristiques élémentaires de personnes, d’animaux, d’objets ou de lieux (ex. : She is tall. It is round. It’s a big house.)",
+      "progression": {
+        "3": "apprentissage",
+        "4": "maitrise",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 5,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ALS-C1D-009",
+      "champ": "Catégorie 1 – Langage contextuel et langage fonctionnel",
+      "cycle": "2e et 3e cycles",
+      "chemin": [
+        "H. Douglas Brow voie au répertoire personnel de mots, de groupes de mots et de e qui lui convient pour l’aider à développer les compétences muniquer oralement en anglais. nctionnel, est en mesure d’interagir oralement en anglais en l est formé d’expressions utiles (formules d’usage et expressions sens appartenant au système de la langue). Les expressions la compétence Interagir oralement en anglais. En outre, le mpétences Réinvestir sa compréhension de textes lus et rtent un volet sur le contexte d’apprentissage, où sont décrites les ent des connaissances d’un cycle à un autre. On y définit les ropres aux programmes du premier et des deuxième et troisième Contexte d’apprentissage aux deuxième et troisième cycles du primaire Deuxième cycle x Établissement d’un répertoire personnel de langage fonctionnel grâce à la participation aux routines de classe le) et à l’exécution de tâches presque toutes liées à un environnement familier (ex. : école, maison, voisinage, famille) Troisième cycle Développement d’un répertoire personnel de langage fonctionnel grâce à la participation aux routines de classe et à l’exécution de tâches souvent en rapport avec des thèmes à portée plus générale (ex. : écologie, héros, enfants d’autres pays) Primaire"
+      ],
+      "rubrique": "Identification",
+      "texte": "Se renseigner sur des caractéristiques élémentaires de personnes, d’animaux, d’objets ou de lieux (ex. : Does he wear glasses? Is it round? What colour is it?)",
+      "progression": {
+        "3": "apprentissage",
+        "4": "apprentissage",
+        "5": "apprentissage",
+        "6": "apprentissage"
+      },
+      "page": 5,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ALS-C1D-010",
+      "champ": "Catégorie 1 – Langage contextuel et langage fonctionnel",
+      "cycle": "2e et 3e cycles",
+      "chemin": [
+        "H. Douglas Brow voie au répertoire personnel de mots, de groupes de mots et de e qui lui convient pour l’aider à développer les compétences muniquer oralement en anglais. nctionnel, est en mesure d’interagir oralement en anglais en l est formé d’expressions utiles (formules d’usage et expressions sens appartenant au système de la langue). Les expressions la compétence Interagir oralement en anglais. En outre, le mpétences Réinvestir sa compréhension de textes lus et rtent un volet sur le contexte d’apprentissage, où sont décrites les ent des connaissances d’un cycle à un autre. On y définit les ropres aux programmes du premier et des deuxième et troisième Contexte d’apprentissage aux deuxième et troisième cycles du primaire Deuxième cycle x Établissement d’un répertoire personnel de langage fonctionnel grâce à la participation aux routines de classe le) et à l’exécution de tâches presque toutes liées à un environnement familier (ex. : école, maison, voisinage, famille) Troisième cycle Développement d’un répertoire personnel de langage fonctionnel grâce à la participation aux routines de classe et à l’exécution de tâches souvent en rapport avec des thèmes à portée plus générale (ex. : écologie, héros, enfants d’autres pays) Primaire"
+      ],
+      "rubrique": "Capacité",
+      "texte": "Énoncer ses propres capacités (ex. : I can play the guitar. I’m good at juggling.)",
+      "progression": {
+        "3": "apprentissage",
+        "4": "maitrise",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 5,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ALS-C1D-011",
+      "champ": "Catégorie 1 – Langage contextuel et langage fonctionnel",
+      "cycle": "2e et 3e cycles",
+      "chemin": [
+        "H. Douglas Brow voie au répertoire personnel de mots, de groupes de mots et de e qui lui convient pour l’aider à développer les compétences muniquer oralement en anglais. nctionnel, est en mesure d’interagir oralement en anglais en l est formé d’expressions utiles (formules d’usage et expressions sens appartenant au système de la langue). Les expressions la compétence Interagir oralement en anglais. En outre, le mpétences Réinvestir sa compréhension de textes lus et rtent un volet sur le contexte d’apprentissage, où sont décrites les ent des connaissances d’un cycle à un autre. On y définit les ropres aux programmes du premier et des deuxième et troisième Contexte d’apprentissage aux deuxième et troisième cycles du primaire Deuxième cycle x Établissement d’un répertoire personnel de langage fonctionnel grâce à la participation aux routines de classe le) et à l’exécution de tâches presque toutes liées à un environnement familier (ex. : école, maison, voisinage, famille) Troisième cycle Développement d’un répertoire personnel de langage fonctionnel grâce à la participation aux routines de classe et à l’exécution de tâches souvent en rapport avec des thèmes à portée plus générale (ex. : écologie, héros, enfants d’autres pays) Primaire"
+      ],
+      "rubrique": "Capacité",
+      "texte": "Énoncer les capacités d’autres personnes (ex. : He can’t sing. She’s good at drawing. They can run fast.)",
+      "progression": {
+        "3": "apprentissage",
+        "4": "apprentissage",
+        "5": "apprentissage",
+        "6": "maitrise"
+      },
+      "page": 5,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ALS-C1D-012",
+      "champ": "Catégorie 1 – Langage contextuel et langage fonctionnel",
+      "cycle": "2e et 3e cycles",
+      "chemin": [
+        "H. Douglas Brow voie au répertoire personnel de mots, de groupes de mots et de e qui lui convient pour l’aider à développer les compétences muniquer oralement en anglais. nctionnel, est en mesure d’interagir oralement en anglais en l est formé d’expressions utiles (formules d’usage et expressions sens appartenant au système de la langue). Les expressions la compétence Interagir oralement en anglais. En outre, le mpétences Réinvestir sa compréhension de textes lus et rtent un volet sur le contexte d’apprentissage, où sont décrites les ent des connaissances d’un cycle à un autre. On y définit les ropres aux programmes du premier et des deuxième et troisième Contexte d’apprentissage aux deuxième et troisième cycles du primaire Deuxième cycle x Établissement d’un répertoire personnel de langage fonctionnel grâce à la participation aux routines de classe le) et à l’exécution de tâches presque toutes liées à un environnement familier (ex. : école, maison, voisinage, famille) Troisième cycle Développement d’un répertoire personnel de langage fonctionnel grâce à la participation aux routines de classe et à l’exécution de tâches souvent en rapport avec des thèmes à portée plus générale (ex. : écologie, héros, enfants d’autres pays) Primaire"
+      ],
+      "rubrique": "Capacité",
+      "texte": "Se renseigner sur les capacités d’autres personnes (ex. : Can you stand on your head? Are you good at math?)",
+      "progression": {
+        "3": "apprentissage",
+        "4": "apprentissage",
+        "5": "apprentissage",
+        "6": "apprentissage"
+      },
+      "page": 5,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ALS-C1D-013",
+      "champ": "Catégorie 1 – Langage contextuel et langage fonctionnel",
+      "cycle": "2e et 3e cycles",
+      "chemin": [
+        "H. Douglas Brow voie au répertoire personnel de mots, de groupes de mots et de e qui lui convient pour l’aider à développer les compétences muniquer oralement en anglais. nctionnel, est en mesure d’interagir oralement en anglais en l est formé d’expressions utiles (formules d’usage et expressions sens appartenant au système de la langue). Les expressions la compétence Interagir oralement en anglais. En outre, le mpétences Réinvestir sa compréhension de textes lus et rtent un volet sur le contexte d’apprentissage, où sont décrites les ent des connaissances d’un cycle à un autre. On y définit les ropres aux programmes du premier et des deuxième et troisième Contexte d’apprentissage aux deuxième et troisième cycles du primaire Deuxième cycle x Établissement d’un répertoire personnel de langage fonctionnel grâce à la participation aux routines de classe le) et à l’exécution de tâches presque toutes liées à un environnement familier (ex. : école, maison, voisinage, famille) Troisième cycle Développement d’un répertoire personnel de langage fonctionnel grâce à la participation aux routines de classe et à l’exécution de tâches souvent en rapport avec des thèmes à portée plus générale (ex. : écologie, héros, enfants d’autres pays) Primaire"
+      ],
+      "rubrique": "Demande d’information",
+      "texte": "Poser des questions appelant un élément d’information comme réponse (W-questions) (ex. : What page is it on? When is recess? How many do you have?)",
+      "progression": {
+        "3": "apprentissage",
+        "4": "apprentissage",
+        "5": "apprentissage",
+        "6": "apprentissage"
+      },
+      "page": 6,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ALS-C1D-014",
+      "champ": "Catégorie 1 – Langage contextuel et langage fonctionnel",
+      "cycle": "2e et 3e cycles",
+      "chemin": [
+        "H. Douglas Brow voie au répertoire personnel de mots, de groupes de mots et de e qui lui convient pour l’aider à développer les compétences muniquer oralement en anglais. nctionnel, est en mesure d’interagir oralement en anglais en l est formé d’expressions utiles (formules d’usage et expressions sens appartenant au système de la langue). Les expressions la compétence Interagir oralement en anglais. En outre, le mpétences Réinvestir sa compréhension de textes lus et rtent un volet sur le contexte d’apprentissage, où sont décrites les ent des connaissances d’un cycle à un autre. On y définit les ropres aux programmes du premier et des deuxième et troisième Contexte d’apprentissage aux deuxième et troisième cycles du primaire Deuxième cycle x Établissement d’un répertoire personnel de langage fonctionnel grâce à la participation aux routines de classe le) et à l’exécution de tâches presque toutes liées à un environnement familier (ex. : école, maison, voisinage, famille) Troisième cycle Développement d’un répertoire personnel de langage fonctionnel grâce à la participation aux routines de classe et à l’exécution de tâches souvent en rapport avec des thèmes à portée plus générale (ex. : écologie, héros, enfants d’autres pays) Primaire"
+      ],
+      "rubrique": "Demande d’information",
+      "texte": "Poser des questions appelant un oui ou un non comme réponse (ex. : Do you have a pencil? Is this your book? Does he play hockey?)",
+      "progression": {
+        "3": "apprentissage",
+        "4": "apprentissage",
+        "5": "apprentissage",
+        "6": "apprentissage"
+      },
+      "page": 6,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ALS-C1D-015",
+      "champ": "Catégorie 1 – Langage contextuel et langage fonctionnel",
+      "cycle": "2e et 3e cycles",
+      "chemin": [
+        "H. Douglas Brow voie au répertoire personnel de mots, de groupes de mots et de e qui lui convient pour l’aider à développer les compétences muniquer oralement en anglais. nctionnel, est en mesure d’interagir oralement en anglais en l est formé d’expressions utiles (formules d’usage et expressions sens appartenant au système de la langue). Les expressions la compétence Interagir oralement en anglais. En outre, le mpétences Réinvestir sa compréhension de textes lus et rtent un volet sur le contexte d’apprentissage, où sont décrites les ent des connaissances d’un cycle à un autre. On y définit les ropres aux programmes du premier et des deuxième et troisième Contexte d’apprentissage aux deuxième et troisième cycles du primaire Deuxième cycle x Établissement d’un répertoire personnel de langage fonctionnel grâce à la participation aux routines de classe le) et à l’exécution de tâches presque toutes liées à un environnement familier (ex. : école, maison, voisinage, famille) Troisième cycle Développement d’un répertoire personnel de langage fonctionnel grâce à la participation aux routines de classe et à l’exécution de tâches souvent en rapport avec des thèmes à portée plus générale (ex. : écologie, héros, enfants d’autres pays) Primaire"
+      ],
+      "rubrique": "Accord, désaccord",
+      "texte": "Exprimer son accord ou son désaccord (ex. : That’s right. I agree. I don’t agree.)",
+      "progression": {
+        "3": "apprentissage",
+        "4": "maitrise",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 6,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ALS-C1D-016",
+      "champ": "Catégorie 1 – Langage contextuel et langage fonctionnel",
+      "cycle": "2e et 3e cycles",
+      "chemin": [
+        "H. Douglas Brow voie au répertoire personnel de mots, de groupes de mots et de e qui lui convient pour l’aider à développer les compétences muniquer oralement en anglais. nctionnel, est en mesure d’interagir oralement en anglais en l est formé d’expressions utiles (formules d’usage et expressions sens appartenant au système de la langue). Les expressions la compétence Interagir oralement en anglais. En outre, le mpétences Réinvestir sa compréhension de textes lus et rtent un volet sur le contexte d’apprentissage, où sont décrites les ent des connaissances d’un cycle à un autre. On y définit les ropres aux programmes du premier et des deuxième et troisième Contexte d’apprentissage aux deuxième et troisième cycles du primaire Deuxième cycle x Établissement d’un répertoire personnel de langage fonctionnel grâce à la participation aux routines de classe le) et à l’exécution de tâches presque toutes liées à un environnement familier (ex. : école, maison, voisinage, famille) Troisième cycle Développement d’un répertoire personnel de langage fonctionnel grâce à la participation aux routines de classe et à l’exécution de tâches souvent en rapport avec des thèmes à portée plus générale (ex. : écologie, héros, enfants d’autres pays) Primaire"
+      ],
+      "rubrique": "Accord, désaccord",
+      "texte": "Demander l’accord ou le désaccord (ex. : Do you agree? Is this okay? Does she disagree?)",
+      "progression": {
+        "3": "apprentissage",
+        "4": "apprentissage",
+        "5": "apprentissage",
+        "6": "maitrise"
+      },
+      "page": 6,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ALS-C1D-017",
+      "champ": "Catégorie 1 – Langage contextuel et langage fonctionnel",
+      "cycle": "2e et 3e cycles",
+      "chemin": [
+        "H. Douglas Brow voie au répertoire personnel de mots, de groupes de mots et de e qui lui convient pour l’aider à développer les compétences muniquer oralement en anglais. nctionnel, est en mesure d’interagir oralement en anglais en l est formé d’expressions utiles (formules d’usage et expressions sens appartenant au système de la langue). Les expressions la compétence Interagir oralement en anglais. En outre, le mpétences Réinvestir sa compréhension de textes lus et rtent un volet sur le contexte d’apprentissage, où sont décrites les ent des connaissances d’un cycle à un autre. On y définit les ropres aux programmes du premier et des deuxième et troisième Contexte d’apprentissage aux deuxième et troisième cycles du primaire Deuxième cycle x Établissement d’un répertoire personnel de langage fonctionnel grâce à la participation aux routines de classe le) et à l’exécution de tâches presque toutes liées à un environnement familier (ex. : école, maison, voisinage, famille) Troisième cycle Développement d’un répertoire personnel de langage fonctionnel grâce à la participation aux routines de classe et à l’exécution de tâches souvent en rapport avec des thèmes à portée plus générale (ex. : écologie, héros, enfants d’autres pays) Primaire"
+      ],
+      "rubrique": "Opinions",
+      "texte": "Donner son opinion (ex. : I think that…, I believe that…)",
+      "progression": {
+        "3": null,
+        "4": null,
+        "5": "apprentissage",
+        "6": "apprentissage"
+      },
+      "page": 6,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ALS-C1D-018",
+      "champ": "Catégorie 1 – Langage contextuel et langage fonctionnel",
+      "cycle": "2e et 3e cycles",
+      "chemin": [
+        "H. Douglas Brow voie au répertoire personnel de mots, de groupes de mots et de e qui lui convient pour l’aider à développer les compétences muniquer oralement en anglais. nctionnel, est en mesure d’interagir oralement en anglais en l est formé d’expressions utiles (formules d’usage et expressions sens appartenant au système de la langue). Les expressions la compétence Interagir oralement en anglais. En outre, le mpétences Réinvestir sa compréhension de textes lus et rtent un volet sur le contexte d’apprentissage, où sont décrites les ent des connaissances d’un cycle à un autre. On y définit les ropres aux programmes du premier et des deuxième et troisième Contexte d’apprentissage aux deuxième et troisième cycles du primaire Deuxième cycle x Établissement d’un répertoire personnel de langage fonctionnel grâce à la participation aux routines de classe le) et à l’exécution de tâches presque toutes liées à un environnement familier (ex. : école, maison, voisinage, famille) Troisième cycle Développement d’un répertoire personnel de langage fonctionnel grâce à la participation aux routines de classe et à l’exécution de tâches souvent en rapport avec des thèmes à portée plus générale (ex. : écologie, héros, enfants d’autres pays) Primaire"
+      ],
+      "rubrique": "Opinions",
+      "texte": "Demander l’opinion d’autres personnes (ex. : What do you think? What’s your opinion? What does he think?)",
+      "progression": {
+        "3": null,
+        "4": null,
+        "5": "apprentissage",
+        "6": "apprentissage"
+      },
+      "page": 6,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ALS-C1D-019",
+      "champ": "Catégorie 1 – Langage contextuel et langage fonctionnel",
+      "cycle": "2e et 3e cycles",
+      "chemin": [
+        "H. Douglas Brow voie au répertoire personnel de mots, de groupes de mots et de e qui lui convient pour l’aider à développer les compétences muniquer oralement en anglais. nctionnel, est en mesure d’interagir oralement en anglais en l est formé d’expressions utiles (formules d’usage et expressions sens appartenant au système de la langue). Les expressions la compétence Interagir oralement en anglais. En outre, le mpétences Réinvestir sa compréhension de textes lus et rtent un volet sur le contexte d’apprentissage, où sont décrites les ent des connaissances d’un cycle à un autre. On y définit les ropres aux programmes du premier et des deuxième et troisième Contexte d’apprentissage aux deuxième et troisième cycles du primaire Deuxième cycle x Établissement d’un répertoire personnel de langage fonctionnel grâce à la participation aux routines de classe le) et à l’exécution de tâches presque toutes liées à un environnement familier (ex. : école, maison, voisinage, famille) Troisième cycle Développement d’un répertoire personnel de langage fonctionnel grâce à la participation aux routines de classe et à l’exécution de tâches souvent en rapport avec des thèmes à portée plus générale (ex. : écologie, héros, enfants d’autres pays) Primaire"
+      ],
+      "rubrique": "Permissions",
+      "texte": "Demander une permission (ex. : May I go to the washroom? Can I borrow a pencil?)",
+      "progression": {
+        "3": "apprentissage",
+        "4": "maitrise",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 6,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ALS-C1D-020",
+      "champ": "Catégorie 1 – Langage contextuel et langage fonctionnel",
+      "cycle": "2e et 3e cycles",
+      "chemin": [
+        "H. Douglas Brow voie au répertoire personnel de mots, de groupes de mots et de e qui lui convient pour l’aider à développer les compétences muniquer oralement en anglais. nctionnel, est en mesure d’interagir oralement en anglais en l est formé d’expressions utiles (formules d’usage et expressions sens appartenant au système de la langue). Les expressions la compétence Interagir oralement en anglais. En outre, le mpétences Réinvestir sa compréhension de textes lus et rtent un volet sur le contexte d’apprentissage, où sont décrites les ent des connaissances d’un cycle à un autre. On y définit les ropres aux programmes du premier et des deuxième et troisième Contexte d’apprentissage aux deuxième et troisième cycles du primaire Deuxième cycle x Établissement d’un répertoire personnel de langage fonctionnel grâce à la participation aux routines de classe le) et à l’exécution de tâches presque toutes liées à un environnement familier (ex. : école, maison, voisinage, famille) Troisième cycle Développement d’un répertoire personnel de langage fonctionnel grâce à la participation aux routines de classe et à l’exécution de tâches souvent en rapport avec des thèmes à portée plus générale (ex. : écologie, héros, enfants d’autres pays) Primaire"
+      ],
+      "rubrique": "Offres d’aide",
+      "texte": "Offrir de l’aide (ex. : Can I help you? Let me help.)",
+      "progression": {
+        "3": "apprentissage",
+        "4": "apprentissage",
+        "5": "apprentissage",
+        "6": "apprentissage"
+      },
+      "page": 6,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ALS-C1D-021",
+      "champ": "Catégorie 1 – Langage contextuel et langage fonctionnel",
+      "cycle": "2e et 3e cycles",
+      "chemin": [
+        "H. Douglas Brow voie au répertoire personnel de mots, de groupes de mots et de e qui lui convient pour l’aider à développer les compétences muniquer oralement en anglais. nctionnel, est en mesure d’interagir oralement en anglais en l est formé d’expressions utiles (formules d’usage et expressions sens appartenant au système de la langue). Les expressions la compétence Interagir oralement en anglais. En outre, le mpétences Réinvestir sa compréhension de textes lus et rtent un volet sur le contexte d’apprentissage, où sont décrites les ent des connaissances d’un cycle à un autre. On y définit les ropres aux programmes du premier et des deuxième et troisième Contexte d’apprentissage aux deuxième et troisième cycles du primaire Deuxième cycle x Établissement d’un répertoire personnel de langage fonctionnel grâce à la participation aux routines de classe le) et à l’exécution de tâches presque toutes liées à un environnement familier (ex. : école, maison, voisinage, famille) Troisième cycle Développement d’un répertoire personnel de langage fonctionnel grâce à la participation aux routines de classe et à l’exécution de tâches souvent en rapport avec des thèmes à portée plus générale (ex. : écologie, héros, enfants d’autres pays) Primaire"
+      ],
+      "rubrique": "Offres d’aide",
+      "texte": "Accepter ou refuser l’aide offerte (ex. : Sure. I’m okay.)",
+      "progression": {
+        "3": "apprentissage",
+        "4": "maitrise",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 6,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ALS-C1D-022",
+      "champ": "Catégorie 1 – Langage contextuel et langage fonctionnel",
+      "cycle": "2e et 3e cycles",
+      "chemin": [
+        "H. Douglas Brow voie au répertoire personnel de mots, de groupes de mots et de e qui lui convient pour l’aider à développer les compétences muniquer oralement en anglais. nctionnel, est en mesure d’interagir oralement en anglais en l est formé d’expressions utiles (formules d’usage et expressions sens appartenant au système de la langue). Les expressions la compétence Interagir oralement en anglais. En outre, le mpétences Réinvestir sa compréhension de textes lus et rtent un volet sur le contexte d’apprentissage, où sont décrites les ent des connaissances d’un cycle à un autre. On y définit les ropres aux programmes du premier et des deuxième et troisième Contexte d’apprentissage aux deuxième et troisième cycles du primaire Deuxième cycle x Établissement d’un répertoire personnel de langage fonctionnel grâce à la participation aux routines de classe le) et à l’exécution de tâches presque toutes liées à un environnement familier (ex. : école, maison, voisinage, famille) Troisième cycle Développement d’un répertoire personnel de langage fonctionnel grâce à la participation aux routines de classe et à l’exécution de tâches souvent en rapport avec des thèmes à portée plus générale (ex. : écologie, héros, enfants d’autres pays) Primaire"
+      ],
+      "rubrique": "Besoins",
+      "texte": "Exprimer ses propres besoins et désirs (ex. : I need a pencil. I want a new skateboard.)",
+      "progression": {
+        "3": "apprentissage",
+        "4": "maitrise",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 6,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ALS-C1D-023",
+      "champ": "Catégorie 1 – Langage contextuel et langage fonctionnel",
+      "cycle": "2e et 3e cycles",
+      "chemin": [
+        "H. Douglas Brow voie au répertoire personnel de mots, de groupes de mots et de e qui lui convient pour l’aider à développer les compétences muniquer oralement en anglais. nctionnel, est en mesure d’interagir oralement en anglais en l est formé d’expressions utiles (formules d’usage et expressions sens appartenant au système de la langue). Les expressions la compétence Interagir oralement en anglais. En outre, le mpétences Réinvestir sa compréhension de textes lus et rtent un volet sur le contexte d’apprentissage, où sont décrites les ent des connaissances d’un cycle à un autre. On y définit les ropres aux programmes du premier et des deuxième et troisième Contexte d’apprentissage aux deuxième et troisième cycles du primaire Deuxième cycle x Établissement d’un répertoire personnel de langage fonctionnel grâce à la participation aux routines de classe le) et à l’exécution de tâches presque toutes liées à un environnement familier (ex. : école, maison, voisinage, famille) Troisième cycle Développement d’un répertoire personnel de langage fonctionnel grâce à la participation aux routines de classe et à l’exécution de tâches souvent en rapport avec des thèmes à portée plus générale (ex. : écologie, héros, enfants d’autres pays) Primaire"
+      ],
+      "rubrique": "Besoins",
+      "texte": "Exprimer les besoins et désirs d’autres personnes (ex. : He needs a ruler. She wants a new bike.)",
+      "progression": {
+        "3": "apprentissage",
+        "4": "apprentissage",
+        "5": "apprentissage",
+        "6": "maitrise"
+      },
+      "page": 6,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ALS-C1D-024",
+      "champ": "Catégorie 1 – Langage contextuel et langage fonctionnel",
+      "cycle": "2e et 3e cycles",
+      "chemin": [
+        "H. Douglas Brow voie au répertoire personnel de mots, de groupes de mots et de e qui lui convient pour l’aider à développer les compétences muniquer oralement en anglais. nctionnel, est en mesure d’interagir oralement en anglais en l est formé d’expressions utiles (formules d’usage et expressions sens appartenant au système de la langue). Les expressions la compétence Interagir oralement en anglais. En outre, le mpétences Réinvestir sa compréhension de textes lus et rtent un volet sur le contexte d’apprentissage, où sont décrites les ent des connaissances d’un cycle à un autre. On y définit les ropres aux programmes du premier et des deuxième et troisième Contexte d’apprentissage aux deuxième et troisième cycles du primaire Deuxième cycle x Établissement d’un répertoire personnel de langage fonctionnel grâce à la participation aux routines de classe le) et à l’exécution de tâches presque toutes liées à un environnement familier (ex. : école, maison, voisinage, famille) Troisième cycle Développement d’un répertoire personnel de langage fonctionnel grâce à la participation aux routines de classe et à l’exécution de tâches souvent en rapport avec des thèmes à portée plus générale (ex. : écologie, héros, enfants d’autres pays) Primaire"
+      ],
+      "rubrique": "Besoins",
+      "texte": "Se renseigner sur les besoins et désirs d’autres personnes (ex. : What does he need? What do you want?)",
+      "progression": {
+        "3": "apprentissage",
+        "4": "apprentissage",
+        "5": "apprentissage",
+        "6": "apprentissage"
+      },
+      "page": 7,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ALS-C1D-025",
+      "champ": "Catégorie 1 – Langage contextuel et langage fonctionnel",
+      "cycle": "2e et 3e cycles",
+      "chemin": [
+        "H. Douglas Brow voie au répertoire personnel de mots, de groupes de mots et de e qui lui convient pour l’aider à développer les compétences muniquer oralement en anglais. nctionnel, est en mesure d’interagir oralement en anglais en l est formé d’expressions utiles (formules d’usage et expressions sens appartenant au système de la langue). Les expressions la compétence Interagir oralement en anglais. En outre, le mpétences Réinvestir sa compréhension de textes lus et rtent un volet sur le contexte d’apprentissage, où sont décrites les ent des connaissances d’un cycle à un autre. On y définit les ropres aux programmes du premier et des deuxième et troisième Contexte d’apprentissage aux deuxième et troisième cycles du primaire Deuxième cycle x Établissement d’un répertoire personnel de langage fonctionnel grâce à la participation aux routines de classe le) et à l’exécution de tâches presque toutes liées à un environnement familier (ex. : école, maison, voisinage, famille) Troisième cycle Développement d’un répertoire personnel de langage fonctionnel grâce à la participation aux routines de classe et à l’exécution de tâches souvent en rapport avec des thèmes à portée plus générale (ex. : écologie, héros, enfants d’autres pays) Primaire"
+      ],
+      "rubrique": "Avertissements",
+      "texte": "Avertir (ex. : Careful! Watch out! Stop!)",
+      "progression": {
+        "3": "apprentissage",
+        "4": "apprentissage",
+        "5": "maitrise",
+        "6": "reinvestissement"
+      },
+      "page": 7,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ALS-C1D-026",
+      "champ": "Catégorie 1 – Langage contextuel et langage fonctionnel",
+      "cycle": "2e et 3e cycles",
+      "chemin": [
+        "H. Douglas Brow voie au répertoire personnel de mots, de groupes de mots et de e qui lui convient pour l’aider à développer les compétences muniquer oralement en anglais. nctionnel, est en mesure d’interagir oralement en anglais en l est formé d’expressions utiles (formules d’usage et expressions sens appartenant au système de la langue). Les expressions la compétence Interagir oralement en anglais. En outre, le mpétences Réinvestir sa compréhension de textes lus et rtent un volet sur le contexte d’apprentissage, où sont décrites les ent des connaissances d’un cycle à un autre. On y définit les ropres aux programmes du premier et des deuxième et troisième Contexte d’apprentissage aux deuxième et troisième cycles du primaire Deuxième cycle x Établissement d’un répertoire personnel de langage fonctionnel grâce à la participation aux routines de classe le) et à l’exécution de tâches presque toutes liées à un environnement familier (ex. : école, maison, voisinage, famille) Troisième cycle Développement d’un répertoire personnel de langage fonctionnel grâce à la participation aux routines de classe et à l’exécution de tâches souvent en rapport avec des thèmes à portée plus générale (ex. : écologie, héros, enfants d’autres pays) Primaire"
+      ],
+      "rubrique": "Sentiments, champs d’intérêt, goûts, préférences",
+      "texte": "Exprimer ses propres sentiments, champs d’intérêt, goûts, préférences (ex. : I’m happy. I like baseball. My favourite flavour is chocolate.)",
+      "progression": {
+        "3": "apprentissage",
+        "4": "maitrise",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 7,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ALS-C1D-027",
+      "champ": "Catégorie 1 – Langage contextuel et langage fonctionnel",
+      "cycle": "2e et 3e cycles",
+      "chemin": [
+        "H. Douglas Brow voie au répertoire personnel de mots, de groupes de mots et de e qui lui convient pour l’aider à développer les compétences muniquer oralement en anglais. nctionnel, est en mesure d’interagir oralement en anglais en l est formé d’expressions utiles (formules d’usage et expressions sens appartenant au système de la langue). Les expressions la compétence Interagir oralement en anglais. En outre, le mpétences Réinvestir sa compréhension de textes lus et rtent un volet sur le contexte d’apprentissage, où sont décrites les ent des connaissances d’un cycle à un autre. On y définit les ropres aux programmes du premier et des deuxième et troisième Contexte d’apprentissage aux deuxième et troisième cycles du primaire Deuxième cycle x Établissement d’un répertoire personnel de langage fonctionnel grâce à la participation aux routines de classe le) et à l’exécution de tâches presque toutes liées à un environnement familier (ex. : école, maison, voisinage, famille) Troisième cycle Développement d’un répertoire personnel de langage fonctionnel grâce à la participation aux routines de classe et à l’exécution de tâches souvent en rapport avec des thèmes à portée plus générale (ex. : écologie, héros, enfants d’autres pays) Primaire"
+      ],
+      "rubrique": "Sentiments, champs d’intérêt, goûts, préférences",
+      "texte": "Exprimer les sentiments, champs d’intérêt, goûts, préférences d’autres personnes (ex. : He’s excited. My sister doesn’t like rock music. They prefer pizza.)",
+      "progression": {
+        "3": "apprentissage",
+        "4": "apprentissage",
+        "5": "apprentissage",
+        "6": "maitrise"
+      },
+      "page": 7,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ALS-C1D-028",
+      "champ": "Catégorie 1 – Langage contextuel et langage fonctionnel",
+      "cycle": "2e et 3e cycles",
+      "chemin": [
+        "H. Douglas Brow voie au répertoire personnel de mots, de groupes de mots et de e qui lui convient pour l’aider à développer les compétences muniquer oralement en anglais. nctionnel, est en mesure d’interagir oralement en anglais en l est formé d’expressions utiles (formules d’usage et expressions sens appartenant au système de la langue). Les expressions la compétence Interagir oralement en anglais. En outre, le mpétences Réinvestir sa compréhension de textes lus et rtent un volet sur le contexte d’apprentissage, où sont décrites les ent des connaissances d’un cycle à un autre. On y définit les ropres aux programmes du premier et des deuxième et troisième Contexte d’apprentissage aux deuxième et troisième cycles du primaire Deuxième cycle x Établissement d’un répertoire personnel de langage fonctionnel grâce à la participation aux routines de classe le) et à l’exécution de tâches presque toutes liées à un environnement familier (ex. : école, maison, voisinage, famille) Troisième cycle Développement d’un répertoire personnel de langage fonctionnel grâce à la participation aux routines de classe et à l’exécution de tâches souvent en rapport avec des thèmes à portée plus générale (ex. : écologie, héros, enfants d’autres pays) Primaire"
+      ],
+      "rubrique": "Sentiments, champs d’intérêt, goûts, préférences",
+      "texte": "Se renseigner sur les sentiments, champs d’intérêt, goûts, préférences d’autres personnes (ex. : Are you okay? Who’s your favourite singer? What do you prefer?)",
+      "progression": {
+        "3": "apprentissage",
+        "4": "apprentissage",
+        "5": "apprentissage",
+        "6": "apprentissage"
+      },
+      "page": 7,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ALS-C1D-029",
+      "champ": "Catégorie 1 – Langage contextuel et langage fonctionnel",
+      "cycle": "2e et 3e cycles",
+      "chemin": [
+        "H. Douglas Brow voie au répertoire personnel de mots, de groupes de mots et de e qui lui convient pour l’aider à développer les compétences muniquer oralement en anglais. nctionnel, est en mesure d’interagir oralement en anglais en l est formé d’expressions utiles (formules d’usage et expressions sens appartenant au système de la langue). Les expressions la compétence Interagir oralement en anglais. En outre, le mpétences Réinvestir sa compréhension de textes lus et rtent un volet sur le contexte d’apprentissage, où sont décrites les ent des connaissances d’un cycle à un autre. On y définit les ropres aux programmes du premier et des deuxième et troisième Contexte d’apprentissage aux deuxième et troisième cycles du primaire Deuxième cycle x Établissement d’un répertoire personnel de langage fonctionnel grâce à la participation aux routines de classe le) et à l’exécution de tâches presque toutes liées à un environnement familier (ex. : école, maison, voisinage, famille) Troisième cycle Développement d’un répertoire personnel de langage fonctionnel grâce à la participation aux routines de classe et à l’exécution de tâches souvent en rapport avec des thèmes à portée plus générale (ex. : écologie, héros, enfants d’autres pays) Primaire"
+      ],
+      "rubrique": "Expressions de politesse et conventions sociales",
+      "texte": "Utiliser des expressions élémentaires de politesse (ex. : How are you? You’re welcome.)",
+      "progression": {
+        "3": "maitrise",
+        "4": "reinvestissement",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 7,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ALS-C1D-030",
+      "champ": "Catégorie 1 – Langage contextuel et langage fonctionnel",
+      "cycle": "2e et 3e cycles",
+      "chemin": [
+        "H. Douglas Brow voie au répertoire personnel de mots, de groupes de mots et de e qui lui convient pour l’aider à développer les compétences muniquer oralement en anglais. nctionnel, est en mesure d’interagir oralement en anglais en l est formé d’expressions utiles (formules d’usage et expressions sens appartenant au système de la langue). Les expressions la compétence Interagir oralement en anglais. En outre, le mpétences Réinvestir sa compréhension de textes lus et rtent un volet sur le contexte d’apprentissage, où sont décrites les ent des connaissances d’un cycle à un autre. On y définit les ropres aux programmes du premier et des deuxième et troisième Contexte d’apprentissage aux deuxième et troisième cycles du primaire Deuxième cycle x Établissement d’un répertoire personnel de langage fonctionnel grâce à la participation aux routines de classe le) et à l’exécution de tâches presque toutes liées à un environnement familier (ex. : école, maison, voisinage, famille) Troisième cycle Développement d’un répertoire personnel de langage fonctionnel grâce à la participation aux routines de classe et à l’exécution de tâches souvent en rapport avec des thèmes à portée plus générale (ex. : écologie, héros, enfants d’autres pays) Primaire"
+      ],
+      "rubrique": "Expressions de politesse et conventions sociales",
+      "texte": "Salutations (ex. : Good morning. Good afternoon.)",
+      "progression": {
+        "3": "maitrise",
+        "4": "reinvestissement",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 7,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ALS-C1D-031",
+      "champ": "Catégorie 1 – Langage contextuel et langage fonctionnel",
+      "cycle": "2e et 3e cycles",
+      "chemin": [
+        "H. Douglas Brow voie au répertoire personnel de mots, de groupes de mots et de e qui lui convient pour l’aider à développer les compétences muniquer oralement en anglais. nctionnel, est en mesure d’interagir oralement en anglais en l est formé d’expressions utiles (formules d’usage et expressions sens appartenant au système de la langue). Les expressions la compétence Interagir oralement en anglais. En outre, le mpétences Réinvestir sa compréhension de textes lus et rtent un volet sur le contexte d’apprentissage, où sont décrites les ent des connaissances d’un cycle à un autre. On y définit les ropres aux programmes du premier et des deuxième et troisième Contexte d’apprentissage aux deuxième et troisième cycles du primaire Deuxième cycle x Établissement d’un répertoire personnel de langage fonctionnel grâce à la participation aux routines de classe le) et à l’exécution de tâches presque toutes liées à un environnement familier (ex. : école, maison, voisinage, famille) Troisième cycle Développement d’un répertoire personnel de langage fonctionnel grâce à la participation aux routines de classe et à l’exécution de tâches souvent en rapport avec des thèmes à portée plus générale (ex. : écologie, héros, enfants d’autres pays) Primaire"
+      ],
+      "rubrique": "Expressions de politesse et conventions sociales",
+      "texte": "Prendre congé (ex. : Good bye. See you later. Have a nice weekend.)",
+      "progression": {
+        "3": "maitrise",
+        "4": "reinvestissement",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 7,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ALS-C1D-032",
+      "champ": "Catégorie 1 – Langage contextuel et langage fonctionnel",
+      "cycle": "2e et 3e cycles",
+      "chemin": [
+        "H. Douglas Brow voie au répertoire personnel de mots, de groupes de mots et de e qui lui convient pour l’aider à développer les compétences muniquer oralement en anglais. nctionnel, est en mesure d’interagir oralement en anglais en l est formé d’expressions utiles (formules d’usage et expressions sens appartenant au système de la langue). Les expressions la compétence Interagir oralement en anglais. En outre, le mpétences Réinvestir sa compréhension de textes lus et rtent un volet sur le contexte d’apprentissage, où sont décrites les ent des connaissances d’un cycle à un autre. On y définit les ropres aux programmes du premier et des deuxième et troisième Contexte d’apprentissage aux deuxième et troisième cycles du primaire Deuxième cycle x Établissement d’un répertoire personnel de langage fonctionnel grâce à la participation aux routines de classe le) et à l’exécution de tâches presque toutes liées à un environnement familier (ex. : école, maison, voisinage, famille) Troisième cycle Développement d’un répertoire personnel de langage fonctionnel grâce à la participation aux routines de classe et à l’exécution de tâches souvent en rapport avec des thèmes à portée plus générale (ex. : écologie, héros, enfants d’autres pays) Primaire"
+      ],
+      "rubrique": "Expressions de politesse et conventions sociales",
+      "texte": "Remercier (ex. : Thanks. Thank-you very much.)",
+      "progression": {
+        "3": "maitrise",
+        "4": "reinvestissement",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 7,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ALS-C1D-033",
+      "champ": "Catégorie 1 – Langage contextuel et langage fonctionnel",
+      "cycle": "2e et 3e cycles",
+      "chemin": [
+        "H. Douglas Brow voie au répertoire personnel de mots, de groupes de mots et de e qui lui convient pour l’aider à développer les compétences muniquer oralement en anglais. nctionnel, est en mesure d’interagir oralement en anglais en l est formé d’expressions utiles (formules d’usage et expressions sens appartenant au système de la langue). Les expressions la compétence Interagir oralement en anglais. En outre, le mpétences Réinvestir sa compréhension de textes lus et rtent un volet sur le contexte d’apprentissage, où sont décrites les ent des connaissances d’un cycle à un autre. On y définit les ropres aux programmes du premier et des deuxième et troisième Contexte d’apprentissage aux deuxième et troisième cycles du primaire Deuxième cycle x Établissement d’un répertoire personnel de langage fonctionnel grâce à la participation aux routines de classe le) et à l’exécution de tâches presque toutes liées à un environnement familier (ex. : école, maison, voisinage, famille) Troisième cycle Développement d’un répertoire personnel de langage fonctionnel grâce à la participation aux routines de classe et à l’exécution de tâches souvent en rapport avec des thèmes à portée plus générale (ex. : écologie, héros, enfants d’autres pays) Primaire"
+      ],
+      "rubrique": "Expressions de politesse et conventions sociales",
+      "texte": "Présenter des excuses (ex. : Sorry. I’m sorry.)",
+      "progression": {
+        "3": "maitrise",
+        "4": "reinvestissement",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 7,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ALS-C1D-034",
+      "champ": "Catégorie 1 – Langage contextuel et langage fonctionnel",
+      "cycle": "2e et 3e cycles",
+      "chemin": [
+        "H. Douglas Brow voie au répertoire personnel de mots, de groupes de mots et de e qui lui convient pour l’aider à développer les compétences muniquer oralement en anglais. nctionnel, est en mesure d’interagir oralement en anglais en l est formé d’expressions utiles (formules d’usage et expressions sens appartenant au système de la langue). Les expressions la compétence Interagir oralement en anglais. En outre, le mpétences Réinvestir sa compréhension de textes lus et rtent un volet sur le contexte d’apprentissage, où sont décrites les ent des connaissances d’un cycle à un autre. On y définit les ropres aux programmes du premier et des deuxième et troisième Contexte d’apprentissage aux deuxième et troisième cycles du primaire Deuxième cycle x Établissement d’un répertoire personnel de langage fonctionnel grâce à la participation aux routines de classe le) et à l’exécution de tâches presque toutes liées à un environnement familier (ex. : école, maison, voisinage, famille) Troisième cycle Développement d’un répertoire personnel de langage fonctionnel grâce à la participation aux routines de classe et à l’exécution de tâches souvent en rapport avec des thèmes à portée plus générale (ex. : écologie, héros, enfants d’autres pays) Primaire"
+      ],
+      "rubrique": "Suggestions, invitations",
+      "texte": "Faire des suggestions (ex. : Let’s be partners. How about making a poster?)",
+      "progression": {
+        "3": "apprentissage",
+        "4": "apprentissage",
+        "5": "apprentissage",
+        "6": "maitrise"
+      },
+      "page": 7,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ALS-C1D-035",
+      "champ": "Catégorie 1 – Langage contextuel et langage fonctionnel",
+      "cycle": "2e et 3e cycles",
+      "chemin": [
+        "H. Douglas Brow voie au répertoire personnel de mots, de groupes de mots et de e qui lui convient pour l’aider à développer les compétences muniquer oralement en anglais. nctionnel, est en mesure d’interagir oralement en anglais en l est formé d’expressions utiles (formules d’usage et expressions sens appartenant au système de la langue). Les expressions la compétence Interagir oralement en anglais. En outre, le mpétences Réinvestir sa compréhension de textes lus et rtent un volet sur le contexte d’apprentissage, où sont décrites les ent des connaissances d’un cycle à un autre. On y définit les ropres aux programmes du premier et des deuxième et troisième Contexte d’apprentissage aux deuxième et troisième cycles du primaire Deuxième cycle x Établissement d’un répertoire personnel de langage fonctionnel grâce à la participation aux routines de classe le) et à l’exécution de tâches presque toutes liées à un environnement familier (ex. : école, maison, voisinage, famille) Troisième cycle Développement d’un répertoire personnel de langage fonctionnel grâce à la participation aux routines de classe et à l’exécution de tâches souvent en rapport avec des thèmes à portée plus générale (ex. : écologie, héros, enfants d’autres pays) Primaire"
+      ],
+      "rubrique": "Suggestions, invitations",
+      "texte": "Inviter (ex. : Do you want to play with us at recess? Would you like to work with me?)",
+      "progression": {
+        "3": "apprentissage",
+        "4": "apprentissage",
+        "5": "apprentissage",
+        "6": "maitrise"
+      },
+      "page": 7,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ALS-C1D-036",
+      "champ": "Catégorie 1 – Langage contextuel et langage fonctionnel",
+      "cycle": "2e et 3e cycles",
+      "chemin": [
+        "H. Douglas Brow voie au répertoire personnel de mots, de groupes de mots et de e qui lui convient pour l’aider à développer les compétences muniquer oralement en anglais. nctionnel, est en mesure d’interagir oralement en anglais en l est formé d’expressions utiles (formules d’usage et expressions sens appartenant au système de la langue). Les expressions la compétence Interagir oralement en anglais. En outre, le mpétences Réinvestir sa compréhension de textes lus et rtent un volet sur le contexte d’apprentissage, où sont décrites les ent des connaissances d’un cycle à un autre. On y définit les ropres aux programmes du premier et des deuxième et troisième Contexte d’apprentissage aux deuxième et troisième cycles du primaire Deuxième cycle x Établissement d’un répertoire personnel de langage fonctionnel grâce à la participation aux routines de classe le) et à l’exécution de tâches presque toutes liées à un environnement familier (ex. : école, maison, voisinage, famille) Troisième cycle Développement d’un répertoire personnel de langage fonctionnel grâce à la participation aux routines de classe et à l’exécution de tâches souvent en rapport avec des thèmes à portée plus générale (ex. : écologie, héros, enfants d’autres pays) Primaire"
+      ],
+      "rubrique": "Expressions relançant l’interaction",
+      "texte": "Alimenter la conversation (ex. : It’s your turn. What about you? Is that right?)",
+      "progression": {
+        "3": "apprentissage",
+        "4": "apprentissage",
+        "5": "apprentissage",
+        "6": "maitrise"
+      },
+      "page": 8,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ALS-C1D-037",
+      "champ": "Catégorie 1 – Langage contextuel et langage fonctionnel",
+      "cycle": "2e et 3e cycles",
+      "chemin": [
+        "H. Douglas Brow voie au répertoire personnel de mots, de groupes de mots et de e qui lui convient pour l’aider à développer les compétences muniquer oralement en anglais. nctionnel, est en mesure d’interagir oralement en anglais en l est formé d’expressions utiles (formules d’usage et expressions sens appartenant au système de la langue). Les expressions la compétence Interagir oralement en anglais. En outre, le mpétences Réinvestir sa compréhension de textes lus et rtent un volet sur le contexte d’apprentissage, où sont décrites les ent des connaissances d’un cycle à un autre. On y définit les ropres aux programmes du premier et des deuxième et troisième Contexte d’apprentissage aux deuxième et troisième cycles du primaire Deuxième cycle x Établissement d’un répertoire personnel de langage fonctionnel grâce à la participation aux routines de classe le) et à l’exécution de tâches presque toutes liées à un environnement familier (ex. : école, maison, voisinage, famille) Troisième cycle Développement d’un répertoire personnel de langage fonctionnel grâce à la participation aux routines de classe et à l’exécution de tâches souvent en rapport avec des thèmes à portée plus générale (ex. : écologie, héros, enfants d’autres pays) Primaire"
+      ],
+      "rubrique": "Expressions favorisant des échanges harmonieux et le travail d’équipe",
+      "texte": "Favoriser des échanges harmonieux (ex. : That’s a good idea. Let’s listen to Sophie. What a team.)",
+      "progression": {
+        "3": "apprentissage",
+        "4": "maitrise",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 8,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ALS-C1D-038",
+      "champ": "Catégorie 1 – Langage contextuel et langage fonctionnel",
+      "cycle": "2e et 3e cycles",
+      "chemin": [
+        "H. Douglas Brow voie au répertoire personnel de mots, de groupes de mots et de e qui lui convient pour l’aider à développer les compétences muniquer oralement en anglais. nctionnel, est en mesure d’interagir oralement en anglais en l est formé d’expressions utiles (formules d’usage et expressions sens appartenant au système de la langue). Les expressions la compétence Interagir oralement en anglais. En outre, le mpétences Réinvestir sa compréhension de textes lus et rtent un volet sur le contexte d’apprentissage, où sont décrites les ent des connaissances d’un cycle à un autre. On y définit les ropres aux programmes du premier et des deuxième et troisième Contexte d’apprentissage aux deuxième et troisième cycles du primaire Deuxième cycle x Établissement d’un répertoire personnel de langage fonctionnel grâce à la participation aux routines de classe le) et à l’exécution de tâches presque toutes liées à un environnement familier (ex. : école, maison, voisinage, famille) Troisième cycle Développement d’un répertoire personnel de langage fonctionnel grâce à la participation aux routines de classe et à l’exécution de tâches souvent en rapport avec des thèmes à portée plus générale (ex. : écologie, héros, enfants d’autres pays) Primaire"
+      ],
+      "rubrique": "Expressions favorisant des échanges harmonieux et le travail d’équipe",
+      "texte": "Contribuer à la bonne marche du travail d’équipe (ex. : Each our turn. Do you have all your things? Five minutes left.)",
+      "progression": {
+        "3": "apprentissage",
+        "4": "apprentissage",
+        "5": "apprentissage",
+        "6": "maitrise"
+      },
+      "page": 8,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ALS-C1D-039",
+      "champ": "Catégorie 1 – Langage contextuel et langage fonctionnel",
+      "cycle": "2e et 3e cycles",
+      "chemin": [
+        "H. Douglas Brow voie au répertoire personnel de mots, de groupes de mots et de e qui lui convient pour l’aider à développer les compétences muniquer oralement en anglais. nctionnel, est en mesure d’interagir oralement en anglais en l est formé d’expressions utiles (formules d’usage et expressions sens appartenant au système de la langue). Les expressions la compétence Interagir oralement en anglais. En outre, le mpétences Réinvestir sa compréhension de textes lus et rtent un volet sur le contexte d’apprentissage, où sont décrites les ent des connaissances d’un cycle à un autre. On y définit les ropres aux programmes du premier et des deuxième et troisième Contexte d’apprentissage aux deuxième et troisième cycles du primaire Deuxième cycle x Établissement d’un répertoire personnel de langage fonctionnel grâce à la participation aux routines de classe le) et à l’exécution de tâches presque toutes liées à un environnement familier (ex. : école, maison, voisinage, famille) Troisième cycle Développement d’un répertoire personnel de langage fonctionnel grâce à la participation aux routines de classe et à l’exécution de tâches souvent en rapport avec des thèmes à portée plus générale (ex. : écologie, héros, enfants d’autres pays) Primaire"
+      ],
+      "rubrique": "Mots d’action souvent utilisés en classe",
+      "texte": "Utiliser des mots d’action (ex. : look, play, bring, draw)",
+      "progression": {
+        "3": "apprentissage",
+        "4": "maitrise",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 8,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ALS-C1D-040",
+      "champ": "Catégorie 1 – Langage contextuel et langage fonctionnel",
+      "cycle": "2e et 3e cycles",
+      "chemin": [
+        "H. Douglas Brow voie au répertoire personnel de mots, de groupes de mots et de e qui lui convient pour l’aider à développer les compétences muniquer oralement en anglais. nctionnel, est en mesure d’interagir oralement en anglais en l est formé d’expressions utiles (formules d’usage et expressions sens appartenant au système de la langue). Les expressions la compétence Interagir oralement en anglais. En outre, le mpétences Réinvestir sa compréhension de textes lus et rtent un volet sur le contexte d’apprentissage, où sont décrites les ent des connaissances d’un cycle à un autre. On y définit les ropres aux programmes du premier et des deuxième et troisième Contexte d’apprentissage aux deuxième et troisième cycles du primaire Deuxième cycle x Établissement d’un répertoire personnel de langage fonctionnel grâce à la participation aux routines de classe le) et à l’exécution de tâches presque toutes liées à un environnement familier (ex. : école, maison, voisinage, famille) Troisième cycle Développement d’un répertoire personnel de langage fonctionnel grâce à la participation aux routines de classe et à l’exécution de tâches souvent en rapport avec des thèmes à portée plus générale (ex. : écologie, héros, enfants d’autres pays) Primaire"
+      ],
+      "rubrique": "Environnement immédiat",
+      "texte": "Utiliser du vocabulaire lié à l’école (ex. : pencils, classroom, schoolyard, teacher)",
+      "progression": {
+        "3": "maitrise",
+        "4": "reinvestissement",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 8,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ALS-C1D-041",
+      "champ": "Catégorie 1 – Langage contextuel et langage fonctionnel",
+      "cycle": "2e et 3e cycles",
+      "chemin": [
+        "H. Douglas Brow voie au répertoire personnel de mots, de groupes de mots et de e qui lui convient pour l’aider à développer les compétences muniquer oralement en anglais. nctionnel, est en mesure d’interagir oralement en anglais en l est formé d’expressions utiles (formules d’usage et expressions sens appartenant au système de la langue). Les expressions la compétence Interagir oralement en anglais. En outre, le mpétences Réinvestir sa compréhension de textes lus et rtent un volet sur le contexte d’apprentissage, où sont décrites les ent des connaissances d’un cycle à un autre. On y définit les ropres aux programmes du premier et des deuxième et troisième Contexte d’apprentissage aux deuxième et troisième cycles du primaire Deuxième cycle x Établissement d’un répertoire personnel de langage fonctionnel grâce à la participation aux routines de classe le) et à l’exécution de tâches presque toutes liées à un environnement familier (ex. : école, maison, voisinage, famille) Troisième cycle Développement d’un répertoire personnel de langage fonctionnel grâce à la participation aux routines de classe et à l’exécution de tâches souvent en rapport avec des thèmes à portée plus générale (ex. : écologie, héros, enfants d’autres pays) Primaire"
+      ],
+      "rubrique": "Environnement immédiat",
+      "texte": "Utiliser du vocabulaire lié à d’autres environnements familiers (ex. : living room, grocery store, park)",
+      "progression": {
+        "3": "apprentissage",
+        "4": "maitrise",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 8,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ALS-C1D-042",
+      "champ": "Catégorie 1 – Langage contextuel et langage fonctionnel",
+      "cycle": "2e et 3e cycles",
+      "chemin": [
+        "H. Douglas Brow voie au répertoire personnel de mots, de groupes de mots et de e qui lui convient pour l’aider à développer les compétences muniquer oralement en anglais. nctionnel, est en mesure d’interagir oralement en anglais en l est formé d’expressions utiles (formules d’usage et expressions sens appartenant au système de la langue). Les expressions la compétence Interagir oralement en anglais. En outre, le mpétences Réinvestir sa compréhension de textes lus et rtent un volet sur le contexte d’apprentissage, où sont décrites les ent des connaissances d’un cycle à un autre. On y définit les ropres aux programmes du premier et des deuxième et troisième Contexte d’apprentissage aux deuxième et troisième cycles du primaire Deuxième cycle x Établissement d’un répertoire personnel de langage fonctionnel grâce à la participation aux routines de classe le) et à l’exécution de tâches presque toutes liées à un environnement familier (ex. : école, maison, voisinage, famille) Troisième cycle Développement d’un répertoire personnel de langage fonctionnel grâce à la participation aux routines de classe et à l’exécution de tâches souvent en rapport avec des thèmes à portée plus générale (ex. : écologie, héros, enfants d’autres pays) Primaire"
+      ],
+      "rubrique": "Thèmes abordés (ex. : famille, sports, loisirs, alimentation, animaux, vêtements, événements spéciaux)",
+      "texte": "Utiliser le vocabulaire ciblé pour effectuer les tâches",
+      "progression": {
+        "3": "apprentissage",
+        "4": "apprentissage",
+        "5": "apprentissage",
+        "6": "apprentissage"
+      },
+      "page": 8,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ALS-C1D-043",
+      "champ": "Catégorie 1 – Langage contextuel et langage fonctionnel",
+      "cycle": "2e et 3e cycles",
+      "chemin": [
+        "H. Douglas Brow voie au répertoire personnel de mots, de groupes de mots et de e qui lui convient pour l’aider à développer les compétences muniquer oralement en anglais. nctionnel, est en mesure d’interagir oralement en anglais en l est formé d’expressions utiles (formules d’usage et expressions sens appartenant au système de la langue). Les expressions la compétence Interagir oralement en anglais. En outre, le mpétences Réinvestir sa compréhension de textes lus et rtent un volet sur le contexte d’apprentissage, où sont décrites les ent des connaissances d’un cycle à un autre. On y définit les ropres aux programmes du premier et des deuxième et troisième Contexte d’apprentissage aux deuxième et troisième cycles du primaire Deuxième cycle x Établissement d’un répertoire personnel de langage fonctionnel grâce à la participation aux routines de classe le) et à l’exécution de tâches presque toutes liées à un environnement familier (ex. : école, maison, voisinage, famille) Troisième cycle Développement d’un répertoire personnel de langage fonctionnel grâce à la participation aux routines de classe et à l’exécution de tâches souvent en rapport avec des thèmes à portée plus générale (ex. : écologie, héros, enfants d’autres pays) Primaire"
+      ],
+      "rubrique": "Pronoms personnels et formes possessives",
+      "texte": "Utiliser des pronoms personnels et des formes possessives en contexte pour parler de soi (ex. : I have my book. The pencil is mine.)",
+      "progression": {
+        "3": "apprentissage",
+        "4": "maitrise",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 8,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ALS-C1D-044",
+      "champ": "Catégorie 1 – Langage contextuel et langage fonctionnel",
+      "cycle": "2e et 3e cycles",
+      "chemin": [
+        "H. Douglas Brow voie au répertoire personnel de mots, de groupes de mots et de e qui lui convient pour l’aider à développer les compétences muniquer oralement en anglais. nctionnel, est en mesure d’interagir oralement en anglais en l est formé d’expressions utiles (formules d’usage et expressions sens appartenant au système de la langue). Les expressions la compétence Interagir oralement en anglais. En outre, le mpétences Réinvestir sa compréhension de textes lus et rtent un volet sur le contexte d’apprentissage, où sont décrites les ent des connaissances d’un cycle à un autre. On y définit les ropres aux programmes du premier et des deuxième et troisième Contexte d’apprentissage aux deuxième et troisième cycles du primaire Deuxième cycle x Établissement d’un répertoire personnel de langage fonctionnel grâce à la participation aux routines de classe le) et à l’exécution de tâches presque toutes liées à un environnement familier (ex. : école, maison, voisinage, famille) Troisième cycle Développement d’un répertoire personnel de langage fonctionnel grâce à la participation aux routines de classe et à l’exécution de tâches souvent en rapport avec des thèmes à portée plus générale (ex. : écologie, héros, enfants d’autres pays) Primaire"
+      ],
+      "rubrique": "Pronoms personnels et formes possessives",
+      "texte": "Utiliser des pronoms personnels et des formes possessives en contexte pour parler d’autres personnes (ex. : Your book is on the desk. It’s his pencil.)",
+      "progression": {
+        "3": "apprentissage",
+        "4": "apprentissage",
+        "5": "apprentissage",
+        "6": "apprentissage"
+      },
+      "page": 8,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ALS-C1D-045",
+      "champ": "Catégorie 1 – Langage contextuel et langage fonctionnel",
+      "cycle": "2e et 3e cycles",
+      "chemin": [
+        "H. Douglas Brow voie au répertoire personnel de mots, de groupes de mots et de e qui lui convient pour l’aider à développer les compétences muniquer oralement en anglais. nctionnel, est en mesure d’interagir oralement en anglais en l est formé d’expressions utiles (formules d’usage et expressions sens appartenant au système de la langue). Les expressions la compétence Interagir oralement en anglais. En outre, le mpétences Réinvestir sa compréhension de textes lus et rtent un volet sur le contexte d’apprentissage, où sont décrites les ent des connaissances d’un cycle à un autre. On y définit les ropres aux programmes du premier et des deuxième et troisième Contexte d’apprentissage aux deuxième et troisième cycles du primaire Deuxième cycle x Établissement d’un répertoire personnel de langage fonctionnel grâce à la participation aux routines de classe le) et à l’exécution de tâches presque toutes liées à un environnement familier (ex. : école, maison, voisinage, famille) Troisième cycle Développement d’un répertoire personnel de langage fonctionnel grâce à la participation aux routines de classe et à l’exécution de tâches souvent en rapport avec des thèmes à portée plus générale (ex. : écologie, héros, enfants d’autres pays) Primaire"
+      ],
+      "rubrique": "Alphabet",
+      "texte": "Utiliser l’alphabet pour épeler des mots en contexte",
+      "progression": {
+        "3": "apprentissage",
+        "4": "maitrise",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 9,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ALS-C1D-046",
+      "champ": "Catégorie 1 – Langage contextuel et langage fonctionnel",
+      "cycle": "2e et 3e cycles",
+      "chemin": [
+        "H. Douglas Brow voie au répertoire personnel de mots, de groupes de mots et de e qui lui convient pour l’aider à développer les compétences muniquer oralement en anglais. nctionnel, est en mesure d’interagir oralement en anglais en l est formé d’expressions utiles (formules d’usage et expressions sens appartenant au système de la langue). Les expressions la compétence Interagir oralement en anglais. En outre, le mpétences Réinvestir sa compréhension de textes lus et rtent un volet sur le contexte d’apprentissage, où sont décrites les ent des connaissances d’un cycle à un autre. On y définit les ropres aux programmes du premier et des deuxième et troisième Contexte d’apprentissage aux deuxième et troisième cycles du primaire Deuxième cycle x Établissement d’un répertoire personnel de langage fonctionnel grâce à la participation aux routines de classe le) et à l’exécution de tâches presque toutes liées à un environnement familier (ex. : école, maison, voisinage, famille) Troisième cycle Développement d’un répertoire personnel de langage fonctionnel grâce à la participation aux routines de classe et à l’exécution de tâches souvent en rapport avec des thèmes à portée plus générale (ex. : écologie, héros, enfants d’autres pays) Primaire"
+      ],
+      "rubrique": "Nombres",
+      "texte": "Utiliser les nombres cardinaux et ordinaux vus fréquemment en classe",
+      "progression": {
+        "3": "apprentissage",
+        "4": "maitrise",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 9,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ALS-C1D-047",
+      "champ": "Catégorie 1 – Langage contextuel et langage fonctionnel",
+      "cycle": "2e et 3e cycles",
+      "chemin": [
+        "H. Douglas Brow voie au répertoire personnel de mots, de groupes de mots et de e qui lui convient pour l’aider à développer les compétences muniquer oralement en anglais. nctionnel, est en mesure d’interagir oralement en anglais en l est formé d’expressions utiles (formules d’usage et expressions sens appartenant au système de la langue). Les expressions la compétence Interagir oralement en anglais. En outre, le mpétences Réinvestir sa compréhension de textes lus et rtent un volet sur le contexte d’apprentissage, où sont décrites les ent des connaissances d’un cycle à un autre. On y définit les ropres aux programmes du premier et des deuxième et troisième Contexte d’apprentissage aux deuxième et troisième cycles du primaire Deuxième cycle x Établissement d’un répertoire personnel de langage fonctionnel grâce à la participation aux routines de classe le) et à l’exécution de tâches presque toutes liées à un environnement familier (ex. : école, maison, voisinage, famille) Troisième cycle Développement d’un répertoire personnel de langage fonctionnel grâce à la participation aux routines de classe et à l’exécution de tâches souvent en rapport avec des thèmes à portée plus générale (ex. : écologie, héros, enfants d’autres pays) Primaire"
+      ],
+      "rubrique": "Couleurs et formes géométriques",
+      "texte": "Utiliser les noms de couleurs et de formes géométriques vus fréquemment en classe",
+      "progression": {
+        "3": "apprentissage",
+        "4": "maitrise",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 9,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ALS-C1D-048",
+      "champ": "Catégorie 1 – Langage contextuel et langage fonctionnel",
+      "cycle": "2e et 3e cycles",
+      "chemin": [
+        "H. Douglas Brow voie au répertoire personnel de mots, de groupes de mots et de e qui lui convient pour l’aider à développer les compétences muniquer oralement en anglais. nctionnel, est en mesure d’interagir oralement en anglais en l est formé d’expressions utiles (formules d’usage et expressions sens appartenant au système de la langue). Les expressions la compétence Interagir oralement en anglais. En outre, le mpétences Réinvestir sa compréhension de textes lus et rtent un volet sur le contexte d’apprentissage, où sont décrites les ent des connaissances d’un cycle à un autre. On y définit les ropres aux programmes du premier et des deuxième et troisième Contexte d’apprentissage aux deuxième et troisième cycles du primaire Deuxième cycle x Établissement d’un répertoire personnel de langage fonctionnel grâce à la participation aux routines de classe le) et à l’exécution de tâches presque toutes liées à un environnement familier (ex. : école, maison, voisinage, famille) Troisième cycle Développement d’un répertoire personnel de langage fonctionnel grâce à la participation aux routines de classe et à l’exécution de tâches souvent en rapport avec des thèmes à portée plus générale (ex. : écologie, héros, enfants d’autres pays) Primaire"
+      ],
+      "rubrique": "Prépositions et mots de localisation",
+      "texte": "Utiliser les prépositions et les mots de localisation nécessaires à la réalisation des tâches (ex. : at, beside, right)",
+      "progression": {
+        "3": "apprentissage",
+        "4": "apprentissage",
+        "5": "apprentissage",
+        "6": "apprentissage"
+      },
+      "page": 9,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ALS-C1D-049",
+      "champ": "Catégorie 1 – Langage contextuel et langage fonctionnel",
+      "cycle": "2e et 3e cycles",
+      "chemin": [
+        "H. Douglas Brow voie au répertoire personnel de mots, de groupes de mots et de e qui lui convient pour l’aider à développer les compétences muniquer oralement en anglais. nctionnel, est en mesure d’interagir oralement en anglais en l est formé d’expressions utiles (formules d’usage et expressions sens appartenant au système de la langue). Les expressions la compétence Interagir oralement en anglais. En outre, le mpétences Réinvestir sa compréhension de textes lus et rtent un volet sur le contexte d’apprentissage, où sont décrites les ent des connaissances d’un cycle à un autre. On y définit les ropres aux programmes du premier et des deuxième et troisième Contexte d’apprentissage aux deuxième et troisième cycles du primaire Deuxième cycle x Établissement d’un répertoire personnel de langage fonctionnel grâce à la participation aux routines de classe le) et à l’exécution de tâches presque toutes liées à un environnement familier (ex. : école, maison, voisinage, famille) Troisième cycle Développement d’un répertoire personnel de langage fonctionnel grâce à la participation aux routines de classe et à l’exécution de tâches souvent en rapport avec des thèmes à portée plus générale (ex. : écologie, héros, enfants d’autres pays) Primaire"
+      ],
+      "rubrique": "Expressions du temps",
+      "texte": "Utiliser les expressions du temps vues fréquemment en classe (ex. : five minutes, in September, next summer)",
+      "progression": {
+        "3": "apprentissage",
+        "4": "apprentissage",
+        "5": "maitrise",
+        "6": "reinvestissement"
+      },
+      "page": 9,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ALS-C1D-050",
+      "champ": "Catégorie 1 – Langage contextuel et langage fonctionnel",
+      "cycle": "2e et 3e cycles",
+      "chemin": [
+        "H. Douglas Brow voie au répertoire personnel de mots, de groupes de mots et de e qui lui convient pour l’aider à développer les compétences muniquer oralement en anglais. nctionnel, est en mesure d’interagir oralement en anglais en l est formé d’expressions utiles (formules d’usage et expressions sens appartenant au système de la langue). Les expressions la compétence Interagir oralement en anglais. En outre, le mpétences Réinvestir sa compréhension de textes lus et rtent un volet sur le contexte d’apprentissage, où sont décrites les ent des connaissances d’un cycle à un autre. On y définit les ropres aux programmes du premier et des deuxième et troisième Contexte d’apprentissage aux deuxième et troisième cycles du primaire Deuxième cycle x Établissement d’un répertoire personnel de langage fonctionnel grâce à la participation aux routines de classe le) et à l’exécution de tâches presque toutes liées à un environnement familier (ex. : école, maison, voisinage, famille) Troisième cycle Développement d’un répertoire personnel de langage fonctionnel grâce à la participation aux routines de classe et à l’exécution de tâches souvent en rapport avec des thèmes à portée plus générale (ex. : écologie, héros, enfants d’autres pays) Primaire"
+      ],
+      "rubrique": "Mots d’interrogation",
+      "texte": "Répondre aux mots d’interrogation utilisés en contexte (ex. : who, what, how)",
+      "progression": {
+        "3": "apprentissage",
+        "4": "apprentissage",
+        "5": "apprentissage",
+        "6": "maitrise"
+      },
+      "page": 9,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ALS-C1D-051",
+      "champ": "Catégorie 1 – Langage contextuel et langage fonctionnel",
+      "cycle": "2e et 3e cycles",
+      "chemin": [
+        "H. Douglas Brow voie au répertoire personnel de mots, de groupes de mots et de e qui lui convient pour l’aider à développer les compétences muniquer oralement en anglais. nctionnel, est en mesure d’interagir oralement en anglais en l est formé d’expressions utiles (formules d’usage et expressions sens appartenant au système de la langue). Les expressions la compétence Interagir oralement en anglais. En outre, le mpétences Réinvestir sa compréhension de textes lus et rtent un volet sur le contexte d’apprentissage, où sont décrites les ent des connaissances d’un cycle à un autre. On y définit les ropres aux programmes du premier et des deuxième et troisième Contexte d’apprentissage aux deuxième et troisième cycles du primaire Deuxième cycle x Établissement d’un répertoire personnel de langage fonctionnel grâce à la participation aux routines de classe le) et à l’exécution de tâches presque toutes liées à un environnement familier (ex. : école, maison, voisinage, famille) Troisième cycle Développement d’un répertoire personnel de langage fonctionnel grâce à la participation aux routines de classe et à l’exécution de tâches souvent en rapport avec des thèmes à portée plus générale (ex. : écologie, héros, enfants d’autres pays) Primaire"
+      ],
+      "rubrique": "Mots d’interrogation",
+      "texte": "Utiliser les mots d’interrogation en contexte",
+      "progression": {
+        "3": null,
+        "4": "apprentissage",
+        "5": "apprentissage",
+        "6": "maitrise"
+      },
+      "page": 9,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ALS-C2D-001",
+      "champ": "Catégorie 2 – Stratégies",
+      "cycle": "2e et 3e cycles",
+      "chemin": [],
+      "rubrique": "Gagner du temps",
+      "texte": "Gagner du temps pour penser à une réponse",
+      "progression": {
+        "3": "apprentissage",
+        "4": "maitrise",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 10,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ALS-C2D-002",
+      "champ": "Catégorie 2 – Stratégies",
+      "cycle": "2e et 3e cycles",
+      "chemin": [],
+      "rubrique": "Demande d’aide",
+      "texte": "Demander de l’aide",
+      "progression": {
+        "3": "apprentissage",
+        "4": "maitrise",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 10,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ALS-C2D-003",
+      "champ": "Catégorie 2 – Stratégies",
+      "cycle": "2e et 3e cycles",
+      "chemin": [],
+      "rubrique": "Demande de clarification",
+      "texte": "Demander à l’interlocuteur de répéter ou d’apporter une précision",
+      "progression": {
+        "3": "apprentissage",
+        "4": "maitrise",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 11,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ALS-C2D-004",
+      "champ": "Catégorie 2 – Stratégies",
+      "cycle": "2e et 3e cycles",
+      "chemin": [],
+      "rubrique": "Circonlocution",
+      "texte": "Compenser le fait de ne pas connaître le mot ou l’expression juste en les substituant par des mots ou expressions connus",
+      "progression": {
+        "3": "apprentissage",
+        "4": "apprentissage",
+        "5": "apprentissage",
+        "6": "maitrise"
+      },
+      "page": 11,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ALS-C2D-005",
+      "champ": "Catégorie 2 – Stratégies",
+      "cycle": "2e et 3e cycles",
+      "chemin": [],
+      "rubrique": "Autorégulation",
+      "texte": "Remettre en question la prononciation des mots nouveaux lus ou entendus",
+      "progression": {
+        "3": "apprentissage",
+        "4": "apprentissage",
+        "5": "apprentissage",
+        "6": "apprentissage"
+      },
+      "page": 11,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ALS-C2D-006",
+      "champ": "Catégorie 2 – Stratégies",
+      "cycle": "2e et 3e cycles",
+      "chemin": [],
+      "rubrique": "Autorégulation",
+      "texte": "Choisir et utiliser les stratégies appropriées",
+      "progression": {
+        "3": "apprentissage",
+        "4": "apprentissage",
+        "5": "apprentissage",
+        "6": "apprentissage"
+      },
+      "page": 11,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ALS-C2D-007",
+      "champ": "Catégorie 2 – Stratégies",
+      "cycle": "2e et 3e cycles",
+      "chemin": [],
+      "rubrique": "Autorégulation",
+      "texte": "Vérifier et adapter sa performance en cours",
+      "progression": {
+        "3": "apprentissage",
+        "4": "apprentissage",
+        "5": "apprentissage",
+        "6": "apprentissage"
+      },
+      "page": 11,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ALS-C2D-008",
+      "champ": "Catégorie 2 – Stratégies",
+      "cycle": "2e et 3e cycles",
+      "chemin": [],
+      "rubrique": "Autoévaluation",
+      "texte": "Réfléchir à ce qui a été appris et à la façon d’apprendre",
+      "progression": {
+        "3": "apprentissage",
+        "4": "apprentissage",
+        "5": "apprentissage",
+        "6": "apprentissage"
+      },
+      "page": 11,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ALS-C2D-009",
+      "champ": "Catégorie 2 – Stratégies",
+      "cycle": "2e et 3e cycles",
+      "chemin": [],
+      "rubrique": "Planification",
+      "texte": "Se demander ce qu’il faut faire, dans quel ordre, avec quelles ressources, ce qu’il y a lieu d’écouter ou de lire, de dire ou d’écrire et comment le faire",
+      "progression": {
+        "3": "apprentissage",
+        "4": "apprentissage",
+        "5": "apprentissage",
+        "6": "apprentissage"
+      },
+      "page": 11,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ALS-C2D-010",
+      "champ": "Catégorie 2 – Stratégies",
+      "cycle": "2e et 3e cycles",
+      "chemin": [],
+      "rubrique": "Attention",
+      "texte": "Décider de se concentrer sur les bonnes choses",
+      "progression": {
+        "3": "apprentissage",
+        "4": "apprentissage",
+        "5": "maitrise",
+        "6": "reinvestissement"
+      },
+      "page": 11,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ALS-C2D-011",
+      "champ": "Catégorie 2 – Stratégies",
+      "cycle": "2e et 3e cycles",
+      "chemin": [],
+      "rubrique": "Attention",
+      "texte": "Rester centré sur la tâche",
+      "progression": {
+        "3": "apprentissage",
+        "4": "apprentissage",
+        "5": "apprentissage",
+        "6": "maitrise"
+      },
+      "page": 11,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ALS-C2D-012",
+      "champ": "Catégorie 2 – Stratégies",
+      "cycle": "2e et 3e cycles",
+      "chemin": [],
+      "rubrique": "Activation des connaissances antérieures",
+      "texte": "Tirer parti de ses connaissances antérieures comme sources d’information",
+      "progression": {
+        "3": "apprentissage",
+        "4": "apprentissage",
+        "5": "apprentissage",
+        "6": "maitrise"
+      },
+      "page": 11,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ALS-C2D-013",
+      "champ": "Catégorie 2 – Stratégies",
+      "cycle": "2e et 3e cycles",
+      "chemin": [],
+      "rubrique": "Anticipation",
+      "texte": "Anticiper grâce à ses connaissances antérieures, au thème, à la tâche à accomplir, au titre, aux illustrations, au survol du texte",
+      "progression": {
+        "3": "apprentissage",
+        "4": "apprentissage",
+        "5": "apprentissage",
+        "6": "maitrise"
+      },
+      "page": 11,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ALS-C2D-014",
+      "champ": "Catégorie 2 – Stratégies",
+      "cycle": "2e et 3e cycles",
+      "chemin": [],
+      "rubrique": "Inférence",
+      "texte": "Deviner intelligemment à partir de tous les indices disponibles comme le contexte, les mots apparentés, les mots et expressions connus, les indices visuels, les indices contextuels, l’intonation et des structures de phrases types",
+      "progression": {
+        "3": "apprentissage",
+        "4": "apprentissage",
+        "5": "apprentissage",
+        "6": "maitrise"
+      },
+      "page": 12,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ALS-C2D-015",
+      "champ": "Catégorie 2 – Stratégies",
+      "cycle": "2e et 3e cycles",
+      "chemin": [],
+      "rubrique": "Pratique",
+      "texte": "Redire, répéter, regrouper, intégrer et assimiler le langage fonctionnel fréquemment utilisé",
+      "progression": {
+        "3": "apprentissage",
+        "4": "maitrise",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 12,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ALS-C2D-016",
+      "champ": "Catégorie 2 – Stratégies",
+      "cycle": "2e et 3e cycles",
+      "chemin": [],
+      "rubrique": "Utilisation des ressources",
+      "texte": "Tirer parti des ressources humaines (ex. : enseignant et pairs)",
+      "progression": {
+        "3": "apprentissage",
+        "4": "apprentissage",
+        "5": "maitrise",
+        "6": "reinvestissement"
+      },
+      "page": 12,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ALS-C2D-017",
+      "champ": "Catégorie 2 – Stratégies",
+      "cycle": "2e et 3e cycles",
+      "chemin": [],
+      "rubrique": "Utilisation des ressources",
+      "texte": "Tirer parti des ressources matérielles (ex. : banques de mots et d’expressions, outils de schématisation, affiches, aide‑mémoire, outils de référence rapides, ouvrages, dictionnaires thématiques et visuels, technologies de l’information)",
+      "progression": {
+        "3": "apprentissage",
+        "4": "apprentissage",
+        "5": "maitrise",
+        "6": "reinvestissement"
+      },
+      "page": 12,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ALS-C2D-018",
+      "champ": "Catégorie 2 – Stratégies",
+      "cycle": "2e et 3e cycles",
+      "chemin": [],
+      "rubrique": "Prise de notes",
+      "texte": "Consigner l’information pertinente de façon structurée (ex. : tableau en T, diagramme de Venn, synopsis graphique d’une histoire)",
+      "progression": {
+        "3": "apprentissage",
+        "4": "apprentissage",
+        "5": "maitrise",
+        "6": "reinvestissement"
+      },
+      "page": 12,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ALS-C2D-019",
+      "champ": "Catégorie 2 – Stratégies",
+      "cycle": "2e et 3e cycles",
+      "chemin": [],
+      "rubrique": "Survol",
+      "texte": "Parcourir rapidement un texte pour en avoir une idée ou un aperçu",
+      "progression": {
+        "3": "apprentissage",
+        "4": "apprentissage",
+        "5": "apprentissage",
+        "6": "maitrise"
+      },
+      "page": 12,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ALS-C2D-020",
+      "champ": "Catégorie 2 – Stratégies",
+      "cycle": "2e et 3e cycles",
+      "chemin": [],
+      "rubrique": "Repérage",
+      "texte": "Chercher une information particulière dans un texte",
+      "progression": {
+        "3": "apprentissage",
+        "4": "apprentissage",
+        "5": "apprentissage",
+        "6": "maitrise"
+      },
+      "page": 12,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ALS-C2D-021",
+      "champ": "Catégorie 2 – Stratégies",
+      "cycle": "2e et 3e cycles",
+      "chemin": [],
+      "rubrique": "Coopération",
+      "texte": "Travailler avec les autres, apprendre avec les autres, s’aider mutuellement",
+      "progression": {
+        "3": "apprentissage",
+        "4": "apprentissage",
+        "5": "apprentissage",
+        "6": "maitrise"
+      },
+      "page": 12,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ALS-C2D-022",
+      "champ": "Catégorie 2 – Stratégies",
+      "cycle": "2e et 3e cycles",
+      "chemin": [],
+      "rubrique": "Prise de risques",
+      "texte": "Oser employer le langage fonctionnel fréquemment utilisé en classe pour parler uniquement en anglais malgré les erreurs commises",
+      "progression": {
+        "3": "apprentissage",
+        "4": "maitrise",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 13,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ALS-C2D-023",
+      "champ": "Catégorie 2 – Stratégies",
+      "cycle": "2e et 3e cycles",
+      "chemin": [],
+      "rubrique": "Prise de risques",
+      "texte": "Expérimenter avec le langage connu",
+      "progression": {
+        "3": "apprentissage",
+        "4": "apprentissage",
+        "5": "apprentissage",
+        "6": "maitrise"
+      },
+      "page": 13,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ALS-C2D-024",
+      "champ": "Catégorie 2 – Stratégies",
+      "cycle": "2e et 3e cycles",
+      "chemin": [],
+      "rubrique": "Prise de risques",
+      "texte": "Tenter d’assimiler du langage nouveau",
+      "progression": {
+        "3": "apprentissage",
+        "4": "apprentissage",
+        "5": "apprentissage",
+        "6": "apprentissage"
+      },
+      "page": 13,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ALS-C2D-025",
+      "champ": "Catégorie 2 – Stratégies",
+      "cycle": "2e et 3e cycles",
+      "chemin": [],
+      "rubrique": "Accepter de ne pas tout comprendre ce qui est entendu ou lu",
+      "texte": "Persister malgré le fait de ne pas tout comprendre ce qui est entendu ou lu, sans pour autant s’en faire outre mesure",
+      "progression": {
+        "3": "apprentissage",
+        "4": "maitrise",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 13,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ALS-C3D-001",
+      "champ": "Catégorie 3 – Conventions linguistiques",
+      "cycle": "2e et 3e cycles",
+      "chemin": [],
+      "rubrique": "Ordre des mots",
+      "texte": "Utiliser ses connaissances sur l’ordre des mots dans les phrases simples pour en dégager le sens",
+      "progression": {
+        "3": "apprentissage",
+        "4": "maitrise",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 14,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ALS-C3D-002",
+      "champ": "Catégorie 3 – Conventions linguistiques",
+      "cycle": "2e et 3e cycles",
+      "chemin": [],
+      "rubrique": "Ordre des mots",
+      "texte": "Formuler des phrases simples (ex. : I like apples. Emily can sing and dance. Bring your book.)",
+      "progression": {
+        "3": "apprentissage",
+        "4": "maitrise",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 14,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ALS-C3D-003",
+      "champ": "Catégorie 3 – Conventions linguistiques",
+      "cycle": "2e et 3e cycles",
+      "chemin": [],
+      "rubrique": "Ordre des mots",
+      "texte": "Mettre l’adjectif avant le nom (ex. : red car, beautiful day)",
+      "progression": {
+        "3": "apprentissage",
+        "4": "maitrise",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 14,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ALS-C3D-004",
+      "champ": "Catégorie 3 – Conventions linguistiques",
+      "cycle": "2e et 3e cycles",
+      "chemin": [],
+      "rubrique": "Pluriels",
+      "texte": "Utiliser ses connaissances sur les pluriels réguliers et les pluriels irréguliers courants pour dégager le sens",
+      "progression": {
+        "3": "apprentissage",
+        "4": "maitrise",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 15,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ALS-C3D-005",
+      "champ": "Catégorie 3 – Conventions linguistiques",
+      "cycle": "2e et 3e cycles",
+      "chemin": [],
+      "rubrique": "Pluriels",
+      "texte": "Mettre un « s » à la fin des noms pluriels réguliers (ex. : kayaks, oranges, toys)",
+      "progression": {
+        "3": "apprentissage",
+        "4": "maitrise",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 15,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ALS-C3D-006",
+      "champ": "Catégorie 3 – Conventions linguistiques",
+      "cycle": "2e et 3e cycles",
+      "chemin": [],
+      "rubrique": "Pluriels",
+      "texte": "Utiliser les pluriels irréguliers fréquemment vus en classe (ex. : people, children, feet)",
+      "progression": {
+        "3": "apprentissage",
+        "4": "apprentissage",
+        "5": "maitrise",
+        "6": "reinvestissement"
+      },
+      "page": 15,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ALS-C3D-007",
+      "champ": "Catégorie 3 – Conventions linguistiques",
+      "cycle": "2e et 3e cycles",
+      "chemin": [],
+      "rubrique": "Articles",
+      "texte": "Mettre un article avant le nom (ex. : The bag is heavy. It’s a computer. She’s an athlete.)",
+      "progression": {
+        "3": "apprentissage",
+        "4": "apprentissage",
+        "5": "apprentissage",
+        "6": "apprentissage"
+      },
+      "page": 15,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ALS-C3D-008",
+      "champ": "Catégorie 3 – Conventions linguistiques",
+      "cycle": "2e et 3e cycles",
+      "chemin": [],
+      "rubrique": "Temps de verbes",
+      "texte": "Utiliser ses connaissances sur les temps de verbes pour dégager le sens (ex. : impératif, passé et futur)",
+      "progression": {
+        "3": "apprentissage",
+        "4": "apprentissage",
+        "5": "apprentissage",
+        "6": "apprentissage"
+      },
+      "page": 15,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ALS-C3D-009",
+      "champ": "Catégorie 3 – Conventions linguistiques",
+      "cycle": "2e et 3e cycles",
+      "chemin": [],
+      "rubrique": "Temps de verbes",
+      "texte": "Utiliser les temps de verbes ciblés pour la tâche",
+      "progression": {
+        "3": "apprentissage",
+        "4": "apprentissage",
+        "5": "apprentissage",
+        "6": "apprentissage"
+      },
+      "page": 15,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ALS-C3D-010",
+      "champ": "Catégorie 3 – Conventions linguistiques",
+      "cycle": "2e et 3e cycles",
+      "chemin": [],
+      "rubrique": "Intonation et prononciation du langage fonctionnel fréquemment utilisé en classe",
+      "texte": "Avoir une intonation et une prononciation compréhensibles par un locuteur anglophone",
+      "progression": {
+        "3": "apprentissage",
+        "4": "maitrise",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 15,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ALS-C3D-011",
+      "champ": "Catégorie 3 – Conventions linguistiques",
+      "cycle": "2e et 3e cycles",
+      "chemin": [],
+      "rubrique": "C—Ponctuation",
+      "texte": "Utiliser ses connaissances sur la majuscule, le point, le point d’interrogation et la virgule entre les éléments d’une énumération pour dégager le sens des textes",
+      "progression": {
+        "3": "apprentissage",
+        "4": "maitrise",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 15,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ALS-C3D-012",
+      "champ": "Catégorie 3 – Conventions linguistiques",
+      "cycle": "2e et 3e cycles",
+      "chemin": [],
+      "rubrique": "C—Ponctuation",
+      "texte": "Mettre la majuscule au début de la phrase et le point ou le point d’interrogation à la fin de la phrase",
+      "progression": {
+        "3": "apprentissage",
+        "4": "maitrise",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 15,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ALS-C3D-013",
+      "champ": "Catégorie 3 – Conventions linguistiques",
+      "cycle": "2e et 3e cycles",
+      "chemin": [],
+      "rubrique": "C—Ponctuation",
+      "texte": "Mettre une virgule entre les éléments d’une énumération",
+      "progression": {
+        "3": "apprentissage",
+        "4": "apprentissage",
+        "5": "apprentissage",
+        "6": "maitrise"
+      },
+      "page": 15,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ALS-C3D-014",
+      "champ": "Catégorie 3 – Conventions linguistiques",
+      "cycle": "2e et 3e cycles",
+      "chemin": [],
+      "rubrique": "D—Orthographe",
+      "texte": "Respecter l’orthographe des mots trouvés dans les modèles explicites et les ressources visées par la tâche",
+      "progression": {
+        "3": "apprentissage",
+        "4": "maitrise",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 15,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ALS-C3D-015",
+      "champ": "Catégorie 3 – Conventions linguistiques",
+      "cycle": "2e et 3e cycles",
+      "chemin": [],
+      "rubrique": "D—Orthographe",
+      "texte": "Respecter l’orthographe des mots trouvés dans les modèles ouverts et les ressources visées par la tâche",
+      "progression": {
+        "3": null,
+        "4": null,
+        "5": "apprentissage",
+        "6": "maitrise"
+      },
+      "page": 15,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ALS-C4D-001",
+      "champ": "Catégorie 4 – Les composantes d’un texte",
+      "cycle": "2e et 3e cycles",
+      "chemin": [],
+      "rubrique": "Marqueurs de relation (ex. : once upon a time, next, finally)",
+      "texte": "Utiliser ses connaissances sur les marqueurs de relation pour dégager le sens",
+      "progression": {
+        "3": "apprentissage",
+        "4": "apprentissage",
+        "5": "apprentissage",
+        "6": "maitrise"
+      },
+      "page": 17,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ALS-C4D-002",
+      "champ": "Catégorie 4 – Les composantes d’un texte",
+      "cycle": "2e et 3e cycles",
+      "chemin": [],
+      "rubrique": "Indices contextuels : titre, sous-titres, synopsis, phrases clés, illustrations, table des matières",
+      "texte": "Utiliser les indices contextuels pour reconnaître une variété de types de textes (ex. : article de journal, BD roman, publicité) et faire des prédictions sur le contenu",
+      "progression": {
+        "3": "apprentissage",
+        "4": "apprentissage",
+        "5": "apprentissage",
+        "6": "maitrise"
+      },
+      "page": 17,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ALS-C4D-003",
+      "champ": "Catégorie 4 – Les composantes d’un texte",
+      "cycle": "2e et 3e cycles",
+      "chemin": [],
+      "rubrique": "Indices contextuels : titre, sous-titres, synopsis, phrases clés, illustrations, table des matières",
+      "texte": "Utiliser les indices contextuels pour dégager le sens",
+      "progression": {
+        "3": "apprentissage",
+        "4": "apprentissage",
+        "5": "apprentissage",
+        "6": "maitrise"
+      },
+      "page": 18,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ALS-C4D-004",
+      "champ": "Catégorie 4 – Les composantes d’un texte",
+      "cycle": "2e et 3e cycles",
+      "chemin": [],
+      "rubrique": "Sens global",
+      "texte": "Relever les idées générales énoncées de façon explicite (soit le sens littéral)",
+      "progression": {
+        "3": "apprentissage",
+        "4": "maitrise",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 18,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ALS-C4D-005",
+      "champ": "Catégorie 4 – Les composantes d’un texte",
+      "cycle": "2e et 3e cycles",
+      "chemin": [],
+      "rubrique": "Sens global",
+      "texte": "Relever les idées implicites (soit le sens sous-jacent)",
+      "progression": {
+        "3": "apprentissage",
+        "4": "apprentissage",
+        "5": "apprentissage",
+        "6": "apprentissage"
+      },
+      "page": 18,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ALS-C4D-006",
+      "champ": "Catégorie 4 – Les composantes d’un texte",
+      "cycle": "2e et 3e cycles",
+      "chemin": [],
+      "rubrique": "Éléments essentiels",
+      "texte": "Identifier et décrire brièvement des personnes, des personnages, des animaux, des objets, des endroits, le temps et le lieu du récit",
+      "progression": {
+        "3": "apprentissage",
+        "4": "maitrise",
+        "5": "reinvestissement",
+        "6": "reinvestissement"
+      },
+      "page": 18,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ALS-C4D-007",
+      "champ": "Catégorie 4 – Les composantes d’un texte",
+      "cycle": "2e et 3e cycles",
+      "chemin": [],
+      "rubrique": "Éléments essentiels",
+      "texte": "Citer des faits",
+      "progression": {
+        "3": "apprentissage",
+        "4": "apprentissage",
+        "5": "apprentissage",
+        "6": "maitrise"
+      },
+      "page": 18,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ALS-C4D-008",
+      "champ": "Catégorie 4 – Les composantes d’un texte",
+      "cycle": "2e et 3e cycles",
+      "chemin": [],
+      "rubrique": "Éléments essentiels",
+      "texte": "Décrire brièvement une intrigue, une trame",
+      "progression": {
+        "3": "apprentissage",
+        "4": "apprentissage",
+        "5": "apprentissage",
+        "6": "maitrise"
+      },
+      "page": 18,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ALS-C4D-009",
+      "champ": "Catégorie 4 – Les composantes d’un texte",
+      "cycle": "2e et 3e cycles",
+      "chemin": [],
+      "rubrique": "Éléments essentiels",
+      "texte": "Établir la séquence des événements",
+      "progression": {
+        "3": "apprentissage",
+        "4": "apprentissage",
+        "5": "apprentissage",
+        "6": "maitrise"
+      },
+      "page": 18,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ALS-C5D-001",
+      "champ": "Catégorie 5 – Repères culturels et produits culturels",
+      "cycle": "2e et 3e cycles",
+      "chemin": [],
+      "rubrique": "Moyens d’exploration des PRODUITS CULTURELS",
+      "texte": "Textes, médias, jeux (ex. : films, magazines, sites Internet)",
+      "progression": {
+        "3": "apprentissage",
+        "4": "apprentissage",
+        "5": "apprentissage",
+        "6": "apprentissage"
+      },
+      "page": 19,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ALS-C5D-002",
+      "champ": "Catégorie 5 – Repères culturels et produits culturels",
+      "cycle": "2e et 3e cycles",
+      "chemin": [],
+      "rubrique": "Moyens d’exploration des PRODUITS CULTURELS",
+      "texte": "Personnages célèbres (ex. : athlètes, astronautes, artistes)",
+      "progression": {
+        "3": "apprentissage",
+        "4": "apprentissage",
+        "5": "apprentissage",
+        "6": "apprentissage"
+      },
+      "page": 20,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ALS-C5D-003",
+      "champ": "Catégorie 5 – Repères culturels et produits culturels",
+      "cycle": "2e et 3e cycles",
+      "chemin": [],
+      "rubrique": "Moyens d’exploration des PRODUITS CULTURELS",
+      "texte": "Origine des noms (ex. : noms de familles ou d’entreprises)",
+      "progression": {
+        "3": "apprentissage",
+        "4": "apprentissage",
+        "5": "apprentissage",
+        "6": "apprentissage"
+      },
+      "page": 20,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ALS-C5D-004",
+      "champ": "Catégorie 5 – Repères culturels et produits culturels",
+      "cycle": "2e et 3e cycles",
+      "chemin": [],
+      "rubrique": "Moyens d’exploration des PRODUITS CULTURELS",
+      "texte": "Marques d’appropriation du territoire (ex. : bâtiments, statues, rues)",
+      "progression": {
+        "3": "apprentissage",
+        "4": "apprentissage",
+        "5": "apprentissage",
+        "6": "apprentissage"
+      },
+      "page": 20,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ALS-C5D-005",
+      "champ": "Catégorie 5 – Repères culturels et produits culturels",
+      "cycle": "2e et 3e cycles",
+      "chemin": [],
+      "rubrique": "Moyens d’exploration des PRODUITS CULTURELS",
+      "texte": "Traditions liées à des fêtes ou des événements spéciaux (ex. : anniversaires, Noël, Jour de la Terre)",
+      "progression": {
+        "3": "apprentissage",
+        "4": "apprentissage",
+        "5": "apprentissage",
+        "6": "apprentissage"
+      },
+      "page": 20,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "ALS-C5D-006",
+      "champ": "Catégorie 5 – Repères culturels et produits culturels",
+      "cycle": "2e et 3e cycles",
+      "chemin": [],
+      "rubrique": "Moyens d’exploration des PRODUITS CULTURELS",
+      "texte": "Expressions idiomatiques (ex. : Break a leg. That rings a bell. Cat got her tongue.)",
+      "progression": {
+        "3": "apprentissage",
+        "4": "apprentissage",
+        "5": "apprentissage",
+        "6": "apprentissage"
+      },
+      "page": 20,
+      "a_verifier": false,
+      "note": ""
+    }
+  ]
+}

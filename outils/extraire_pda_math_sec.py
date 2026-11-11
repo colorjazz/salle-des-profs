@@ -105,7 +105,8 @@ def lignes_texte(page, x_col, haut, bas, x_max=None, exclus=()):
     x_max = x_max or x_col
     # les rangées de titre pleine largeur débordent dans les colonnes : on garde leur texte, sauf l'en-tête 6e à 5e
     chars = [c for c in page.chars if c['top'] > haut and c['bottom'] <= bas + 2 and c['size'] < 13
-             and (c['x1'] < x_col or (c['x1'] < x_max and not any(abs(c['top'] - h) < 3 for h in exclus)))]
+             and (c['x1'] < x_col or (c['x1'] < x_max and not any(abs(c['top'] - h) < 3 for h in exclus)))
+             and c['x0'] >= (TEXTE_X_MIN(page) if callable(TEXTE_X_MIN) else TEXTE_X_MIN)]
     if not any(c['text'].strip() for c in chars):
         return []
     tailles = collections.Counter(round(c['size'], 1) for c in page.chars if c['x1'] < x_col and c['text'].strip())
@@ -200,7 +201,14 @@ class Rendu:
 
     def __init__(self, page):
         self.img = page.to_image(resolution=72 * self.ECHELLE).original.convert('RGB')
-        self.lettres = [c for c in page.chars if c['text'].strip() and c['size'] < 13]
+        self.lettres = [c for c in page.chars if c['text'].strip() and c['size'] < 13 and c['size'] >= LETTRES_TAILLE_MIN]
+        if LETTRES_TAILLE_MIN:
+            # effacer les petits caractères (appels de note) pour qu'ils ne passent pas pour un symbole
+            from PIL import ImageDraw
+            dessin, e = ImageDraw.Draw(self.img), self.ECHELLE
+            for c in page.chars:
+                if c['text'].strip() and c['size'] < LETTRES_TAILLE_MIN:
+                    dessin.rectangle((c['x0'] * e - 1, c['top'] * e - 1, c['x1'] * e + 1, c['bottom'] * e + 1), fill=(255, 255, 255))
 
     def tache(self, x0, x1, t, b, seuil=200):
         """Boîte (en points) de la plus grande tache non blanche de la zone, ou None."""
@@ -233,7 +241,7 @@ class Rendu:
                 r, g, b_ = px[x, y]
                 if b_ > 195 and b_ - r > 25 and r < 215:
                     bleu += 1
-                elif (r + g + b_) / 3 < 140:
+                elif (r + g + b_) / 3 < SEUIL_FONCE:
                     fonce.append((x, y))
         # retirer les traits de bordure (rangées ou colonnes presque entièrement foncées)
         lignes_f = collections.Counter(y for x, y in fonce)
@@ -279,6 +287,12 @@ TRACE = []  # (page, x0, x1, haut, bas, valeur) pour la vérification visuelle
 
 DERNIERE_JUSQUAU_BORD = False
 COLONNE_GAUCHE = '1er-cycle'
+TEXTE_X_MIN = 0          # texte lu à droite de ce x (nombre, ou fonction de la page)
+HORIZ_FILTRE = None      # fonction (page, x0, x1) -> bool : traits horizontaux retenus pour découper les rangées
+HERITER_HAUT_DE_PAGE = False  # énoncé sans symbole en haut de page : progression de l'énoncé précédent
+SEUIL_FONCE = 140        # luminosité moyenne sous laquelle un pixel appartient à un symbole
+HORIZ_EXTRA = None       # fonction (page) -> ordonnées supplémentaires de séparation de rangées
+LETTRES_TAILLE_MIN = 0   # caractères plus petits ignorés dans les cellules (ex. appel de note « ¹ » près d'une flèche)
 ANCRES = ()
 DERNIERE_CHAINE = None
 A_DROITE = False     # plusieurs chaînes de colonnes : garder la plus à droite
@@ -336,8 +350,11 @@ def extraire(chemin):
                 sans_colonnes.append(num)
             continue
         x_col = cols[0][0] - 1
-        horiz = sorted({round(l['top'], 1) for l in page.lines if abs(l['top'] - l['bottom']) < 1 and l['x0'] < x_col and l['x1'] - l['x0'] > 60}
-                       | {round(r['top'], 1) for r in page.rects if r['height'] < 2.5 and r['width'] > 60 and r['x0'] < x_col})
+        horiz = sorted({round(l['top'], 1) for l in page.lines if abs(l['top'] - l['bottom']) < 1 and l['x0'] < x_col and l['x1'] - l['x0'] > 60
+                        and (HORIZ_FILTRE is None or HORIZ_FILTRE(page, l['x0'], l['x1']))}
+                       | {round(r['top'], 1) for r in page.rects if r['height'] < 2.5 and r['width'] > 60 and r['x0'] < x_col
+                          and (HORIZ_FILTRE is None or HORIZ_FILTRE(page, r['x0'], r['x1']))}
+                       | set(HORIZ_EXTRA(page) if HORIZ_EXTRA else ()))
         entete = [w for w in page.extract_words() if w['text'] in ('1re', '2e', '3e', '4e', '5e', '6e') and w['x0'] > x_col - 3]
         # en-tête de légende en haut de page seulement ; un en-tête au milieu (nouvelle partie) ne coupe rien
         legende = [w for w in page.extract_words() if w['text'] == 'L’élève' and w['x1'] < x_col]
@@ -433,6 +450,13 @@ def extraire(chemin):
                 texte = texte[:m.start()].strip()
             n = e['niveau'] or 6
             a_symbole = any((v if not isinstance(v, dict) else any(v.values())) for v in prog.values())
+            gras_e = sum(l['gras'] for l in principales) / max(1, sum(l['total'] for l in principales))
+            if not a_symbole and HERITER_HAUT_DE_PAGE and e is elements[0] and gras_e < 0.5 and savoirs and texte \
+                    and not any(w['text'] == 'L’élève' for w in page.extract_words()):
+                # suite d'une cellule commencée à la page précédente : même progression
+                savoirs.append({**{k: v for k, v in savoirs[-1].items() if k not in ('texte', 'note_pda')},
+                                'texte': texte, 'page': num, 'a_verifier': False, 'note': ''})
+                continue
             if not a_symbole:
                 pile = {k: v for k, v in pile.items() if k < n}
                 pile[n] = texte
