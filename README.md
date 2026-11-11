@@ -27,16 +27,17 @@ La tentative de Gemini (`gemini/resultats/inventaire-pfeq-gemini-OBSOLETE.csv`) 
 |---|---|
 | `pda-fra-primaire.json` | 1 188 savoirs, progression de la 1re à la 6e année, contenu prioritaire |
 | `pda-mat-primaire.json` | 244 savoirs par domaine (rubriques Vocabulaire et Symboles à part) |
+| `pda-mat-secondaire.json` | 426 savoirs, 6 champs ; colonne `primaire` (rappel des acquis de 6e année), puis 1re à 5e ; en 4e et 5e, valeur commune ou objet par séquence `CST`, `TS`, `SN` (154 savoirs) ; notes de la PDA dans `note_pda` ; formules en notation linéaire (`^` exposant, `_` indice) |
 | `cadre-fra-primaire.json` | Compétences, critères, pondérations par cycle |
 | `cadre-mat-primaire.json` | Compétences, critères, pondérations par cycle |
 | `programme-hqc-secondaire.json` | Histoire du Québec et du Canada, 3e et 4e secondaire : 8 périodes, concepts, texte officiel de la réalité sociale, 103 thèmes et 427 éléments de connaissances, critères et 7 opérations intellectuelles du cadre (`outils/extraire_hqc.py`) |
 
-### État des PDA (10 novembre 2026)
+### État des PDA (11 novembre 2026)
 
 | Ordre | Validées (contrôle de logique sans erreur ou cas conformes au document) | À adapter |
 |---|---|---|
 | Primaire | Français, mathématique, science et technologie, univers social, éducation physique, art dramatique, arts plastiques, danse, musique | Anglais, langue seconde (colonne de catégories en plus, pages à image) ; Culture et citoyenneté québécoise (progression par cycle, crochets) |
-| Secondaire | Art dramatique, arts plastiques, danse, éducation physique, musique, français langue seconde (base et enrichi), intégration linguistique | Français (pages à image), mathématique (colonnes par séquence), sciences (4 PDA), univers social (géographie, histoire, monde contemporain, etc.), chimie, physique, anglais, CCQ, espagnol |
+| Secondaire | Art dramatique, arts plastiques, danse, éducation physique, musique, français langue seconde (base et enrichi), intégration linguistique, mathématique | Français (pages à image), sciences (4 PDA), univers social (géographie, histoire, monde contemporain, etc.), chimie, physique, anglais, CCQ, espagnol |
 
 Progression : `apprentissage` (flèche), `maitrise` (étoile), `reinvestissement` (case bleue), `null` (vide).
 
@@ -53,6 +54,14 @@ Le script lit la structure du PDF : images des flèches et des étoiles, rectang
 ```bash
 python3 -I outils/integrer_verification.py PDA.pdf donnees/pda.json reponse_gemini.json donnees/pda.json
 ```
+
+**Mathématique au secondaire** : mise en page propre (colonnes qui se décalent d'une page à l'autre, cellules subdivisées par séquence, images des symboles décalées dans le PDF). Script à part, qui lit chaque cellule par pixels (l'étoile est symétrique gauche-droite, la flèche non) :
+
+```bash
+python3 -I outils/extraire_pda_math_sec.py PDA.pdf donnees/pda-mat-secondaire.json
+```
+
+Les 16 rangées à formule empilée, à racine dessinée ou à texte en image sont relues à la main (table `CORRECTIONS` du script). Le contrôle de logique laisse 17 écarts, tous conformes au document (ex. en probabilités, la séquence CST est vide en 4e et bleue en 5e).
 
 Une ligne de Gemini est acceptée seulement si ses cases bleues et ses flèches concordent avec le PDF et si sa séquence est logique.
 
