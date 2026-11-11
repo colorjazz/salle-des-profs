@@ -1,0 +1,1221 @@
+{
+  "discipline": "Monde contemporain (2 unités)",
+  "code_discipline": "MC2",
+  "ordre": "secondaire",
+  "annee": "5e",
+  "source": "PFEQ-precision-apprentissages-monde-contemporain-2-unites-secondaire.pdf",
+  "type": "Précision des apprentissages : liste d’énoncés, sans progression par année",
+  "themes": [
+    "Population",
+    "Richesse",
+    "Tensions et conflits"
+  ],
+  "bilan": {
+    "nombre_savoirs": 124,
+    "par_theme": {
+      "Population": 37,
+      "Richesse": 33,
+      "Tensions et conflits": 54
+    }
+  },
+  "savoirs": [
+    {
+      "id": "MC2-POP-001",
+      "theme": "Population",
+      "chemin": [
+        "1. Population mondiale",
+        "1.1. Répartition de la population"
+      ],
+      "texte": "a. Situer, sur une carte du monde, les grands foyers de population : Asie de l’Est et du Sud-Est, Asie du Sud, Europe, nord-est des États-Unis, Golfe de Guinée, sud-est du Brésil",
+      "page": 7
+    },
+    {
+      "id": "MC2-POP-002",
+      "theme": "Population",
+      "chemin": [
+        "1. Population mondiale",
+        "1.1. Répartition de la population"
+      ],
+      "texte": "b. Décrire la répartition de la population mondiale : elle est majoritairement urbaine; elle vit principalement dans les pays en développement; elle est concentrée en zone intertropicale",
+      "page": 7
+    },
+    {
+      "id": "MC2-POP-003",
+      "theme": "Population",
+      "chemin": [
+        "1. Population mondiale",
+        "1.2. Changements démographiques"
+      ],
+      "texte": "a. Donner les principales caractéristiques démographiques des pays en développement : taux de mortalité à la baisse, taux de fécondité à la baisse, espérance de vie en hausse, stabilisation de la croissance, migration internationale en hausse",
+      "page": 7
+    },
+    {
+      "id": "MC2-POP-004",
+      "theme": "Population",
+      "chemin": [
+        "1. Population mondiale",
+        "1.2. Changements démographiques"
+      ],
+      "texte": "b. Donner des caractéristiques démographiques des populations des pays développés (ex. : baisse du taux de natalité, vieillissement de la population, migration internationale en hausse)",
+      "page": 7
+    },
+    {
+      "id": "MC2-POP-005",
+      "theme": "Population",
+      "chemin": [
+        "1. Population mondiale",
+        "1.2. Changements démographiques"
+      ],
+      "texte": "c. Indiquer le principal facteur qui explique un taux d’accroissement naturel négatif : taux de fécondité sous le seuil de remplacement",
+      "page": 7
+    },
+    {
+      "id": "MC2-POP-006",
+      "theme": "Population",
+      "chemin": [
+        "1. Population mondiale",
+        "1.2. Changements démographiques"
+      ],
+      "texte": "d. Indiquer ce qui explique l’accroissement de la population : adoption de politiques natalistes, adoption de mesures facilitant l’immigration, amélioration des soins de santé",
+      "page": 7
+    },
+    {
+      "id": "MC2-POP-007",
+      "theme": "Population",
+      "chemin": [
+        "2. Mouvements migratoires",
+        "2.1. Migration"
+      ],
+      "texte": "a. Indiquer ce qui caractérise une migration : déplacement de population à l’intérieur d’un pays ou d’un pays vers un autre; établissement permanent",
+      "page": 7
+    },
+    {
+      "id": "MC2-POP-008",
+      "theme": "Population",
+      "chemin": [
+        "2. Mouvements migratoires",
+        "2.1. Migration"
+      ],
+      "texte": "b. Donner des caractéristiques des migrants (ex. : majoritairement jeunes, principalement originaires de pays en développement, population masculine en âge de travailler)",
+      "page": 7
+    },
+    {
+      "id": "MC2-POP-009",
+      "theme": "Population",
+      "chemin": [
+        "2. Mouvements migratoires",
+        "2.1. Migration"
+      ],
+      "texte": "c. Situer, sur une carte du monde, les principaux flux migratoires à l’échelle mondiale (ex. : de l’Amérique latine vers l’Amérique du Nord, de l’Afrique du Nord vers l’ouest de l’Europe)",
+      "page": 7
+    },
+    {
+      "id": "MC2-POP-010",
+      "theme": "Population",
+      "chemin": [
+        "2. Mouvements migratoires",
+        "2.1. Migration"
+      ],
+      "texte": "d. Indiquer ce qui explique l’intensification des migrations à l’échelle mondiale (ex. : développement des infrastructures de transport et des moyens de communication, mondialisation de l’économie, changements climatiques, contexte politique)",
+      "page": 7
+    },
+    {
+      "id": "MC2-POP-011",
+      "theme": "Population",
+      "chemin": [
+        "2. Mouvements migratoires",
+        "2.1. Migration"
+      ],
+      "texte": "e. Indiquer des raisons qui influencent le choix d’un pays d’accueil (ex. : proximité géographique, diaspora, liens coloniaux, caractéristiques culturelles, telles que la langue)",
+      "page": 7
+    },
+    {
+      "id": "MC2-POP-012",
+      "theme": "Population",
+      "chemin": [
+        "2. Mouvements migratoires",
+        "2.2. Motifs de migration"
+      ],
+      "texte": "a. Indiquer les principaux motifs de migration : amélioration de la situation économique, réunification des familles",
+      "page": 8
+    },
+    {
+      "id": "MC2-POP-013",
+      "theme": "Population",
+      "chemin": [
+        "2. Mouvements migratoires",
+        "2.2. Motifs de migration"
+      ],
+      "texte": "b. Indiquer ce qui permet d’obtenir le statut de réfugié : menace à la sécurité, persécution d’ordre ethnique ou religieux, catastrophe naturelle",
+      "page": 8
+    },
+    {
+      "id": "MC2-POP-014",
+      "theme": "Population",
+      "chemin": [
+        "2. Mouvements migratoires",
+        "2.2. Motifs de migration"
+      ],
+      "texte": "c. Indiquer des droits établis par la Convention de Genève pour les réfugiés (ex. : droit à l’asile, droit à l’éducation, droit au travail, droit à la liberté de circulation)",
+      "page": 8
+    },
+    {
+      "id": "MC2-POP-015",
+      "theme": "Population",
+      "chemin": [
+        "2. Mouvements migratoires",
+        "2.2. Motifs de migration"
+      ],
+      "texte": "d. Nommer des conflits à l’origine de mouvements migratoires (ex. : révolution cubaine, génocide au Rwanda, guérilla en Colombie, guerre du Kosovo, conflit armé au Darfour)",
+      "page": 8
+    },
+    {
+      "id": "MC2-POP-016",
+      "theme": "Population",
+      "chemin": [
+        "2. Mouvements migratoires",
+        "2.3. Réseaux internationaux d’immigration clandestine"
+      ],
+      "texte": "a. Indiquer ce qui explique la mise en place de réseaux internationaux (ex. : exigences des pays d’accueil, resserrement du contrôle des frontières, contexte socioéconomique des pays d’origine, proximité d’un pays développé)",
+      "page": 8
+    },
+    {
+      "id": "MC2-POP-017",
+      "theme": "Population",
+      "chemin": [
+        "2. Mouvements migratoires",
+        "2.3. Réseaux internationaux d’immigration clandestine"
+      ],
+      "texte": "b. Indiquer ce qui facilite l’immigration clandestine (ex. : présence de réseaux internationaux, perméabilité des frontières)",
+      "page": 8
+    },
+    {
+      "id": "MC2-POP-018",
+      "theme": "Population",
+      "chemin": [
+        "3. Politiques d’immigration"
+      ],
+      "texte": "a. Donner des critères de sélection des immigrants (ex. : formation, capacité d’investissement, connaissance de la langue officielle)",
+      "page": 8
+    },
+    {
+      "id": "MC2-POP-019",
+      "theme": "Population",
+      "chemin": [
+        "3. Politiques d’immigration"
+      ],
+      "texte": "b. Indiquer des mesures mises en œuvre pour recruter des travailleurs qualifiés (ex. : organisation de missions à l’étranger, accélération du processus d’immigration)",
+      "page": 8
+    },
+    {
+      "id": "MC2-POP-020",
+      "theme": "Population",
+      "chemin": [
+        "3. Politiques d’immigration"
+      ],
+      "texte": "c. Indiquer des mesures mises en œuvre pour intégrer les immigrants (ex. : cours de langue, aide à la recherche de logement, services d’intégration à l’emploi)",
+      "page": 8
+    },
+    {
+      "id": "MC2-POP-021",
+      "theme": "Population",
+      "chemin": [
+        "4. Migration et monde du travail",
+        "4.1. Main-d’œuvre immigrante"
+      ],
+      "texte": "a. Indiquer des raisons qui incitent des pays à favoriser la venue de travailleurs immigrants (ex. : manque de main-d’œuvre dans certains secteurs d’activité économique, tels que l’exploitation pétrolière ou les cultures fruitières et maraîchères, vieillissement de la population)",
+      "page": 8
+    },
+    {
+      "id": "MC2-POP-022",
+      "theme": "Population",
+      "chemin": [
+        "4. Migration et monde du travail",
+        "4.1. Main-d’œuvre immigrante"
+      ],
+      "texte": "b. Indiquer des difficultés auxquelles font face les immigrants lors de la recherche d’emploi (ex. : maîtrise de la langue, connaissance des critères d’emploi)",
+      "page": 8
+    },
+    {
+      "id": "MC2-POP-023",
+      "theme": "Population",
+      "chemin": [
+        "4. Migration et monde du travail",
+        "4.1. Main-d’œuvre immigrante"
+      ],
+      "texte": "c. Indiquer des avantages pour les immigrants d’occuper un emploi (ex. : apprentissage de la langue, intégration sociale)",
+      "page": 8
+    },
+    {
+      "id": "MC2-POP-024",
+      "theme": "Population",
+      "chemin": [
+        "4. Migration et monde du travail",
+        "4.2. Politiques d’emploi"
+      ],
+      "texte": "a. Indiquer ce qui restreint les possibilités d’emploi de travailleurs immigrants qualifiés dans les pays d’accueil (ex. : reconnaissance des diplômes et des compétences par les ordres professionnels, formation insuffisante pour les normes du pays d’accueil)",
+      "page": 8
+    },
+    {
+      "id": "MC2-POP-025",
+      "theme": "Population",
+      "chemin": [
+        "4. Migration et monde du travail",
+        "4.2. Politiques d’emploi"
+      ],
+      "texte": "b. Indiquer des mesures mises en œuvre pour pallier les difficultés liées à la reconnaissance des diplômes (ex. : adoption d'un système de reconnaissance des acquis et uniformisation des normes professionnelles à l’échelle internationale; établissement d’ententes intergouvernementales)",
+      "page": 8
+    },
+    {
+      "id": "MC2-POP-026",
+      "theme": "Population",
+      "chemin": [
+        "4. Migration et monde du travail",
+        "4.2. Politiques d’emploi"
+      ],
+      "texte": "c. Indiquer des ententes pour favoriser la mobilité de la main-d’œuvre (ex. : équivalence des diplômes émis par les pays de l’Union européenne, reconnaissance des qualifications professionnelles entre l’Espagne et le Québec)",
+      "page": 8
+    },
+    {
+      "id": "MC2-POP-027",
+      "theme": "Population",
+      "chemin": [
+        "4. Migration et monde du travail",
+        "4.2. Politiques d’emploi"
+      ],
+      "texte": "d. Indiquer des mesures mises en œuvre par certains États pour favoriser l’intégration d’immigrants (ex. : adoption de politiques de discrimination positive; assouplissement des règles de reconnaissance des qualifications professionnelles; octroi de subventions aux entreprises pour le recrutement de main-d’œuvre immigrante)",
+      "page": 8
+    },
+    {
+      "id": "MC2-POP-028",
+      "theme": "Population",
+      "chemin": [
+        "4. Migration et monde du travail",
+        "4.3. Économies parallèles"
+      ],
+      "texte": "a. Indiquer des raisons qui incitent des entrepreneurs à recourir à des travailleurs immigrants en situation irrégulière (ex. : non-réglementation des conditions salariales et de travail, réduction des charges sociales)",
+      "page": 8
+    },
+    {
+      "id": "MC2-POP-029",
+      "theme": "Population",
+      "chemin": [
+        "4. Migration et monde du travail",
+        "4.3. Économies parallèles"
+      ],
+      "texte": "b. Indiquer des conséquences économiques pour les sociétés où se trouvent des travailleurs immigrants en situation irrégulière (ex. : moins d’emplois disponibles sur le marché, perte de revenus pour l’État)",
+      "page": 8
+    },
+    {
+      "id": "MC2-POP-030",
+      "theme": "Population",
+      "chemin": [
+        "4. Migration et monde du travail",
+        "4.3. Économies parallèles"
+      ],
+      "texte": "c. Indiquer des secteurs d’activité économique où se trouvent des travailleurs immigrants en situation irrégulière (ex. : travail domestique, cultures maraîchères et fruitières)",
+      "page": 9
+    },
+    {
+      "id": "MC2-POP-031",
+      "theme": "Population",
+      "chemin": [
+        "4. Migration et monde du travail",
+        "4.3. Économies parallèles"
+      ],
+      "texte": "d. Donner des caractéristiques des conditions de travail des travailleurs immigrants en situation irrégulière (ex. : pas de sécurité d’emploi ni de protection sociale, non-respect des normes du travail par les employeurs)",
+      "page": 9
+    },
+    {
+      "id": "MC2-POP-032",
+      "theme": "Population",
+      "chemin": [
+        "5. Organisation des territoires urbains"
+      ],
+      "texte": "a. Indiquer la proportion de la population urbaine par rapport à la population mondiale : depuis 2008, plus de la moitié",
+      "page": 9
+    },
+    {
+      "id": "MC2-POP-033",
+      "theme": "Population",
+      "chemin": [
+        "5. Organisation des territoires urbains"
+      ],
+      "texte": "b. Indiquer l’importance des migrations pour les pays développés : premier facteur de croissance urbaine",
+      "page": 9
+    },
+    {
+      "id": "MC2-POP-034",
+      "theme": "Population",
+      "chemin": [
+        "5. Organisation des territoires urbains"
+      ],
+      "texte": "c. Indiquer le principal effet des migrations internes sur l’organisation des villes dans les pays en développement : formation de bidonvilles",
+      "page": 9
+    },
+    {
+      "id": "MC2-POP-035",
+      "theme": "Population",
+      "chemin": [
+        "5. Organisation des territoires urbains"
+      ],
+      "texte": "d. Indiquer des raisons qui expliquent le choix des villes comme destination des migrants (ex. : possibilités d’emploi, concentration de services de santé et d’éducation, structures d’accueil, présence d’une diaspora)",
+      "page": 9
+    },
+    {
+      "id": "MC2-POP-036",
+      "theme": "Population",
+      "chemin": [
+        "5. Organisation des territoires urbains"
+      ],
+      "texte": "e. Donner des caractéristiques de quartiers occupés majoritairement par des migrants (ex. : quartiers défavorisés sur le plan économique, concentration de minorités culturelles, formation de quartiers ethniques dans les pays développés, formation de bidonvilles dans les pays en développement)",
+      "page": 9
+    },
+    {
+      "id": "MC2-POP-037",
+      "theme": "Population",
+      "chemin": [
+        "5. Organisation des territoires urbains"
+      ],
+      "texte": "f. Donner des caractéristiques des bidonvilles : situation en périphérie des agglomérations, infrastructures sanitaires inadéquates, terrains majoritairement squattés",
+      "page": 9
+    },
+    {
+      "id": "MC2-RIC-001",
+      "theme": "Richesse",
+      "chemin": [
+        "1. Création et répartition de la richesse",
+        "1.1. Création de la richesse"
+      ],
+      "texte": "a. Indiquer des facteurs de création de la richesse (ex. : exploitation de ressources naturelles, productivité des entreprises, investissements publics, qualification de la main-d’œuvre)",
+      "page": 10
+    },
+    {
+      "id": "MC2-RIC-002",
+      "theme": "Richesse",
+      "chemin": [
+        "1. Création et répartition de la richesse",
+        "1.1. Création de la richesse"
+      ],
+      "texte": "b. Indiquer des moyens utilisés par les États pour favoriser la création de la richesse (ex. : investissement en éducation, établissement de programmes de recherche et développement, participation à des regroupements économiques)",
+      "page": 10
+    },
+    {
+      "id": "MC2-RIC-003",
+      "theme": "Richesse",
+      "chemin": [
+        "1. Création et répartition de la richesse",
+        "1.1. Création de la richesse"
+      ],
+      "texte": "c. Indiquer des mesures mises en œuvre par les États pour réglementer l’exploitation des ressources naturelles (ex. : adoption de politiques d’exploitation, de préservation et de restauration; application de sanctions)",
+      "page": 10
+    },
+    {
+      "id": "MC2-RIC-004",
+      "theme": "Richesse",
+      "chemin": [
+        "1. Création et répartition de la richesse",
+        "1.1. Création de la richesse"
+      ],
+      "texte": "d. Indiquer des facteurs qui limitent la création de la richesse (ex. : rareté des ressources naturelles, humaines et financières; faible développement d’infrastructures de transport et de communication; manque de formation de la main-d’œuvre; accessibilité réduite aux sources d’énergie)",
+      "page": 10
+    },
+    {
+      "id": "MC2-RIC-005",
+      "theme": "Richesse",
+      "chemin": [
+        "1. Création et répartition de la richesse",
+        "1.2. Disparité dans la répartition de la richesse"
+      ],
+      "texte": "a. Situer, sur une carte du monde, des pays qui disposent d’importantes ressources naturelles (ex. : eau potable, au Brésil et aux États-Unis; pétrole, en Arabie Saoudite et au Venezuela; minéraux, au Chili et en République démocratique du Congo; forêt, au Canada et en Russie)",
+      "page": 10
+    },
+    {
+      "id": "MC2-RIC-006",
+      "theme": "Richesse",
+      "chemin": [
+        "1. Création et répartition de la richesse",
+        "1.2. Disparité dans la répartition de la richesse"
+      ],
+      "texte": "b. Donner des indicateurs qui permettent de mesurer la disparité (ex. : indice de Gini [écart de richesse à l’intérieur d’un pays]; PIB [valeur totale des biens et des services produits pendant une année])",
+      "page": 10
+    },
+    {
+      "id": "MC2-RIC-007",
+      "theme": "Richesse",
+      "chemin": [
+        "1. Création et répartition de la richesse",
+        "1.2. Disparité dans la répartition de la richesse"
+      ],
+      "texte": "c. Situer, sur une carte du monde, des pays dont le PIB par habitant est élevé et d’autres dont le PIB par habitant est faible (ex. : en 2012, PIB élevé en Australie et au Japon; PIB faible au Bangladesh et au Honduras)",
+      "page": 10
+    },
+    {
+      "id": "MC2-RIC-008",
+      "theme": "Richesse",
+      "chemin": [
+        "1. Création et répartition de la richesse",
+        "1.2. Disparité dans la répartition de la richesse"
+      ],
+      "texte": "d. Indiquer des moyens utilisés par les États pour réduire la disparité dans la répartition de la richesse (ex. : adoption de politiques fiscales, réglementation des conditions de travail)",
+      "page": 10
+    },
+    {
+      "id": "MC2-RIC-009",
+      "theme": "Richesse",
+      "chemin": [
+        "1. Création et répartition de la richesse",
+        "1.2. Disparité dans la répartition de la richesse"
+      ],
+      "texte": "e. Indiquer les composantes de l’indice de développement humain (IDH) : niveau de vie, éducation, santé",
+      "page": 10
+    },
+    {
+      "id": "MC2-RIC-010",
+      "theme": "Richesse",
+      "chemin": [
+        "1. Création et répartition de la richesse",
+        "1.2. Disparité dans la répartition de la richesse"
+      ],
+      "texte": "f. Situer, sur une carte du monde, des pays dont l’IDH est élevé et d’autres dont l’IDH est faible (ex. : en 2012, IDH élevé en Allemagne et au Canada; IDH faible à Haïti et à Madagascar)",
+      "page": 10
+    },
+    {
+      "id": "MC2-RIC-011",
+      "theme": "Richesse",
+      "chemin": [
+        "2. Organisations internationales"
+      ],
+      "texte": "a. Indiquer des objectifs poursuivis par différents regroupements économiques (ex. : l’Union européenne a pour objectif de renforcer la coopération économique entre les pays membres; l’Association des nations du Sud-Est asiatique (ANSEA) a pour objectif d’accélérer la croissance économique et d’améliorer les conditions de vie des populations)",
+      "page": 10
+    },
+    {
+      "id": "MC2-RIC-012",
+      "theme": "Richesse",
+      "chemin": [
+        "2. Organisations internationales"
+      ],
+      "texte": "b. Indiquer des objectifs poursuivis par différentes organisations internationales (ex. : le G8 vise à favoriser la concertation sur des questions économiques; l’Organisation mondiale du commerce facilite les échanges commerciaux; le Fonds monétaire international contribue à stabiliser le système monétaire; la Banque mondiale accorde des prêts aux pays en développement; la FAO vise à rendre accessible une nourriture saine et en quantité suffisante)",
+      "page": 11
+    },
+    {
+      "id": "MC2-RIC-013",
+      "theme": "Richesse",
+      "chemin": [
+        "2. Organisations internationales"
+      ],
+      "texte": "c. Indiquer des objectifs poursuivis par différentes organisations non gouvernementales (ex. : le Mouvement international Quart monde vise à éradiquer la misère; Oxfam international lutte contre les injustices sociales et la pauvreté; le Forum social mondial cherche à coordonner l’action des organisations altermondialistes; Médecins sans frontières offre une assistance médicale en situation de conflits et de crises humanitaires)",
+      "page": 11
+    },
+    {
+      "id": "MC2-RIC-014",
+      "theme": "Richesse",
+      "chemin": [
+        "3. Colonisation, décolonisation et néocolonisation"
+      ],
+      "texte": "a. Indiquer des objectifs poursuivis par les États colonisateurs (ex. : se procurer des ressources naturelles, accéder à de nouveaux marchés)",
+      "page": 11
+    },
+    {
+      "id": "MC2-RIC-015",
+      "theme": "Richesse",
+      "chemin": [
+        "3. Colonisation, décolonisation et néocolonisation"
+      ],
+      "texte": "b. Indiquer des causes de l’indépendance des colonies africaines et asiatiques (ex. : affirmation identitaire, accès de l’élite à l’éducation, volonté de contrôler les ressources)",
+      "page": 11
+    },
+    {
+      "id": "MC2-RIC-016",
+      "theme": "Richesse",
+      "chemin": [
+        "3. Colonisation, décolonisation et néocolonisation"
+      ],
+      "texte": "c. Indiquer des conséquences de la décolonisation pour les nouveaux pays (ex. : conflits ethniques, guerres, remise en question de certaines frontières)",
+      "page": 11
+    },
+    {
+      "id": "MC2-RIC-017",
+      "theme": "Richesse",
+      "chemin": [
+        "3. Colonisation, décolonisation et néocolonisation"
+      ],
+      "texte": "d. Définir le terme néocolonisation : domination économique d’un État sur d’anciennes colonies",
+      "page": 11
+    },
+    {
+      "id": "MC2-RIC-018",
+      "theme": "Richesse",
+      "chemin": [
+        "4. Relations Nord-Sud"
+      ],
+      "texte": "a. Donner des caractéristiques des pays développés, tels que l’Allemagne, l’Australie et la Norvège (ex. : facilité d’accès à des biens et des services, niveau de vie élevé pour la majorité de la population, concentration de capitaux, industries de pointe)",
+      "page": 11
+    },
+    {
+      "id": "MC2-RIC-019",
+      "theme": "Richesse",
+      "chemin": [
+        "4. Relations Nord-Sud"
+      ],
+      "texte": "b. Donner des caractéristiques des économies des pays du Sud (ex. : extraction de richesses naturelles, cultures d’exportation, exploitation de ressources par des intérêts étrangers, faible niveau de transformation des matières premières sur place)",
+      "page": 11
+    },
+    {
+      "id": "MC2-RIC-020",
+      "theme": "Richesse",
+      "chemin": [
+        "4. Relations Nord-Sud"
+      ],
+      "texte": "c. Donner des caractéristiques des pays en développement, tels que la Colombie, l’Égypte et l’Indonésie (ex. : accès difficile aux biens et aux services de base pour une majorité de la population, faible PIB par habitant, forte proportion de la population active dans le secteur agricole)",
+      "page": 11
+    },
+    {
+      "id": "MC2-RIC-021",
+      "theme": "Richesse",
+      "chemin": [
+        "4. Relations Nord-Sud"
+      ],
+      "texte": "d. Donner des caractéristiques des économies émergentes, telles que celles du Brésil, de la Chine et de l’Inde (ex. : croissance économique très rapide fondée sur l’industrialisation, présence de fortes inégalités sociales, mise en valeur inégale du territoire, importance des exportations)",
+      "page": 11
+    },
+    {
+      "id": "MC2-RIC-022",
+      "theme": "Richesse",
+      "chemin": [
+        "4. Relations Nord-Sud"
+      ],
+      "texte": "e. Indiquer des objectifs du commerce équitable (ex. : établir un partenariat commercial entre distributeurs de pays développés et producteurs de pays en développement; respecter les droits sociaux et économiques des travailleurs; payer un prix juste pour les productions; contribuer au développement durable)",
+      "page": 11
+    },
+    {
+      "id": "MC2-RIC-023",
+      "theme": "Richesse",
+      "chemin": [
+        "5. Mondialisation de l’économie",
+        "5.1. Influence de la mondialisation"
+      ],
+      "texte": "a. Donner des caractéristiques de la mondialisation de l’économie (ex. : libéralisation des échanges, fluidité des mouvements financiers)",
+      "page": 11
+    },
+    {
+      "id": "MC2-RIC-024",
+      "theme": "Richesse",
+      "chemin": [
+        "5. Mondialisation de l’économie",
+        "5.1. Influence de la mondialisation"
+      ],
+      "texte": "b. Indiquer des avantages de la mondialisation pour les entreprises (ex. : croissance des marchés, baisse des coûts de production, augmentation des profits)",
+      "page": 11
+    },
+    {
+      "id": "MC2-RIC-025",
+      "theme": "Richesse",
+      "chemin": [
+        "5. Mondialisation de l’économie",
+        "5.1. Influence de la mondialisation"
+      ],
+      "texte": "c. Indiquer des effets de la mondialisation sur l’économie des pays développés (ex. : développement de nouveaux marchés, perte d’emploi dans le secteur manufacturier)",
+      "page": 11
+    },
+    {
+      "id": "MC2-RIC-026",
+      "theme": "Richesse",
+      "chemin": [
+        "5. Mondialisation de l’économie",
+        "5.1. Influence de la mondialisation"
+      ],
+      "texte": "d. Indiquer des effets de la mondialisation sur l’économie des pays en développement (ex. : développement d’économies émergentes, migration de travailleurs)",
+      "page": 11
+    },
+    {
+      "id": "MC2-RIC-027",
+      "theme": "Richesse",
+      "chemin": [
+        "5. Mondialisation de l’économie",
+        "5.2. Pouvoir des entreprises multinationales"
+      ],
+      "texte": "a. Indiquer ce qui incite les États à accueillir des entreprises multinationales (ex. : création d’emplois, source de revenus)",
+      "page": 11
+    },
+    {
+      "id": "MC2-RIC-028",
+      "theme": "Richesse",
+      "chemin": [
+        "5. Mondialisation de l’économie",
+        "5.2. Pouvoir des entreprises multinationales"
+      ],
+      "texte": "b. Indiquer des mesures mises en œuvre par les États pour attirer des entreprises multinationales (ex. : avantages fiscaux, subventions de recherche et développement, octroi de tarifs préférentiels, développement d’infrastructures)",
+      "page": 11
+    },
+    {
+      "id": "MC2-RIC-029",
+      "theme": "Richesse",
+      "chemin": [
+        "5. Mondialisation de l’économie",
+        "5.2. Pouvoir des entreprises multinationales"
+      ],
+      "texte": "c. Indiquer ce qui incite des entreprises multinationales à délocaliser leurs activités (ex. : réduction des coûts de production, accessibilité à de nouveaux marchés)",
+      "page": 12
+    },
+    {
+      "id": "MC2-RIC-030",
+      "theme": "Richesse",
+      "chemin": [
+        "6. Endettement des États"
+      ],
+      "texte": "a. Situer, sur une carte du monde, des pays dont l’endettement est élevé et des pays dont l’endettement est faible (ex. : en 2012, endettement élevé au Brésil et aux États-Unis; endettement faible en Chine et en Turquie)",
+      "page": 12
+    },
+    {
+      "id": "MC2-RIC-031",
+      "theme": "Richesse",
+      "chemin": [
+        "6. Endettement des États"
+      ],
+      "texte": "b. Nommer les créanciers des États : citoyens, institutions financières, Fonds monétaire international, Banque mondiale, autres États",
+      "page": 12
+    },
+    {
+      "id": "MC2-RIC-032",
+      "theme": "Richesse",
+      "chemin": [
+        "6. Endettement des États"
+      ],
+      "texte": "c. Indiquer ce qui explique l’endettement des États (ex. : construction d’infrastructures, services publics, soutien au développement d’entreprises, dépenses militaires)",
+      "page": 12
+    },
+    {
+      "id": "MC2-RIC-033",
+      "theme": "Richesse",
+      "chemin": [
+        "6. Endettement des États"
+      ],
+      "texte": "d. Indiquer des effets possibles de l’endettement des États sur l’économie et la société (ex. : remise en question de programmes sociaux, privatisation, accroissement des écarts entre groupes sociaux, augmentation de la dépendance économique, crise politique et sociale)",
+      "page": 12
+    },
+    {
+      "id": "MC2-TEN-001",
+      "theme": "Tensions et conflits",
+      "chemin": [
+        "1. Interventions extérieures en zones de tensions et conflits"
+      ],
+      "texte": "a. Donner des caractéristiques des zones de tensions (ex. : intérêts divergents d’acteurs sur les plans économique, politique et social; absence d’affrontement armé)",
+      "page": 13
+    },
+    {
+      "id": "MC2-TEN-002",
+      "theme": "Tensions et conflits",
+      "chemin": [
+        "1. Interventions extérieures en zones de tensions et conflits"
+      ],
+      "texte": "b. Situer, sur une carte du monde, des zones de tensions (ex. : en 2012, Afrique de l’Est, Moyen-Orient, Cachemire indien, mer de Chine méridionale)",
+      "page": 13
+    },
+    {
+      "id": "MC2-TEN-003",
+      "theme": "Tensions et conflits",
+      "chemin": [
+        "1. Interventions extérieures en zones de tensions et conflits"
+      ],
+      "texte": "c. Situer, sur une carte du monde, des pays où se déroulent des conflits armés (ex. : en 2012, Afghanistan, Libye, Syrie)",
+      "page": 13
+    },
+    {
+      "id": "MC2-TEN-004",
+      "theme": "Tensions et conflits",
+      "chemin": [
+        "1. Interventions extérieures en zones de tensions et conflits"
+      ],
+      "texte": "d. Décrire la principale caractéristique d’un État souverain : son gouvernement n’est soumis à aucune autorité supérieure à la sienne",
+      "page": 13
+    },
+    {
+      "id": "MC2-TEN-005",
+      "theme": "Tensions et conflits",
+      "chemin": [
+        "1. Interventions extérieures en zones de tensions et conflits"
+      ],
+      "texte": "e. Indiquer la principale conséquence de la reconnaissance de la souveraineté d’un État par un autre : non-ingérence dans les affaires intérieures",
+      "page": 13
+    },
+    {
+      "id": "MC2-TEN-006",
+      "theme": "Tensions et conflits",
+      "chemin": [
+        "1. Interventions extérieures en zones de tensions et conflits"
+      ],
+      "texte": "f. Nommer des acteurs dans des zones de tensions et de conflits (ex. : États, ONU, OTAN, organisations non gouvernementales)",
+      "page": 13
+    },
+    {
+      "id": "MC2-TEN-007",
+      "theme": "Tensions et conflits",
+      "chemin": [
+        "1. Interventions extérieures en zones de tensions et conflits"
+      ],
+      "texte": "g. Indiquer des raisons invoquées pour intervenir en territoire souverain (ex. : menace à la paix mondiale; crise humanitaire à la suite d’une catastrophe naturelle ou d’un conflit armé; absence de protection de la population lors de crimes contre l’humanité, de génocide ou de guerre)",
+      "page": 13
+    },
+    {
+      "id": "MC2-TEN-008",
+      "theme": "Tensions et conflits",
+      "chemin": [
+        "2. Sources de tensions et de conflits",
+        "2.1. Contrôle des ressources"
+      ],
+      "texte": "a. Nommer des ressources naturelles dont le contrôle peut être une source de tensions et de conflits (ex. : eau potable, pétrole et gaz, minéraux)",
+      "page": 13
+    },
+    {
+      "id": "MC2-TEN-009",
+      "theme": "Tensions et conflits",
+      "chemin": [
+        "2. Sources de tensions et de conflits",
+        "2.1. Contrôle des ressources"
+      ],
+      "texte": "b. Situer, sur une carte du monde, des zones où le contrôle des ressources naturelles génère des tensions et des conflits (ex. : en 2012, Moyen-Orient, Afrique centrale)",
+      "page": 13
+    },
+    {
+      "id": "MC2-TEN-010",
+      "theme": "Tensions et conflits",
+      "chemin": [
+        "2. Sources de tensions et de conflits",
+        "2.1. Contrôle des ressources"
+      ],
+      "texte": "c. Indiquer les moyens utilisés par l’État pour contrôler les ressources naturelles d’un territoire : nationalisation, octroi de concessions",
+      "page": 13
+    },
+    {
+      "id": "MC2-TEN-011",
+      "theme": "Tensions et conflits",
+      "chemin": [
+        "2. Sources de tensions et de conflits",
+        "2.2. Exercice des droits et libertés"
+      ],
+      "texte": "a. Nommer le document de l’Organisation des Nations Unies qui énonce les droits et les libertés de la personne : Déclaration universelle des droits de l’homme",
+      "page": 13
+    },
+    {
+      "id": "MC2-TEN-012",
+      "theme": "Tensions et conflits",
+      "chemin": [
+        "2. Sources de tensions et de conflits",
+        "2.2. Exercice des droits et libertés"
+      ],
+      "texte": "b. Situer, sur une carte du monde, des zones où des revendications liées aux droits et libertés de la personne génèrent des tensions et des conflits (ex. : en 2012, pays de l’Afrique du Nord, Chine, Cuba)",
+      "page": 13
+    },
+    {
+      "id": "MC2-TEN-013",
+      "theme": "Tensions et conflits",
+      "chemin": [
+        "2. Sources de tensions et de conflits",
+        "2.2. Exercice des droits et libertés"
+      ],
+      "texte": "c. Nommer des droits et des libertés dont les populations sont privées dans certaines situations de tensions et de conflits (ex. : droit à la justice, liberté de pensée et d’expression)",
+      "page": 14
+    },
+    {
+      "id": "MC2-TEN-014",
+      "theme": "Tensions et conflits",
+      "chemin": [
+        "2. Sources de tensions et de conflits",
+        "2.3. Revendications identitaires et autonomie politique"
+      ],
+      "texte": "a. Indiquer des motifs de revendications identitaires (ex. : langue, religion, territoire)",
+      "page": 14
+    },
+    {
+      "id": "MC2-TEN-015",
+      "theme": "Tensions et conflits",
+      "chemin": [
+        "2. Sources de tensions et de conflits",
+        "2.3. Revendications identitaires et autonomie politique"
+      ],
+      "texte": "b. Décrire la principale caractéristique des populations qui revendiquent une plus grande autonomie politique : elles constituent des groupes ethniques minoritaires à l’intérieur d’un territoire souverain",
+      "page": 14
+    },
+    {
+      "id": "MC2-TEN-016",
+      "theme": "Tensions et conflits",
+      "chemin": [
+        "2. Sources de tensions et de conflits",
+        "2.3. Revendications identitaires et autonomie politique"
+      ],
+      "texte": "c. Situer, sur une carte du monde, des zones où des revendications identitaires et des revendications d’autonomie politique génèrent des tensions et des conflits (ex. : en 2012, Caucase, Tibet, Irlande du Nord)",
+      "page": 14
+    },
+    {
+      "id": "MC2-TEN-017",
+      "theme": "Tensions et conflits",
+      "chemin": [
+        "2. Sources de tensions et de conflits",
+        "2.3. Revendications identitaires et autonomie politique"
+      ],
+      "texte": "d. Indiquer le principe de la Charte des Nations Unies invoqué en appui aux revendications d’autonomie politique : droit des peuples à disposer d’eux-mêmes",
+      "page": 14
+    },
+    {
+      "id": "MC2-TEN-018",
+      "theme": "Tensions et conflits",
+      "chemin": [
+        "3. Organisation des Nations Unies (ONU)",
+        "3.1. Charte des Nations Unies"
+      ],
+      "texte": "a. Indiquer l’objectif de la Charte des Nations Unies : établir les droits et les obligations des États membres",
+      "page": 14
+    },
+    {
+      "id": "MC2-TEN-019",
+      "theme": "Tensions et conflits",
+      "chemin": [
+        "3. Organisation des Nations Unies (ONU)",
+        "3.1. Charte des Nations Unies"
+      ],
+      "texte": "b. Indiquer la limite à la capacité d’action de l’ONU dans les affaires internes d’un État membre : souveraineté des États",
+      "page": 14
+    },
+    {
+      "id": "MC2-TEN-020",
+      "theme": "Tensions et conflits",
+      "chemin": [
+        "3. Organisation des Nations Unies (ONU)",
+        "3.1. Charte des Nations Unies"
+      ],
+      "texte": "c. Indiquer les principaux buts de l’ONU : maintenir la paix et la sécurité internationales; favoriser la coopération internationale; lutter contre la pauvreté; assurer le respect des droits de l’homme",
+      "page": 14
+    },
+    {
+      "id": "MC2-TEN-021",
+      "theme": "Tensions et conflits",
+      "chemin": [
+        "3. Organisation des Nations Unies (ONU)",
+        "3.2. Assemblée générale de l’ONU"
+      ],
+      "texte": "a. Décrire l’institution qu’est l’Assemblée générale de l’ONU : l’Assemblée générale réunit des représentants de tous les États membres; il s’agit d’un forum de discussion sur des sujets concernés par la Charte des Nations Unies",
+      "page": 14
+    },
+    {
+      "id": "MC2-TEN-022",
+      "theme": "Tensions et conflits",
+      "chemin": [
+        "3. Organisation des Nations Unies (ONU)",
+        "3.2. Assemblée générale de l’ONU"
+      ],
+      "texte": "b. Décrire la principale fonction de l’Assemblée générale : l’Assemblée générale vote des résolutions sur des questions internationales",
+      "page": 14
+    },
+    {
+      "id": "MC2-TEN-023",
+      "theme": "Tensions et conflits",
+      "chemin": [
+        "3. Organisation des Nations Unies (ONU)",
+        "3.3. Conseil de sécurité de l’ONU"
+      ],
+      "texte": "a. Décrire l’institution qu’est le Conseil de sécurité : le Conseil de sécurité est composé de quinze membres dont cinq sont permanents; il s’agit de l’organe décisionnel pour les questions concernant le maintien de la paix et de la sécurité internationales",
+      "page": 14
+    },
+    {
+      "id": "MC2-TEN-024",
+      "theme": "Tensions et conflits",
+      "chemin": [
+        "3. Organisation des Nations Unies (ONU)",
+        "3.3. Conseil de sécurité de l’ONU"
+      ],
+      "texte": "b. Indiquer les conditions pour l’adoption d’une résolution : l’appui de neuf États membres, aucune opposition des membres permanents",
+      "page": 14
+    },
+    {
+      "id": "MC2-TEN-025",
+      "theme": "Tensions et conflits",
+      "chemin": [
+        "3. Organisation des Nations Unies (ONU)",
+        "3.3. Conseil de sécurité de l’ONU"
+      ],
+      "texte": "c. Nommer les membres permanents qui ont un droit de veto : Chine, États-Unis, France, Royaume-Uni, Russie",
+      "page": 14
+    },
+    {
+      "id": "MC2-TEN-026",
+      "theme": "Tensions et conflits",
+      "chemin": [
+        "3. Organisation des Nations Unies (ONU)",
+        "3.3. Conseil de sécurité de l’ONU"
+      ],
+      "texte": "d. Indiquer les principaux moyens d’intervention dont dispose le Conseil de sécurité dans les zones de tensions et de conflits : missions de paix, sanctions internationales, actions militaires collectives",
+      "page": 14
+    },
+    {
+      "id": "MC2-TEN-027",
+      "theme": "Tensions et conflits",
+      "chemin": [
+        "3. Organisation des Nations Unies (ONU)",
+        "3.4. Tribunaux pénaux internationaux (TPI)"
+      ],
+      "texte": "a. Décrire le rôle des tribunaux pénaux internationaux : juger des criminels responsables de violations graves du droit international humanitaire lors de la guerre en ex-Yougoslavie et lors de la guerre civile au Rwanda",
+      "page": 14
+    },
+    {
+      "id": "MC2-TEN-028",
+      "theme": "Tensions et conflits",
+      "chemin": [
+        "3. Organisation des Nations Unies (ONU)",
+        "3.4. Tribunaux pénaux internationaux (TPI)"
+      ],
+      "texte": "b. Donner des accusations portées par les TPI : crime contre l’humanité, violation des lois ou coutumes de la guerre, génocide",
+      "page": 14
+    },
+    {
+      "id": "MC2-TEN-029",
+      "theme": "Tensions et conflits",
+      "chemin": [
+        "3. Organisation des Nations Unies (ONU)",
+        "3.5. Haut-commissariat des Nations Unies pour les réfugiés"
+      ],
+      "texte": "a. Décrire la fonction du Haut-commissariat des Nations Unies pour les réfugiés : coordonner l’action internationale visant à répondre aux besoins des réfugiés",
+      "page": 14
+    },
+    {
+      "id": "MC2-TEN-030",
+      "theme": "Tensions et conflits",
+      "chemin": [
+        "3. Organisation des Nations Unies (ONU)",
+        "3.5. Haut-commissariat des Nations Unies pour les réfugiés"
+      ],
+      "texte": "b. Décrire le principal effet de conflits armés sur les populations : ils provoquent le déplacement de populations civiles vers d’autres régions ou d’autres pays, limitrophes ou non",
+      "page": 14
+    },
+    {
+      "id": "MC2-TEN-031",
+      "theme": "Tensions et conflits",
+      "chemin": [
+        "4. Organisations non gouvernementales (ONG)"
+      ],
+      "texte": "a. Indiquer des objectifs poursuivis par les ONG qui interviennent en zones de tensions et de conflits (ex. : Reporters sans frontières défend la liberté de la presse; Oxfam international cherche des solutions durables à la pauvreté et à l’injustice; Human Rights Watch protège et défend les droits humains)",
+      "page": 15
+    },
+    {
+      "id": "MC2-TEN-032",
+      "theme": "Tensions et conflits",
+      "chemin": [
+        "4. Organisations non gouvernementales (ONG)"
+      ],
+      "texte": "b. Indiquer les principes qui guident des ONG lors de leur intervention dans des zones de tensions et de conflits : neutralité, impartialité",
+      "page": 15
+    },
+    {
+      "id": "MC2-TEN-033",
+      "theme": "Tensions et conflits",
+      "chemin": [
+        "4. Organisations non gouvernementales (ONG)"
+      ],
+      "texte": "c. Indiquer des moyens utilisés par les ONG pour soutenir les populations dans des zones de tensions et de conflits (ex. : présence de travailleurs humanitaires, acheminement de matériel, campagnes de sensibilisation et de sollicitation)",
+      "page": 15
+    },
+    {
+      "id": "MC2-TEN-034",
+      "theme": "Tensions et conflits",
+      "chemin": [
+        "4. Organisations non gouvernementales (ONG)"
+      ],
+      "texte": "d. Nommer l’ONG à l’origine du droit humanitaire international codifié dans les premières conventions de Genève : Comité international de la Croix-Rouge",
+      "page": 15
+    },
+    {
+      "id": "MC2-TEN-035",
+      "theme": "Tensions et conflits",
+      "chemin": [
+        "5. Missions et processus de paix"
+      ],
+      "texte": "a. Indiquer les principaux objectifs des missions de paix instituées par le Conseil de sécurité de l’ONU : protéger la population civile, aider au désarmement, soutenir l’organisation d’élections libres, promouvoir les droits de l’homme",
+      "page": 15
+    },
+    {
+      "id": "MC2-TEN-036",
+      "theme": "Tensions et conflits",
+      "chemin": [
+        "5. Missions et processus de paix"
+      ],
+      "texte": "b. Indiquer les principales conditions d’intervention des Casques bleus de l’ONU : non-utilisation de la force, neutralité, impartialité",
+      "page": 15
+    },
+    {
+      "id": "MC2-TEN-037",
+      "theme": "Tensions et conflits",
+      "chemin": [
+        "5. Missions et processus de paix"
+      ],
+      "texte": "c. Indiquer ce qui restreint l’efficacité de missions de paix de l’ONU (ex. : désaccord entre des membres, capacité financière limitée de l’ONU)",
+      "page": 15
+    },
+    {
+      "id": "MC2-TEN-038",
+      "theme": "Tensions et conflits",
+      "chemin": [
+        "5. Missions et processus de paix"
+      ],
+      "texte": "d. Donner les principaux critères de sélection des pays qui participent aux missions de paix : consentement des belligérants, neutralité vis-à-vis des belligérants",
+      "page": 15
+    },
+    {
+      "id": "MC2-TEN-039",
+      "theme": "Tensions et conflits",
+      "chemin": [
+        "5. Missions et processus de paix"
+      ],
+      "texte": "e. Indiquer des mesures mises en œuvre pour réduire les menaces à la paix et à la sécurité internationales (ex. : embargo commercial, rupture de liens diplomatiques, usage de la force militaire)",
+      "page": 15
+    },
+    {
+      "id": "MC2-TEN-040",
+      "theme": "Tensions et conflits",
+      "chemin": [
+        "5. Missions et processus de paix"
+      ],
+      "texte": "f. Indiquer les principales étapes d’un processus de paix : intervention diplomatique, arrêt des combats, conférence de paix, signature d’un traité",
+      "page": 15
+    },
+    {
+      "id": "MC2-TEN-041",
+      "theme": "Tensions et conflits",
+      "chemin": [
+        "6. Alliances internationales",
+        "6.1. Organisation du traité de l’Atlantique Nord (OTAN)"
+      ],
+      "texte": "a. Situer, sur une carte du monde, des pays membres de l’OTAN (ex. : Canada, États-Unis, France, Lituanie, Pologne, Turquie)",
+      "page": 15
+    },
+    {
+      "id": "MC2-TEN-042",
+      "theme": "Tensions et conflits",
+      "chemin": [
+        "6. Alliances internationales",
+        "6.1. Organisation du traité de l’Atlantique Nord (OTAN)"
+      ],
+      "texte": "b. Indiquer l’engagement pris par les pays membres de l’OTAN : défense mutuelle dans l’éventualité où l’un d’eux est attaqué",
+      "page": 15
+    },
+    {
+      "id": "MC2-TEN-043",
+      "theme": "Tensions et conflits",
+      "chemin": [
+        "6. Alliances internationales",
+        "6.1. Organisation du traité de l’Atlantique Nord (OTAN)"
+      ],
+      "texte": "c. Donner la principale caractéristique des interventions de l’OTAN depuis la fin de la Guerre froide : intervention dans des pays qui ne sont pas membres de l’organisation",
+      "page": 15
+    },
+    {
+      "id": "MC2-TEN-044",
+      "theme": "Tensions et conflits",
+      "chemin": [
+        "6. Alliances internationales",
+        "6.1. Organisation du traité de l’Atlantique Nord (OTAN)"
+      ],
+      "texte": "d. Situer, sur une carte du monde, des missions de l’OTAN en zones de tensions et de conflits (ex. : en 2012, Force internationale d’assistance à la sécurité en Afghanistan, opération Active Endeavour pour la détection et la dissuasion des activités terroristes en Méditerranée)",
+      "page": 15
+    },
+    {
+      "id": "MC2-TEN-045",
+      "theme": "Tensions et conflits",
+      "chemin": [
+        "6. Alliances internationales",
+        "6.1. Organisation du traité de l’Atlantique Nord (OTAN)"
+      ],
+      "texte": "e. Indiquer les principaux objectifs de l’intervention de l’OTAN en territoire souverain : aider un gouvernement à étendre son autorité; créer un environnement favorable à la mise en place d’institutions démocratiques",
+      "page": 15
+    },
+    {
+      "id": "MC2-TEN-046",
+      "theme": "Tensions et conflits",
+      "chemin": [
+        "6. Alliances internationales",
+        "6.2. Autres organisations internationales"
+      ],
+      "texte": "a. Nommer des organisations qui interviennent dans des zones de tensions et de conflits (ex. : Ligue arabe, Organisation pour la sécurité et la coopération en Europe, Union européenne, Union africaine)",
+      "page": 15
+    },
+    {
+      "id": "MC2-TEN-047",
+      "theme": "Tensions et conflits",
+      "chemin": [
+        "6. Alliances internationales",
+        "6.2. Autres organisations internationales"
+      ],
+      "texte": "b. Situer, sur une carte du monde, des pays de la Ligue arabe (ex. : Arabie Saoudite, Égypte, Maroc)",
+      "page": 15
+    },
+    {
+      "id": "MC2-TEN-048",
+      "theme": "Tensions et conflits",
+      "chemin": [
+        "6. Alliances internationales",
+        "6.2. Autres organisations internationales"
+      ],
+      "texte": "c. Indiquer les principaux moyens utilisés par la Ligue arabe pour réduire les tensions et résoudre les conflits : négociation, médiation",
+      "page": 15
+    },
+    {
+      "id": "MC2-TEN-049",
+      "theme": "Tensions et conflits",
+      "chemin": [
+        "6. Alliances internationales",
+        "6.2. Autres organisations internationales"
+      ],
+      "texte": "d. Situer, sur une carte de l’Afrique, des pays de l’Union africaine (ex. : Afrique du Sud, Kenya, Sénégal)",
+      "page": 15
+    },
+    {
+      "id": "MC2-TEN-050",
+      "theme": "Tensions et conflits",
+      "chemin": [
+        "6. Alliances internationales",
+        "6.2. Autres organisations internationales"
+      ],
+      "texte": "e. Indiquer les principaux moyens utilisés par l’Union africaine pour réduire les tensions et résoudre les conflits en Afrique : médiation, envoi de militaires pour des missions d’observation",
+      "page": 15
+    },
+    {
+      "id": "MC2-TEN-051",
+      "theme": "Tensions et conflits",
+      "chemin": [
+        "6. Alliances internationales",
+        "6.3. Conventions, traités et accords"
+      ],
+      "texte": "a. Indiquer des effets des accords internationaux dans des zones de tensions et de conflits (ex. : fin du conflit entre la Serbie et la Bosnie-Herzégovine à la suite des accords de Dayton; reconnaissance de l’Autorité palestinienne par l’État d’Israël à la suite des accords d’Oslo)",
+      "page": 16
+    },
+    {
+      "id": "MC2-TEN-052",
+      "theme": "Tensions et conflits",
+      "chemin": [
+        "6. Alliances internationales",
+        "6.3. Conventions, traités et accords"
+      ],
+      "texte": "b. Nommer des conventions et des traités qui réglementent l’utilisation de la force lors de conflits armés (ex. : conventions de Genève, Traité sur la non-prolifération des armes nucléaires, Convention sur l’interdiction des mines antipersonnel)",
+      "page": 16
+    },
+    {
+      "id": "MC2-TEN-053",
+      "theme": "Tensions et conflits",
+      "chemin": [
+        "6. Alliances internationales",
+        "6.3. Conventions, traités et accords"
+      ],
+      "texte": "c. Indiquer les principaux objectifs des conventions de Genève : protéger les malades, les blessés, les prisonniers et la population civile lors de conflits; définir les droits et les obligations des parties à un conflit dans la conduite des hostilités",
+      "page": 16
+    },
+    {
+      "id": "MC2-TEN-054",
+      "theme": "Tensions et conflits",
+      "chemin": [
+        "6. Alliances internationales",
+        "6.3. Conventions, traités et accords"
+      ],
+      "texte": "d. Décrire l’engagement pris par les pays signataires du Traité sur la non-prolifération des armes nucléaires : les pays qui ne possèdent pas l’arme nucléaire renoncent à la produire et à l’acquérir; les pays qui possèdent l’arme nucléaire renoncent à transférer à d’autres États des armes et des technologies nucléaires à des fins militaires",
+      "page": 16
+    }
+  ]
+}

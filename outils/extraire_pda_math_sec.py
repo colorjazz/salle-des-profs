@@ -20,6 +20,7 @@ DEBUG = set()
 MARQUEURS = [
     (1, re.compile(r'^[A-H]\.(\s|$)')),
     (4, re.compile(r'^(i|ii|iii|iv|v|vi|vii|viii|ix|x|xi|xii|xiii|xiv|xv)\.(\s|$)')),
+    (2.5, re.compile(r'^\d{1,2}\.\d{1,2}\.(\s|$)')),   # sous-section (ex. « 2.1. »)
     (2, re.compile(r'^\d{1,2}\.(\s|$)')),
     (3, re.compile(r'^[a-z]\.(\s|$)')),
     (5, re.compile(r'^[–—-]\s')),
@@ -319,8 +320,11 @@ def extraire(chemin):
         lignes = (page.extract_text() or '').split('\n')
         for i, l in enumerate(lignes):
             if l.startswith('L’élève apprend') and i > 0:
+                lignes = [x for x in lignes[:i] if x.strip() != 'Année'] + lignes[i:]   # en-tête de colonne glissé dans le titre
+                i = lignes.index(l)
                 prec = lignes[i - 1].strip()
-                if i > 1 and prec[:1].islower() and not lignes[i - 2].rstrip().endswith('.'):
+                prec = re.sub(r'\s+Année$', '', prec)
+                if i > 1 and (prec[:1].islower() or (prec.isupper() and re.sub(r'\s+Année$', '', lignes[i - 2].strip()).isupper())) and not lignes[i - 2].rstrip().endswith('.'):
                     prec = lignes[i - 2].strip() + ' ' + prec   # titre de tableau sur deux lignes
                 if len(prec) < 120 and not prec.endswith('.'):
                     section = re.sub(r'(?<=[a-zé])\d$', '', prec)   # appel de note collé au titre
@@ -447,7 +451,7 @@ def extraire(chemin):
                 'champ': titre or champ, 'section': section,
                 'chemin': [pile[k] for k in sorted(pile) if k < n],
                 'texte': texte, 'prioritaire': gras > 0.5,
-                'progression': prog, 'page': num,
+                'progression': prog, 'page': num, '_bande': e['bande'], '_x_col': x_col,
                 'a_verifier': bool(raisons), 'note': ' '.join(raisons),
                 **({'note_pda': note_pda} if note_pda else {}),
                 **({'rubrique': rubrique} if RUBRIQUES and e['niveau'] is None and rubrique else {}),

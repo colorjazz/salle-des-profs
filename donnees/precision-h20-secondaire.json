@@ -1,0 +1,1188 @@
+{
+  "discipline": "Histoire du 20e siècle",
+  "code_discipline": "H20",
+  "ordre": "secondaire",
+  "annee": "5e",
+  "source": "PFEQ-precision-apprentissages-histoire-20e-siecle-secondaire.pdf",
+  "type": "Précision des apprentissages : liste d’énoncés, sans progression par année",
+  "themes": [
+    "L'hégémonie européenne",
+    "Crises et conflits",
+    "Un monde divisé",
+    "Le monde au tournant du siècle"
+  ],
+  "bilan": {
+    "nombre_savoirs": 123,
+    "par_theme": {
+      "L'hégémonie européenne": 30,
+      "Crises et conflits": 36,
+      "Un monde divisé": 43,
+      "Le monde au tournant du siècle": 14
+    }
+  },
+  "savoirs": [
+    {
+      "id": "H20-HEG-001",
+      "theme": "L'hégémonie européenne",
+      "chemin": [
+        "1. Alliances et rivalités entre les États",
+        "1.1. Alliances et rivalités au tournant du siècle"
+      ],
+      "texte": "a. Nommer le régime politique de certains pays européens à la veille de la Grande Guerre (ex. : république en France, monarchie constitutionnelle au Royaume-Uni, monarchie autoritaire en Autriche-Hongrie)",
+      "page": 5
+    },
+    {
+      "id": "H20-HEG-002",
+      "theme": "L'hégémonie européenne",
+      "chemin": [
+        "1. Alliances et rivalités entre les États",
+        "1.1. Alliances et rivalités au tournant du siècle"
+      ],
+      "texte": "b. Décrire les principales revendications politiques de certains pays européens à la veille de la Grande Guerre : la Russie revendique la libre circulation sur les détroits qui donnent accès à la Méditerranée; l’Allemagne revendique un nouveau partage colonial de l’Afrique; la France revendique les territoires de l’Alsace et de la Lorraine",
+      "page": 5
+    },
+    {
+      "id": "H20-HEG-003",
+      "theme": "L'hégémonie européenne",
+      "chemin": [
+        "1. Alliances et rivalités entre les États",
+        "1.1. Alliances et rivalités au tournant du siècle"
+      ],
+      "texte": "c. Indiquer les principales conséquences des tensions politiques et des rivalités économiques en Europe à la veille de la Grande Guerre : montée des nationalismes, intensification de la militarisation",
+      "page": 5
+    },
+    {
+      "id": "H20-HEG-004",
+      "theme": "L'hégémonie européenne",
+      "chemin": [
+        "1. Alliances et rivalités entre les États",
+        "1.1. Alliances et rivalités au tournant du siècle"
+      ],
+      "texte": "d. Indiquer des enjeux politiques qui opposent l’empire austro-hongrois et la Serbie (ex. : tracé de frontières, souveraineté des peuples slaves)",
+      "page": 5
+    },
+    {
+      "id": "H20-HEG-005",
+      "theme": "L'hégémonie européenne",
+      "chemin": [
+        "1. Alliances et rivalités entre les États",
+        "1.1. Alliances et rivalités au tournant du siècle"
+      ],
+      "texte": "e. Indiquer la principale conséquence du déclin de l’empire ottoman au début du 20e siècle : montée des nationalismes",
+      "page": 5
+    },
+    {
+      "id": "H20-HEG-006",
+      "theme": "L'hégémonie européenne",
+      "chemin": [
+        "1. Alliances et rivalités entre les États",
+        "1.1. Alliances et rivalités au tournant du siècle"
+      ],
+      "texte": "f. Situer, sur une carte de l’Europe, les pays signataires de la Triple Entente et de la Triple Alliance : France, Royaume-Uni et Russie, pour la Triple Entente; Allemagne, Autriche-Hongrie et Italie, pour la Triple Alliance",
+      "page": 5
+    },
+    {
+      "id": "H20-HEG-007",
+      "theme": "L'hégémonie européenne",
+      "chemin": [
+        "1. Alliances et rivalités entre les États",
+        "1.1. Alliances et rivalités au tournant du siècle"
+      ],
+      "texte": "g. Indiquer le principal engagement contracté par les pays signataires de la Triple Entente ou de la Triple Alliance : défense conjointe en cas d’agression",
+      "page": 5
+    },
+    {
+      "id": "H20-HEG-008",
+      "theme": "L'hégémonie européenne",
+      "chemin": [
+        "1. Alliances et rivalités entre les États",
+        "1.1. Alliances et rivalités au tournant du siècle"
+      ],
+      "texte": "h. Indiquer la principale raison qui explique l’entrée en guerre de l’Italie aux côtés des pays formant la Triple Entente : promesse de recevoir des territoires de la côte dalmate",
+      "page": 5
+    },
+    {
+      "id": "H20-HEG-009",
+      "theme": "L'hégémonie européenne",
+      "chemin": [
+        "1. Alliances et rivalités entre les États",
+        "1.2. La Grande Guerre"
+      ],
+      "texte": "a. Indiquer l’événement déclencheur de la Grande Guerre : assassinat du prince héritier d’Autriche-Hongrie par un jeune nationaliste serbe",
+      "page": 5
+    },
+    {
+      "id": "H20-HEG-010",
+      "theme": "L'hégémonie européenne",
+      "chemin": [
+        "1. Alliances et rivalités entre les États",
+        "1.2. La Grande Guerre"
+      ],
+      "texte": "b. Situer, sur une ligne du temps, des faits qui marquent des tournants dans la Grande Guerre (ex. : bataille de Verdun, entrée en guerre des États-Unis, révolution russe)",
+      "page": 5
+    },
+    {
+      "id": "H20-HEG-011",
+      "theme": "L'hégémonie européenne",
+      "chemin": [
+        "1. Alliances et rivalités entre les États",
+        "1.2. La Grande Guerre"
+      ],
+      "texte": "c. Indiquer ce qui explique la durée de la Grande Guerre (ex. : capacité militaire équivalente, capacité industrielle de production d’armement équivalente, efficacité des tranchées vis-à-vis des moyens offensifs utilisés)",
+      "page": 5
+    },
+    {
+      "id": "H20-HEG-012",
+      "theme": "L'hégémonie européenne",
+      "chemin": [
+        "1. Alliances et rivalités entre les États",
+        "1.2. La Grande Guerre"
+      ],
+      "texte": "d. Indiquer ce qui explique le nombre de soldats tués durant la Grande Guerre (ex. : manque de protection face aux tirs de l’artillerie lourde, utilisation de fusils mitrailleurs lors d’assauts hors des tranchées)",
+      "page": 5
+    },
+    {
+      "id": "H20-HEG-013",
+      "theme": "L'hégémonie européenne",
+      "chemin": [
+        "1. Alliances et rivalités entre les États",
+        "1.2. La Grande Guerre"
+      ],
+      "texte": "e. Indiquer les principales raisons qui expliquent le retrait de la Russie de la Triple Entente : révolution d’Octobre, négociation d’une paix séparée avec l’Allemagne",
+      "page": 5
+    },
+    {
+      "id": "H20-HEG-014",
+      "theme": "L'hégémonie européenne",
+      "chemin": [
+        "1. Alliances et rivalités entre les États",
+        "1.2. La Grande Guerre"
+      ],
+      "texte": "f. Indiquer le principal effet du blocus maritime par les Britanniques : difficulté d’approvisionnement de l’Allemagne",
+      "page": 5
+    },
+    {
+      "id": "H20-HEG-015",
+      "theme": "L'hégémonie européenne",
+      "chemin": [
+        "1. Alliances et rivalités entre les États",
+        "1.2. La Grande Guerre"
+      ],
+      "texte": "g. Indiquer la principale conséquence de l’entrée en guerre des États-Unis : victoire des forces de la Triple Entente",
+      "page": 5
+    },
+    {
+      "id": "H20-HEG-016",
+      "theme": "L'hégémonie européenne",
+      "chemin": [
+        "1. Alliances et rivalités entre les États",
+        "1.2. La Grande Guerre"
+      ],
+      "texte": "h. Nommer des principes énoncés par le président Wilson en 1918 dans sa déclaration des Quatorze Points (ex. : fin la diplomatie secrète, respect des nationalités, création de la Société des Nations)",
+      "page": 5
+    },
+    {
+      "id": "H20-HEG-017",
+      "theme": "L'hégémonie européenne",
+      "chemin": [
+        "1. Alliances et rivalités entre les États",
+        "1.2. La Grande Guerre"
+      ],
+      "texte": "i. Indiquer des conséquences politiques de la Grande Guerre (ex. : dislocation de l’empire austro-hongrois, reconfiguration de frontières, accroissement du rôle des États-Unis en politique internationale)",
+      "page": 6
+    },
+    {
+      "id": "H20-HEG-018",
+      "theme": "L'hégémonie européenne",
+      "chemin": [
+        "1. Alliances et rivalités entre les États",
+        "1.2. La Grande Guerre"
+      ],
+      "texte": "j. Indiquer la contribution des colonies françaises et britanniques lors de la Grande Guerre : participation aux combats",
+      "page": 6
+    },
+    {
+      "id": "H20-HEG-019",
+      "theme": "L'hégémonie européenne",
+      "chemin": [
+        "2. Mouvement de pensée"
+      ],
+      "texte": "a. Indiquer des manifestations du nationalisme au début du 20e siècle (ex. : unification des Slaves du sud de l’Europe par les Serbes, mobilisation de soldats dans plusieurs pays au début de la Grande Guerre)",
+      "page": 6
+    },
+    {
+      "id": "H20-HEG-020",
+      "theme": "L'hégémonie européenne",
+      "chemin": [
+        "2. Mouvement de pensée"
+      ],
+      "texte": "b. Indiquer des manifestations du libéralisme au début du 20e siècle (ex. : libre circulation sur les mers, intensification de l’activité financière)",
+      "page": 6
+    },
+    {
+      "id": "H20-HEG-021",
+      "theme": "L'hégémonie européenne",
+      "chemin": [
+        "2. Mouvement de pensée"
+      ],
+      "texte": "c. Indiquer des manifestations du socialisme au début du 20e siècle (ex. : émergence de courants révolutionnaires, prise du pouvoir par les Bolcheviks à la suite d’un coup d’État en Russie)",
+      "page": 6
+    },
+    {
+      "id": "H20-HEG-022",
+      "theme": "L'hégémonie européenne",
+      "chemin": [
+        "2. Mouvement de pensée"
+      ],
+      "texte": "d. Indiquer des causes économiques et politiques qui expliquent le colonialisme en Afrique et en Asie par des pays européens dans la seconde moitié du 19e siècle (ex. : accessibilité à des ressources, recherche de puissance)",
+      "page": 6
+    },
+    {
+      "id": "H20-HEG-023",
+      "theme": "L'hégémonie européenne",
+      "chemin": [
+        "2. Mouvement de pensée"
+      ],
+      "texte": "e. Indiquer la raison invoquée par les pays colonisateurs pour justifier la colonisation : mission civilisatrice vis-à-vis de populations jugées inférieures",
+      "page": 6
+    },
+    {
+      "id": "H20-HEG-024",
+      "theme": "L'hégémonie européenne",
+      "chemin": [
+        "3. Organisation des empires coloniaux"
+      ],
+      "texte": "a. Situer, sur une carte du monde, les empires coloniaux au début du 20e siècle",
+      "page": 6
+    },
+    {
+      "id": "H20-HEG-025",
+      "theme": "L'hégémonie européenne",
+      "chemin": [
+        "3. Organisation des empires coloniaux"
+      ],
+      "texte": "b. Indiquer les principales causes qui expliquent la puissance du Royaume-Uni au début du 20e siècle : contrôle des grandes routes maritimes, approvisionnement en ressources provenant des colonies, importante production industrielle",
+      "page": 6
+    },
+    {
+      "id": "H20-HEG-026",
+      "theme": "L'hégémonie européenne",
+      "chemin": [
+        "3. Organisation des empires coloniaux"
+      ],
+      "texte": "c. Indiquer l’objectif de la Conférence de Berlin : établir les règles devant présider à la colonisation de l'Afrique",
+      "page": 6
+    },
+    {
+      "id": "H20-HEG-027",
+      "theme": "L'hégémonie européenne",
+      "chemin": [
+        "3. Organisation des empires coloniaux"
+      ],
+      "texte": "d. Indiquer la principale conséquence de la colonisation sur les relations politiques entre pays européens : tensions relatives au partage colonial",
+      "page": 6
+    },
+    {
+      "id": "H20-HEG-028",
+      "theme": "L'hégémonie européenne",
+      "chemin": [
+        "4. Organisation économique"
+      ],
+      "texte": "a. Donner des caractéristiques de l’industrialisation de pays européens au début du 20e siècle (ex. : utilisation de nouvelles sources d’énergie, concentration des entreprises)",
+      "page": 6
+    },
+    {
+      "id": "H20-HEG-029",
+      "theme": "L'hégémonie européenne",
+      "chemin": [
+        "4. Organisation économique"
+      ],
+      "texte": "b. Indiquer des secteurs d’activité industriels en croissance dans certains pays européens (ex. : sidérurgie, ingénierie, chimie)",
+      "page": 6
+    },
+    {
+      "id": "H20-HEG-030",
+      "theme": "L'hégémonie européenne",
+      "chemin": [
+        "4. Organisation économique"
+      ],
+      "texte": "c. Indiquer des changements survenus au sein de grandes entreprises industrielles au début du 20e siècle (ex. : présence accrue de syndicats, application des principes du taylorisme, présence des femmes sur le marché du travail)",
+      "page": 6
+    },
+    {
+      "id": "H20-CRI-001",
+      "theme": "Crises et conflits",
+      "chemin": [
+        "1. La crise économique"
+      ],
+      "texte": "a. Indiquer les principales causes qui expliquent la crise économique des années 1930 : spéculation boursière, surproduction",
+      "page": 7
+    },
+    {
+      "id": "H20-CRI-002",
+      "theme": "Crises et conflits",
+      "chemin": [
+        "1. La crise économique"
+      ],
+      "texte": "b. Indiquer les principales causes qui expliquent que la crise, d’abord américaine, s’étende à l’Europe : rapatriement de capitaux américains prêtés à l’Europe à la suite de la guerre, chute du prix des matières premières",
+      "page": 7
+    },
+    {
+      "id": "H20-CRI-003",
+      "theme": "Crises et conflits",
+      "chemin": [
+        "1. La crise économique"
+      ],
+      "texte": "c. Indiquer les principales conséquences de la crise économique à l’échelle mondiale : diminution des échanges, baisse de la production, hausse du chômage et de la pauvreté",
+      "page": 7
+    },
+    {
+      "id": "H20-CRI-004",
+      "theme": "Crises et conflits",
+      "chemin": [
+        "1. La crise économique"
+      ],
+      "texte": "d. Indiquer la principale solution proposée par Keynes pour sortir les pays de la crise économique : augmentation des dépenses publiques pour stimuler la consommation",
+      "page": 7
+    },
+    {
+      "id": "H20-CRI-005",
+      "theme": "Crises et conflits",
+      "chemin": [
+        "1. La crise économique"
+      ],
+      "texte": "e. Nommer la politique inspirée des théories économiques de Keynes mise en place par Roosevelt : New Deal",
+      "page": 7
+    },
+    {
+      "id": "H20-CRI-006",
+      "theme": "Crises et conflits",
+      "chemin": [
+        "1. La crise économique"
+      ],
+      "texte": "f. Indiquer les principales mesures mises en œuvre par certains pays pour résorber les effets de la crise économique : adoption de politiques protectionnistes, instauration de programmes de travaux publics, création de programme d’assistance sociale",
+      "page": 7
+    },
+    {
+      "id": "H20-CRI-007",
+      "theme": "Crises et conflits",
+      "chemin": [
+        "2. Mouvement de pensée"
+      ],
+      "texte": "a. Donner les principales caractéristiques de l’idéologie libérale : primauté des libertés individuelles, application des principes démocratiques, propriété privée des moyens de production",
+      "page": 7
+    },
+    {
+      "id": "H20-CRI-008",
+      "theme": "Crises et conflits",
+      "chemin": [
+        "2. Mouvement de pensée"
+      ],
+      "texte": "b. Donner les principales caractéristiques communes aux idéologies fasciste et nazie : primauté accordée à l’État, rejet du libéralisme, culte du chef, utilisation de la propagande, exaltation du sentiment national et de la violence",
+      "page": 7
+    },
+    {
+      "id": "H20-CRI-009",
+      "theme": "Crises et conflits",
+      "chemin": [
+        "2. Mouvement de pensée"
+      ],
+      "texte": "c. Donner les principales caractéristiques de l’idéologie nazie : valorisation du racisme et de l’antisémitisme, appui au pangermanisme, soutien à l’eugénisme",
+      "page": 7
+    },
+    {
+      "id": "H20-CRI-010",
+      "theme": "Crises et conflits",
+      "chemin": [
+        "2. Mouvement de pensée"
+      ],
+      "texte": "d. Donner les principales caractéristiques de l’idéologie communiste : primauté accordée à l’intérêt collectif, dictature du prolétariat, propriété collective des moyens de production",
+      "page": 7
+    },
+    {
+      "id": "H20-CRI-011",
+      "theme": "Crises et conflits",
+      "chemin": [
+        "2. Mouvement de pensée"
+      ],
+      "texte": "e. Indiquer le principal objectif poursuivi par la Société des Nations : assurer le maintien de la paix",
+      "page": 7
+    },
+    {
+      "id": "H20-CRI-012",
+      "theme": "Crises et conflits",
+      "chemin": [
+        "3. Régimes politiques"
+      ],
+      "texte": "a. Donner des caractéristiques des régimes totalitaires en Europe (ex. : embrigadement des masses par la propagande, contrôle du parti et de l’État par un dictateur)",
+      "page": 7
+    },
+    {
+      "id": "H20-CRI-013",
+      "theme": "Crises et conflits",
+      "chemin": [
+        "3. Régimes politiques"
+      ],
+      "texte": "b. Indiquer des causes qui expliquent la prise du pouvoir par Mussolini et l’instauration d’une dictature fasciste en Italie (ex. : montée du communisme, activisme des Faisceaux italiens de combat, contexte économique d’après-guerre)",
+      "page": 7
+    },
+    {
+      "id": "H20-CRI-014",
+      "theme": "Crises et conflits",
+      "chemin": [
+        "3. Régimes politiques"
+      ],
+      "texte": "c. Indiquer des causes qui expliquent la prise du pouvoir par Hitler et l’instauration d’une dictature nazie en Allemagne (ex. : crise économique, instabilité politique du régime de Weimar, activisme des Sections d’assaut, soutien du monde industriel, interdiction des partis de gauche)",
+      "page": 7
+    },
+    {
+      "id": "H20-CRI-015",
+      "theme": "Crises et conflits",
+      "chemin": [
+        "3. Régimes politiques"
+      ],
+      "texte": "d. Indiquer des mesures mises en œuvre par le parti communiste de l’Union des républiques socialistes soviétiques (URSS) sous Staline (ex. : développement de l’industrie lourde, collectivisation des campagnes, répression de l’opposition)",
+      "page": 7
+    },
+    {
+      "id": "H20-CRI-016",
+      "theme": "Crises et conflits",
+      "chemin": [
+        "4. Revendications politiques, économiques et territoriales"
+      ],
+      "texte": "a. Situer, sur une carte de l’Europe, des territoires revendiqués par l’Allemagne (ex. : l’Autriche, la région habitée par les Sudètes en Tchécoslovaquie, le corridor de Dantzig)",
+      "page": 7
+    },
+    {
+      "id": "H20-CRI-017",
+      "theme": "Crises et conflits",
+      "chemin": [
+        "4. Revendications politiques, économiques et territoriales"
+      ],
+      "texte": "b. Donner des raisons invoquées par l’Allemagne pour justifier ses revendications territoriales (ex. : réunification des populations germanophones au sein d’un même État, rattachement de la Prusse)",
+      "page": 8
+    },
+    {
+      "id": "H20-CRI-018",
+      "theme": "Crises et conflits",
+      "chemin": [
+        "4. Revendications politiques, économiques et territoriales"
+      ],
+      "texte": "c. Nommer des pays envahis par l’armée italienne sous le régime fasciste de Mussolini (ex. : Albanie, Éthiopie)",
+      "page": 8
+    },
+    {
+      "id": "H20-CRI-019",
+      "theme": "Crises et conflits",
+      "chemin": [
+        "4. Revendications politiques, économiques et territoriales"
+      ],
+      "texte": "d. Indiquer des conséquences politiques des visées expansionnistes du Japon impérial en Asie (ex. : occupation de la Corée, invasion de la Mandchourie, guerre avec la Chine)",
+      "page": 8
+    },
+    {
+      "id": "H20-CRI-020",
+      "theme": "Crises et conflits",
+      "chemin": [
+        "4. Revendications politiques, économiques et territoriales"
+      ],
+      "texte": "e. Indiquer la réaction du Royaume-Uni et de la France vis-à-vis les revendications territoriales allemandes lors de la Conférence de Munich : acceptation des revendications territoriales en échange d’une promesse de paix",
+      "page": 8
+    },
+    {
+      "id": "H20-CRI-021",
+      "theme": "Crises et conflits",
+      "chemin": [
+        "5. Traités et alliances"
+      ],
+      "texte": "a. Donner des dispositions du traité de Versailles contestées par l’Allemagne (ex. : remboursement des réparations de guerre, perte de territoires, réduction des effectifs militaires et de l’armement)",
+      "page": 8
+    },
+    {
+      "id": "H20-CRI-022",
+      "theme": "Crises et conflits",
+      "chemin": [
+        "5. Traités et alliances"
+      ],
+      "texte": "b. Donner les principales dispositions du Pacte germano-soviétique : entente de non-agression entre les pays signataires, protocole secret pour le partage de la Pologne et des pays baltes",
+      "page": 8
+    },
+    {
+      "id": "H20-CRI-023",
+      "theme": "Crises et conflits",
+      "chemin": [
+        "5. Traités et alliances"
+      ],
+      "texte": "c. Indiquer des conséquences politiques de la signature du Pacte germano-soviétique (ex. : invasion de la Pologne, entrée en guerre de l’Allemagne sur un seul front)",
+      "page": 8
+    },
+    {
+      "id": "H20-CRI-024",
+      "theme": "Crises et conflits",
+      "chemin": [
+        "5. Traités et alliances"
+      ],
+      "texte": "d. Nommer les pays qui constituent les forces de l’Axe : Allemagne, Italie, Japon",
+      "page": 8
+    },
+    {
+      "id": "H20-CRI-025",
+      "theme": "Crises et conflits",
+      "chemin": [
+        "5. Traités et alliances"
+      ],
+      "texte": "e. Indiquer l’objectif de la loi du prêt-bail votée par le Congrès américain en mars 1941 : fournir du matériel militaire aux forces alliées",
+      "page": 8
+    },
+    {
+      "id": "H20-CRI-026",
+      "theme": "Crises et conflits",
+      "chemin": [
+        "5. Traités et alliances"
+      ],
+      "texte": "f. Indiquer le principal objectif de la Charte de l’Atlantique : établir les principes de l’organisation du monde dans le cas de la défaite nazie",
+      "page": 8
+    },
+    {
+      "id": "H20-CRI-027",
+      "theme": "Crises et conflits",
+      "chemin": [
+        "5. Traités et alliances"
+      ],
+      "texte": "g. Indiquer la cause qui explique la rupture du Pacte germano-soviétique : invasion de l’URSS par l’Allemagne",
+      "page": 8
+    },
+    {
+      "id": "H20-CRI-028",
+      "theme": "Crises et conflits",
+      "chemin": [
+        "6. La Seconde Guerre mondiale"
+      ],
+      "texte": "a. Indiquer l’événement déclencheur des déclarations de guerre contre l’Allemagne en 1939 : invasion de la Pologne",
+      "page": 8
+    },
+    {
+      "id": "H20-CRI-029",
+      "theme": "Crises et conflits",
+      "chemin": [
+        "6. La Seconde Guerre mondiale"
+      ],
+      "texte": "b. Indiquer le principal objectif du Japon lors de l’attaque de Pearl Harbor : freiner la capacité d’intervention militaire des États-Unis dans le Pacifique",
+      "page": 8
+    },
+    {
+      "id": "H20-CRI-030",
+      "theme": "Crises et conflits",
+      "chemin": [
+        "6. La Seconde Guerre mondiale"
+      ],
+      "texte": "c. Situer, sur une ligne du temps, des faits qui ont contribué à la victoire des Alliés (ex. : bataille de Stalingrad, bataille de l’Atlantique, débarquement de Normandie, largage de bombes atomiques sur Hiroshima et Nagasaki)",
+      "page": 8
+    },
+    {
+      "id": "H20-CRI-031",
+      "theme": "Crises et conflits",
+      "chemin": [
+        "6. La Seconde Guerre mondiale"
+      ],
+      "texte": "d. Indiquer le principal effet de la participation de l’URSS à la Seconde Guerre mondiale : division des forces allemandes sur deux fronts",
+      "page": 8
+    },
+    {
+      "id": "H20-CRI-032",
+      "theme": "Crises et conflits",
+      "chemin": [
+        "6. La Seconde Guerre mondiale"
+      ],
+      "texte": "e. Indiquer des faits survenus lors de l’occupation d’une grande partie de l’Europe par l’Allemagne (ex. : collaboration ou résistance d’une partie de la population, génocide de juifs, pillage de ressources et d’œuvres d’art)",
+      "page": 8
+    },
+    {
+      "id": "H20-CRI-033",
+      "theme": "Crises et conflits",
+      "chemin": [
+        "6. La Seconde Guerre mondiale"
+      ],
+      "texte": "f. Indiquer des conséquences sociales de la Seconde Guerre mondiale (ex. : millions de victimes civiles, populations décimées, destruction d’une grande partie de l’Europe et du Japon)",
+      "page": 8
+    },
+    {
+      "id": "H20-CRI-034",
+      "theme": "Crises et conflits",
+      "chemin": [
+        "6. La Seconde Guerre mondiale"
+      ],
+      "texte": "g. Donner des dispositions arrêtées lors des conférences de Yalta et de Potsdam (ex. : occupation quadripartite de l’Allemagne et de l’Autriche, entrée en guerre de l’URSS contre le Japon)",
+      "page": 8
+    },
+    {
+      "id": "H20-CRI-035",
+      "theme": "Crises et conflits",
+      "chemin": [
+        "6. La Seconde Guerre mondiale"
+      ],
+      "texte": "h. Indiquer des conséquences politiques de la Seconde Guerre mondiale (ex. : diminution de l’influence de l’Europe dans le monde, émergence de superpuissances, mainmise de l’URSS sur des territoires souverains)",
+      "page": 8
+    },
+    {
+      "id": "H20-CRI-036",
+      "theme": "Crises et conflits",
+      "chemin": [
+        "6. La Seconde Guerre mondiale"
+      ],
+      "texte": "i. Indiquer l’objet des procès de Nuremberg et de Tokyo : juger des responsables allemands et japonais accusés de crimes de guerre, de crimes contre la paix et de crimes contre l’humanité",
+      "page": 8
+    },
+    {
+      "id": "H20-DIV-001",
+      "theme": "Un monde divisé",
+      "chemin": [
+        "1. Relations internationales",
+        "1.1. Conférences, traités et accords internationaux"
+      ],
+      "texte": "a. Nommer des conférences qui marquent les relations internationales dans les années 1940 et 1950 (ex. : Bretton Woods, San Francisco, Bandung)",
+      "page": 9
+    },
+    {
+      "id": "H20-DIV-002",
+      "theme": "Un monde divisé",
+      "chemin": [
+        "1. Relations internationales",
+        "1.1. Conférences, traités et accords internationaux"
+      ],
+      "texte": "b. Nommer des traités et des accords qui marquent les relations internationales durant la Guerre froide (ex. : traité de l’Atlantique Nord; traité d’amitié, de coopération et d’assistance mutuelle; traité sur la non-prolifération des armes nucléaires)",
+      "page": 9
+    },
+    {
+      "id": "H20-DIV-003",
+      "theme": "Un monde divisé",
+      "chemin": [
+        "1. Relations internationales",
+        "1.2. Institutions économiques, politiques et militaires"
+      ],
+      "texte": "a. Nommer les institutions économiques créées lors de la conférence de Bretton Woods : Accord général sur les tarifs douaniers et le commerce (GATT), Fonds monétaire international (FMI), Banque mondiale",
+      "page": 9
+    },
+    {
+      "id": "H20-DIV-004",
+      "theme": "Un monde divisé",
+      "chemin": [
+        "1. Relations internationales",
+        "1.2. Institutions économiques, politiques et militaires"
+      ],
+      "texte": "b. Indiquer les objectifs des institutions économiques créées lors de la conférence de Bretton Woods : favoriser les échanges commerciaux (GATT), stabiliser le système monétaire international (FMI), contribuer à la reconstruction des pays d’Europe (Banque mondiale)",
+      "page": 9
+    },
+    {
+      "id": "H20-DIV-005",
+      "theme": "Un monde divisé",
+      "chemin": [
+        "1. Relations internationales",
+        "1.2. Institutions économiques, politiques et militaires"
+      ],
+      "texte": "c. Indiquer les principaux buts de l’Organisation des Nations Unies (ONU) instituée lors de la conférence de San Francisco : maintenir la paix, favoriser la coopération internationale, combattre la pauvreté, assurer le respect des droits de l’homme",
+      "page": 9
+    },
+    {
+      "id": "H20-DIV-006",
+      "theme": "Un monde divisé",
+      "chemin": [
+        "1. Relations internationales",
+        "1.2. Institutions économiques, politiques et militaires"
+      ],
+      "texte": "d. Décrire les principales fonctions des organes de l’ONU : l’Assemblée générale discute d‘enjeux internationaux et vote des résolutions; le Secrétariat est le siège de la direction et de l’administration de l’institution; le Conseil de sécurité assume la responsabilité du maintien de la paix et de la sécurité internationales",
+      "page": 9
+    },
+    {
+      "id": "H20-DIV-007",
+      "theme": "Un monde divisé",
+      "chemin": [
+        "1. Relations internationales",
+        "1.2. Institutions économiques, politiques et militaires"
+      ],
+      "texte": "e. Nommer les pays vainqueurs de la Seconde Guerre mondiale qui sont membres permanents du Conseil de sécurité de l’ONU au moment de sa création : Chine, États-Unis, France, Royaume-Uni, URSS",
+      "page": 9
+    },
+    {
+      "id": "H20-DIV-008",
+      "theme": "Un monde divisé",
+      "chemin": [
+        "1. Relations internationales",
+        "1.2. Institutions économiques, politiques et militaires"
+      ],
+      "texte": "f. Indiquer le but de l’Organisation du traité de l’Atlantique Nord (OTAN) : assurer la sécurité des pays membres",
+      "page": 9
+    },
+    {
+      "id": "H20-DIV-009",
+      "theme": "Un monde divisé",
+      "chemin": [
+        "1. Relations internationales",
+        "1.2. Institutions économiques, politiques et militaires"
+      ],
+      "texte": "g. Indiquer le but du Pacte de Varsovie institué par le traité d’amitié, de coopération et d’assistance mutuelle : assurer la sécurité des pays membres",
+      "page": 9
+    },
+    {
+      "id": "H20-DIV-010",
+      "theme": "Un monde divisé",
+      "chemin": [
+        "1. Relations internationales",
+        "1.2. Institutions économiques, politiques et militaires"
+      ],
+      "texte": "h. Situer, sur une carte du monde, les pays membres de l’OTAN et les pays membres du Pacte de Varsovie",
+      "page": 9
+    },
+    {
+      "id": "H20-DIV-011",
+      "theme": "Un monde divisé",
+      "chemin": [
+        "1. Relations internationales",
+        "1.3. Le plan Marshall"
+      ],
+      "texte": "a. Indiquer l’objectif du plan Marshall : reconstruire l’économie européenne par une assistance économique et financière des États-Unis",
+      "page": 9
+    },
+    {
+      "id": "H20-DIV-012",
+      "theme": "Un monde divisé",
+      "chemin": [
+        "1. Relations internationales",
+        "1.3. Le plan Marshall"
+      ],
+      "texte": "b. Décrire la réaction de pays européens au plan Marshall : les pays alliés des États-Unis l’accueillent favorablement; l’URSS et les pays qui lui sont alliés le refusent",
+      "page": 9
+    },
+    {
+      "id": "H20-DIV-013",
+      "theme": "Un monde divisé",
+      "chemin": [
+        "1. Relations internationales",
+        "1.3. Le plan Marshall"
+      ],
+      "texte": "c. Indiquer le motif invoqué par l’URSS pour refuser le plan Marshall : être lié à un plan économique capitaliste",
+      "page": 9
+    },
+    {
+      "id": "H20-DIV-014",
+      "theme": "Un monde divisé",
+      "chemin": [
+        "1. Relations internationales",
+        "1.3. Le plan Marshall"
+      ],
+      "texte": "d. Indiquer l’objectif de l’Organisation européenne de coopération économique : coordonner l’utilisation de l’aide américaine liée au plan Marshall",
+      "page": 9
+    },
+    {
+      "id": "H20-DIV-015",
+      "theme": "Un monde divisé",
+      "chemin": [
+        "1. Relations internationales",
+        "1.3. Le plan Marshall"
+      ],
+      "texte": "e. Indiquer l’objectif du Conseil d’assistance économique mutuelle (COMECON) en réponse au plan Marshall : favoriser la coopération économique entre l’URSS et les pays qui lui sont alliés",
+      "page": 9
+    },
+    {
+      "id": "H20-DIV-016",
+      "theme": "Un monde divisé",
+      "chemin": [
+        "2. La Guerre froide",
+        "2.1. Éléments de conjoncture"
+      ],
+      "texte": "a. Définir le terme rideau de fer : frontière entre les pays situés dans la zone d’influence soviétique et les pays se trouvant dans la zone d’influence américaine",
+      "page": 10
+    },
+    {
+      "id": "H20-DIV-017",
+      "theme": "Un monde divisé",
+      "chemin": [
+        "2. La Guerre froide",
+        "2.1. Éléments de conjoncture"
+      ],
+      "texte": "b. Indiquer l’objectif de la politique d’endiguement adoptée par le président Truman : freiner l’expansion du communisme dans le monde",
+      "page": 10
+    },
+    {
+      "id": "H20-DIV-018",
+      "theme": "Un monde divisé",
+      "chemin": [
+        "2. La Guerre froide",
+        "2.1. Éléments de conjoncture"
+      ],
+      "texte": "c. Donner des caractéristiques de la Guerre froide (ex. : alternance entre des moments de tension et des moments de détente entre l’URSS et les États-Unis; menace de guerre nucléaire; affrontement des superpuissances hors de leur territoire)",
+      "page": 10
+    },
+    {
+      "id": "H20-DIV-019",
+      "theme": "Un monde divisé",
+      "chemin": [
+        "2. La Guerre froide",
+        "2.2. Crises de la Guerre froide"
+      ],
+      "texte": "a. Situer, sur une ligne du temps, des crises de la Guerre froide (ex. : blocus de Berlin, crise des missiles à Cuba, guerre du Vietnam)",
+      "page": 10
+    },
+    {
+      "id": "H20-DIV-020",
+      "theme": "Un monde divisé",
+      "chemin": [
+        "2. La Guerre froide",
+        "2.2. Crises de la Guerre froide"
+      ],
+      "texte": "b. Nommer des acteurs engagés dans des crises de la Guerre froide (ex. : Truman et Staline lors du blocus de Berlin; la France, le Royaume-Uni, Israël et l’Égypte lors de la crise de Suez; Kennedy et Khrouchtchev lors de la crise des missiles à Cuba)",
+      "page": 10
+    },
+    {
+      "id": "H20-DIV-021",
+      "theme": "Un monde divisé",
+      "chemin": [
+        "2. La Guerre froide",
+        "2.2. Crises de la Guerre froide"
+      ],
+      "texte": "c. Indiquer des faits liés à des crises de la Guerre froide (ex. : invasion de la Corée du Sud par la Corée du Nord, nationalisation du canal de Suez, retrait des missiles soviétiques de Cuba)",
+      "page": 10
+    },
+    {
+      "id": "H20-DIV-022",
+      "theme": "Un monde divisé",
+      "chemin": [
+        "2. La Guerre froide",
+        "2.2. Crises de la Guerre froide"
+      ],
+      "texte": "d. Indiquer d’autres occasions de confrontations idéologiques entre les blocs de l’Est et de l’Ouest (ex. : course à l’espace, Jeux olympiques de Moscou et de Los Angeles)",
+      "page": 10
+    },
+    {
+      "id": "H20-DIV-023",
+      "theme": "Un monde divisé",
+      "chemin": [
+        "2. La Guerre froide",
+        "2.3. Effondrement du bloc de l’Est"
+      ],
+      "texte": "a. Indiquer des revendications de mouvements d’opposition dans le bloc de l’Est (ex. : liberté d’expression, liberté de la presse, liberté de circulation)",
+      "page": 10
+    },
+    {
+      "id": "H20-DIV-024",
+      "theme": "Un monde divisé",
+      "chemin": [
+        "2. La Guerre froide",
+        "2.3. Effondrement du bloc de l’Est"
+      ],
+      "texte": "b. Nommer des acteurs de mouvements d’opposition dans le bloc de l’Est (ex. : Alexandre Soljenitsyne, Andreï Sakharov, la Charte 77, Solidarność)",
+      "page": 10
+    },
+    {
+      "id": "H20-DIV-025",
+      "theme": "Un monde divisé",
+      "chemin": [
+        "2. La Guerre froide",
+        "2.3. Effondrement du bloc de l’Est"
+      ],
+      "texte": "c. Donner des caractéristiques de l’économie des pays du bloc de l’Est (ex. : faible productivité, pénurie de biens de consommation, marché noir)",
+      "page": 10
+    },
+    {
+      "id": "H20-DIV-026",
+      "theme": "Un monde divisé",
+      "chemin": [
+        "2. La Guerre froide",
+        "2.3. Effondrement du bloc de l’Est"
+      ],
+      "texte": "d. Indiquer l’objectif de la perestroïka (restructuration) initiée par Gorbatchev : dynamiser l’économie",
+      "page": 10
+    },
+    {
+      "id": "H20-DIV-027",
+      "theme": "Un monde divisé",
+      "chemin": [
+        "2. La Guerre froide",
+        "2.3. Effondrement du bloc de l’Est"
+      ],
+      "texte": "e. Indiquer des effets de la glasnost (transparence) initiée par Gorbatchev (ex. : reconnaissance de la liberté de la presse, reconnaissance de la liberté d’opinion)",
+      "page": 10
+    },
+    {
+      "id": "H20-DIV-028",
+      "theme": "Un monde divisé",
+      "chemin": [
+        "2. La Guerre froide",
+        "2.3. Effondrement du bloc de l’Est"
+      ],
+      "texte": "f. Indiquer des faits liés à l’effondrement du bloc de l’Est (ex. : ouverture de la frontière hongroise, chute du Mur de Berlin, ouverture de régimes communistes au multipartisme, indépendance des républiques de l’URSS)",
+      "page": 10
+    },
+    {
+      "id": "H20-DIV-029",
+      "theme": "Un monde divisé",
+      "chemin": [
+        "3. Indépendance des colonies"
+      ],
+      "texte": "a. Nommer des pays qui possèdent des colonies au 20e siècle (ex. : France, Royaume-Uni, Pays-Bas)",
+      "page": 10
+    },
+    {
+      "id": "H20-DIV-030",
+      "theme": "Un monde divisé",
+      "chemin": [
+        "3. Indépendance des colonies"
+      ],
+      "texte": "b. Décrire le contexte économique et politique qui favorise la décolonisation : l’Europe est affaiblie au lendemain de la Seconde Guerre mondiale; la scolarisation favorise l’émergence de leaders politiques; les superpuissances soutiennent le mouvement de décolonisation",
+      "page": 10
+    },
+    {
+      "id": "H20-DIV-031",
+      "theme": "Un monde divisé",
+      "chemin": [
+        "3. Indépendance des colonies"
+      ],
+      "texte": "c. Situer, sur une carte du monde, des territoires qui obtiennent leur indépendance dans les années 1950 et 1960",
+      "page": 10
+    },
+    {
+      "id": "H20-DIV-032",
+      "theme": "Un monde divisé",
+      "chemin": [
+        "3. Indépendance des colonies"
+      ],
+      "texte": "d. Indiquer le principal objectif de la conférence de Bandung : soutenir le mouvement de décolonisation",
+      "page": 10
+    },
+    {
+      "id": "H20-DIV-033",
+      "theme": "Un monde divisé",
+      "chemin": [
+        "3. Indépendance des colonies"
+      ],
+      "texte": "e. Donner des caractéristiques de pays du Tiers monde au lendemain de la décolonisation (ex. : dépendance économique, faiblesse du développement industriel, accroissement naturel élevé)",
+      "page": 10
+    },
+    {
+      "id": "H20-DIV-034",
+      "theme": "Un monde divisé",
+      "chemin": [
+        "4. Mouvement de pensée",
+        "4.1. Éléments de conjoncture"
+      ],
+      "texte": "a. Nommer le phénomène démographique qui marque les années 1950 et 1960 en Occident : baby-boom",
+      "page": 10
+    },
+    {
+      "id": "H20-DIV-035",
+      "theme": "Un monde divisé",
+      "chemin": [
+        "4. Mouvement de pensée",
+        "4.1. Éléments de conjoncture"
+      ],
+      "texte": "b. Donner la principale caractéristique socioéconomique des pays occidentaux durant les années 1950 et 1960 : société de consommation",
+      "page": 10
+    },
+    {
+      "id": "H20-DIV-036",
+      "theme": "Un monde divisé",
+      "chemin": [
+        "4. Mouvement de pensée",
+        "4.1. Éléments de conjoncture"
+      ],
+      "texte": "c. Nommer une valeur défendue par l’idéologie tiers-mondiste : solidarité des pays riches envers les pays pauvres",
+      "page": 10
+    },
+    {
+      "id": "H20-DIV-037",
+      "theme": "Un monde divisé",
+      "chemin": [
+        "4. Mouvement de pensée",
+        "4.1. Éléments de conjoncture"
+      ],
+      "texte": "d. Décrire la principale influence des médias de masse sur les mouvements de pensée : les médias de masse contribuent à la diffusion d’idées et de phénomènes culturels à grande échelle",
+      "page": 10
+    },
+    {
+      "id": "H20-DIV-038",
+      "theme": "Un monde divisé",
+      "chemin": [
+        "4. Mouvement de pensée",
+        "4.2. Revendications liées aux droits de l’homme"
+      ],
+      "texte": "a. Indiquer des revendications de mouvements féministes dans les années 1960 et 1970 en Occident (ex. : droit à la contraception et à l’avortement, égalité économique, élimination de la discrimination)",
+      "page": 11
+    },
+    {
+      "id": "H20-DIV-039",
+      "theme": "Un monde divisé",
+      "chemin": [
+        "4. Mouvement de pensée",
+        "4.2. Revendications liées aux droits de l’homme"
+      ],
+      "texte": "b. Nommer des acteurs de mouvements féministes dans les années 1960 et 1970 en Occident (ex. : Betty Friedan, National Organization for Women, Mouvement de libération des femmes)",
+      "page": 11
+    },
+    {
+      "id": "H20-DIV-040",
+      "theme": "Un monde divisé",
+      "chemin": [
+        "4. Mouvement de pensée",
+        "4.2. Revendications liées aux droits de l’homme"
+      ],
+      "texte": "c. Indiquer des revendications de mouvements pour la défense des droits civiques des Noirs dans les années 1960 et 1970 (ex. : abolition des lois et des règlements ségrégationnistes, égalité d’accès à l’emploi)",
+      "page": 11
+    },
+    {
+      "id": "H20-DIV-041",
+      "theme": "Un monde divisé",
+      "chemin": [
+        "4. Mouvement de pensée",
+        "4.2. Revendications liées aux droits de l’homme"
+      ],
+      "texte": "d. Nommer des acteurs de mouvements pour la défense des droits civiques des Noirs dans les années 1960 et 1970 (ex. : Martin Luther King, Rosa Parks, African National Congress)",
+      "page": 11
+    },
+    {
+      "id": "H20-DIV-042",
+      "theme": "Un monde divisé",
+      "chemin": [
+        "4. Mouvement de pensée",
+        "4.2. Revendications liées aux droits de l’homme"
+      ],
+      "texte": "e. Nommer des valeurs dénoncées par le mouvement hippie (ex. : individualisme, matérialisme, violence)",
+      "page": 11
+    },
+    {
+      "id": "H20-DIV-043",
+      "theme": "Un monde divisé",
+      "chemin": [
+        "4. Mouvement de pensée",
+        "4.2. Revendications liées aux droits de l’homme"
+      ],
+      "texte": "f. Indiquer la revendication commune à plusieurs mouvements de pensée dans les années 1960 et 1970 en Occident : retrait des troupes américaines du Vietnam",
+      "page": 11
+    },
+    {
+      "id": "H20-MON-001",
+      "theme": "Le monde au tournant du siècle",
+      "chemin": [
+        "1. Conflits régionaux"
+      ],
+      "texte": "a. Indiquer des aspects sur lesquels repose une affirmation identitaire (ex. : culture, langue, religion, territoire)",
+      "page": 12
+    },
+    {
+      "id": "H20-MON-002",
+      "theme": "Le monde au tournant du siècle",
+      "chemin": [
+        "1. Conflits régionaux"
+      ],
+      "texte": "b. Nommer des conflits régionaux liés à des affirmations identitaires (ex. : conflit israélo-palestinien, guerre civile au Rwanda, guerre du Kosovo)",
+      "page": 12
+    },
+    {
+      "id": "H20-MON-003",
+      "theme": "Le monde au tournant du siècle",
+      "chemin": [
+        "1. Conflits régionaux"
+      ],
+      "texte": "c. Situer, sur une carte du monde, des territoires où se déroulent des conflits liés à des affirmations identitaires (ex. : Yougoslavie, Rwanda, Timor-Oriental)",
+      "page": 12
+    },
+    {
+      "id": "H20-MON-004",
+      "theme": "Le monde au tournant du siècle",
+      "chemin": [
+        "1. Conflits régionaux"
+      ],
+      "texte": "d. Indiquer des enjeux à la source de conflits régionaux liés à des affirmations identitaires dans les années 1990 (ex. : souveraineté du Timor-Oriental, souveraineté de l’Irlande du Nord)",
+      "page": 12
+    },
+    {
+      "id": "H20-MON-005",
+      "theme": "Le monde au tournant du siècle",
+      "chemin": [
+        "1. Conflits régionaux"
+      ],
+      "texte": "e. Nommer les parties engagées dans des conflits régionaux liés à des affirmations identitaires qui surviennent dans les années 1990 (ex. : l’armée russe et les séparatistes tchétchènes, le gouvernement de Serbie et le gouvernement de Bosnie-Herzégovine, la milice hutue et la population tutsie au Rwanda)",
+      "page": 12
+    },
+    {
+      "id": "H20-MON-006",
+      "theme": "Le monde au tournant du siècle",
+      "chemin": [
+        "1. Conflits régionaux"
+      ],
+      "texte": "f. Indiquer la principale conséquence politique de conflits régionaux dans les années 1990 : reconnaissance d’États souverains par la communauté internationale",
+      "page": 12
+    },
+    {
+      "id": "H20-MON-007",
+      "theme": "Le monde au tournant du siècle",
+      "chemin": [
+        "2. Institutions internationales"
+      ],
+      "texte": "a. Nommer des institutions internationales qui interviennent lors de conflits régionaux liés à des affirmations identitaires (ex. : Organisation du traité de l’Atlantique Nord [OTAN], Organisation des Nations Unies [ONU], Cour pénale internationale [CPI])",
+      "page": 12
+    },
+    {
+      "id": "H20-MON-008",
+      "theme": "Le monde au tournant du siècle",
+      "chemin": [
+        "2. Institutions internationales"
+      ],
+      "texte": "b. Nommer des pays de l’Europe de l’Est qui adhèrent à l’OTAN après la dissolution du Pacte de Varsovie (ex. : Pologne, République tchèque, Roumanie)",
+      "page": 12
+    },
+    {
+      "id": "H20-MON-009",
+      "theme": "Le monde au tournant du siècle",
+      "chemin": [
+        "2. Institutions internationales"
+      ],
+      "texte": "c. Nommer les pays qui adhèrent à l’OTAN au lendemain de l’éclatement de l’Union des républiques socialistes soviétiques : Estonie, Lettonie, Lituanie",
+      "page": 12
+    },
+    {
+      "id": "H20-MON-010",
+      "theme": "Le monde au tournant du siècle",
+      "chemin": [
+        "2. Institutions internationales"
+      ],
+      "texte": "d. Donner le rôle des tribunaux pénaux internationaux créés à la suite du conflit en ex-Yougoslavie et du conflit au Rwanda : juger des responsables de crimes de guerre et de crimes contre l’humanité",
+      "page": 12
+    },
+    {
+      "id": "H20-MON-011",
+      "theme": "Le monde au tournant du siècle",
+      "chemin": [
+        "3. Interventions diplomatiques, politiques et militaires"
+      ],
+      "texte": "a. Nommer des opérations menées par l’ONU lors de conflits régionaux liés à des affirmations identitaires qui surviennent dans les années 1990 (ex. : Missions des Nations Unies en Bosnie-Herzégovine, Missions des Nations Unies pour l’assistance au Rwanda, Force de protection des Nations Unies en Yougoslavie, Administration transitoire des Nations Unies au Timor-Oriental)",
+      "page": 12
+    },
+    {
+      "id": "H20-MON-012",
+      "theme": "Le monde au tournant du siècle",
+      "chemin": [
+        "3. Interventions diplomatiques, politiques et militaires"
+      ],
+      "texte": "b. Nommer des opérations menées par l’OTAN lors de conflits régionaux liés à des affirmations identitaires qui surviennent dans les années 1990 (ex. : Force de mise en œuvre en Bosnie-Herzégovine, Force de stabilisation en Bosnie-Herzégovine, Force pour le Kosovo)",
+      "page": 12
+    },
+    {
+      "id": "H20-MON-013",
+      "theme": "Le monde au tournant du siècle",
+      "chemin": [
+        "3. Interventions diplomatiques, politiques et militaires"
+      ],
+      "texte": "c. Indiquer la principale raison invoquée par l’OTAN pour justifier une intervention militaire sur des territoires souverains : protéger les populations de crimes contre l’humanité",
+      "page": 12
+    },
+    {
+      "id": "H20-MON-014",
+      "theme": "Le monde au tournant du siècle",
+      "chemin": [
+        "3. Interventions diplomatiques, politiques et militaires"
+      ],
+      "texte": "d. Indiquer des effets de l’adoption d’accords internationaux sur des conflits régionaux liés à des affirmations identitaires (ex. : fin de combats interethniques en Bosnie-Herzégovine à la suite des accords de Dayton, fin de la première guerre de Tchétchénie à la suite des accords de paix de Khassaviourt)",
+      "page": 12
+    }
+  ]
+}

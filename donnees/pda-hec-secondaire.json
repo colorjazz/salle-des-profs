@@ -1,0 +1,4567 @@
+{
+  "discipline": "Histoire et éducation à la citoyenneté (1er cycle)",
+  "code_discipline": "HEC",
+  "ordre": "secondaire",
+  "source": "PFEQ-progression-apprentissages-histoire-education-citoyennete-secondaire.pdf",
+  "annees": [
+    "1",
+    "2"
+  ],
+  "pages_sans_colonnes_reperees": [],
+  "bilan": {
+    "nombre_savoirs": 273,
+    "a_verifier": 0
+  },
+  "savoirs": [
+    {
+      "id": "HEC-LAS-001",
+      "champ": "La sédentarisation",
+      "section": null,
+      "chemin": [
+        "1. Organisation de la vie en société aujourd’hui"
+      ],
+      "texte": "a. Indiquer la nature de la relation entre les individus d’une même société (ex. : familiale, professionnelle, commerciale)",
+      "progression": {
+        "1": "maitrise",
+        "2": null
+      },
+      "page": 6,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "HEC-LAS-002",
+      "champ": "La sédentarisation",
+      "section": null,
+      "chemin": [
+        "1. Organisation de la vie en société aujourd’hui"
+      ],
+      "texte": "b. Expliquer une conséquence de l’interdépendance des individus dans une société (ex. : peu de personnes peuvent vivre sans l’apport du travail des autres, il se met ainsi en place des réseaux d’échange)",
+      "progression": {
+        "1": "maitrise",
+        "2": null
+      },
+      "page": 6,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "HEC-LAS-003",
+      "champ": "La sédentarisation",
+      "section": null,
+      "chemin": [
+        "2. Sédentarisation et organisation de la vie en société",
+        "2.1. Situation dans l’espace et dans le temps"
+      ],
+      "texte": "a. Situer, sur une carte du monde, la région du Croissant fertile où des peuples commencent à se sédentariser ainsi que d’autres foyers de sédentarisation",
+      "progression": {
+        "1": "maitrise",
+        "2": null
+      },
+      "page": 6,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "HEC-LAS-004",
+      "champ": "La sédentarisation",
+      "section": null,
+      "chemin": [
+        "2. Sédentarisation et organisation de la vie en société",
+        "2.1. Situation dans l’espace et dans le temps"
+      ],
+      "texte": "b. Situer, sur une ligne du temps, la période néolithique",
+      "progression": {
+        "1": "maitrise",
+        "2": null
+      },
+      "page": 6,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "HEC-LAS-005",
+      "champ": "La sédentarisation",
+      "section": null,
+      "chemin": [
+        "2. Sédentarisation et organisation de la vie en société"
+      ],
+      "texte": "2.2. Mode de vie et rapports sociaux",
+      "progression": {
+        "1": "maitrise",
+        "2": null
+      },
+      "page": 6,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "HEC-LAS-006",
+      "champ": "La sédentarisation",
+      "section": null,
+      "chemin": [
+        "2. Sédentarisation et organisation de la vie en société",
+        "2.1. Situation dans l’espace et dans le temps"
+      ],
+      "texte": "a. Énumérer des vestiges des sociétés sans écriture qui permettent de connaître leur organisation sociale (ex. : peintures rupestres, mégalithes, sépultures)",
+      "progression": {
+        "1": "maitrise",
+        "2": null
+      },
+      "page": 6,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "HEC-LAS-007",
+      "champ": "La sédentarisation",
+      "section": null,
+      "chemin": [
+        "2. Sédentarisation et organisation de la vie en société",
+        "2.1. Situation dans l’espace et dans le temps"
+      ],
+      "texte": "b. Indiquer les activités de subsistance des sociétés du Néolithique : chasse, cueillette, élevage, agriculture",
+      "progression": {
+        "1": "maitrise",
+        "2": null
+      },
+      "page": 6,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "HEC-LAS-008",
+      "champ": "La sédentarisation",
+      "section": null,
+      "chemin": [
+        "2. Sédentarisation et organisation de la vie en société",
+        "2.1. Situation dans l’espace et dans le temps"
+      ],
+      "texte": "c. Nommer des facteurs naturels qui ont favorisé la sédentarisation (ex. : réchauffement climatique, amélioration de la productivité des céréales sauvages)",
+      "progression": {
+        "1": "maitrise",
+        "2": null
+      },
+      "page": 6,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "HEC-LAS-009",
+      "champ": "La sédentarisation",
+      "section": null,
+      "chemin": [
+        "2. Sédentarisation et organisation de la vie en société",
+        "2.1. Situation dans l’espace et dans le temps"
+      ],
+      "texte": "d. Énumérer des caractéristiques de sociétés sédentaires (ex. : regroupement en villages comptant parfois quelques milliers d'individus, installation d’habitations permanentes)",
+      "progression": {
+        "1": "maitrise",
+        "2": null
+      },
+      "page": 6,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "HEC-LAS-010",
+      "champ": "La sédentarisation",
+      "section": null,
+      "chemin": [
+        "2. Sédentarisation et organisation de la vie en société",
+        "2.1. Situation dans l’espace et dans le temps"
+      ],
+      "texte": "e. Expliquer des conséquences de l’agriculture sur les sociétés du Néolithique (ex. : l’agriculture procure davantage de nourriture que les activités de prédation ce qui favorise la croissance démographique)",
+      "progression": {
+        "1": "maitrise",
+        "2": null
+      },
+      "page": 6,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "HEC-LAS-011",
+      "champ": "La sédentarisation",
+      "section": null,
+      "chemin": [
+        "2. Sédentarisation et organisation de la vie en société"
+      ],
+      "texte": "2.3. Activités économiques liées à la sédentarisation",
+      "progression": {
+        "1": "maitrise",
+        "2": null
+      },
+      "page": 6,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "HEC-LAS-012",
+      "champ": "La sédentarisation",
+      "section": null,
+      "chemin": [
+        "2. Sédentarisation et organisation de la vie en société",
+        "2.1. Situation dans l’espace et dans le temps"
+      ],
+      "texte": "a. Énumérer des procédés artisanaux qui se développent au Néolithique (ex. : poterie, métallurgie)",
+      "progression": {
+        "1": "maitrise",
+        "2": null
+      },
+      "page": 6,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "HEC-LAS-013",
+      "champ": "La sédentarisation",
+      "section": null,
+      "chemin": [
+        "2. Sédentarisation et organisation de la vie en société",
+        "2.1. Situation dans l’espace et dans le temps"
+      ],
+      "texte": "b. Indiquer l’utilité de la poterie développée au Néolithique (ex. : entreposage, cuisson)",
+      "progression": {
+        "1": "maitrise",
+        "2": null
+      },
+      "page": 6,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "HEC-LAS-014",
+      "champ": "La sédentarisation",
+      "section": null,
+      "chemin": [
+        "2. Sédentarisation et organisation de la vie en société",
+        "2.1. Situation dans l’espace et dans le temps"
+      ],
+      "texte": "c. Indiquer le facteur qui favorise la division du travail dans les sociétés néolithiques : apparition de surplus agricoles",
+      "progression": {
+        "1": "maitrise",
+        "2": null
+      },
+      "page": 6,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "HEC-LAS-015",
+      "champ": "La sédentarisation",
+      "section": null,
+      "chemin": [
+        "2. Sédentarisation et organisation de la vie en société",
+        "2.1. Situation dans l’espace et dans le temps"
+      ],
+      "texte": "d. Expliquer l’apparition des échanges dans les sociétés néolithiques (ex. : pour assurer leur survie, les artisans libérés du travail de production alimentaire troquent leur production contre des aliments)",
+      "progression": {
+        "1": "maitrise",
+        "2": null
+      },
+      "page": 6,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "HEC-LAS-016",
+      "champ": "La sédentarisation",
+      "section": null,
+      "chemin": [
+        "2. Sédentarisation et organisation de la vie en société",
+        "2.1. Situation dans l’espace et dans le temps"
+      ],
+      "texte": "a. Nommer les grands secteurs de l’activité économique associés à la division du travail : extraction des ressources et agriculture (secteur primaire), transformation (secteur secondaire), services (secteur tertiaire)",
+      "progression": {
+        "1": "maitrise",
+        "2": null
+      },
+      "page": 7,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "HEC-LAS-017",
+      "champ": "La sédentarisation",
+      "section": null,
+      "chemin": [
+        "2. Sédentarisation et organisation de la vie en société",
+        "2.1. Situation dans l’espace et dans le temps"
+      ],
+      "texte": "b. Indiquer des éléments de changement et de continuité par rapport au mode de vie des sociétés sédentaires du Néolithique (ex. : l’agriculture est à la base de l’alimentation, mais n’occupe plus la majorité de la population)",
+      "progression": {
+        "1": "maitrise",
+        "2": null
+      },
+      "page": 7,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "HEC-LEM-001",
+      "champ": "L’émergence d’une civilisation",
+      "section": null,
+      "chemin": [
+        "1. Apport de l’écriture à une civilisation aujourd’hui"
+      ],
+      "texte": "a. Indiquer des conséquences de l’analphabétisme (ex. : pauvreté, exclusion, marginalité)",
+      "progression": {
+        "1": "maitrise",
+        "2": null
+      },
+      "page": 8,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "HEC-LEM-002",
+      "champ": "L’émergence d’une civilisation",
+      "section": null,
+      "chemin": [
+        "1. Apport de l’écriture à une civilisation aujourd’hui"
+      ],
+      "texte": "b. Donner des exemples de l’utilisation de l’écriture dans la vie courante (ex. : les téléphones utilisés pour envoyer des messages textes, Internet utilisé pour clavarder)",
+      "progression": {
+        "1": "maitrise",
+        "2": null
+      },
+      "page": 8,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "HEC-LEM-003",
+      "champ": "L’émergence d’une civilisation",
+      "section": null,
+      "chemin": [
+        "1. Apport de l’écriture à une civilisation aujourd’hui"
+      ],
+      "texte": "c. Nommer des écritures associées à différentes civilisations (ex. : caractères chinois, alphabet arabe, alphabet cyrillique)",
+      "progression": {
+        "1": "maitrise",
+        "2": null
+      },
+      "page": 8,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "HEC-LEM-004",
+      "champ": "L’émergence d’une civilisation",
+      "section": null,
+      "chemin": [
+        "2. Influence de l’écriture dans la civilisation mésopotamienne",
+        "2.1. Situation dans l’espace et dans le temps"
+      ],
+      "texte": "a. Situer, sur une carte, la Mésopotamie, ses fleuves et d'autres foyers de civilisations",
+      "progression": {
+        "1": "maitrise",
+        "2": null
+      },
+      "page": 8,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "HEC-LEM-005",
+      "champ": "L’émergence d’une civilisation",
+      "section": null,
+      "chemin": [
+        "2. Influence de l’écriture dans la civilisation mésopotamienne",
+        "2.1. Situation dans l’espace et dans le temps"
+      ],
+      "texte": "b. Situer, sur une carte, des cités-États de la Mésopotamie (ex. : Ur, Lagash, Babylone)",
+      "progression": {
+        "1": "maitrise",
+        "2": null
+      },
+      "page": 8,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "HEC-LEM-006",
+      "champ": "L’émergence d’une civilisation",
+      "section": null,
+      "chemin": [
+        "2. Influence de l’écriture dans la civilisation mésopotamienne",
+        "2.1. Situation dans l’espace et dans le temps"
+      ],
+      "texte": "c. Situer, sur une ligne du temps, l’Antiquité et quelques faits relatifs à la civilisation mésopotamienne",
+      "progression": {
+        "1": "maitrise",
+        "2": null
+      },
+      "page": 8,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "HEC-LEM-007",
+      "champ": "L’émergence d’une civilisation",
+      "section": null,
+      "chemin": [
+        "2. Influence de l’écriture dans la civilisation mésopotamienne"
+      ],
+      "texte": "2.2. Structure sociale",
+      "progression": {
+        "1": "maitrise",
+        "2": null
+      },
+      "page": 8,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "HEC-LEM-008",
+      "champ": "L’émergence d’une civilisation",
+      "section": null,
+      "chemin": [
+        "2. Influence de l’écriture dans la civilisation mésopotamienne",
+        "2.1. Situation dans l’espace et dans le temps"
+      ],
+      "texte": "a. Indiquer le rang des groupes sociaux de la civilisation mésopotamienne en fonction du pouvoir qu’ils détiennent (ex. : les paysans illettrés forment la majorité de la population, ils sont, avec les esclaves, au bas de la hiérarchie sociale)",
+      "progression": {
+        "1": "maitrise",
+        "2": null
+      },
+      "page": 8,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "HEC-LEM-009",
+      "champ": "L’émergence d’une civilisation",
+      "section": null,
+      "chemin": [
+        "2. Influence de l’écriture dans la civilisation mésopotamienne",
+        "2.1. Situation dans l’espace et dans le temps"
+      ],
+      "texte": "b. Décrire différentes fonctions des groupes sociaux dans la civilisation mésopotamienne (ex. : la noblesse détient le pouvoir politique, militaire et religieux et possèdent les terres; les prêtres sont responsables de la religion; les commerçants et les artisans procurent les biens nécessaires à la vie de la société)",
+      "progression": {
+        "1": "maitrise",
+        "2": null
+      },
+      "page": 8,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "HEC-LEM-010",
+      "champ": "L’émergence d’une civilisation",
+      "section": null,
+      "chemin": [
+        "2. Influence de l’écriture dans la civilisation mésopotamienne",
+        "2.1. Situation dans l’espace et dans le temps"
+      ],
+      "texte": "c. Expliquer la situation privilégiée des scribes dans la civilisation mésopotamienne (ex. : proximité du pouvoir royal parce qu'ils transcrivent les textes officiels; utilité de l’écriture lors des échanges)",
+      "progression": {
+        "1": "maitrise",
+        "2": null
+      },
+      "page": 8,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "HEC-LEM-011",
+      "champ": "L’émergence d’une civilisation",
+      "section": null,
+      "chemin": [
+        "2. Influence de l’écriture dans la civilisation mésopotamienne"
+      ],
+      "texte": "2.3. Organisation administrative, politique et juridique",
+      "progression": {
+        "1": "maitrise",
+        "2": null
+      },
+      "page": 8,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "HEC-LEM-012",
+      "champ": "L’émergence d’une civilisation",
+      "section": null,
+      "chemin": [
+        "2. Influence de l’écriture dans la civilisation mésopotamienne",
+        "2.1. Situation dans l’espace et dans le temps"
+      ],
+      "texte": "a. Indiquer certains avantages dont bénéficient les populations vivant sur les territoires où coulent des fleuves (ex. : les fleuves facilitent le déplacement des populations; l’irrigation et la fertilisation des terres augmentent la productivité de l’agriculture)",
+      "progression": {
+        "1": "maitrise",
+        "2": null
+      },
+      "page": 8,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "HEC-LEM-013",
+      "champ": "L’émergence d’une civilisation",
+      "section": null,
+      "chemin": [
+        "2. Influence de l’écriture dans la civilisation mésopotamienne",
+        "2.1. Situation dans l’espace et dans le temps"
+      ],
+      "texte": "b. Énumérer des caractéristiques du mode de fonctionnement d’une cité-État (ex. : autonomie, indépendance par rapport aux cités-États voisines)",
+      "progression": {
+        "1": "maitrise",
+        "2": null
+      },
+      "page": 8,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "HEC-LEM-014",
+      "champ": "L’émergence d’une civilisation",
+      "section": null,
+      "chemin": [
+        "2. Influence de l’écriture dans la civilisation mésopotamienne",
+        "2.1. Situation dans l’espace et dans le temps"
+      ],
+      "texte": "c. Énoncer des avantages pour l’administration de la cité-État de disposer de lois écrites (ex. : application uniforme des lois, diffusion des textes de loi)",
+      "progression": {
+        "1": "maitrise",
+        "2": null
+      },
+      "page": 8,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "HEC-LEM-015",
+      "champ": "L’émergence d’une civilisation",
+      "section": null,
+      "chemin": [
+        "2. Influence de l’écriture dans la civilisation mésopotamienne",
+        "2.1. Situation dans l’espace et dans le temps"
+      ],
+      "texte": "d. Énumérer des activités qui sont régies par le Code d’Hammourabi (ex. : commerce, architecture, irrigation, travaux agricoles)",
+      "progression": {
+        "1": "maitrise",
+        "2": null
+      },
+      "page": 8,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "HEC-LEM-016",
+      "champ": "L’émergence d’une civilisation",
+      "section": null,
+      "chemin": [
+        "2. Influence de l’écriture dans la civilisation mésopotamienne",
+        "2.1. Situation dans l’espace et dans le temps"
+      ],
+      "texte": "e. Énumérer des caractéristiques de l’écriture cunéiforme (ex. : écriture en forme de coins, écriture idéographique et phonétique)",
+      "progression": {
+        "1": "maitrise",
+        "2": null
+      },
+      "page": 8,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "HEC-LEM-017",
+      "champ": "L’émergence d’une civilisation",
+      "section": null,
+      "chemin": [
+        "2. Influence de l’écriture dans la civilisation mésopotamienne",
+        "2.1. Situation dans l’espace et dans le temps"
+      ],
+      "texte": "f. Nommer des supports pour les premières écritures (ex. : argile crue, papyrus)",
+      "progression": {
+        "1": "maitrise",
+        "2": null
+      },
+      "page": 9,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "HEC-LEM-018",
+      "champ": "L’émergence d’une civilisation",
+      "section": null,
+      "chemin": [
+        "2. Influence de l’écriture dans la civilisation mésopotamienne"
+      ],
+      "texte": "2.4. Culture et religion",
+      "progression": {
+        "1": "maitrise",
+        "2": null
+      },
+      "page": 9,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "HEC-LEM-019",
+      "champ": "L’émergence d’une civilisation",
+      "section": null,
+      "chemin": [
+        "2. Influence de l’écriture dans la civilisation mésopotamienne",
+        "2.1. Situation dans l’espace et dans le temps"
+      ],
+      "texte": "a. Indiquer des types de documents écrits produits en Mésopotamie (ex. : épopées, textes mathématiques, traités de médecine)",
+      "progression": {
+        "1": "maitrise",
+        "2": null
+      },
+      "page": 9,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "HEC-LEM-020",
+      "champ": "L’émergence d’une civilisation",
+      "section": null,
+      "chemin": [
+        "2. Influence de l’écriture dans la civilisation mésopotamienne",
+        "2.1. Situation dans l’espace et dans le temps"
+      ],
+      "texte": "b. Énoncer des avantages de l’écriture dans le développement de l’architecture (ex. : l’écriture facilite la planification et la gestion de constructions monumentales, comme les ziggourats ou les palais royaux)",
+      "progression": {
+        "1": "maitrise",
+        "2": null
+      },
+      "page": 9,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "HEC-LEM-021",
+      "champ": "L’émergence d’une civilisation",
+      "section": null,
+      "chemin": [
+        "2. Influence de l’écriture dans la civilisation mésopotamienne",
+        "2.1. Situation dans l’espace et dans le temps"
+      ],
+      "texte": "c. Énumérer des caractéristiques de la religion mésopotamienne (ex. : les croyances religieuses s’expriment dans des récits mythologiques; le culte s’exerce dans des temples)",
+      "progression": {
+        "1": "maitrise",
+        "2": null
+      },
+      "page": 9,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "HEC-LEM-022",
+      "champ": "L’émergence d’une civilisation",
+      "section": null,
+      "chemin": [
+        "2. Influence de l’écriture dans la civilisation mésopotamienne",
+        "2.1. Situation dans l’espace et dans le temps"
+      ],
+      "texte": "d. Donner des exemples de l’influence de l’écriture dans la transmission de la culture mésopotamienne (ex. : les récits mythologiques mésopotamiens sont diffusés dans l’ensemble du Croissant fertile; des sociétés parlant diverses langues utilisent la même écriture)",
+      "progression": {
+        "1": "maitrise",
+        "2": null
+      },
+      "page": 9,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "HEC-LEM-023",
+      "champ": "L’émergence d’une civilisation",
+      "section": null,
+      "chemin": [
+        "3. Sens et fonctions des règles et des conventions dans la société aujourd’hui"
+      ],
+      "texte": "a. Énoncer des avantages de l’alphabet par rapport aux pictogrammes et aux idéogrammes (ex. : nombre de signes réduit, apprentissage simplifié, possibilité de transcrire des idées abstraites)",
+      "progression": {
+        "1": "maitrise",
+        "2": null
+      },
+      "page": 9,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "HEC-LEM-024",
+      "champ": "L’émergence d’une civilisation",
+      "section": null,
+      "chemin": [
+        "3. Sens et fonctions des règles et des conventions dans la société aujourd’hui"
+      ],
+      "texte": "b. Nommer des institutions publiques qui font des règlements ou des lois (ex. : écoles, municipalités, Assemblée nationale)",
+      "progression": {
+        "1": "maitrise",
+        "2": null
+      },
+      "page": 9,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "HEC-LEM-025",
+      "champ": "L’émergence d’une civilisation",
+      "section": null,
+      "chemin": [
+        "3. Sens et fonctions des règles et des conventions dans la société aujourd’hui"
+      ],
+      "texte": "c. Donner des exemples de règles et de conventions écrites qui facilitent la vie en société (ex. : règles de sécurité routière, unités de poids et de mesures, code linguistique)",
+      "progression": {
+        "1": "maitrise",
+        "2": null
+      },
+      "page": 9,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "HEC-LEM-026",
+      "champ": "L’émergence d’une civilisation",
+      "section": null,
+      "chemin": [
+        "3. Sens et fonctions des règles et des conventions dans la société aujourd’hui"
+      ],
+      "texte": "d. Indiquer l’utilité des règles et des conventions écrites (ex. : assurer la sécurité, faciliter les échanges)",
+      "progression": {
+        "1": "maitrise",
+        "2": null
+      },
+      "page": 9,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "HEC-UNE-001",
+      "champ": "Une première expérience de démocratie",
+      "section": null,
+      "chemin": [
+        "1. Organisation du pouvoir politique dans une société aujourd’hui"
+      ],
+      "texte": "a. Nommer les fonctions de personnes qui représentent les citoyens (ex. : commissaire, conseiller municipal, député)",
+      "progression": {
+        "1": "maitrise",
+        "2": null
+      },
+      "page": 10,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "HEC-UNE-002",
+      "champ": "Une première expérience de démocratie",
+      "section": null,
+      "chemin": [
+        "1. Organisation du pouvoir politique dans une société aujourd’hui"
+      ],
+      "texte": "b. Nommer la loi fondamentale qui détermine l’organisation politique d’un pays : la constitution",
+      "progression": {
+        "1": "maitrise",
+        "2": null
+      },
+      "page": 10,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "HEC-UNE-003",
+      "champ": "Une première expérience de démocratie",
+      "section": null,
+      "chemin": [
+        "2. Vie politique à Athènes au 5e siècle av. J.-C.",
+        "2.1. Situation dans l’espace et dans le temps"
+      ],
+      "texte": "a. Situer, sur une carte, la Grèce, l’Attique et Athènes",
+      "progression": {
+        "1": "maitrise",
+        "2": null
+      },
+      "page": 10,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "HEC-UNE-004",
+      "champ": "Une première expérience de démocratie",
+      "section": null,
+      "chemin": [
+        "2. Vie politique à Athènes au 5e siècle av. J.-C.",
+        "2.1. Situation dans l’espace et dans le temps"
+      ],
+      "texte": "b. Situer, sur une ligne du temps, le siècle de Périclès et quelques faits relatifs à la démocratie",
+      "progression": {
+        "1": "maitrise",
+        "2": null
+      },
+      "page": 10,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "HEC-UNE-005",
+      "champ": "Une première expérience de démocratie",
+      "section": null,
+      "chemin": [
+        "2. Vie politique à Athènes au 5e siècle av. J.-C."
+      ],
+      "texte": "2.2. Structure sociale",
+      "progression": {
+        "1": "maitrise",
+        "2": null
+      },
+      "page": 10,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "HEC-UNE-006",
+      "champ": "Une première expérience de démocratie",
+      "section": null,
+      "chemin": [
+        "2. Vie politique à Athènes au 5e siècle av. J.-C.",
+        "2.1. Situation dans l’espace et dans le temps"
+      ],
+      "texte": "a. Énumérer des conditions pour être citoyen d’Athènes (ex. : être fils d’Athénien, être un homme d’au moins 18 ans, être né libre)",
+      "progression": {
+        "1": "maitrise",
+        "2": null
+      },
+      "page": 10,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "HEC-UNE-007",
+      "champ": "Une première expérience de démocratie",
+      "section": null,
+      "chemin": [
+        "2. Vie politique à Athènes au 5e siècle av. J.-C.",
+        "2.1. Situation dans l’espace et dans le temps"
+      ],
+      "texte": "b. Indiquer des droits reconnus aux différents groupes sociaux qui forment la population d’Athènes : les citoyens ont des droits politiques; les métèques ont la liberté civile, mais n’ont pas de droits politiques; les esclaves n’ont ni droits ni libertés civiles",
+      "progression": {
+        "1": "maitrise",
+        "2": null
+      },
+      "page": 10,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "HEC-UNE-008",
+      "champ": "Une première expérience de démocratie",
+      "section": null,
+      "chemin": [
+        "2. Vie politique à Athènes au 5e siècle av. J.-C.",
+        "2.1. Situation dans l’espace et dans le temps"
+      ],
+      "texte": "c. Indiquer des tâches réservées aux femmes dans la société athénienne (ex. : gestion du domaine privé, exécution des travaux domestiques, éducation des enfants)",
+      "progression": {
+        "1": "maitrise",
+        "2": null
+      },
+      "page": 10,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "HEC-UNE-009",
+      "champ": "Une première expérience de démocratie",
+      "section": null,
+      "chemin": [
+        "2. Vie politique à Athènes au 5e siècle av. J.-C."
+      ],
+      "texte": "2.3. Institutions politiques",
+      "progression": {
+        "1": "maitrise",
+        "2": null
+      },
+      "page": 10,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "HEC-UNE-010",
+      "champ": "Une première expérience de démocratie",
+      "section": null,
+      "chemin": [
+        "2. Vie politique à Athènes au 5e siècle av. J.-C.",
+        "2.1. Situation dans l’espace et dans le temps"
+      ],
+      "texte": "a. Établir un lien entre différentes caractéristiques du territoire grec et l’organisation politique des cités-États (ex. : le relief très accidenté favorise l’indépendance des cités-États; la présence de la mer facilite le commerce et la colonisation)",
+      "progression": {
+        "1": "maitrise",
+        "2": null
+      },
+      "page": 10,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "HEC-UNE-011",
+      "champ": "Une première expérience de démocratie",
+      "section": null,
+      "chemin": [
+        "2. Vie politique à Athènes au 5e siècle av. J.-C.",
+        "2.1. Situation dans l’espace et dans le temps"
+      ],
+      "texte": "b. Indiquer la fonction des institutions politiques d’Athènes (ex. : l’Ecclésia vote les lois et élit les magistrats et les stratèges)",
+      "progression": {
+        "1": "maitrise",
+        "2": null
+      },
+      "page": 10,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "HEC-UNE-012",
+      "champ": "Une première expérience de démocratie",
+      "section": null,
+      "chemin": [
+        "2. Vie politique à Athènes au 5e siècle av. J.-C.",
+        "2.1. Situation dans l’espace et dans le temps"
+      ],
+      "texte": "c. Nommer des espaces publics et des activités qui s’y déroulent (ex. : l’Agora est une place de marché et un lieu de rassemblement; l’Acropole est un sanctuaire et un lieu pour des cérémonies religieuses)",
+      "progression": {
+        "1": "maitrise",
+        "2": null
+      },
+      "page": 10,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "HEC-UNE-013",
+      "champ": "Une première expérience de démocratie",
+      "section": null,
+      "chemin": [
+        "2. Vie politique à Athènes au 5e siècle av. J.-C.",
+        "2.1. Situation dans l’espace et dans le temps"
+      ],
+      "texte": "d. Indiquer des limites de la démocratie athénienne (ex. : de nombreuses personnes vivant à Athènes sont exclues de la citoyenneté)",
+      "progression": {
+        "1": "maitrise",
+        "2": null
+      },
+      "page": 10,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "HEC-UNE-014",
+      "champ": "Une première expérience de démocratie",
+      "section": null,
+      "chemin": [
+        "2. Vie politique à Athènes au 5e siècle av. J.-C."
+      ],
+      "texte": "2.4. Culture et croyances",
+      "progression": {
+        "1": "maitrise",
+        "2": null
+      },
+      "page": 10,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "HEC-UNE-015",
+      "champ": "Une première expérience de démocratie",
+      "section": null,
+      "chemin": [
+        "2. Vie politique à Athènes au 5e siècle av. J.-C.",
+        "2.1. Situation dans l’espace et dans le temps"
+      ],
+      "texte": "a. Établir un lien entre l’éducation et l’exercice de la démocratie (ex. : l’apprentissage de la langue et de la rhétorique aide les citoyens à débattre)",
+      "progression": {
+        "1": "maitrise",
+        "2": null
+      },
+      "page": 10,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "HEC-UNE-016",
+      "champ": "Une première expérience de démocratie",
+      "section": null,
+      "chemin": [
+        "2. Vie politique à Athènes au 5e siècle av. J.-C.",
+        "2.1. Situation dans l’espace et dans le temps"
+      ],
+      "texte": "b. Indiquer des éléments qui distinguent la philosophie de la mythologie (ex. : construction logique du discours)",
+      "progression": {
+        "1": "maitrise",
+        "2": null
+      },
+      "page": 10,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "HEC-UNE-017",
+      "champ": "Une première expérience de démocratie",
+      "section": null,
+      "chemin": [
+        "2. Vie politique à Athènes au 5e siècle av. J.-C.",
+        "2.1. Situation dans l’espace et dans le temps"
+      ],
+      "texte": "c. Établir un lien entre colonisation et diffusion de la culture grecque (ex. : en fondant des colonies, les cités exportent la culture grecque dans le bassin méditerranéen)",
+      "progression": {
+        "1": "maitrise",
+        "2": null
+      },
+      "page": 11,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "HEC-UNE-018",
+      "champ": "Une première expérience de démocratie",
+      "section": null,
+      "chemin": [
+        "3. Rapports entre le citoyen et la société démocratique aujourd’hui"
+      ],
+      "texte": "a. Énumérer des droits et des responsabilités du citoyen (ex. : voter, être membre d’un jury, participer à des débats publics)",
+      "progression": {
+        "1": "maitrise",
+        "2": null
+      },
+      "page": 11,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "HEC-UNE-019",
+      "champ": "Une première expérience de démocratie",
+      "section": null,
+      "chemin": [
+        "3. Rapports entre le citoyen et la société démocratique aujourd’hui"
+      ],
+      "texte": "b. Énoncer des principes sur lesquels reposent les régimes politiques démocratiques (ex. : règle de la majorité, respect des minorités, pluralité de partis politiques)",
+      "progression": {
+        "1": "maitrise",
+        "2": null
+      },
+      "page": 11,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "HEC-UNE-020",
+      "champ": "Une première expérience de démocratie",
+      "section": null,
+      "chemin": [
+        "3. Rapports entre le citoyen et la société démocratique aujourd’hui"
+      ],
+      "texte": "c. Énoncer des mesures mises en œuvre pour permettre aux citoyens d’être témoin des débats de ceux qui les représentent dans des assemblées démocratiques (ex. : diffusion des débats à la télévision)",
+      "progression": {
+        "1": "maitrise",
+        "2": null
+      },
+      "page": 11,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "HEC-UNE-021",
+      "champ": "Une première expérience de démocratie",
+      "section": null,
+      "chemin": [
+        "3. Rapports entre le citoyen et la société démocratique aujourd’hui"
+      ],
+      "texte": "d. Indiquer des facteurs qui favorisent une participation éclairée au débat public (ex. : accès à l’information)",
+      "progression": {
+        "1": "maitrise",
+        "2": null
+      },
+      "page": 11,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "HEC-LAR-001",
+      "champ": "La romanisation",
+      "section": null,
+      "chemin": [
+        "1. Influence d’un empire aujourd’hui"
+      ],
+      "texte": "a. Énoncer des moyens qui permettent à un État d’exercer une influence sur d’autres États (ex. : représentation diplomatique, force militaire)",
+      "progression": {
+        "1": "maitrise",
+        "2": null
+      },
+      "page": 12,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "HEC-LAR-002",
+      "champ": "La romanisation",
+      "section": null,
+      "chemin": [
+        "1. Influence d’un empire aujourd’hui"
+      ],
+      "texte": "b. Énumérer des domaines où une influence étrangère se manifeste (ex. : alimentation, habillement, arts, communication)",
+      "progression": {
+        "1": "maitrise",
+        "2": null
+      },
+      "page": 12,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "HEC-LAR-003",
+      "champ": "La romanisation",
+      "section": null,
+      "chemin": [
+        "1. Influence d’un empire aujourd’hui"
+      ],
+      "texte": "c. Indiquer des actions entreprises par des États impérialistes (ex. : prise de contrôle d’un territoire étranger; appropriation de ressources)",
+      "progression": {
+        "1": "maitrise",
+        "2": null
+      },
+      "page": 12,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "HEC-LAR-004",
+      "champ": "La romanisation",
+      "section": null,
+      "chemin": [
+        "2. Rôle de l’État dans la romanisation de l’Empire",
+        "2.1. Situation dans l’espace et dans le temps"
+      ],
+      "texte": "a. Situer, sur une carte, Rome et le territoire de l’Empire au 2e siècle",
+      "progression": {
+        "1": "maitrise",
+        "2": null
+      },
+      "page": 12,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "HEC-LAR-005",
+      "champ": "La romanisation",
+      "section": null,
+      "chemin": [
+        "2. Rôle de l’État dans la romanisation de l’Empire",
+        "2.1. Situation dans l’espace et dans le temps"
+      ],
+      "texte": "b. Situer, sur une ligne du temps, la période de l’Empire et des faits liés à cette période",
+      "progression": {
+        "1": "maitrise",
+        "2": null
+      },
+      "page": 12,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "HEC-LAR-006",
+      "champ": "La romanisation",
+      "section": null,
+      "chemin": [
+        "2. Rôle de l’État dans la romanisation de l’Empire"
+      ],
+      "texte": "2.2. Structure sociale",
+      "progression": {
+        "1": "maitrise",
+        "2": null
+      },
+      "page": 12,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "HEC-LAR-007",
+      "champ": "La romanisation",
+      "section": null,
+      "chemin": [
+        "2. Rôle de l’État dans la romanisation de l’Empire",
+        "2.1. Situation dans l’espace et dans le temps"
+      ],
+      "texte": "a. Indiquer des droits reconnus aux différents groupes sociaux qui forment la population de l’Empire : les citoyens ont des droits politiques; les pérégrins ont la liberté civile, mais n’ont pas de droits politiques; les esclaves n’ont ni droits ni libertés civiles",
+      "progression": {
+        "1": "maitrise",
+        "2": null
+      },
+      "page": 12,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "HEC-LAR-008",
+      "champ": "La romanisation",
+      "section": null,
+      "chemin": [
+        "2. Rôle de l’État dans la romanisation de l’Empire",
+        "2.1. Situation dans l’espace et dans le temps"
+      ],
+      "texte": "b. Décrire le statut social des femmes de citoyens (ex. : elles sont citoyennes, mais ne disposent pas des mêmes droits que les hommes, elles sont considérées comme des mineures sous la tutelle de leur père ou de leur mari)",
+      "progression": {
+        "1": "maitrise",
+        "2": null
+      },
+      "page": 12,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "HEC-LAR-009",
+      "champ": "La romanisation",
+      "section": null,
+      "chemin": [
+        "2. Rôle de l’État dans la romanisation de l’Empire",
+        "2.1. Situation dans l’espace et dans le temps"
+      ],
+      "texte": "c. Indiquer des moyens d’acquérir le statut de citoyen (ex. : achat, octroi par l’empereur, engagement de 25 ans dans l’armée)",
+      "progression": {
+        "1": "maitrise",
+        "2": null
+      },
+      "page": 12,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "HEC-LAR-010",
+      "champ": "La romanisation",
+      "section": null,
+      "chemin": [
+        "2. Rôle de l’État dans la romanisation de l’Empire",
+        "2.1. Situation dans l’espace et dans le temps"
+      ],
+      "texte": "d. Énumérer des privilèges que la citoyenneté accorde (ex. : droit de se marier à une citoyenne romaine, droit de propriété, droit à la justice)",
+      "progression": {
+        "1": "maitrise",
+        "2": null
+      },
+      "page": 12,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "HEC-LAR-011",
+      "champ": "La romanisation",
+      "section": null,
+      "chemin": [
+        "2. Rôle de l’État dans la romanisation de l’Empire"
+      ],
+      "texte": "2.3. Organisation administrative, juridique et politique",
+      "progression": {
+        "1": "maitrise",
+        "2": null
+      },
+      "page": 12,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "HEC-LAR-012",
+      "champ": "La romanisation",
+      "section": null,
+      "chemin": [
+        "2. Rôle de l’État dans la romanisation de l’Empire",
+        "2.1. Situation dans l’espace et dans le temps"
+      ],
+      "texte": "a. Nommer des territoires conquis par Rome (ex. : la Gaule, la Grèce)",
+      "progression": {
+        "1": "maitrise",
+        "2": null
+      },
+      "page": 12,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "HEC-LAR-013",
+      "champ": "La romanisation",
+      "section": null,
+      "chemin": [
+        "2. Rôle de l’État dans la romanisation de l’Empire",
+        "2.1. Situation dans l’espace et dans le temps"
+      ],
+      "texte": "b. Indiquer des domaines où s’exerce l’autorité de l’empereur (ex. : religieux, militaire, judiciaire)",
+      "progression": {
+        "1": "maitrise",
+        "2": null
+      },
+      "page": 12,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "HEC-LAR-014",
+      "champ": "La romanisation",
+      "section": null,
+      "chemin": [
+        "2. Rôle de l’État dans la romanisation de l’Empire",
+        "2.1. Situation dans l’espace et dans le temps"
+      ],
+      "texte": "c. Indiquer des fonctions des gouverneurs de province (ex. : lever les impôts, administrer les territoires)",
+      "progression": {
+        "1": "maitrise",
+        "2": null
+      },
+      "page": 12,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "HEC-LAR-015",
+      "champ": "La romanisation",
+      "section": null,
+      "chemin": [
+        "2. Rôle de l’État dans la romanisation de l’Empire",
+        "2.1. Situation dans l’espace et dans le temps"
+      ],
+      "texte": "d. Indiquer l’utilité d’infrastructures mises en place par l’administration romaine (ex. : le réseau de routes qui sert aux déplacements de l’armée et au transport des ressources; les aqueducs sont nécessaires pour alimenter les villes et les thermes)",
+      "progression": {
+        "1": "maitrise",
+        "2": null
+      },
+      "page": 12,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "HEC-LAR-016",
+      "champ": "La romanisation",
+      "section": null,
+      "chemin": [
+        "2. Rôle de l’État dans la romanisation de l’Empire",
+        "2.1. Situation dans l’espace et dans le temps"
+      ],
+      "texte": "e. Énumérer des principes du droit romain (ex. : présomption d’innocence, fardeau de la preuve incombant au plaignant, jugement appuyé sur des preuves)",
+      "progression": {
+        "1": "maitrise",
+        "2": null
+      },
+      "page": 12,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "HEC-LAR-017",
+      "champ": "La romanisation",
+      "section": null,
+      "chemin": [
+        "2. Rôle de l’État dans la romanisation de l’Empire",
+        "2.1. Situation dans l’espace et dans le temps"
+      ],
+      "texte": "f. Indiquer des causes de la chute de l’Empire (ex. : difficultés économiques, division de l’Empire, faiblesse militaire)",
+      "progression": {
+        "1": "maitrise",
+        "2": null
+      },
+      "page": 12,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "HEC-LAR-018",
+      "champ": "La romanisation",
+      "section": null,
+      "chemin": [
+        "2. Rôle de l’État dans la romanisation de l’Empire",
+        "2.4. Culture"
+      ],
+      "texte": "a. Indiquer l’influence de la langue latine dans l’Empire (ex. : les peuples conquis intègrent des éléments de la langue latine qui est la langue de l'État)",
+      "progression": {
+        "1": "maitrise",
+        "2": null
+      },
+      "page": 13,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "HEC-LAR-019",
+      "champ": "La romanisation",
+      "section": null,
+      "chemin": [
+        "2. Rôle de l’État dans la romanisation de l’Empire",
+        "2.4. Culture"
+      ],
+      "texte": "b. Énumérer des éléments de l’architecture romaine présents dans les villes des provinces conquises (ex. : arcs de triomphe, arènes, temples, théâtres, aqueducs)",
+      "progression": {
+        "1": "maitrise",
+        "2": null
+      },
+      "page": 13,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "HEC-LAR-020",
+      "champ": "La romanisation",
+      "section": null,
+      "chemin": [
+        "2. Rôle de l’État dans la romanisation de l’Empire",
+        "2.4. Culture"
+      ],
+      "texte": "c. Indiquer l’influence de peuples conquis sur la culture romaine (ex. : la religion romaine intègre plusieurs éléments des religions des peuples conquis; l’art et l’architecture sont influencés par la culture grecque)",
+      "progression": {
+        "1": "maitrise",
+        "2": null
+      },
+      "page": 13,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "HEC-LAR-021",
+      "champ": "La romanisation",
+      "section": null,
+      "chemin": [
+        "3. Rapports entre le citoyen et les institutions publiques aujourd’hui"
+      ],
+      "texte": "a. Indiquer des catégories de droits que confère le statut de citoyen dans la société (ex. : droits politiques, droits juridiques)",
+      "progression": {
+        "1": "maitrise",
+        "2": null
+      },
+      "page": 13,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "HEC-LAR-022",
+      "champ": "La romanisation",
+      "section": null,
+      "chemin": [
+        "3. Rapports entre le citoyen et les institutions publiques aujourd’hui"
+      ],
+      "texte": "b. Indiquer des critères d’obtention de la citoyenneté canadienne (ex. : âge, statut de résident, temps vécu au Canada, connaissance d’une langue officielle)",
+      "progression": {
+        "1": "maitrise",
+        "2": null
+      },
+      "page": 13,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "HEC-LAR-023",
+      "champ": "La romanisation",
+      "section": null,
+      "chemin": [
+        "3. Rapports entre le citoyen et les institutions publiques aujourd’hui"
+      ],
+      "texte": "c. Nommer des institutions publiques (ex. : bibliothèques, écoles, hôpitaux, musées)",
+      "progression": {
+        "1": "maitrise",
+        "2": null
+      },
+      "page": 13,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "HEC-LAC-001",
+      "champ": "La christianisation de l’Occident",
+      "section": null,
+      "chemin": [
+        "1. Influence de la religion dans la société aujourd’hui"
+      ],
+      "texte": "a. Indiquer différentes appartenances religieuses au Québec (ex. : chrétienne, musulmane, juive)",
+      "progression": {
+        "1": "maitrise",
+        "2": null
+      },
+      "page": 14,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "HEC-LAC-002",
+      "champ": "La christianisation de l’Occident",
+      "section": null,
+      "chemin": [
+        "1. Influence de la religion dans la société aujourd’hui"
+      ],
+      "texte": "b. Indiquer le principe relatif à la religion énoncé dans les chartes des droits : liberté de religion",
+      "progression": {
+        "1": "maitrise",
+        "2": null
+      },
+      "page": 14,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "HEC-LAC-003",
+      "champ": "La christianisation de l’Occident",
+      "section": null,
+      "chemin": [
+        "1. Influence de la religion dans la société aujourd’hui"
+      ],
+      "texte": "c. Nommer des rituels à caractère religieux qui ponctuent la vie de nombreuses personnes (ex. : fêtes, célébrations de la foi)",
+      "progression": {
+        "1": "maitrise",
+        "2": null
+      },
+      "page": 14,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "HEC-LAC-004",
+      "champ": "La christianisation de l’Occident",
+      "section": null,
+      "chemin": [
+        "2. Influence de l’Église dans la formation de l’Occident",
+        "2.1. Situation dans l’espace et dans le temps"
+      ],
+      "texte": "a. Situer, sur une carte, les principaux territoires chrétiens et musulmans vers l’an 1000",
+      "progression": {
+        "1": "maitrise",
+        "2": null
+      },
+      "page": 14,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "HEC-LAC-005",
+      "champ": "La christianisation de l’Occident",
+      "section": null,
+      "chemin": [
+        "2. Influence de l’Église dans la formation de l’Occident",
+        "2.1. Situation dans l’espace et dans le temps"
+      ],
+      "texte": "b. Situer, sur une carte, des routes de pèlerinage au Moyen Âge (ex. : vers Saint-Jacques- de-Compostelle, vers Jérusalem)",
+      "progression": {
+        "1": "maitrise",
+        "2": null
+      },
+      "page": 14,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "HEC-LAC-006",
+      "champ": "La christianisation de l’Occident",
+      "section": null,
+      "chemin": [
+        "2. Influence de l’Église dans la formation de l’Occident",
+        "2.1. Situation dans l’espace et dans le temps"
+      ],
+      "texte": "c. Situer, sur une ligne du temps, la période du Moyen Âge et des faits liés à la christianisation",
+      "progression": {
+        "1": "maitrise",
+        "2": null
+      },
+      "page": 14,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "HEC-LAC-007",
+      "champ": "La christianisation de l’Occident",
+      "section": null,
+      "chemin": [
+        "2. Influence de l’Église dans la formation de l’Occident"
+      ],
+      "texte": "2.2. Institutions de l’Église chrétienne",
+      "progression": {
+        "1": "maitrise",
+        "2": null
+      },
+      "page": 14,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "HEC-LAC-008",
+      "champ": "La christianisation de l’Occident",
+      "section": null,
+      "chemin": [
+        "2. Influence de l’Église dans la formation de l’Occident",
+        "2.1. Situation dans l’espace et dans le temps"
+      ],
+      "texte": "a. Indiquer des faits qui marquent les rapports entre l'Église chrétienne et l’Empire romain (ex. : persécution des chrétiens, conversion de Constantin, reconnaissance du christianisme comme religion officielle de l’État)",
+      "progression": {
+        "1": "maitrise",
+        "2": null
+      },
+      "page": 14,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "HEC-LAC-009",
+      "champ": "La christianisation de l’Occident",
+      "section": null,
+      "chemin": [
+        "2. Influence de l’Église dans la formation de l’Occident",
+        "2.1. Situation dans l’espace et dans le temps"
+      ],
+      "texte": "b. Indiquer des éléments de continuité entre l’Empire romain d’Occident et le début du Moyen Âge (ex. : présence du christianisme, usage de la langue latine dans l’Église)",
+      "progression": {
+        "1": "maitrise",
+        "2": null
+      },
+      "page": 14,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "HEC-LAC-010",
+      "champ": "La christianisation de l’Occident",
+      "section": null,
+      "chemin": [
+        "2. Influence de l’Église dans la formation de l’Occident",
+        "2.1. Situation dans l’espace et dans le temps"
+      ],
+      "texte": "c. Nommer des institutions qui diffusent le christianisme au Moyen Âge (ex. : papauté, ordres monastiques)",
+      "progression": {
+        "1": "maitrise",
+        "2": null
+      },
+      "page": 14,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "HEC-LAC-011",
+      "champ": "La christianisation de l’Occident",
+      "section": null,
+      "chemin": [
+        "2. Influence de l’Église dans la formation de l’Occident",
+        "2.1. Situation dans l’espace et dans le temps"
+      ],
+      "texte": "d. Indiquer des fonctions de membres de l’Église chrétienne d’Occident au Moyen Âge (ex. : le pape dirige l’Église catholique; les évêques dirigent les diocèses; les prêtres administrent les paroisses)",
+      "progression": {
+        "1": "maitrise",
+        "2": null
+      },
+      "page": 14,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "HEC-LAC-012",
+      "champ": "La christianisation de l’Occident",
+      "section": null,
+      "chemin": [
+        "2. Influence de l’Église dans la formation de l’Occident"
+      ],
+      "texte": "2.3. Organisation sociale, politique et économique",
+      "progression": {
+        "1": "maitrise",
+        "2": null
+      },
+      "page": 14,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "HEC-LAC-013",
+      "champ": "La christianisation de l’Occident",
+      "section": null,
+      "chemin": [
+        "2. Influence de l’Église dans la formation de l’Occident",
+        "2.1. Situation dans l’espace et dans le temps"
+      ],
+      "texte": "a. Indiquer le rapport de dépendance qui lie les individus dans la société féodale (ex. : en recevant un fief d’un seigneur, un individu devient son vassal et lui jure fidélité)",
+      "progression": {
+        "1": "maitrise",
+        "2": null
+      },
+      "page": 14,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "HEC-LAC-014",
+      "champ": "La christianisation de l’Occident",
+      "section": null,
+      "chemin": [
+        "2. Influence de l’Église dans la formation de l’Occident",
+        "2.1. Situation dans l’espace et dans le temps"
+      ],
+      "texte": "b. Indiquer le rôle associé à chacun des groupes sociaux : les paysans et les artisans travaillent; la noblesse combat; le clergé prie",
+      "progression": {
+        "1": "maitrise",
+        "2": null
+      },
+      "page": 14,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "HEC-LAC-015",
+      "champ": "La christianisation de l’Occident",
+      "section": null,
+      "chemin": [
+        "2. Influence de l’Église dans la formation de l’Occident",
+        "2.1. Situation dans l’espace et dans le temps"
+      ],
+      "texte": "c. Indiquer des liens qui unissent les paysans au seigneur (ex. : les paysans, en échange d’une tenure, paient des impôts et effectuent des corvées pour le seigneur)",
+      "progression": {
+        "1": "maitrise",
+        "2": null
+      },
+      "page": 14,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "HEC-LAC-016",
+      "champ": "La christianisation de l’Occident",
+      "section": null,
+      "chemin": [
+        "2. Influence de l’Église dans la formation de l’Occident",
+        "2.1. Situation dans l’espace et dans le temps"
+      ],
+      "texte": "d. Nommer des sources de revenu de l’Église et du clergé (ex. : redevances seigneuriales, dîme)",
+      "progression": {
+        "1": "maitrise",
+        "2": null
+      },
+      "page": 14,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "HEC-LAC-017",
+      "champ": "La christianisation de l’Occident",
+      "section": null,
+      "chemin": [
+        "2. Influence de l’Église dans la formation de l’Occident",
+        "2.1. Situation dans l’espace et dans le temps"
+      ],
+      "texte": "e. Indiquer des fonctions du château fort au Moyen Âge (ex. : résidence seigneuriale, protection des villageois en cas d’attaque)",
+      "progression": {
+        "1": "maitrise",
+        "2": null
+      },
+      "page": 14,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "HEC-LAC-018",
+      "champ": "La christianisation de l’Occident",
+      "section": null,
+      "chemin": [
+        "2. Influence de l’Église dans la formation de l’Occident",
+        "2.4. Culture"
+      ],
+      "texte": "a. Indiquer des fonctions des monastères au Moyen Âge (ex. : bibliothèque, lieu de prière, relais des pèlerins, résidence des ordres réguliers)",
+      "progression": {
+        "1": "maitrise",
+        "2": null
+      },
+      "page": 15,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "HEC-LAC-019",
+      "champ": "La christianisation de l’Occident",
+      "section": null,
+      "chemin": [
+        "2. Influence de l’Église dans la formation de l’Occident",
+        "2.4. Culture"
+      ],
+      "texte": "b. Indiquer des fonctions des cathédrales au Moyen Âge (ex. : lieu de prière, lieu de réunion, lieu de spectacle, université)",
+      "progression": {
+        "1": "maitrise",
+        "2": null
+      },
+      "page": 15,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "HEC-LAC-020",
+      "champ": "La christianisation de l’Occident",
+      "section": null,
+      "chemin": [
+        "2. Influence de l’Église dans la formation de l’Occident",
+        "2.4. Culture"
+      ],
+      "texte": "c. Donner des exemples d’innovations architecturales associées à la construction de cathédrales (ex. : voûte à croisée d’ogives, arc-boutant)",
+      "progression": {
+        "1": "maitrise",
+        "2": null
+      },
+      "page": 15,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "HEC-LAC-021",
+      "champ": "La christianisation de l’Occident",
+      "section": null,
+      "chemin": [
+        "2. Influence de l’Église dans la formation de l’Occident",
+        "2.4. Culture"
+      ],
+      "texte": "d. Indiquer l’objectif des Croisades appelées par la papauté : libérer Jérusalem de la présence musulmane",
+      "progression": {
+        "1": "maitrise",
+        "2": null
+      },
+      "page": 15,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "HEC-LAC-022",
+      "champ": "La christianisation de l’Occident",
+      "section": null,
+      "chemin": [
+        "2. Influence de l’Église dans la formation de l’Occident",
+        "2.4. Culture"
+      ],
+      "texte": "e. Indiquer des motivations des pèlerins qui partent vers des lieux de pèlerinage (ex. : vénérer des reliques, faire pénitence, obtenir une faveur)",
+      "progression": {
+        "1": "maitrise",
+        "2": null
+      },
+      "page": 15,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "HEC-LAC-023",
+      "champ": "La christianisation de l’Occident",
+      "section": null,
+      "chemin": [
+        "2. Influence de l’Église dans la formation de l’Occident",
+        "2.4. Culture"
+      ],
+      "texte": "f. Indiquer des conséquences des Croisades (ex. : échanges commerciaux, influences culturelles)",
+      "progression": {
+        "1": "maitrise",
+        "2": null
+      },
+      "page": 15,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "HEC-LAC-024",
+      "champ": "La christianisation de l’Occident",
+      "section": null,
+      "chemin": [
+        "2. Influence de l’Église dans la formation de l’Occident",
+        "2.4. Culture"
+      ],
+      "texte": "g. Indiquer des facteurs qui unifient les différents peuples d’Occident au Moyen Âge (ex. : la foi chrétienne, les institutions religieuses, la féodalité)",
+      "progression": {
+        "1": "maitrise",
+        "2": null
+      },
+      "page": 15,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "HEC-LAC-025",
+      "champ": "La christianisation de l’Occident",
+      "section": null,
+      "chemin": [
+        "3. Valeurs et attributs identitaires dans la société occidentale aujourd’hui"
+      ],
+      "texte": "a. Indiquer des références identitaires des sociétés (ex. : langue, culture, religion, territoire)",
+      "progression": {
+        "1": "maitrise",
+        "2": null
+      },
+      "page": 15,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "HEC-LAC-026",
+      "champ": "La christianisation de l’Occident",
+      "section": null,
+      "chemin": [
+        "3. Valeurs et attributs identitaires dans la société occidentale aujourd’hui"
+      ],
+      "texte": "b. Indiquer des éléments témoignant de la présence du fait religieux dans une société (ex. : édifices, toponymes)",
+      "progression": {
+        "1": "maitrise",
+        "2": null
+      },
+      "page": 15,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "HEC-LES-001",
+      "champ": "L’essor urbain et commercial",
+      "section": null,
+      "chemin": [
+        "1. Impacts du commerce dans une société aujourd’hui"
+      ],
+      "texte": "a. Indiquer l’utilité du commerce dans les sociétés : les individus dépendent, pour leur survie, des biens qu’ils se procurent par les échanges",
+      "progression": {
+        "1": "maitrise",
+        "2": null
+      },
+      "page": 16,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "HEC-LES-002",
+      "champ": "L’essor urbain et commercial",
+      "section": null,
+      "chemin": [
+        "1. Impacts du commerce dans une société aujourd’hui"
+      ],
+      "texte": "b. Indiquer des impacts du commerce sur l’urbanisation (ex. : zonage des quartiers, concentration de services, étalement sur les terres agricoles, aménagement des réseaux routiers)",
+      "progression": {
+        "1": "maitrise",
+        "2": null
+      },
+      "page": 16,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "HEC-LES-003",
+      "champ": "L’essor urbain et commercial",
+      "section": null,
+      "chemin": [
+        "1. Impacts du commerce dans une société aujourd’hui"
+      ],
+      "texte": "c. Nommer des biens de consommation importés (ex. : produits alimentaires, biens électroniques, vêtements)",
+      "progression": {
+        "1": "maitrise",
+        "2": null
+      },
+      "page": 16,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "HEC-LES-004",
+      "champ": "L’essor urbain et commercial",
+      "section": null,
+      "chemin": [
+        "1. Impacts du commerce dans une société aujourd’hui"
+      ],
+      "texte": "d. Nommer des contraintes à l’importation (ex. : tarifs douaniers, quotas)",
+      "progression": {
+        "1": "maitrise",
+        "2": null
+      },
+      "page": 16,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "HEC-LES-005",
+      "champ": "L’essor urbain et commercial",
+      "section": null,
+      "chemin": [
+        "2. Essor urbain et commercial et montée de la bourgeoisie marchande au Moyen Âge",
+        "2.1. Situation dans l’espace et dans le temps"
+      ],
+      "texte": "a. Situer, sur une carte, des villes et de grandes routes commerciales à la fin du Moyen Âge",
+      "progression": {
+        "1": "maitrise",
+        "2": null
+      },
+      "page": 16,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "HEC-LES-006",
+      "champ": "L’essor urbain et commercial",
+      "section": null,
+      "chemin": [
+        "2. Essor urbain et commercial et montée de la bourgeoisie marchande au Moyen Âge",
+        "2.1. Situation dans l’espace et dans le temps"
+      ],
+      "texte": "b. Situer, sur une ligne du temps, des faits relatifs au commerce et à l’urbanisation au Moyen Âge",
+      "progression": {
+        "1": "maitrise",
+        "2": null
+      },
+      "page": 16,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "HEC-LES-007",
+      "champ": "L’essor urbain et commercial",
+      "section": null,
+      "chemin": [
+        "2. Essor urbain et commercial et montée de la bourgeoisie marchande au Moyen Âge"
+      ],
+      "texte": "2.2. Organisation de la ville et du commerce",
+      "progression": {
+        "1": "maitrise",
+        "2": null
+      },
+      "page": 16,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "HEC-LES-008",
+      "champ": "L’essor urbain et commercial",
+      "section": null,
+      "chemin": [
+        "2. Essor urbain et commercial et montée de la bourgeoisie marchande au Moyen Âge",
+        "2.1. Situation dans l’espace et dans le temps"
+      ],
+      "texte": "a. Décrire l’organisation d’une ville médiévale (ex. : un château entouré de remparts, des quartiers d’habitation et commerciaux appelés bourgs où les activités artisanales et marchandes se concentrent)",
+      "progression": {
+        "1": "maitrise",
+        "2": null
+      },
+      "page": 16,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "HEC-LES-009",
+      "champ": "L’essor urbain et commercial",
+      "section": null,
+      "chemin": [
+        "2. Essor urbain et commercial et montée de la bourgeoisie marchande au Moyen Âge",
+        "2.1. Situation dans l’espace et dans le temps"
+      ],
+      "texte": "b. Nommer l’institution responsable de l’administration de la ville : la commune",
+      "progression": {
+        "1": "maitrise",
+        "2": null
+      },
+      "page": 16,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "HEC-LES-010",
+      "champ": "L’essor urbain et commercial",
+      "section": null,
+      "chemin": [
+        "2. Essor urbain et commercial et montée de la bourgeoisie marchande au Moyen Âge",
+        "2.1. Situation dans l’espace et dans le temps"
+      ],
+      "texte": "c. Décrire l’organisation du commerce artisanal local (ex. : les artisans fabriquent et vendent eux-mêmes les biens nécessaires aux habitants de la ville)",
+      "progression": {
+        "1": "maitrise",
+        "2": null
+      },
+      "page": 16,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "HEC-LES-011",
+      "champ": "L’essor urbain et commercial",
+      "section": null,
+      "chemin": [
+        "2. Essor urbain et commercial et montée de la bourgeoisie marchande au Moyen Âge",
+        "2.1. Situation dans l’espace et dans le temps"
+      ],
+      "texte": "d. Indiquer la fonction des corporations (ex. : réglementer l’entrée dans les métiers, protéger ses membres)",
+      "progression": {
+        "1": "maitrise",
+        "2": null
+      },
+      "page": 16,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "HEC-LES-012",
+      "champ": "L’essor urbain et commercial",
+      "section": null,
+      "chemin": [
+        "2. Essor urbain et commercial et montée de la bourgeoisie marchande au Moyen Âge",
+        "2.1. Situation dans l’espace et dans le temps"
+      ],
+      "texte": "e. Nommer quelques corporations d’artisans du Moyen Âge (ex. : bouchers, maçons, orfèvres, tisserands)",
+      "progression": {
+        "1": "maitrise",
+        "2": null
+      },
+      "page": 16,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "HEC-LES-013",
+      "champ": "L’essor urbain et commercial",
+      "section": null,
+      "chemin": [
+        "2. Essor urbain et commercial et montée de la bourgeoisie marchande au Moyen Âge",
+        "2.1. Situation dans l’espace et dans le temps"
+      ],
+      "texte": "f. Indiquer des facteurs qui favorisent le développement du Grand commerce au Moyen Âge (ex. : augmentation de la productivité agricole, roue ferrée, Croisades, lettre de change)",
+      "progression": {
+        "1": "maitrise",
+        "2": null
+      },
+      "page": 16,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "HEC-LES-014",
+      "champ": "L’essor urbain et commercial",
+      "section": null,
+      "chemin": [
+        "2. Essor urbain et commercial et montée de la bourgeoisie marchande au Moyen Âge",
+        "2.1. Situation dans l’espace et dans le temps"
+      ],
+      "texte": "g. Nommer des institutions qui règlementent le Grand commerce (ex. : hanses de villes marchandes, guildes)",
+      "progression": {
+        "1": "maitrise",
+        "2": null
+      },
+      "page": 16,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "HEC-LES-015",
+      "champ": "L’essor urbain et commercial",
+      "section": null,
+      "chemin": [
+        "2. Essor urbain et commercial et montée de la bourgeoisie marchande au Moyen Âge",
+        "2.1. Situation dans l’espace et dans le temps"
+      ],
+      "texte": "h. Nommer des produits échangés dans le Grand commerce (ex. : draperie, épices, métaux)",
+      "progression": {
+        "1": "maitrise",
+        "2": null
+      },
+      "page": 16,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "HEC-LES-016",
+      "champ": "L’essor urbain et commercial",
+      "section": null,
+      "chemin": [
+        "2. Essor urbain et commercial et montée de la bourgeoisie marchande au Moyen Âge",
+        "2.1. Situation dans l’espace et dans le temps"
+      ],
+      "texte": "i. Indiquer la fonction des foires au Moyen Âge : lieu d’échange pour le Grand commerce européen",
+      "progression": {
+        "1": "maitrise",
+        "2": null
+      },
+      "page": 16,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "HEC-LES-017",
+      "champ": "L’essor urbain et commercial",
+      "section": null,
+      "chemin": [
+        "2. Essor urbain et commercial et montée de la bourgeoisie marchande au Moyen Âge"
+      ],
+      "texte": "2.3. Groupes sociaux",
+      "progression": {
+        "1": "maitrise",
+        "2": null
+      },
+      "page": 16,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "HEC-LES-018",
+      "champ": "L’essor urbain et commercial",
+      "section": null,
+      "chemin": [
+        "2. Essor urbain et commercial et montée de la bourgeoisie marchande au Moyen Âge",
+        "2.1. Situation dans l’espace et dans le temps"
+      ],
+      "texte": "a. Nommer les activités associées au développement des villes : artisanat, commerce",
+      "progression": {
+        "1": "maitrise",
+        "2": null
+      },
+      "page": 16,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "HEC-LES-019",
+      "champ": "L’essor urbain et commercial",
+      "section": null,
+      "chemin": [
+        "2. Essor urbain et commercial et montée de la bourgeoisie marchande au Moyen Âge",
+        "2.1. Situation dans l’espace et dans le temps"
+      ],
+      "texte": "b. Indiquer des privilèges accordés à la bourgeoisie dans le système féodal (ex. : exemption de certaines obligations féodales par des chartes, possibilité de former des communes)",
+      "progression": {
+        "1": "maitrise",
+        "2": null
+      },
+      "page": 17,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "HEC-LES-020",
+      "champ": "L’essor urbain et commercial",
+      "section": null,
+      "chemin": [
+        "2. Essor urbain et commercial et montée de la bourgeoisie marchande au Moyen Âge",
+        "2.1. Situation dans l’espace et dans le temps"
+      ],
+      "texte": "c. Expliquer la source de l’enrichissement de la bourgeoisie marchande (ex. : la bourgeoisie tire profit de l’achat et de la vente de produits, ce qui lui permet d’accumuler du capital)",
+      "progression": {
+        "1": "maitrise",
+        "2": null
+      },
+      "page": 17,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "HEC-LES-021",
+      "champ": "L’essor urbain et commercial",
+      "section": null,
+      "chemin": [
+        "3. Rapports entre les institutions et les groupes sociaux aujourd’hui"
+      ],
+      "texte": "a. Nommer des associations chargées de défendre des intérêts collectifs (ex. : syndicats, corporations professionnelles, associations patronales)",
+      "progression": {
+        "1": "maitrise",
+        "2": null
+      },
+      "page": 17,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "HEC-LES-022",
+      "champ": "L’essor urbain et commercial",
+      "section": null,
+      "chemin": [
+        "3. Rapports entre les institutions et les groupes sociaux aujourd’hui"
+      ],
+      "texte": "b. Indiquer des domaines d’administration publique relevant de chacun des trois paliers de gouvernement (ex. : les aqueducs et les égouts au municipal, l’éducation au provincial, la monnaie au fédéral)",
+      "progression": {
+        "1": "maitrise",
+        "2": null
+      },
+      "page": 17,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "HEC-LES-023",
+      "champ": "L’essor urbain et commercial",
+      "section": null,
+      "chemin": [
+        "3. Rapports entre les institutions et les groupes sociaux aujourd’hui"
+      ],
+      "texte": "c. Indiquer des enjeux qui peuvent être l’objet de débat entre les citoyens et les institutions publiques (ex. : normes du travail, logement social, impôt sur le revenu, taxation des produits et services)",
+      "progression": {
+        "1": "maitrise",
+        "2": null
+      },
+      "page": 17,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "HEC-LES-024",
+      "champ": "L’essor urbain et commercial",
+      "section": null,
+      "chemin": [
+        "3. Rapports entre les institutions et les groupes sociaux aujourd’hui"
+      ],
+      "texte": "d. Indiquer des moyens d’expression de groupes sociaux (ex. : présentation de mémoires en commission parlementaire, pétitions, lettres d’opinion dans les journaux)",
+      "progression": {
+        "1": "maitrise",
+        "2": null
+      },
+      "page": 17,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "HEC-LES-025",
+      "champ": "L’essor urbain et commercial",
+      "section": null,
+      "chemin": [
+        "3. Rapports entre les institutions et les groupes sociaux aujourd’hui"
+      ],
+      "texte": "e. Nommer des organismes publics chargés de surveiller l’application des lois (ex. : le Protecteur du citoyen, l’Office de la protection du consommateur, l’Office des personnes handicapées)",
+      "progression": {
+        "1": "maitrise",
+        "2": null
+      },
+      "page": 17,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "HEC-LER-001",
+      "champ": "Le renouvellement de la vision de l’homme",
+      "section": null,
+      "chemin": [
+        "1. Conception de l’homme dans la société et de sa place dans l’Univers aujourd’hui"
+      ],
+      "texte": "a. Indiquer différentes conceptions de l’homme en société (ex. : l’écologisme présente l’homme comme un élément parmi d’autres d’un équilibre naturel; le libéralisme conçoit les hommes comme des individus en compétition pour leur intérêt personnel)",
+      "progression": {
+        "1": null,
+        "2": "maitrise"
+      },
+      "page": 18,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "HEC-LER-002",
+      "champ": "Le renouvellement de la vision de l’homme",
+      "section": null,
+      "chemin": [
+        "1. Conception de l’homme dans la société et de sa place dans l’Univers aujourd’hui"
+      ],
+      "texte": "b. Nommer des théories scientifiques qui influencent la conception que l’on peut avoir de la place de l’homme dans l’Univers (ex. : théorie de l’évolution, théorie de la relativité)",
+      "progression": {
+        "1": null,
+        "2": "maitrise"
+      },
+      "page": 18,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "HEC-LER-003",
+      "champ": "Le renouvellement de la vision de l’homme",
+      "section": null,
+      "chemin": [
+        "2. Renouvellement de la vision de l’homme et contribution des idées humanistes à l’édification de la culture occidentale",
+        "2.1. Situation dans l’espace et dans le temps"
+      ],
+      "texte": "a. Situer, sur une carte, les grands États européens et quelques grandes villes de la Renaissance",
+      "progression": {
+        "1": null,
+        "2": "maitrise"
+      },
+      "page": 18,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "HEC-LER-004",
+      "champ": "Le renouvellement de la vision de l’homme",
+      "section": null,
+      "chemin": [
+        "2. Renouvellement de la vision de l’homme et contribution des idées humanistes à l’édification de la culture occidentale",
+        "2.1. Situation dans l’espace et dans le temps"
+      ],
+      "texte": "b. Situer, sur une carte, les territoires où s’imposent les différentes Églises réformées",
+      "progression": {
+        "1": null,
+        "2": "maitrise"
+      },
+      "page": 18,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "HEC-LER-005",
+      "champ": "Le renouvellement de la vision de l’homme",
+      "section": null,
+      "chemin": [
+        "2. Renouvellement de la vision de l’homme et contribution des idées humanistes à l’édification de la culture occidentale",
+        "2.1. Situation dans l’espace et dans le temps"
+      ],
+      "texte": "c. Situer, sur une ligne du temps, la Renaissance et des faits liés à cette période",
+      "progression": {
+        "1": null,
+        "2": "maitrise"
+      },
+      "page": 18,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "HEC-LER-006",
+      "champ": "Le renouvellement de la vision de l’homme",
+      "section": null,
+      "chemin": [
+        "2. Renouvellement de la vision de l’homme et contribution des idées humanistes à l’édification de la culture occidentale"
+      ],
+      "texte": "2.2. Impacts de l’humanisme",
+      "progression": {
+        "1": null,
+        "2": "maitrise"
+      },
+      "page": 18,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "HEC-LER-007",
+      "champ": "Le renouvellement de la vision de l’homme",
+      "section": null,
+      "chemin": [
+        "2. Renouvellement de la vision de l’homme et contribution des idées humanistes à l’édification de la culture occidentale",
+        "2.1. Situation dans l’espace et dans le temps"
+      ],
+      "texte": "a. Énoncer la conception de l’homme dans la pensée chrétienne médiévale (ex. : Dieu a créé l’Homme, il est au centre de l’Univers)",
+      "progression": {
+        "1": null,
+        "2": "maitrise"
+      },
+      "page": 18,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "HEC-LER-008",
+      "champ": "Le renouvellement de la vision de l’homme",
+      "section": null,
+      "chemin": [
+        "2. Renouvellement de la vision de l’homme et contribution des idées humanistes à l’édification de la culture occidentale",
+        "2.1. Situation dans l’espace et dans le temps"
+      ],
+      "texte": "b. Indiquer des sources du renouvellement de la pensée et des arts aux 15e et 16e siècles (ex. : textes et œuvres de l’Antiquité)",
+      "progression": {
+        "1": null,
+        "2": "maitrise"
+      },
+      "page": 18,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "HEC-LER-009",
+      "champ": "Le renouvellement de la vision de l’homme",
+      "section": null,
+      "chemin": [
+        "2. Renouvellement de la vision de l’homme et contribution des idées humanistes à l’édification de la culture occidentale",
+        "2.1. Situation dans l’espace et dans le temps"
+      ],
+      "texte": "c. Nommer quelques grands penseurs humanistes de la Renaissance (ex. : Érasme, Léonard de Vinci, Montaigne)",
+      "progression": {
+        "1": null,
+        "2": "maitrise"
+      },
+      "page": 18,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "HEC-LER-010",
+      "champ": "Le renouvellement de la vision de l’homme",
+      "section": null,
+      "chemin": [
+        "2. Renouvellement de la vision de l’homme et contribution des idées humanistes à l’édification de la culture occidentale",
+        "2.1. Situation dans l’espace et dans le temps"
+      ],
+      "texte": "d. Indiquer des éléments qui permettent d’expliquer le monde et l’Univers dans la pensée humaniste (ex. : la raison, l’observation, l’expérimentation)",
+      "progression": {
+        "1": null,
+        "2": "maitrise"
+      },
+      "page": 18,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "HEC-LER-011",
+      "champ": "Le renouvellement de la vision de l’homme",
+      "section": null,
+      "chemin": [
+        "2. Renouvellement de la vision de l’homme et contribution des idées humanistes à l’édification de la culture occidentale",
+        "2.1. Situation dans l’espace et dans le temps"
+      ],
+      "texte": "e. Indiquer des innovations caractéristiques de l’art de la Renaissance (ex. : réalisme par l’utilisation de la technique de la perspective)",
+      "progression": {
+        "1": null,
+        "2": "maitrise"
+      },
+      "page": 18,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "HEC-LER-012",
+      "champ": "Le renouvellement de la vision de l’homme",
+      "section": null,
+      "chemin": [
+        "2. Renouvellement de la vision de l’homme et contribution des idées humanistes à l’édification de la culture occidentale",
+        "2.1. Situation dans l’espace et dans le temps"
+      ],
+      "texte": "f. Indiquer des sujets souvent représentés par des peintres et des sculpteurs de la Renaissance (ex. : l’Homme, la nature)",
+      "progression": {
+        "1": null,
+        "2": "maitrise"
+      },
+      "page": 18,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "HEC-LER-013",
+      "champ": "Le renouvellement de la vision de l’homme",
+      "section": null,
+      "chemin": [
+        "2. Renouvellement de la vision de l’homme et contribution des idées humanistes à l’édification de la culture occidentale",
+        "2.1. Situation dans l’espace et dans le temps"
+      ],
+      "texte": "g. Indiquer des éléments caractéristiques de l’architecture de la Renaissance (ex. : construction de dômes, frontons triangulaires, reprise de composantes de l’architecture de l’Antiquité)",
+      "progression": {
+        "1": null,
+        "2": "maitrise"
+      },
+      "page": 18,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "HEC-LER-014",
+      "champ": "Le renouvellement de la vision de l’homme",
+      "section": null,
+      "chemin": [
+        "2. Renouvellement de la vision de l’homme et contribution des idées humanistes à l’édification de la culture occidentale",
+        "2.1. Situation dans l’espace et dans le temps"
+      ],
+      "texte": "h. Indiquer des conséquences des nouvelles théories scientifiques dans certains domaines du savoir à la Renaissance (ex. : le modèle astronomique géocentrique est remplacé par le modèle héliocentrique; en médecine, les dissections sur des cadavres permettent de comprendre le fonctionnement du corps)",
+      "progression": {
+        "1": null,
+        "2": "maitrise"
+      },
+      "page": 18,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "HEC-LER-015",
+      "champ": "Le renouvellement de la vision de l’homme",
+      "section": null,
+      "chemin": [
+        "2. Renouvellement de la vision de l’homme et contribution des idées humanistes à l’édification de la culture occidentale",
+        "2.1. Situation dans l’espace et dans le temps"
+      ],
+      "texte": "i. Expliquer la réaction de l’Église face aux nouvelles théories astronomiques (ex. : la réaction est généralement négative parce que l’héliocentrisme semble banaliser la place de l’Homme dans l’Univers; l’Homme n’est plus au centre de la création divine)",
+      "progression": {
+        "1": null,
+        "2": "maitrise"
+      },
+      "page": 18,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "HEC-LER-016",
+      "champ": "Le renouvellement de la vision de l’homme",
+      "section": null,
+      "chemin": [
+        "2. Renouvellement de la vision de l’homme et contribution des idées humanistes à l’édification de la culture occidentale",
+        "2.1. Situation dans l’espace et dans le temps"
+      ],
+      "texte": "j. Indiquer des conséquences de l’invention de l’imprimerie (ex. : réduction du coût des livres, plus grande diffusion des savoirs et des idées humanistes, diffusion de la bible en différentes langues)",
+      "progression": {
+        "1": null,
+        "2": "maitrise"
+      },
+      "page": 18,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "HEC-LER-017",
+      "champ": "Le renouvellement de la vision de l’homme",
+      "section": null,
+      "chemin": [
+        "2. Renouvellement de la vision de l’homme et contribution des idées humanistes à l’édification de la culture occidentale",
+        "2.3. Réforme et Contre-Réforme"
+      ],
+      "texte": "a. Indiquer des facteurs à l’origine de la contestation de l’autorité du pape et de l’Église catholique à la Renaissance (ex. : vente d’indulgences, refus par le pape de dissoudre le mariage du roi d’Angleterre, Henri VIII)",
+      "progression": {
+        "1": null,
+        "2": "maitrise"
+      },
+      "page": 19,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "HEC-LER-018",
+      "champ": "Le renouvellement de la vision de l’homme",
+      "section": null,
+      "chemin": [
+        "2. Renouvellement de la vision de l’homme et contribution des idées humanistes à l’édification de la culture occidentale",
+        "2.3. Réforme et Contre-Réforme"
+      ],
+      "texte": "b. Nommer les Églises réformées : anglicane, calviniste, luthérienne",
+      "progression": {
+        "1": null,
+        "2": "maitrise"
+      },
+      "page": 19,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "HEC-LER-019",
+      "champ": "Le renouvellement de la vision de l’homme",
+      "section": null,
+      "chemin": [
+        "2. Renouvellement de la vision de l’homme et contribution des idées humanistes à l’édification de la culture occidentale",
+        "2.3. Réforme et Contre-Réforme"
+      ],
+      "texte": "c. Indiquer des actions de l’Église catholique pour lutter contre la Réforme (ex. : réouverture du tribunal de l’Inquisition, fondation de la Compagnie de Jésus)",
+      "progression": {
+        "1": null,
+        "2": "maitrise"
+      },
+      "page": 19,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "HEC-LER-020",
+      "champ": "Le renouvellement de la vision de l’homme",
+      "section": null,
+      "chemin": [
+        "2. Renouvellement de la vision de l’homme et contribution des idées humanistes à l’édification de la culture occidentale",
+        "2.3. Réforme et Contre-Réforme"
+      ],
+      "texte": "d. Énumérer des caractéristiques communes aux différentes Églises réformées (ex. : contestation de l’autorité du pape, importance de la lecture des évangiles par le croyant)",
+      "progression": {
+        "1": null,
+        "2": "maitrise"
+      },
+      "page": 19,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "HEC-LER-021",
+      "champ": "Le renouvellement de la vision de l’homme",
+      "section": null,
+      "chemin": [
+        "3. Valeurs humanistes dans la société occidentale aujourd’hui"
+      ],
+      "texte": "a. Indiquer des éléments de continuité entre la Renaissance et aujourd’hui sur la base de la pensée humaniste (ex. : la société accorde de la valeur à la pensée scientifique et à l’esprit critique; la société accorde de l’importance à la responsabilité individuelle et collective)",
+      "progression": {
+        "1": null,
+        "2": "maitrise"
+      },
+      "page": 19,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "HEC-LER-022",
+      "champ": "Le renouvellement de la vision de l’homme",
+      "section": null,
+      "chemin": [
+        "3. Valeurs humanistes dans la société occidentale aujourd’hui"
+      ],
+      "texte": "b. Indiquer des valeurs de quelques organisations humanitaires (ex. : la Croix-Rouge fait la promotion de la tolérance; Médecins Sans Frontières, au nom du droit à l'assistance humanitaire, offre du secours aux populations en détresse et aux victimes de catastrophes d'origine naturelle ou humaine)",
+      "progression": {
+        "1": null,
+        "2": "maitrise"
+      },
+      "page": 19,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "HEC-LER-023",
+      "champ": "Le renouvellement de la vision de l’homme",
+      "section": null,
+      "chemin": [
+        "3. Valeurs humanistes dans la société occidentale aujourd’hui"
+      ],
+      "texte": "c. Énoncer quelques principes liés aux Conventions de Genève (ex. : protéger les populations civiles contre les conflits armés; interdire les méthodes militaires qui ne font pas la distinction entre les combattants et les civils et qui causent des dommages graves et durables à l'environnement)",
+      "progression": {
+        "1": null,
+        "2": "maitrise"
+      },
+      "page": 19,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "HEC-LEX-001",
+      "champ": "L’expansion européenne dans le monde",
+      "section": null,
+      "chemin": [
+        "1. Colonialisme commercial aujourd’hui"
+      ],
+      "texte": "a. Nommer les principales puissances économiques (ex. : États-Unis, Chine, Japon, Union européenne, Inde, Brésil)",
+      "progression": {
+        "1": null,
+        "2": "maitrise"
+      },
+      "page": 20,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "HEC-LEX-002",
+      "champ": "L’expansion européenne dans le monde",
+      "section": null,
+      "chemin": [
+        "1. Colonialisme commercial aujourd’hui"
+      ],
+      "texte": "b. Indiquer certains effets de l’économie mondialisée (ex. : consommation de produits qui proviennent de nombreux pays, délocalisation d’entreprises)",
+      "progression": {
+        "1": null,
+        "2": "maitrise"
+      },
+      "page": 20,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "HEC-LEX-003",
+      "champ": "L’expansion européenne dans le monde",
+      "section": null,
+      "chemin": [
+        "2. Expansion européenne dans le monde et effets d’une première économie-monde sur les sociétés d’Amérique",
+        "2.1. Situation dans l’espace et dans le temps"
+      ],
+      "texte": "a. Situer, sur une carte, de grandes routes d’explorations européennes",
+      "progression": {
+        "1": null,
+        "2": "maitrise"
+      },
+      "page": 20,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "HEC-LEX-004",
+      "champ": "L’expansion européenne dans le monde",
+      "section": null,
+      "chemin": [
+        "2. Expansion européenne dans le monde et effets d’une première économie-monde sur les sociétés d’Amérique",
+        "2.1. Situation dans l’espace et dans le temps"
+      ],
+      "texte": "b. Situer, sur une carte, des empires coloniaux",
+      "progression": {
+        "1": null,
+        "2": "maitrise"
+      },
+      "page": 20,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "HEC-LEX-005",
+      "champ": "L’expansion européenne dans le monde",
+      "section": null,
+      "chemin": [
+        "2. Expansion européenne dans le monde et effets d’une première économie-monde sur les sociétés d’Amérique",
+        "2.1. Situation dans l’espace et dans le temps"
+      ],
+      "texte": "c. Situer, sur une ligne du temps, les grandes explorations européennes",
+      "progression": {
+        "1": null,
+        "2": "maitrise"
+      },
+      "page": 20,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "HEC-LEX-006",
+      "champ": "L’expansion européenne dans le monde",
+      "section": null,
+      "chemin": [
+        "2. Expansion européenne dans le monde et effets d’une première économie-monde sur les sociétés d’Amérique"
+      ],
+      "texte": "2.2. Grandes explorations",
+      "progression": {
+        "1": null,
+        "2": "maitrise"
+      },
+      "page": 20,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "HEC-LEX-007",
+      "champ": "L’expansion européenne dans le monde",
+      "section": null,
+      "chemin": [
+        "2. Expansion européenne dans le monde et effets d’une première économie-monde sur les sociétés d’Amérique",
+        "2.1. Situation dans l’espace et dans le temps"
+      ],
+      "texte": "a. Nommer les territoires connus des Européens à la fin du 14e siècle : nord de l’Afrique, Proche- Orient et Europe",
+      "progression": {
+        "1": null,
+        "2": "maitrise"
+      },
+      "page": 20,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "HEC-LEX-008",
+      "champ": "L’expansion européenne dans le monde",
+      "section": null,
+      "chemin": [
+        "2. Expansion européenne dans le monde et effets d’une première économie-monde sur les sociétés d’Amérique",
+        "2.1. Situation dans l’espace et dans le temps"
+      ],
+      "texte": "b. Indiquer des motivations des Européens à entreprendre de grandes explorations à la Renaissance (ex. : recherche de nouvelles routes commerciales pour contourner Constantinople; recherche d’épices, de produits exotiques et de métaux précieux)",
+      "progression": {
+        "1": null,
+        "2": "maitrise"
+      },
+      "page": 20,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "HEC-LEX-009",
+      "champ": "L’expansion européenne dans le monde",
+      "section": null,
+      "chemin": [
+        "2. Expansion européenne dans le monde et effets d’une première économie-monde sur les sociétés d’Amérique",
+        "2.1. Situation dans l’espace et dans le temps"
+      ],
+      "texte": "c. Indiquer l’utilité de certains instruments de navigation utilisés par les Européens (ex. : la boussole permet de s’orienter sans repères visuels; l’astrolabe permet de calculer la latitude)",
+      "progression": {
+        "1": null,
+        "2": "maitrise"
+      },
+      "page": 20,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "HEC-LEX-010",
+      "champ": "L’expansion européenne dans le monde",
+      "section": null,
+      "chemin": [
+        "2. Expansion européenne dans le monde et effets d’une première économie-monde sur les sociétés d’Amérique",
+        "2.1. Situation dans l’espace et dans le temps"
+      ],
+      "texte": "d. Indiquer une conséquence du Traité de Tordesillas signé entre les Espagnols et les Portugais au 15e siècle (ex. : la ligne de partage des territoires convenue concède l’exploitation de l’Amérique aux Espagnols, sauf le Brésil)",
+      "progression": {
+        "1": null,
+        "2": "maitrise"
+      },
+      "page": 20,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "HEC-LEX-011",
+      "champ": "L’expansion européenne dans le monde",
+      "section": null,
+      "chemin": [
+        "2. Expansion européenne dans le monde et effets d’une première économie-monde sur les sociétés d’Amérique"
+      ],
+      "texte": "2.3. Commerce colonial",
+      "progression": {
+        "1": null,
+        "2": "maitrise"
+      },
+      "page": 20,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "HEC-LEX-012",
+      "champ": "L’expansion européenne dans le monde",
+      "section": null,
+      "chemin": [
+        "2. Expansion européenne dans le monde et effets d’une première économie-monde sur les sociétés d’Amérique",
+        "2.1. Situation dans l’espace et dans le temps"
+      ],
+      "texte": "a. Nommer les pôles du commerce triangulaire que mettent en place les puissances coloniales européennes : Europe, Afrique, Amériques",
+      "progression": {
+        "1": null,
+        "2": "maitrise"
+      },
+      "page": 20,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "HEC-LEX-013",
+      "champ": "L’expansion européenne dans le monde",
+      "section": null,
+      "chemin": [
+        "2. Expansion européenne dans le monde et effets d’une première économie-monde sur les sociétés d’Amérique",
+        "2.1. Situation dans l’espace et dans le temps"
+      ],
+      "texte": "b. Indiquer les principaux objets d’échange dans le commerce triangulaire (ex. : produits manufacturés, esclaves, matières premières)",
+      "progression": {
+        "1": null,
+        "2": "maitrise"
+      },
+      "page": 20,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "HEC-LEX-014",
+      "champ": "L’expansion européenne dans le monde",
+      "section": null,
+      "chemin": [
+        "2. Expansion européenne dans le monde et effets d’une première économie-monde sur les sociétés d’Amérique",
+        "2.1. Situation dans l’espace et dans le temps"
+      ],
+      "texte": "c. Expliquer des conséquences, pour les colonies, du système commercial mis en place par les métropoles européennes (ex. : le développement économique des colonies est freiné parce que leur rôle est limité à l’exportation de ressources peu ou non transformées)",
+      "progression": {
+        "1": null,
+        "2": "maitrise"
+      },
+      "page": 20,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "HEC-LEX-015",
+      "champ": "L’expansion européenne dans le monde",
+      "section": null,
+      "chemin": [
+        "2. Expansion européenne dans le monde et effets d’une première économie-monde sur les sociétés d’Amérique",
+        "2.1. Situation dans l’espace et dans le temps"
+      ],
+      "texte": "a. Nommer des populations autochtones des Amériques au moment des premiers contacts avec les Européens (ex. : inca, aztèque, iroquoienne et algonquienne)",
+      "progression": {
+        "1": null,
+        "2": "maitrise"
+      },
+      "page": 21,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "HEC-LEX-016",
+      "champ": "L’expansion européenne dans le monde",
+      "section": null,
+      "chemin": [
+        "2. Expansion européenne dans le monde et effets d’une première économie-monde sur les sociétés d’Amérique",
+        "2.1. Situation dans l’espace et dans le temps"
+      ],
+      "texte": "b. Indiquer des ressources ou des produits importés par les Européens (ex. : or, tabac, fourrure, plantes)",
+      "progression": {
+        "1": null,
+        "2": "maitrise"
+      },
+      "page": 21,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "HEC-LEX-017",
+      "champ": "L’expansion européenne dans le monde",
+      "section": null,
+      "chemin": [
+        "2. Expansion européenne dans le monde et effets d’une première économie-monde sur les sociétés d’Amérique",
+        "2.1. Situation dans l’espace et dans le temps"
+      ],
+      "texte": "c. Décrire pour les populations autochtones, des conséquences de l’expansion européenne en Amérique (ex. : certaines nations sont exterminées par les guerres et les maladies; le mode de vie et la culture des populations autochtones sont profondément transformés)",
+      "progression": {
+        "1": null,
+        "2": "maitrise"
+      },
+      "page": 21,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "HEC-LEX-018",
+      "champ": "L’expansion européenne dans le monde",
+      "section": null,
+      "chemin": [
+        "3. Rapports économiques et culturels entre les sociétés aujourd’hui"
+      ],
+      "texte": "a. Nommer des pays non européens qui ont une langue officielle d’origine européenne (ex. : au Sénégal, le français; en Inde, l’anglais; au Brésil, le portugais)",
+      "progression": {
+        "1": null,
+        "2": "maitrise"
+      },
+      "page": 21,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "HEC-LEX-019",
+      "champ": "L’expansion européenne dans le monde",
+      "section": null,
+      "chemin": [
+        "3. Rapports économiques et culturels entre les sociétés aujourd’hui"
+      ],
+      "texte": "b. Indiquer le rôle de l’Organisation mondiale du commerce : elle s'occupe des règles qui régissent le commerce entre les pays",
+      "progression": {
+        "1": null,
+        "2": "maitrise"
+      },
+      "page": 21,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "HEC-LES-026",
+      "champ": "Les révolutions américaine ou française",
+      "section": null,
+      "chemin": [
+        "1. Affirmation de droits fondamentaux aujourd’hui"
+      ],
+      "texte": "a. Nommer des chartes liées à l’affirmation des droits (ex. : Charte canadienne des droits et libertés, Charte des droits et libertés de la personne du Québec, Déclaration universelle des droits de l’homme, Convention relative aux droits de l’enfant)",
+      "progression": {
+        "1": null,
+        "2": "maitrise"
+      },
+      "page": 22,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "HEC-LES-027",
+      "champ": "Les révolutions américaine ou française",
+      "section": null,
+      "chemin": [
+        "1. Affirmation de droits fondamentaux aujourd’hui"
+      ],
+      "texte": "b. Énoncer des droits humains inscrits dans la Déclaration universelle des droits de l’homme de l’Organisation des Nations Unies (ex. : égalité devant la loi; droit à la vie, à la liberté et à la sûreté)",
+      "progression": {
+        "1": null,
+        "2": "maitrise"
+      },
+      "page": 22,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "HEC-LES-028",
+      "champ": "Les révolutions américaine ou française",
+      "section": null,
+      "chemin": [
+        "2. Révolutions américaine ou française et impact des révolutions dans la conquête et la reconnaissance des droits fondamentaux",
+        "2.1. Situation dans l’espace et dans le temps"
+      ],
+      "texte": "a. Situer sur une carte : Révolution américaine : les colonies britanniques en 1776 ; Révolution française : le territoire de la France en 1789",
+      "progression": {
+        "1": null,
+        "2": "maitrise"
+      },
+      "page": 22,
+      "a_verifier": false,
+      "note": "Sous-tableau relu par zones."
+    },
+    {
+      "id": "HEC-LES-029",
+      "champ": "Les révolutions américaine ou française",
+      "section": null,
+      "chemin": [
+        "2. Révolutions américaine ou française et impact des révolutions dans la conquête et la reconnaissance des droits fondamentaux",
+        "2.1. Situation dans l’espace et dans le temps"
+      ],
+      "texte": "b. Situer, sur une ligne du temps, la révolution et des faits qui lui sont liés : Révolution américaine : ex. : Déclaration des droits, Boston Tea Party, Déclaration d’indépendance des colonies, bataille de Yorktown ; Révolution française : ex. : rédaction des Cahiers de doléances, prise de la Bastille, Déclaration des droits de l’homme et du citoyen, la Terreur",
+      "progression": {
+        "1": null,
+        "2": "maitrise"
+      },
+      "page": 22,
+      "a_verifier": false,
+      "note": "Sous-tableau relu par zones."
+    },
+    {
+      "id": "HEC-LES-030",
+      "champ": "Les révolutions américaine ou française",
+      "section": null,
+      "chemin": [
+        "2. Révolutions américaine ou française et impact des révolutions dans la conquête et la reconnaissance des droits fondamentaux",
+        "2.2. Le Siècle des Lumières"
+      ],
+      "texte": "a. Nommer des philosophes du Siècle des Lumières qui ont inspiré les courants révolutionnaires : ex. : Locke, Rousseau, Voltaire",
+      "progression": {
+        "1": null,
+        "2": "maitrise"
+      },
+      "page": 22,
+      "a_verifier": false,
+      "note": "Sous-tableau relu par zones."
+    },
+    {
+      "id": "HEC-LES-031",
+      "champ": "Les révolutions américaine ou française",
+      "section": null,
+      "chemin": [
+        "2. Révolutions américaine ou française et impact des révolutions dans la conquête et la reconnaissance des droits fondamentaux",
+        "2.2. Le Siècle des Lumières"
+      ],
+      "texte": "b. Énoncer des principes soutenus par la philosophie des Lumières : ex. : existence de droits naturels : vie, liberté, propriété",
+      "progression": {
+        "1": null,
+        "2": "maitrise"
+      },
+      "page": 22,
+      "a_verifier": false,
+      "note": "Sous-tableau relu par zones."
+    },
+    {
+      "id": "HEC-LES-032",
+      "champ": "Les révolutions américaine ou française",
+      "section": null,
+      "chemin": [
+        "2. Révolutions américaine ou française et impact des révolutions dans la conquête et la reconnaissance des droits fondamentaux",
+        "2.2. Le Siècle des Lumières"
+      ],
+      "texte": "c. Indiquer les trois pouvoirs de l’État définis au Siècle des Lumières : pouvoir législatif de rédiger les lois; pouvoir exécutif d’assurer l’exécution des lois; pouvoir judiciaire d’interpréter les lois",
+      "progression": {
+        "1": null,
+        "2": "maitrise"
+      },
+      "page": 22,
+      "a_verifier": false,
+      "note": "Sous-tableau relu par zones."
+    },
+    {
+      "id": "HEC-LES-033",
+      "champ": "Les révolutions américaine ou française",
+      "section": null,
+      "chemin": [
+        "2. Révolutions américaine ou française et impact des révolutions dans la conquête et la reconnaissance des droits fondamentaux",
+        "2.3. La Révolution"
+      ],
+      "texte": "a. Indiquer des éléments du contexte économique, politique et social à la veille de la Révolution : Révolution américaine : ex. : prospérité économique des colonies, imposition de taxes, limitation de l’expansion territoriale par la Grande-Bretagne ; Révolution française : ex. : crise agricole, crise financière, ordres sociaux",
+      "progression": {
+        "1": null,
+        "2": "maitrise"
+      },
+      "page": 22,
+      "a_verifier": false,
+      "note": "Sous-tableau relu par zones."
+    },
+    {
+      "id": "HEC-LES-034",
+      "champ": "Les révolutions américaine ou française",
+      "section": null,
+      "chemin": [
+        "2. Révolutions américaine ou française et impact des révolutions dans la conquête et la reconnaissance des droits fondamentaux",
+        "2.3. La Révolution"
+      ],
+      "texte": "b. Indiquer le mode d’organisation politique à la veille de la Révolution : Révolution américaine : parlementarisme soumis au roi d’Angleterre ; Révolution française : monarchie absolue de droit divin",
+      "progression": {
+        "1": null,
+        "2": "maitrise"
+      },
+      "page": 23,
+      "a_verifier": false,
+      "note": "Sous-tableau relu par zones."
+    },
+    {
+      "id": "HEC-LES-035",
+      "champ": "Les révolutions américaine ou française",
+      "section": null,
+      "chemin": [
+        "2. Révolutions américaine ou française et impact des révolutions dans la conquête et la reconnaissance des droits fondamentaux",
+        "2.3. La Révolution"
+      ],
+      "texte": "c. Nommer des acteurs de la Révolution : Révolution américaine : ex. : les Patriotes, Franklin, Washington, George III ; Révolution française : ex. : les Sans-culottes, Condorcet, Louis XVI",
+      "progression": {
+        "1": null,
+        "2": "maitrise"
+      },
+      "page": 23,
+      "a_verifier": false,
+      "note": "Sous-tableau relu par zones."
+    },
+    {
+      "id": "HEC-LES-036",
+      "champ": "Les révolutions américaine ou française",
+      "section": null,
+      "chemin": [
+        "2. Révolutions américaine ou française et impact des révolutions dans la conquête et la reconnaissance des droits fondamentaux",
+        "2.3. La Révolution"
+      ],
+      "texte": "d. Indiquer des conséquences de la Révolution : Révolution américaine : ex. : indépendance, institution d’un nouveau gouvernement, Déclaration des droits ; Révolution française : ex. : liberté individuelle, égalité des citoyens devant la loi, droit de vote",
+      "progression": {
+        "1": null,
+        "2": "maitrise"
+      },
+      "page": 23,
+      "a_verifier": false,
+      "note": "Sous-tableau relu par zones."
+    },
+    {
+      "id": "HEC-LES-037",
+      "champ": "Les révolutions américaine ou française",
+      "section": null,
+      "chemin": [
+        "2. Révolutions américaine ou française et impact des révolutions dans la conquête et la reconnaissance des droits fondamentaux",
+        "2.3. La Révolution"
+      ],
+      "texte": "e. Nommer des valeurs véhiculées lors de la Révolution : ex. : égalité, liberté, justice, démocratie",
+      "progression": {
+        "1": null,
+        "2": "maitrise"
+      },
+      "page": 23,
+      "a_verifier": false,
+      "note": "Sous-tableau relu par zones."
+    },
+    {
+      "id": "HEC-LES-038",
+      "champ": "Les révolutions américaine ou française",
+      "section": null,
+      "chemin": [
+        "3. Garanties des droits et libertés dans la société aujourd’hui"
+      ],
+      "texte": "a. Nommer des organismes internationaux voués à la protection des libertés et des droits (ex. : Organisation des Nations Unies, Tribunal pénal international)",
+      "progression": {
+        "1": null,
+        "2": "maitrise"
+      },
+      "page": 23,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "HEC-LES-039",
+      "champ": "Les révolutions américaine ou française",
+      "section": null,
+      "chemin": [
+        "3. Garanties des droits et libertés dans la société aujourd’hui"
+      ],
+      "texte": "b. Indiquer des moyens utilisés par la communauté internationale pour soutenir l’application des droits reconnus dans la Déclaration universelle des droits de l’homme (ex. : pression commerciale, déploiement de Casques bleus)",
+      "progression": {
+        "1": null,
+        "2": "maitrise"
+      },
+      "page": 23,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "HEC-LIN-001",
+      "champ": "L’industrialisation : une révolution économique et sociale",
+      "section": null,
+      "chemin": [
+        "1. Les impacts de l'industrialisation d'une société"
+      ],
+      "texte": "a. Nommer des pays qui s’industrialisent (ex. : Brésil, Chine, Inde)",
+      "progression": {
+        "1": null,
+        "2": "maitrise"
+      },
+      "page": 24,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "HEC-LIN-002",
+      "champ": "L’industrialisation : une révolution économique et sociale",
+      "section": null,
+      "chemin": [
+        "1. Les impacts de l'industrialisation d'une société"
+      ],
+      "texte": "b. Indiquer des facteurs qui permettent à des pays de s’industrialiser (ex. : capitaux, main-d’œuvre, ressources)",
+      "progression": {
+        "1": null,
+        "2": "maitrise"
+      },
+      "page": 24,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "HEC-LIN-003",
+      "champ": "L’industrialisation : une révolution économique et sociale",
+      "section": null,
+      "chemin": [
+        "1. Les impacts de l'industrialisation d'une société"
+      ],
+      "texte": "c. Indiquer des conséquences de l’industrialisation sur la société (ex. : urbanisation, commerce, société de consommation)",
+      "progression": {
+        "1": null,
+        "2": "maitrise"
+      },
+      "page": 24,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "HEC-LIN-004",
+      "champ": "L’industrialisation : une révolution économique et sociale",
+      "section": null,
+      "chemin": [
+        "2. L’industrialisation : une révolution économique et sociale et ses effets sur la société anglaise",
+        "2.1. Situation dans l’espace et dans le temps"
+      ],
+      "texte": "a. Situer, sur une carte, les premiers territoires industriels et quelques grandes villes du 18e siècle (ex. : Liverpool, Londres, Manchester)",
+      "progression": {
+        "1": null,
+        "2": "maitrise"
+      },
+      "page": 24,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "HEC-LIN-005",
+      "champ": "L’industrialisation : une révolution économique et sociale",
+      "section": null,
+      "chemin": [
+        "2. L’industrialisation : une révolution économique et sociale et ses effets sur la société anglaise",
+        "2.1. Situation dans l’espace et dans le temps"
+      ],
+      "texte": "b. Situer, sur une ligne du temps, la révolution industrielle et des faits liés à cette période (ex. : lois d’enclosure, machine de Watt, locomotive The Rocket)",
+      "progression": {
+        "1": null,
+        "2": "maitrise"
+      },
+      "page": 24,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "HEC-LIN-006",
+      "champ": "L’industrialisation : une révolution économique et sociale",
+      "section": null,
+      "chemin": [
+        "2. L’industrialisation : une révolution économique et sociale et ses effets sur la société anglaise"
+      ],
+      "texte": "2.2. Industrialisation",
+      "progression": {
+        "1": null,
+        "2": "maitrise"
+      },
+      "page": 24,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "HEC-LIN-007",
+      "champ": "L’industrialisation : une révolution économique et sociale",
+      "section": null,
+      "chemin": [
+        "2. L’industrialisation : une révolution économique et sociale et ses effets sur la société anglaise",
+        "2.1. Situation dans l’espace et dans le temps"
+      ],
+      "texte": "a. Indiquer des causes de l’industrialisation en Angleterre au 18e siècle (ex. : présence de capital, nouvelle technologie, agriculture plus performante, main-d'œuvre disponible, présence de charbon)",
+      "progression": {
+        "1": null,
+        "2": "maitrise"
+      },
+      "page": 24,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "HEC-LIN-008",
+      "champ": "L’industrialisation : une révolution économique et sociale",
+      "section": null,
+      "chemin": [
+        "2. L’industrialisation : une révolution économique et sociale et ses effets sur la société anglaise",
+        "2.1. Situation dans l’espace et dans le temps"
+      ],
+      "texte": "b. Énumérer des caractéristiques de la production industrielle (ex. : mécanisation, division du travail)",
+      "progression": {
+        "1": null,
+        "2": "maitrise"
+      },
+      "page": 24,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "HEC-LIN-009",
+      "champ": "L’industrialisation : une révolution économique et sociale",
+      "section": null,
+      "chemin": [
+        "2. L’industrialisation : une révolution économique et sociale et ses effets sur la société anglaise",
+        "2.1. Situation dans l’espace et dans le temps"
+      ],
+      "texte": "c. Nommer les premiers secteurs de production qui s’industrialisent : textiles, métallurgie",
+      "progression": {
+        "1": null,
+        "2": "maitrise"
+      },
+      "page": 24,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "HEC-LIN-010",
+      "champ": "L’industrialisation : une révolution économique et sociale",
+      "section": null,
+      "chemin": [
+        "2. L’industrialisation : une révolution économique et sociale et ses effets sur la société anglaise",
+        "2.1. Situation dans l’espace et dans le temps"
+      ],
+      "texte": "d. Indiquer des conséquences de l’industrialisation sur les mouvements de population (ex. : exode rural, urbanisation)",
+      "progression": {
+        "1": null,
+        "2": "maitrise"
+      },
+      "page": 24,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "HEC-LIN-011",
+      "champ": "L’industrialisation : une révolution économique et sociale",
+      "section": null,
+      "chemin": [
+        "2. L’industrialisation : une révolution économique et sociale et ses effets sur la société anglaise"
+      ],
+      "texte": "2.3. Structure sociale",
+      "progression": {
+        "1": null,
+        "2": "maitrise"
+      },
+      "page": 24,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "HEC-LIN-012",
+      "champ": "L’industrialisation : une révolution économique et sociale",
+      "section": null,
+      "chemin": [
+        "2. L’industrialisation : une révolution économique et sociale et ses effets sur la société anglaise",
+        "2.1. Situation dans l’espace et dans le temps"
+      ],
+      "texte": "a. Indiquer des facteurs qui conduisent à la constitution des classes sociales dans les sociétés qui s’industrialisent (ex. : le capital, l’emploi)",
+      "progression": {
+        "1": null,
+        "2": "maitrise"
+      },
+      "page": 24,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "HEC-LIN-013",
+      "champ": "L’industrialisation : une révolution économique et sociale",
+      "section": null,
+      "chemin": [
+        "2. L’industrialisation : une révolution économique et sociale et ses effets sur la société anglaise",
+        "2.1. Situation dans l’espace et dans le temps"
+      ],
+      "texte": "b. Indiquer ce qui distingue, sur le plan des moyens de production, les classes sociales bourgeoise et ouvrière (ex. : la bourgeoisie possède les moyens de production; les ouvriers possèdent leur capacité de travail qu’ils échangent contre un salaire)",
+      "progression": {
+        "1": null,
+        "2": "maitrise"
+      },
+      "page": 24,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "HEC-LIN-014",
+      "champ": "L’industrialisation : une révolution économique et sociale",
+      "section": null,
+      "chemin": [
+        "2. L’industrialisation : une révolution économique et sociale et ses effets sur la société anglaise",
+        "2.1. Situation dans l’espace et dans le temps"
+      ],
+      "texte": "c. Énumérer des caractéristiques des quartiers ouvriers lors de la révolution industrielle (ex. : quartiers situés près des usines, environnement pollué par les émanations de charbon, population entassée dans des logements insalubres)",
+      "progression": {
+        "1": null,
+        "2": "maitrise"
+      },
+      "page": 24,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "HEC-LIN-015",
+      "champ": "L’industrialisation : une révolution économique et sociale",
+      "section": null,
+      "chemin": [
+        "2. L’industrialisation : une révolution économique et sociale et ses effets sur la société anglaise",
+        "2.1. Situation dans l’espace et dans le temps"
+      ],
+      "texte": "a. Énoncer quelques principes politiques du libéralisme défendu par la bourgeoisie (ex. : défense de l’entreprise privée, réduction des contraintes imposées par l’État, reconnaissance des droits individuels)",
+      "progression": {
+        "1": null,
+        "2": "maitrise"
+      },
+      "page": 25,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "HEC-LIN-016",
+      "champ": "L’industrialisation : une révolution économique et sociale",
+      "section": null,
+      "chemin": [
+        "2. L’industrialisation : une révolution économique et sociale et ses effets sur la société anglaise",
+        "2.1. Situation dans l’espace et dans le temps"
+      ],
+      "texte": "b. Nommer des institutions économiques liées au développement du capitalisme (ex. : banques, bourses)",
+      "progression": {
+        "1": null,
+        "2": "maitrise"
+      },
+      "page": 25,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "HEC-LIN-017",
+      "champ": "L’industrialisation : une révolution économique et sociale",
+      "section": null,
+      "chemin": [
+        "2. L’industrialisation : une révolution économique et sociale et ses effets sur la société anglaise",
+        "2.1. Situation dans l’espace et dans le temps"
+      ],
+      "texte": "c. Indiquer la source de revenu de la bourgeoisie : le profit",
+      "progression": {
+        "1": null,
+        "2": "maitrise"
+      },
+      "page": 25,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "HEC-LIN-018",
+      "champ": "L’industrialisation : une révolution économique et sociale",
+      "section": null,
+      "chemin": [
+        "2. L’industrialisation : une révolution économique et sociale et ses effets sur la société anglaise",
+        "2.1. Situation dans l’espace et dans le temps"
+      ],
+      "texte": "d. Expliquer des répercussions de la recherche du profit (ex. : pour s’enrichir, la bourgeoisie cherche à réduire le salaire des ouvriers et à augmenter le prix de vente des produits)",
+      "progression": {
+        "1": null,
+        "2": "maitrise"
+      },
+      "page": 25,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "HEC-LIN-019",
+      "champ": "L’industrialisation : une révolution économique et sociale",
+      "section": null,
+      "chemin": [
+        "2. L’industrialisation : une révolution économique et sociale et ses effets sur la société anglaise",
+        "2.1. Situation dans l’espace et dans le temps"
+      ],
+      "texte": "e. Indiquer des avantages des nouveaux moyens de transport développés durant la révolution industrielle (ex. : la locomotive et le bateau à vapeur ont une vitesse régulière et permettent de déplacer de lourdes charges; ils facilitent le transport des matières premières)",
+      "progression": {
+        "1": null,
+        "2": "maitrise"
+      },
+      "page": 25,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "HEC-LIN-020",
+      "champ": "L’industrialisation : une révolution économique et sociale",
+      "section": null,
+      "chemin": [
+        "2. L’industrialisation : une révolution économique et sociale et ses effets sur la société anglaise"
+      ],
+      "texte": "2.5. Mouvement ouvrier",
+      "progression": {
+        "1": null,
+        "2": "maitrise"
+      },
+      "page": 25,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "HEC-LIN-021",
+      "champ": "L’industrialisation : une révolution économique et sociale",
+      "section": null,
+      "chemin": [
+        "2. L’industrialisation : une révolution économique et sociale et ses effets sur la société anglaise",
+        "2.1. Situation dans l’espace et dans le temps"
+      ],
+      "texte": "a. Indiquer des conditions de travail des ouvriers au début de l’industrialisation en Angleterre (ex. : nombreuses heures de travail, absence de droit et de sécurité, travail des femmes et des enfants)",
+      "progression": {
+        "1": null,
+        "2": "maitrise"
+      },
+      "page": 25,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "HEC-LIN-022",
+      "champ": "L’industrialisation : une révolution économique et sociale",
+      "section": null,
+      "chemin": [
+        "2. L’industrialisation : une révolution économique et sociale et ses effets sur la société anglaise",
+        "2.1. Situation dans l’espace et dans le temps"
+      ],
+      "texte": "b. Indiquer des actions entreprises par les ouvriers pour améliorer leur situation socioéconomique (ex. : revendication du droit d’association, revendication de meilleures conditions de travail, déclenchement de grèves)",
+      "progression": {
+        "1": null,
+        "2": "maitrise"
+      },
+      "page": 25,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "HEC-LIN-023",
+      "champ": "L’industrialisation : une révolution économique et sociale",
+      "section": null,
+      "chemin": [
+        "2. L’industrialisation : une révolution économique et sociale et ses effets sur la société anglaise",
+        "2.1. Situation dans l’espace et dans le temps"
+      ],
+      "texte": "c. Indiquer des avantages que présente la création de syndicats pour les ouvriers (ex. : pouvoir de négociation vis-à-vis des patrons)",
+      "progression": {
+        "1": null,
+        "2": "maitrise"
+      },
+      "page": 25,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "HEC-LIN-024",
+      "champ": "L’industrialisation : une révolution économique et sociale",
+      "section": null,
+      "chemin": [
+        "2. L’industrialisation : une révolution économique et sociale et ses effets sur la société anglaise",
+        "2.1. Situation dans l’espace et dans le temps"
+      ],
+      "texte": "d. Énoncer des principes communs aux mouvements de pensée socialiste et communiste (ex. : propriété collective des moyens de production, recherche de justice et d’égalité sociale)",
+      "progression": {
+        "1": null,
+        "2": "maitrise"
+      },
+      "page": 25,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "HEC-LIN-025",
+      "champ": "L’industrialisation : une révolution économique et sociale",
+      "section": null,
+      "chemin": [
+        "2. L’industrialisation : une révolution économique et sociale et ses effets sur la société anglaise",
+        "2.1. Situation dans l’espace et dans le temps"
+      ],
+      "texte": "e. Indiquer des actions prises par les gouvernements face aux revendications et aux manifestations ouvrières (ex. : répression, refus du droit d’association, politique de laissez-faire)",
+      "progression": {
+        "1": null,
+        "2": "maitrise"
+      },
+      "page": 25,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "HEC-LIN-026",
+      "champ": "L’industrialisation : une révolution économique et sociale",
+      "section": null,
+      "chemin": [
+        "3. Contribution des individus et des institutions à l’amélioration des conditions de vie dans la société aujourd’hui"
+      ],
+      "texte": "a. Nommer quelques organismes qui travaillent à l’amélioration des conditions de vie (ex. : UNICEF, Oxfam)",
+      "progression": {
+        "1": null,
+        "2": "maitrise"
+      },
+      "page": 25,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "HEC-LIN-027",
+      "champ": "L’industrialisation : une révolution économique et sociale",
+      "section": null,
+      "chemin": [
+        "3. Contribution des individus et des institutions à l’amélioration des conditions de vie dans la société aujourd’hui"
+      ],
+      "texte": "b. Indiquer des buts poursuivis par des organismes voués à l’amélioration des conditions de vie dans des sociétés (ex. : éliminer la pauvreté, empêcher le travail des enfants)",
+      "progression": {
+        "1": null,
+        "2": "maitrise"
+      },
+      "page": 25,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "HEC-LIN-028",
+      "champ": "L’industrialisation : une révolution économique et sociale",
+      "section": null,
+      "chemin": [
+        "3. Contribution des individus et des institutions à l’amélioration des conditions de vie dans la société aujourd’hui"
+      ],
+      "texte": "c. Nommer des mesures qui peuvent contribuer à l’amélioration des conditions de vie dans une société (ex. : scolarisation, normes du travail)",
+      "progression": {
+        "1": null,
+        "2": "maitrise"
+      },
+      "page": 25,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "HEC-LIN-029",
+      "champ": "L’industrialisation : une révolution économique et sociale",
+      "section": null,
+      "chemin": [
+        "3. Contribution des individus et des institutions à l’amélioration des conditions de vie dans la société aujourd’hui"
+      ],
+      "texte": "d. Nommer des individus qui ont contribué à l’amélioration des conditions de vie (ex. : Mère Teresa, Lucille Teasdale)",
+      "progression": {
+        "1": null,
+        "2": "maitrise"
+      },
+      "page": 25,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "HEC-LEX-020",
+      "champ": "L’expansion du monde industriel",
+      "section": null,
+      "chemin": [
+        "1. Impérialisme et colonisation aujourd’hui"
+      ],
+      "texte": "a. Énumérer des caractéristiques d’un État souverain (ex. : frontières internationales reconnues, siège à l’Organisation des Nations Unies)",
+      "progression": {
+        "1": null,
+        "2": "maitrise"
+      },
+      "page": 26,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "HEC-LEX-021",
+      "champ": "L’expansion du monde industriel",
+      "section": null,
+      "chemin": [
+        "1. Impérialisme et colonisation aujourd’hui"
+      ],
+      "texte": "b. Nommer des territoires qui ne relèvent pas d’une juridiction nationale (ex. : l’Antarctique, les océans au-delà des zones économiques exclusives)",
+      "progression": {
+        "1": null,
+        "2": "maitrise"
+      },
+      "page": 26,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "HEC-LEX-022",
+      "champ": "L’expansion du monde industriel",
+      "section": null,
+      "chemin": [
+        "1. Impérialisme et colonisation aujourd’hui"
+      ],
+      "texte": "c. Nommer quelques indicateurs socioéconomiques qui permettent d’illustrer la disparité de la richesse à l’échelle mondiale (ex. : l’espérance de vie, le produit intérieur brut par habitant)",
+      "progression": {
+        "1": null,
+        "2": "maitrise"
+      },
+      "page": 26,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "HEC-LEX-023",
+      "champ": "L’expansion du monde industriel",
+      "section": null,
+      "chemin": [
+        "2. Expansion du monde industriel et impacts de l’impérialisme d’un pays européen sur des populations d’Afrique",
+        "2.1. Situation dans l’espace et dans le temps"
+      ],
+      "texte": "a. Situer, sur une carte, les empires coloniaux français et britannique au début du 20e siècle",
+      "progression": {
+        "1": null,
+        "2": "maitrise"
+      },
+      "page": 26,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "HEC-LEX-024",
+      "champ": "L’expansion du monde industriel",
+      "section": null,
+      "chemin": [
+        "2. Expansion du monde industriel et impacts de l’impérialisme d’un pays européen sur des populations d’Afrique",
+        "2.1. Situation dans l’espace et dans le temps"
+      ],
+      "texte": "b. Situer, sur une carte, quelques sociétés ou civilisations africaines avant le contact colonial (ex. : sociétés arabes en Afrique du Nord, sociétés nomades du Sahara, empires du Ghana et du Mali)",
+      "progression": {
+        "1": null,
+        "2": "maitrise"
+      },
+      "page": 26,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "HEC-LEX-025",
+      "champ": "L’expansion du monde industriel",
+      "section": null,
+      "chemin": [
+        "2. Expansion du monde industriel et impacts de l’impérialisme d’un pays européen sur des populations d’Afrique",
+        "2.1. Situation dans l’espace et dans le temps"
+      ],
+      "texte": "c. Situer, sur une ligne du temps, des faits liés à l’impérialisme et à la colonisation",
+      "progression": {
+        "1": null,
+        "2": "maitrise"
+      },
+      "page": 26,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "HEC-LEX-026",
+      "champ": "L’expansion du monde industriel",
+      "section": null,
+      "chemin": [
+        "2. Expansion du monde industriel et impacts de l’impérialisme d’un pays européen sur des populations d’Afrique"
+      ],
+      "texte": "2.2. Motifs de la colonisation",
+      "progression": {
+        "1": null,
+        "2": "maitrise"
+      },
+      "page": 26,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "HEC-LEX-027",
+      "champ": "L’expansion du monde industriel",
+      "section": null,
+      "chemin": [
+        "2. Expansion du monde industriel et impacts de l’impérialisme d’un pays européen sur des populations d’Afrique",
+        "2.1. Situation dans l’espace et dans le temps"
+      ],
+      "texte": "a. Indiquer des conditions nécessaires pour que des États s’industrialisent (ex. : accès à des capitaux, accès à des matières premières, accès à un marché pour les produits manufacturés)",
+      "progression": {
+        "1": null,
+        "2": "maitrise"
+      },
+      "page": 26,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "HEC-LEX-028",
+      "champ": "L’expansion du monde industriel",
+      "section": null,
+      "chemin": [
+        "2. Expansion du monde industriel et impacts de l’impérialisme d’un pays européen sur des populations d’Afrique",
+        "2.1. Situation dans l’espace et dans le temps"
+      ],
+      "texte": "b. Indiquer la nature des produits échangés entre les pays colonisateurs et leurs colonies (ex. : les colonies exportent des ressources; les pays colonisateurs exportent des produits finis)",
+      "progression": {
+        "1": null,
+        "2": "maitrise"
+      },
+      "page": 26,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "HEC-LEX-029",
+      "champ": "L’expansion du monde industriel",
+      "section": null,
+      "chemin": [
+        "2. Expansion du monde industriel et impacts de l’impérialisme d’un pays européen sur des populations d’Afrique",
+        "2.1. Situation dans l’espace et dans le temps"
+      ],
+      "texte": "c. Indiquer des facteurs qui justifient l’impérialisme (ex. : recherche de puissance et de suprématie pour des pays européens)",
+      "progression": {
+        "1": null,
+        "2": "maitrise"
+      },
+      "page": 26,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "HEC-LEX-030",
+      "champ": "L’expansion du monde industriel",
+      "section": null,
+      "chemin": [
+        "2. Expansion du monde industriel et impacts de l’impérialisme d’un pays européen sur des populations d’Afrique",
+        "2.1. Situation dans l’espace et dans le temps"
+      ],
+      "texte": "d. Énoncer une justification que les pays colonisateurs donnent à la domination qu’ils exercent en Afrique (ex. : les Européens sont convaincus de faire une œuvre civilisatrice envers des populations jugées inférieures)",
+      "progression": {
+        "1": null,
+        "2": "maitrise"
+      },
+      "page": 26,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "HEC-LEX-031",
+      "champ": "L’expansion du monde industriel",
+      "section": null,
+      "chemin": [
+        "2. Expansion du monde industriel et impacts de l’impérialisme d’un pays européen sur des populations d’Afrique"
+      ],
+      "texte": "2.3. Impacts de la colonisation",
+      "progression": {
+        "1": null,
+        "2": "maitrise"
+      },
+      "page": 26,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "HEC-LEX-032",
+      "champ": "L’expansion du monde industriel",
+      "section": null,
+      "chemin": [
+        "2. Expansion du monde industriel et impacts de l’impérialisme d’un pays européen sur des populations d’Afrique",
+        "2.1. Situation dans l’espace et dans le temps"
+      ],
+      "texte": "a. Expliquer des répercussions de la migration de millions d’Européens sur les populations originaires de colonies (ex. : en s’établissant dans les colonies, les Européens occupent des terres et s’imposent aux populations locales qui les habitaient déjà)",
+      "progression": {
+        "1": null,
+        "2": "maitrise"
+      },
+      "page": 26,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "HEC-LEX-033",
+      "champ": "L’expansion du monde industriel",
+      "section": null,
+      "chemin": [
+        "2. Expansion du monde industriel et impacts de l’impérialisme d’un pays européen sur des populations d’Afrique",
+        "2.1. Situation dans l’espace et dans le temps"
+      ],
+      "texte": "b. Énoncer la principale convention de la Conférence de Berlin : entente entre 13 pays qui fixent les règles à partir desquelles l’Afrique sera colonisée",
+      "progression": {
+        "1": null,
+        "2": "maitrise"
+      },
+      "page": 26,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "HEC-LEX-034",
+      "champ": "L’expansion du monde industriel",
+      "section": null,
+      "chemin": [
+        "2. Expansion du monde industriel et impacts de l’impérialisme d’un pays européen sur des populations d’Afrique",
+        "2.1. Situation dans l’espace et dans le temps"
+      ],
+      "texte": "c. Indiquer des conséquences sociopolitiques du partage colonial de l’Afrique (ex. : les frontières coloniales ne correspondent pas à la répartition ethnique des populations africaines; les tensions ethniques peuvent être exacerbées par le pays colonisateur)",
+      "progression": {
+        "1": null,
+        "2": "maitrise"
+      },
+      "page": 26,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "HEC-LEX-035",
+      "champ": "L’expansion du monde industriel",
+      "section": null,
+      "chemin": [
+        "2. Expansion du monde industriel et impacts de l’impérialisme d’un pays européen sur des populations d’Afrique",
+        "2.1. Situation dans l’espace et dans le temps"
+      ],
+      "texte": "d. Indiquer le rôle des populations africaines dans l’exploitation coloniale des territoires (ex. : main-d’œuvre à faible coût pour l’exploitation des ressources agricoles et minières)",
+      "progression": {
+        "1": null,
+        "2": "maitrise"
+      },
+      "page": 27,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "HEC-LEX-036",
+      "champ": "L’expansion du monde industriel",
+      "section": null,
+      "chemin": [
+        "2. Expansion du monde industriel et impacts de l’impérialisme d’un pays européen sur des populations d’Afrique",
+        "2.1. Situation dans l’espace et dans le temps"
+      ],
+      "texte": "e. Indiquer le rôle de l’éducation dans la transformation culturelle des populations africaines (ex. : la langue de l’éducation est souvent celle du colonisateur; les normes et les valeurs du pays colonisateur sont les bases de l’enseignement)",
+      "progression": {
+        "1": null,
+        "2": "maitrise"
+      },
+      "page": 27,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "HEC-LEX-037",
+      "champ": "L’expansion du monde industriel",
+      "section": null,
+      "chemin": [
+        "2. Expansion du monde industriel et impacts de l’impérialisme d’un pays européen sur des populations d’Afrique",
+        "2.1. Situation dans l’espace et dans le temps"
+      ],
+      "texte": "f. Indiquer des réactions de populations colonisées face à la domination européenne (ex. : des Africains peuvent collaborer avec le colonisateur et en retirer des privilèges; il y a parfois des soulèvements et des révoltes des populations colonisées)",
+      "progression": {
+        "1": null,
+        "2": "maitrise"
+      },
+      "page": 27,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "HEC-LEX-038",
+      "champ": "L’expansion du monde industriel",
+      "section": null,
+      "chemin": [
+        "3. Rapports politiques, économiques et culturels entre les sociétés aujourd’hui"
+      ],
+      "texte": "a. Nommer des organismes politiques qui réunissent d’anciennes colonies (ex. : Organisation internationale de la francophonie, Commonwealth)",
+      "progression": {
+        "1": null,
+        "2": "maitrise"
+      },
+      "page": 27,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "HEC-LEX-039",
+      "champ": "L’expansion du monde industriel",
+      "section": null,
+      "chemin": [
+        "3. Rapports politiques, économiques et culturels entre les sociétés aujourd’hui"
+      ],
+      "texte": "b. Nommer des associations économiques internationales (ex. : Union européenne, Coopération économique de la zone Asie-Pacifique, Organisation des pays exportateurs de pétrole)",
+      "progression": {
+        "1": null,
+        "2": "maitrise"
+      },
+      "page": 27,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "HEC-LEX-040",
+      "champ": "L’expansion du monde industriel",
+      "section": null,
+      "chemin": [
+        "3. Rapports politiques, économiques et culturels entre les sociétés aujourd’hui"
+      ],
+      "texte": "c. Énoncer l’objectif de l’Accord de libre-échange nord-américain : favoriser le commerce entre le Canada, les États-Unis et le Mexique en limitant les tarifs douaniers",
+      "progression": {
+        "1": null,
+        "2": "maitrise"
+      },
+      "page": 27,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "HEC-LEX-041",
+      "champ": "L’expansion du monde industriel",
+      "section": null,
+      "chemin": [
+        "3. Rapports politiques, économiques et culturels entre les sociétés aujourd’hui"
+      ],
+      "texte": "d. Expliquer des rapports socioéconomiques entre d’anciennes colonies et d’ex-pays colonisateurs (ex. : les liens demeurent importants parce que les échanges internationaux des pays décolonisés se font encore beaucoup avec les anciennes métropoles; un important flux migratoire se développe entre les anciennes colonies et l’Europe)",
+      "progression": {
+        "1": null,
+        "2": "maitrise"
+      },
+      "page": 27,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "HEC-LAR-024",
+      "champ": "La reconnaissance des libertés et des droits civils",
+      "section": null,
+      "chemin": [
+        "1. Libertés et droits civils aujourd’hui : privation, lutte et conquête"
+      ],
+      "texte": "a. Énumérer des libertés et des droits civils (ex. : droit de vote, droit à la justice, égalité juridique, liberté d’expression, liberté de religion)",
+      "progression": {
+        "1": null,
+        "2": "maitrise"
+      },
+      "page": 28,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "HEC-LAR-025",
+      "champ": "La reconnaissance des libertés et des droits civils",
+      "section": null,
+      "chemin": [
+        "1. Libertés et droits civils aujourd’hui : privation, lutte et conquête"
+      ],
+      "texte": "b. Indiquer des situations où les gouvernements peuvent limiter ou supprimer l’exercice des libertés et droits civils (ex. : décision du gouvernement en cas de guerre, de crise ou de danger appréhendé à la sécurité nationale)",
+      "progression": {
+        "1": null,
+        "2": "maitrise"
+      },
+      "page": 28,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "HEC-LAR-026",
+      "champ": "La reconnaissance des libertés et des droits civils",
+      "section": null,
+      "chemin": [
+        "1. Libertés et droits civils aujourd’hui : privation, lutte et conquête"
+      ],
+      "texte": "c. Indiquer des situations actuelles où les libertés et les droits civils sont ignorés (ex. : enfants exploités, trafic lié à la prostitution, pays soumis à une dictature)",
+      "progression": {
+        "1": null,
+        "2": "maitrise"
+      },
+      "page": 28,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "HEC-LAR-027",
+      "champ": "La reconnaissance des libertés et des droits civils",
+      "section": null,
+      "chemin": [
+        "2. Reconnaissance des libertés et des droits civils et retombées de la conquête des libertés et des droits civils pour les collectivités",
+        "2.1. Situation dans l’espace et dans le temps"
+      ],
+      "texte": "a. Situer, sur une ligne du temps, des faits associés au mouvement féministe (ex. : obtention du droit de vote dans quelques pays; publication de l’ouvrage Le Deuxième Sexe, de Simone de Beauvoir; création de la National Organization for Women)",
+      "progression": {
+        "1": null,
+        "2": "maitrise"
+      },
+      "page": 28,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "HEC-LAR-028",
+      "champ": "La reconnaissance des libertés et des droits civils",
+      "section": null,
+      "chemin": [
+        "2. Reconnaissance des libertés et des droits civils et retombées de la conquête des libertés et des droits civils pour les collectivités",
+        "2.1. Situation dans l’espace et dans le temps"
+      ],
+      "texte": "a. Situer, sur une ligne du temps, des faits associés au mouvement pour les droits civils des Noirs aux États-Unis et en Afrique du Sud (ex. : discours de Martin Luther King au Lincoln Memorial, Civil Rights Act, abolition de l’Apartheid)",
+      "progression": {
+        "1": null,
+        "2": "maitrise"
+      },
+      "page": 28,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "HEC-LAR-029",
+      "champ": "La reconnaissance des libertés et des droits civils",
+      "section": null,
+      "chemin": [
+        "2. Reconnaissance des libertés et des droits civils et retombées de la conquête des libertés et des droits civils pour les collectivités",
+        "2.1. Situation dans l’espace et dans le temps"
+      ],
+      "texte": "a. Situer, sur une ligne du temps, des faits liés à la décolonisation en Asie et en Afrique (ex. : indépendance de l’Inde et du Pakistan, Conférence de Bandung, indépendance de l’Algérie)",
+      "progression": {
+        "1": null,
+        "2": "maitrise"
+      },
+      "page": 28,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "HEC-LAR-030",
+      "champ": "La reconnaissance des libertés et des droits civils",
+      "section": null,
+      "chemin": [
+        "2. Reconnaissance des libertés et des droits civils et retombées de la conquête des libertés et des droits civils pour les collectivités"
+      ],
+      "texte": "2.2. Mouvement féministe",
+      "progression": {
+        "1": null,
+        "2": "maitrise"
+      },
+      "page": 28,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "HEC-LAR-031",
+      "champ": "La reconnaissance des libertés et des droits civils",
+      "section": null,
+      "chemin": [
+        "2. Reconnaissance des libertés et des droits civils et retombées de la conquête des libertés et des droits civils pour les collectivités",
+        "2.1. Situation dans l’espace et dans le temps"
+      ],
+      "texte": "a. Énoncer des droits inscrits dans la Déclaration universelle des droits de l’homme sur lesquels s’appuient les mouvements féministes (ex. : principe selon lequel, dans l’application des droits, il ne peut y avoir de discrimination fondée sur le sexe)",
+      "progression": {
+        "1": null,
+        "2": "maitrise"
+      },
+      "page": 28,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "HEC-LAR-032",
+      "champ": "La reconnaissance des libertés et des droits civils",
+      "section": null,
+      "chemin": [
+        "2. Reconnaissance des libertés et des droits civils et retombées de la conquête des libertés et des droits civils pour les collectivités",
+        "2.1. Situation dans l’espace et dans le temps"
+      ],
+      "texte": "b. Indiquer des préjudices à l’égard des femmes en Occident dans la première moitié du 20e siècle (ex. : discrimination, ségrégation, pouvoirs limités)",
+      "progression": {
+        "1": null,
+        "2": "maitrise"
+      },
+      "page": 28,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "HEC-LAR-033",
+      "champ": "La reconnaissance des libertés et des droits civils",
+      "section": null,
+      "chemin": [
+        "2. Reconnaissance des libertés et des droits civils et retombées de la conquête des libertés et des droits civils pour les collectivités",
+        "2.1. Situation dans l’espace et dans le temps"
+      ],
+      "texte": "c. Nommer des acteurs associés au mouvement féministe (ex. : Simone de Beauvoir, Betty Friedan, les suffragettes)",
+      "progression": {
+        "1": null,
+        "2": "maitrise"
+      },
+      "page": 28,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "HEC-LAR-034",
+      "champ": "La reconnaissance des libertés et des droits civils",
+      "section": null,
+      "chemin": [
+        "2. Reconnaissance des libertés et des droits civils et retombées de la conquête des libertés et des droits civils pour les collectivités",
+        "2.1. Situation dans l’espace et dans le temps"
+      ],
+      "texte": "d. Indiquer des actions entreprises par des féministes ou des groupes de femmes au cours du 20e siècle (ex. : manifestations, publication de livres et de manifestes)",
+      "progression": {
+        "1": null,
+        "2": "maitrise"
+      },
+      "page": 28,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "HEC-LAR-035",
+      "champ": "La reconnaissance des libertés et des droits civils",
+      "section": null,
+      "chemin": [
+        "2. Reconnaissance des libertés et des droits civils et retombées de la conquête des libertés et des droits civils pour les collectivités",
+        "2.1. Situation dans l’espace et dans le temps"
+      ],
+      "texte": "e. Indiquer des réactions face au mouvement pour la reconnaissance des libertés et des droits civils (ex. : répression, création d’associations qui s’opposent à la reconnaissance de droits civils aux femmes)",
+      "progression": {
+        "1": null,
+        "2": "maitrise"
+      },
+      "page": 29,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "HEC-LAR-036",
+      "champ": "La reconnaissance des libertés et des droits civils",
+      "section": null,
+      "chemin": [
+        "2. Reconnaissance des libertés et des droits civils et retombées de la conquête des libertés et des droits civils pour les collectivités",
+        "2.1. Situation dans l’espace et dans le temps"
+      ],
+      "texte": "f. Indiquer des gains obtenus par les mouvements féministes en Occident (ex. : droit de vote, accès aux études supérieures)",
+      "progression": {
+        "1": null,
+        "2": "maitrise"
+      },
+      "page": 29,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "HEC-LAR-037",
+      "champ": "La reconnaissance des libertés et des droits civils",
+      "section": null,
+      "chemin": [
+        "2. Reconnaissance des libertés et des droits civils et retombées de la conquête des libertés et des droits civils pour les collectivités",
+        "ou 2.2. Lutte contre le racisme"
+      ],
+      "texte": "a. Énoncer des droits inscrits dans la Déclaration universelle des droits de l’homme sur lesquels s’appuient les mouvements qui luttent contre le racisme institué (ex. : principe selon lequel tous les êtres humains naissent libres et égaux en dignité et en droits)",
+      "progression": {
+        "1": null,
+        "2": "maitrise"
+      },
+      "page": 29,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "HEC-LAR-038",
+      "champ": "La reconnaissance des libertés et des droits civils",
+      "section": null,
+      "chemin": [
+        "2. Reconnaissance des libertés et des droits civils et retombées de la conquête des libertés et des droits civils pour les collectivités",
+        "ou 2.2. Lutte contre le racisme"
+      ],
+      "texte": "b. Indiquer des préjudices à l’égard des Noirs aux États-Unis dans la première moitié du 20e siècle et en Afrique du Sud avant l’abolition de l’Apartheid (ex. : discrimination, ségrégation, absence de droits civils)",
+      "progression": {
+        "1": null,
+        "2": "maitrise"
+      },
+      "page": 29,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "HEC-LAR-039",
+      "champ": "La reconnaissance des libertés et des droits civils",
+      "section": null,
+      "chemin": [
+        "2. Reconnaissance des libertés et des droits civils et retombées de la conquête des libertés et des droits civils pour les collectivités",
+        "ou 2.2. Lutte contre le racisme"
+      ],
+      "texte": "c. Nommer des acteurs associés à la lutte contre la ségrégation raciale (ex. : Rosa Parks, Martin Luther King, Nelson Mandela)",
+      "progression": {
+        "1": null,
+        "2": "maitrise"
+      },
+      "page": 29,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "HEC-LAR-040",
+      "champ": "La reconnaissance des libertés et des droits civils",
+      "section": null,
+      "chemin": [
+        "2. Reconnaissance des libertés et des droits civils et retombées de la conquête des libertés et des droits civils pour les collectivités",
+        "ou 2.2. Lutte contre le racisme"
+      ],
+      "texte": "d. Indiquer des actions entreprises par des citoyens ou des États pour lutter contre le racisme institué au cours du 20e siècle (ex. : résistance passive, manifestations, émeutes)",
+      "progression": {
+        "1": null,
+        "2": "maitrise"
+      },
+      "page": 29,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "HEC-LAR-041",
+      "champ": "La reconnaissance des libertés et des droits civils",
+      "section": null,
+      "chemin": [
+        "2. Reconnaissance des libertés et des droits civils et retombées de la conquête des libertés et des droits civils pour les collectivités",
+        "ou 2.2. Lutte contre le racisme"
+      ],
+      "texte": "e. Indiquer des réactions face au mouvement pour la reconnaissance des libertés et des droits civils (ex. : répression, emprisonnement)",
+      "progression": {
+        "1": null,
+        "2": "maitrise"
+      },
+      "page": 29,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "HEC-LAR-042",
+      "champ": "La reconnaissance des libertés et des droits civils",
+      "section": null,
+      "chemin": [
+        "2. Reconnaissance des libertés et des droits civils et retombées de la conquête des libertés et des droits civils pour les collectivités",
+        "ou 2.2. Lutte contre le racisme"
+      ],
+      "texte": "f. Indiquer des gains obtenus par les Noirs, notamment aux États-Unis et en Afrique du Sud (ex. : Civil Rights Act, Voting Rights Act, abolition de l’Apartheid)",
+      "progression": {
+        "1": null,
+        "2": "maitrise"
+      },
+      "page": 29,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "HEC-LAR-043",
+      "champ": "La reconnaissance des libertés et des droits civils",
+      "section": null,
+      "chemin": [
+        "2. Reconnaissance des libertés et des droits civils et retombées de la conquête des libertés et des droits civils pour les collectivités",
+        "ou 2.2. Mouvement de décolonisation"
+      ],
+      "texte": "a. Énoncer des principes inscrits dans la charte de l’Organisation des Nations Unies sur lesquels s’appuient les groupes qui s’opposent au colonialisme (ex. : principe de l'égalité de droits des peuples et de leur droit à disposer d'eux-mêmes)",
+      "progression": {
+        "1": null,
+        "2": "maitrise"
+      },
+      "page": 29,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "HEC-LAR-044",
+      "champ": "La reconnaissance des libertés et des droits civils",
+      "section": null,
+      "chemin": [
+        "2. Reconnaissance des libertés et des droits civils et retombées de la conquête des libertés et des droits civils pour les collectivités",
+        "ou 2.2. Mouvement de décolonisation"
+      ],
+      "texte": "b. Indiquer des préjudices à l’égard des populations colonisées (ex. : discrimination, ségrégation, absence de contrôle de l’économie, imposition d’une culture étrangère)",
+      "progression": {
+        "1": null,
+        "2": "maitrise"
+      },
+      "page": 29,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "HEC-LAR-045",
+      "champ": "La reconnaissance des libertés et des droits civils",
+      "section": null,
+      "chemin": [
+        "2. Reconnaissance des libertés et des droits civils et retombées de la conquête des libertés et des droits civils pour les collectivités",
+        "ou 2.2. Mouvement de décolonisation"
+      ],
+      "texte": "c. Nommer des acteurs associés au mouvement de décolonisation (ex. : Gandhi, Senghor, Organisation des Nations Unies)",
+      "progression": {
+        "1": null,
+        "2": "maitrise"
+      },
+      "page": 29,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "HEC-LAR-046",
+      "champ": "La reconnaissance des libertés et des droits civils",
+      "section": null,
+      "chemin": [
+        "2. Reconnaissance des libertés et des droits civils et retombées de la conquête des libertés et des droits civils pour les collectivités",
+        "ou 2.2. Mouvement de décolonisation"
+      ],
+      "texte": "d. Indiquer des actions entreprises par ceux qui s’opposent au colonialisme (ex. : boycottage, résistance passive, émeutes, guerres)",
+      "progression": {
+        "1": null,
+        "2": "maitrise"
+      },
+      "page": 29,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "HEC-LAR-047",
+      "champ": "La reconnaissance des libertés et des droits civils",
+      "section": null,
+      "chemin": [
+        "2. Reconnaissance des libertés et des droits civils et retombées de la conquête des libertés et des droits civils pour les collectivités",
+        "ou 2.2. Mouvement de décolonisation"
+      ],
+      "texte": "e. Indiquer des réactions face au mouvement de lutte pour la décolonisation (ex. : répression, guerres)",
+      "progression": {
+        "1": null,
+        "2": "maitrise"
+      },
+      "page": 29,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "HEC-LAR-048",
+      "champ": "La reconnaissance des libertés et des droits civils",
+      "section": null,
+      "chemin": [
+        "2. Reconnaissance des libertés et des droits civils et retombées de la conquête des libertés et des droits civils pour les collectivités",
+        "ou 2.2. Mouvement de décolonisation"
+      ],
+      "texte": "f. Indiquer des gains obtenus par les populations en lutte contre la colonisation (ex. : indépendance de nombreux États en Asie et en Afrique)",
+      "progression": {
+        "1": null,
+        "2": "maitrise"
+      },
+      "page": 29,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "HEC-LAR-049",
+      "champ": "La reconnaissance des libertés et des droits civils",
+      "section": null,
+      "chemin": [
+        "3. Responsabilités de l’individu dans la conquête et la reconnaissance des libertés et des droits civils aujourd’hui"
+      ],
+      "texte": "a. Nommer des organismes voués à la lutte pour la conquête de libertés et de droits civils (ex. : Amnistie internationale, Human Rights Watch, SOS Racisme)",
+      "progression": {
+        "1": null,
+        "2": "maitrise"
+      },
+      "page": 29,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "HEC-LAR-050",
+      "champ": "La reconnaissance des libertés et des droits civils",
+      "section": null,
+      "chemin": [
+        "3. Responsabilités de l’individu dans la conquête et la reconnaissance des libertés et des droits civils aujourd’hui"
+      ],
+      "texte": "b. Indiquer des actions qui illustrent l’exercice de droits fondamentaux (ex. : manifestation, élection, pétition, lettre ouverte)",
+      "progression": {
+        "1": null,
+        "2": "maitrise"
+      },
+      "page": 29,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "HEC-LAR-051",
+      "champ": "La reconnaissance des libertés et des droits civils",
+      "section": null,
+      "chemin": [
+        "3. Responsabilités de l’individu dans la conquête et la reconnaissance des libertés et des droits civils aujourd’hui"
+      ],
+      "texte": "c. Donner des exemples d’actions entreprises par des organismes pour promouvoir la reconnaissance de libertés et de droits civils (ex. : dénonciation, boycottage, publications)",
+      "progression": {
+        "1": null,
+        "2": "maitrise"
+      },
+      "page": 29,
+      "a_verifier": false,
+      "note": ""
+    }
+  ]
+}

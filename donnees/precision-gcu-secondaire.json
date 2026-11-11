@@ -1,0 +1,3631 @@
+{
+  "discipline": "Géographie culturelle",
+  "code_discipline": "GCU",
+  "ordre": "secondaire",
+  "annee": "5e",
+  "source": "PFEQ-precision-apprentissages-geographie-culturelle-secondaire.pdf",
+  "type": "Précision des apprentissages : liste d’énoncés, sans progression par année",
+  "themes": [
+    "Aire culturelle africaine",
+    "Aire culturelle arabe",
+    "Aire culturelle indienne",
+    "Aire culturelle latino-américaine",
+    "Aire culturelle occidentale",
+    "Aire culturelle orientale"
+  ],
+  "bilan": {
+    "nombre_savoirs": 366,
+    "par_theme": {
+      "Aire culturelle africaine": 76,
+      "Aire culturelle arabe": 55,
+      "Aire culturelle indienne": 68,
+      "Aire culturelle latino-américaine": 68,
+      "Aire culturelle occidentale": 46,
+      "Aire culturelle orientale": 53
+    }
+  },
+  "savoirs": [
+    {
+      "id": "GCU-AFR-001",
+      "theme": "Aire culturelle africaine",
+      "chemin": [
+        "1. Localisation de l’aire culturelle africaine"
+      ],
+      "texte": "a. Indiquer, sur une carte du monde, les limites de l’aire culturelle africaine",
+      "page": 5
+    },
+    {
+      "id": "GCU-AFR-002",
+      "theme": "Aire culturelle africaine",
+      "chemin": [
+        "1. Localisation de l’aire culturelle africaine"
+      ],
+      "texte": "b. Situer, sur une carte de l’Afrique subsaharienne, des pays de l’aire culturelle (ex. : Sénégal, Somalie, Tchad, Afrique du Sud, Madagascar)",
+      "page": 5
+    },
+    {
+      "id": "GCU-AFR-003",
+      "theme": "Aire culturelle africaine",
+      "chemin": [
+        "2. Caractéristiques naturelles de l’aire culturelle africaine",
+        "2.1. Facteurs naturels"
+      ],
+      "texte": "a. Donner les principales caractéristiques physiographiques de l’aire culturelle africaine : important bouclier, grands bassins fluviaux, hauts plateaux, étroites plaines littorales",
+      "page": 5
+    },
+    {
+      "id": "GCU-AFR-004",
+      "theme": "Aire culturelle africaine",
+      "chemin": [
+        "2. Caractéristiques naturelles de l’aire culturelle africaine",
+        "2.1. Facteurs naturels"
+      ],
+      "texte": "b. Situer, sur une carte du continent africain, les océans et les principaux golfes autour desquels se distribuent les pays de l’Afrique subsaharienne : océans Atlantique et Indien; golfes de Guinée et d’Aden",
+      "page": 5
+    },
+    {
+      "id": "GCU-AFR-005",
+      "theme": "Aire culturelle africaine",
+      "chemin": [
+        "2. Caractéristiques naturelles de l’aire culturelle africaine",
+        "2.1. Facteurs naturels"
+      ],
+      "texte": "c. Situer, sur une carte de l’Afrique subsaharienne, les principaux plateaux de l’aire : massif éthiopien, plateau de Bihé, massif Somali",
+      "page": 5
+    },
+    {
+      "id": "GCU-AFR-006",
+      "theme": "Aire culturelle africaine",
+      "chemin": [
+        "2. Caractéristiques naturelles de l’aire culturelle africaine",
+        "2.1. Facteurs naturels"
+      ],
+      "texte": "d. Situer, sur une carte de l’Afrique subsaharienne, les principaux déserts : Sahara, Namib, Kalahari",
+      "page": 5
+    },
+    {
+      "id": "GCU-AFR-007",
+      "theme": "Aire culturelle africaine",
+      "chemin": [
+        "2. Caractéristiques naturelles de l’aire culturelle africaine",
+        "2.1. Facteurs naturels"
+      ],
+      "texte": "e. Situer, sur une carte de l’Afrique subsaharienne, les principaux fleuves et lacs : fleuves Nil Blanc, Nil Bleu, Sénégal, Niger, Congo et Zambèze; lacs Victoria, Tanganyika et Tchad",
+      "page": 5
+    },
+    {
+      "id": "GCU-AFR-008",
+      "theme": "Aire culturelle africaine",
+      "chemin": [
+        "2. Caractéristiques naturelles de l’aire culturelle africaine",
+        "2.1. Facteurs naturels"
+      ],
+      "texte": "f. Indiquer les principaux avantages liés à la présence de grands bassins hydrographiques : abondance d’eau douce, importance des forêts",
+      "page": 5
+    },
+    {
+      "id": "GCU-AFR-009",
+      "theme": "Aire culturelle africaine",
+      "chemin": [
+        "2. Caractéristiques naturelles de l’aire culturelle africaine",
+        "2.1. Facteurs naturels"
+      ],
+      "texte": "g. Nommer des ressources exploitées dans différentes régions de l’Afrique subsaharienne (ex. : pétrole, en Afrique de l’Ouest; cuivre, en Afrique du Sud-Est; forêt, en Afrique centrale; diamants en Afrique australe)",
+      "page": 5
+    },
+    {
+      "id": "GCU-AFR-010",
+      "theme": "Aire culturelle africaine",
+      "chemin": [
+        "2. Caractéristiques naturelles de l’aire culturelle africaine",
+        "2.1. Facteurs naturels"
+      ],
+      "texte": "h. Nommer les principaux climats de l’Afrique subsaharienne : tropical humide, tropical sec, équatorial, désertique",
+      "page": 5
+    },
+    {
+      "id": "GCU-AFR-011",
+      "theme": "Aire culturelle africaine",
+      "chemin": [
+        "2. Caractéristiques naturelles de l’aire culturelle africaine",
+        "2.2. Influence des facteurs naturels sur l’organisation du territoire"
+      ],
+      "texte": "a. Décrire la principale influence des hauts plateaux sur l’organisation territoriale : ils favorisent l’agriculture",
+      "page": 5
+    },
+    {
+      "id": "GCU-AFR-012",
+      "theme": "Aire culturelle africaine",
+      "chemin": [
+        "2. Caractéristiques naturelles de l’aire culturelle africaine",
+        "2.2. Influence des facteurs naturels sur l’organisation du territoire"
+      ],
+      "texte": "b. Décrire l’influence des déserts sur l’organisation territoriale : le développement d’infrastructures de transport est parfois complexe en raison des ergs; l’aridité des sols et les conditions climatiques limitent les activités agricoles",
+      "page": 5
+    },
+    {
+      "id": "GCU-AFR-013",
+      "theme": "Aire culturelle africaine",
+      "chemin": [
+        "2. Caractéristiques naturelles de l’aire culturelle africaine",
+        "2.2. Influence des facteurs naturels sur l’organisation du territoire"
+      ],
+      "texte": "c. Indiquer des conséquences de l’étroitesse des plaines littorales sur l’organisation territoriale (ex. : concentration de la population, concentration d’activités industrielles)",
+      "page": 5
+    },
+    {
+      "id": "GCU-AFR-014",
+      "theme": "Aire culturelle africaine",
+      "chemin": [
+        "2. Caractéristiques naturelles de l’aire culturelle africaine",
+        "2.2. Influence des facteurs naturels sur l’organisation du territoire"
+      ],
+      "texte": "d. Décrire l’influence du Bouclier africain sur l’organisation territoriale : le relief du Bouclier limite l’occupation du territoire; la formation géologique du Bouclier favorise l’exploitation minière",
+      "page": 5
+    },
+    {
+      "id": "GCU-AFR-015",
+      "theme": "Aire culturelle africaine",
+      "chemin": [
+        "2. Caractéristiques naturelles de l’aire culturelle africaine",
+        "2.2. Influence des facteurs naturels sur l’organisation du territoire"
+      ],
+      "texte": "e. Décrire l’influence des principaux climats sur l’organisation territoriale : le climat tropical humide crée des conditions favorables à l’agriculture; le climat tropical sec limite les activités agricoles; le climat équatorial favorise la croissance de la forêt et contribue au développement du réseau hydrographique; le climat désertique contribue à l’étendue et à l’expansion des déserts",
+      "page": 5
+    },
+    {
+      "id": "GCU-AFR-016",
+      "theme": "Aire culturelle africaine",
+      "chemin": [
+        "3. Caractéristiques sociales de l’aire culturelle africaine",
+        "3.1. Culture"
+      ],
+      "texte": "a. Donner les principales caractéristiques culturelles des sociétés de l’Afrique subsaharienne : importance des traditions, multiplicité ethnique, diversité de langues et de familles linguistiques, diversité religieuse",
+      "page": 5
+    },
+    {
+      "id": "GCU-AFR-017",
+      "theme": "Aire culturelle africaine",
+      "chemin": [
+        "3. Caractéristiques sociales de l’aire culturelle africaine",
+        "3.1. Culture"
+      ],
+      "texte": "b. Nommer des valeurs partagées par les sociétés de l’Afrique subsaharienne (ex. : respect des ancêtres, respect des traditions, solidarité entre les membres d’une même communauté)",
+      "page": 5
+    },
+    {
+      "id": "GCU-AFR-018",
+      "theme": "Aire culturelle africaine",
+      "chemin": [
+        "3. Caractéristiques sociales de l’aire culturelle africaine",
+        "3.1. Culture"
+      ],
+      "texte": "c. Décrire le rôle de la famille élargie dans la plupart des sociétés : la famille élargie constitue la base de l’organisation sociale",
+      "page": 6
+    },
+    {
+      "id": "GCU-AFR-019",
+      "theme": "Aire culturelle africaine",
+      "chemin": [
+        "3. Caractéristiques sociales de l’aire culturelle africaine",
+        "3.1. Culture"
+      ],
+      "texte": "d. Indiquer des effets de la multiplicité ethnique sur des populations de l’Afrique subsaharienne (ex. : tensions entre des membres d’ethnies différentes au sein d’un même pays, difficultés de communication entre des membres d’une même ethnie situés de part et d’autre d’une même frontière politique)",
+      "page": 6
+    },
+    {
+      "id": "GCU-AFR-020",
+      "theme": "Aire culturelle africaine",
+      "chemin": [
+        "3. Caractéristiques sociales de l’aire culturelle africaine",
+        "3.2. Langue"
+      ],
+      "texte": "a. Nommer les langues officielles de la majorité des pays d’Afrique subsaharienne : anglais, français, portugais",
+      "page": 6
+    },
+    {
+      "id": "GCU-AFR-021",
+      "theme": "Aire culturelle africaine",
+      "chemin": [
+        "3. Caractéristiques sociales de l’aire culturelle africaine",
+        "3.2. Langue"
+      ],
+      "texte": "b. Décrire la réalité linguistique des pays d’Afrique subsaharienne : les langues officielles sont celles de l’administration et des relations extérieures; elles sont majoritairement parlées par la population scolarisée et en milieu urbain; la population en milieu rural utilise des langues locales ou des dialectes; la grande diversité linguistique entraîne des difficultés de communication",
+      "page": 6
+    },
+    {
+      "id": "GCU-AFR-022",
+      "theme": "Aire culturelle africaine",
+      "chemin": [
+        "3. Caractéristiques sociales de l’aire culturelle africaine",
+        "3.3. Religion"
+      ],
+      "texte": "a. Nommer des religions pratiquées en Afrique subsaharienne (ex. : animisme, christianisme, islam)",
+      "page": 6
+    },
+    {
+      "id": "GCU-AFR-023",
+      "theme": "Aire culturelle africaine",
+      "chemin": [
+        "3. Caractéristiques sociales de l’aire culturelle africaine",
+        "3.3. Religion"
+      ],
+      "texte": "b. Indiquer le principal effet de l'établissement de nouvelles Églises sur les sociétés en Afrique subsaharienne : remise en question de valeurs traditionnelles",
+      "page": 6
+    },
+    {
+      "id": "GCU-AFR-024",
+      "theme": "Aire culturelle africaine",
+      "chemin": [
+        "4. Population de l’aire culturelle africaine",
+        "4.1. Caractéristiques démographiques"
+      ],
+      "texte": "a. Indiquer la proportion de la population de l’Afrique subsaharienne par rapport à celle de l’ensemble du continent : en 2010, environ 80 %",
+      "page": 6
+    },
+    {
+      "id": "GCU-AFR-025",
+      "theme": "Aire culturelle africaine",
+      "chemin": [
+        "4. Population de l’aire culturelle africaine",
+        "4.1. Caractéristiques démographiques"
+      ],
+      "texte": "b. Donner les principales caractéristiques démographiques des populations de l’aire culturelle : taux de fécondité élevé, taux de mortalité en baisse, forte proportion de la population ayant moins de 35 ans",
+      "page": 6
+    },
+    {
+      "id": "GCU-AFR-026",
+      "theme": "Aire culturelle africaine",
+      "chemin": [
+        "4. Population de l’aire culturelle africaine",
+        "4.1. Caractéristiques démographiques"
+      ],
+      "texte": "c. Nommer des pays qui ont un solde migratoire positif (ex. : Afrique du Sud, Namibie)",
+      "page": 6
+    },
+    {
+      "id": "GCU-AFR-027",
+      "theme": "Aire culturelle africaine",
+      "chemin": [
+        "4. Population de l’aire culturelle africaine",
+        "4.1. Caractéristiques démographiques"
+      ],
+      "texte": "d. Indiquer le principal facteur qui explique le solde migratoire positif dans certains pays : travailleurs attirés par l’emploi dans le secteur primaire",
+      "page": 6
+    },
+    {
+      "id": "GCU-AFR-028",
+      "theme": "Aire culturelle africaine",
+      "chemin": [
+        "4. Population de l’aire culturelle africaine",
+        "4.1. Caractéristiques démographiques"
+      ],
+      "texte": "e. Nommer des pays qui ont un solde migratoire négatif (ex. : Nigeria, Zimbabwe)",
+      "page": 6
+    },
+    {
+      "id": "GCU-AFR-029",
+      "theme": "Aire culturelle africaine",
+      "chemin": [
+        "4. Population de l’aire culturelle africaine",
+        "4.1. Caractéristiques démographiques"
+      ],
+      "texte": "f. Indiquer des facteurs qui expliquent le solde migratoire négatif dans certains pays (ex. : tensions et conflits politiques, faiblesse du développement économique)",
+      "page": 6
+    },
+    {
+      "id": "GCU-AFR-030",
+      "theme": "Aire culturelle africaine",
+      "chemin": [
+        "4. Population de l’aire culturelle africaine",
+        "4.2. Répartition de la population"
+      ],
+      "texte": "a. Situer, sur une carte de l’Afrique subsaharienne, les principales zones de forte densité de population : littoral du golfe de Guinée, région des grands lacs africains, sud-est du continent africain",
+      "page": 6
+    },
+    {
+      "id": "GCU-AFR-031",
+      "theme": "Aire culturelle africaine",
+      "chemin": [
+        "4. Population de l’aire culturelle africaine",
+        "4.2. Répartition de la population"
+      ],
+      "texte": "b. Indiquer des facteurs de localisation des zones de forte densité de population (ex. : proximité des océans et de zones portuaires, conditions climatiques favorables, héritage colonial, présence de richesses naturelles)",
+      "page": 6
+    },
+    {
+      "id": "GCU-AFR-032",
+      "theme": "Aire culturelle africaine",
+      "chemin": [
+        "4. Population de l’aire culturelle africaine",
+        "4.2. Répartition de la population"
+      ],
+      "texte": "c. Indiquer des facteurs de localisation des zones de faible densité de population en Afrique subsaharienne (ex. : conditions climatiques des milieux aride et semi-aride, forêt tropicale, infrastructures de transport peu développées)",
+      "page": 6
+    },
+    {
+      "id": "GCU-AFR-033",
+      "theme": "Aire culturelle africaine",
+      "chemin": [
+        "4. Population de l’aire culturelle africaine",
+        "4.3. Poids des villes"
+      ],
+      "texte": "a. Donner des caractéristiques de l’urbanisation en Afrique subsaharienne (ex. : rapidité de la croissance de la population urbaine, développement urbain peu planifié, taux d’urbanisation le moins élevé au monde)",
+      "page": 6
+    },
+    {
+      "id": "GCU-AFR-034",
+      "theme": "Aire culturelle africaine",
+      "chemin": [
+        "4. Population de l’aire culturelle africaine",
+        "4.3. Poids des villes"
+      ],
+      "texte": "b. Situer, sur une carte de l’Afrique, de grandes agglomérations (ex. : Dakar, Lagos, Addis Abeba, Nairobi, Kinshasa, Johannesburg)",
+      "page": 6
+    },
+    {
+      "id": "GCU-AFR-035",
+      "theme": "Aire culturelle africaine",
+      "chemin": [
+        "4. Population de l’aire culturelle africaine",
+        "4.3. Poids des villes"
+      ],
+      "texte": "c. Indiquer des facteurs qui expliquent l’attrait des villes sur les populations (ex. : concentration des services de santé et d’éducation, possibilité d’emploi, amélioration des conditions de vie, innovations commerciales et industrielles, lieux de diffusion de valeurs non traditionnelles)",
+      "page": 6
+    },
+    {
+      "id": "GCU-AFR-036",
+      "theme": "Aire culturelle africaine",
+      "chemin": [
+        "4. Population de l’aire culturelle africaine",
+        "4.3. Poids des villes"
+      ],
+      "texte": "d. Indiquer les principales conséquences de l’urbanisation sur les sociétés de l’Afrique subsaharienne : changement dans le rôle des femmes, augmentation du taux d’alphabétisation, diminution du nombre d’enfants par femme, développement d’une économie parallèle",
+      "page": 6
+    },
+    {
+      "id": "GCU-AFR-037",
+      "theme": "Aire culturelle africaine",
+      "chemin": [
+        "4. Population de l’aire culturelle africaine",
+        "4.3. Poids des villes"
+      ],
+      "texte": "e. Indiquer des conséquences de la croissance rapide de la population urbaine sur l’organisation territoriale (ex. : accessibilité réduite au logement, apparition de bidonvilles n’ayant pas accès aux services publics, congestion des voies de circulation, pollution de l’air et de l’eau)",
+      "page": 6
+    },
+    {
+      "id": "GCU-AFR-038",
+      "theme": "Aire culturelle africaine",
+      "chemin": [
+        "5. Politique et économie de l’aire culturelle africaine",
+        "5.1. Colonisation"
+      ],
+      "texte": "a. Nommer des pays qui possèdent des colonies en Afrique subsaharienne au milieu du 20e siècle (ex. : France, Royaume-Uni, Portugal)",
+      "page": 7
+    },
+    {
+      "id": "GCU-AFR-039",
+      "theme": "Aire culturelle africaine",
+      "chemin": [
+        "5. Politique et économie de l’aire culturelle africaine",
+        "5.1. Colonisation"
+      ],
+      "texte": "b. Indiquer des conséquences de la colonisation européenne sur les sociétés de l’Afrique subsaharienne (ex. : adoption de la langue et de la religion des pays colonisateurs, séparation des membres d’une même ethnie par le tracé des frontières, modification du mode de vie)",
+      "page": 7
+    },
+    {
+      "id": "GCU-AFR-040",
+      "theme": "Aire culturelle africaine",
+      "chemin": [
+        "5. Politique et économie de l’aire culturelle africaine",
+        "5.1. Colonisation"
+      ],
+      "texte": "c. Indiquer des conséquences de la colonisation européenne sur l’organisation territoriale (ex. : extraction de ressources naturelles, construction d’infrastructures routières et ferroviaires, création de villes portuaires, implantation de la monoculture)",
+      "page": 7
+    },
+    {
+      "id": "GCU-AFR-041",
+      "theme": "Aire culturelle africaine",
+      "chemin": [
+        "5. Politique et économie de l’aire culturelle africaine",
+        "5.2. Décolonisation"
+      ],
+      "texte": "a. Indiquer des facteurs qui expliquent la décolonisation en Afrique subsaharienne (ex. : émergence d’affirmations identitaires, instruction des élites, faiblesse économique et politique de l’Europe au lendemain de la Seconde Guerre mondiale, soutien à la décolonisation de la part des superpuissances)",
+      "page": 7
+    },
+    {
+      "id": "GCU-AFR-042",
+      "theme": "Aire culturelle africaine",
+      "chemin": [
+        "5. Politique et économie de l’aire culturelle africaine",
+        "5.2. Décolonisation"
+      ],
+      "texte": "b. Indiquer des conséquences de la décolonisation sur les sociétés de l’Afrique subsaharienne (ex. : souveraineté politique, accessibilité accrue à l’éducation, guerres civiles, établissement de nouvelles Églises)",
+      "page": 7
+    },
+    {
+      "id": "GCU-AFR-043",
+      "theme": "Aire culturelle africaine",
+      "chemin": [
+        "5. Politique et économie de l’aire culturelle africaine",
+        "5.2. Décolonisation"
+      ],
+      "texte": "c. Indiquer des conséquences de la décolonisation sur l’organisation territoriale (ex. : diversification de l’agriculture, développement de régions en périphérie, détérioration d’infrastructures routières et ferroviaires)",
+      "page": 7
+    },
+    {
+      "id": "GCU-AFR-044",
+      "theme": "Aire culturelle africaine",
+      "chemin": [
+        "5. Politique et économie de l’aire culturelle africaine",
+        "5.3. Régime politique"
+      ],
+      "texte": "a. Nommer les principaux types de régimes politiques dans les pays de l’Afrique subsaharienne : démocratique, autoritaire",
+      "page": 7
+    },
+    {
+      "id": "GCU-AFR-045",
+      "theme": "Aire culturelle africaine",
+      "chemin": [
+        "5. Politique et économie de l’aire culturelle africaine",
+        "5.3. Régime politique"
+      ],
+      "texte": "b. Donner des caractéristiques de régimes politiques démocratiques (ex. : élections libres, partage des pouvoirs, multipartisme)",
+      "page": 7
+    },
+    {
+      "id": "GCU-AFR-046",
+      "theme": "Aire culturelle africaine",
+      "chemin": [
+        "5. Politique et économie de l’aire culturelle africaine",
+        "5.3. Régime politique"
+      ],
+      "texte": "c. Donner des caractéristiques de régimes politiques autoritaires (ex. : concentration de pouvoirs entre les mains d’une personne ou d’une famille, parti unique)",
+      "page": 7
+    },
+    {
+      "id": "GCU-AFR-047",
+      "theme": "Aire culturelle africaine",
+      "chemin": [
+        "5. Politique et économie de l’aire culturelle africaine",
+        "5.3. Régime politique"
+      ],
+      "texte": "d. Indiquer ce qui explique l’instabilité de certains régimes politiques de l’Afrique subsaharienne (ex. : guerres civiles, coups d’État, tensions ethniques régionales)",
+      "page": 7
+    },
+    {
+      "id": "GCU-AFR-048",
+      "theme": "Aire culturelle africaine",
+      "chemin": [
+        "5. Politique et économie de l’aire culturelle africaine",
+        "5.4. Développement économique"
+      ],
+      "texte": "a. Indiquer des facteurs qui expliquent la faible croissance économique de certains pays (ex. : pays enclavés, pauvreté des sols, héritage colonial, instabilité politique, difficultés de communication et d’échanges liées à la pluralité des langues et des ethnies)",
+      "page": 7
+    },
+    {
+      "id": "GCU-AFR-049",
+      "theme": "Aire culturelle africaine",
+      "chemin": [
+        "5. Politique et économie de l’aire culturelle africaine",
+        "5.4. Développement économique"
+      ],
+      "texte": "b. Indiquer des facteurs qui expliquent la croissance économique de certains pays (ex. : exploitation des ressources minières et énergétiques, partenariats économiques avec des pays d'Asie, tels que la Chine et l’Inde)",
+      "page": 7
+    },
+    {
+      "id": "GCU-AFR-050",
+      "theme": "Aire culturelle africaine",
+      "chemin": [
+        "5. Politique et économie de l’aire culturelle africaine",
+        "5.4. Développement économique"
+      ],
+      "texte": "c. Situer, sur une carte de l’Afrique subsaharienne, des pays qui ont un indice de développement humain moyen et des pays qui ont un indice de développement humain faible (ex. : en Afrique du Sud et au Gabon, le développement humain est moyen; en Angola et au Nigéria, le développement humain est faible)",
+      "page": 7
+    },
+    {
+      "id": "GCU-AFR-051",
+      "theme": "Aire culturelle africaine",
+      "chemin": [
+        "5. Politique et économie de l’aire culturelle africaine",
+        "5.4. Développement économique"
+      ],
+      "texte": "d. Indiquer ce qui explique le faible indice de développement humain dans la plupart des pays d’Afrique subsaharienne (ex. : contexte politique instable à la suite de l’indépendance, conflits ethniques et religieux, faible niveau de développement économique, exposition élevée à des risques naturels, mainmise d’entreprises étrangères sur les ressources naturelles)",
+      "page": 7
+    },
+    {
+      "id": "GCU-AFR-052",
+      "theme": "Aire culturelle africaine",
+      "chemin": [
+        "5. Politique et économie de l’aire culturelle africaine",
+        "5.5. Relations économiques et politiques"
+      ],
+      "texte": "a. Nommer des pays qui entretiennent des relations économiques avec des pays de l’Afrique subsaharienne (ex. : France, Royaume-Uni, Belgique, États-Unis, Chine, Inde, Brésil, Venezuela)",
+      "page": 7
+    },
+    {
+      "id": "GCU-AFR-053",
+      "theme": "Aire culturelle africaine",
+      "chemin": [
+        "5. Politique et économie de l’aire culturelle africaine",
+        "5.5. Relations économiques et politiques"
+      ],
+      "texte": "b. Nommer des pays qui sont des leaders politiques (ex. : Afrique du Sud, Nigeria)",
+      "page": 7
+    },
+    {
+      "id": "GCU-AFR-054",
+      "theme": "Aire culturelle africaine",
+      "chemin": [
+        "5. Politique et économie de l’aire culturelle africaine",
+        "5.5. Relations économiques et politiques"
+      ],
+      "texte": "c. Nommer des regroupements économiques et politiques (ex. : Union africaine, Communauté économique des États de l’Afrique de l’Ouest [CEDEAO], Marché commun de l’Afrique orientale et australe)",
+      "page": 7
+    },
+    {
+      "id": "GCU-AFR-055",
+      "theme": "Aire culturelle africaine",
+      "chemin": [
+        "5. Politique et économie de l’aire culturelle africaine",
+        "5.5. Relations économiques et politiques"
+      ],
+      "texte": "d. Indiquer les principaux objectifs poursuivis par le Nouveau partenariat pour le développement de l'Afrique mis en place par l’Union africaine : favoriser le développement et la croissance économique de tous les pays africains; participer activement à l’économie mondiale; combler l’écart qui sépare les économies africaines de celles des pays développés",
+      "page": 7
+    },
+    {
+      "id": "GCU-AFR-056",
+      "theme": "Aire culturelle africaine",
+      "chemin": [
+        "5. Politique et économie de l’aire culturelle africaine",
+        "5.5. Relations économiques et politiques"
+      ],
+      "texte": "e. Indiquer le principal objectif poursuivi par la CEDEAO : promouvoir la coopération et l’intégration des pays d’Afrique de l’Ouest",
+      "page": 7
+    },
+    {
+      "id": "GCU-AFR-057",
+      "theme": "Aire culturelle africaine",
+      "chemin": [
+        "5. Politique et économie de l’aire culturelle africaine",
+        "5.5. Relations économiques et politiques"
+      ],
+      "texte": "f. Situer, sur une carte de l’Afrique, des pays membres de la CEDEAO (ex. : Bénin, Cap-Vert, Côte d'Ivoire, Ghana, Guinée, Mali, Niger, Nigeria, Sénégal)",
+      "page": 8
+    },
+    {
+      "id": "GCU-AFR-058",
+      "theme": "Aire culturelle africaine",
+      "chemin": [
+        "6. Affirmation identitaire africaine",
+        "6.1. Construction de l’africanité"
+      ],
+      "texte": "a. Définir le terme africanité : affirmation d’une identité propre aux cultures africaines",
+      "page": 8
+    },
+    {
+      "id": "GCU-AFR-059",
+      "theme": "Aire culturelle africaine",
+      "chemin": [
+        "6. Affirmation identitaire africaine",
+        "6.1. Construction de l’africanité"
+      ],
+      "texte": "b. Indiquer les principales revendications liées à l’affirmation de l’africanité : reconnaissance de la place de l’Afrique dans la politique et l’économie mondiales; reconnaissance du potentiel de développement économique et social",
+      "page": 8
+    },
+    {
+      "id": "GCU-AFR-060",
+      "theme": "Aire culturelle africaine",
+      "chemin": [
+        "6. Affirmation identitaire africaine",
+        "6.1. Construction de l’africanité"
+      ],
+      "texte": "c. Nommer des personnes qui ont contribué à l’affirmation de l’africanité (ex. : Léopold Sédar Senghor, Nelson Mandela, Cheik Hamidou Kane, Suzanne Ouédraogo, Wangari Maathai)",
+      "page": 8
+    },
+    {
+      "id": "GCU-AFR-061",
+      "theme": "Aire culturelle africaine",
+      "chemin": [
+        "6. Affirmation identitaire africaine",
+        "6.1. Construction de l’africanité"
+      ],
+      "texte": "d. Indiquer des manifestations de l’affirmation de l’africanité sur le plan international (ex. : demande de retrait de missions onusiennes; établissement de liens économiques et politiques avec des pays émergents; en 2009, forte représentation des États africains au sommet Amérique du Sud-Afrique)",
+      "page": 8
+    },
+    {
+      "id": "GCU-AFR-062",
+      "theme": "Aire culturelle africaine",
+      "chemin": [
+        "6. Affirmation identitaire africaine",
+        "6.1. Construction de l’africanité"
+      ],
+      "texte": "e. Indiquer les principaux obstacles à l’affirmation de l’africanité : contrôle du développement économique par des intérêts étrangers, intérêts divergents de pays africains",
+      "page": 8
+    },
+    {
+      "id": "GCU-AFR-063",
+      "theme": "Aire culturelle africaine",
+      "chemin": [
+        "6. Affirmation identitaire africaine",
+        "6.2. Place des femmes"
+      ],
+      "texte": "a. Indiquer des secteurs d’activité dans lesquels travaillent la majorité des femmes en Afrique subsaharienne (ex. : agriculture, commerce d’alimentation)",
+      "page": 8
+    },
+    {
+      "id": "GCU-AFR-064",
+      "theme": "Aire culturelle africaine",
+      "chemin": [
+        "6. Affirmation identitaire africaine",
+        "6.2. Place des femmes"
+      ],
+      "texte": "b. Décrire les conditions économiques des femmes : leur rémunération, pour un travail égal, est inférieure à celle des hommes; elles occupent la majorité des emplois en agriculture, généralement sans être rémunérées; elles représentent la majorité des travailleurs de l’économie parallèle; elles ont de la difficulté à accéder au crédit et à la propriété",
+      "page": 8
+    },
+    {
+      "id": "GCU-AFR-065",
+      "theme": "Aire culturelle africaine",
+      "chemin": [
+        "6. Affirmation identitaire africaine",
+        "6.2. Place des femmes"
+      ],
+      "texte": "c. Décrire les conditions sociales des femmes : leur scolarisation est inférieure à celle des hommes; elles sont désavantagées dans le partage du patrimoine familial; de jeunes filles sont contraintes à des mariages arrangés par leurs parents",
+      "page": 8
+    },
+    {
+      "id": "GCU-AFR-066",
+      "theme": "Aire culturelle africaine",
+      "chemin": [
+        "6. Affirmation identitaire africaine",
+        "6.2. Place des femmes"
+      ],
+      "texte": "d. Indiquer des facteurs qui expliquent la place croissante des femmes dans la société (ex. : développement de mouvements associatifs féminins, urbanisation, création d'un ministère consacré à la condition féminine)",
+      "page": 8
+    },
+    {
+      "id": "GCU-AFR-067",
+      "theme": "Aire culturelle africaine",
+      "chemin": [
+        "6. Affirmation identitaire africaine",
+        "6.2. Place des femmes"
+      ],
+      "texte": "e. Indiquer des manifestations liées à la présence de plus en plus importante des femmes dans les sphères politique et sociale (ex. : augmentation du nombre de femmes chefs d’État, augmentation du nombre d’emplois occupés par des femmes, implication de femmes dans des réseaux communautaires)",
+      "page": 8
+    },
+    {
+      "id": "GCU-AFR-068",
+      "theme": "Aire culturelle africaine",
+      "chemin": [
+        "6. Affirmation identitaire africaine",
+        "6.3. Importance de la jeunesse"
+      ],
+      "texte": "a. Indiquer des manifestations de l’affirmation de la jeunesse en Afrique subsaharienne (ex. : engagement dans des mouvements communautaires et politiques; revendications d’équité sur le plan de l’emploi, des libertés individuelles et du partage des pouvoirs)",
+      "page": 8
+    },
+    {
+      "id": "GCU-AFR-069",
+      "theme": "Aire culturelle africaine",
+      "chemin": [
+        "6. Affirmation identitaire africaine",
+        "6.3. Importance de la jeunesse"
+      ],
+      "texte": "b. Indiquer des conséquences des revendications sociales de la jeunesse sur les sociétés (ex. : remise en question de valeurs traditionnelles, tensions entre les générations, migration vers les villes ou vers l’étranger)",
+      "page": 8
+    },
+    {
+      "id": "GCU-AFR-070",
+      "theme": "Aire culturelle africaine",
+      "chemin": [
+        "6. Affirmation identitaire africaine",
+        "6.3. Importance de la jeunesse"
+      ],
+      "texte": "c. Indiquer des difficultés sociales et économiques auxquelles est confrontée la jeunesse (ex. : sous-emploi, exclusion sociale et économique, accès restreint aux études supérieures)",
+      "page": 8
+    },
+    {
+      "id": "GCU-AFR-071",
+      "theme": "Aire culturelle africaine",
+      "chemin": [
+        "7. Diaspora africaine"
+      ],
+      "texte": "a. Définir le terme diaspora : population dispersée qui conserve des liens économiques et sociaux avec le pays d’origine",
+      "page": 8
+    },
+    {
+      "id": "GCU-AFR-072",
+      "theme": "Aire culturelle africaine",
+      "chemin": [
+        "7. Diaspora africaine"
+      ],
+      "texte": "b. Indiquer les principaux facteurs qui expliquent les mouvements migratoires : amélioration de la situation économique, tensions et conflits ethniques ou politiques, catastrophes naturelles",
+      "page": 8
+    },
+    {
+      "id": "GCU-AFR-073",
+      "theme": "Aire culturelle africaine",
+      "chemin": [
+        "7. Diaspora africaine"
+      ],
+      "texte": "c. Nommer des destinations privilégiées par des émigrants (ex. : Europe de l’Ouest, Amérique du Nord, Afrique de l’Ouest, péninsule arabique)",
+      "page": 8
+    },
+    {
+      "id": "GCU-AFR-074",
+      "theme": "Aire culturelle africaine",
+      "chemin": [
+        "7. Diaspora africaine"
+      ],
+      "texte": "d. Indiquer des façons dont les membres des diasporas influencent le développement économique, politique et culturel de leur pays d’origine (ex. : transferts de fonds, création d’entreprises, engagement politique, diffusion de productions culturelles à l’échelle internationale)",
+      "page": 8
+    },
+    {
+      "id": "GCU-AFR-075",
+      "theme": "Aire culturelle africaine",
+      "chemin": [
+        "7. Diaspora africaine"
+      ],
+      "texte": "e. Indiquer des effets des transferts de fonds vers les pays d’origine des émigrants (ex. : développement d’infrastructures en santé et en éducation, création d’emplois, maintien de la famille dans le pays d’origine)",
+      "page": 8
+    },
+    {
+      "id": "GCU-AFR-076",
+      "theme": "Aire culturelle africaine",
+      "chemin": [
+        "7. Diaspora africaine"
+      ],
+      "texte": "f. Indiquer des conséquences de l’émigration sur l’organisation sociale et économique des pays d’origine (ex. : perte de population active, perte d’expertise)",
+      "page": 8
+    },
+    {
+      "id": "GCU-ARA-001",
+      "theme": "Aire culturelle arabe",
+      "chemin": [
+        "1. Localisation de l’aire culturelle arabe"
+      ],
+      "texte": "a. Indiquer, sur une carte du monde, les limites de l’aire culturelle arabe",
+      "page": 9
+    },
+    {
+      "id": "GCU-ARA-002",
+      "theme": "Aire culturelle arabe",
+      "chemin": [
+        "1. Localisation de l’aire culturelle arabe"
+      ],
+      "texte": "b. Situer, sur une carte du monde, les ensembles régionaux de l’aire culturelle : Afrique du Nord, Moyen-Orient, péninsule arabique",
+      "page": 9
+    },
+    {
+      "id": "GCU-ARA-003",
+      "theme": "Aire culturelle arabe",
+      "chemin": [
+        "1. Localisation de l’aire culturelle arabe"
+      ],
+      "texte": "c. Situer, sur une carte du monde, des pays de chacun des ensembles régionaux (ex. : Maroc, Mauritanie et Soudan, en Afrique du Nord; Irak, Jordanie et Syrie, au Moyen-Orient; Arabie saoudite, Yémen et Émirats arabes unis, dans la péninsule arabique)",
+      "page": 9
+    },
+    {
+      "id": "GCU-ARA-004",
+      "theme": "Aire culturelle arabe",
+      "chemin": [
+        "2. Caractéristiques naturelles de l’aire culturelle arabe",
+        "2.1. Facteurs naturels"
+      ],
+      "texte": "a. Donner les principales caractéristiques physiographiques de l’aire culturelle arabe : grands plateaux, plaines littorales, hautes chaînes de montagnes, étroites plaines fluviales, larges oueds",
+      "page": 9
+    },
+    {
+      "id": "GCU-ARA-005",
+      "theme": "Aire culturelle arabe",
+      "chemin": [
+        "2. Caractéristiques naturelles de l’aire culturelle arabe",
+        "2.1. Facteurs naturels"
+      ],
+      "texte": "b. Donner la caractéristique naturelle commune aux ensembles régionaux de l’aire culturelle : présence de déserts",
+      "page": 9
+    },
+    {
+      "id": "GCU-ARA-006",
+      "theme": "Aire culturelle arabe",
+      "chemin": [
+        "2. Caractéristiques naturelles de l’aire culturelle arabe",
+        "2.1. Facteurs naturels"
+      ],
+      "texte": "c. Situer, sur une carte du monde, les principaux déserts : Sahara, de Libye, Nubien, de Syrie, Nefoud, Rub’ al Khali",
+      "page": 9
+    },
+    {
+      "id": "GCU-ARA-007",
+      "theme": "Aire culturelle arabe",
+      "chemin": [
+        "2. Caractéristiques naturelles de l’aire culturelle arabe",
+        "2.1. Facteurs naturels"
+      ],
+      "texte": "d. Donner des caractéristiques des déserts (ex. : précipitations très faibles, absence de précipitations durant des années dans certains déserts, importante différence entre les températures de jour et de nuit, aridité des sols, présence d’oasis, d’ergs et de regs)",
+      "page": 9
+    },
+    {
+      "id": "GCU-ARA-008",
+      "theme": "Aire culturelle arabe",
+      "chemin": [
+        "2. Caractéristiques naturelles de l’aire culturelle arabe",
+        "2.1. Facteurs naturels"
+      ],
+      "texte": "e. Situer, sur une carte du monde, les océans, les principaux golfes, mers et détroits autour desquels se distribuent les pays de l’aire : océans Atlantique et Indien; golfes de Suez, d’Aqaba, Persique et d’Aden; mers Méditerranée, Rouge et d’Oman; détroits Bab-el-Mandeb et d’Ormuz",
+      "page": 9
+    },
+    {
+      "id": "GCU-ARA-009",
+      "theme": "Aire culturelle arabe",
+      "chemin": [
+        "2. Caractéristiques naturelles de l’aire culturelle arabe",
+        "2.1. Facteurs naturels"
+      ],
+      "texte": "f. Situer, sur une carte du monde, les principaux fleuves : Nil, Euphrate, Tigre",
+      "page": 9
+    },
+    {
+      "id": "GCU-ARA-010",
+      "theme": "Aire culturelle arabe",
+      "chemin": [
+        "2. Caractéristiques naturelles de l’aire culturelle arabe",
+        "2.1. Facteurs naturels"
+      ],
+      "texte": "g. Situer, sur une carte d’Afrique du Nord, des oueds (ex. : Medjerda, en Tunisie; Mellah, au Maroc)",
+      "page": 9
+    },
+    {
+      "id": "GCU-ARA-011",
+      "theme": "Aire culturelle arabe",
+      "chemin": [
+        "2. Caractéristiques naturelles de l’aire culturelle arabe",
+        "2.1. Facteurs naturels"
+      ],
+      "texte": "h. Nommer les principaux climats : désertique, méditerranéen",
+      "page": 9
+    },
+    {
+      "id": "GCU-ARA-012",
+      "theme": "Aire culturelle arabe",
+      "chemin": [
+        "2. Caractéristiques naturelles de l’aire culturelle arabe",
+        "2.2. Influence des facteurs naturels sur l’organisation du territoire"
+      ],
+      "texte": "a. Décrire l’influence des climats désertique et méditerranéen sur l’organisation territoriale : le climat désertique explique la concentration de la population sur le littoral et dans les villes; le climat méditerranéen favorise le développement de l’industrie touristique dans certains territoires",
+      "page": 9
+    },
+    {
+      "id": "GCU-ARA-013",
+      "theme": "Aire culturelle arabe",
+      "chemin": [
+        "2. Caractéristiques naturelles de l’aire culturelle arabe",
+        "2.2. Influence des facteurs naturels sur l’organisation du territoire"
+      ],
+      "texte": "b. Décrire l’influence des déserts sur l’organisation territoriale : le développement d’infrastructures de transport est parfois complexe en raison des ergs; l’aridité des sols et les conditions climatiques limitent l’agriculture",
+      "page": 9
+    },
+    {
+      "id": "GCU-ARA-014",
+      "theme": "Aire culturelle arabe",
+      "chemin": [
+        "2. Caractéristiques naturelles de l’aire culturelle arabe",
+        "2.2. Influence des facteurs naturels sur l’organisation du territoire"
+      ],
+      "texte": "c. Décrire l’influence des oasis sur l’organisation territoriale : ils ont déterminé le tracé des premières routes commerciales; ils favorisent l’établissement de foyers humains; les oasis rendent possible l’agriculture",
+      "page": 9
+    },
+    {
+      "id": "GCU-ARA-015",
+      "theme": "Aire culturelle arabe",
+      "chemin": [
+        "2. Caractéristiques naturelles de l’aire culturelle arabe",
+        "2.2. Influence des facteurs naturels sur l’organisation du territoire"
+      ],
+      "texte": "d. Indiquer le principal avantage lié à la présence des détroits pour les États côtiers : contrôle de la circulation maritime",
+      "page": 9
+    },
+    {
+      "id": "GCU-ARA-016",
+      "theme": "Aire culturelle arabe",
+      "chemin": [
+        "3. Caractéristiques sociales de l’aire culturelle arabe",
+        "3.1. Culture"
+      ],
+      "texte": "a. Indiquer des domaines scientifiques influencés par la culture arabe (ex. : mathématique, astronomie, médecine)",
+      "page": 10
+    },
+    {
+      "id": "GCU-ARA-017",
+      "theme": "Aire culturelle arabe",
+      "chemin": [
+        "3. Caractéristiques sociales de l’aire culturelle arabe",
+        "3.1. Culture"
+      ],
+      "texte": "b. Donner les principales caractéristiques culturelles des sociétés du monde arabe : prédominance de l’islam, prédominance de la langue arabe",
+      "page": 10
+    },
+    {
+      "id": "GCU-ARA-018",
+      "theme": "Aire culturelle arabe",
+      "chemin": [
+        "3. Caractéristiques sociales de l’aire culturelle arabe",
+        "3.1. Culture"
+      ],
+      "texte": "c. Indiquer des manifestations des valeurs traditionnelles au sein de sociétés du monde arabe (ex. : application des lois islamiques, importance du patriarcat)",
+      "page": 10
+    },
+    {
+      "id": "GCU-ARA-019",
+      "theme": "Aire culturelle arabe",
+      "chemin": [
+        "3. Caractéristiques sociales de l’aire culturelle arabe",
+        "3.1. Culture"
+      ],
+      "texte": "d. Indiquer des manifestations de la modernité au sein de sociétés du monde arabe (ex. : accès des femmes au marché du travail, accès aux technologies de l’information et de la communication, participation plus marquée des femmes en politique)",
+      "page": 10
+    },
+    {
+      "id": "GCU-ARA-020",
+      "theme": "Aire culturelle arabe",
+      "chemin": [
+        "3. Caractéristiques sociales de l’aire culturelle arabe",
+        "3.2. Langue"
+      ],
+      "texte": "a. Nommer les principales formes de l’arabe utilisées dans l’aire culturelle : arabe classique, arabe dialectal",
+      "page": 10
+    },
+    {
+      "id": "GCU-ARA-021",
+      "theme": "Aire culturelle arabe",
+      "chemin": [
+        "3. Caractéristiques sociales de l’aire culturelle arabe",
+        "3.2. Langue"
+      ],
+      "texte": "b. Indiquer des usages de l’arabe classique : langue officielle des pays de l’aire, des textes de lois et des écrits administratifs; langue du Coran",
+      "page": 10
+    },
+    {
+      "id": "GCU-ARA-022",
+      "theme": "Aire culturelle arabe",
+      "chemin": [
+        "3. Caractéristiques sociales de l’aire culturelle arabe",
+        "3.2. Langue"
+      ],
+      "texte": "c. Indiquer des usages de l’arabe dialectal : employé par la grande majorité des arabophones; exclusivement parlé; véhicule de la culture populaire, traditionnelle et contemporaine",
+      "page": 10
+    },
+    {
+      "id": "GCU-ARA-023",
+      "theme": "Aire culturelle arabe",
+      "chemin": [
+        "3. Caractéristiques sociales de l’aire culturelle arabe",
+        "3.2. Langue"
+      ],
+      "texte": "d. Indiquer des facteurs qui contribuent à la diffusion de la langue arabe à l’échelle mondiale (ex. : islam, médias, émigration)",
+      "page": 10
+    },
+    {
+      "id": "GCU-ARA-024",
+      "theme": "Aire culturelle arabe",
+      "chemin": [
+        "3. Caractéristiques sociales de l’aire culturelle arabe",
+        "3.2. Langue"
+      ],
+      "texte": "e. Nommer des langues parlées par des populations minoritaires du monde arabe (ex. : kurde, berbère, arménien)",
+      "page": 10
+    },
+    {
+      "id": "GCU-ARA-025",
+      "theme": "Aire culturelle arabe",
+      "chemin": [
+        "3. Caractéristiques sociales de l’aire culturelle arabe",
+        "3.3. Religion"
+      ],
+      "texte": "a. Situer, sur une carte du monde, les principales villes saintes de l’islam : La Mecque, Médine, Jérusalem, Najaf",
+      "page": 10
+    },
+    {
+      "id": "GCU-ARA-026",
+      "theme": "Aire culturelle arabe",
+      "chemin": [
+        "3. Caractéristiques sociales de l’aire culturelle arabe",
+        "3.3. Religion"
+      ],
+      "texte": "b. Nommer des groupes religieux, autres que musulman, présents dans l’aire culturelle (ex. : copte orthodoxe, juif)",
+      "page": 10
+    },
+    {
+      "id": "GCU-ARA-027",
+      "theme": "Aire culturelle arabe",
+      "chemin": [
+        "3. Caractéristiques sociales de l’aire culturelle arabe",
+        "3.3. Religion"
+      ],
+      "texte": "c. Situer, sur une carte de l’Asie, des pays dont la population est musulmane et où la langue officielle n’est pas l’arabe (ex. : Iran, Turquie, Tadjikistan, Indonésie)",
+      "page": 10
+    },
+    {
+      "id": "GCU-ARA-028",
+      "theme": "Aire culturelle arabe",
+      "chemin": [
+        "4. Population de l’aire culturelle arabe",
+        "4.1. Caractéristiques démographiques"
+      ],
+      "texte": "a. Indiquer la proportion de la population de l’aire culturelle arabe par rapport à celle du monde : en 2010, environ 5 %",
+      "page": 10
+    },
+    {
+      "id": "GCU-ARA-029",
+      "theme": "Aire culturelle arabe",
+      "chemin": [
+        "4. Population de l’aire culturelle arabe",
+        "4.1. Caractéristiques démographiques"
+      ],
+      "texte": "b. Donner des caractéristiques démographiques des populations du monde arabe (ex. : importance de la jeunesse, taux de natalité élevé, migrations internationales importantes)",
+      "page": 10
+    },
+    {
+      "id": "GCU-ARA-030",
+      "theme": "Aire culturelle arabe",
+      "chemin": [
+        "4. Population de l’aire culturelle arabe",
+        "4.1. Caractéristiques démographiques"
+      ],
+      "texte": "c. Nommer l’ensemble régional où l’immigration est importante : péninsule arabique",
+      "page": 10
+    },
+    {
+      "id": "GCU-ARA-031",
+      "theme": "Aire culturelle arabe",
+      "chemin": [
+        "4. Population de l’aire culturelle arabe",
+        "4.1. Caractéristiques démographiques"
+      ],
+      "texte": "d. Nommer l’activité économique qui explique la présence de nombreux travailleurs étrangers dans la péninsule arabique : exploitation du pétrole et du gaz",
+      "page": 10
+    },
+    {
+      "id": "GCU-ARA-032",
+      "theme": "Aire culturelle arabe",
+      "chemin": [
+        "4. Population de l’aire culturelle arabe",
+        "4.1. Caractéristiques démographiques"
+      ],
+      "texte": "e. Donner des caractéristiques de la main-d’œuvre étrangère dans la péninsule arabique (ex. : majoritairement originaire d’Asie du Sud et d’Asie du Sud-Est; principalement masculine; sans statut permanent)",
+      "page": 10
+    },
+    {
+      "id": "GCU-ARA-033",
+      "theme": "Aire culturelle arabe",
+      "chemin": [
+        "4. Population de l’aire culturelle arabe",
+        "4.1. Caractéristiques démographiques"
+      ],
+      "texte": "f. Nommer l’ensemble régional où l’émigration est importante : Afrique du Nord",
+      "page": 10
+    },
+    {
+      "id": "GCU-ARA-034",
+      "theme": "Aire culturelle arabe",
+      "chemin": [
+        "4. Population de l’aire culturelle arabe",
+        "4.1. Caractéristiques démographiques"
+      ],
+      "texte": "g. Indiquer ce qui explique l’importance de l’émigration nord-africaine : instabilité politique, manque d’emploi pour de nombreux jeunes scolarisés",
+      "page": 10
+    },
+    {
+      "id": "GCU-ARA-035",
+      "theme": "Aire culturelle arabe",
+      "chemin": [
+        "4. Population de l’aire culturelle arabe",
+        "4.2. Répartition de la population"
+      ],
+      "texte": "a. Décrire la répartition de la population dans l’aire culturelle arabe : il y a une forte densité de population sur les littoraux et dans les vallées fluviales; la densité de population est très faible dans les milieux arides, les déserts étant pratiquement inhabités",
+      "page": 10
+    },
+    {
+      "id": "GCU-ARA-036",
+      "theme": "Aire culturelle arabe",
+      "chemin": [
+        "4. Population de l’aire culturelle arabe",
+        "4.2. Répartition de la population"
+      ],
+      "texte": "b. Situer, sur une carte du monde, de grandes agglomérations (ex. : Alger, Alexandrie, Le Caire, Bagdad, Riyad, Dubaï)",
+      "page": 10
+    },
+    {
+      "id": "GCU-ARA-037",
+      "theme": "Aire culturelle arabe",
+      "chemin": [
+        "4. Population de l’aire culturelle arabe",
+        "4.2. Répartition de la population"
+      ],
+      "texte": "c. Nommer l’ensemble régional où le taux d’urbanisation est le plus élevé : péninsule arabique",
+      "page": 10
+    },
+    {
+      "id": "GCU-ARA-038",
+      "theme": "Aire culturelle arabe",
+      "chemin": [
+        "4. Population de l’aire culturelle arabe",
+        "4.2. Répartition de la population"
+      ],
+      "texte": "d. Indiquer ce qui explique la croissance urbaine très rapide dans les pays de la péninsule arabique : revenus générés par l’exploitation du pétrole et du gaz",
+      "page": 10
+    },
+    {
+      "id": "GCU-ARA-039",
+      "theme": "Aire culturelle arabe",
+      "chemin": [
+        "5. Rôle des villes dans l’aire culturelle arabe"
+      ],
+      "texte": "a. Décrire l’organisation des villes du monde arabe : le centre de la médina est occupé par une grande mosquée autour de laquelle se regroupent les madrasas et les souks; un réseau de ruelles relie la mosquée et les souks; des remparts séparent les villes neuves des villes anciennes",
+      "page": 11
+    },
+    {
+      "id": "GCU-ARA-040",
+      "theme": "Aire culturelle arabe",
+      "chemin": [
+        "5. Rôle des villes dans l’aire culturelle arabe"
+      ],
+      "texte": "b. Donner des caractéristiques des villes du monde arabe (ex. : lieux de concentration des pouvoirs, lieux de marché, lieux de transfert des savoirs)",
+      "page": 11
+    },
+    {
+      "id": "GCU-ARA-041",
+      "theme": "Aire culturelle arabe",
+      "chemin": [
+        "5. Rôle des villes dans l’aire culturelle arabe"
+      ],
+      "texte": "c. Indiquer des facteurs qui favorisent la croissance des villes du monde arabe (ex. : forte natalité, importance de la migration nationale et internationale)",
+      "page": 11
+    },
+    {
+      "id": "GCU-ARA-042",
+      "theme": "Aire culturelle arabe",
+      "chemin": [
+        "5. Rôle des villes dans l’aire culturelle arabe"
+      ],
+      "texte": "d. Indiquer des effets de l’urbanisation sur l’organisation territoriale (ex. : étalement urbain sur des terres arables, développement d’infrastructures de transport dans des secteurs historiques, difficultés d’approvisionnement en eau potable)",
+      "page": 11
+    },
+    {
+      "id": "GCU-ARA-043",
+      "theme": "Aire culturelle arabe",
+      "chemin": [
+        "5. Rôle des villes dans l’aire culturelle arabe"
+      ],
+      "texte": "e. Indiquer le principal effet de l’urbanisation sur le développement économique du monde arabe : déséquilibre entre milieux urbain et rural sur le plan des services à la population et des infrastructures",
+      "page": 11
+    },
+    {
+      "id": "GCU-ARA-044",
+      "theme": "Aire culturelle arabe",
+      "chemin": [
+        "6. Économie et politique de l’aire culturelle arabe"
+      ],
+      "texte": "a. Indiquer les principaux secteurs d’activité sur lesquels repose le développement économique des pays de l’aire culturelle (ex. : exploitation du pétrole et du gaz dans la péninsule arabique; tourisme dans la péninsule arabique et en Afrique du Nord; agriculture en Afrique du Nord et au Moyen-Orient)",
+      "page": 11
+    },
+    {
+      "id": "GCU-ARA-045",
+      "theme": "Aire culturelle arabe",
+      "chemin": [
+        "6. Économie et politique de l’aire culturelle arabe"
+      ],
+      "texte": "b. Situer, sur une carte du monde, des pays membres de l’Organisation des pays exportateurs de pétrole (OPEP) (ex. : Irak, Iran, Venezuela, Arabie saoudite)",
+      "page": 11
+    },
+    {
+      "id": "GCU-ARA-046",
+      "theme": "Aire culturelle arabe",
+      "chemin": [
+        "6. Économie et politique de l’aire culturelle arabe"
+      ],
+      "texte": "c. Indiquer le moyen utilisé par l’OPEP pour réglementer la production et le prix du pétrole : négocier, avec les sociétés pétrolières, la production et le prix du pétrole ainsi que l’attribution de concessions",
+      "page": 11
+    },
+    {
+      "id": "GCU-ARA-047",
+      "theme": "Aire culturelle arabe",
+      "chemin": [
+        "6. Économie et politique de l’aire culturelle arabe"
+      ],
+      "texte": "d. Situer, sur une carte du monde, des États membres de la Ligue arabe (ex. : Algérie, Égypte, Somalie, Palestine, Bahreïn)",
+      "page": 11
+    },
+    {
+      "id": "GCU-ARA-048",
+      "theme": "Aire culturelle arabe",
+      "chemin": [
+        "6. Économie et politique de l’aire culturelle arabe"
+      ],
+      "texte": "e. Indiquer les principaux objectifs de la Ligue arabe : sauvegarder l’indépendance et la souveraineté des membres; coordonner la collaboration entre les membres",
+      "page": 11
+    },
+    {
+      "id": "GCU-ARA-049",
+      "theme": "Aire culturelle arabe",
+      "chemin": [
+        "6. Économie et politique de l’aire culturelle arabe"
+      ],
+      "texte": "f. Situer, sur une carte du monde, des pays de l’Organisation de la coopération islamique (OCI) (ex. : Maroc, Jordanie, Turquie, Tchad, Bangladesh, Malaisie, Indonésie)",
+      "page": 11
+    },
+    {
+      "id": "GCU-ARA-050",
+      "theme": "Aire culturelle arabe",
+      "chemin": [
+        "6. Économie et politique de l’aire culturelle arabe"
+      ],
+      "texte": "g. Indiquer les principaux objectifs de l’OCI : renforcer la coopération entre les États membres dans les domaines économique, social et culturel; coordonner l'action pour la sauvegarde des lieux saints de l’islam; assurer l’indépendance et les droits des musulmans",
+      "page": 11
+    },
+    {
+      "id": "GCU-ARA-051",
+      "theme": "Aire culturelle arabe",
+      "chemin": [
+        "7. Diaspora arabe"
+      ],
+      "texte": "a. Définir le terme diaspora : population dispersée qui conserve des liens économiques et sociaux avec le pays d’origine",
+      "page": 11
+    },
+    {
+      "id": "GCU-ARA-052",
+      "theme": "Aire culturelle arabe",
+      "chemin": [
+        "7. Diaspora arabe"
+      ],
+      "texte": "b. Indiquer les principaux facteurs qui expliquent les mouvements migratoires : amélioration de la situation économique, tensions et conflits politiques dans les pays d’origine",
+      "page": 11
+    },
+    {
+      "id": "GCU-ARA-053",
+      "theme": "Aire culturelle arabe",
+      "chemin": [
+        "7. Diaspora arabe"
+      ],
+      "texte": "c. Nommer des pays où il y a une concentration d'immigrants provenant d’Afrique du Nord (ex. : France, Canada)",
+      "page": 11
+    },
+    {
+      "id": "GCU-ARA-054",
+      "theme": "Aire culturelle arabe",
+      "chemin": [
+        "7. Diaspora arabe"
+      ],
+      "texte": "d. Indiquer des façons dont les membres des diasporas influencent le développement économique, politique et culturel de leur pays d’origine (ex. : transferts de fonds, création d’entreprises, diffusion de productions culturelles à l’échelle internationale)",
+      "page": 11
+    },
+    {
+      "id": "GCU-ARA-055",
+      "theme": "Aire culturelle arabe",
+      "chemin": [
+        "7. Diaspora arabe"
+      ],
+      "texte": "e. Indiquer des conséquences de l’émigration sur l’organisation sociale et économique des pays d’origine (ex. : perte de population active, perte d’expertise)",
+      "page": 11
+    },
+    {
+      "id": "GCU-IND-001",
+      "theme": "Aire culturelle indienne",
+      "chemin": [
+        "1. Localisation de l’aire culturelle indienne"
+      ],
+      "texte": "a. Indiquer, sur une carte du monde, les limites de l’aire culturelle indienne",
+      "page": 12
+    },
+    {
+      "id": "GCU-IND-002",
+      "theme": "Aire culturelle indienne",
+      "chemin": [
+        "1. Localisation de l’aire culturelle indienne"
+      ],
+      "texte": "b. Situer, sur une carte de l’Asie du Sud, des pays de l’aire culturelle (ex. : Afghanistan, Maldives, Inde, Bhoutan)",
+      "page": 12
+    },
+    {
+      "id": "GCU-IND-003",
+      "theme": "Aire culturelle indienne",
+      "chemin": [
+        "2. Caractéristiques naturelles de l’aire culturelle indienne",
+        "2.1. Facteurs naturels"
+      ],
+      "texte": "a. Donner les principales caractéristiques physiographiques de l’aire culturelle indienne : chaînes de hautes montagnes, grands plateaux, vastes vallées fluviales, plaines des deltas",
+      "page": 12
+    },
+    {
+      "id": "GCU-IND-004",
+      "theme": "Aire culturelle indienne",
+      "chemin": [
+        "2. Caractéristiques naturelles de l’aire culturelle indienne",
+        "2.1. Facteurs naturels"
+      ],
+      "texte": "b. Situer, sur une carte de l’Asie du Sud, l’océan, la mer et les principaux golfes autour desquels se distribuent les pays de l’aire culturelle : océan Indien, mer d’Oman, golfes du Bengale et de Mannar",
+      "page": 12
+    },
+    {
+      "id": "GCU-IND-005",
+      "theme": "Aire culturelle indienne",
+      "chemin": [
+        "2. Caractéristiques naturelles de l’aire culturelle indienne",
+        "2.1. Facteurs naturels"
+      ],
+      "texte": "c. Situer, sur une carte de l’Asie du Sud, les principaux éléments du relief : Himalaya, Hindou Kouch, plateau du Deccan, Ghâts",
+      "page": 12
+    },
+    {
+      "id": "GCU-IND-006",
+      "theme": "Aire culturelle indienne",
+      "chemin": [
+        "2. Caractéristiques naturelles de l’aire culturelle indienne",
+        "2.1. Facteurs naturels"
+      ],
+      "texte": "d. Situer, sur une carte de l’Asie du Sud, les principaux fleuves : Brahmapoutre, Gange, Indus, Godâvarî, Mahanadi",
+      "page": 12
+    },
+    {
+      "id": "GCU-IND-007",
+      "theme": "Aire culturelle indienne",
+      "chemin": [
+        "2. Caractéristiques naturelles de l’aire culturelle indienne",
+        "2.1. Facteurs naturels"
+      ],
+      "texte": "e. Situer, sur une carte de l’Asie du Sud, les principaux deltas : Indus, Godâvarî, Mahanadi, les bouches du Gange",
+      "page": 12
+    },
+    {
+      "id": "GCU-IND-008",
+      "theme": "Aire culturelle indienne",
+      "chemin": [
+        "2. Caractéristiques naturelles de l’aire culturelle indienne",
+        "2.1. Facteurs naturels"
+      ],
+      "texte": "f. Situer, sur une carte de l’Asie du Sud, les principaux archipels : Andaman et Nicobar, Maldives, Laquedives",
+      "page": 12
+    },
+    {
+      "id": "GCU-IND-009",
+      "theme": "Aire culturelle indienne",
+      "chemin": [
+        "2. Caractéristiques naturelles de l’aire culturelle indienne",
+        "2.1. Facteurs naturels"
+      ],
+      "texte": "g. Nommer les principaux climats : tropical de mousson, désertique",
+      "page": 12
+    },
+    {
+      "id": "GCU-IND-010",
+      "theme": "Aire culturelle indienne",
+      "chemin": [
+        "2. Caractéristiques naturelles de l’aire culturelle indienne",
+        "2.2. Influence des facteurs naturels sur l’organisation du territoire"
+      ],
+      "texte": "a. Décrire l’influence du climat tropical de mousson et du climat désertique sur l’agriculture : la mousson d’été apporte les précipitations essentielles pour la culture du riz; la mousson d’hiver assèche les sols et permet la culture du blé; l’aridité du désert de Thar rend les sols impropres à l’agriculture",
+      "page": 12
+    },
+    {
+      "id": "GCU-IND-011",
+      "theme": "Aire culturelle indienne",
+      "chemin": [
+        "2. Caractéristiques naturelles de l’aire culturelle indienne",
+        "2.2. Influence des facteurs naturels sur l’organisation du territoire"
+      ],
+      "texte": "b. Décrire l’influence d’éléments du relief sur l’organisation des territoires de l’Asie du Sud : l’Himalaya délimite la frontière entre plusieurs pays; la formation géologique du plateau du Deccan favorise l’exploitation minière; les plaines littorales et fluviales favorisent l’agriculture",
+      "page": 12
+    },
+    {
+      "id": "GCU-IND-012",
+      "theme": "Aire culturelle indienne",
+      "chemin": [
+        "2. Caractéristiques naturelles de l’aire culturelle indienne",
+        "2.2. Influence des facteurs naturels sur l’organisation du territoire"
+      ],
+      "texte": "c. Décrire l’effet des deltas sur l’économie de cette région : l’abondance en eau et le relief de plaine des deltas favorisent la concentration de la population et crée des conditions favorables à la culture du riz et au développement de l’aquaculture au Bangladesh",
+      "page": 12
+    },
+    {
+      "id": "GCU-IND-013",
+      "theme": "Aire culturelle indienne",
+      "chemin": [
+        "2. Caractéristiques naturelles de l’aire culturelle indienne",
+        "2.2. Influence des facteurs naturels sur l’organisation du territoire"
+      ],
+      "texte": "d. Décrire l’influence du réseau hydrographique sur l’agriculture : l’eau des fleuves et de leurs affluents permet l’irrigation des terres en période sèche; le dépôt de limons fertilise les sols en période de crue",
+      "page": 12
+    },
+    {
+      "id": "GCU-IND-014",
+      "theme": "Aire culturelle indienne",
+      "chemin": [
+        "2. Caractéristiques naturelles de l’aire culturelle indienne",
+        "2.2. Influence des facteurs naturels sur l’organisation du territoire"
+      ],
+      "texte": "e. Indiquer ce qui explique les fortes inondations dans les vallées fluviales et dans les plaines des deltas en période de crue : la fonte des neiges des hauts sommets de l’Himalaya et de l’Hindou Kouch combinée aux importantes pluies de la mousson d’été",
+      "page": 12
+    },
+    {
+      "id": "GCU-IND-015",
+      "theme": "Aire culturelle indienne",
+      "chemin": [
+        "2. Caractéristiques naturelles de l’aire culturelle indienne",
+        "2.2. Influence des facteurs naturels sur l’organisation du territoire"
+      ],
+      "texte": "f. Indiquer les principales conséquences des inondations sur les populations des vallées fluviales et des plaines des deltas densément peuplés : déplacement massif de populations, pertes humaines, coûts économiques, érosion des sols, destruction d’infrastructures agricoles",
+      "page": 12
+    },
+    {
+      "id": "GCU-IND-016",
+      "theme": "Aire culturelle indienne",
+      "chemin": [
+        "3. Caractéristiques sociales de l’aire culturelle indienne",
+        "3.1. Culture"
+      ],
+      "texte": "a. Indiquer des aspects culturels de la civilisation moghole qui ont influencé les sociétés de l’Asie du Sud (ex. : religion, art)",
+      "page": 13
+    },
+    {
+      "id": "GCU-IND-017",
+      "theme": "Aire culturelle indienne",
+      "chemin": [
+        "3. Caractéristiques sociales de l’aire culturelle indienne",
+        "3.1. Culture"
+      ],
+      "texte": "b. Nommer l’empire qui a contrôlé la majorité des territoires de l’Asie du Sud du milieu du 19e siècle jusqu’au milieu du 20e siècle : empire britannique",
+      "page": 13
+    },
+    {
+      "id": "GCU-IND-018",
+      "theme": "Aire culturelle indienne",
+      "chemin": [
+        "3. Caractéristiques sociales de l’aire culturelle indienne",
+        "3.1. Culture"
+      ],
+      "texte": "c. Donner des caractéristiques du régime politique de l’Inde héritées de l’empire britannique (ex. : démocratie parlementaire, gouvernement responsable)",
+      "page": 13
+    },
+    {
+      "id": "GCU-IND-019",
+      "theme": "Aire culturelle indienne",
+      "chemin": [
+        "3. Caractéristiques sociales de l’aire culturelle indienne",
+        "3.1. Culture"
+      ],
+      "texte": "d. Nommer les pays européens, autres que le Royaume-Uni, qui ont eu des possessions coloniales en Inde : France, Pays-Bas, Portugal",
+      "page": 13
+    },
+    {
+      "id": "GCU-IND-020",
+      "theme": "Aire culturelle indienne",
+      "chemin": [
+        "3. Caractéristiques sociales de l’aire culturelle indienne",
+        "3.1. Culture"
+      ],
+      "texte": "e. Indiquer ce qui explique la constitution de l’Inde, du Pakistan-Occidental et du Pakistan-Oriental : partition de l’empire des Indes",
+      "page": 13
+    },
+    {
+      "id": "GCU-IND-021",
+      "theme": "Aire culturelle indienne",
+      "chemin": [
+        "3. Caractéristiques sociales de l’aire culturelle indienne",
+        "3.2. Langue"
+      ],
+      "texte": "a. Décrire la réalité linguistique des pays de l’aire culturelle indienne : des centaines de langues et de dialectes sont reconnus; certains pays ont plusieurs langues officielles; l’usage de l’anglais est commun à la majorité des pays",
+      "page": 13
+    },
+    {
+      "id": "GCU-IND-022",
+      "theme": "Aire culturelle indienne",
+      "chemin": [
+        "3. Caractéristiques sociales de l’aire culturelle indienne",
+        "3.2. Langue"
+      ],
+      "texte": "b. Décrire l’importance du sanskrit pour la civilisation indienne : les textes sacrés de l’hindouisme sont rédigés en sanskrit; plusieurs langues actuelles en sont dérivées",
+      "page": 13
+    },
+    {
+      "id": "GCU-IND-023",
+      "theme": "Aire culturelle indienne",
+      "chemin": [
+        "3. Caractéristiques sociales de l’aire culturelle indienne",
+        "3.2. Langue"
+      ],
+      "texte": "c. Nommer la langue parlée par environ la moitié de la population en Inde : hindi",
+      "page": 13
+    },
+    {
+      "id": "GCU-IND-024",
+      "theme": "Aire culturelle indienne",
+      "chemin": [
+        "3. Caractéristiques sociales de l’aire culturelle indienne",
+        "3.2. Langue"
+      ],
+      "texte": "d. Indiquer les principales raisons qui expliquent l’usage de l’anglais dans plusieurs pays de l’aire culturelle : langue du pays colonisateur, langue utilisée sur le plan administratif en raison de la multiplicité des langues et des dialectes",
+      "page": 13
+    },
+    {
+      "id": "GCU-IND-025",
+      "theme": "Aire culturelle indienne",
+      "chemin": [
+        "3. Caractéristiques sociales de l’aire culturelle indienne",
+        "3.2. Langue"
+      ],
+      "texte": "e. Indiquer un secteur d’emploi qui s’est développé en Inde en raison du maintien de l’anglais comme langue seconde pour des millions de personnes : services informatiques et de télécommunication",
+      "page": 13
+    },
+    {
+      "id": "GCU-IND-026",
+      "theme": "Aire culturelle indienne",
+      "chemin": [
+        "3. Caractéristiques sociales de l’aire culturelle indienne",
+        "3.3. Religion"
+      ],
+      "texte": "a. Nommer les principales religions pratiquées dans des pays de l’aire culturelle indienne (ex. : islam, au Pakistan et au Bangladesh; hindouisme, en Inde; bouddhisme, au Sri Lanka)",
+      "page": 13
+    },
+    {
+      "id": "GCU-IND-027",
+      "theme": "Aire culturelle indienne",
+      "chemin": [
+        "3. Caractéristiques sociales de l’aire culturelle indienne",
+        "3.3. Religion"
+      ],
+      "texte": "b. Nommer des religions, autres que l’hindouisme, pratiquées en Inde (ex. : bouddhisme, islam, sikhisme)",
+      "page": 13
+    },
+    {
+      "id": "GCU-IND-028",
+      "theme": "Aire culturelle indienne",
+      "chemin": [
+        "3. Caractéristiques sociales de l’aire culturelle indienne",
+        "3.3. Religion"
+      ],
+      "texte": "c. Décrire l’influence de l’hindouisme sur les sociétés hindoues : le système de castes crée un clivage social",
+      "page": 13
+    },
+    {
+      "id": "GCU-IND-029",
+      "theme": "Aire culturelle indienne",
+      "chemin": [
+        "3. Caractéristiques sociales de l’aire culturelle indienne",
+        "3.3. Religion"
+      ],
+      "texte": "d. Nommer des cours d’eau sacrés pour les hindous (ex. : Gange, Indus, Godâvarî)",
+      "page": 13
+    },
+    {
+      "id": "GCU-IND-030",
+      "theme": "Aire culturelle indienne",
+      "chemin": [
+        "3. Caractéristiques sociales de l’aire culturelle indienne",
+        "3.3. Religion"
+      ],
+      "texte": "e. Nommer le critère utilisé lors de la partition de l’empire des Indes : religion",
+      "page": 13
+    },
+    {
+      "id": "GCU-IND-031",
+      "theme": "Aire culturelle indienne",
+      "chemin": [
+        "4. Population de l’aire culturelle indienne",
+        "4.1. Caractéristiques démographiques"
+      ],
+      "texte": "a. Indiquer la proportion de la population de l’Asie du Sud par rapport à celle du monde : en 2010, environ le quart",
+      "page": 13
+    },
+    {
+      "id": "GCU-IND-032",
+      "theme": "Aire culturelle indienne",
+      "chemin": [
+        "4. Population de l’aire culturelle indienne",
+        "4.1. Caractéristiques démographiques"
+      ],
+      "texte": "b. Indiquer le poids démographique de l’Inde par rapport à celui de l’ensemble des pays de l’aire culturelle indienne : en 2010, environ les trois quarts",
+      "page": 13
+    },
+    {
+      "id": "GCU-IND-033",
+      "theme": "Aire culturelle indienne",
+      "chemin": [
+        "4. Population de l’aire culturelle indienne",
+        "4.1. Caractéristiques démographiques"
+      ],
+      "texte": "c. Donner des caractéristiques démographiques des populations de l’aire culturelle (ex. : jeunesse de la population, croissance démographique rapide)",
+      "page": 13
+    },
+    {
+      "id": "GCU-IND-034",
+      "theme": "Aire culturelle indienne",
+      "chemin": [
+        "4. Population de l’aire culturelle indienne",
+        "4.1. Caractéristiques démographiques"
+      ],
+      "texte": "d. Indiquer des facteurs qui expliquent la rapidité de la croissance démographique des pays de l’aire (ex. : mortalité en baisse, population en âge de se reproduire en hausse, inefficacité des politiques de régulation des naissances)",
+      "page": 13
+    },
+    {
+      "id": "GCU-IND-035",
+      "theme": "Aire culturelle indienne",
+      "chemin": [
+        "4. Population de l’aire culturelle indienne",
+        "4.2. Répartition de la population"
+      ],
+      "texte": "a. Décrire la répartition de la population en Asie du Sud : les littoraux et les plaines des vallées fluviales et des deltas sont très peuplés; les régions montagneuses et les milieux arides sont faiblement peuplés",
+      "page": 13
+    },
+    {
+      "id": "GCU-IND-036",
+      "theme": "Aire culturelle indienne",
+      "chemin": [
+        "4. Population de l’aire culturelle indienne",
+        "4.2. Répartition de la population"
+      ],
+      "texte": "b. Indiquer les principaux facteurs de localisation des zones de forte densité de population : climat tropical de mousson, relief de plaine",
+      "page": 13
+    },
+    {
+      "id": "GCU-IND-037",
+      "theme": "Aire culturelle indienne",
+      "chemin": [
+        "4. Population de l’aire culturelle indienne",
+        "4.2. Répartition de la population"
+      ],
+      "texte": "c. Donner des caractéristiques de l’urbanisation en Asie du Sud (ex. : nombreuses villes de taille moyenne, peu de grandes agglomérations urbaines, importants bidonvilles)",
+      "page": 13
+    },
+    {
+      "id": "GCU-IND-038",
+      "theme": "Aire culturelle indienne",
+      "chemin": [
+        "4. Population de l’aire culturelle indienne",
+        "4.2. Répartition de la population"
+      ],
+      "texte": "d. Situer, sur une carte de l’Asie du Sud, de grandes agglomérations (ex. : Karachi, Mumbai, Delhi, Dhaka, Kolkata)",
+      "page": 14
+    },
+    {
+      "id": "GCU-IND-039",
+      "theme": "Aire culturelle indienne",
+      "chemin": [
+        "4. Population de l’aire culturelle indienne",
+        "4.2. Répartition de la population"
+      ],
+      "texte": "e. Indiquer des facteurs qui expliquent la croissance relativement limitée de l’urbanisation de l’Inde malgré sa croissance économique (ex. : promotion, par le gouvernement, d’activités non agricoles en zone rurale; attachement aux valeurs traditionnelles de solidarité et d’entraide de l’organisation villageoise)",
+      "page": 14
+    },
+    {
+      "id": "GCU-IND-040",
+      "theme": "Aire culturelle indienne",
+      "chemin": [
+        "5. Conditions sociales et économiques de l’aire culturelle indienne",
+        "5.1. Société"
+      ],
+      "texte": "a. Donner des caractéristiques des sociétés de l’aire culturelle indienne (ex. : indice de développement humain faible dans la plupart des pays, faible espérance de vie des femmes, attachement aux traditions et aux croyances religieuses)",
+      "page": 14
+    },
+    {
+      "id": "GCU-IND-041",
+      "theme": "Aire culturelle indienne",
+      "chemin": [
+        "5. Conditions sociales et économiques de l’aire culturelle indienne",
+        "5.1. Société"
+      ],
+      "texte": "b. Décrire les conditions sociales des populations de l’aire culturelle : il y a des inégalités entre les hommes et les femmes sur le plan de la scolarisation et de l’accès aux soins de santé, au logement, au travail et aux postes de responsabilité; une forte proportion de la population vit dans des conditions précaires",
+      "page": 14
+    },
+    {
+      "id": "GCU-IND-042",
+      "theme": "Aire culturelle indienne",
+      "chemin": [
+        "5. Conditions sociales et économiques de l’aire culturelle indienne",
+        "5.1. Société"
+      ],
+      "texte": "c. Indiquer des facteurs qui expliquent les inégalités entre les hommes et les femmes (ex. : système patriarcal dominant, pratique de la dot, contexte de pauvreté)",
+      "page": 14
+    },
+    {
+      "id": "GCU-IND-043",
+      "theme": "Aire culturelle indienne",
+      "chemin": [
+        "5. Conditions sociales et économiques de l’aire culturelle indienne",
+        "5.2. Monde rural"
+      ],
+      "texte": "a. Indiquer la proportion de la population rurale en Asie du Sud : en 2010, plus des deux tiers",
+      "page": 14
+    },
+    {
+      "id": "GCU-IND-044",
+      "theme": "Aire culturelle indienne",
+      "chemin": [
+        "5. Conditions sociales et économiques de l’aire culturelle indienne",
+        "5.2. Monde rural"
+      ],
+      "texte": "b. Décrire la répartition de la population rurale de l’aire culturelle : la densité est très forte dans les vallées fluviales et dans les plaines des deltas; la densité de population rurale de cette région est la plus élevée à l’échelle mondiale",
+      "page": 14
+    },
+    {
+      "id": "GCU-IND-045",
+      "theme": "Aire culturelle indienne",
+      "chemin": [
+        "5. Conditions sociales et économiques de l’aire culturelle indienne",
+        "5.2. Monde rural"
+      ],
+      "texte": "c. Décrire les conditions de vie de la population rurale : elle vit majoritairement dans la pauvreté; plus du quart de la population est sous-alimentée; les infrastructures de santé et d’éducation sont déficientes",
+      "page": 14
+    },
+    {
+      "id": "GCU-IND-046",
+      "theme": "Aire culturelle indienne",
+      "chemin": [
+        "5. Conditions sociales et économiques de l’aire culturelle indienne",
+        "5.2. Monde rural"
+      ],
+      "texte": "d. Indiquer le principal facteur qui explique l’endettement des paysans : achat de semences, d’engrais et de pesticides",
+      "page": 14
+    },
+    {
+      "id": "GCU-IND-047",
+      "theme": "Aire culturelle indienne",
+      "chemin": [
+        "5. Conditions sociales et économiques de l’aire culturelle indienne",
+        "5.2. Monde rural"
+      ],
+      "texte": "e. Donner les principales caractéristiques du paysannat : pratique d’activités relatives à l’agriculture et à la pêche artisanales; petits élevages; forte proportion de paysans sans terre",
+      "page": 14
+    },
+    {
+      "id": "GCU-IND-048",
+      "theme": "Aire culturelle indienne",
+      "chemin": [
+        "5. Conditions sociales et économiques de l’aire culturelle indienne",
+        "5.2. Monde rural"
+      ],
+      "texte": "f. Indiquer l’objectif du mouvement Ekta Parishad : aider les populations les plus pauvres de l’Inde à mieux contrôler les ressources qui leur permettent de subsister, telles que la terre, l’eau et la forêt",
+      "page": 14
+    },
+    {
+      "id": "GCU-IND-049",
+      "theme": "Aire culturelle indienne",
+      "chemin": [
+        "5. Conditions sociales et économiques de l’aire culturelle indienne",
+        "5.2. Monde rural"
+      ],
+      "texte": "g. Indiquer le principal moyen d’action utilisé par le mouvement Ekta Parishad : organisation de manifestations non violentes à l’échelle locale et internationale pour réclamer une réforme agraire",
+      "page": 14
+    },
+    {
+      "id": "GCU-IND-050",
+      "theme": "Aire culturelle indienne",
+      "chemin": [
+        "5. Conditions sociales et économiques de l’aire culturelle indienne",
+        "5.3. Économie"
+      ],
+      "texte": "a. Nommer des secteurs d’activité en croissance dans des pays de l’Asie du Sud (ex. : services informatiques et de télécommunication, en Inde; tourisme, aux Maldives; production manufacturière, au Bangladesh, au Pakistan et au Sri Lanka)",
+      "page": 14
+    },
+    {
+      "id": "GCU-IND-051",
+      "theme": "Aire culturelle indienne",
+      "chemin": [
+        "5. Conditions sociales et économiques de l’aire culturelle indienne",
+        "5.3. Économie"
+      ],
+      "texte": "b. Indiquer des mesures mises en œuvre pour favoriser le développement économique : offre de microcrédit par des banques; création de fonds de microépargne par des groupes de solidarité",
+      "page": 14
+    },
+    {
+      "id": "GCU-IND-052",
+      "theme": "Aire culturelle indienne",
+      "chemin": [
+        "5. Conditions sociales et économiques de l’aire culturelle indienne",
+        "5.3. Économie"
+      ],
+      "texte": "c. Décrire les avantages liés au microcrédit et à la microépargne : le microcrédit favorise la création de petites entreprises commerciales souvent gérées par des femmes; la microépargne permet d’accumuler des capitaux réinvestis dans la communauté",
+      "page": 14
+    },
+    {
+      "id": "GCU-IND-053",
+      "theme": "Aire culturelle indienne",
+      "chemin": [
+        "5. Conditions sociales et économiques de l’aire culturelle indienne",
+        "5.3. Économie"
+      ],
+      "texte": "d. Indiquer des défis que doivent relever les pays de l’aire culturelle sur le plan socioéconomique (ex. : limiter la croissance démographique en milieu rural, créer des emplois en milieu urbain, réduire les déséquilibres régionaux, améliorer le niveau de vie des populations pauvres)",
+      "page": 14
+    },
+    {
+      "id": "GCU-IND-054",
+      "theme": "Aire culturelle indienne",
+      "chemin": [
+        "5. Conditions sociales et économiques de l’aire culturelle indienne",
+        "5.4. Mode de production agricole"
+      ],
+      "texte": "a. Indiquer le secteur d’activité qui occupe la majorité de la population de l’Asie du Sud : agriculture",
+      "page": 14
+    },
+    {
+      "id": "GCU-IND-055",
+      "theme": "Aire culturelle indienne",
+      "chemin": [
+        "5. Conditions sociales et économiques de l’aire culturelle indienne",
+        "5.4. Mode de production agricole"
+      ],
+      "texte": "b. Indiquer la principale conséquence de la colonisation britannique sur la production agricole de l’aire culturelle indienne : remplacement de cultures de subsistance par des cultures d’exportation, telles que celle du coton et du thé",
+      "page": 14
+    },
+    {
+      "id": "GCU-IND-056",
+      "theme": "Aire culturelle indienne",
+      "chemin": [
+        "5. Conditions sociales et économiques de l’aire culturelle indienne",
+        "5.4. Mode de production agricole"
+      ],
+      "texte": "c. Nommer les principaux modes de production agricole : riziculture en zone inondée, culture extensive du blé, aquaculture, monoculture d’exportation",
+      "page": 14
+    },
+    {
+      "id": "GCU-IND-057",
+      "theme": "Aire culturelle indienne",
+      "chemin": [
+        "5. Conditions sociales et économiques de l’aire culturelle indienne",
+        "5.4. Mode de production agricole"
+      ],
+      "texte": "d. Décrire les principaux effets de l’intensification des pratiques agricoles sur l’environnement : les sols sont appauvris par l’usage intensif d’engrais et de pesticides; les berges et le littoral sont érodés; l’aquaculture contamine l’eau",
+      "page": 14
+    },
+    {
+      "id": "GCU-IND-058",
+      "theme": "Aire culturelle indienne",
+      "chemin": [
+        "5. Conditions sociales et économiques de l’aire culturelle indienne",
+        "5.4. Mode de production agricole"
+      ],
+      "texte": "e. Décrire l’organisation de la production agricole : le choix des productions se fait en raison des conditions climatiques de la mousson; le riz est habituellement produit en saison humide; sa culture peut être suivie d’une culture irriguée du blé en saison sèche; une culture maraîchère de printemps est parfois possible; des piscicultures sont aménagées dans les deltas",
+      "page": 15
+    },
+    {
+      "id": "GCU-IND-059",
+      "theme": "Aire culturelle indienne",
+      "chemin": [
+        "5. Conditions sociales et économiques de l’aire culturelle indienne",
+        "5.4. Mode de production agricole"
+      ],
+      "texte": "f. Décrire des difficultés liées à l’agriculture : le rendement agricole est largement tributaire des conditions climatiques; il nécessite l’utilisation de beaucoup d’engrais et de pesticides; les parcelles agricoles sont trop petites pour permettre aux paysans d’accumuler des surplus; des terres sont exploitées illégalement par des ouvriers agricoles ou des paysans sans terre",
+      "page": 15
+    },
+    {
+      "id": "GCU-IND-060",
+      "theme": "Aire culturelle indienne",
+      "chemin": [
+        "6. Diaspora de l’Asie du Sud"
+      ],
+      "texte": "a. Définir le terme diaspora : population dispersée qui conserve des liens économiques et sociaux avec le pays d’origine",
+      "page": 15
+    },
+    {
+      "id": "GCU-IND-061",
+      "theme": "Aire culturelle indienne",
+      "chemin": [
+        "6. Diaspora de l’Asie du Sud"
+      ],
+      "texte": "b. Nommer les principales destinations d’émigrants de l’Asie du Sud : Canada, Royaume-Uni, États-Unis, certains pays de la péninsule arabique",
+      "page": 15
+    },
+    {
+      "id": "GCU-IND-062",
+      "theme": "Aire culturelle indienne",
+      "chemin": [
+        "6. Diaspora de l’Asie du Sud"
+      ],
+      "texte": "c. Indiquer le principal facteur qui explique l’émigration d’une importante partie de la population de l’Asie du Sud vers les pays producteurs d’hydrocarbure : besoin de main-d’œuvre",
+      "page": 15
+    },
+    {
+      "id": "GCU-IND-063",
+      "theme": "Aire culturelle indienne",
+      "chemin": [
+        "6. Diaspora de l’Asie du Sud"
+      ],
+      "texte": "d. Indiquer des termes utilisés pour désigner des quartiers où se situe une concentration de la population originaire de l’aire culturelle indienne (ex. : Little India, Little Pakistan)",
+      "page": 15
+    },
+    {
+      "id": "GCU-IND-064",
+      "theme": "Aire culturelle indienne",
+      "chemin": [
+        "6. Diaspora de l’Asie du Sud"
+      ],
+      "texte": "e. Nommer la principale minorité religieuse d’origine indienne au Canada : les sikhs",
+      "page": 15
+    },
+    {
+      "id": "GCU-IND-065",
+      "theme": "Aire culturelle indienne",
+      "chemin": [
+        "6. Diaspora de l’Asie du Sud"
+      ],
+      "texte": "f. Nommer des pays d’Amérique latine où la population originaire de l’Asie du Sud constitue plus du tiers de la population (ex. : en 2011, Trinité-et-Tobago, Guyana, Suriname)",
+      "page": 15
+    },
+    {
+      "id": "GCU-IND-066",
+      "theme": "Aire culturelle indienne",
+      "chemin": [
+        "6. Diaspora de l’Asie du Sud"
+      ],
+      "texte": "g. Indiquer les principales raisons pour lesquelles le gouvernement de l’Inde consolide ses liens avec la diaspora : diffusion de la culture indienne, relais de l’action diplomatique",
+      "page": 15
+    },
+    {
+      "id": "GCU-IND-067",
+      "theme": "Aire culturelle indienne",
+      "chemin": [
+        "6. Diaspora de l’Asie du Sud"
+      ],
+      "texte": "h. Indiquer des façons dont les membres des diasporas influencent le développement économique et politique de leur pays d’origine (ex. : transferts de fonds, soutien à des mouvements politiques nationaux)",
+      "page": 15
+    },
+    {
+      "id": "GCU-IND-068",
+      "theme": "Aire culturelle indienne",
+      "chemin": [
+        "6. Diaspora de l’Asie du Sud"
+      ],
+      "texte": "i. Indiquer des conséquences de l’émigration sur l’organisation sociale et économique des pays d’origine (ex. : perte de population active, perte d’expertise)",
+      "page": 15
+    },
+    {
+      "id": "GCU-LAT-001",
+      "theme": "Aire culturelle latino-américaine",
+      "chemin": [
+        "1. Localisation de l’aire culturelle latino-américaine"
+      ],
+      "texte": "a. Indiquer, sur une carte du monde, les limites de l’aire culturelle latino-américaine",
+      "page": 16
+    },
+    {
+      "id": "GCU-LAT-002",
+      "theme": "Aire culturelle latino-américaine",
+      "chemin": [
+        "1. Localisation de l’aire culturelle latino-américaine"
+      ],
+      "texte": "b. Situer, sur une carte des Amériques, les principaux ensembles régionaux de l’aire culturelle : Amérique centrale, Amérique insulaire, Amérique du Sud",
+      "page": 16
+    },
+    {
+      "id": "GCU-LAT-003",
+      "theme": "Aire culturelle latino-américaine",
+      "chemin": [
+        "1. Localisation de l’aire culturelle latino-américaine"
+      ],
+      "texte": "c. Situer, sur une carte de l’Amérique latine, des pays de chacun des ensembles régionaux (ex. : Costa Rica et Belize, en Amérique centrale; Cuba et Sainte-Lucie, en Amérique insulaire; Brésil et Paraguay, en Amérique du Sud)",
+      "page": 16
+    },
+    {
+      "id": "GCU-LAT-004",
+      "theme": "Aire culturelle latino-américaine",
+      "chemin": [
+        "2. Caractéristiques naturelles de l’aire culturelle latino-américaine",
+        "2.1. Facteurs naturels"
+      ],
+      "texte": "a. Donner les principales caractéristiques physiographiques de l’aire culturelle latino-américaine : chaînes de hautes montagnes traversant l’aire du nord au sud, volcans en activité, hauts plateaux, grands bassins fluviaux",
+      "page": 16
+    },
+    {
+      "id": "GCU-LAT-005",
+      "theme": "Aire culturelle latino-américaine",
+      "chemin": [
+        "2. Caractéristiques naturelles de l’aire culturelle latino-américaine",
+        "2.1. Facteurs naturels"
+      ],
+      "texte": "b. Situer, sur une carte de l’Amérique latine, les principaux éléments du relief : Sierra Madre, cordillère des Andes, plateau du Brésil, Pampas, isthme de Panama",
+      "page": 16
+    },
+    {
+      "id": "GCU-LAT-006",
+      "theme": "Aire culturelle latino-américaine",
+      "chemin": [
+        "2. Caractéristiques naturelles de l’aire culturelle latino-américaine",
+        "2.1. Facteurs naturels"
+      ],
+      "texte": "c. Nommer des ressources minières exploitées (ex. : minéraux métalliques, tels que le cuivre et l’or dans les montagnes et les hauts plateaux; minéraux non métalliques, tels que la bauxite en Jamaïque; pétrole dans les plateaux continentaux de l’Atlantique et du golfe du Mexique)",
+      "page": 16
+    },
+    {
+      "id": "GCU-LAT-007",
+      "theme": "Aire culturelle latino-américaine",
+      "chemin": [
+        "2. Caractéristiques naturelles de l’aire culturelle latino-américaine",
+        "2.1. Facteurs naturels"
+      ],
+      "texte": "d. Situer, sur une carte de l’Amérique latine, les océans, la mer et les principaux golfes autour desquels se distribuent les pays de l’aire : océans Atlantique et Pacifique; mer des Antilles; golfes du Mexique et de Californie",
+      "page": 16
+    },
+    {
+      "id": "GCU-LAT-008",
+      "theme": "Aire culturelle latino-américaine",
+      "chemin": [
+        "2. Caractéristiques naturelles de l’aire culturelle latino-américaine",
+        "2.1. Facteurs naturels"
+      ],
+      "texte": "e. Situer, sur une carte de l’Amérique latine, les principaux fleuves : Rio Bravo, Rio Paraná, Rio Paraguay, Rio Uruguay, Amazone",
+      "page": 16
+    },
+    {
+      "id": "GCU-LAT-009",
+      "theme": "Aire culturelle latino-américaine",
+      "chemin": [
+        "2. Caractéristiques naturelles de l’aire culturelle latino-américaine",
+        "2.1. Facteurs naturels"
+      ],
+      "texte": "f. Donner des caractéristiques de l’Amazone (ex. : très long fleuve, débit très élevé, navigable sur des milliers de kilomètres)",
+      "page": 16
+    },
+    {
+      "id": "GCU-LAT-010",
+      "theme": "Aire culturelle latino-américaine",
+      "chemin": [
+        "2. Caractéristiques naturelles de l’aire culturelle latino-américaine",
+        "2.1. Facteurs naturels"
+      ],
+      "texte": "g. Nommer les principaux climats : tropical, subtropical, équatorial, de montagne",
+      "page": 16
+    },
+    {
+      "id": "GCU-LAT-011",
+      "theme": "Aire culturelle latino-américaine",
+      "chemin": [
+        "2. Caractéristiques naturelles de l’aire culturelle latino-américaine",
+        "2.2. Influence des facteurs naturels sur l’organisation du territoire"
+      ],
+      "texte": "a. Décrire l’influence des chaînes de montagnes sur l’organisation territoriale : la cordillère des Andes délimite la frontière entre plusieurs pays; la production agricole est influencée par l’altitude et le climat de montagne",
+      "page": 16
+    },
+    {
+      "id": "GCU-LAT-012",
+      "theme": "Aire culturelle latino-américaine",
+      "chemin": [
+        "2. Caractéristiques naturelles de l’aire culturelle latino-américaine",
+        "2.2. Influence des facteurs naturels sur l’organisation du territoire"
+      ],
+      "texte": "b. Décrire l’influence du fleuve Amazone sur l’organisation territoriale : il facilite l’exploitation de ressources minières et forestières; il favorise le peuplement du territoire; il contribue au développement de régions éloignées",
+      "page": 16
+    },
+    {
+      "id": "GCU-LAT-013",
+      "theme": "Aire culturelle latino-américaine",
+      "chemin": [
+        "2. Caractéristiques naturelles de l’aire culturelle latino-américaine",
+        "2.2. Influence des facteurs naturels sur l’organisation du territoire"
+      ],
+      "texte": "c. Décrire l’influence des climats tropicaux et du climat équatorial sur l’économie de l’aire culturelle latino-américaine : les climats tropicaux favorisent une importante production agricole destinée à l’exportation, telle que celle des ananas, des bananes et du café; ils favorisent le développement de l’industrie touristique; le climat équatorial favorise la croissance de la forêt et contribue au développement du réseau hydrographique",
+      "page": 16
+    },
+    {
+      "id": "GCU-LAT-014",
+      "theme": "Aire culturelle latino-américaine",
+      "chemin": [
+        "2. Caractéristiques naturelles de l’aire culturelle latino-américaine",
+        "2.2. Influence des facteurs naturels sur l’organisation du territoire"
+      ],
+      "texte": "d. Décrire l’avantage lié à la situation géographique du Panama sur un isthme : elle a permis de creuser un canal reliant l’Atlantique au Pacifique dont les droits de passage pour les navires constituent une source importante de revenus pour le pays",
+      "page": 16
+    },
+    {
+      "id": "GCU-LAT-015",
+      "theme": "Aire culturelle latino-américaine",
+      "chemin": [
+        "3. Caractéristiques sociales de l’aire culturelle latino-américaine",
+        "3.1. Culture"
+      ],
+      "texte": "a. Indiquer des aspects des civilisations précolombiennes qui ont influencé les sociétés latino-américaines (ex. : production agricole, architecture, langue)",
+      "page": 16
+    },
+    {
+      "id": "GCU-LAT-016",
+      "theme": "Aire culturelle latino-américaine",
+      "chemin": [
+        "3. Caractéristiques sociales de l’aire culturelle latino-américaine",
+        "3.1. Culture"
+      ],
+      "texte": "b. Nommer les pays qui ont colonisé les territoires de l’aire culturelle latino-américaine : Espagne, Portugal, Royaume-Uni, France, Pays-Bas",
+      "page": 17
+    },
+    {
+      "id": "GCU-LAT-017",
+      "theme": "Aire culturelle latino-américaine",
+      "chemin": [
+        "3. Caractéristiques sociales de l’aire culturelle latino-américaine",
+        "3.1. Culture"
+      ],
+      "texte": "c. Indiquer l’influence de la colonisation européenne sur l’organisation politique et sociale de pays de l’aire culturelle (ex. : tracé des frontières, métissage des populations, hiérarchisation sociale selon l’origine ethnique)",
+      "page": 17
+    },
+    {
+      "id": "GCU-LAT-018",
+      "theme": "Aire culturelle latino-américaine",
+      "chemin": [
+        "3. Caractéristiques sociales de l’aire culturelle latino-américaine",
+        "3.1. Culture"
+      ],
+      "texte": "d. Donner des caractéristiques culturelles des sociétés latino-américaines (ex. : multiplicité ethnique, métissage de cultures d’origine européenne, africaine et autochtone)",
+      "page": 17
+    },
+    {
+      "id": "GCU-LAT-019",
+      "theme": "Aire culturelle latino-américaine",
+      "chemin": [
+        "3. Caractéristiques sociales de l’aire culturelle latino-américaine",
+        "3.2. Langue"
+      ],
+      "texte": "a. Nommer la langue officielle du Brésil : portugais",
+      "page": 17
+    },
+    {
+      "id": "GCU-LAT-020",
+      "theme": "Aire culturelle latino-américaine",
+      "chemin": [
+        "3. Caractéristiques sociales de l’aire culturelle latino-américaine",
+        "3.2. Langue"
+      ],
+      "texte": "b. Nommer les principales langues autochtones parlées en Amérique latine : quechua, guarani, kekchi",
+      "page": 17
+    },
+    {
+      "id": "GCU-LAT-021",
+      "theme": "Aire culturelle latino-américaine",
+      "chemin": [
+        "3. Caractéristiques sociales de l’aire culturelle latino-américaine",
+        "3.2. Langue"
+      ],
+      "texte": "c. Nommer des pays de l’aire culturelle qui ont une langue officielle autre que l’espagnol ou le portugais (ex. : Belize, Paraguay, Jamaïque, Suriname)",
+      "page": 17
+    },
+    {
+      "id": "GCU-LAT-022",
+      "theme": "Aire culturelle latino-américaine",
+      "chemin": [
+        "3. Caractéristiques sociales de l’aire culturelle latino-américaine",
+        "3.3. Religion"
+      ],
+      "texte": "a. Nommer la religion pratiquée par la majorité de la population de l’aire culturelle latino-américaine : catholicisme",
+      "page": 17
+    },
+    {
+      "id": "GCU-LAT-023",
+      "theme": "Aire culturelle latino-américaine",
+      "chemin": [
+        "3. Caractéristiques sociales de l’aire culturelle latino-américaine",
+        "3.3. Religion"
+      ],
+      "texte": "b. Indiquer le principal effet de l'établissement de nouvelles Églises sur les sociétés en Amérique latine : remise en question de valeurs traditionnelles",
+      "page": 17
+    },
+    {
+      "id": "GCU-LAT-024",
+      "theme": "Aire culturelle latino-américaine",
+      "chemin": [
+        "4. Population de l’aire culturelle latino-américaine",
+        "4.1. Caractéristiques démographiques"
+      ],
+      "texte": "a. Indiquer la proportion de la population de l’aire culturelle latino-américaine par rapport à celle de l’ensemble de l’Amérique : en 2007, les deux tiers",
+      "page": 17
+    },
+    {
+      "id": "GCU-LAT-025",
+      "theme": "Aire culturelle latino-américaine",
+      "chemin": [
+        "4. Population de l’aire culturelle latino-américaine",
+        "4.1. Caractéristiques démographiques"
+      ],
+      "texte": "b. Donner des caractéristiques démographiques des populations de l’aire culturelle latino-américaine (ex. : jeunesse de la population, taux de natalité élevé, migrations internationales importantes)",
+      "page": 17
+    },
+    {
+      "id": "GCU-LAT-026",
+      "theme": "Aire culturelle latino-américaine",
+      "chemin": [
+        "4. Population de l’aire culturelle latino-américaine",
+        "4.1. Caractéristiques démographiques"
+      ],
+      "texte": "c. Indiquer les principaux facteurs qui expliquent l’émigration latino-américaine vers l’Amérique du Nord : instabilité politique, manque d’emploi, proximité géographique",
+      "page": 17
+    },
+    {
+      "id": "GCU-LAT-027",
+      "theme": "Aire culturelle latino-américaine",
+      "chemin": [
+        "4. Population de l’aire culturelle latino-américaine",
+        "4.2. Répartition de la population"
+      ],
+      "texte": "a. Décrire la répartition de la population de l’aire culturelle latino-américaine : la majorité de la population se trouve en Argentine, au Brésil et au Mexique; de fortes densités de population se trouvent en Amérique centrale, en Amérique insulaire et sur le littoral du Brésil",
+      "page": 17
+    },
+    {
+      "id": "GCU-LAT-028",
+      "theme": "Aire culturelle latino-américaine",
+      "chemin": [
+        "4. Population de l’aire culturelle latino-américaine",
+        "4.2. Répartition de la population"
+      ],
+      "texte": "b. Situer, sur une carte de l’Amérique latine, de grandes agglomérations (ex. : Mexico, Santiago, São Paulo)",
+      "page": 17
+    },
+    {
+      "id": "GCU-LAT-029",
+      "theme": "Aire culturelle latino-américaine",
+      "chemin": [
+        "4. Population de l’aire culturelle latino-américaine",
+        "4.2. Répartition de la population"
+      ],
+      "texte": "c. Indiquer la proportion de la population urbaine par rapport à l’ensemble de la population de l’aire : en 2010, plus des trois quarts",
+      "page": 17
+    },
+    {
+      "id": "GCU-LAT-030",
+      "theme": "Aire culturelle latino-américaine",
+      "chemin": [
+        "4. Population de l’aire culturelle latino-américaine",
+        "4.3. Composition de la population"
+      ],
+      "texte": "a. Nommer l’ensemble régional où les populations autochtones ont pratiquement disparu à la suite de la colonisation : Amérique insulaire",
+      "page": 17
+    },
+    {
+      "id": "GCU-LAT-031",
+      "theme": "Aire culturelle latino-américaine",
+      "chemin": [
+        "4. Population de l’aire culturelle latino-américaine",
+        "4.3. Composition de la population"
+      ],
+      "texte": "b. Indiquer ce qui explique l’importance de la population d’origine africaine dans certains pays de l’aire culturelle latino-américaine : populations d’Afrique réduites à l’esclavage par les pays colonisateurs",
+      "page": 17
+    },
+    {
+      "id": "GCU-LAT-032",
+      "theme": "Aire culturelle latino-américaine",
+      "chemin": [
+        "4. Population de l’aire culturelle latino-américaine",
+        "4.3. Composition de la population"
+      ],
+      "texte": "c. Indiquer ce qui explique l’importance de la population originaire d’Asie du Sud dans certains pays de l’aire culturelle : travailleurs agricoles arrivés à la suite de l’abolition de l’esclavage",
+      "page": 17
+    },
+    {
+      "id": "GCU-LAT-033",
+      "theme": "Aire culturelle latino-américaine",
+      "chemin": [
+        "4. Population de l’aire culturelle latino-américaine",
+        "4.3. Composition de la population"
+      ],
+      "texte": "d. Donner des caractéristiques de la composition ethnique des populations de l’aire culturelle (ex. : majorité autochtone et métisse en Amérique centrale; majorité afro-caraïbe et métisse en Amérique insulaire)",
+      "page": 17
+    },
+    {
+      "id": "GCU-LAT-034",
+      "theme": "Aire culturelle latino-américaine",
+      "chemin": [
+        "4. Population de l’aire culturelle latino-américaine",
+        "4.3. Composition de la population"
+      ],
+      "texte": "e. Indiquer la proportion de la population autochtone, par rapport à la population totale de la Bolivie, de l'Équateur, du Guatemala et du Pérou : en 2010, plus du tiers",
+      "page": 17
+    },
+    {
+      "id": "GCU-LAT-035",
+      "theme": "Aire culturelle latino-américaine",
+      "chemin": [
+        "5. Conditions sociales et économiques de l’aire culturelle latino-américaine",
+        "5.1. Société"
+      ],
+      "texte": "a. Décrire les principales tendances observées sur le plan des conditions sociales et économiques depuis le début des années 1990 : elles s’améliorent dans la plupart des sociétés; l’indice du développement humain est à la hausse dans la majorité des pays, mais demeure bas dans certains pays, dont Haïti",
+      "page": 17
+    },
+    {
+      "id": "GCU-LAT-036",
+      "theme": "Aire culturelle latino-américaine",
+      "chemin": [
+        "5. Conditions sociales et économiques de l’aire culturelle latino-américaine",
+        "5.1. Société"
+      ],
+      "texte": "b. Donner des caractéristiques des conditions sociales et économiques des populations autochtones d’Amérique latine (ex. : marginalisation sociale, sous-représentation dans les postes de pouvoir, faible taux de scolarisation, pauvreté)",
+      "page": 17
+    },
+    {
+      "id": "GCU-LAT-037",
+      "theme": "Aire culturelle latino-américaine",
+      "chemin": [
+        "5. Conditions sociales et économiques de l’aire culturelle latino-américaine",
+        "5.1. Société"
+      ],
+      "texte": "c. Décrire ce qui caractérise l’urbanisation de l’Amérique latine : la croissance rapide des villes s’accompagne d’une extension des bidonvilles en périphérie; les infrastructures sanitaires dans les bidonvilles sont inadéquates; dans les bidonvilles, les terrains sont majoritairement squattés",
+      "page": 18
+    },
+    {
+      "id": "GCU-LAT-038",
+      "theme": "Aire culturelle latino-américaine",
+      "chemin": [
+        "5. Conditions sociales et économiques de l’aire culturelle latino-américaine",
+        "5.2. Réveil autochtone"
+      ],
+      "texte": "a. Décrire le contexte qui a favorisé le réveil autochtone en Amérique latine au début des années 1990 : durant la Guerre froide, les leaders autochtones associent leurs combats à la lutte des classes sociales (ouvrière ou paysanne); l’effondrement du bloc de l’Est ramène à l’avant-plan l’identité autochtone comme fondement des luttes sociales",
+      "page": 18
+    },
+    {
+      "id": "GCU-LAT-039",
+      "theme": "Aire culturelle latino-américaine",
+      "chemin": [
+        "5. Conditions sociales et économiques de l’aire culturelle latino-américaine",
+        "5.2. Réveil autochtone"
+      ],
+      "texte": "b. Indiquer des revendications autochtones (ex. : reconnaissance de l’indianité, reconnaissance de l’autodétermination politique, restitutions de terres)",
+      "page": 18
+    },
+    {
+      "id": "GCU-LAT-040",
+      "theme": "Aire culturelle latino-américaine",
+      "chemin": [
+        "5. Conditions sociales et économiques de l’aire culturelle latino-américaine",
+        "5.2. Réveil autochtone"
+      ],
+      "texte": "c. Nommer des acteurs de mouvements autochtones (ex. : Rigoberta Menchú, prix Nobel de la paix; Evo Morales, président de la Bolivie; Armée zapatiste de libération nationale; Confédération des nationalités indigènes de l’Équateur)",
+      "page": 18
+    },
+    {
+      "id": "GCU-LAT-041",
+      "theme": "Aire culturelle latino-américaine",
+      "chemin": [
+        "5. Conditions sociales et économiques de l’aire culturelle latino-américaine",
+        "5.2. Réveil autochtone"
+      ],
+      "texte": "d. Indiquer des gains politiques réalisés à la suite de revendications autochtones (ex. : reconnaissance du guarani comme une des langues officielles du Paraguay; protection des langues autochtones par la constitution bolivienne; accords de San Andrés sur la protection des droits et de la culture autochtone au Mexique)",
+      "page": 18
+    },
+    {
+      "id": "GCU-LAT-042",
+      "theme": "Aire culturelle latino-américaine",
+      "chemin": [
+        "5. Conditions sociales et économiques de l’aire culturelle latino-américaine",
+        "5.3. Économie"
+      ],
+      "texte": "a. Donner des caractéristiques économiques de pays d’Amérique latine (ex. : importance de la production agricole destinée à l’exportation, importance des exportations de matières premières, disparité sur le plan du développement)",
+      "page": 18
+    },
+    {
+      "id": "GCU-LAT-043",
+      "theme": "Aire culturelle latino-américaine",
+      "chemin": [
+        "5. Conditions sociales et économiques de l’aire culturelle latino-américaine",
+        "5.3. Économie"
+      ],
+      "texte": "b. Indiquer ce qui caractérise la répartition de la richesse dans l’aire culturelle latino-américaine : grande inégalité entre les pays et à l’intérieur des pays",
+      "page": 18
+    },
+    {
+      "id": "GCU-LAT-044",
+      "theme": "Aire culturelle latino-américaine",
+      "chemin": [
+        "5. Conditions sociales et économiques de l’aire culturelle latino-américaine",
+        "5.3. Économie"
+      ],
+      "texte": "c. Indiquer des facteurs qui expliquent la croissance économique du Brésil (ex. : abondance de ressources naturelles, vaste marché intérieur, infrastructures industrielles relativement développées)",
+      "page": 18
+    },
+    {
+      "id": "GCU-LAT-045",
+      "theme": "Aire culturelle latino-américaine",
+      "chemin": [
+        "5. Conditions sociales et économiques de l’aire culturelle latino-américaine",
+        "5.3. Économie"
+      ],
+      "texte": "d. Décrire le contexte qui favorise le développement économique de certains pays d’Amérique latine : une stabilité politique s’observe dans la plupart des pays; la demande mondiale pour les ressources naturelles et agricoles est à la hausse",
+      "page": 18
+    },
+    {
+      "id": "GCU-LAT-046",
+      "theme": "Aire culturelle latino-américaine",
+      "chemin": [
+        "5. Conditions sociales et économiques de l’aire culturelle latino-américaine",
+        "5.4. Politique agraire"
+      ],
+      "texte": "a. Donner la principale caractéristique de la propriété foncière en Amérique latine : possession, par un petit nombre de propriétaires, individus ou entreprises, de la grande majorité des terres agricoles",
+      "page": 18
+    },
+    {
+      "id": "GCU-LAT-047",
+      "theme": "Aire culturelle latino-américaine",
+      "chemin": [
+        "5. Conditions sociales et économiques de l’aire culturelle latino-américaine",
+        "5.4. Politique agraire"
+      ],
+      "texte": "b. Indiquer ce qui explique l’inégalité dans la répartition de la propriété foncière dans l’aire culturelle latino-américaine (ex. : attribution de vastes domaines aux conquérants espagnols et portugais ainsi qu’aux ordres religieux au début de la colonisation, échec de réformes agraires)",
+      "page": 18
+    },
+    {
+      "id": "GCU-LAT-048",
+      "theme": "Aire culturelle latino-américaine",
+      "chemin": [
+        "5. Conditions sociales et économiques de l’aire culturelle latino-américaine",
+        "5.4. Politique agraire"
+      ],
+      "texte": "c. Indiquer l’objectif poursuivi par les réformes agraires instituées dans la seconde moitié du 20e siècle : redistribuer plus équitablement les terres",
+      "page": 18
+    },
+    {
+      "id": "GCU-LAT-049",
+      "theme": "Aire culturelle latino-américaine",
+      "chemin": [
+        "5. Conditions sociales et économiques de l’aire culturelle latino-américaine",
+        "5.4. Politique agraire"
+      ],
+      "texte": "d. Indiquer le moyen utilisé par Cuba pour contrôler la production agricole : nationalisation des terres",
+      "page": 18
+    },
+    {
+      "id": "GCU-LAT-050",
+      "theme": "Aire culturelle latino-américaine",
+      "chemin": [
+        "5. Conditions sociales et économiques de l’aire culturelle latino-américaine",
+        "5.4. Politique agraire"
+      ],
+      "texte": "e. Nommer des organisations militantes du Brésil qui revendiquent l’appropriation des terres par ceux qui la cultivent (ex. : Mouvement des travailleurs ruraux sans terre, Mouvement des sans-terre)",
+      "page": 18
+    },
+    {
+      "id": "GCU-LAT-051",
+      "theme": "Aire culturelle latino-américaine",
+      "chemin": [
+        "6. Regroupements économiques et politiques de l’aire culturelle latino-américaine",
+        "6.1. Organisation des États américains (OEA)"
+      ],
+      "texte": "a. Indiquer les objectifs de l’OEA : maintenir la solidarité; renforcer la collaboration; défendre la souveraineté et l’intégrité territoriale des États membres",
+      "page": 18
+    },
+    {
+      "id": "GCU-LAT-052",
+      "theme": "Aire culturelle latino-américaine",
+      "chemin": [
+        "6. Regroupements économiques et politiques de l’aire culturelle latino-américaine",
+        "6.1. Organisation des États américains (OEA)"
+      ],
+      "texte": "b. Indiquer les objets de préoccupation de l’OEA : démocratie, droits de l'homme, sécurité, développement",
+      "page": 18
+    },
+    {
+      "id": "GCU-LAT-053",
+      "theme": "Aire culturelle latino-américaine",
+      "chemin": [
+        "6. Regroupements économiques et politiques de l’aire culturelle latino-américaine",
+        "6.1. Organisation des États américains (OEA)"
+      ],
+      "texte": "c. Nommer le pays qui a été exclu de l’OEA en 1962 : Cuba",
+      "page": 18
+    },
+    {
+      "id": "GCU-LAT-054",
+      "theme": "Aire culturelle latino-américaine",
+      "chemin": [
+        "6. Regroupements économiques et politiques de l’aire culturelle latino-américaine",
+        "6.1. Organisation des États américains (OEA)"
+      ],
+      "texte": "d. Nommer le pays qui exerce une influence prépondérante au sein de l’OEA : États-Unis",
+      "page": 18
+    },
+    {
+      "id": "GCU-LAT-055",
+      "theme": "Aire culturelle latino-américaine",
+      "chemin": [
+        "6. Regroupements économiques et politiques de l’aire culturelle latino-américaine",
+        "6.2. Regroupements latino-américains"
+      ],
+      "texte": "a. Indiquer des facteurs qui expliquent le regroupement des pays d’Amérique latine sur le plan politique et économique (ex. : intégration régionale, recherche d’autonomie politique et économique vis-à-vis des États-Unis)",
+      "page": 18
+    },
+    {
+      "id": "GCU-LAT-056",
+      "theme": "Aire culturelle latino-américaine",
+      "chemin": [
+        "6. Regroupements économiques et politiques de l’aire culturelle latino-américaine",
+        "6.2. Regroupements latino-américains"
+      ],
+      "texte": "b. Situer, sur une carte de l’Amérique latine, les pays membres permanents du Mercosur : Argentine, Brésil, Paraguay, Uruguay, Venezuela",
+      "page": 18
+    },
+    {
+      "id": "GCU-LAT-057",
+      "theme": "Aire culturelle latino-américaine",
+      "chemin": [
+        "6. Regroupements économiques et politiques de l’aire culturelle latino-américaine",
+        "6.2. Regroupements latino-américains"
+      ],
+      "texte": "c. Indiquer les principaux objectifs du Mercosur : créer un marché commun; favoriser la coopération sur le plan économique",
+      "page": 19
+    },
+    {
+      "id": "GCU-LAT-058",
+      "theme": "Aire culturelle latino-américaine",
+      "chemin": [
+        "6. Regroupements économiques et politiques de l’aire culturelle latino-américaine",
+        "6.2. Regroupements latino-américains"
+      ],
+      "texte": "d. Indiquer des mesures mises en œuvre pour favoriser l’intégration économique des pays membres du Mercosur (ex. : instauration d’un tarif douanier externe commun, coordination des interventions lors de forums internationaux)",
+      "page": 19
+    },
+    {
+      "id": "GCU-LAT-059",
+      "theme": "Aire culturelle latino-américaine",
+      "chemin": [
+        "6. Regroupements économiques et politiques de l’aire culturelle latino-américaine",
+        "6.2. Regroupements latino-américains"
+      ],
+      "texte": "e. Situer, sur une carte de l’Amérique latine, des pays membres de l’Alliance bolivarienne pour les peuples de notre Amérique – Traité de commerce des peuples (ALBA - TCP) (ex. : Antigua-et-Barbuda, Bolivie, Cuba, Nicaragua, Venezuela)",
+      "page": 19
+    },
+    {
+      "id": "GCU-LAT-060",
+      "theme": "Aire culturelle latino-américaine",
+      "chemin": [
+        "6. Regroupements économiques et politiques de l’aire culturelle latino-américaine",
+        "6.2. Regroupements latino-américains"
+      ],
+      "texte": "f. Indiquer l’objectif de l’ALBA – TCP : promouvoir la coopération et l’intégration politique, économique et sociale des pays socialistes d’Amérique latine et des Caraïbes",
+      "page": 19
+    },
+    {
+      "id": "GCU-LAT-061",
+      "theme": "Aire culturelle latino-américaine",
+      "chemin": [
+        "6. Regroupements économiques et politiques de l’aire culturelle latino-américaine",
+        "6.2. Regroupements latino-américains"
+      ],
+      "texte": "g. Indiquer des mesures mises en œuvre par l’ALBA – TCP pour atteindre son objectif (ex. : échange de biens et de services entre les pays membres, accords sur des tarifs douaniers, soutien aux entreprises d’État)",
+      "page": 19
+    },
+    {
+      "id": "GCU-LAT-062",
+      "theme": "Aire culturelle latino-américaine",
+      "chemin": [
+        "6. Regroupements économiques et politiques de l’aire culturelle latino-américaine",
+        "6.2. Regroupements latino-américains"
+      ],
+      "texte": "h. Nommer d’autres regroupements économiques et politiques (ex. : Communauté andine des nations, Communauté caribéenne, Marché commun centraméricain, Union des nations sud-américaines)",
+      "page": 19
+    },
+    {
+      "id": "GCU-LAT-063",
+      "theme": "Aire culturelle latino-américaine",
+      "chemin": [
+        "7. Diaspora latino-américaine"
+      ],
+      "texte": "a. Définir le terme diaspora : population dispersée qui conserve des liens économiques et sociaux avec le pays d’origine",
+      "page": 19
+    },
+    {
+      "id": "GCU-LAT-064",
+      "theme": "Aire culturelle latino-américaine",
+      "chemin": [
+        "7. Diaspora latino-américaine"
+      ],
+      "texte": "b. Décrire le mouvement migratoire latino-américain : la majorité des migrants proviennent du Mexique et se dirigent vers les États-Unis",
+      "page": 19
+    },
+    {
+      "id": "GCU-LAT-065",
+      "theme": "Aire culturelle latino-américaine",
+      "chemin": [
+        "7. Diaspora latino-américaine"
+      ],
+      "texte": "c. Indiquer des facteurs qui expliquent l’émigration d’origine latino-américaine (ex. : manque de travail, violence sociale ou politique, reconstitution des familles)",
+      "page": 19
+    },
+    {
+      "id": "GCU-LAT-066",
+      "theme": "Aire culturelle latino-américaine",
+      "chemin": [
+        "7. Diaspora latino-américaine"
+      ],
+      "texte": "d. Nommer des États des États-Unis où les citoyens d’origine latino-américaine constituent plus du quart de la population (ex. : en 2010, Californie, Arizona, Nouveau-Mexique, Texas)",
+      "page": 19
+    },
+    {
+      "id": "GCU-LAT-067",
+      "theme": "Aire culturelle latino-américaine",
+      "chemin": [
+        "7. Diaspora latino-américaine"
+      ],
+      "texte": "e. Indiquer des façons dont les membres des diasporas influencent le développement économique et culturel de leur pays d’origine (ex. : transfert de fonds, diffusion de productions culturelles à l’échelle internationale)",
+      "page": 19
+    },
+    {
+      "id": "GCU-LAT-068",
+      "theme": "Aire culturelle latino-américaine",
+      "chemin": [
+        "7. Diaspora latino-américaine"
+      ],
+      "texte": "f. Indiquer des conséquences de l’émigration sur l’organisation sociale et économique des pays d’origine (ex. : perte de population active, perte d’expertise)",
+      "page": 19
+    },
+    {
+      "id": "GCU-OCC-001",
+      "theme": "Aire culturelle occidentale",
+      "chemin": [
+        "1. Localisation de l’aire culturelle occidentale"
+      ],
+      "texte": "a. Indiquer, sur une carte du monde, les limites de l’aire culturelle occidentale",
+      "page": 20
+    },
+    {
+      "id": "GCU-OCC-002",
+      "theme": "Aire culturelle occidentale",
+      "chemin": [
+        "1. Localisation de l’aire culturelle occidentale"
+      ],
+      "texte": "b. Situer, sur une carte du monde, des pays de chacun des continents de l’aire culturelle (ex. : États-Unis et Canada, en Amérique du Nord; France et Russie, en Europe; Australie et Nouvelle-Zélande, en Océanie)",
+      "page": 20
+    },
+    {
+      "id": "GCU-OCC-003",
+      "theme": "Aire culturelle occidentale",
+      "chemin": [
+        "2. Caractéristiques naturelles de l’aire culturelle occidentale",
+        "2.1. Facteurs naturels"
+      ],
+      "texte": "a. Donner les vastes plaines agricoles, plaines littorales et fluviales, archipels, îles volcaniques et principales chaînes de montagnes, chaînes de hautes coralliennes, chaînes de caractéristiques bouclier montagnes, côtes hautes montagnes, bouclier physiographiques découpées, vastes péninsules, bouclier",
+      "page": 20
+    },
+    {
+      "id": "GCU-OCC-004",
+      "theme": "Aire culturelle occidentale",
+      "chemin": [
+        "2. Caractéristiques naturelles de l’aire culturelle occidentale",
+        "2.1. Facteurs naturels"
+      ],
+      "texte": "b. Situer les Basses-terres du Saint-plaine d’Allemagne du nord, plateau de Kimberley, principaux Laurent et des Grands Lacs, plaine russe, Alpes, massif Bouclier australien, Alpes de éléments du relief Bouclier canadien, scandinave, Oural, Pyrénées Nouvelle-Zélande, Chaîne sur une carte cordillères, Plaines Owen Stanley intérieures, Appalaches",
+      "page": 20
+    },
+    {
+      "id": "GCU-OCC-005",
+      "theme": "Aire culturelle occidentale",
+      "chemin": [
+        "2. Caractéristiques naturelles de l’aire culturelle occidentale",
+        "2.1. Facteurs naturels"
+      ],
+      "texte": "c. Nommer des minéraux métalliques, tels minéraux métalliques, tels minéraux métalliques, tels ressources que le cuivre et l’or; minéraux que le fer et le zinc que l’uranium et l’argent; naturelles des non métalliques, tels que le minéraux non métalliques, boucliers et des diamant tels que le diamant massifs",
+      "page": 20
+    },
+    {
+      "id": "GCU-OCC-006",
+      "theme": "Aire culturelle occidentale",
+      "chemin": [
+        "2. Caractéristiques naturelles de l’aire culturelle occidentale",
+        "2.1. Facteurs naturels"
+      ],
+      "texte": "d. Nommer des pétrole, gaz ressources naturelles des plateaux continentaux",
+      "page": 20
+    },
+    {
+      "id": "GCU-OCC-007",
+      "theme": "Aire culturelle occidentale",
+      "chemin": [
+        "2. Caractéristiques naturelles de l’aire culturelle occidentale",
+        "2.1. Facteurs naturels"
+      ],
+      "texte": "e. Situer les Mississippi, Mackenzie, Rhône, Danube, Rhin, Volga Murray, Sepik, Waikat principaux fleuves Saint-Laurent, Rio Grande sur une carte",
+      "page": 20
+    },
+    {
+      "id": "GCU-OCC-008",
+      "theme": "Aire culturelle occidentale",
+      "chemin": [
+        "2. Caractéristiques naturelles de l’aire culturelle occidentale",
+        "2.1. Facteurs naturels"
+      ],
+      "texte": "f. Situer les océans, océans Arctique, Pacifique et océans Atlantique et océans Pacifique et Indien; les principaux Atlantique; golfes du Saint-Arctique; mers Baltique, du mers de Tasman, de Corail et golfes, mers et Laurent et du Mexique; mer Nord, Méditerranée et Noire; de Timor; détroit de Torres détroits sur une du Labrador et baie détroits de Gibraltar et du carte d’Hudson; détroits de Béring Bosphore et de Floride",
+      "page": 20
+    },
+    {
+      "id": "GCU-OCC-009",
+      "theme": "Aire culturelle occidentale",
+      "chemin": [
+        "2. Caractéristiques naturelles de l’aire culturelle occidentale",
+        "2.1. Facteurs naturels"
+      ],
+      "texte": "g. Nommer les continental, maritime, continental, maritime, désertique, tropical humide principaux climats subtropical, de montagne méditerranéen",
+      "page": 20
+    },
+    {
+      "id": "GCU-OCC-010",
+      "theme": "Aire culturelle occidentale",
+      "chemin": [
+        "2. Caractéristiques naturelles de l’aire culturelle occidentale",
+        "2.2. Influence des facteurs naturels sur l’organisation du territoire"
+      ],
+      "texte": "a. Décrire l’influence des fleuves sur l’organisation des territoires de l'Amérique du Nord et de l'Europe : l’aménagement des fleuves permet le transport de marchandises pour un coût moindre que dans le cas du transport terrestre; les fleuves favorisent le développement de zones d’urbanisation et d’industrialisation",
+      "page": 20
+    },
+    {
+      "id": "GCU-OCC-011",
+      "theme": "Aire culturelle occidentale",
+      "chemin": [
+        "2. Caractéristiques naturelles de l’aire culturelle occidentale",
+        "2.2. Influence des facteurs naturels sur l’organisation du territoire"
+      ],
+      "texte": "b. Décrire l’influence des Plaines intérieures sur le développement économique de l’Amérique du Nord : elles permettent la pratique de cultures céréalières extensives",
+      "page": 21
+    },
+    {
+      "id": "GCU-OCC-012",
+      "theme": "Aire culturelle occidentale",
+      "chemin": [
+        "2. Caractéristiques naturelles de l’aire culturelle occidentale",
+        "2.2. Influence des facteurs naturels sur l’organisation du territoire"
+      ],
+      "texte": "c. Décrire l’influence du littoral découpé sur le développement économique de l’Europe : il crée des conditions favorables à l’établissement de nombreux ports",
+      "page": 21
+    },
+    {
+      "id": "GCU-OCC-013",
+      "theme": "Aire culturelle occidentale",
+      "chemin": [
+        "2. Caractéristiques naturelles de l’aire culturelle occidentale",
+        "2.2. Influence des facteurs naturels sur l’organisation du territoire"
+      ],
+      "texte": "d. Décrire l’influence des chaînes de hautes montagnes sur l’économie : leur aménagement favorise le développement de l’industrie touristique",
+      "page": 21
+    },
+    {
+      "id": "GCU-OCC-014",
+      "theme": "Aire culturelle occidentale",
+      "chemin": [
+        "2. Caractéristiques naturelles de l’aire culturelle occidentale",
+        "2.2. Influence des facteurs naturels sur l’organisation du territoire"
+      ],
+      "texte": "e. Décrire l’influence des climats continental et méditerranéen sur l’organisation territoriale : les climats continental et méditerranéen favorisent l’agriculture",
+      "page": 21
+    },
+    {
+      "id": "GCU-OCC-015",
+      "theme": "Aire culturelle occidentale",
+      "chemin": [
+        "2. Caractéristiques naturelles de l’aire culturelle occidentale",
+        "2.2. Influence des facteurs naturels sur l’organisation du territoire"
+      ],
+      "texte": "f. Décrire l’influence du climat désertique sur l’organisation de certains territoires en Océanie : il explique la concentration de la population sur le littoral",
+      "page": 21
+    },
+    {
+      "id": "GCU-OCC-016",
+      "theme": "Aire culturelle occidentale",
+      "chemin": [
+        "2. Caractéristiques naturelles de l’aire culturelle occidentale",
+        "2.2. Influence des facteurs naturels sur l’organisation du territoire"
+      ],
+      "texte": "g. Indiquer l’effet du Gulf Stream sur l’organisation territoriale en Europe : pratique de l’agriculture à des latitudes élevées",
+      "page": 21
+    },
+    {
+      "id": "GCU-OCC-017",
+      "theme": "Aire culturelle occidentale",
+      "chemin": [
+        "3. Caractéristiques sociales de l’aire culturelle occidentale",
+        "3.1. Culture"
+      ],
+      "texte": "a. Nommer des valeurs véhiculées par les sociétés occidentales (ex. : égalité, liberté, État de droit, démocratie)",
+      "page": 21
+    },
+    {
+      "id": "GCU-OCC-018",
+      "theme": "Aire culturelle occidentale",
+      "chemin": [
+        "3. Caractéristiques sociales de l’aire culturelle occidentale",
+        "3.1. Culture"
+      ],
+      "texte": "b. Nommer des valeurs de l’American Way of Life qui se diffusent en Europe au lendemain de la Seconde Guerre mondiale (ex. : individualisme, matérialisme)",
+      "page": 21
+    },
+    {
+      "id": "GCU-OCC-019",
+      "theme": "Aire culturelle occidentale",
+      "chemin": [
+        "3. Caractéristiques sociales de l’aire culturelle occidentale",
+        "3.1. Culture"
+      ],
+      "texte": "c. Indiquer les principaux véhicules qui contribuent à la diffusion du mode de vie occidental à l’échelle mondiale : médias de masse, cinéma, Internet",
+      "page": 21
+    },
+    {
+      "id": "GCU-OCC-020",
+      "theme": "Aire culturelle occidentale",
+      "chemin": [
+        "3. Caractéristiques sociales de l’aire culturelle occidentale",
+        "3.1. Culture"
+      ],
+      "texte": "d. Nommer des domaines dans lesquels s’exerce l’influence d’autres cultures sur la culture occidentale (ex. : musique, alimentation, technologie, spiritualité)",
+      "page": 21
+    },
+    {
+      "id": "GCU-OCC-021",
+      "theme": "Aire culturelle occidentale",
+      "chemin": [
+        "3. Caractéristiques sociales de l’aire culturelle occidentale",
+        "3.1. Culture"
+      ],
+      "texte": "e. Indiquer des manifestations liées à la présence autochtone en Amérique du Nord et en Océanie (ex. : toponymie, territoires protégés)",
+      "page": 21
+    },
+    {
+      "id": "GCU-OCC-022",
+      "theme": "Aire culturelle occidentale",
+      "chemin": [
+        "3. Caractéristiques sociales de l’aire culturelle occidentale",
+        "3.2. Langue"
+      ],
+      "texte": "a. Donner des caractéristiques de l’Europe sur le plan linguistique : diversité des langues parlées; trois familles linguistiques, germanique, romane et slave, à l’origine de la plupart des langues; plus d’une langue officielle dans certains pays",
+      "page": 21
+    },
+    {
+      "id": "GCU-OCC-023",
+      "theme": "Aire culturelle occidentale",
+      "chemin": [
+        "3. Caractéristiques sociales de l’aire culturelle occidentale",
+        "3.2. Langue"
+      ],
+      "texte": "b. Indiquer ce qui explique que l’anglais est la principale langue parlée en Amérique du Nord et en Océanie (ex. : héritage colonial, échanges internationaux)",
+      "page": 21
+    },
+    {
+      "id": "GCU-OCC-024",
+      "theme": "Aire culturelle occidentale",
+      "chemin": [
+        "3. Caractéristiques sociales de l’aire culturelle occidentale",
+        "3.2. Langue"
+      ],
+      "texte": "c. Indiquer ce qui explique que le français est une langue parlée en Amérique du Nord et en Océanie : héritage colonial",
+      "page": 21
+    },
+    {
+      "id": "GCU-OCC-025",
+      "theme": "Aire culturelle occidentale",
+      "chemin": [
+        "3. Caractéristiques sociales de l’aire culturelle occidentale",
+        "3.3. Religion"
+      ],
+      "texte": "a. Nommer la religion pratiquée par la majorité des populations de l’aire culturelle occidentale : christianisme",
+      "page": 21
+    },
+    {
+      "id": "GCU-OCC-026",
+      "theme": "Aire culturelle occidentale",
+      "chemin": [
+        "3. Caractéristiques sociales de l’aire culturelle occidentale",
+        "3.3. Religion"
+      ],
+      "texte": "b. Nommer des religions autres que le christianisme pratiquées dans l’aire culturelle (ex. : bouddhisme, islam, judaïsme)",
+      "page": 21
+    },
+    {
+      "id": "GCU-OCC-027",
+      "theme": "Aire culturelle occidentale",
+      "chemin": [
+        "3. Caractéristiques sociales de l’aire culturelle occidentale",
+        "3.3. Religion"
+      ],
+      "texte": "c. Indiquer la principale conséquence de la laïcisation des États : perte du pouvoir d’influence des Églises",
+      "page": 21
+    },
+    {
+      "id": "GCU-OCC-028",
+      "theme": "Aire culturelle occidentale",
+      "chemin": [
+        "4. Population de l’aire culturelle occidentale",
+        "4.1. Caractéristiques démographiques"
+      ],
+      "texte": "a. Indiquer la proportion de la population de l’aire culturelle par rapport à la population mondiale : en 2010, moins du cinquième",
+      "page": 21
+    },
+    {
+      "id": "GCU-OCC-029",
+      "theme": "Aire culturelle occidentale",
+      "chemin": [
+        "4. Population de l’aire culturelle occidentale",
+        "4.1. Caractéristiques démographiques"
+      ],
+      "texte": "b. Donner les principales caractéristiques démographiques des populations de l’aire culturelle occidentale : vieillissement de la population, taux de natalité sous le seuil de renouvellement des générations, espérance de vie élevée",
+      "page": 21
+    },
+    {
+      "id": "GCU-OCC-030",
+      "theme": "Aire culturelle occidentale",
+      "chemin": [
+        "4. Population de l’aire culturelle occidentale",
+        "4.1. Caractéristiques démographiques"
+      ],
+      "texte": "c. Indiquer des facteurs qui expliquent le faible taux de natalité (ex. : utilisation de moyens contraceptifs, augmentation de l’âge moyen des femmes à la naissance de leur premier enfant, participation des femmes au marché du travail)",
+      "page": 21
+    },
+    {
+      "id": "GCU-OCC-031",
+      "theme": "Aire culturelle occidentale",
+      "chemin": [
+        "4. Population de l’aire culturelle occidentale",
+        "4.1. Caractéristiques démographiques"
+      ],
+      "texte": "d. Indiquer des mesures mises en œuvre pour favoriser le renouvellement des générations (ex. : adoption de politiques natalistes, adoption de politiques d’immigration)",
+      "page": 21
+    },
+    {
+      "id": "GCU-OCC-032",
+      "theme": "Aire culturelle occidentale",
+      "chemin": [
+        "4. Population de l’aire culturelle occidentale",
+        "4.2. Répartition de la population"
+      ],
+      "texte": "a. Décrire la répartition de la population dans l’aire culturelle occidentale : la majorité de la population se trouve aux États-Unis et en Europe de l’Ouest; de fortes densités de population se situent sur les littoraux Atlantique et Pacifique et dans les vallées fluviales",
+      "page": 22
+    },
+    {
+      "id": "GCU-OCC-033",
+      "theme": "Aire culturelle occidentale",
+      "chemin": [
+        "4. Population de l’aire culturelle occidentale",
+        "4.2. Répartition de la population"
+      ],
+      "texte": "b. Situer, sur une carte du monde, de grandes agglomérations (ex. : New York, Moscou, Sydney)",
+      "page": 22
+    },
+    {
+      "id": "GCU-OCC-034",
+      "theme": "Aire culturelle occidentale",
+      "chemin": [
+        "4. Population de l’aire culturelle occidentale",
+        "4.2. Répartition de la population"
+      ],
+      "texte": "c. Indiquer la proportion de la population urbaine par rapport à l’ensemble de la population de l’aire culturelle : en 2010, plus des trois quarts",
+      "page": 22
+    },
+    {
+      "id": "GCU-OCC-035",
+      "theme": "Aire culturelle occidentale",
+      "chemin": [
+        "4. Population de l’aire culturelle occidentale",
+        "4.3. Mouvement migratoire"
+      ],
+      "texte": "a. Décrire le principal mouvement migratoire vers les pays occidentaux : la majorité des immigrants proviennent de pays en développement et choisissent de s’établir dans les grandes villes",
+      "page": 22
+    },
+    {
+      "id": "GCU-OCC-036",
+      "theme": "Aire culturelle occidentale",
+      "chemin": [
+        "4. Population de l’aire culturelle occidentale",
+        "4.3. Mouvement migratoire"
+      ],
+      "texte": "b. Donner la principale caractéristique de la composition des sociétés de l’aire culturelle occidentale : proportion élevée d’immigrants par rapport à la population totale",
+      "page": 22
+    },
+    {
+      "id": "GCU-OCC-037",
+      "theme": "Aire culturelle occidentale",
+      "chemin": [
+        "4. Population de l’aire culturelle occidentale",
+        "4.3. Mouvement migratoire"
+      ],
+      "texte": "c. Indiquer le principal objectif des pays qui accueillent des immigrants : combler des besoins en main-d’œuvre",
+      "page": 22
+    },
+    {
+      "id": "GCU-OCC-038",
+      "theme": "Aire culturelle occidentale",
+      "chemin": [
+        "4. Population de l’aire culturelle occidentale",
+        "4.3. Mouvement migratoire"
+      ],
+      "texte": "d. Indiquer ce qui explique le choix du pays d’accueil (ex. : lien colonial, proximité géographique, possibilité d’emploi, présence d’une diaspora, caractéristiques culturelles, telles que la langue)",
+      "page": 22
+    },
+    {
+      "id": "GCU-OCC-039",
+      "theme": "Aire culturelle occidentale",
+      "chemin": [
+        "4. Population de l’aire culturelle occidentale",
+        "4.3. Mouvement migratoire"
+      ],
+      "texte": "e. Indiquer des conséquences de l’immigration dans les pays d’accueil (ex. : diminution de l’âge moyen, diversification de la composition des sociétés, formation de quartiers ethniques)",
+      "page": 22
+    },
+    {
+      "id": "GCU-OCC-040",
+      "theme": "Aire culturelle occidentale",
+      "chemin": [
+        "5. Économie de l’aire culturelle occidentale",
+        "5.1. Caractéristiques socioéconomiques"
+      ],
+      "texte": "a. Nommer l’idéologie sur laquelle se fonde l’organisation économique de la majorité des pays de l’aire culturelle occidentale : libéralisme",
+      "page": 22
+    },
+    {
+      "id": "GCU-OCC-041",
+      "theme": "Aire culturelle occidentale",
+      "chemin": [
+        "5. Économie de l’aire culturelle occidentale",
+        "5.1. Caractéristiques socioéconomiques"
+      ],
+      "texte": "b. Indiquer ce qui explique l’indice de développement humain élevé dans la majorité des pays occidentaux : espérance de vie, taux de scolarisation et produit intérieur brut élevés",
+      "page": 22
+    },
+    {
+      "id": "GCU-OCC-042",
+      "theme": "Aire culturelle occidentale",
+      "chemin": [
+        "5. Économie de l’aire culturelle occidentale",
+        "5.1. Caractéristiques socioéconomiques"
+      ],
+      "texte": "c. Indiquer le principal secteur d’activité économique pour la majorité des pays : secteur des services",
+      "page": 22
+    },
+    {
+      "id": "GCU-OCC-043",
+      "theme": "Aire culturelle occidentale",
+      "chemin": [
+        "5. Économie de l’aire culturelle occidentale",
+        "5.1. Caractéristiques socioéconomiques"
+      ],
+      "texte": "d. Donner des caractéristiques de l’agriculture dans la majorité des pays (ex. : mécanisation importante, productivité élevée)",
+      "page": 22
+    },
+    {
+      "id": "GCU-OCC-044",
+      "theme": "Aire culturelle occidentale",
+      "chemin": [
+        "5. Économie de l’aire culturelle occidentale",
+        "5.2. Regroupements économiques"
+      ],
+      "texte": "a. Nommer les principaux regroupements économiques des pays de l’aire culturelle occidentale : ALENA, Union européenne, Coopération économique pour l’Asie-Pacifique",
+      "page": 22
+    },
+    {
+      "id": "GCU-OCC-045",
+      "theme": "Aire culturelle occidentale",
+      "chemin": [
+        "5. Économie de l’aire culturelle occidentale",
+        "5.2. Regroupements économiques"
+      ],
+      "texte": "b. Indiquer le principal moyen utilisé par les trois regroupements économiques pour favoriser le commerce entre les États membres : réduction des tarifs douaniers",
+      "page": 22
+    },
+    {
+      "id": "GCU-OCC-046",
+      "theme": "Aire culturelle occidentale",
+      "chemin": [
+        "5. Économie de l’aire culturelle occidentale",
+        "5.2. Regroupements économiques"
+      ],
+      "texte": "c. Situer, sur une carte du monde, les regroupements économiques",
+      "page": 22
+    },
+    {
+      "id": "GCU-ORI-001",
+      "theme": "Aire culturelle orientale",
+      "chemin": [
+        "1. Localisation de l’aire culturelle orientale"
+      ],
+      "texte": "a. Indiquer, sur une carte du monde, les limites de l’aire culturelle orientale",
+      "page": 23
+    },
+    {
+      "id": "GCU-ORI-002",
+      "theme": "Aire culturelle orientale",
+      "chemin": [
+        "1. Localisation de l’aire culturelle orientale"
+      ],
+      "texte": "b. Situer, sur une carte de l’Asie de l’Est et du Sud-est, des pays de l’aire culturelle (ex. : Mongolie, Chine, Corée du Nord, Singapour, Myanmar, Indonésie)",
+      "page": 23
+    },
+    {
+      "id": "GCU-ORI-003",
+      "theme": "Aire culturelle orientale",
+      "chemin": [
+        "2. Caractéristiques naturelles de l’aire culturelle orientale",
+        "2.1. Facteurs naturels"
+      ],
+      "texte": "a. Donner les principales caractéristiques physiographiques de l’aire culturelle orientale : longues plaines littorales, vastes péninsules, grands archipels, vastes deltas, hauts plateaux",
+      "page": 23
+    },
+    {
+      "id": "GCU-ORI-004",
+      "theme": "Aire culturelle orientale",
+      "chemin": [
+        "2. Caractéristiques naturelles de l’aire culturelle orientale",
+        "2.1. Facteurs naturels"
+      ],
+      "texte": "b. Situer, sur une carte de l’Asie de l’Est et du Sud-Est, les océans et les principales mers autour desquels se distribuent les pays de l’aire culturelle : océans Pacifique et Indien; mers Jaune, du Japon, de Chine orientale et d’Andaman",
+      "page": 23
+    },
+    {
+      "id": "GCU-ORI-005",
+      "theme": "Aire culturelle orientale",
+      "chemin": [
+        "2. Caractéristiques naturelles de l’aire culturelle orientale",
+        "2.1. Facteurs naturels"
+      ],
+      "texte": "c. Situer, sur une carte de l’Asie de l’Est et du Sud-Est, les principaux archipels et péninsules : archipels du Japon, des Philippines et d’Indonésie; péninsules de Corée et d’Indochine",
+      "page": 23
+    },
+    {
+      "id": "GCU-ORI-006",
+      "theme": "Aire culturelle orientale",
+      "chemin": [
+        "2. Caractéristiques naturelles de l’aire culturelle orientale",
+        "2.1. Facteurs naturels"
+      ],
+      "texte": "d. Situer, sur une carte de l’Asie de l’Est et du Sud-Est, les principaux fleuves et leur delta : Huang He, Chang Jiang, Xi Jiang, Mékong et Irrawaddy",
+      "page": 23
+    },
+    {
+      "id": "GCU-ORI-007",
+      "theme": "Aire culturelle orientale",
+      "chemin": [
+        "2. Caractéristiques naturelles de l’aire culturelle orientale",
+        "2.1. Facteurs naturels"
+      ],
+      "texte": "e. Nommer les principaux climats : tropical de mousson, équatorial, continental, désertique",
+      "page": 23
+    },
+    {
+      "id": "GCU-ORI-008",
+      "theme": "Aire culturelle orientale",
+      "chemin": [
+        "2. Caractéristiques naturelles de l’aire culturelle orientale",
+        "2.2. Influence des facteurs naturels sur l’organisation du territoire"
+      ],
+      "texte": "a. Décrire l’influence des plaines et des deltas sur l’organisation territoriale : les villes et les infrastructures portuaires se situent principalement dans les plaines alluviales et les deltas; l’agriculture se développe sur les riches terres alluviales des deltas",
+      "page": 23
+    },
+    {
+      "id": "GCU-ORI-009",
+      "theme": "Aire culturelle orientale",
+      "chemin": [
+        "2. Caractéristiques naturelles de l’aire culturelle orientale",
+        "2.2. Influence des facteurs naturels sur l’organisation du territoire"
+      ],
+      "texte": "b. Décrire l’influence de plateaux sur l'économie des pays de l’aire : leur formation géologique favorise le développement de l’industrie minière",
+      "page": 23
+    },
+    {
+      "id": "GCU-ORI-010",
+      "theme": "Aire culturelle orientale",
+      "chemin": [
+        "2. Caractéristiques naturelles de l’aire culturelle orientale",
+        "2.2. Influence des facteurs naturels sur l’organisation du territoire"
+      ],
+      "texte": "c. Décrire l’influence d’un long littoral, des péninsules et des archipels sur l’organisation territoriale : les pays qui ont un accès maritime ont développé un vaste réseau de routes maritimes et une importante industrie de pêche",
+      "page": 23
+    },
+    {
+      "id": "GCU-ORI-011",
+      "theme": "Aire culturelle orientale",
+      "chemin": [
+        "3. Caractéristiques sociales de l’aire culturelle orientale",
+        "3.1. Culture"
+      ],
+      "texte": "a. Donner des caractéristiques culturelles des sociétés de l'Asie de l'Est et du Sud-Est (ex. : cohésion sociale, importance de la famille, sinisation)",
+      "page": 23
+    },
+    {
+      "id": "GCU-ORI-012",
+      "theme": "Aire culturelle orientale",
+      "chemin": [
+        "3. Caractéristiques sociales de l’aire culturelle orientale",
+        "3.1. Culture"
+      ],
+      "texte": "b. Décrire les principaux effets de la sinisation sur les sociétés de l’aire culturelle : l’écriture par idéogrammes est adoptée dans plusieurs pays; les valeurs associées au confucianisme sont partagées par plusieurs sociétés; des villes sont organisées selon le modèle du plan quadrangulaire",
+      "page": 23
+    },
+    {
+      "id": "GCU-ORI-013",
+      "theme": "Aire culturelle orientale",
+      "chemin": [
+        "3. Caractéristiques sociales de l’aire culturelle orientale",
+        "3.2. Langue"
+      ],
+      "texte": "a. Nommer des langues parlées par des populations de l’aire culturelle orientale (ex. : mandarin, japonais, coréen, malais, vietnamien)",
+      "page": 23
+    },
+    {
+      "id": "GCU-ORI-014",
+      "theme": "Aire culturelle orientale",
+      "chemin": [
+        "3. Caractéristiques sociales de l’aire culturelle orientale",
+        "3.2. Langue"
+      ],
+      "texte": "b. Indiquer le principal effet de l’utilisation de plus en plus généralisée du mandarin sur les sociétés : disparition progressive de langues et de dialectes locaux",
+      "page": 23
+    },
+    {
+      "id": "GCU-ORI-015",
+      "theme": "Aire culturelle orientale",
+      "chemin": [
+        "3. Caractéristiques sociales de l’aire culturelle orientale",
+        "3.3. Religion"
+      ],
+      "texte": "a. Nommer des religions pratiquées dans l’aire culturelle orientale (ex. : confucianisme, bouddhisme, shintoïsme, taoïsme, islam, christianisme)",
+      "page": 24
+    },
+    {
+      "id": "GCU-ORI-016",
+      "theme": "Aire culturelle orientale",
+      "chemin": [
+        "3. Caractéristiques sociales de l’aire culturelle orientale",
+        "3.3. Religion"
+      ],
+      "texte": "b. Donner des caractéristiques du confucianisme (ex. : religion et philosophie morale et politique, primauté des valeurs d’abnégation, d’obéissance aux aînés, de respect de la famille, de la hiérarchie et du groupe)",
+      "page": 24
+    },
+    {
+      "id": "GCU-ORI-017",
+      "theme": "Aire culturelle orientale",
+      "chemin": [
+        "3. Caractéristiques sociales de l’aire culturelle orientale",
+        "3.3. Religion"
+      ],
+      "texte": "c. Donner des caractéristiques du bouddhisme (ex. : rejet de l’avidité et de la colère, acceptation de la souffrance)",
+      "page": 24
+    },
+    {
+      "id": "GCU-ORI-018",
+      "theme": "Aire culturelle orientale",
+      "chemin": [
+        "4. Population de l’aire culturelle orientale",
+        "4.1. Caractéristiques démographiques"
+      ],
+      "texte": "a. Indiquer la proportion de la population de l’aire culturelle orientale par rapport à celle du monde : en 2010, environ un cinquième",
+      "page": 24
+    },
+    {
+      "id": "GCU-ORI-019",
+      "theme": "Aire culturelle orientale",
+      "chemin": [
+        "4. Population de l’aire culturelle orientale",
+        "4.1. Caractéristiques démographiques"
+      ],
+      "texte": "b. Indiquer la proportion de la population d’origine chinoise dans l’aire culturelle : en 2010, environ 60 %",
+      "page": 24
+    },
+    {
+      "id": "GCU-ORI-020",
+      "theme": "Aire culturelle orientale",
+      "chemin": [
+        "4. Population de l’aire culturelle orientale",
+        "4.1. Caractéristiques démographiques"
+      ],
+      "texte": "c. Donner des caractéristiques démographiques des populations de l’aire (ex. : natalité en baisse, vieillissement des sociétés chinoise et japonaise, jeunesse de la population dans les sociétés malaise et indonésienne)",
+      "page": 24
+    },
+    {
+      "id": "GCU-ORI-021",
+      "theme": "Aire culturelle orientale",
+      "chemin": [
+        "4. Population de l’aire culturelle orientale",
+        "4.2. Répartition de la population"
+      ],
+      "texte": "a. Décrire la répartition de la population de l’aire culturelle orientale : les plaines littorales et les deltas sont les plus fortement peuplés; les secteurs montagneux sont peu habités à l’exception des hauts plateaux chinois",
+      "page": 24
+    },
+    {
+      "id": "GCU-ORI-022",
+      "theme": "Aire culturelle orientale",
+      "chemin": [
+        "4. Population de l’aire culturelle orientale",
+        "4.2. Répartition de la population"
+      ],
+      "texte": "b. Indiquer la proportion de la population urbaine de l’aire culturelle : en 2010, environ le tiers",
+      "page": 24
+    },
+    {
+      "id": "GCU-ORI-023",
+      "theme": "Aire culturelle orientale",
+      "chemin": [
+        "4. Population de l’aire culturelle orientale",
+        "4.2. Répartition de la population"
+      ],
+      "texte": "c. Situer, sur une carte de l’Asie de l’Est et du Sud-Est, des mégalopoles (ex. : Tokyo-Fukuoka, Shanghai, Séoul)",
+      "page": 24
+    },
+    {
+      "id": "GCU-ORI-024",
+      "theme": "Aire culturelle orientale",
+      "chemin": [
+        "4. Population de l’aire culturelle orientale",
+        "4.2. Répartition de la population"
+      ],
+      "texte": "d. Indiquer des effets de l’urbanisation sur l’organisation territoriale (ex. : étalement urbain, diminution de la superficie en agriculture, problèmes environnementaux)",
+      "page": 24
+    },
+    {
+      "id": "GCU-ORI-025",
+      "theme": "Aire culturelle orientale",
+      "chemin": [
+        "5. Économie de l’aire culturelle orientale",
+        "5.1. Pôles et périphéries"
+      ],
+      "texte": "a. Situer, sur une carte de l’Asie de l’Est et du Sud-Est, les pays qui constituent les pôles économiques de l’aire culturelle orientale : Japon, Corée du Sud, Singapour, Chine, Taïwan",
+      "page": 24
+    },
+    {
+      "id": "GCU-ORI-026",
+      "theme": "Aire culturelle orientale",
+      "chemin": [
+        "5. Économie de l’aire culturelle orientale",
+        "5.1. Pôles et périphéries"
+      ],
+      "texte": "b. Donner des caractéristiques de pays qui constituent les pôles économiques de l’aire culturelle (ex. : industrie de pointe au Japon, villes industrielles et zones franches en Corée du Sud, importance de l’activité portuaire à Singapour et à Hong Kong, zones économiques spéciales en Chine)",
+      "page": 24
+    },
+    {
+      "id": "GCU-ORI-027",
+      "theme": "Aire culturelle orientale",
+      "chemin": [
+        "5. Économie de l’aire culturelle orientale",
+        "5.1. Pôles et périphéries"
+      ],
+      "texte": "c. Situer, sur une carte de l’Asie de l’Est et du Sud-Est, les pays qui constituent, sur le plan économique, les périphéries de l’aire culturelle : Cambodge, Laos, Mongolie, Myanmar",
+      "page": 24
+    },
+    {
+      "id": "GCU-ORI-028",
+      "theme": "Aire culturelle orientale",
+      "chemin": [
+        "5. Économie de l’aire culturelle orientale",
+        "5.1. Pôles et périphéries"
+      ],
+      "texte": "d. Donner des caractéristiques de pays qui constituent les périphéries de l’aire culturelle (ex. : pays en développement, produit intérieur brut par habitant peu élevé, faible croissance économique, forte proportion de la population active dans le secteur agricole)",
+      "page": 24
+    },
+    {
+      "id": "GCU-ORI-029",
+      "theme": "Aire culturelle orientale",
+      "chemin": [
+        "5. Économie de l’aire culturelle orientale",
+        "5.2. Agriculture"
+      ],
+      "texte": "a. Décrire la place de l’agriculture dans l’économie de la majorité des pays de l’aire culturelle orientale : l’agriculture représente une forte proportion des emplois, mais ne représente qu’une faible part du PIB",
+      "page": 24
+    },
+    {
+      "id": "GCU-ORI-030",
+      "theme": "Aire culturelle orientale",
+      "chemin": [
+        "5. Économie de l’aire culturelle orientale",
+        "5.2. Agriculture"
+      ],
+      "texte": "b. Nommer la principale production agricole dans la majorité des pays : riz",
+      "page": 24
+    },
+    {
+      "id": "GCU-ORI-031",
+      "theme": "Aire culturelle orientale",
+      "chemin": [
+        "5. Économie de l’aire culturelle orientale",
+        "5.2. Agriculture"
+      ],
+      "texte": "c. Décrire ce qui explique l’importance de la production du riz : le climat tropical de mousson et le climat équatorial apportent l’eau et la chaleur essentielles à la culture du riz; ils permettent plus d’une récolte annuelle; le relief de plaine et les riches terres alluviales des deltas sont propices au développement des rizières irriguées",
+      "page": 24
+    },
+    {
+      "id": "GCU-ORI-032",
+      "theme": "Aire culturelle orientale",
+      "chemin": [
+        "5. Économie de l’aire culturelle orientale",
+        "5.2. Agriculture"
+      ],
+      "texte": "d. Indiquer le principal avantage économique lié à la culture du riz : haut rendement à l’hectare",
+      "page": 24
+    },
+    {
+      "id": "GCU-ORI-033",
+      "theme": "Aire culturelle orientale",
+      "chemin": [
+        "5. Économie de l’aire culturelle orientale",
+        "5.2. Agriculture"
+      ],
+      "texte": "e. Décrire l’organisation du travail associée à la culture du riz : la plantation et le repiquage s’effectuent manuellement par une main-d’œuvre abondante et disciplinée",
+      "page": 24
+    },
+    {
+      "id": "GCU-ORI-034",
+      "theme": "Aire culturelle orientale",
+      "chemin": [
+        "5. Économie de l’aire culturelle orientale",
+        "5.3. Développement économique"
+      ],
+      "texte": "a. Donner des caractéristiques économiques de l’aire culturelle orientale (ex. : importance des exportations, croissance rapide du secteur manufacturier, faible valeur de la production agricole dans le PIB)",
+      "page": 24
+    },
+    {
+      "id": "GCU-ORI-035",
+      "theme": "Aire culturelle orientale",
+      "chemin": [
+        "5. Économie de l’aire culturelle orientale",
+        "5.3. Développement économique"
+      ],
+      "texte": "b. Indiquer les principaux facteurs qui expliquent la croissance économique de pays de l’aire culturelle (ex. : abondance de la main-d’œuvre, faibles coûts de production, importance du marché intérieur, qualification de la main-d’œuvre)",
+      "page": 24
+    },
+    {
+      "id": "GCU-ORI-036",
+      "theme": "Aire culturelle orientale",
+      "chemin": [
+        "5. Économie de l’aire culturelle orientale",
+        "5.3. Développement économique"
+      ],
+      "texte": "c. Nommer les principaux marchés d’exportation : Union européenne, Amérique du Nord",
+      "page": 25
+    },
+    {
+      "id": "GCU-ORI-037",
+      "theme": "Aire culturelle orientale",
+      "chemin": [
+        "5. Économie de l’aire culturelle orientale",
+        "5.3. Développement économique"
+      ],
+      "texte": "d. Indiquer des mesures mises en œuvre par les gouvernements pour favoriser le développement économique (ex. : octroi de crédits et de subventions aux entreprises, création de zones franches et de zones économiques spéciales, établissement de programmes de recherche et de développement, investissement dans la formation de la main-d’œuvre)",
+      "page": 25
+    },
+    {
+      "id": "GCU-ORI-038",
+      "theme": "Aire culturelle orientale",
+      "chemin": [
+        "5. Économie de l’aire culturelle orientale",
+        "5.3. Développement économique"
+      ],
+      "texte": "e. Indiquer des avantages, pour des entreprises, de s’établir dans des zones franches ou des zones économiques spéciales (ex. : réduction des coûts de production, suppression de droits de douanes, réductions de mesures liées à la protection de l’environnement, proximité d’infrastructures portuaires)",
+      "page": 25
+    },
+    {
+      "id": "GCU-ORI-039",
+      "theme": "Aire culturelle orientale",
+      "chemin": [
+        "5. Économie de l’aire culturelle orientale",
+        "5.3. Développement économique"
+      ],
+      "texte": "f. Indiquer des avantages, pour les gouvernements, de développer des zones franches ou des zones économiques spéciales (ex. : augmentation des investissements étrangers, augmentation des exportations, excédent de la balance commerciale, augmentation de l’emploi)",
+      "page": 25
+    },
+    {
+      "id": "GCU-ORI-040",
+      "theme": "Aire culturelle orientale",
+      "chemin": [
+        "5. Économie de l’aire culturelle orientale",
+        "5.3. Développement économique"
+      ],
+      "texte": "g. Décrire comment s’est diffusé le modèle de développement industriel dans l’aire culturelle : le Japon est le premier pays qui s’est industrialisé; l’industrialisation s’est diffusée, par la suite, vers la Corée du Sud, Taïwan, Hong Kong et Singapour; puis vers la Malaisie, la Thaïlande et la Chine littorale",
+      "page": 25
+    },
+    {
+      "id": "GCU-ORI-041",
+      "theme": "Aire culturelle orientale",
+      "chemin": [
+        "5. Économie de l’aire culturelle orientale",
+        "5.3. Développement économique"
+      ],
+      "texte": "h. Indiquer des effets du développement du secteur des nouvelles technologies sur l’économie (ex. : main-d’œuvre de plus en plus spécialisée, hausse des coûts de production, spécialisation de la production industrielle)",
+      "page": 25
+    },
+    {
+      "id": "GCU-ORI-042",
+      "theme": "Aire culturelle orientale",
+      "chemin": [
+        "5. Économie de l’aire culturelle orientale",
+        "5.4. Regroupements économiques"
+      ],
+      "texte": "a. Nommer les principaux regroupements économiques auxquels adhèrent la plupart des pays de l’aire culturelle : Association des nations du Sud-Est asiatique [ANSEA], Coopération économique Asie-Pacifique [APEC]",
+      "page": 25
+    },
+    {
+      "id": "GCU-ORI-043",
+      "theme": "Aire culturelle orientale",
+      "chemin": [
+        "5. Économie de l’aire culturelle orientale",
+        "5.4. Regroupements économiques"
+      ],
+      "texte": "b. Situer, sur une carte de l’Asie de l’Est et du Sud-Est, les pays membres de l’ANSEA : Brunei, Cambodge, Indonésie, Laos, Malaisie, Myanmar, Philippines, Singapour, Thaïlande, Vietnam",
+      "page": 25
+    },
+    {
+      "id": "GCU-ORI-044",
+      "theme": "Aire culturelle orientale",
+      "chemin": [
+        "5. Économie de l’aire culturelle orientale",
+        "5.4. Regroupements économiques"
+      ],
+      "texte": "c. Nommer les continents où se situent les pays membres de l’APEC : Asie, Amérique, Océanie",
+      "page": 25
+    },
+    {
+      "id": "GCU-ORI-045",
+      "theme": "Aire culturelle orientale",
+      "chemin": [
+        "5. Économie de l’aire culturelle orientale",
+        "5.4. Regroupements économiques"
+      ],
+      "texte": "d. Indiquer des objectifs poursuivis par l’ANSEA et l’APEC (ex. : l’ANSEA a pour objectifs d’éliminer les restrictions à la liberté de commerce, d’organiser des échanges culturels et d’élaborer des programmes de recherche communs; l’APEC a pour objectifs de favoriser la libéralisation en matière de commerce et de développer la coopération)",
+      "page": 25
+    },
+    {
+      "id": "GCU-ORI-046",
+      "theme": "Aire culturelle orientale",
+      "chemin": [
+        "5. Économie de l’aire culturelle orientale",
+        "5.4. Regroupements économiques"
+      ],
+      "texte": "e. Nommer les pays qui ont établi une zone de libre-échange en Asie de l’Est et du Sud-Est : États fondateurs de l’ANSEA et Chine",
+      "page": 25
+    },
+    {
+      "id": "GCU-ORI-047",
+      "theme": "Aire culturelle orientale",
+      "chemin": [
+        "5. Économie de l’aire culturelle orientale",
+        "5.4. Regroupements économiques"
+      ],
+      "texte": "f. Indiquer les principaux effets de l’établissement d'une zone de libre-échange en Asie de l’Est et du Sud-Est sur l'économie : concurrence avec des zones de libre-échange ailleurs dans le monde, développement du commerce régional",
+      "page": 25
+    },
+    {
+      "id": "GCU-ORI-048",
+      "theme": "Aire culturelle orientale",
+      "chemin": [
+        "6. Diaspora orientale"
+      ],
+      "texte": "a. Définir le terme diaspora : population dispersée qui conserve des liens économiques et sociaux avec le pays d’origine",
+      "page": 25
+    },
+    {
+      "id": "GCU-ORI-049",
+      "theme": "Aire culturelle orientale",
+      "chemin": [
+        "6. Diaspora orientale"
+      ],
+      "texte": "b. Indiquer des façons dont les membres des diasporas influencent le développement économique de leur pays d’origine (ex. : investissements majeurs dans les zones franches ou dans les zones économiques spéciales, transferts de fonds)",
+      "page": 25
+    },
+    {
+      "id": "GCU-ORI-050",
+      "theme": "Aire culturelle orientale",
+      "chemin": [
+        "6. Diaspora orientale"
+      ],
+      "texte": "c. Nommer le principal secteur d'activité économique dans lequel investissent des membres de diasporas : commerce",
+      "page": 25
+    },
+    {
+      "id": "GCU-ORI-051",
+      "theme": "Aire culturelle orientale",
+      "chemin": [
+        "6. Diaspora orientale"
+      ],
+      "texte": "d. Nommer les principaux pays d’Asie de l’Est et du Sud-est où il y a une forte présence de la diaspora chinoise : Taïwan, Thaïlande, Malaisie",
+      "page": 25
+    },
+    {
+      "id": "GCU-ORI-052",
+      "theme": "Aire culturelle orientale",
+      "chemin": [
+        "6. Diaspora orientale"
+      ],
+      "texte": "e. Nommer des villes où se situent d’importants Chinatown (ex. : Alger, Montréal, New York, Paris, Rio de Janeiro, San Francisco, Sydney, Vancouver)",
+      "page": 25
+    },
+    {
+      "id": "GCU-ORI-053",
+      "theme": "Aire culturelle orientale",
+      "chemin": [
+        "6. Diaspora orientale"
+      ],
+      "texte": "f. Indiquer des conséquences de l’émigration sur l’organisation sociale et économique des pays d’origine (ex. : perte de population active, perte d’expertise)",
+      "page": 25
+    }
+  ]
+}

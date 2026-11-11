@@ -1,0 +1,2899 @@
+{
+  "discipline": "Géographie (1er cycle)",
+  "code_discipline": "GEO",
+  "ordre": "secondaire",
+  "source": "PFEQ-progression-apprentissages-geographie-secondaire.pdf",
+  "annees": [
+    "1-2"
+  ],
+  "legende": {
+    "1-2": "Une seule colonne dans le document : 1re ou 2e secondaire, au choix de l’école"
+  },
+  "pages_sans_colonnes_reperees": [],
+  "bilan": {
+    "nombre_savoirs": 192,
+    "a_verifier": 0
+  },
+  "savoirs": [
+    {
+      "id": "GEO-TER-001",
+      "champ": "Territoire urbain",
+      "section": "A. Connaissances liées à l’étude d’une métropole",
+      "chemin": [
+        "1. Localisation d’une métropole"
+      ],
+      "texte": "a. Situer la métropole à l’étude dans son continent et son pays",
+      "progression": {
+        "1-2": "maitrise"
+      },
+      "page": 6,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "GEO-TER-002",
+      "champ": "Territoire urbain",
+      "section": "A. Connaissances liées à l’étude d’une métropole",
+      "chemin": [
+        "1. Localisation d’une métropole"
+      ],
+      "texte": "b. Situer, sur une carte du monde, les principales métropoles (ex. : Lagos, Le Caire, Mexico, Montréal, Moscou, Mumbay, New York, Paris, São Paulo, Sydney, Tokyo)",
+      "progression": {
+        "1-2": "maitrise"
+      },
+      "page": 6,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "GEO-TER-003",
+      "champ": "Territoire urbain",
+      "section": "A. Connaissances liées à l’étude d’une métropole",
+      "chemin": [
+        "2. Caractéristiques d’une métropole"
+      ],
+      "texte": "a. Décrire le site de la métropole à l’étude (ex. : Montréal est située dans la plaine du Saint-Laurent, sur une île encadrée par le fleuve Saint-Laurent et la rivière des Prairies)",
+      "progression": {
+        "1-2": "maitrise"
+      },
+      "page": 6,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "GEO-TER-004",
+      "champ": "Territoire urbain",
+      "section": "A. Connaissances liées à l’étude d’une métropole",
+      "chemin": [
+        "2. Caractéristiques d’une métropole"
+      ],
+      "texte": "b. Énumérer des caractéristiques de la métropole à l’étude (ex. : une densité de population élevée, une forte occupation de l’espace et une grande concentration de services caractérisent New York)",
+      "progression": {
+        "1-2": "maitrise"
+      },
+      "page": 6,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "GEO-TER-005",
+      "champ": "Territoire urbain",
+      "section": "A. Connaissances liées à l’étude d’une métropole",
+      "chemin": [
+        "2. Caractéristiques d’une métropole"
+      ],
+      "texte": "c. Énumérer des caractéristiques de la population de la métropole à l’étude (ex. : importance numérique et densité de la population à Mexico, multiethnicité et étalement urbain à Sydney)",
+      "progression": {
+        "1-2": "maitrise"
+      },
+      "page": 6,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "GEO-TER-006",
+      "champ": "Territoire urbain",
+      "section": "A. Connaissances liées à l’étude d’une métropole",
+      "chemin": [
+        "2. Caractéristiques d’une métropole"
+      ],
+      "texte": "d. Établir l’importance numérique de la population de la métropole à l’étude en comparaison avec celle du reste du pays, de la province, de l’état ou du district (ex. : la population de Montréal et de ses banlieues représente environ 50 % de la population du Québec)",
+      "progression": {
+        "1-2": "maitrise"
+      },
+      "page": 6,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "GEO-TER-007",
+      "champ": "Territoire urbain",
+      "section": "A. Connaissances liées à l’étude d’une métropole",
+      "chemin": [
+        "2. Caractéristiques d’une métropole"
+      ],
+      "texte": "e. Indiquer des lieux de concentration de pouvoir dans la métropole à l’étude (ex. : le siège de l’Organisation des Nations Unies est à New York)",
+      "progression": {
+        "1-2": "maitrise"
+      },
+      "page": 6,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "GEO-TER-008",
+      "champ": "Territoire urbain",
+      "section": "A. Connaissances liées à l’étude d’une métropole",
+      "chemin": [
+        "2. Caractéristiques d’une métropole"
+      ],
+      "texte": "f. Indiquer des lieux où se concentrent les pouvoirs économiques et financiers dans la métropole à l’étude (ex. : des sièges sociaux de grandes sociétés sont situés à Sydney)",
+      "progression": {
+        "1-2": "maitrise"
+      },
+      "page": 6,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "GEO-TER-009",
+      "champ": "Territoire urbain",
+      "section": "A. Connaissances liées à l’étude d’une métropole",
+      "chemin": [
+        "2. Caractéristiques d’une métropole"
+      ],
+      "texte": "g. Expliquer la concentration de services dans la métropole à l’étude (ex. : l’importance de la population de la région métropolitaine justifie la présence de plusieurs hôpitaux et universités à Montréal)",
+      "progression": {
+        "1-2": "maitrise"
+      },
+      "page": 6,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "GEO-TER-010",
+      "champ": "Territoire urbain",
+      "section": "A. Connaissances liées à l’étude d’une métropole",
+      "chemin": [
+        "3. Aménagement d’une métropole"
+      ],
+      "texte": "a. Décrire différents quartiers de la métropole à l’étude (ex. : au centre-ville de Montréal, concentration de gratte-ciel et de bureaux et convergence des réseaux de transport en commun)",
+      "progression": {
+        "1-2": "maitrise"
+      },
+      "page": 6,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "GEO-TER-011",
+      "champ": "Territoire urbain",
+      "section": "A. Connaissances liées à l’étude d’une métropole",
+      "chemin": [
+        "3. Aménagement d’une métropole"
+      ],
+      "texte": "b. Expliquer la présence de quartiers défavorisés ou de bidonvilles dans la métropole à l’étude (ex. : la métropole attire des personnes qui n’ont pas toujours les ressources nécessaires pour se loger adéquatement et qui s’installent soit dans des quartiers défavorisés, comme à New York, soit dans des bidonvilles, comme au Caire)",
+      "progression": {
+        "1-2": "maitrise"
+      },
+      "page": 7,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "GEO-TER-012",
+      "champ": "Territoire urbain",
+      "section": "A. Connaissances liées à l’étude d’une métropole",
+      "chemin": [
+        "3. Aménagement d’une métropole"
+      ],
+      "texte": "c. Décrire les banlieues qui entourent la métropole à l’étude (ex. : les couronnes nord et sud de Montréal comptent plusieurs dizaines de municipalités; la fonction résidentielle y domine et la densité de la population y est plus faible que dans la métropole)",
+      "progression": {
+        "1-2": "maitrise"
+      },
+      "page": 7,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "GEO-TER-013",
+      "champ": "Territoire urbain",
+      "section": "A. Connaissances liées à l’étude d’une métropole",
+      "chemin": [
+        "3. Aménagement d’une métropole"
+      ],
+      "texte": "d. Indiquer des aménagements qui relèvent de particularités de la métropole à l’étude (ex. : à Montréal, pour pallier les conditions hivernales, un réseau de corridors souterrains, desservi par le métro, relie de nombreux édifices à logements, des tours à bureaux, des centres de services)",
+      "progression": {
+        "1-2": "maitrise"
+      },
+      "page": 7,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "GEO-TER-014",
+      "champ": "Territoire urbain",
+      "section": "A. Connaissances liées à l’étude d’une métropole",
+      "chemin": [
+        "3. Aménagement d’une métropole"
+      ],
+      "texte": "e. Expliquer la concentration des réseaux de transport dans la métropole à l’étude (ex. : l’importance de la population de New York justifie la présence de plusieurs aéroports internationaux, d’un vaste réseau autoroutier, d’une des plus grandes gares ferroviaires au monde et d’un port international)",
+      "progression": {
+        "1-2": "maitrise"
+      },
+      "page": 7,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "GEO-TER-015",
+      "champ": "Territoire urbain",
+      "section": "A. Connaissances liées à l’étude d’une métropole",
+      "chemin": [
+        "3. Aménagement d’une métropole"
+      ],
+      "texte": "f. Indiquer des contraintes d’aménagement associées à l’étalement urbain dans la métropole à l’étude (ex. : au Caire, prolongement des autoroutes et prolongation des lignes de transport en commun)",
+      "progression": {
+        "1-2": "maitrise"
+      },
+      "page": 7,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "GEO-TER-016",
+      "champ": "Territoire urbain",
+      "section": "A. Connaissances liées à l’étude d’une métropole",
+      "chemin": [
+        "4. Enjeu présent dans une ou des métropoles"
+      ],
+      "texte": "a. Énoncer des problèmes associés au logement dans la métropole à l’étude (ex. : à New York, les logements sont rares; leur coût est élevé et, dans certains cas, ils sont insalubres)",
+      "progression": {
+        "1-2": "maitrise"
+      },
+      "page": 7,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "GEO-TER-017",
+      "champ": "Territoire urbain",
+      "section": "A. Connaissances liées à l’étude d’une métropole",
+      "chemin": [
+        "4. Enjeu présent dans une ou des métropoles"
+      ],
+      "texte": "b. Expliquer le déplacement de la population de la métropole à l’étude vers la banlieue (ex. : à Sydney, des résidants quittent la ville pour la banlieue, car ils cherchent à se loger à moindre coût alors que d’autres recherchent une meilleure qualité de vie)",
+      "progression": {
+        "1-2": "maitrise"
+      },
+      "page": 7,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "GEO-TER-018",
+      "champ": "Territoire urbain",
+      "section": "A. Connaissances liées à l’étude d’une métropole",
+      "chemin": [
+        "4. Enjeu présent dans une ou des métropoles"
+      ],
+      "texte": "c. Indiquer des mesures mises en œuvre pour réduire les problèmes de logement dans la métropole à l’étude (ex. : construction de villes satellites au Caire et de logements sociaux à Montréal)",
+      "progression": {
+        "1-2": "maitrise"
+      },
+      "page": 7,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "GEO-TER-019",
+      "champ": "Territoire urbain",
+      "section": "A. Connaissances liées à l’étude d’une métropole",
+      "chemin": [
+        "4. Enjeu présent dans une ou des métropoles"
+      ],
+      "texte": "d. Expliquer certaines conséquences de l’étalement urbain dans la métropole à l’étude (ex. : à Montréal, l'expansion de la région métropolitaine a entraîné une diminution des terres agricoles et le flot de banlieusards qui entrent et sortent de la métropole, matin et soir, crée une forte congestion routière)",
+      "progression": {
+        "1-2": "maitrise"
+      },
+      "page": 7,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "GEO-TER-020",
+      "champ": "Territoire urbain",
+      "section": "A. Connaissances liées à l’étude d’une métropole",
+      "chemin": [
+        "4. Enjeu présent dans une ou des métropoles"
+      ],
+      "texte": "e. Énoncer des problèmes associés aux déplacements dans des métropoles (ex. : pollution de l’air, congestion automobile)",
+      "progression": {
+        "1-2": "maitrise"
+      },
+      "page": 7,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "GEO-TER-021",
+      "champ": "Territoire urbain",
+      "section": "A. Connaissances liées à l’étude d’une métropole",
+      "chemin": [
+        "4. Enjeu présent dans une ou des métropoles"
+      ],
+      "texte": "f. Indiquer des mesures mises en œuvre pour réduire les problèmes de transport dans la métropole à l’étude (ex. : établissement de règles d’alternance pour réduire le nombre de voitures qui circulent chaque jour à Mexico; amélioration des réseaux de transport en commun à Sydney; installation de vélos de location à Montréal)",
+      "progression": {
+        "1-2": "maitrise"
+      },
+      "page": 7,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "GEO-TER-022",
+      "champ": "Territoire urbain",
+      "section": "A. Connaissances liées à l’étude d’une métropole",
+      "chemin": [
+        "4. Enjeu présent dans une ou des métropoles"
+      ],
+      "texte": "g. Expliquer des répercussions du développement des réseaux de transport en commun dans la métropole à l’étude (ex. : à Sydney, la réduction du nombre de voitures entraîne la diminution de la pollution et une meilleure qualité de vie pour les résidents)",
+      "progression": {
+        "1-2": "maitrise"
+      },
+      "page": 7,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "GEO-TER-023",
+      "champ": "Territoire urbain",
+      "section": "A. Connaissances liées à l’étude d’une métropole",
+      "chemin": [
+        "4. Enjeu présent dans une ou des métropoles"
+      ],
+      "texte": "h. Énoncer des problèmes associés à la gestion des déchets dans la métropole à l’étude (ex. : difficultés de collecte et d’élimination des déchets au Caire, éloignement grandissant des centres d’enfouissement des déchets de New York)",
+      "progression": {
+        "1-2": "maitrise"
+      },
+      "page": 7,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "GEO-TER-024",
+      "champ": "Territoire urbain",
+      "section": "A. Connaissances liées à l’étude d’une métropole",
+      "chemin": [
+        "4. Enjeu présent dans une ou des métropoles"
+      ],
+      "texte": "i. Indiquer des mesures mises en œuvre pour réduire les problèmes de gestion des déchets dans la métropole à l’étude (ex. : à New York, installation d’incinérateurs, recyclage et récupération des déchets)",
+      "progression": {
+        "1-2": "maitrise"
+      },
+      "page": 7,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "GEO-TER-025",
+      "champ": "Territoire urbain",
+      "section": "A. Connaissances liées à l’étude d’une métropole",
+      "chemin": [
+        "4. Enjeu présent dans une ou des métropoles"
+      ],
+      "texte": "j. Énoncer des problèmes liés à l’alimentation en eau potable dans des métropoles (ex. : l’accès à l’eau potable est inégal selon le niveau de développement des pays où sont situées des métropoles)",
+      "progression": {
+        "1-2": "maitrise"
+      },
+      "page": 7,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "GEO-TER-026",
+      "champ": "Territoire urbain",
+      "section": "A. Connaissances liées à l’étude d’une métropole",
+      "chemin": [
+        "4. Enjeu présent dans une ou des métropoles"
+      ],
+      "texte": "k. Indiquer des mesures mises en œuvre pour réduire les problèmes d’alimentation d’eau potable dans des métropoles (ex. : installation de compteurs d’eau, amélioration des réseaux d’aqueduc)",
+      "progression": {
+        "1-2": "maitrise"
+      },
+      "page": 7,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "GEO-TER-027",
+      "champ": "Territoire urbain",
+      "section": "A. Connaissances liées à l’étude d’une métropole",
+      "chemin": [
+        "4. Enjeu présent dans une ou des métropoles"
+      ],
+      "texte": "l. Expliquer des effets de la densité de la population sur la santé des résidents des métropoles (ex. : la forte densité de la population augmente le risque de propagation des maladies)",
+      "progression": {
+        "1-2": "maitrise"
+      },
+      "page": 7,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "GEO-TER-028",
+      "champ": "Territoire urbain",
+      "section": "B. Connaissances liées à l’étude d’une ville soumise à des risques naturels",
+      "chemin": [
+        "1. Localisation d’une ville soumise à des risques naturels"
+      ],
+      "texte": "a. Situer la ville à l’étude dans son continent et son pays",
+      "progression": {
+        "1-2": "maitrise"
+      },
+      "page": 8,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "GEO-TER-029",
+      "champ": "Territoire urbain",
+      "section": "B. Connaissances liées à l’étude d’une ville soumise à des risques naturels",
+      "chemin": [
+        "1. Localisation d’une ville soumise à des risques naturels"
+      ],
+      "texte": "b. Situer, sur une carte du monde, des villes soumises à des risques naturels (ex. : Honolulu, Manille, Naples, Phuket, Port-au-Prince, Quito, San Francisco, Tokyo)",
+      "progression": {
+        "1-2": "maitrise"
+      },
+      "page": 8,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "GEO-TER-030",
+      "champ": "Territoire urbain",
+      "section": "B. Connaissances liées à l’étude d’une ville soumise à des risques naturels",
+      "chemin": [
+        "2. Caractéristiques d’une ville soumise à des risques naturels"
+      ],
+      "texte": "a. Indiquer le ou les types de risques naturels auxquels la ville à l’étude est soumise (ex. : séismes à San Francisco, éruptions volcaniques du Guagua Pichincha, séismes à Quito)",
+      "progression": {
+        "1-2": "maitrise"
+      },
+      "page": 8,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "GEO-TER-031",
+      "champ": "Territoire urbain",
+      "section": "B. Connaissances liées à l’étude d’une ville soumise à des risques naturels",
+      "chemin": [
+        "2. Caractéristiques d’une ville soumise à des risques naturels"
+      ],
+      "texte": "b. Indiquer une relation entre la localisation de la ville à l’étude et le ou les risques auxquels elle est soumise (ex. : San Francisco se développe sur un ensemble de failles dont la plus connue est celle de San Andreas; Manille est située sur le littoral d’une île d’un archipel volcanique et est exposée à plusieurs risques naturels : typhons provoquant des inondations et des glissements de terrain, éruptions volcaniques, séismes et raz de marée)",
+      "progression": {
+        "1-2": "maitrise"
+      },
+      "page": 8,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "GEO-TER-032",
+      "champ": "Territoire urbain",
+      "section": "B. Connaissances liées à l’étude d’une ville soumise à des risques naturels",
+      "chemin": [
+        "2. Caractéristiques d’une ville soumise à des risques naturels"
+      ],
+      "texte": "c. Expliquer des attraits pour la population de la ville à l’étude malgré l’instabilité associée aux risques (ex. : les dépôts volcaniques fertiles de la vallée de la Cordillère des Andes attirent la population autour de Quito; le climat méditerranéen et la qualité de vie en Californie attirent la population à San Francisco)",
+      "progression": {
+        "1-2": "maitrise"
+      },
+      "page": 8,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "GEO-TER-033",
+      "champ": "Territoire urbain",
+      "section": "B. Connaissances liées à l’étude d’une ville soumise à des risques naturels",
+      "chemin": [
+        "2. Caractéristiques d’une ville soumise à des risques naturels"
+      ],
+      "texte": "d. Établir le niveau de développement du pays où se situe la ville à l’étude (ex. : San Francisco est située dans un pays développé)",
+      "progression": {
+        "1-2": "maitrise"
+      },
+      "page": 8,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "GEO-TER-034",
+      "champ": "Territoire urbain",
+      "section": "B. Connaissances liées à l’étude d’une ville soumise à des risques naturels",
+      "chemin": [
+        "2. Caractéristiques d’une ville soumise à des risques naturels"
+      ],
+      "texte": "e. Établir l’importance proportionnelle de la population de la ville à l’étude (ex. : en 2008, Manille regroupe 14 % de la population des Philippines; San Francisco regroupe 20 % de la population de la Californie)",
+      "progression": {
+        "1-2": "maitrise"
+      },
+      "page": 8,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "GEO-TER-035",
+      "champ": "Territoire urbain",
+      "section": "B. Connaissances liées à l’étude d’une ville soumise à des risques naturels",
+      "chemin": [
+        "3. Aménagement d’une ville soumise à des risques naturels"
+      ],
+      "texte": "a. Indiquer des moyens utilisés pour protéger les citoyens de la ville à l’étude soumise à des risques naturels (ex. : constructions parasismiques à San Francisco, constructions sur pilotis et installation de digues pour éviter les coulées de boue à Manille)",
+      "progression": {
+        "1-2": "maitrise"
+      },
+      "page": 8,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "GEO-TER-036",
+      "champ": "Territoire urbain",
+      "section": "B. Connaissances liées à l’étude d’une ville soumise à des risques naturels",
+      "chemin": [
+        "3. Aménagement d’une ville soumise à des risques naturels"
+      ],
+      "texte": "b. Expliquer la situation de quartiers de la ville à l’étude selon leur exposition aux risques naturels (ex. : à Quito, le centre des affaires et les quartiers favorisés sont situés au nord de la vallée, loin du volcan Guagua Pichincha; les quartiers plus pauvres et les bidonvilles sont situés sur les pentes du volcan, où les terrains sont moins chers, et ce, malgré le risque d’effondrements",
+      "progression": {
+        "1-2": "maitrise"
+      },
+      "page": 8,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "GEO-TER-037",
+      "champ": "Territoire urbain",
+      "section": "B. Connaissances liées à l’étude d’une ville soumise à des risques naturels",
+      "chemin": [
+        "3. Aménagement d’une ville soumise à des risques naturels"
+      ],
+      "texte": "c. Indiquer des mesures de sécurité qui peuvent être prises par la ville à l’étude pour faire face aux suites d’une catastrophe (ex. : à San Francisco, les autorités ont préparé des plans d’évacuation des résidents et prévu l’installation de centres d’accueil pour les sinistrés)",
+      "progression": {
+        "1-2": "maitrise"
+      },
+      "page": 9,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "GEO-TER-038",
+      "champ": "Territoire urbain",
+      "section": "B. Connaissances liées à l’étude d’une ville soumise à des risques naturels",
+      "chemin": [
+        "4. Enjeu présent dans une ou des villes soumises à des risques naturels"
+      ],
+      "texte": "a. Indiquer des mesures de prévention mises en œuvre pour faire face aux risques naturels (ex. : concevoir des systèmes de détection pour les séismes, les éruptions volcaniques, les cyclones et les raz de marée)",
+      "progression": {
+        "1-2": "maitrise"
+      },
+      "page": 9,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "GEO-TER-039",
+      "champ": "Territoire urbain",
+      "section": "B. Connaissances liées à l’étude d’une ville soumise à des risques naturels",
+      "chemin": [
+        "4. Enjeu présent dans une ou des villes soumises à des risques naturels"
+      ],
+      "texte": "b. Indiquer des conséquences d’une catastrophe naturelle pour la population de la ville à l’étude (ex. : en 1989, l’effondrement d’une partie du Bay Bridge, à San Francisco, a entraîné la mort de 42 personnes; le séisme a provoqué de multiples fuites de gaz et l’incendie de dizaines de bâtiments)",
+      "progression": {
+        "1-2": "maitrise"
+      },
+      "page": 9,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "GEO-TER-040",
+      "champ": "Territoire urbain",
+      "section": "B. Connaissances liées à l’étude d’une ville soumise à des risques naturels",
+      "chemin": [
+        "4. Enjeu présent dans une ou des villes soumises à des risques naturels"
+      ],
+      "texte": "c. Expliquer la relation entre l’urbanisation et les conséquences d’une catastrophe naturelle pour la population des villes (ex. : plus les quartiers d’une ville sont densément peuplés, plus le nombre de personnes touchées par une catastrophe naturelle peut être important)",
+      "progression": {
+        "1-2": "maitrise"
+      },
+      "page": 9,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "GEO-TER-041",
+      "champ": "Territoire urbain",
+      "section": "B. Connaissances liées à l’étude d’une ville soumise à des risques naturels",
+      "chemin": [
+        "4. Enjeu présent dans une ou des villes soumises à des risques naturels"
+      ],
+      "texte": "d. Expliquer la relation entre le niveau de développement économique du pays où se situe une ville et sa capacité à protéger ses résidents contre les risques (ex. : dans les villes de pays en développement, les ressources sont insuffisantes; peu de mesures sont prises pour parer aux catastrophes naturelles, ce qui est moins le cas dans les pays développés)",
+      "progression": {
+        "1-2": "maitrise"
+      },
+      "page": 9,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "GEO-TER-042",
+      "champ": "Territoire urbain",
+      "section": "C. Connaissances liées à l’étude d’une ville patrimoniale",
+      "chemin": [
+        "1. Localisation d’une ville patrimoniale"
+      ],
+      "texte": "a. Situer la ville patrimoniale à l’étude dans son continent et son pays",
+      "progression": {
+        "1-2": "maitrise"
+      },
+      "page": 10,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "GEO-TER-043",
+      "champ": "Territoire urbain",
+      "section": "C. Connaissances liées à l’étude d’une ville patrimoniale",
+      "chemin": [
+        "1. Localisation d’une ville patrimoniale"
+      ],
+      "texte": "b. Situer, sur une carte du monde, des villes patrimoniales reconnues par l’Organisation des Nations Unies pour l’éducation, la science et la culture (UNESCO) (ex. : Alger, Athènes, Beijing, Brasilia, Cologne, Istanbul, La Havane, Reims, Venise, Zabid)",
+      "progression": {
+        "1-2": "maitrise"
+      },
+      "page": 10,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "GEO-TER-044",
+      "champ": "Territoire urbain",
+      "section": "C. Connaissances liées à l’étude d’une ville patrimoniale",
+      "chemin": [
+        "2. Caractéristiques d’une ville patrimoniale"
+      ],
+      "texte": "a. Indiquer des critères qui permettent de reconnaître la valeur patrimoniale d’un site (ex. : un site représentant le témoignage exceptionnel d’une civilisation vivante ou disparue)",
+      "progression": {
+        "1-2": "maitrise"
+      },
+      "page": 10,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "GEO-TER-045",
+      "champ": "Territoire urbain",
+      "section": "C. Connaissances liées à l’étude d’une ville patrimoniale",
+      "chemin": [
+        "2. Caractéristiques d’une ville patrimoniale"
+      ],
+      "texte": "b. Indiquer ce qui caractérise les villes qui font partie de l’Organisation des villes du patrimoine mondial (OVPM) (ex. : Québec, Paris et Rome font partie de l'OVPM parce que les sites patrimoniaux sont habités; Beijing et Athènes n’en font pas partie, car les sites patrimoniaux ne sont pas habités)",
+      "progression": {
+        "1-2": "maitrise"
+      },
+      "page": 10,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "GEO-TER-046",
+      "champ": "Territoire urbain",
+      "section": "C. Connaissances liées à l’étude d’une ville patrimoniale",
+      "chemin": [
+        "2. Caractéristiques d’une ville patrimoniale"
+      ],
+      "texte": "c. Nommer des organismes qui reconnaissent la valeur patrimoniale d’un site dans une ville (ex. : l’UNESCO à l’échelle mondiale, la Commission des biens culturels au Québec)",
+      "progression": {
+        "1-2": "maitrise"
+      },
+      "page": 10,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "GEO-TER-047",
+      "champ": "Territoire urbain",
+      "section": "C. Connaissances liées à l’étude d’une ville patrimoniale",
+      "chemin": [
+        "2. Caractéristiques d’une ville patrimoniale"
+      ],
+      "texte": "d. Décrire le site classé patrimonial dans la ville à l’étude (ex. : à Beijing, le site n’est pas habité; il comprend trois ensembles de bâtiments : la Cité interdite et le Temple du Ciel, situés au centre de la ville et le Palais d’été, situé à l’extérieur de la ville)",
+      "progression": {
+        "1-2": "maitrise"
+      },
+      "page": 10,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "GEO-TER-048",
+      "champ": "Territoire urbain",
+      "section": "C. Connaissances liées à l’étude d’une ville patrimoniale",
+      "chemin": [
+        "2. Caractéristiques d’une ville patrimoniale"
+      ],
+      "texte": "e. Nommer des éléments reconnus pour leur valeur patrimoniale dans la ville à l’étude (ex. : le monastère des Ursulines et les remparts à Québec intra-muros; l’Acropole à Athènes)",
+      "progression": {
+        "1-2": "maitrise"
+      },
+      "page": 10,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "GEO-TER-049",
+      "champ": "Territoire urbain",
+      "section": "C. Connaissances liées à l’étude d’une ville patrimoniale",
+      "chemin": [
+        "2. Caractéristiques d’une ville patrimoniale"
+      ],
+      "texte": "f. Nommer des villes du monde qui présentent un caractère patrimonial (ex. : Agra, Brasilia, Bruges, Istanbul, Jérusalem, Prague, Tombouctou)",
+      "progression": {
+        "1-2": "maitrise"
+      },
+      "page": 10,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "GEO-TER-050",
+      "champ": "Territoire urbain",
+      "section": "C. Connaissances liées à l’étude d’une ville patrimoniale",
+      "chemin": [
+        "3. Aménagement d’une ville patrimoniale"
+      ],
+      "texte": "a. Indiquer des contraintes à respecter lors de l’aménagement du site de la ville patrimoniale à l’étude (ex. : à Québec, fabrication de petits véhicules de voirie pour ne pas avoir à élargir les rues du quartier intra-muros)",
+      "progression": {
+        "1-2": "maitrise"
+      },
+      "page": 10,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "GEO-TER-051",
+      "champ": "Territoire urbain",
+      "section": "C. Connaissances liées à l’étude d’une ville patrimoniale",
+      "chemin": [
+        "3. Aménagement d’une ville patrimoniale"
+      ],
+      "texte": "b. Indiquer des infrastructures mises en place pour faciliter la fréquentation du site de la ville patrimoniale à l’étude (ex. : stationnements, rues piétonnières, voies d’accès à Paris; centres d’information touristique en nombre suffisant pour guider les visiteurs à Rome)",
+      "progression": {
+        "1-2": "maitrise"
+      },
+      "page": 11,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "GEO-TER-052",
+      "champ": "Territoire urbain",
+      "section": "C. Connaissances liées à l’étude d’une ville patrimoniale",
+      "chemin": [
+        "3. Aménagement d’une ville patrimoniale"
+      ],
+      "texte": "c. Indiquer des mesures mises en œuvre pour répondre aux besoins des résidents de la ville patrimoniale à l’étude (ex. : ouverture de stationnements en périphérie du quartier intra-muros de la ville de Québec pour limiter le déplacement des autocars)",
+      "progression": {
+        "1-2": "maitrise"
+      },
+      "page": 11,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "GEO-TER-053",
+      "champ": "Territoire urbain",
+      "section": "C. Connaissances liées à l’étude d’une ville patrimoniale",
+      "chemin": [
+        "4. Enjeu présent dans une ou des villes patrimoniales"
+      ],
+      "texte": "a. Indiquer des actions qui doivent être mises en œuvre pour assurer la protection des villes patrimoniales (ex. : limitation du nombre de véhicules ayant accès au site pour protéger les monuments de la pollution, construction de stationnements souterrains, mises en service d’autobus électriques, changement de vocation de certains édifices)",
+      "progression": {
+        "1-2": "maitrise"
+      },
+      "page": 11,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "GEO-TER-054",
+      "champ": "Territoire urbain",
+      "section": "C. Connaissances liées à l’étude d’une ville patrimoniale",
+      "chemin": [
+        "4. Enjeu présent dans une ou des villes patrimoniales"
+      ],
+      "texte": "b. Indiquer des contraintes auxquelles la ville patrimoniale à l’étude est soumise (ex. : à Québec, dans le quartier intra-muros assurer la tranquillité des résidents, restaurer les bâtiments anciens en respectant le style et l'époque)",
+      "progression": {
+        "1-2": "maitrise"
+      },
+      "page": 11,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "GEO-TER-055",
+      "champ": "Territoire urbain",
+      "section": "C. Connaissances liées à l’étude d’une ville patrimoniale",
+      "chemin": [
+        "4. Enjeu présent dans une ou des villes patrimoniales"
+      ],
+      "texte": "c. Énumérer des gestes qui contribuent à la dégradation du site de la ville patrimoniale à l’étude (ex. : graffitis sur des monuments à Paris, vols de pierres à Rome ou à Athènes)",
+      "progression": {
+        "1-2": "maitrise"
+      },
+      "page": 11,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "GEO-TER-056",
+      "champ": "Territoire urbain",
+      "section": "C. Connaissances liées à l’étude d’une ville patrimoniale",
+      "chemin": [
+        "4. Enjeu présent dans une ou des villes patrimoniales"
+      ],
+      "texte": "d. Expliquer des désavantages de l’affluence touristique pour la ville patrimoniale à l’étude (ex. : les véhiculent créent des encombrements dans les rues étroites et nuisent aux déplacements des résidents du quartier intra-muros à Québec )",
+      "progression": {
+        "1-2": "maitrise"
+      },
+      "page": 11,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "GEO-TER-057",
+      "champ": "Territoire urbain",
+      "section": "C. Connaissances liées à l’étude d’une ville patrimoniale",
+      "chemin": [
+        "4. Enjeu présent dans une ou des villes patrimoniales"
+      ],
+      "texte": "e. Indiquer des contraintes imposées par l’UNESCO aux villes patrimoniales (ex. : obligation de faire une recherche archéologique préalablement à toute construction sur un site; respect du caractère historique de la ville lors de la transformation ou la construction d’immeubles)",
+      "progression": {
+        "1-2": "maitrise"
+      },
+      "page": 11,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "GEO-TER-058",
+      "champ": "Territoire urbain",
+      "section": "C. Connaissances liées à l’étude d’une ville patrimoniale",
+      "chemin": [
+        "4. Enjeu présent dans une ou des villes patrimoniales"
+      ],
+      "texte": "f. Indiquer des limites de la protection d’une ville patrimoniale par l’UNESCO (ex. : le fait d’être inscrit sur la Liste du patrimoine mondial de l’UNESCO attire l’attention mondiale sur la ville, mais ne garantit pas que toutes les mesures nécessaires sont prises pour protéger la valeur patrimoniale du site)",
+      "progression": {
+        "1-2": "maitrise"
+      },
+      "page": 11,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "GEO-TER-059",
+      "champ": "Territoire région",
+      "section": "A. Connaissances liées à l’étude d’un territoire touristique",
+      "chemin": [
+        "1. Localisation d’un territoire touristique"
+      ],
+      "texte": "a. Situer le territoire touristique à l’étude dans son continent et son pays",
+      "progression": {
+        "1-2": "maitrise"
+      },
+      "page": 12,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "GEO-TER-060",
+      "champ": "Territoire région",
+      "section": "A. Connaissances liées à l’étude d’un territoire touristique",
+      "chemin": [
+        "1. Localisation d’un territoire touristique"
+      ],
+      "texte": "b. Situer, sur une carte du monde, des territoires touristiques (ex. : la côte méditerranéenne en Espagne, la région de Phuket en Thaïlande, les côtes de l’État de Floride et les îles Hawaï aux États-Unis, la côte atlantique du Sénégal, la région de Tokyo au Japon)",
+      "progression": {
+        "1-2": "maitrise"
+      },
+      "page": 12,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "GEO-TER-061",
+      "champ": "Territoire région",
+      "section": "A. Connaissances liées à l’étude d’un territoire touristique",
+      "chemin": [
+        "1. Localisation d’un territoire touristique"
+      ],
+      "texte": "c. Indiquer, sur une carte du monde, les principaux flux touristiques : entre l’Europe occidentale et les États-Unis; entre l’Europe occidentale et le Sud-Est asiatique; entre les États-Unis et la région des Antilles",
+      "progression": {
+        "1-2": "maitrise"
+      },
+      "page": 12,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "GEO-TER-062",
+      "champ": "Territoire région",
+      "section": "A. Connaissances liées à l’étude d’un territoire touristique",
+      "chemin": [
+        "2. Caractéristiques d’un territoire touristique"
+      ],
+      "texte": "a. Énumérer des caractéristiques naturelles du territoire à l’étude qui constituent des attraits touristiques (ex. : paysages du Bouclier canadien dans la région de Charlevoix en bordure du fleuve Saint-Laurent; lagons des îles volcaniques de Tahiti; faune de la région des Grands Lacs africains)",
+      "progression": {
+        "1-2": "maitrise"
+      },
+      "page": 12,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "GEO-TER-063",
+      "champ": "Territoire région",
+      "section": "A. Connaissances liées à l’étude d’un territoire touristique",
+      "chemin": [
+        "2. Caractéristiques d’un territoire touristique"
+      ],
+      "texte": "b. Nommer des attraits du territoire touristique à l’étude qui relèvent de l’activité humaine (ex. : le Lido de la lagune de Venise, Versailles en Île-de-France)",
+      "progression": {
+        "1-2": "maitrise"
+      },
+      "page": 12,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "GEO-TER-064",
+      "champ": "Territoire région",
+      "section": "A. Connaissances liées à l’étude d’un territoire touristique",
+      "chemin": [
+        "2. Caractéristiques d’un territoire touristique"
+      ],
+      "texte": "c. Expliquer la relation entre des formes de tourisme pratiquées sur le territoire à l’étude et des attraits de ce dernier (ex. : l’exotisme de la faune du territoire des Grands Lacs africains a donné naissance à un tourisme d’aventure axé sur les safaris-photos)",
+      "progression": {
+        "1-2": "maitrise"
+      },
+      "page": 12,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "GEO-TER-065",
+      "champ": "Territoire région",
+      "section": "A. Connaissances liées à l’étude d’un territoire touristique",
+      "chemin": [
+        "2. Caractéristiques d’un territoire touristique"
+      ],
+      "texte": "d. Établir l’importance du flux touristique en considérant la population du territoire à l’étude (ex. : en 2009, les Îles-de-la-Madeleine ont reçu un nombre de touristes quatre fois plus élevé que le nombre de résidents et la région de la lagune de Venise a reçu un nombre de touristes sept fois supérieur à celui des résidents)",
+      "progression": {
+        "1-2": "maitrise"
+      },
+      "page": 12,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "GEO-TER-066",
+      "champ": "Territoire région",
+      "section": "A. Connaissances liées à l’étude d’un territoire touristique",
+      "chemin": [
+        "3. Aménagement d’un territoire touristique"
+      ],
+      "texte": "a. Indiquer des infrastructures mises en place sur le territoire touristique étudié (ex. : campings en Gaspésie, stationnements aux abords de la lagune de Venise, parcs nationaux dans la région des Grands Lacs africains, Disneyland Paris en Île-de-France)",
+      "progression": {
+        "1-2": "maitrise"
+      },
+      "page": 12,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "GEO-TER-067",
+      "champ": "Territoire région",
+      "section": "A. Connaissances liées à l’étude d’un territoire touristique",
+      "chemin": [
+        "3. Aménagement d’un territoire touristique"
+      ],
+      "texte": "b. Nommer des moyens de transport qui facilitent le déplacement des touristes sur le territoire touristique à l’étude (ex. : gondole ou vaporetto sur les canaux de Venise, camion de safaris- photos dans la région des Grands Lacs africains, autocars de touristes en Île-de-France)",
+      "progression": {
+        "1-2": "maitrise"
+      },
+      "page": 13,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "GEO-TER-068",
+      "champ": "Territoire région",
+      "section": "A. Connaissances liées à l’étude d’un territoire touristique",
+      "chemin": [
+        "3. Aménagement d’un territoire touristique"
+      ],
+      "texte": "c. Indiquer des infrastructures mises en place sur le territoire touristique à l’étude qui peuvent contribuer à la détérioration de ses sites naturels (ex. : construction d’ensembles résidentiels le long des plages de la région des Grands Lacs africains; funiculaires permettant d’accéder aux stations de ski en Savoie)",
+      "progression": {
+        "1-2": "maitrise"
+      },
+      "page": 13,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "GEO-TER-069",
+      "champ": "Territoire région",
+      "section": "A. Connaissances liées à l’étude d’un territoire touristique",
+      "chemin": [
+        "4. Enjeu présent dans un ou des territoires touristiques"
+      ],
+      "texte": "a. Indiquer des comportements qui peuvent contribuer à la dégradation d’un territoire touristique (ex. : inscription de graffitis sur des monuments; utilisation de véhicules motorisés à l’extérieur des pistes autorisées; vidange de ballast le long des côtes)",
+      "progression": {
+        "1-2": "maitrise"
+      },
+      "page": 13,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "GEO-TER-070",
+      "champ": "Territoire région",
+      "section": "A. Connaissances liées à l’étude d’un territoire touristique",
+      "chemin": [
+        "4. Enjeu présent dans un ou des territoires touristiques"
+      ],
+      "texte": "b. Expliquer des changements qui se produisent, sur le territoire à l’étude, à cause du développement touristique (ex. : création d’emplois et mise en place d’infrastructures dans la région de la Gaspésie pour répondre à la demande des visiteurs; modification du mode de vie des Masaïs de la région des Grands Lacs africains en raison des contacts avec des visiteurs, pouvant même mener à une forme d’acculturation)",
+      "progression": {
+        "1-2": "maitrise"
+      },
+      "page": 13,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "GEO-TER-071",
+      "champ": "Territoire région",
+      "section": "A. Connaissances liées à l’étude d’un territoire touristique",
+      "chemin": [
+        "4. Enjeu présent dans un ou des territoires touristiques"
+      ],
+      "texte": "c. Expliquer des réactions de résidents face aux aménagements touristiques développés sur le territoire à l’étude (ex. : des résidents du lac du Bourget en Savoie s’opposent aux activités nautiques afin de ralentir la dégradation du milieu naturel; des Tahitiens s’opposent à tout nouveau développement sur les atolls coralliens pour préserver ces milieux fragiles)",
+      "progression": {
+        "1-2": "maitrise"
+      },
+      "page": 13,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "GEO-TER-072",
+      "champ": "Territoire région",
+      "section": "A. Connaissances liées à l’étude d’un territoire touristique",
+      "chemin": [
+        "4. Enjeu présent dans un ou des territoires touristiques"
+      ],
+      "texte": "d. Indiquer des mesures mises en œuvre qui permettent de protéger le territoire touristique (ex. : limitation de la fréquentation des dunes aux Îles-de-la-Madeleine, construction de funiculaires souterrains en Savoie)",
+      "progression": {
+        "1-2": "maitrise"
+      },
+      "page": 13,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "GEO-TER-073",
+      "champ": "Territoire région",
+      "section": "B. Connaissances liées à l’étude d’un territoire forestier",
+      "chemin": [
+        "1. Localisation d’un territoire forestier"
+      ],
+      "texte": "a. Situer le territoire forestier à l’étude dans son continent et son pays",
+      "progression": {
+        "1-2": "maitrise"
+      },
+      "page": 14,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "GEO-TER-074",
+      "champ": "Territoire région",
+      "section": "B. Connaissances liées à l’étude d’un territoire forestier",
+      "chemin": [
+        "1. Localisation d’un territoire forestier"
+      ],
+      "texte": "b. Situer, sur une carte du Québec, les principaux territoires forestiers : Abitibi-Témiscamingue, Côte-Nord, Outaouais, Saguenay−Lac-Saint-Jean",
+      "progression": {
+        "1-2": "maitrise"
+      },
+      "page": 14,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "GEO-TER-075",
+      "champ": "Territoire région",
+      "section": "B. Connaissances liées à l’étude d’un territoire forestier",
+      "chemin": [
+        "1. Localisation d’un territoire forestier"
+      ],
+      "texte": "c. Situer, sur une carte du monde, les principaux pays où la forêt constitue une ressource importante (ex. : Brésil, Canada, Chine, Inde, République démocratique du Congo, Russie, Suède)",
+      "progression": {
+        "1-2": "maitrise"
+      },
+      "page": 14,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "GEO-TER-076",
+      "champ": "Territoire région",
+      "section": "B. Connaissances liées à l’étude d’un territoire forestier",
+      "chemin": [
+        "2. Caractéristiques d’un territoire forestier"
+      ],
+      "texte": "a. Décrire les types de forêt exploités sur le territoire à l’étude (ex. : la forêt boréale exploitée en Abitibi-Témiscamingue est principalement composée de résineux : épinette noire, pin gris et sapin baumier; la forêt tropicale humide de l’Amazonie est composée d’une très grande variété de feuillus, parmi lesquels se trouvent des bois précieux)",
+      "progression": {
+        "1-2": "maitrise"
+      },
+      "page": 14,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "GEO-TER-077",
+      "champ": "Territoire région",
+      "section": "B. Connaissances liées à l’étude d’un territoire forestier",
+      "chemin": [
+        "2. Caractéristiques d’un territoire forestier"
+      ],
+      "texte": "b. Expliquer la relation entre certaines caractéristiques du climat du territoire forestier à l’étude et le type de forêt (ex. : la croissance des arbres géants de la Colombie-Britannique est attribuable principalement aux fortes précipitations annuelles)",
+      "progression": {
+        "1-2": "maitrise"
+      },
+      "page": 14,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "GEO-TER-078",
+      "champ": "Territoire région",
+      "section": "B. Connaissances liées à l’étude d’un territoire forestier",
+      "chemin": [
+        "2. Caractéristiques d’un territoire forestier"
+      ],
+      "texte": "c. Indiquer le rôle des acteurs qui interviennent dans la gestion du territoire forestier à l’étude (ex. : les gouvernements octroient des droits de coupe à des compagnies forestières; les environnementalistes cherchent à assurer l’utilisation de la forêt dans une perspective de développement durable en Abitibi-Témiscamingue)",
+      "progression": {
+        "1-2": "maitrise"
+      },
+      "page": 14,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "GEO-TER-079",
+      "champ": "Territoire région",
+      "section": "B. Connaissances liées à l’étude d’un territoire forestier",
+      "chemin": [
+        "2. Caractéristiques d’un territoire forestier"
+      ],
+      "texte": "d. Énumérer des façons d’exploiter le territoire forestier à l’étude (ex. : coupe sélective, coupe d’éclaircie, coupe à blanc en Colombie-Britannique)",
+      "progression": {
+        "1-2": "maitrise"
+      },
+      "page": 14,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "GEO-TER-080",
+      "champ": "Territoire région",
+      "section": "B. Connaissances liées à l’étude d’un territoire forestier",
+      "chemin": [
+        "2. Caractéristiques d’un territoire forestier"
+      ],
+      "texte": "e. Énumérer des activités économiques associées à la transformation du bois sur le territoire forestier à l’étude (ex. : industrie papetière, industrie du meuble, cartonnerie en Colombie- Britannique)",
+      "progression": {
+        "1-2": "maitrise"
+      },
+      "page": 14,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "GEO-TER-081",
+      "champ": "Territoire région",
+      "section": "B. Connaissances liées à l’étude d’un territoire forestier",
+      "chemin": [
+        "2. Caractéristiques d’un territoire forestier"
+      ],
+      "texte": "f. Énumérer des activités, autres que forestières, pratiquées en forêt sur le territoire à l’étude (ex. : villégiature et récréotourisme en Mauricie, activités minières en Amazonie)",
+      "progression": {
+        "1-2": "maitrise"
+      },
+      "page": 14,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "GEO-TER-082",
+      "champ": "Territoire région",
+      "section": "B. Connaissances liées à l’étude d’un territoire forestier",
+      "chemin": [
+        "2. Caractéristiques d’un territoire forestier"
+      ],
+      "texte": "a. Indiquer, pour le territoire forestier à l’étude, les étapes de la commercialisation de la ressource (ex. : en Mauricie, la coupe du bois se fait dans les chantiers au nord de La Tuque, puis les billes de bois sont transportées par camion jusqu’aux papetières de Trois-Rivières; les produits manufacturés sont ensuite expédiés aux clients par camion, par train ou par bateau)",
+      "progression": {
+        "1-2": "maitrise"
+      },
+      "page": 15,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "GEO-TER-083",
+      "champ": "Territoire région",
+      "section": "B. Connaissances liées à l’étude d’un territoire forestier",
+      "chemin": [
+        "2. Caractéristiques d’un territoire forestier"
+      ],
+      "texte": "b. Indiquer des types d’industries associés au territoire forestier à l’étude (ex. : papetières et scieries en Outaouais, scieries à Manaus en Amazonie)",
+      "progression": {
+        "1-2": "maitrise"
+      },
+      "page": 15,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "GEO-TER-084",
+      "champ": "Territoire région",
+      "section": "B. Connaissances liées à l’étude d’un territoire forestier",
+      "chemin": [
+        "2. Caractéristiques d’un territoire forestier"
+      ],
+      "texte": "c. Indiquer des infrastructures de transport mises en place pour la commercialisation du bois sur le territoire forestier à l’étude (ex. : chemins forestiers en Mauricie, Transamazonienne, installations portuaires en Colombie-Britannique)",
+      "progression": {
+        "1-2": "maitrise"
+      },
+      "page": 15,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "GEO-TER-085",
+      "champ": "Territoire région",
+      "section": "B. Connaissances liées à l’étude d’un territoire forestier",
+      "chemin": [
+        "2. Caractéristiques d’un territoire forestier"
+      ],
+      "texte": "d. Indiquer des infrastructures mises en place sur le territoire forestier à l’étude (ex. : chemins forestiers pour atteindre les chantiers de coupe dans la région de Charlevoix; construction de postes d’accueil, d’unités d’hébergement et de quais dans une pourvoirie dans la région de la Mauricie)",
+      "progression": {
+        "1-2": "maitrise"
+      },
+      "page": 15,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "GEO-TER-086",
+      "champ": "Territoire région",
+      "section": "B. Connaissances liées à l’étude d’un territoire forestier",
+      "chemin": [
+        "4. Enjeu présent dans un ou des territoires forestiers"
+      ],
+      "texte": "a. Énumérer des menaces qui pèsent sur les territoires forestiers du monde (ex. : maladies des arbres, insectes nuisibles, incendies de forêt)",
+      "progression": {
+        "1-2": "maitrise"
+      },
+      "page": 15,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "GEO-TER-087",
+      "champ": "Territoire région",
+      "section": "B. Connaissances liées à l’étude d’un territoire forestier",
+      "chemin": [
+        "4. Enjeu présent dans un ou des territoires forestiers"
+      ],
+      "texte": "b. Indiquer des pratiques qui contribuent à la dégradation de la ressource forestière sur le territoire à l’étude (ex. : coupes excessives en Abitibi-Témiscamingue, développements agricoles au détriment de la forêt en Amazonie)",
+      "progression": {
+        "1-2": "maitrise"
+      },
+      "page": 15,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "GEO-TER-088",
+      "champ": "Territoire région",
+      "section": "B. Connaissances liées à l’étude d’un territoire forestier",
+      "chemin": [
+        "4. Enjeu présent dans un ou des territoires forestiers"
+      ],
+      "texte": "c. Expliquer des conséquences des coupes excessives sur l’environnement (ex. : une fois les arbres enlevés, les eaux de ruissellement contribuent à l’érosion et à l’appauvrissement des sols)",
+      "progression": {
+        "1-2": "maitrise"
+      },
+      "page": 15,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "GEO-TER-089",
+      "champ": "Territoire région",
+      "section": "B. Connaissances liées à l’étude d’un territoire forestier",
+      "chemin": [
+        "4. Enjeu présent dans un ou des territoires forestiers"
+      ],
+      "texte": "d. Indiquer des pratiques qui contribuent au renouvellement de la ressource forestière (ex. : reboisement à l’aide d’essences à croissance rapide, coupe d’éclaircie, coupe sélective)",
+      "progression": {
+        "1-2": "maitrise"
+      },
+      "page": 15,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "GEO-TER-090",
+      "champ": "Territoire région",
+      "section": "B. Connaissances liées à l’étude d’un territoire forestier",
+      "chemin": [
+        "4. Enjeu présent dans un ou des territoires forestiers"
+      ],
+      "texte": "e. Indiquer des moyens mis en œuvre pour concilier les intérêts de divers intervenants forestiers sur le territoire à l’étude (ex. : des propriétaires de forêts privées en Colombie-Britannique octroient des droits de passage à des organismes récréotouristiques; le gouvernement brésilien réserve des zones de l’Amazonie à l’usage exclusif des Autochtones)",
+      "progression": {
+        "1-2": "maitrise"
+      },
+      "page": 15,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "GEO-TER-091",
+      "champ": "Territoire région",
+      "section": "C. Connaissances liées à l’étude d’un territoire énergétique",
+      "chemin": [
+        "1. Localisation d’un territoire énergétique"
+      ],
+      "texte": "a. Situer le territoire énergétique à l’étude dans son continent et son pays",
+      "progression": {
+        "1-2": "maitrise"
+      },
+      "page": 16,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "GEO-TER-092",
+      "champ": "Territoire région",
+      "section": "C. Connaissances liées à l’étude d’un territoire énergétique",
+      "chemin": [
+        "1. Localisation d’un territoire énergétique"
+      ],
+      "texte": "b. Situer, sur une carte du monde, des pays producteurs d’hydrocarbure (ex. : Arabie Saoudite, Brésil, Canada, Chine, Émirats arabes unis, Irak, Iran, Koweït, Nigéria, Russie, Venezuela)",
+      "progression": {
+        "1-2": "maitrise"
+      },
+      "page": 16,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "GEO-TER-093",
+      "champ": "Territoire région",
+      "section": "C. Connaissances liées à l’étude d’un territoire énergétique",
+      "chemin": [
+        "1. Localisation d’un territoire énergétique"
+      ],
+      "texte": "c. Situer, sur une carte du monde, les pays qui consomment le plus d’énergie par habitant (ex. : en 2010, Australie, Canada, États-Unis, Finlande, Norvège, Nouvelle-Zélande, Suède)",
+      "progression": {
+        "1-2": "maitrise"
+      },
+      "page": 16,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "GEO-TER-094",
+      "champ": "Territoire région",
+      "section": "C. Connaissances liées à l’étude d’un territoire énergétique",
+      "chemin": [
+        "2. Caractéristiques d’un territoire énergétique"
+      ],
+      "texte": "a. Nommer la source d’énergie mise en valeur sur le territoire énergétique à l’étude (ex. : énergie hydraulique en Jamésie; hydrocarbures dans la région du golfe Persique)",
+      "progression": {
+        "1-2": "maitrise"
+      },
+      "page": 16,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "GEO-TER-095",
+      "champ": "Territoire région",
+      "section": "C. Connaissances liées à l’étude d’un territoire énergétique",
+      "chemin": [
+        "2. Caractéristiques d’un territoire énergétique"
+      ],
+      "texte": "b. Indiquer des utilisations pour la forme d’énergie mise en valeur sur le territoire à l’étude (ex. : les hydrocarbures de l’Alberta sont utilisés comme combustible pour les véhicules, le chauffage des bâtiments et l’alimentation de centrales thermiques)",
+      "progression": {
+        "1-2": "maitrise"
+      },
+      "page": 16,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "GEO-TER-096",
+      "champ": "Territoire région",
+      "section": "C. Connaissances liées à l’étude d’un territoire énergétique",
+      "chemin": [
+        "2. Caractéristiques d’un territoire énergétique"
+      ],
+      "texte": "c. Expliquer la relation entre certaines caractéristiques du milieu naturel du territoire à l’étude et la forme d’énergie mise en valeur (ex. : la rivière la Grande et la Grande rivière de la Baleine, en Jamésie, présentent des ruptures de pente et un fort débit, ce qui les rend propices à la production d’hydroélectricité; l’accumulation de végétaux et d’animaux décomposés au fond d’anciennes mers ont permis la formation de pétrole et de gaz naturel en Alberta et dans la région du golfe Persique)",
+      "progression": {
+        "1-2": "maitrise"
+      },
+      "page": 16,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "GEO-TER-097",
+      "champ": "Territoire région",
+      "section": "C. Connaissances liées à l’étude d’un territoire énergétique",
+      "chemin": [
+        "2. Caractéristiques d’un territoire énergétique"
+      ],
+      "texte": "d. Indiquer des sources d’énergie exploitées sur le territoire à l’étude (ex. : l’hydroélectricité produite dans la région de la Côte-Nord est une source d’énergie renouvelable; les hydrocarbures extraits en Alberta sont des sources d’énergie non renouvelables; l’énergie éolienne produite dans la région de la Jamésie est une source d’énergie inépuisable)",
+      "progression": {
+        "1-2": "maitrise"
+      },
+      "page": 16,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "GEO-TER-098",
+      "champ": "Territoire région",
+      "section": "C. Connaissances liées à l’étude d’un territoire énergétique",
+      "chemin": [
+        "3. Aménagement d’un territoire énergétique"
+      ],
+      "texte": "a. Indiquer des infrastructures mises en place pour l’exploitation de la source d’énergie sur le territoire à l’étude (ex. : derricks pour l’exploitation du pétrole dans la région du golfe Persique; mines à ciel ouvert pour l’extraction des sables bitumineux en Alberta; plates-formes pétrolières pour l’exploitation du pétrole dans la région du golfe Persique; réservoirs et barrages pour l’exploitation de l’énergie hydraulique en Jamésie)",
+      "progression": {
+        "1-2": "maitrise"
+      },
+      "page": 16,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "GEO-TER-099",
+      "champ": "Territoire région",
+      "section": "C. Connaissances liées à l’étude d’un territoire énergétique",
+      "chemin": [
+        "3. Aménagement d’un territoire énergétique"
+      ],
+      "texte": "b. Indiquer des infrastructures mises en place pour la transformation des ressources énergétiques du territoire à l’étude (ex. : raffinerie pour le pétrole en Alberta; centrale électrique pour l’énergie hydraulique dans la région de la Côte-Nord, éolienne en Jamésie)",
+      "progression": {
+        "1-2": "maitrise"
+      },
+      "page": 16,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "GEO-TER-100",
+      "champ": "Territoire région",
+      "section": "C. Connaissances liées à l’étude d’un territoire énergétique",
+      "chemin": [
+        "3. Aménagement d’un territoire énergétique"
+      ],
+      "texte": "c. Nommer des organismes associés à la mise en valeur de la source d’énergie exploitée sur le territoire à l’étude (ex. : Hydro-Québec pour l’hydroélectricité en Jamésie et sur la Côte-Nord; des multinationales pour les hydrocarbures dans la région du golfe Persique; l’Organisation des pays exportateurs de pétrole [OPEP] pour le pétrole dans la région du golfe Persique)",
+      "progression": {
+        "1-2": "maitrise"
+      },
+      "page": 17,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "GEO-TER-101",
+      "champ": "Territoire région",
+      "section": "C. Connaissances liées à l’étude d’un territoire énergétique",
+      "chemin": [
+        "3. Aménagement d’un territoire énergétique"
+      ],
+      "texte": "d. Indiquer des moyens mis en place pour transporter des ressources énergétiques sur le territoire à l’étude (ex. : les lignes à haute tension qui relient les barrages hydroélectriques aux centrales électriques et aux postes de transformation et de distribution au Québec; les oléoducs et les gazoducs qui transportent les hydrocarbures des sites d’extraction vers les raffineries en Alberta)",
+      "progression": {
+        "1-2": "maitrise"
+      },
+      "page": 17,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "GEO-TER-102",
+      "champ": "Territoire région",
+      "section": "C. Connaissances liées à l’étude d’un territoire énergétique",
+      "chemin": [
+        "4. Enjeu présent dans un ou des territoires énergétiques"
+      ],
+      "texte": "a. Indiquer des mesures mises en œuvre pour favoriser l’approvisionnement en ressources énergétiques et réduire la dépendance énergétique pour le territoire à l’étude (ex. : recherche de sources d’énergies renouvelables en Jamésie; création de l’OPEP dans la région du golfe Persique)",
+      "progression": {
+        "1-2": "maitrise"
+      },
+      "page": 17,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "GEO-TER-103",
+      "champ": "Territoire région",
+      "section": "C. Connaissances liées à l’étude d’un territoire énergétique",
+      "chemin": [
+        "4. Enjeu présent dans un ou des territoires énergétiques"
+      ],
+      "texte": "b. Indiquer des mesures mises en œuvre pour favoriser la réduction de la consommation énergétique et la recherche d’autonomie (ex. : biénergie, véhicules hybrides, amélioration du transport en commun, fabrication d’appareils électriques moins énergivores)",
+      "progression": {
+        "1-2": "maitrise"
+      },
+      "page": 17,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "GEO-TER-104",
+      "champ": "Territoire région",
+      "section": "C. Connaissances liées à l’étude d’un territoire énergétique",
+      "chemin": [
+        "4. Enjeu présent dans un ou des territoires énergétiques"
+      ],
+      "texte": "c. Indiquer des conséquences de l’exploitation de la source d’énergie pour le territoire à l’étude (ex. : en Jamésie, ennoyage de grandes portions de territoire; en Alberta, dégradation des paysages par l’exploitation des sables bitumineux et épuisement de la nappe phréatique en raison du processus d’extraction du pétrole)",
+      "progression": {
+        "1-2": "maitrise"
+      },
+      "page": 17,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "GEO-TER-105",
+      "champ": "Territoire région",
+      "section": "C. Connaissances liées à l’étude d’un territoire énergétique",
+      "chemin": [
+        "4. Enjeu présent dans un ou des territoires énergétiques"
+      ],
+      "texte": "d. Expliquer des répercussions du développement d’énergies nouvelles (ex. : la production de biocarburants nécessite de grandes quantités de céréales, ce qui aggrave le déséquilibre alimentaire mondial)",
+      "progression": {
+        "1-2": "maitrise"
+      },
+      "page": 17,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "GEO-TER-106",
+      "champ": "Territoire région",
+      "section": "C. Connaissances liées à l’étude d’un territoire énergétique",
+      "chemin": [
+        "4. Enjeu présent dans un ou des territoires énergétiques"
+      ],
+      "texte": "e. Expliquer des incidences de la consommation croissante d’énergie sur l’environnement (ex. : la consommation croissante d’énergie sous différentes formes, dans le monde, a un effet sur le réchauffement climatique et la dégradation de l’environnement)",
+      "progression": {
+        "1-2": "maitrise"
+      },
+      "page": 17,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "GEO-TER-107",
+      "champ": "Territoire région",
+      "section": "C. Connaissances liées à l’étude d’un territoire énergétique",
+      "chemin": [
+        "4. Enjeu présent dans un ou des territoires énergétiques"
+      ],
+      "texte": "f. Indiquer des types d’industries qui sont de grands consommateurs d’énergie (ex. : alumineries, aciéries, usines pétrochimiques)",
+      "progression": {
+        "1-2": "maitrise"
+      },
+      "page": 17,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "GEO-TER-108",
+      "champ": "Territoire région",
+      "section": "D. Connaissances liées à l’étude d’un territoire industriel",
+      "chemin": [
+        "1. Localisation d’un territoire industriel"
+      ],
+      "texte": "a. Situer le territoire industriel à l’étude dans son continent et son pays",
+      "progression": {
+        "1-2": "maitrise"
+      },
+      "page": 18,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "GEO-TER-109",
+      "champ": "Territoire région",
+      "section": "D. Connaissances liées à l’étude d’un territoire industriel",
+      "chemin": [
+        "1. Localisation d’un territoire industriel"
+      ],
+      "texte": "b. Situer, sur une carte du monde, de grandes régions industrielles (ex. : la région des Grands Lacs américains et canadiens, le sud de l’île de Hokkaido au Japon, le sud-est du Royaume-Uni, la région de São Paulo au Brésil, la région d’Alexandrie en Égypte)",
+      "progression": {
+        "1-2": "maitrise"
+      },
+      "page": 18,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "GEO-TER-110",
+      "champ": "Territoire région",
+      "section": "D. Connaissances liées à l’étude d’un territoire industriel",
+      "chemin": [
+        "2. Caractéristiques d’un territoire industriel"
+      ],
+      "texte": "a. Énumérer des types industries présentes sur le territoire industriel à l’étude (ex. : alumineries dans la région du Saguenay−Lac-Saint-Jean, aciéries et usines de montage automobile dans la région des Grands Lacs américains et canadiens)",
+      "progression": {
+        "1-2": "maitrise"
+      },
+      "page": 18,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "GEO-TER-111",
+      "champ": "Territoire région",
+      "section": "D. Connaissances liées à l’étude d’un territoire industriel",
+      "chemin": [
+        "2. Caractéristiques d’un territoire industriel"
+      ],
+      "texte": "b. Nommer les principaux pôles industriels du territoire à l’étude (ex. : Pittsburgh, Détroit, Kingston dans la région des Grands Lacs américains et canadiens)",
+      "progression": {
+        "1-2": "maitrise"
+      },
+      "page": 18,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "GEO-TER-112",
+      "champ": "Territoire région",
+      "section": "D. Connaissances liées à l’étude d’un territoire industriel",
+      "chemin": [
+        "2. Caractéristiques d’un territoire industriel"
+      ],
+      "texte": "c. Indiquer des facteurs naturels qui ont contribué à l’implantation du territoire industriel à l’étude (ex. : l’apport des lacs Érié, Huron, Michigan, Ontario, Supérieur et le fleuve Saint-Laurent pour la région des Grands Lacs; la présence de gisements miniers en Abitibi-Témiscamingue; des sources d’énergie abondantes dans la région du Saguenay−Lac-Saint-Jean)",
+      "progression": {
+        "1-2": "maitrise"
+      },
+      "page": 18,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "GEO-TER-113",
+      "champ": "Territoire région",
+      "section": "D. Connaissances liées à l’étude d’un territoire industriel",
+      "chemin": [
+        "2. Caractéristiques d’un territoire industriel"
+      ],
+      "texte": "d. Indiquer des mesures qui ont contribué au développement du territoire industriel à l’étude (ex. : subventions gouvernementales accordées à des entreprises dans la région de Montréal)",
+      "progression": {
+        "1-2": "maitrise"
+      },
+      "page": 18,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "GEO-TER-114",
+      "champ": "Territoire région",
+      "section": "D. Connaissances liées à l’étude d’un territoire industriel",
+      "chemin": [
+        "2. Caractéristiques d’un territoire industriel"
+      ],
+      "texte": "e. Expliquer le choix du site pour le développement du territoire industriel à l’étude (ex. : la proximité des sources d’énergie, dans la région du Saguenay−Lac-Saint-Jean, favorise la production d’aluminium à des coûts moins élevés; la concentration d’une main-d’œuvre spécialisée permet le développement de l’industrie pharmaceutique dans la région de Québec)",
+      "progression": {
+        "1-2": "maitrise"
+      },
+      "page": 18,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "GEO-TER-115",
+      "champ": "Territoire région",
+      "section": "D. Connaissances liées à l’étude d’un territoire industriel",
+      "chemin": [
+        "2. Caractéristiques d’un territoire industriel"
+      ],
+      "texte": "f. Indiquer des facteurs qui favorisent la concentration d’industries sur le territoire industriel à l’étude (ex. : proximité des marchés pour l’industrie agroalimentaire dans la région de la Montérégie; concentration de population et grand bassin de consommateurs dans la région des Grands Lacs américains et canadiens)",
+      "progression": {
+        "1-2": "maitrise"
+      },
+      "page": 18,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "GEO-TER-116",
+      "champ": "Territoire région",
+      "section": "D. Connaissances liées à l’étude d’un territoire industriel",
+      "chemin": [
+        "3. Aménagement d’un territoire industriel"
+      ],
+      "texte": "a. Indiquer des infrastructures spécialisées mises en place pour le développement du territoire industriel à l’étude (ex. : réseaux d’aqueduc, réseaux de distribution d’énergie, collectes spécialisées de déchets industriels dans la région des Grands Lacs américains et canadiens)",
+      "progression": {
+        "1-2": "maitrise"
+      },
+      "page": 18,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "GEO-TER-117",
+      "champ": "Territoire région",
+      "section": "D. Connaissances liées à l’étude d’un territoire industriel",
+      "chemin": [
+        "3. Aménagement d’un territoire industriel"
+      ],
+      "texte": "b. Expliquer la relation entre des installations industrielles du territoire à l’étude et l’accès aux réseaux d’approvisionnement et de distribution (ex. : les installations industrielles de la région des Grands Lacs américains et canadiens sont situées à proximité de la Voie maritime du Saint- Laurent, des ports, des chemins de fer ou des autoroutes pour recevoir facilement les matières premières et faciliter la distribution des produits finis)",
+      "progression": {
+        "1-2": "maitrise"
+      },
+      "page": 19,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "GEO-TER-118",
+      "champ": "Territoire région",
+      "section": "D. Connaissances liées à l’étude d’un territoire industriel",
+      "chemin": [
+        "3. Aménagement d’un territoire industriel"
+      ],
+      "texte": "c. Indiquer des contraintes auxquelles peuvent être soumises les entreprises du territoire industriel à l’étude (ex. : le respect des règles d’aménagement et l’obligation de s’implanter dans les zones industrielles dans la région de l’Estrie)",
+      "progression": {
+        "1-2": "maitrise"
+      },
+      "page": 19,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "GEO-TER-119",
+      "champ": "Territoire région",
+      "section": "D. Connaissances liées à l’étude d’un territoire industriel",
+      "chemin": [
+        "3. Aménagement d’un territoire industriel"
+      ],
+      "texte": "d. Indiquer des retombées négatives de la présence d’industries sur le territoire à l’étude (ex. : pluies acides engendrées par la pollution de l’air attribuable au fonctionnement des aciéries dans la région des Grands Lacs américains et canadiens)",
+      "progression": {
+        "1-2": "maitrise"
+      },
+      "page": 19,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "GEO-TER-120",
+      "champ": "Territoire région",
+      "section": "D. Connaissances liées à l’étude d’un territoire industriel",
+      "chemin": [
+        "4. Enjeu présent dans un ou des territoires industriels"
+      ],
+      "texte": "a. Expliquer des conséquences, sur le plan de l’environnement, de la présence d’industries sur le territoire à l’étude (ex. : les rejets de polluants dans l’air et dans l’eau dans la région du Saguenay−Lac-Saint-Jean affectent l’équilibre du milieu naturel; l’enfouissement de déchets dangereux dans la région des Grands Lacs américains et canadiens contamine les sols et affecte la santé des résidents)",
+      "progression": {
+        "1-2": "maitrise"
+      },
+      "page": 19,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "GEO-TER-121",
+      "champ": "Territoire région",
+      "section": "D. Connaissances liées à l’étude d’un territoire industriel",
+      "chemin": [
+        "4. Enjeu présent dans un ou des territoires industriels"
+      ],
+      "texte": "b. Indiquer des mesures mises en place par des entreprises pour réduire la pollution industrielle sur le territoire à l’étude (ex. : implantation d’usines de traitement des eaux dans la région de la Montérégie pour éliminer les rejets déversés dans le fleuve Saint-Laurent)",
+      "progression": {
+        "1-2": "maitrise"
+      },
+      "page": 19,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "GEO-TER-122",
+      "champ": "Territoire région",
+      "section": "D. Connaissances liées à l’étude d’un territoire industriel",
+      "chemin": [
+        "4. Enjeu présent dans un ou des territoires industriels"
+      ],
+      "texte": "c. Indiquer des raisons qui peuvent inciter des industries à se délocaliser (ex. : coûts moindres de main-d’œuvre, contraintes écologiques moins sévères)",
+      "progression": {
+        "1-2": "maitrise"
+      },
+      "page": 19,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "GEO-TER-123",
+      "champ": "Territoire région",
+      "section": "D. Connaissances liées à l’étude d’un territoire industriel",
+      "chemin": [
+        "4. Enjeu présent dans un ou des territoires industriels"
+      ],
+      "texte": "d. Indiquer des causes du déclin de l’activité industrielle dans des territoires industriels (ex. : délocalisation d’industries vers des pays en développement, épuisement de la ressource)",
+      "progression": {
+        "1-2": "maitrise"
+      },
+      "page": 19,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "GEO-TER-124",
+      "champ": "Territoire région",
+      "section": "D. Connaissances liées à l’étude d’un territoire industriel",
+      "chemin": [
+        "4. Enjeu présent dans un ou des territoires industriels"
+      ],
+      "texte": "e. Expliquer des conséquences du déclin de l’activité industrielle pour des territoires industriels (ex. : les fermetures d’usines provoquent des pertes d’emplois directs et indirects, et entraînent une hausse du chômage ainsi qu’un abaissement du niveau de vie de la population du territoire)",
+      "progression": {
+        "1-2": "maitrise"
+      },
+      "page": 19,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "GEO-TER-125",
+      "champ": "Territoire région",
+      "section": "D. Connaissances liées à l’étude d’un territoire industriel",
+      "chemin": [
+        "4. Enjeu présent dans un ou des territoires industriels"
+      ],
+      "texte": "g. Indiquer des mesures mises en œuvre pour pallier les conséquences du déclin de l’activité industrielle sur le territoire à l’étude (ex. : développement des activités de transformation des ressources et diversification des activités industrielles dans la région du Saguenay−Lac-Saint-Jean)",
+      "progression": {
+        "1-2": "maitrise"
+      },
+      "page": 19,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "GEO-TER-126",
+      "champ": "Territoire agricole",
+      "section": "A. Connaissances liées à l’étude d’un territoire agricole national",
+      "chemin": [
+        "1. Localisation d’un territoire agricole national"
+      ],
+      "texte": "a. Situer le territoire agricole à l’étude dans son continent et son pays",
+      "progression": {
+        "1-2": "maitrise"
+      },
+      "page": 20,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "GEO-TER-127",
+      "champ": "Territoire agricole",
+      "section": "A. Connaissances liées à l’étude d’un territoire agricole national",
+      "chemin": [
+        "1. Localisation d’un territoire agricole national"
+      ],
+      "texte": "b. Situer, sur une carte du monde, les principaux territoires agricoles (ex. : les Grandes plaines américaines et canadiennes, la Pampa argentine, la Grande plaine de Russie, les bassins de l’Europe occidentale, le Sud-Est asiatique, l’ouest de l’Australie)",
+      "progression": {
+        "1-2": "maitrise"
+      },
+      "page": 20,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "GEO-TER-128",
+      "champ": "Territoire agricole",
+      "section": "A. Connaissances liées à l’étude d’un territoire agricole national",
+      "chemin": [
+        "2. Caractéristiques d’un territoire agricole national"
+      ],
+      "texte": "a. Expliquer la situation des principales zones agricoles du territoire à l’étude (ex. : au Japon, le territoire agricole, dans chaque île, est situé principalement sur d’étroites plaines côtières et sur le bas des versants des montagnes en raison du relief accidenté)",
+      "progression": {
+        "1-2": "maitrise"
+      },
+      "page": 20,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "GEO-TER-129",
+      "champ": "Territoire agricole",
+      "section": "A. Connaissances liées à l’étude d’un territoire agricole national",
+      "chemin": [
+        "2. Caractéristiques d’un territoire agricole national"
+      ],
+      "texte": "b. Établir l’importance numérique du territoire à l’étude consacré à l’agriculture (ex. : en 2005, le territoire agricole du Québec représentait environ 2 % du territoire national et celui du Japon, environ 13 % du territoire national)",
+      "progression": {
+        "1-2": "maitrise"
+      },
+      "page": 20,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "GEO-TER-130",
+      "champ": "Territoire agricole",
+      "section": "A. Connaissances liées à l’étude d’un territoire agricole national",
+      "chemin": [
+        "2. Caractéristiques d’un territoire agricole national"
+      ],
+      "texte": "c. Indiquer des facteurs naturels qui influencent la localisation du territoire agricole à l’étude (ex. : au Québec, fertilité des sols, durée de la saison végétative, régime de précipitation, position en latitude et en altitude)",
+      "progression": {
+        "1-2": "maitrise"
+      },
+      "page": 20,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "GEO-TER-131",
+      "champ": "Territoire agricole",
+      "section": "A. Connaissances liées à l’étude d’un territoire agricole national",
+      "chemin": [
+        "2. Caractéristiques d’un territoire agricole national"
+      ],
+      "texte": "d. Énumérer les principales productions agricoles du territoire à l’étude (ex. : riz, pomme de terre, fruits au Japon; légumes, fruits, noix, coton, vigne en Californie)",
+      "progression": {
+        "1-2": "maitrise"
+      },
+      "page": 20,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "GEO-TER-132",
+      "champ": "Territoire agricole",
+      "section": "A. Connaissances liées à l’étude d’un territoire agricole national",
+      "chemin": [
+        "2. Caractéristiques d’un territoire agricole national"
+      ],
+      "texte": "e. Établir l’importance numérique de la population active qui travaille dans le domaine de l’agriculture sur le territoire à l’étude (ex. : en 2009, au Japon, 5 % de la population et en Californie, 2 % de la population)",
+      "progression": {
+        "1-2": "maitrise"
+      },
+      "page": 20,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "GEO-TER-133",
+      "champ": "Territoire agricole",
+      "section": "A. Connaissances liées à l’étude d’un territoire agricole national",
+      "chemin": [
+        "2. Caractéristiques d’un territoire agricole national"
+      ],
+      "texte": "f. Énoncer des problèmes auxquels sont confrontés des agriculteurs du territoire à l’étude (ex. : au Québec, trouver de la main-d’œuvre, assurer la relève, obtenir un juste prix pour les productions agricoles)",
+      "progression": {
+        "1-2": "maitrise"
+      },
+      "page": 20,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "GEO-TER-134",
+      "champ": "Territoire agricole",
+      "section": "A. Connaissances liées à l’étude d’un territoire agricole national",
+      "chemin": [
+        "3. Aménagement d’un territoire agricole national"
+      ],
+      "texte": "a. Nommer le principal mode de culture pratiqué sur le territoire agricole à l’étude (ex. : culture intensive pratiquée dans des exploitations de petite taille au Japon)",
+      "progression": {
+        "1-2": "maitrise"
+      },
+      "page": 20,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "GEO-TER-135",
+      "champ": "Territoire agricole",
+      "section": "A. Connaissances liées à l’étude d’un territoire agricole national",
+      "chemin": [
+        "3. Aménagement d’un territoire agricole national"
+      ],
+      "texte": "b. Établir un lien entre certaines caractéristiques du climat et des infrastructures mises en place sur le territoire agricole à l’étude (ex. : le climat désertique du centre de la Californie nécessite la construction de barrages et la pratique de l’irrigation; la rigueur des hivers québécois nécessite la construction de serres pour assurer l’approvisionnement annuel de certains légumes)",
+      "progression": {
+        "1-2": "maitrise"
+      },
+      "page": 20,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "GEO-TER-136",
+      "champ": "Territoire agricole",
+      "section": "A. Connaissances liées à l’étude d’un territoire agricole national",
+      "chemin": [
+        "3. Aménagement d’un territoire agricole national"
+      ],
+      "texte": "c. Indiquer des infrastructures mises en place pour augmenter la productivité du territoire agricole à l’étude (ex. : canaux d’irrigation en Californie; barrages pour réguler le niveau d’eau dans les rizières au Japon)",
+      "progression": {
+        "1-2": "maitrise"
+      },
+      "page": 21,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "GEO-TER-137",
+      "champ": "Territoire agricole",
+      "section": "A. Connaissances liées à l’étude d’un territoire agricole national",
+      "chemin": [
+        "4. Enjeu présent dans un ou des territoires agricoles nationaux"
+      ],
+      "texte": "a. Expliquer des conséquences de certaines pratiques agricoles sur l’environnement (ex. : la culture intensive d’arbres fruitiers nécessite l’usage de puissants fertilisants, ce qui contribue à l’épuisement des sols; l’irrigation annuelle des cultures maraîchères exige de grands volumes d’eau, ce qui contribue à l’abaissement du niveau des nappes phréatiques)",
+      "progression": {
+        "1-2": "maitrise"
+      },
+      "page": 21,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "GEO-TER-138",
+      "champ": "Territoire agricole",
+      "section": "A. Connaissances liées à l’étude d’un territoire agricole national",
+      "chemin": [
+        "4. Enjeu présent dans un ou des territoires agricoles nationaux"
+      ],
+      "texte": "b. Indiquer des infrastructures mises en place sur le territoire agricole à l'étude (ex. : prolongement d’autoroutes, entrepôts industriels, centres sportifs et étalement urbain en Californie)",
+      "progression": {
+        "1-2": "maitrise"
+      },
+      "page": 21,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "GEO-TER-139",
+      "champ": "Territoire agricole",
+      "section": "A. Connaissances liées à l’étude d’un territoire agricole national",
+      "chemin": [
+        "4. Enjeu présent dans un ou des territoires agricoles nationaux"
+      ],
+      "texte": "c. Nommer des lois adoptées pour protéger la vocation agricole du territoire à l’étude et restreindre le développement d’activités non agricoles en milieu rural (ex. : Loi sur la protection du territoire et des activités agricoles au Québec; Farm Land Protection Policy Act en Californie)",
+      "progression": {
+        "1-2": "maitrise"
+      },
+      "page": 21,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "GEO-TER-140",
+      "champ": "Territoire agricole",
+      "section": "A. Connaissances liées à l’étude d’un territoire agricole national",
+      "chemin": [
+        "4. Enjeu présent dans un ou des territoires agricoles nationaux"
+      ],
+      "texte": "d. Indiquer des mesures mises en œuvre pour limiter les répercussions environnementales associées à des pratiques agricoles (ex. : adoption de lois pour régir des pratiques agricoles; délimitation de bandes riveraines; obligation de reboiser les berges)",
+      "progression": {
+        "1-2": "maitrise"
+      },
+      "page": 21,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "GEO-TER-141",
+      "champ": "Territoire agricole",
+      "section": "A. Connaissances liées à l’étude d’un territoire agricole national",
+      "chemin": [
+        "4. Enjeu présent dans un ou des territoires agricoles nationaux"
+      ],
+      "texte": "e. Énoncer des solutions apportées à des problèmes auxquels sont confrontés des agriculteurs sur le territoire à l’étude (ex. : au Québec, pour pallier la rareté de main-d’œuvre agricole, des programmes d’emploi ont été établis avec des ouvriers saisonniers en provenance du Mexique)",
+      "progression": {
+        "1-2": "maitrise"
+      },
+      "page": 21,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "GEO-TER-142",
+      "champ": "Territoire agricole",
+      "section": "A. Connaissances liées à l’étude d’un territoire agricole national",
+      "chemin": [
+        "4. Enjeu présent dans un ou des territoires agricoles nationaux"
+      ],
+      "texte": "f. Expliquer des conséquences de certaines pratiques agricoles sur l’équilibre alimentaire mondial (ex. : l’utilisation du maïs et du blé pour fabriquer des biocarburants entraîne des crises alimentaires et l’augmentation du prix de la farine dans le monde)",
+      "progression": {
+        "1-2": "maitrise"
+      },
+      "page": 21,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "GEO-TER-143",
+      "champ": "Territoire agricole",
+      "section": "B. Connaissances liées à l’étude d’un territoire agricole soumis à des risques naturels",
+      "chemin": [
+        "1. Localisation d’un territoire agricole soumis à des risques naturels"
+      ],
+      "texte": "a. Situer le territoire agricole à l’étude dans son continent et son pays",
+      "progression": {
+        "1-2": "maitrise"
+      },
+      "page": 22,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "GEO-TER-144",
+      "champ": "Territoire agricole",
+      "section": "B. Connaissances liées à l’étude d’un territoire agricole soumis à des risques naturels",
+      "chemin": [
+        "1. Localisation d’un territoire agricole soumis à des risques naturels"
+      ],
+      "texte": "b. Situer, sur une carte du monde, des territoires agricoles soumis à des risques naturels (ex. : le nord-est de l’Inde, le Sahel, la Prairie canadienne, le pourtour de la Méditerranée, le Bangladesh, les rives du Mékong)",
+      "progression": {
+        "1-2": "maitrise"
+      },
+      "page": 22,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "GEO-TER-145",
+      "champ": "Territoire agricole",
+      "section": "B. Connaissances liées à l’étude d’un territoire agricole soumis à des risques naturels",
+      "chemin": [
+        "2. Caractéristiques d’un territoire agricole soumis à des risques naturels"
+      ],
+      "texte": "a. Expliquer la relation entre la position en latitude du territoire agricole à l’étude et des éléments de son climat (ex. : l’aridité du Sahel est attribuable à sa position subsaharienne; les fortes précipitations au Bangladesh sont attribuables à sa position dans les tropiques)",
+      "progression": {
+        "1-2": "maitrise"
+      },
+      "page": 22,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "GEO-TER-146",
+      "champ": "Territoire agricole",
+      "section": "B. Connaissances liées à l’étude d’un territoire agricole soumis à des risques naturels",
+      "chemin": [
+        "2. Caractéristiques d’un territoire agricole soumis à des risques naturels"
+      ],
+      "texte": "b. Énumérer le ou les phénomènes naturels auxquels est soumis le territoire agricole à l’étude (ex. : inondations, cyclones et raz de marée au Bangladesh; désertification au Sahel; sécheresse dans la Prairie canadienne)",
+      "progression": {
+        "1-2": "maitrise"
+      },
+      "page": 22,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "GEO-TER-147",
+      "champ": "Territoire agricole",
+      "section": "B. Connaissances liées à l’étude d’un territoire agricole soumis à des risques naturels",
+      "chemin": [
+        "2. Caractéristiques d’un territoire agricole soumis à des risques naturels"
+      ],
+      "texte": "c. Expliquer des conséquences de certains phénomènes naturels pour le territoire agricole à l’étude (ex. : au Bangladesh, les inondations qui surviennent durant la mousson entraînent l’érosion des terres agricoles et la destruction de récoltes)",
+      "progression": {
+        "1-2": "maitrise"
+      },
+      "page": 22,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "GEO-TER-148",
+      "champ": "Territoire agricole",
+      "section": "B. Connaissances liées à l’étude d’un territoire agricole soumis à des risques naturels",
+      "chemin": [
+        "2. Caractéristiques d’un territoire agricole soumis à des risques naturels"
+      ],
+      "texte": "d. Indiquer des modes de culture ou d’élevage pratiqués sur le territoire agricole à l’étude (ex. : la culture intensive du riz à raison de plusieurs récoltes par année au Bangladesh; le déplacement de bétail à la recherche de pâturages et de points d’eau dans la partie nord du Sahel)",
+      "progression": {
+        "1-2": "maitrise"
+      },
+      "page": 22,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "GEO-TER-149",
+      "champ": "Territoire agricole",
+      "section": "B. Connaissances liées à l’étude d’un territoire agricole soumis à des risques naturels",
+      "chemin": [
+        "2. Caractéristiques d’un territoire agricole soumis à des risques naturels"
+      ],
+      "texte": "e. Indiquer comment un risque naturel peut devenir une catastrophe naturelle pour le territoire agricole à l’étude (ex. : au Bangladesh, des agriculteurs à la recherche de terres fertiles s’installent dans le delta du Gange malgré les risques élevés d’inondation; le passage des cyclones y entraîne régulièrement de lourdes pertes humaines et matérielles)",
+      "progression": {
+        "1-2": "maitrise"
+      },
+      "page": 22,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "GEO-TER-150",
+      "champ": "Territoire agricole",
+      "section": "B. Connaissances liées à l’étude d’un territoire agricole soumis à des risques naturels",
+      "chemin": [
+        "3. Aménagement d’un territoire agricole soumis à des risques naturels"
+      ],
+      "texte": "a. Indiquer des types d’installations agricoles sur le territoire à l’étude (ex. : au Bangladesh, bâtiments sur pilotis entourés de digues pour minimiser les dégâts lors d’inondations; dans la Prairie canadienne installation de puits et de réservoirs pour abreuver le bétail lors des sécheresses)",
+      "progression": {
+        "1-2": "maitrise"
+      },
+      "page": 22,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "GEO-TER-151",
+      "champ": "Territoire agricole",
+      "section": "B. Connaissances liées à l’étude d’un territoire agricole soumis à des risques naturels",
+      "chemin": [
+        "3. Aménagement d’un territoire agricole soumis à des risques naturels"
+      ],
+      "texte": "b. Indiquer le rôle des réseaux de transport présents sur le territoire agricole à l’étude (ex. : dans la Prairie canadienne, le camion sert à transporter les productions jusqu’au chemin de fer par lequel s’effectuent les exportations pour la mise en marché)",
+      "progression": {
+        "1-2": "maitrise"
+      },
+      "page": 22,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "GEO-TER-152",
+      "champ": "Territoire agricole",
+      "section": "B. Connaissances liées à l’étude d’un territoire agricole soumis à des risques naturels",
+      "chemin": [
+        "3. Aménagement d’un territoire agricole soumis à des risques naturels"
+      ],
+      "texte": "c. Expliquer des répercussions que peuvent avoir des aménagements qui accentuent les risques naturels pour le territoire agricole à l’étude (ex. : au Bangladesh, la coupe des mangroves pour aménager des bassins de culture de la crevette augmente les risques d’inondation; au Sahel, la multiplication des déplacements saisonniers du bétail à la recherche de pâturages contribue à accentuer la désertification du territoire)",
+      "progression": {
+        "1-2": "maitrise"
+      },
+      "page": 23,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "GEO-TER-153",
+      "champ": "Territoire agricole",
+      "section": "B. Connaissances liées à l’étude d’un territoire agricole soumis à des risques naturels",
+      "chemin": [
+        "3. Aménagement d’un territoire agricole soumis à des risques naturels"
+      ],
+      "texte": "d. Indiquer des moyens utilisés pour protéger le territoire agricole à l’étude d’un risque naturel (ex. : au Bangladesh, construction de digues et de barrages pour réguler le niveau des crues; dans la Prairie canadienne, plantations de lignes d’arbres, irrigation, recours à de nouvelles technologies)",
+      "progression": {
+        "1-2": "maitrise"
+      },
+      "page": 23,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "GEO-TER-154",
+      "champ": "Territoire agricole",
+      "section": "B. Connaissances liées à l’étude d’un territoire agricole soumis à des risques naturels",
+      "chemin": [
+        "4. Enjeu présent dans un ou des territoires agricoles à risques naturels"
+      ],
+      "texte": "a. Expliquer la relation entre des actions humaines et l’intensification d’un risque naturel sur le territoire agricole à l’étude (ex. : le déboisement accélère l’érosion lors d’inondations; la monoculture pratiquée à répétition sur les mêmes terres contribue à fragiliser les sols)",
+      "progression": {
+        "1-2": "maitrise"
+      },
+      "page": 23,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "GEO-TER-155",
+      "champ": "Territoire agricole",
+      "section": "B. Connaissances liées à l’étude d’un territoire agricole soumis à des risques naturels",
+      "chemin": [
+        "4. Enjeu présent dans un ou des territoires agricoles à risques naturels"
+      ],
+      "texte": "b. Expliquer la relation entre des actions humaines et la création d’un risque artificiel sur le territoire agricole à l’étude (ex. : dans la Prairie canadienne, l’emploi de pesticides et de fertilisants peut causer la pollution des cours d’eau; au Sahel, le creusage de puits pour abreuver les troupeaux, associé au surpâturage, a un effet sur l’épuisement des nappes phréatiques; au Bangladesh, la coupe des mangroves a fragilisé le littoral en réduisant la protection des berges contre les cyclones)",
+      "progression": {
+        "1-2": "maitrise"
+      },
+      "page": 23,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "GEO-TER-156",
+      "champ": "Territoire agricole",
+      "section": "B. Connaissances liées à l’étude d’un territoire agricole soumis à des risques naturels",
+      "chemin": [
+        "4. Enjeu présent dans un ou des territoires agricoles à risques naturels"
+      ],
+      "texte": "c. Énoncer des problèmes associés à la gestion de l’eau sur le territoire agricole à l’étude (ex. : érosion associée à une mauvaise technique d’irrigation dans la Prairie canadienne; abaissement du niveau des nappes phréatiques associé à une consommation excessive d’eau au Sahel)",
+      "progression": {
+        "1-2": "maitrise"
+      },
+      "page": 23,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "GEO-TER-157",
+      "champ": "Territoire agricole",
+      "section": "B. Connaissances liées à l’étude d’un territoire agricole soumis à des risques naturels",
+      "chemin": [
+        "4. Enjeu présent dans un ou des territoires agricoles à risques naturels"
+      ],
+      "texte": "d. Indiquer des mesures mises en œuvre pour réduire les problèmes associés à la gestion de l’eau sur le territoire agricole à l’étude (ex. : au Bangladesh, construction de digues pour pallier les inondations)",
+      "progression": {
+        "1-2": "maitrise"
+      },
+      "page": 23,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "GEO-TER-158",
+      "champ": "Territoire agricole",
+      "section": "B. Connaissances liées à l’étude d’un territoire agricole soumis à des risques naturels",
+      "chemin": [
+        "4. Enjeu présent dans un ou des territoires agricoles à risques naturels"
+      ],
+      "texte": "e. Énoncer des problèmes environnementaux associés aux pratiques agricoles sur des territoires soumis à des risques naturels (ex. : l’utilisation d’engrais et de pesticides entraîne la pollution des cours d’eau; la monoculture a un effet sur l’épuisement des sols et leur dégradation)",
+      "progression": {
+        "1-2": "maitrise"
+      },
+      "page": 23,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "GEO-TER-159",
+      "champ": "Territoire agricole",
+      "section": "B. Connaissances liées à l’étude d’un territoire agricole soumis à des risques naturels",
+      "chemin": [
+        "4. Enjeu présent dans un ou des territoires agricoles à risques naturels"
+      ],
+      "texte": "f. Énoncer des solutions adoptées pour réduire les problèmes environnementaux associés aux pratiques agricoles (ex. : règlements visant la protection des territoires agricoles; réduction de l’emploi de pesticides et de fertilisants)",
+      "progression": {
+        "1-2": "maitrise"
+      },
+      "page": 23,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "GEO-TER-160",
+      "champ": "Territoire autochtone",
+      "section": "Connaissances liées à l’étude d’un territoire autochtone",
+      "chemin": [
+        "1. Localisation d’un territoire autochtone"
+      ],
+      "texte": "a. Situer le territoire autochtone à l’étude dans son continent et son pays",
+      "progression": {
+        "1-2": "maitrise"
+      },
+      "page": 24,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "GEO-TER-161",
+      "champ": "Territoire autochtone",
+      "section": "Connaissances liées à l’étude d’un territoire autochtone",
+      "chemin": [
+        "1. Localisation d’un territoire autochtone"
+      ],
+      "texte": "b. Situer, sur une carte du monde, des territoires autochtones (ex. : le territoire aborigène en Australie, les territoires des Cris, des Naskapis et des Inuits au Canada, le Chiapas au Mexique)",
+      "progression": {
+        "1-2": "maitrise"
+      },
+      "page": 24,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "GEO-TER-162",
+      "champ": "Territoire autochtone",
+      "section": "Connaissances liées à l’étude d’un territoire autochtone",
+      "chemin": [
+        "2. Caractéristiques d’un territoire autochtone"
+      ],
+      "texte": "a. Indiquer des critères établis par l’Organisation des Nations Unies qui permettent de caractériser un peuple autochtone (ex. : descendants de peuples qui existaient sur un territoire avant l’arrivée de peuples colonisateurs)",
+      "progression": {
+        "1-2": "maitrise"
+      },
+      "page": 24,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "GEO-TER-163",
+      "champ": "Territoire autochtone",
+      "section": "Connaissances liées à l’étude d’un territoire autochtone",
+      "chemin": [
+        "2. Caractéristiques d’un territoire autochtone"
+      ],
+      "texte": "b. Nommer des éléments de la culture du peuple autochtone à l’étude qui occupe le territoire (ex. : langue inuktitut, inukshuk, parka au Nunavut)",
+      "progression": {
+        "1-2": "maitrise"
+      },
+      "page": 24,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "GEO-TER-164",
+      "champ": "Territoire autochtone",
+      "section": "Connaissances liées à l’étude d’un territoire autochtone",
+      "chemin": [
+        "2. Caractéristiques d’un territoire autochtone"
+      ],
+      "texte": "c. Nommer des droits ancestraux reconnus aux Autochtones du territoire à l’étude (ex. : droit de chasse, de pêche, d’exploitation des ressources pour les Cris)",
+      "progression": {
+        "1-2": "maitrise"
+      },
+      "page": 24,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "GEO-TER-165",
+      "champ": "Territoire autochtone",
+      "section": "Connaissances liées à l’étude d’un territoire autochtone",
+      "chemin": [
+        "2. Caractéristiques d’un territoire autochtone"
+      ],
+      "texte": "d. Nommer les conventions établies entre les Autochtones et le gouvernement du Québec (ex. : Convention du Nord-Est québécois avec les Naskapis; Convention de la Baie-James et du Nord québécois avec les Cris)",
+      "progression": {
+        "1-2": "maitrise"
+      },
+      "page": 24,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "GEO-TER-166",
+      "champ": "Territoire autochtone",
+      "section": "Connaissances liées à l’étude d’un territoire autochtone",
+      "chemin": [
+        "2. Caractéristiques d’un territoire autochtone"
+      ],
+      "texte": "e. Nommer différentes institutions qui régissent le territoire autochtone à l’étude (ex. : conseil de bande, chef, conseillers chez les Naskapis)",
+      "progression": {
+        "1-2": "maitrise"
+      },
+      "page": 24,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "GEO-TER-167",
+      "champ": "Territoire autochtone",
+      "section": "Connaissances liées à l’étude d’un territoire autochtone",
+      "chemin": [
+        "2. Caractéristiques d’un territoire autochtone"
+      ],
+      "texte": "f. Énumérer des activités liées au mode de vie traditionnel des Autochtones du territoire à l’étude (ex. : chasse, pêche, piégeage au Nunavut)",
+      "progression": {
+        "1-2": "maitrise"
+      },
+      "page": 24,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "GEO-TER-168",
+      "champ": "Territoire autochtone",
+      "section": "Connaissances liées à l’étude d’un territoire autochtone",
+      "chemin": [
+        "2. Caractéristiques d’un territoire autochtone"
+      ],
+      "texte": "g. Nommer des activités liées au mode de vie actuel sur le territoire autochtone à l’étude (ex. : chantiers hydroélectriques, forestiers et miniers, tourisme, transport chez les Cris)",
+      "progression": {
+        "1-2": "maitrise"
+      },
+      "page": 24,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "GEO-TER-169",
+      "champ": "Territoire autochtone",
+      "section": "Connaissances liées à l’étude d’un territoire autochtone",
+      "chemin": [
+        "3. Aménagement d’un territoire autochtone"
+      ],
+      "texte": "a. Énumérer des caractéristiques de l’organisation du territoire autochtone à l’étude (ex. : dispersion des villages et installations aéroportuaires dans tous les villages au Nunavut)",
+      "progression": {
+        "1-2": "maitrise"
+      },
+      "page": 24,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "GEO-TER-170",
+      "champ": "Territoire autochtone",
+      "section": "Connaissances liées à l’étude d’un territoire autochtone",
+      "chemin": [
+        "3. Aménagement d’un territoire autochtone"
+      ],
+      "texte": "b. Indiquer des infrastructures de transport mises en place sur le territoire autochtone à l’étude (ex. : réseau ferroviaire chez les Naskapis; ports et aéroports au Nunavut)",
+      "progression": {
+        "1-2": "maitrise"
+      },
+      "page": 24,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "GEO-TER-171",
+      "champ": "Territoire autochtone",
+      "section": "Connaissances liées à l’étude d’un territoire autochtone",
+      "chemin": [
+        "3. Aménagement d’un territoire autochtone"
+      ],
+      "texte": "c. Indiquer des infrastructures mises en place par les Autochtones sur le territoire à l’étude (ex. : chez les Cris, création de villages et d’installations récréotouristiques)",
+      "progression": {
+        "1-2": "maitrise"
+      },
+      "page": 24,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "GEO-TER-172",
+      "champ": "Territoire autochtone",
+      "section": "Connaissances liées à l’étude d’un territoire autochtone",
+      "chemin": [
+        "3. Aménagement d’un territoire autochtone"
+      ],
+      "texte": "d. Indiquer des contraintes d’aménagement associées à la nordicité du territoire autochtone à l’étude (ex. : le sol gelé en permanence rend difficile le développement de réseaux d’aqueducs et d’égouts au Nunavut)",
+      "progression": {
+        "1-2": "maitrise"
+      },
+      "page": 24,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "GEO-TER-173",
+      "champ": "Territoire autochtone",
+      "section": "Connaissances liées à l’étude d’un territoire autochtone",
+      "chemin": [
+        "4. Enjeu présent dans un ou des territoires autochtones"
+      ],
+      "texte": "a. Nommer des partenaires avec lesquels les Autochtones partagent leur territoire (ex. : gouvernements fédéral ou provincial, compagnies d’exploitation de ressources naturelles)",
+      "progression": {
+        "1-2": "maitrise"
+      },
+      "page": 25,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "GEO-TER-174",
+      "champ": "Territoire autochtone",
+      "section": "Connaissances liées à l’étude d’un territoire autochtone",
+      "chemin": [
+        "4. Enjeu présent dans un ou des territoires autochtones"
+      ],
+      "texte": "b. Indiquer des actions humaines qui ont eu des répercussions sur le territoire autochtone à l’étude (ex. : création de lacs de rétention qui ont perturbé le milieu, la faune et la flore chez les Cris)",
+      "progression": {
+        "1-2": "maitrise"
+      },
+      "page": 25,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "GEO-TER-175",
+      "champ": "Territoire autochtone",
+      "section": "Connaissances liées à l’étude d’un territoire autochtone",
+      "chemin": [
+        "4. Enjeu présent dans un ou des territoires autochtones"
+      ],
+      "texte": "c. Expliquer des répercussions de mesures mises en place pour protéger les territoires autochtones à l’étude (ex. : depuis la signature de la Convention de la Baie-James et du Nord québécois en 1975, les Cris ont un pouvoir décisionnel sur leur territoire, notamment pour l’exploitation des ressources et la sauvegarde de leur mode de vie)",
+      "progression": {
+        "1-2": "maitrise"
+      },
+      "page": 25,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "GEO-TER-176",
+      "champ": "Territoire autochtone",
+      "section": "Connaissances liées à l’étude d’un territoire autochtone",
+      "chemin": [
+        "4. Enjeu présent dans un ou des territoires autochtones"
+      ],
+      "texte": "d. Nommer des revendications de peuples autochtones n’ayant pas encore établi de convention avec les gouvernements (ex. : revendications d’ordre territorial, économique, culturel)",
+      "progression": {
+        "1-2": "maitrise"
+      },
+      "page": 25,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "GEO-TER-177",
+      "champ": "Territoire autochtone",
+      "section": "Connaissances liées à l’étude d’un territoire autochtone",
+      "chemin": [
+        "4. Enjeu présent dans un ou des territoires autochtones"
+      ],
+      "texte": "e. Nommer des instances auprès desquelles les peuples autochtones du monde font valoir leurs revendications (ex. : les gouvernements nationaux, l’Organisation des Nations Unies)",
+      "progression": {
+        "1-2": "maitrise"
+      },
+      "page": 25,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "GEO-TER-178",
+      "champ": "Territoire protégé",
+      "section": "Connaissances liées à l’étude d’un territoire protégé",
+      "chemin": [
+        "1. Localisation d’un parc naturel"
+      ],
+      "texte": "a. Situer le parc naturel à l’étude dans son continent et son pays",
+      "progression": {
+        "1-2": "maitrise"
+      },
+      "page": 26,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "GEO-TER-179",
+      "champ": "Territoire protégé",
+      "section": "Connaissances liées à l’étude d’un territoire protégé",
+      "chemin": [
+        "1. Localisation d’un parc naturel"
+      ],
+      "texte": "b. Situer, sur une carte du monde, des parcs naturels protégés (ex. : les parcs nationaux de Forillon et de Banff au Canada, le parc national et la réserve marine des îles Galapagos en Équateur, le sanctuaire de baleines d’El Vizcaino au Mexique, le parc national de Sagarmatha au Népal, le parc national du Serengeti en Tanzanie, la Chaussée des Géants en Irlande, le parc national Yellowstone aux États-Unis)",
+      "progression": {
+        "1-2": "maitrise"
+      },
+      "page": 26,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "GEO-TER-180",
+      "champ": "Territoire protégé",
+      "section": "Connaissances liées à l’étude d’un territoire protégé",
+      "chemin": [
+        "2. Caractéristiques d’un parc naturel"
+      ],
+      "texte": "a. Énumérer des éléments du patrimoine naturel présents dans le parc à l’étude (ex. : la faune, la flore, les milieux humides, les glaciers au parc national de Banff)",
+      "progression": {
+        "1-2": "maitrise"
+      },
+      "page": 26,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "GEO-TER-181",
+      "champ": "Territoire protégé",
+      "section": "Connaissances liées à l’étude d’un territoire protégé",
+      "chemin": [
+        "2. Caractéristiques d’un parc naturel"
+      ],
+      "texte": "b. Indiquer les raisons qui ont conduit à la création du parc naturel à l’étude (ex. : la protection d’espèces menacées, au parc national et la réserve marine des îles Galapagos; la protection de phénomènes naturels comme les glaciers, au parc national de Banff; la protection des zones de nidification, au parc national de l’Île-Bonaventure-et-du-Rocher-Percé)",
+      "progression": {
+        "1-2": "maitrise"
+      },
+      "page": 26,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "GEO-TER-182",
+      "champ": "Territoire protégé",
+      "section": "Connaissances liées à l’étude d’un territoire protégé",
+      "chemin": [
+        "2. Caractéristiques d’un parc naturel"
+      ],
+      "texte": "c. Énumérer des activités récréatives autorisées dans le parc naturel à l’étude (ex. : randonnée, écotourisme, observation d’animaux au parc national de Forillon)",
+      "progression": {
+        "1-2": "maitrise"
+      },
+      "page": 26,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "GEO-TER-183",
+      "champ": "Territoire protégé",
+      "section": "Connaissances liées à l’étude d’un territoire protégé",
+      "chemin": [
+        "2. Caractéristiques d’un parc naturel"
+      ],
+      "texte": "d. Indiquer des règles de protection à respecter dans le parc naturel à l’étude (ex. : respect des sentiers balisés, de la flore, des zones interdites au parc national de Banff)",
+      "progression": {
+        "1-2": "maitrise"
+      },
+      "page": 26,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "GEO-TER-184",
+      "champ": "Territoire protégé",
+      "section": "Connaissances liées à l’étude d’un territoire protégé",
+      "chemin": [
+        "2. Caractéristiques d’un parc naturel"
+      ],
+      "texte": "e. Expliquer les retombées économiques d’un parc naturel à l’étude pour la région environnante (ex. : l’ouverture au public du parc naturel de Banff nécessite l’embauche de main-d’œuvre qui, à son tour, entraîne la mise en œuvre de services qui génèrent des emplois)",
+      "progression": {
+        "1-2": "maitrise"
+      },
+      "page": 26,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "GEO-TER-185",
+      "champ": "Territoire protégé",
+      "section": "Connaissances liées à l’étude d’un territoire protégé",
+      "chemin": [
+        "3. Aménagement d’un parc naturel"
+      ],
+      "texte": "a. Nommer différentes zones du parc naturel à l’étude (ex. : au parc national et à la réserve marine des îles Galapagos, zones de préservation, zones de milieux sauvages et naturels, zones d’activités récréatives)",
+      "progression": {
+        "1-2": "maitrise"
+      },
+      "page": 26,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "GEO-TER-186",
+      "champ": "Territoire protégé",
+      "section": "Connaissances liées à l’étude d’un territoire protégé",
+      "chemin": [
+        "3. Aménagement d’un parc naturel"
+      ],
+      "texte": "b. Indiquer des mesures mises en œuvre pour protéger le parc naturel à l’étude (ex. : dans la réserve du parc national de l’Archipel-de-Mingan, accès restreint à certaines zones, sentiers balisés, limitation du nombre de visiteurs)",
+      "progression": {
+        "1-2": "maitrise"
+      },
+      "page": 26,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "GEO-TER-187",
+      "champ": "Territoire protégé",
+      "section": "Connaissances liées à l’étude d’un territoire protégé",
+      "chemin": [
+        "3. Aménagement d’un parc naturel"
+      ],
+      "texte": "c. Indiquer des infrastructures mises en place dans le parc naturel à l’étude (ex. : au parc national de l’Île-Bonaventure-et-du-Rocher-Percé, poste d’accueil de visiteurs, sentiers balisés et quais)",
+      "progression": {
+        "1-2": "maitrise"
+      },
+      "page": 26,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "GEO-TER-188",
+      "champ": "Territoire protégé",
+      "section": "Connaissances liées à l’étude d’un territoire protégé",
+      "chemin": [
+        "3. Aménagement d’un parc naturel"
+      ],
+      "texte": "a. Expliquer l’obligation de concilier protection du milieu naturel et activités récréatives dans les parcs naturels (ex. : les écosystèmes protégés par les parcs naturels sont fragiles et les activités récréatives réservées aux visiteurs doivent être encadrées pour éviter la perturbation de ces milieux)",
+      "progression": {
+        "1-2": "maitrise"
+      },
+      "page": 27,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "GEO-TER-189",
+      "champ": "Territoire protégé",
+      "section": "Connaissances liées à l’étude d’un territoire protégé",
+      "chemin": [
+        "3. Aménagement d’un parc naturel"
+      ],
+      "texte": "b. Expliquer des répercussions associées à la fréquentation du parc naturel à l’étude (ex. : au parc marin du Saguenay−Saint-Laurent, les visiteurs qui ne respectent pas les règlements peuvent perturber l’équilibre de la faune et de la flore)",
+      "progression": {
+        "1-2": "maitrise"
+      },
+      "page": 27,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "GEO-TER-190",
+      "champ": "Territoire protégé",
+      "section": "Connaissances liées à l’étude d’un territoire protégé",
+      "chemin": [
+        "3. Aménagement d’un parc naturel"
+      ],
+      "texte": "c. Indiquer des menaces naturelles qui peuvent peser sur un parc protégé (ex. : incendies de forêt, érosion, inondation)",
+      "progression": {
+        "1-2": "maitrise"
+      },
+      "page": 27,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "GEO-TER-191",
+      "champ": "Territoire protégé",
+      "section": "Connaissances liées à l’étude d’un territoire protégé",
+      "chemin": [
+        "3. Aménagement d’un parc naturel"
+      ],
+      "texte": "d. Indiquer des menaces liées aux activités humaines qui peuvent peser sur un parc protégé (ex. : construction de routes, exploitation de ressources naturelles, braconnage)",
+      "progression": {
+        "1-2": "maitrise"
+      },
+      "page": 27,
+      "a_verifier": false,
+      "note": ""
+    },
+    {
+      "id": "GEO-TER-192",
+      "champ": "Territoire protégé",
+      "section": "Connaissances liées à l’étude d’un territoire protégé",
+      "chemin": [
+        "3. Aménagement d’un parc naturel"
+      ],
+      "texte": "e. Indiquer des critères établis par l’UNESCO pour inscrire des parcs naturels sur la Liste du patrimoine mondial de l’UNESCO (ex. : le parc est un exemple remarquable de l’évolution de la Terre ou un exemple de l’évolution biologique)",
+      "progression": {
+        "1-2": "maitrise"
+      },
+      "page": 27,
+      "a_verifier": false,
+      "note": ""
+    }
+  ]
+}

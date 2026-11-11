@@ -31,6 +31,11 @@ La tentative de Gemini (`gemini/resultats/inventaire-pfeq-gemini-OBSOLETE.csv`) 
 | `pda-st-ste-secondaire.json` | Science et technologie (ST) et Science et technologie de l’environnement (STE) : 611 savoirs, 6 univers ou parties ; colonnes `1`, `2`, `3`, `4` (ST) et `4-STE` ; `losange` : énoncé propre au programme obligatoire (73) ; stratégies `abordee_au_primaire` (lettre P) |
 | `pda-ats-se-secondaire.json` | Applications technologiques et scientifiques (ATS) et Science et environnement (SE) : 558 savoirs ; colonnes `1` à `4` (ATS) et `4-SE` ; 41 losanges |
 | `pda-chi-secondaire.json`, `pda-phy-secondaire.json` | Chimie (145 savoirs) et physique (134), programmes optionnels de 5e : colonnes `ATS-3`, `ATS-SE-4`, `ST-3`, `ST-STE-4`, puis `CHI-5` ou `PHY-5` ; `rappel` : énoncé non numéroté, déjà vu en 3e ou en 4e, avec sa `rubrique` ; stratégies : colonne `1er-cycle` en plus |
+| `pda-geo-secondaire.json` | Géographie, 1er cycle : 192 savoirs, 5 territoires ; une seule colonne `1-2` (« 1re ou 2e », au choix de l'école) |
+| `pda-hec-secondaire.json` | Histoire et éducation à la citoyenneté, 1er cycle : 273 savoirs, 12 réalités sociales ; colonnes `1` et `2` ; sous-tableaux « Révolution américaine / française » relus par zones |
+| `precision-gcu-secondaire.json` | Géographie culturelle : 366 énoncés, 6 aires culturelles (Précision des apprentissages : listes, sans progression par année) |
+| `precision-h20-secondaire.json` | Histoire du 20e siècle : 123 énoncés, 4 réalités sociales |
+| `precision-mc4-secondaire.json`, `precision-mc2-secondaire.json` | Monde contemporain, 5e : 197 énoncés, 5 thèmes (4 unités) ; 124 énoncés, 3 thèmes (2 unités, sous-ensemble exact de la version à 4 unités) |
 | `cadre-fra-primaire.json` | Compétences, critères, pondérations par cycle |
 | `cadre-mat-primaire.json` | Compétences, critères, pondérations par cycle |
 | `programme-hqc-secondaire.json` | Histoire du Québec et du Canada, 3e et 4e secondaire : 8 périodes, concepts, texte officiel de la réalité sociale, 103 thèmes et 427 éléments de connaissances, critères et 7 opérations intellectuelles du cadre (`outils/extraire_hqc.py`) |
@@ -40,7 +45,7 @@ La tentative de Gemini (`gemini/resultats/inventaire-pfeq-gemini-OBSOLETE.csv`) 
 | Ordre | Validées (contrôle de logique sans erreur ou cas conformes au document) | À adapter |
 |---|---|---|
 | Primaire | Français, mathématique, science et technologie, univers social, éducation physique, art dramatique, arts plastiques, danse, musique | Anglais, langue seconde (colonne de catégories en plus, pages à image) ; Culture et citoyenneté québécoise (progression par cycle, crochets) |
-| Secondaire | Art dramatique, arts plastiques, danse, éducation physique, musique, français langue seconde (base et enrichi), intégration linguistique, mathématique, sciences (ST, STE, ATS, SE), chimie, physique | Français (pages à image), univers social (géographie, histoire, monde contemporain, etc.), anglais, CCQ, espagnol |
+| Secondaire | Art dramatique, arts plastiques, danse, éducation physique, musique, français langue seconde (base et enrichi), intégration linguistique, mathématique, sciences (ST, STE, ATS, SE), chimie, physique, univers social (géographie, histoire et éducation à la citoyenneté, géographie culturelle, histoire du 20e siècle, monde contemporain) | Français (pages à image), anglais, CCQ, espagnol |
 
 Progression : `apprentissage` (flèche), `maitrise` (étoile), `reinvestissement` (case bleue), `null` (vide).
 
@@ -72,6 +77,14 @@ python3 -I outils/extraire_pda_sciences_sec.py PDA-ATS.pdf ATS SE donnees/pda-at
 ```
 
 Tirets des sous-énoncés et losanges lus par pixels eux aussi ; la dernière colonne (STE ou SE), plus large, va jusqu'au bord du tableau. Contrôle de logique : aucun écart.
+
+Univers social : PDA à une ou deux colonnes au 1er cycle, et « Précision des apprentissages » (listes sans progression) au 2e cycle :
+
+```bash
+python3 -I outils/extraire_pda_us_sec.py PDA-geographie.pdf GEO donnees/pda-geo-secondaire.json
+python3 -I outils/extraire_pda_us_sec.py PDA-histoire.pdf HEC donnees/pda-hec-secondaire.json
+python3 -I outils/extraire_precisions_us.py Precision.pdf MC4 "Monde contemporain (4 unités)" 5e donnees/precision-mc4-secondaire.json
+```
 
 Chimie et physique (colonnes de largeurs inégales, colonne « 1er cycle » en plus dans les stratégies, repérée d'après l'en-tête CHI ou PHY) :
 
