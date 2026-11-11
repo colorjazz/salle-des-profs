@@ -1993,7 +1993,9 @@
       "id": "MAT-ALG-001",
       "champ": "Algèbre",
       "section": "Sens et manipulation des expressions algébriques",
-      "chemin": [],
+      "chemin": [
+        "A. Expressions algébriques"
+      ],
       "texte": "1. Décrire, dans ses mots et à l’aide du langage mathématique, des régularités numériques",
       "prioritaire": false,
       "progression": {
@@ -2012,7 +2014,9 @@
       "id": "MAT-ALG-002",
       "champ": "Algèbre",
       "section": "Sens et manipulation des expressions algébriques",
-      "chemin": [],
+      "chemin": [
+        "A. Expressions algébriques"
+      ],
       "texte": "2. Décrire, dans ses mots et à l’aide du langage mathématique, des suites de nombres et famille d’opérations",
       "prioritaire": false,
       "progression": {
@@ -2031,7 +2035,9 @@
       "id": "MAT-ALG-003",
       "champ": "Algèbre",
       "section": "Sens et manipulation des expressions algébriques",
-      "chemin": [],
+      "chemin": [
+        "A. Expressions algébriques"
+      ],
       "texte": "3. Ajouter de nouveaux termes à une suite dont au moins les trois premiers termes sont donnés",
       "prioritaire": false,
       "progression": {
@@ -2051,6 +2057,7 @@
       "champ": "Algèbre",
       "section": "Sens et manipulation des expressions algébriques",
       "chemin": [
+        "A. Expressions algébriques",
         "4. Décrire le rôle des composantes des expressions algébriques :"
       ],
       "texte": "a. inconnue",
@@ -2073,6 +2080,7 @@
       "champ": "Algèbre",
       "section": "Sens et manipulation des expressions algébriques",
       "chemin": [
+        "A. Expressions algébriques",
         "4. Décrire le rôle des composantes des expressions algébriques :"
       ],
       "texte": "b. variable, constante",
@@ -2094,6 +2102,7 @@
       "champ": "Algèbre",
       "section": "Sens et manipulation des expressions algébriques",
       "chemin": [
+        "A. Expressions algébriques",
         "4. Décrire le rôle des composantes des expressions algébriques :"
       ],
       "texte": "c. paramètre",
@@ -2124,6 +2133,7 @@
       "champ": "Algèbre",
       "section": "Sens et manipulation des expressions algébriques",
       "chemin": [
+        "A. Expressions algébriques",
         "4. Décrire le rôle des composantes des expressions algébriques :"
       ],
       "texte": "d. coefficient, degré, terme, terme constant, termes semblables",
@@ -2144,7 +2154,9 @@
       "id": "MAT-ALG-008",
       "champ": "Algèbre",
       "section": "Sens et manipulation des expressions algébriques",
-      "chemin": [],
+      "chemin": [
+        "A. Expressions algébriques"
+      ],
       "texte": "5. Construire une expression algébrique à partir d’un registre (mode) de représentation",
       "prioritaire": false,
       "progression": {
@@ -2163,7 +2175,9 @@
       "id": "MAT-ALG-009",
       "champ": "Algèbre",
       "section": "Sens et manipulation des expressions algébriques",
-      "chemin": [],
+      "chemin": [
+        "A. Expressions algébriques"
+      ],
       "texte": "6. Interpréter une expression algébrique selon le contexte",
       "prioritaire": false,
       "progression": {
@@ -2182,7 +2196,9 @@
       "id": "MAT-ALG-010",
       "champ": "Algèbre",
       "section": "Sens et manipulation des expressions algébriques",
-      "chemin": [],
+      "chemin": [
+        "A. Expressions algébriques"
+      ],
       "texte": "7. Reconnaître ou construire des expressions algébriques équivalentes",
       "prioritaire": false,
       "progression": {
@@ -2202,6 +2218,7 @@
       "champ": "Algèbre",
       "section": "Sens et manipulation des expressions algébriques",
       "chemin": [
+        "A. Expressions algébriques",
         "8. Reconnaître ou construire"
       ],
       "texte": "a. des égalités et des équations",
@@ -2223,6 +2240,7 @@
       "champ": "Algèbre",
       "section": "Sens et manipulation des expressions algébriques",
       "chemin": [
+        "A. Expressions algébriques",
         "8. Reconnaître ou construire"
       ],
       "texte": "b. des inégalités et des inéquations",
@@ -3633,7 +3651,9 @@
       "id": "MAT-ALG-069",
       "champ": "Algèbre",
       "section": "Sens des liens de dépendance",
-      "chemin": [],
+      "chemin": [
+        "A. Relations, fonctions et réciproques"
+      ],
       "texte": "1. Dégager des régularités dans des situations diverses et représentées de différentes façons",
       "prioritaire": false,
       "progression": {
@@ -3652,7 +3672,9 @@
       "id": "MAT-ALG-070",
       "champ": "Algèbre",
       "section": "Sens des liens de dépendance",
-      "chemin": [],
+      "chemin": [
+        "A. Relations, fonctions et réciproques"
+      ],
       "texte": "2. Analyser des situations à l’aide de différents registres (modes) de représentation",
       "prioritaire": false,
       "progression": {
@@ -3671,7 +3693,9 @@
       "id": "MAT-ALG-071",
       "champ": "Algèbre",
       "section": "Sens des liens de dépendance",
-      "chemin": [],
+      "chemin": [
+        "A. Relations, fonctions et réciproques"
+      ],
       "texte": "3. Représenter globalement une situation par un graphique",
       "prioritaire": false,
       "progression": {
@@ -3690,7 +3714,9 @@
       "id": "MAT-ALG-072",
       "champ": "Algèbre",
       "section": "Sens des liens de dépendance",
-      "chemin": [],
+      "chemin": [
+        "A. Relations, fonctions et réciproques"
+      ],
       "texte": "4. Choisir la variable dépendante et la variable indépendante",
       "prioritaire": false,
       "progression": {
@@ -3709,7 +3735,9 @@
       "id": "MAT-ALG-073",
       "champ": "Algèbre",
       "section": "Sens des liens de dépendance",
-      "chemin": [],
+      "chemin": [
+        "A. Relations, fonctions et réciproques"
+      ],
       "texte": "5. Reconnaître des relations, des fonctions et des réciproques",
       "prioritaire": false,
       "progression": {
@@ -3729,6 +3757,7 @@
       "champ": "Algèbre",
       "section": "Sens des liens de dépendance",
       "chemin": [
+        "A. Relations, fonctions et réciproques",
         "6. Décrire, dans les fonctions à l’étude, le rôle"
       ],
       "texte": "a. des paramètres multiplicatifs",
@@ -3758,6 +3787,7 @@
       "champ": "Algèbre",
       "section": "Sens des liens de dépendance",
       "chemin": [
+        "A. Relations, fonctions et réciproques",
         "6. Décrire, dans les fonctions à l’étude, le rôle"
       ],
       "texte": "b. des paramètres additifs",
@@ -3786,7 +3816,9 @@
       "id": "MAT-ALG-076",
       "champ": "Algèbre",
       "section": "Sens des liens de dépendance",
-      "chemin": [],
+      "chemin": [
+        "A. Relations, fonctions et réciproques"
+      ],
       "texte": "7. Effectuer des opérations sur les fonctions (y compris la composition)",
       "prioritaire": false,
       "progression": {
@@ -4445,7 +4477,9 @@
       "id": "MAT-PRO-001",
       "champ": "Probabilités",
       "section": "Sens des données issues d’expériences aléatoires",
-      "chemin": [],
+      "chemin": [
+        "A. Traitement de données tirées d’expériences aléatoires"
+      ],
       "texte": "1. Simuler des expériences aléatoires avec ou sans outils technologiques",
       "prioritaire": false,
       "progression": {
@@ -4464,7 +4498,9 @@
       "id": "MAT-PRO-002",
       "champ": "Probabilités",
       "section": "Sens des données issues d’expériences aléatoires",
-      "chemin": [],
+      "chemin": [
+        "A. Traitement de données tirées d’expériences aléatoires"
+      ],
       "texte": "2. Expérimenter des activités liées au hasard en utilisant du matériel varié (ex. : roulettes, prismes à base rectangulaire, verres, billes, punaises, dés à 6, 8 ou 12 faces)",
       "prioritaire": false,
       "progression": {
@@ -4484,6 +4520,7 @@
       "champ": "Probabilités",
       "section": "Sens des données issues d’expériences aléatoires",
       "chemin": [
+        "A. Traitement de données tirées d’expériences aléatoires",
         "3. Dans des activités liées au hasard,"
       ],
       "texte": "a. reconnaître, s’il y a lieu, la variabilité des résultats possibles (incertitude)",
@@ -4505,6 +4542,7 @@
       "champ": "Probabilités",
       "section": "Sens des données issues d’expériences aléatoires",
       "chemin": [
+        "A. Traitement de données tirées d’expériences aléatoires",
         "3. Dans des activités liées au hasard,"
       ],
       "texte": "b. reconnaître l’équiprobabilité lorsqu’elle s’applique (ex. : quantité d’objets, symétrie d’un objet tel un cube)",
@@ -4526,6 +4564,7 @@
       "champ": "Probabilités",
       "section": "Sens des données issues d’expériences aléatoires",
       "chemin": [
+        "A. Traitement de données tirées d’expériences aléatoires",
         "3. Dans des activités liées au hasard,"
       ],
       "texte": "c. prendre conscience, s’il y a lieu, de l’indépendance entre les tours (ex. : lancers, piges)",
@@ -4546,7 +4585,9 @@
       "id": "MAT-PRO-006",
       "champ": "Probabilités",
       "section": "Sens des données issues d’expériences aléatoires",
-      "chemin": [],
+      "chemin": [
+        "A. Traitement de données tirées d’expériences aléatoires"
+      ],
       "texte": "4. Utiliser des tableaux ou des diagrammes pour colliger et mettre en évidence les résultats d’une expérimentation",
       "prioritaire": false,
       "progression": {
@@ -4565,7 +4606,9 @@
       "id": "MAT-PRO-007",
       "champ": "Probabilités",
       "section": "Sens des données issues d’expériences aléatoires",
-      "chemin": [],
+      "chemin": [
+        "A. Traitement de données tirées d’expériences aléatoires"
+      ],
       "texte": "5. Comparer les résultats d’une expérience aléatoire aux résultats théoriques connus",
       "prioritaire": false,
       "progression": {
@@ -4584,7 +4627,9 @@
       "id": "MAT-PRO-008",
       "champ": "Probabilités",
       "section": "Sens des données issues d’expériences aléatoires",
-      "chemin": [],
+      "chemin": [
+        "A. Traitement de données tirées d’expériences aléatoires"
+      ],
       "texte": "6. Distinguer la prédiction du résultat obtenu",
       "prioritaire": false,
       "progression": {
@@ -4603,7 +4648,9 @@
       "id": "MAT-PRO-009",
       "champ": "Probabilités",
       "section": "Sens des données issues d’expériences aléatoires",
-      "chemin": [],
+      "chemin": [
+        "A. Traitement de données tirées d’expériences aléatoires"
+      ],
       "texte": "7. Réaliser ou simuler des expériences aléatoires à une ou plusieurs étapes (avec ou sans remise, avec ou sans ordre)",
       "prioritaire": false,
       "progression": {
@@ -4622,7 +4669,9 @@
       "id": "MAT-PRO-010",
       "champ": "Probabilités",
       "section": "Sens des données issues d’expériences aléatoires",
-      "chemin": [],
+      "chemin": [
+        "A. Traitement de données tirées d’expériences aléatoires"
+      ],
       "texte": "8. Reconnaître le type de variable aléatoire : discret ou continu",
       "prioritaire": false,
       "progression": {
@@ -4642,6 +4691,7 @@
       "champ": "Probabilités",
       "section": "Sens des données issues d’expériences aléatoires",
       "chemin": [
+        "A. Traitement de données tirées d’expériences aléatoires",
         "9. Dénombrer les résultats possibles d’une expérience aléatoire à l’aide de"
       ],
       "texte": "a. tableaux, diagrammes en arbre",
@@ -4671,6 +4721,7 @@
       "champ": "Probabilités",
       "section": "Sens des données issues d’expériences aléatoires",
       "chemin": [
+        "A. Traitement de données tirées d’expériences aléatoires",
         "9. Dénombrer les résultats possibles d’une expérience aléatoire à l’aide de"
       ],
       "texte": "b. réseaux, grilles, schémas, diagrammes de Venn",
@@ -4701,6 +4752,7 @@
       "champ": "Probabilités",
       "section": "Sens des données issues d’expériences aléatoires",
       "chemin": [
+        "A. Traitement de données tirées d’expériences aléatoires",
         "9. Dénombrer les résultats possibles d’une expérience aléatoire à l’aide de"
       ],
       "texte": "c. figures géométriques",
@@ -4729,7 +4781,9 @@
       "id": "MAT-PRO-014",
       "champ": "Probabilités",
       "section": "Sens des données issues d’expériences aléatoires",
-      "chemin": [],
+      "chemin": [
+        "A. Traitement de données tirées d’expériences aléatoires"
+      ],
       "texte": "10. Définir l’univers des possibles d’une expérience aléatoire",
       "prioritaire": false,
       "progression": {
@@ -4756,7 +4810,9 @@
       "id": "MAT-PRO-015",
       "champ": "Probabilités",
       "section": "Sens des données issues d’expériences aléatoires",
-      "chemin": [],
+      "chemin": [
+        "A. Traitement de données tirées d’expériences aléatoires"
+      ],
       "texte": "11. Reconnaître des événements certains, probables, impossibles, élémentaires, complémentaires, compatibles, incompatibles, dépendants, indépendants",
       "prioritaire": false,
       "progression": {
@@ -4783,7 +4839,9 @@
       "id": "MAT-PRO-016",
       "champ": "Probabilités",
       "section": "Sens des données issues d’expériences aléatoires",
-      "chemin": [],
+      "chemin": [
+        "A. Traitement de données tirées d’expériences aléatoires"
+      ],
       "texte": "12. Distinguer des événements mutuellement exclusifs des événements non mutuellement exclusifs ainsi que des événements dépendants des événements indépendants",
       "prioritaire": false,
       "progression": {
@@ -4810,7 +4868,9 @@
       "id": "MAT-PRO-017",
       "champ": "Probabilités",
       "section": "Sens des données issues d’expériences aléatoires",
-      "chemin": [],
+      "chemin": [
+        "A. Traitement de données tirées d’expériences aléatoires"
+      ],
       "texte": "13. Quantifier une probabilité en recourant à la notation fractionnaire, à la notation décimale ou au pourcentage",
       "prioritaire": false,
       "progression": {
@@ -4837,7 +4897,9 @@
       "id": "MAT-PRO-018",
       "champ": "Probabilités",
       "section": "Sens des données issues d’expériences aléatoires",
-      "chemin": [],
+      "chemin": [
+        "A. Traitement de données tirées d’expériences aléatoires"
+      ],
       "texte": "14. Reconnaître qu’une probabilité se situe entre 0 et 1",
       "prioritaire": false,
       "progression": {
@@ -4865,6 +4927,7 @@
       "champ": "Probabilités",
       "section": "Sens des données issues d’expériences aléatoires",
       "chemin": [
+        "A. Traitement de données tirées d’expériences aléatoires",
         "15. Prédire qualitativement un résultat ou plusieurs événements en utilisant, entre autres, une droite des probabilités"
       ],
       "texte": "a. résultat certain, résultat possible, résultat impossible",
@@ -4886,6 +4949,7 @@
       "champ": "Probabilités",
       "section": "Sens des données issues d’expériences aléatoires",
       "chemin": [
+        "A. Traitement de données tirées d’expériences aléatoires",
         "15. Prédire qualitativement un résultat ou plusieurs événements en utilisant, entre autres, une droite des probabilités"
       ],
       "texte": "b. événement plus probable, événement également probable, événement moins probable",
@@ -4906,7 +4970,9 @@
       "id": "MAT-PRO-021",
       "champ": "Probabilités",
       "section": "Sens des données issues d’expériences aléatoires",
-      "chemin": [],
+      "chemin": [
+        "A. Traitement de données tirées d’expériences aléatoires"
+      ],
       "texte": "16. Recourir, au besoin, à la notation factorielle",
       "prioritaire": false,
       "progression": {
@@ -4934,7 +5000,9 @@
       "id": "MAT-PRO-022",
       "champ": "Probabilités",
       "section": "Sens des données issues d’expériences aléatoires",
-      "chemin": [],
+      "chemin": [
+        "A. Traitement de données tirées d’expériences aléatoires"
+      ],
       "texte": "17. Reconnaître, selon le contexte, les différents types de probabilités : fréquentielle, théorique, subjective",
       "prioritaire": false,
       "progression": {
@@ -4961,7 +5029,9 @@
       "id": "MAT-PRO-023",
       "champ": "Probabilités",
       "section": "Sens des données issues d’expériences aléatoires",
-      "chemin": [],
+      "chemin": [
+        "A. Traitement de données tirées d’expériences aléatoires"
+      ],
       "texte": "18. Définir ou interpréter le concept de chance (chances pour et chances contre) (ex. : établir les liens entre les chances et les probabilités)",
       "prioritaire": false,
       "progression": {
@@ -4988,7 +5058,9 @@
       "id": "MAT-PRO-024",
       "champ": "Probabilités",
       "section": "Sens des données issues d’expériences aléatoires",
-      "chemin": [],
+      "chemin": [
+        "A. Traitement de données tirées d’expériences aléatoires"
+      ],
       "texte": "19. Définir ou interpréter le concept d’espérance mathématique (ex. : établir le lien entre espérance mathématique et moyenne pondérée)",
       "prioritaire": false,
       "progression": {
@@ -5436,6 +5508,7 @@
       "champ": "Statistique",
       "section": "Analyse et prise de décisions impliquant des distributions à un ou deux caractères à l’aide d’outils statistiques",
       "chemin": [
+        "A. Distributions à un caractère",
         "1. Réalisation d’un sondage ou d’un recensement"
       ],
       "texte": "a. Formuler des questions d’enquête",
@@ -5466,6 +5539,7 @@
       "champ": "Statistique",
       "section": "Analyse et prise de décisions impliquant des distributions à un ou deux caractères à l’aide d’outils statistiques",
       "chemin": [
+        "A. Distributions à un caractère",
         "1. Réalisation d’un sondage ou d’un recensement",
         "b. Choisir une méthode d’échantillonnage :"
       ],
@@ -5488,6 +5562,7 @@
       "champ": "Statistique",
       "section": "Analyse et prise de décisions impliquant des distributions à un ou deux caractères à l’aide d’outils statistiques",
       "chemin": [
+        "A. Distributions à un caractère",
         "1. Réalisation d’un sondage ou d’un recensement",
         "b. Choisir une méthode d’échantillonnage :"
       ],
@@ -5518,6 +5593,7 @@
       "champ": "Statistique",
       "section": "Analyse et prise de décisions impliquant des distributions à un ou deux caractères à l’aide d’outils statistiques",
       "chemin": [
+        "A. Distributions à un caractère",
         "1. Réalisation d’un sondage ou d’un recensement"
       ],
       "texte": "c. Choisir un échantillon représentatif",
@@ -5539,6 +5615,7 @@
       "champ": "Statistique",
       "section": "Analyse et prise de décisions impliquant des distributions à un ou deux caractères à l’aide d’outils statistiques",
       "chemin": [
+        "A. Distributions à un caractère",
         "1. Réalisation d’un sondage ou d’un recensement"
       ],
       "texte": "d. Collecter, décrire et organiser des données (classifier ou catégoriser) à l’aide de tableaux",
@@ -5567,7 +5644,9 @@
       "id": "MAT-STA-006",
       "champ": "Statistique",
       "section": "Analyse et prise de décisions impliquant des distributions à un ou deux caractères à l’aide d’outils statistiques",
-      "chemin": [],
+      "chemin": [
+        "A. Distributions à un caractère"
+      ],
       "texte": "2. Reconnaître des sources de biais possibles",
       "prioritaire": false,
       "progression": {
@@ -5587,7 +5666,9 @@
       "id": "MAT-STA-007",
       "champ": "Statistique",
       "section": "Analyse et prise de décisions impliquant des distributions à un ou deux caractères à l’aide d’outils statistiques",
-      "chemin": [],
+      "chemin": [
+        "A. Distributions à un caractère"
+      ],
       "texte": "3. Interpréter des données présentées dans un tableau ou dans un diagramme : à bandes, à pictogrammes, à ligne brisée ou circulaire",
       "prioritaire": false,
       "progression": {
@@ -5606,7 +5687,9 @@
       "id": "MAT-STA-008",
       "champ": "Statistique",
       "section": "Analyse et prise de décisions impliquant des distributions à un ou deux caractères à l’aide d’outils statistiques",
-      "chemin": [],
+      "chemin": [
+        "A. Distributions à un caractère"
+      ],
       "texte": "4. Distinguer différents types de caractères statistiques : qualitatif, quantitatif discret ou continu",
       "prioritaire": false,
       "progression": {
@@ -5625,7 +5708,9 @@
       "id": "MAT-STA-009",
       "champ": "Statistique",
       "section": "Analyse et prise de décisions impliquant des distributions à un ou deux caractères à l’aide d’outils statistiques",
-      "chemin": [],
+      "chemin": [
+        "A. Distributions à un caractère"
+      ],
       "texte": "5. Choisir le ou les registres (modes) de représentation appropriés pour organiser, interpréter et présenter des données",
       "prioritaire": false,
       "progression": {
@@ -5645,6 +5730,7 @@
       "champ": "Statistique",
       "section": "Analyse et prise de décisions impliquant des distributions à un ou deux caractères à l’aide d’outils statistiques",
       "chemin": [
+        "A. Distributions à un caractère",
         "6. Organiser et représenter des données"
       ],
       "texte": "a. à l’aide d’un tableau, d’un diagramme à bandes, d’un diagramme à pictogrammes et d’un diagramme à ligne brisée",
@@ -5666,6 +5752,7 @@
       "champ": "Statistique",
       "section": "Analyse et prise de décisions impliquant des distributions à un ou deux caractères à l’aide d’outils statistiques",
       "chemin": [
+        "A. Distributions à un caractère",
         "6. Organiser et représenter des données"
       ],
       "texte": "b. à l’aide d’un tableau présentant les caractères, les effectifs ou les fréquences, ou à l’aide d’un diagramme circulaire",
@@ -5687,6 +5774,7 @@
       "champ": "Statistique",
       "section": "Analyse et prise de décisions impliquant des distributions à un ou deux caractères à l’aide d’outils statistiques",
       "chemin": [
+        "A. Distributions à un caractère",
         "6. Organiser et représenter des données"
       ],
       "texte": "c. à l’aide d’un tableau à données condensées ou groupées en classes, d’un histogramme, d’un diagramme de quartiles",
@@ -5716,6 +5804,7 @@
       "champ": "Statistique",
       "section": "Analyse et prise de décisions impliquant des distributions à un ou deux caractères à l’aide d’outils statistiques",
       "chemin": [
+        "A. Distributions à un caractère",
         "6. Organiser et représenter des données"
       ],
       "texte": "d. à l’aide d’un diagramme à tige et à feuilles",
@@ -5744,7 +5833,9 @@
       "id": "MAT-STA-014",
       "champ": "Statistique",
       "section": "Analyse et prise de décisions impliquant des distributions à un ou deux caractères à l’aide d’outils statistiques",
-      "chemin": [],
+      "chemin": [
+        "A. Distributions à un caractère"
+      ],
       "texte": "7. Comparer des distributions à un caractère",
       "prioritaire": false,
       "progression": {
@@ -5763,7 +5854,9 @@
       "id": "MAT-STA-015",
       "champ": "Statistique",
       "section": "Analyse et prise de décisions impliquant des distributions à un ou deux caractères à l’aide d’outils statistiques",
-      "chemin": [],
+      "chemin": [
+        "A. Distributions à un caractère"
+      ],
       "texte": "8. Comprendre et calculer la moyenne arithmétique",
       "prioritaire": false,
       "progression": {
@@ -5782,7 +5875,9 @@
       "id": "MAT-STA-016",
       "champ": "Statistique",
       "section": "Analyse et prise de décisions impliquant des distributions à un ou deux caractères à l’aide d’outils statistiques",
-      "chemin": [],
+      "chemin": [
+        "A. Distributions à un caractère"
+      ],
       "texte": "9. Décrire le concept de moyenne arithmétique (répartition équitable ou centre d’équilibre)",
       "prioritaire": false,
       "progression": {
@@ -5801,7 +5896,9 @@
       "id": "MAT-STA-017",
       "champ": "Statistique",
       "section": "Analyse et prise de décisions impliquant des distributions à un ou deux caractères à l’aide d’outils statistiques",
-      "chemin": [],
+      "chemin": [
+        "A. Distributions à un caractère"
+      ],
       "texte": "10. Calculer et interpréter une moyenne arithmétique",
       "prioritaire": false,
       "progression": {
@@ -5822,6 +5919,7 @@
       "champ": "Statistique",
       "section": "Analyse et prise de décisions impliquant des distributions à un ou deux caractères à l’aide d’outils statistiques",
       "chemin": [
+        "A. Distributions à un caractère",
         "11. Déterminer et interpréter"
       ],
       "texte": "a. des mesures de tendance centrale : mode, médiane, moyenne pondérée",
@@ -5843,6 +5941,7 @@
       "champ": "Statistique",
       "section": "Analyse et prise de décisions impliquant des distributions à un ou deux caractères à l’aide d’outils statistiques",
       "chemin": [
+        "A. Distributions à un caractère",
         "11. Déterminer et interpréter",
         "b. des mesures de dispersion :"
       ],
@@ -5865,6 +5964,7 @@
       "champ": "Statistique",
       "section": "Analyse et prise de décisions impliquant des distributions à un ou deux caractères à l’aide d’outils statistiques",
       "chemin": [
+        "A. Distributions à un caractère",
         "11. Déterminer et interpréter",
         "b. des mesures de dispersion :"
       ],
@@ -5887,6 +5987,7 @@
       "champ": "Statistique",
       "section": "Analyse et prise de décisions impliquant des distributions à un ou deux caractères à l’aide d’outils statistiques",
       "chemin": [
+        "A. Distributions à un caractère",
         "11. Déterminer et interpréter",
         "b. des mesures de dispersion :"
       ],
@@ -5917,6 +6018,7 @@
       "champ": "Statistique",
       "section": "Analyse et prise de décisions impliquant des distributions à un ou deux caractères à l’aide d’outils statistiques",
       "chemin": [
+        "A. Distributions à un caractère",
         "11. Déterminer et interpréter",
         "b. des mesures de dispersion :"
       ],
@@ -5947,6 +6049,7 @@
       "champ": "Statistique",
       "section": "Analyse et prise de décisions impliquant des distributions à un ou deux caractères à l’aide d’outils statistiques",
       "chemin": [
+        "A. Distributions à un caractère",
         "11. Déterminer et interpréter",
         "c. des mesures de position :"
       ],
@@ -5969,6 +6072,7 @@
       "champ": "Statistique",
       "section": "Analyse et prise de décisions impliquant des distributions à un ou deux caractères à l’aide d’outils statistiques",
       "chemin": [
+        "A. Distributions à un caractère",
         "11. Déterminer et interpréter",
         "c. des mesures de position :"
       ],
@@ -5999,7 +6103,9 @@
       "id": "MAT-STA-025",
       "champ": "Statistique",
       "section": "Analyse et prise de décisions impliquant des distributions à un ou deux caractères à l’aide d’outils statistiques",
-      "chemin": [],
+      "chemin": [
+        "A. Distributions à un caractère"
+      ],
       "texte": "12. Choisir la ou les mesures statistiques appropriées à une situation donnée",
       "prioritaire": false,
       "progression": {
@@ -6336,7 +6442,9 @@
       "id": "MAT-GEO-001",
       "champ": "Géométrie",
       "section": "Sens spatial et analyse de situations faisant appel à des figures géométriques",
-      "chemin": [],
+      "chemin": [
+        "A. Figures planes"
+      ],
       "texte": "1. Décrire des polygones convexes et non convexes",
       "prioritaire": false,
       "progression": {
@@ -6355,7 +6463,9 @@
       "id": "MAT-GEO-002",
       "champ": "Géométrie",
       "section": "Sens spatial et analyse de situations faisant appel à des figures géométriques",
-      "chemin": [],
+      "chemin": [
+        "A. Figures planes"
+      ],
       "texte": "2. Décrire et classifier des quadrilatères",
       "prioritaire": false,
       "progression": {
@@ -6374,7 +6484,9 @@
       "id": "MAT-GEO-003",
       "champ": "Géométrie",
       "section": "Sens spatial et analyse de situations faisant appel à des figures géométriques",
-      "chemin": [],
+      "chemin": [
+        "A. Figures planes"
+      ],
       "texte": "3. Décrire et classifier des triangles",
       "prioritaire": false,
       "progression": {
@@ -6393,7 +6505,9 @@
       "id": "MAT-GEO-004",
       "champ": "Géométrie",
       "section": "Sens spatial et analyse de situations faisant appel à des figures géométriques",
-      "chemin": [],
+      "chemin": [
+        "A. Figures planes"
+      ],
       "texte": "4. Décrire le cercle : rayon, diamètre, circonférence, angle au centre",
       "prioritaire": false,
       "progression": {
@@ -6412,7 +6526,9 @@
       "id": "MAT-GEO-005",
       "champ": "Géométrie",
       "section": "Sens spatial et analyse de situations faisant appel à des figures géométriques",
-      "chemin": [],
+      "chemin": [
+        "A. Figures planes"
+      ],
       "texte": "5. Reconnaître et nommer des polygones réguliers convexes",
       "prioritaire": false,
       "progression": {
@@ -6431,7 +6547,9 @@
       "id": "MAT-GEO-006",
       "champ": "Géométrie",
       "section": "Sens spatial et analyse de situations faisant appel à des figures géométriques",
-      "chemin": [],
+      "chemin": [
+        "A. Figures planes"
+      ],
       "texte": "6. Décomposer des figures planes en disques (secteurs), en triangles ou en quadrilatères",
       "prioritaire": false,
       "progression": {
@@ -6450,7 +6568,9 @@
       "id": "MAT-GEO-007",
       "champ": "Géométrie",
       "section": "Sens spatial et analyse de situations faisant appel à des figures géométriques",
-      "chemin": [],
+      "chemin": [
+        "A. Figures planes"
+      ],
       "texte": "7. Décrire des disques et des secteurs",
       "prioritaire": false,
       "progression": {
@@ -6470,6 +6590,7 @@
       "champ": "Géométrie",
       "section": "Sens spatial et analyse de situations faisant appel à des figures géométriques",
       "chemin": [
+        "A. Figures planes",
         "8. Reconnaître et construire des segments et des droites remarquables"
       ],
       "texte": "a. diagonale, hauteur, médiane, médiatrice, bissectrice, apothème, rayon, diamètre, corde",
@@ -6491,6 +6612,7 @@
       "champ": "Géométrie",
       "section": "Sens spatial et analyse de situations faisant appel à des figures géométriques",
       "chemin": [
+        "A. Figures planes",
         "8. Reconnaître et construire des segments et des droites remarquables"
       ],
       "texte": "b. cathète, hypoténuse",
@@ -6511,7 +6633,9 @@
       "id": "MAT-GEO-010",
       "champ": "Géométrie",
       "section": "Sens spatial et analyse de situations faisant appel à des figures géométriques",
-      "chemin": [],
+      "chemin": [
+        "A. Figures planes"
+      ],
       "texte": "9. Dégager des propriétés des figures planes à partir de transformations et de constructions géométriques",
       "prioritaire": false,
       "progression": {
@@ -6531,7 +6655,9 @@
       "id": "MAT-GEO-011",
       "champ": "Géométrie",
       "section": "Sens spatial et analyse de situations faisant appel à des figures géométriques",
-      "chemin": [],
+      "chemin": [
+        "A. Figures planes"
+      ],
       "texte": "10. Justifier des affirmations à partir de définitions ou de propriétés de figures planes",
       "prioritaire": false,
       "progression": {
@@ -7055,7 +7181,9 @@
       "id": "MAT-GEO-035",
       "champ": "Géométrie",
       "section": "Analyse de situations faisant appel à des mesures",
-      "chemin": [],
+      "chemin": [
+        "A. Masses"
+      ],
       "texte": "1. Choisir l’unité de mesure de masse appropriée au contexte",
       "prioritaire": false,
       "progression": {
@@ -7074,7 +7202,9 @@
       "id": "MAT-GEO-036",
       "champ": "Géométrie",
       "section": "Analyse de situations faisant appel à des mesures",
-      "chemin": [],
+      "chemin": [
+        "A. Masses"
+      ],
       "texte": "2. Estimer et mesurer des masses à l’aide d’unités conventionnelles : gramme, kilogramme",
       "prioritaire": false,
       "progression": {
@@ -7093,7 +7223,9 @@
       "id": "MAT-GEO-037",
       "champ": "Géométrie",
       "section": "Analyse de situations faisant appel à des mesures",
-      "chemin": [],
+      "chemin": [
+        "A. Masses"
+      ],
       "texte": "3. Établir des relations entre les unités de mesure de masse",
       "prioritaire": false,
       "progression": {
@@ -8846,7 +8978,9 @@
       "id": "MAT-GEO-110",
       "champ": "Géométrie",
       "section": "Analyse de situations à l’aide de la géométrie analytique",
-      "chemin": [],
+      "chemin": [
+        "A. Repérage"
+      ],
       "texte": "1. Effectuer des activités de repérage sur un axe, selon les nombres à l’étude",
       "prioritaire": false,
       "progression": {
@@ -8866,7 +9000,9 @@
       "id": "MAT-GEO-111",
       "champ": "Géométrie",
       "section": "Analyse de situations à l’aide de la géométrie analytique",
-      "chemin": [],
+      "chemin": [
+        "A. Repérage"
+      ],
       "texte": "2. Repérer un point dans le plan cartésien, selon les nombres à l’étude (abscisse et ordonnée d’un point)",
       "prioritaire": false,
       "progression": {
@@ -9548,7 +9684,9 @@
       "id": "MAT-DIS-001",
       "champ": "Mathématiques discrètes",
       "section": "Introduction à la théorie des graphes",
-      "chemin": [],
+      "chemin": [
+        "A. Concepts associés à la théorie des graphes"
+      ],
       "texte": "1. Décrire les éléments de base de la théorie des graphes : degré, distance, chaîne, cycle",
       "prioritaire": false,
       "progression": {
@@ -9575,7 +9713,9 @@
       "id": "MAT-DIS-002",
       "champ": "Mathématiques discrètes",
       "section": "Introduction à la théorie des graphes",
-      "chemin": [],
+      "chemin": [
+        "A. Concepts associés à la théorie des graphes"
+      ],
       "texte": "2. Reconnaître une chaîne eulérienne, un cycle eulérien, une chaîne hamiltonienne ou un cycle hamiltonien",
       "prioritaire": false,
       "progression": {
@@ -9602,7 +9742,9 @@
       "id": "MAT-DIS-003",
       "champ": "Mathématiques discrètes",
       "section": "Introduction à la théorie des graphes",
-      "chemin": [],
+      "chemin": [
+        "A. Concepts associés à la théorie des graphes"
+      ],
       "texte": "3. Construire des graphes : graphe orienté, graphe valué (pondéré), graphe coloré, arbre",
       "prioritaire": false,
       "progression": {
@@ -9629,7 +9771,9 @@
       "id": "MAT-DIS-004",
       "champ": "Mathématiques discrètes",
       "section": "Introduction à la théorie des graphes",
-      "chemin": [],
+      "chemin": [
+        "A. Concepts associés à la théorie des graphes"
+      ],
       "texte": "4. Dégager les propriétés des graphes",
       "prioritaire": false,
       "progression": {
@@ -9955,8 +10099,8 @@
       "note": ""
     },
     {
-      "id": "MAT-DIS-016",
-      "champ": "Mathématiques discrètes",
+      "id": "MAT-FIN-001",
+      "champ": "Mathématiques financières",
       "section": "Initiation aux mathématiques financières",
       "chemin": [
         "1. Décrire les composantes des mathématiques financières"
@@ -9984,8 +10128,8 @@
       "note": ""
     },
     {
-      "id": "MAT-DIS-017",
-      "champ": "Mathématiques discrètes",
+      "id": "MAT-FIN-002",
+      "champ": "Mathématiques financières",
       "section": "Initiation aux mathématiques financières",
       "chemin": [
         "1. Décrire les composantes des mathématiques financières"
@@ -10013,8 +10157,8 @@
       "note": ""
     },
     {
-      "id": "MAT-DIS-018",
-      "champ": "Mathématiques discrètes",
+      "id": "MAT-FIN-003",
+      "champ": "Mathématiques financières",
       "section": "Initiation aux mathématiques financières",
       "chemin": [
         "1. Décrire les composantes des mathématiques financières"
@@ -10042,8 +10186,8 @@
       "note": ""
     },
     {
-      "id": "MAT-DIS-019",
-      "champ": "Mathématiques discrètes",
+      "id": "MAT-FIN-004",
+      "champ": "Mathématiques financières",
       "section": "Initiation aux mathématiques financières",
       "chemin": [
         "1. Décrire les composantes des mathématiques financières"
@@ -10071,8 +10215,8 @@
       "note": ""
     },
     {
-      "id": "MAT-DIS-020",
-      "champ": "Mathématiques discrètes",
+      "id": "MAT-FIN-005",
+      "champ": "Mathématiques financières",
       "section": "Initiation aux mathématiques financières",
       "chemin": [],
       "texte": "2. Modéliser une situation financière",
@@ -10098,8 +10242,8 @@
       "note": ""
     },
     {
-      "id": "MAT-DIS-021",
-      "champ": "Mathématiques discrètes",
+      "id": "MAT-FIN-006",
+      "champ": "Mathématiques financières",
       "section": "Initiation aux mathématiques financières",
       "chemin": [],
       "texte": "3. Calculer la capitalisation à l’aide de la formule suivante :",
@@ -10126,8 +10270,8 @@
       "note_pda": "(où C_n = valeur future, C_0 = valeur actuelle, i = taux d’intérêt et n = période d’intérêt) ^N𝑪𝑪^𝒏𝒏o =^te 𝑪𝑪^:𝟎𝟎L(^’é𝟏𝟏^l ^è+^v ^e𝒊𝒊)^𝒏𝒏peutavoirrecoursàdesoutilstechnologiques."
     },
     {
-      "id": "MAT-DIS-022",
-      "champ": "Mathématiques discrètes",
+      "id": "MAT-FIN-007",
+      "champ": "Mathématiques financières",
       "section": "Initiation aux mathématiques financières",
       "chemin": [],
       "texte": "4. Calculer l'actualisation à l’aide de la formule suivante :",
@@ -10154,8 +10298,8 @@
       "note_pda": "ou (où C_n = valeur future, C_0 = valeur actuelle, i = taux d’intérêt 𝑪𝑪^𝒏𝒏 𝑪𝑪 ^e𝟎𝟎t =^n ^=𝑪𝑪 ^𝒏𝒏p(^é𝟏𝟏^ri+^od𝒊𝒊)^e− ^𝒏𝒏d’inté𝑪𝑪^r𝟎𝟎êt=^) ^N(𝟏𝟏^o+^t𝒊𝒊^e)^𝒏𝒏 ^: ^L’élève ^peut ^avoir ^recours ^à ^des ^outils ^technologiques."
     },
     {
-      "id": "MAT-DIS-023",
-      "champ": "Mathématiques discrètes",
+      "id": "MAT-FIN-008",
+      "champ": "Mathématiques financières",
       "section": "Initiation aux mathématiques financières",
       "chemin": [],
       "texte": "5. Déterminer des valeurs ou des données par la résolution d’équations",
@@ -10181,8 +10325,8 @@
       "note": ""
     },
     {
-      "id": "MAT-DIS-024",
-      "champ": "Mathématiques discrètes",
+      "id": "MAT-FIN-009",
+      "champ": "Mathématiques financières",
       "section": "Initiation aux mathématiques financières",
       "chemin": [],
       "texte": "6. Comparer des situations financières",
@@ -10208,8 +10352,8 @@
       "note": ""
     },
     {
-      "id": "MAT-DIS-025",
-      "champ": "Mathématiques discrètes",
+      "id": "MAT-FIN-010",
+      "champ": "Mathématiques financières",
       "section": "Initiation aux mathématiques financières",
       "chemin": [],
       "texte": "7. Prendre des décisions, au besoin, selon le contexte",

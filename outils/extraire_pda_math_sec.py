@@ -12,7 +12,8 @@ Usage : python3 -I extraire_pda_math_sec.py source.pdf sortie.json
 import json, re, sys, collections
 import pdfplumber
 
-ANNEES = ['primaire', '1', '2', '3', '4', '5']   # « primaire » = colonne 6e année
+ANNEES = ['primaire', '1', '2', '3', '4', '5']   # « primaire » = colonne 6e année ; modifiable par un autre script
+COLONNES_SEQUENCES = ((4, '4'), (5, '5'))     # colonnes qui peuvent être subdivisées par séquence
 SEQUENCES = ('CST', 'TS', 'SN')
 CONTROLE = collections.Counter()
 DEBUG = set()
@@ -50,19 +51,25 @@ def colonnes(page):
     # chaîne de six traits espacés d'environ 18,5 pt ; s'il y en a plusieurs, la plus fournie
     meilleure = None
     for i in range(len(pos)):
-        chaine = [pos[i]]
+        chaine = [pos[i]]   # chaîne de len(ANNEES) traits
         for x, n in pos[i + 1:]:
             if 16.5 <= x - chaine[-1][0] <= 20.5:
                 chaine.append((x, n))
-            if len(chaine) == 6:
+            if len(chaine) == len(ANNEES):
                 break
-        if len(chaine) == 6 and (meilleure is None or sum(n for _, n in chaine) > sum(n for _, n in meilleure)):
+        if len(chaine) == len(ANNEES) and (meilleure is None or sum(n for _, n in chaine) > sum(n for _, n in meilleure)):
             meilleure = chaine
     if not meilleure:
         return None
     xs = [x for x, _ in meilleure]
-    largeur = (xs[-1] - xs[0]) / 5
-    return [(x, x + largeur) for x in xs]
+    largeur = (xs[-1] - xs[0]) / (len(xs) - 1)
+    cols = [(x, x + largeur) for x in xs]
+    if DERNIERE_JUSQUAU_BORD:
+        # la dernière colonne (ex. STE) peut être plus large : elle va jusqu'au bord droit du tableau
+        bords = [r['x1'] for r in page.rects if r['height'] < 2.5 and xs[-1] + 15 < r['x1'] < xs[-1] + 45]
+        if bords:
+            cols[-1] = (xs[-1], collections.Counter(round(b, 1) for b in bords).most_common(1)[0][0])
+    return cols
 
 
 def lignes_texte(page, x_col, haut, bas, x_max=None, exclus=()):
@@ -167,6 +174,22 @@ class Rendu:
         self.img = page.to_image(resolution=72 * self.ECHELLE).original.convert('RGB')
         self.lettres = [c for c in page.chars if c['text'].strip() and c['size'] < 13]
 
+    def tache(self, x0, x1, t, b, seuil=200):
+        """Boîte (en points) de la plus grande tache non blanche de la zone, ou None."""
+        e = self.ECHELLE
+        if x1 - x0 < 1 or b - t < 1:
+            return None
+        boite = self.img.crop((int(x0 * e), int(t * e), int(x1 * e), int(b * e)))
+        w, h = boite.size
+        if w < 2 or h < 2:
+            return None
+        px = boite.load()
+        pts = plus_grande_tache([(x, y) for x in range(w) for y in range(h) if sum(px[x, y]) / 3 < seuil])
+        if len(pts) < 4:
+            return None
+        xs = [x for x, y in pts]; ys = [y for x, y in pts]
+        return (x0 + min(xs) / e, t + min(ys) / e, x0 + (max(xs) + 1) / e, t + (max(ys) + 1) / e)
+
     def cellule(self, x0, x1, t, b):
         e = self.ECHELLE
         if any(c['x0'] < x1 - 1 and c['x1'] > x0 + 1 and c['top'] < b - 1 and c['bottom'] > t + 1 for c in self.lettres):
@@ -226,6 +249,17 @@ def etiquettes_sequences(page, cols):
 TRACE = []  # (page, x0, x1, haut, bas, valeur) pour la vérification visuelle
 
 
+DERNIERE_JUSQUAU_BORD = False
+LOSANGE = False   # repérer le losange à gauche des énoncés (PDA de science)
+
+
+def losange(rendu, e, x_col):
+    t, b = e['bande']
+    marge = min(l['x0'] for l in e['lignes'])
+    tt = rendu.tache(52, marge - 8, t + 2, b - 2)   # entre la bordure du tableau (x ≈ 49) et le marqueur
+    return bool(tt and 2.5 < tt[3] - tt[1] < 9 and 2.5 < tt[2] - tt[0] < 9)
+
+
 def valeur(rendu, cellule_x, bande):
     (x0, x1), (t, b) = cellule_x, bande
     v = rendu.cellule(x0, x1, t, b)
@@ -238,9 +272,16 @@ def extraire(chemin):
     champ = section = None
     pile, savoirs, sans_colonnes = {}, [], []
     for num, page in enumerate(pdf.pages, 1):
-        titre = ' '.join(w['text'] for w in page.extract_words(extra_attrs=['size'], x_tolerance=4) if w['size'] >= 13 and 35 <= w['top'] <= 60).strip()
-        titre = re.sub(r'\s+', ' ', titre)
-        titre = re.sub(r'(?<=[a-zé]) (?=[a-zé])', '', titre).replace('Mathématiquesdiscrètes', 'Mathématiques discrètes')  # « Géom étrie »
+        # titre du champ : la dernière ligne en gros caractères du haut de page (sous le nom de la discipline)
+        gros = [c for c in page.chars if c['size'] >= 12.5 and 35 <= c['top'] <= 110 and c['text'].strip()]
+        titre = ''
+        if gros:
+            derniere = max(round(c['top']) for c in gros)
+            ligne = sorted((c for c in gros if abs(round(c['top']) - derniere) <= 2), key=lambda c: c['x0'])
+            for k, c in enumerate(ligne):
+                if k and c['x0'] - ligne[k - 1]['x1'] > 0.2 * c['size']:
+                    titre += ' '   # vrai espace ; les petits écarts (crénage, « Géom étrie ») sont ignorés
+                titre += c['text']
         lignes = (page.extract_text() or '').split('\n')
         for i, l in enumerate(lignes):
             if l.startswith('L’élève apprend') and i > 0:
@@ -259,7 +300,7 @@ def extraire(chemin):
         x_col = cols[0][0] - 1
         horiz = sorted({round(l['top'], 1) for l in page.lines if abs(l['top'] - l['bottom']) < 1 and l['x0'] < x_col and l['x1'] - l['x0'] > 60}
                        | {round(r['top'], 1) for r in page.rects if r['height'] < 2.5 and r['width'] > 60 and r['x0'] < x_col})
-        entete = [w for w in page.extract_words() if w['text'] in ('5e', '6e') and w['x0'] > x_col - 3]
+        entete = [w for w in page.extract_words() if w['text'] in ('1re', '2e', '3e', '4e', '5e', '6e') and w['x0'] > x_col - 3]
         # en-tête de légende en haut de page seulement ; un en-tête au milieu (nouvelle partie) ne coupe rien
         legende = [w for w in page.extract_words() if w['text'] == 'L’élève' and w['x1'] < x_col]
         premiers = [w for w in entete if legende and w['top'] > min(l['top'] for l in legende)]
@@ -269,10 +310,17 @@ def extraire(chemin):
         bas = max(horiz + verticales) if horiz or verticales else page.height - 40
         if verticales and max(verticales) > max(horiz, default=0) + 2:
             horiz = horiz + [max(verticales)]
-        rangs = lignes_texte(page, x_col, haut, bas, cols[-1][1] - 1, [w['top'] for w in page.extract_words() if w['text'] in ('6e', '1re', '2e', '3e', '4e', '5e', 'cycle', 'Secondaire') and w['x0'] > x_col - 3])
+        rendu = Rendu(page)
+        rendu.num = num
+        rangs = lignes_texte(page, x_col, haut, bas, cols[-1][1] - 1, [w['top'] for w in page.extract_words() if w['text'] in ('6e', '1re', '2e', '3e', '4e', '5e', 'cycle', 'Secondaire', 'ST', 'STE', 'ATS', 'SE') and w['x0'] > x_col - 3])
         elements, en_attente, x_lettre = [], [], None
         for r in rangs:
             n = None if r['petit'] else niveau(r['texte'])
+            if LOSANGE and n is None and not r['petit']:
+                # tiret dessiné juste à gauche de la ligne (sous-élément)
+                tt = rendu.tache(r['x0'] - 14, r['x0'] - 1.5, r['top'] - 1, r['bottom'] + 1)
+                if tt and tt[3] - tt[1] < 2.5 and tt[2] - tt[0] > 2.5:
+                    n = 5
             # « i. » peut être une lettre (après « h. ») ou un chiffre romain : l'alinéa tranche
             if n == 4 and x_lettre is not None and abs(r['x0'] - x_lettre) < 4:
                 n = 3
@@ -293,8 +341,6 @@ def extraire(chemin):
                     elements[-1]['lignes'].append(r)
         if en_attente and elements:
             elements[-1]['lignes'] += en_attente
-        rendu = Rendu(page)
-        rendu.num = num
         seqs = etiquettes_sequences(page, cols)
         for i, e in enumerate(elements):
             avec_marqueur = [l for l in e['lignes'] if not l['petit'] and niveau(l['texte'])]
@@ -311,7 +357,7 @@ def extraire(chemin):
                 prog[a] = valeur(rendu, cols[k], (t, b))
             dans = [s for s in seqs if t - 1 <= (s[1] + s[2]) / 2 <= b + 1]
             if len(dans) >= 2:
-                for k, a in ((4, '4'), (5, '5')):
+                for k, a in COLONNES_SEQUENCES:
                     # les sous-rangées sont de hauteur égale ; les étiquettes sont légèrement décalées
                     dans.sort(key=lambda s: s[1])
                     h = (b - t) / len(dans)
@@ -356,6 +402,7 @@ def extraire(chemin):
                 'progression': prog, 'page': num,
                 'a_verifier': bool(raisons), 'note': ' '.join(raisons),
                 **({'note_pda': note_pda} if note_pda else {}),
+                **({'losange': True} if LOSANGE and losange(rendu, e, x_col) else {}),
             })
         if titre:
             champ = titre
@@ -413,7 +460,7 @@ if __name__ == '__main__':
     compteur = collections.Counter()
     for s in savoirs:
         cle = re.sub(r'[^A-Z]', '', (s['champ'] or 'XXX').upper().replace('É', 'E').replace('È', 'E'))[:3]
-        cle = {'MAT': 'DIS'}.get(cle, cle)   # « Mathématiques discrètes »
+        cle = {'MATHEMATIQUESDISCRETES': 'DIS', 'MATHEMATIQUESFINANCIERES': 'FIN'}.get(re.sub(r'[^A-Z]', '', (s['champ'] or '').upper().replace('É', 'E').replace('È', 'E')), cle)
         compteur[cle] += 1
         s['id'] = f'MAT-{cle}-{compteur[cle]:03d}'
     par_seq = sum(1 for s in savoirs if any(isinstance(v, dict) for v in s['progression'].values()))

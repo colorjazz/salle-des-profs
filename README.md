@@ -28,6 +28,8 @@ La tentative de Gemini (`gemini/resultats/inventaire-pfeq-gemini-OBSOLETE.csv`) 
 | `pda-fra-primaire.json` | 1 188 savoirs, progression de la 1re à la 6e année, contenu prioritaire |
 | `pda-mat-primaire.json` | 244 savoirs par domaine (rubriques Vocabulaire et Symboles à part) |
 | `pda-mat-secondaire.json` | 426 savoirs, 6 champs ; colonne `primaire` (rappel des acquis de 6e année), puis 1re à 5e ; en 4e et 5e, valeur commune ou objet par séquence `CST`, `TS`, `SN` (154 savoirs) ; notes de la PDA dans `note_pda` ; formules en notation linéaire (`^` exposant, `_` indice) |
+| `pda-st-ste-secondaire.json` | Science et technologie (ST) et Science et technologie de l’environnement (STE) : 611 savoirs, 6 univers ou parties ; colonnes `1`, `2`, `3`, `4` (ST) et `4-STE` ; `losange` : énoncé propre au programme obligatoire (73) ; stratégies `abordee_au_primaire` (lettre P) |
+| `pda-ats-se-secondaire.json` | Applications technologiques et scientifiques (ATS) et Science et environnement (SE) : 558 savoirs ; colonnes `1` à `4` (ATS) et `4-SE` ; 41 losanges |
 | `cadre-fra-primaire.json` | Compétences, critères, pondérations par cycle |
 | `cadre-mat-primaire.json` | Compétences, critères, pondérations par cycle |
 | `programme-hqc-secondaire.json` | Histoire du Québec et du Canada, 3e et 4e secondaire : 8 périodes, concepts, texte officiel de la réalité sociale, 103 thèmes et 427 éléments de connaissances, critères et 7 opérations intellectuelles du cadre (`outils/extraire_hqc.py`) |
@@ -37,7 +39,7 @@ La tentative de Gemini (`gemini/resultats/inventaire-pfeq-gemini-OBSOLETE.csv`) 
 | Ordre | Validées (contrôle de logique sans erreur ou cas conformes au document) | À adapter |
 |---|---|---|
 | Primaire | Français, mathématique, science et technologie, univers social, éducation physique, art dramatique, arts plastiques, danse, musique | Anglais, langue seconde (colonne de catégories en plus, pages à image) ; Culture et citoyenneté québécoise (progression par cycle, crochets) |
-| Secondaire | Art dramatique, arts plastiques, danse, éducation physique, musique, français langue seconde (base et enrichi), intégration linguistique, mathématique | Français (pages à image), sciences (4 PDA), univers social (géographie, histoire, monde contemporain, etc.), chimie, physique, anglais, CCQ, espagnol |
+| Secondaire | Art dramatique, arts plastiques, danse, éducation physique, musique, français langue seconde (base et enrichi), intégration linguistique, mathématique, sciences (ST, STE, ATS, SE) | Français (pages à image) (4 PDA), univers social (géographie, histoire, monde contemporain, etc.), chimie, physique, anglais, CCQ, espagnol |
 
 Progression : `apprentissage` (flèche), `maitrise` (étoile), `reinvestissement` (case bleue), `null` (vide).
 
@@ -61,7 +63,16 @@ python3 -I outils/integrer_verification.py PDA.pdf donnees/pda.json reponse_gemi
 python3 -I outils/extraire_pda_math_sec.py PDA.pdf donnees/pda-mat-secondaire.json
 ```
 
-Les 16 rangées à formule empilée, à racine dessinée ou à texte en image sont relues à la main (table `CORRECTIONS` du script). Le contrôle de logique laisse 17 écarts, tous conformes au document (ex. en probabilités, la séquence CST est vide en 4e et bleue en 5e).
+Les PDA de science ont la même grille (deux documents couvrent les quatre programmes ; les deux PDF de chaque paire ont le même texte) :
+
+```bash
+python3 -I outils/extraire_pda_sciences_sec.py PDA-ST.pdf ST STE donnees/pda-st-ste-secondaire.json
+python3 -I outils/extraire_pda_sciences_sec.py PDA-ATS.pdf ATS SE donnees/pda-ats-se-secondaire.json
+```
+
+Tirets des sous-énoncés et losanges lus par pixels eux aussi ; la dernière colonne (STE ou SE), plus large, va jusqu'au bord du tableau. Contrôle de logique : aucun écart.
+
+En mathématique, les 16 rangées à formule empilée, à racine dessinée ou à texte en image sont relues à la main (table `CORRECTIONS` du script). Le contrôle de logique laisse 17 écarts, tous conformes au document (ex. en probabilités, la séquence CST est vide en 4e et bleue en 5e).
 
 Une ligne de Gemini est acceptée seulement si ses cases bleues et ses flèches concordent avec le PDF et si sa séquence est logique.
 
