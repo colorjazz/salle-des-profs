@@ -67,6 +67,7 @@ if __name__ == '__main__':
     sous_tableaux(src, savoirs)
     for s in savoirs:
         s['texte'] = re.sub(r'\^(e|er|re|es|ers|res)\b', r'\1', s['texte'])   # XV^e siècle -> XVe siècle
+        s['texte'] = re.sub(r'(?<=\w)- (?=\w)', '-', s['texte'])   # mot composé coupé en fin de ligne (« Saint- Laurent »)
         s['chemin'] = [re.sub(r'\^(e|er|re|es|ers|res)\b', r'\1', c) for c in s['chemin']]
         if s.get('section'):
             s['section'] = re.sub(r'\s+Année(?=\s|$)', '', s['section']).strip()
