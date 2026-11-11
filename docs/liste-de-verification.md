@@ -80,6 +80,14 @@
 - [ ] Gabarits Word et PowerPoint dans le navigateur (pptxgenjs, docx)
 - [ ] Contrôle automatique : aucune citation inventée, dates dans la période, savoirs existants
 
+## Idée : espace « Suppléance »
+- [ ] Un endroit où l'enseignante prépare d'avance du matériel pour son remplacement (absence prévue ou imprévue)
+- [ ] Contenu : exercices à imprimer, activité autonome, consignes pour la suppléante, plan de la journée tiré de l'horaire, corrigé
+- [ ] Basé sur la planification : ce qui est prévu cette semaine selon la PDA, en révision (savoirs déjà vus), sans nouvelle notion
+- [ ] Une « trousse d'urgence » toujours prête pour une absence imprévue, avec impression en un clic
+- [ ] Partage à la suppléante ou à la direction sans compte (lien ou PDF), et aucun nom d'élève dans le matériel
+- [ ] Lié à la clé de groupe partagée (spécification, section 5) si la suppléante doit voir la liste des élèves
+
 ## Phases
 - [ ] **Première version :** groupes chiffrés, évaluation imprimable avec QR, numérisation, correction IA validée par l'enseignante, connexion Microsoft et courriel, OneDrive
 - [ ] **Phase 2 :** tableau de bord des compétences, importation des groupes par Microsoft
