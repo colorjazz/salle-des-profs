@@ -87,6 +87,11 @@
 - [ ] Une « trousse d'urgence » toujours prête pour une absence imprévue, avec impression en un clic
 - [ ] Partage à la suppléante ou à la direction sans compte (lien ou PDF), et aucun nom d'élève dans le matériel
 - [ ] Lié à la clé de groupe partagée (spécification, section 5) si la suppléante doit voir la liste des élèves
+- [ ] **Absence imprévue : une personne en autorité (direction adjointe) peut générer la trousse elle-même**
+  - [ ] Rôle « direction » dans l'école : accès à l'horaire, à la planification et au matériel de l'enseignante, sans les noms des élèves ni les résultats
+  - [ ] Elle choisit le groupe et la journée ; la trousse se bâtit à partir de la planification (révision de notions déjà vues) et de la trousse d'urgence, si elle existe
+  - [ ] Chaque génération est inscrite au journal d'accès, et l'enseignante en est avisée
+  - [ ] L'enseignante peut désactiver cet accès ou préparer d'avance ses consignes de suppléance
 
 ## Phases
 - [ ] **Première version :** groupes chiffrés, évaluation imprimable avec QR, numérisation, correction IA validée par l'enseignante, connexion Microsoft et courriel, OneDrive

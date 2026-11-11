@@ -93,7 +93,7 @@ Chargé depuis `donnees/*.json`. Chaque ligne garde la version de la source.
 | `enseignants` | `id`, `auth_id`, `courriel`, `nom_affiche`, `langue`, `centre_services`, `cle_publique` (ECDH) | Le courriel est un renseignement personnel de l'enseignante, pas d'un élève |
 | `coffres` | `enseignant`, `cle_maitre_par_phrase` (+ sel, paramètres), `cle_maitre_par_recuperation`, `cle_maitre_par_passkey` | Seulement des clés enveloppées, illisibles pour le serveur |
 | `groupes` | `id`, `nom_chiffre`, `niveau`, `annee_scolaire`, `disciplines` | |
-| `membres_groupe` | `groupe`, `enseignant`, `role` (titulaire, coenseignante, orthopédagogue, suppléante), `cle_groupe_enveloppee` | Partage d'un groupe sans que le serveur voie la clé |
+| `membres_groupe` | `groupe`, `enseignant`, `role` (titulaire, coenseignante, orthopédagogue, suppléante, direction), `cle_groupe_enveloppee` | Partage d'un groupe sans que le serveur voie la clé |
 | `eleves` | `id` (code aléatoire, par exemple 7F3A-K2), `groupe`, `nom_chiffre`, `actif` | |
 | `evaluations` | `id`, `groupe`, `titre`, `discipline`, `competences`, `etape`, `date`, `bareme_total`, `grille`, `corrige_texte` | Le corrigé appartient à l'enseignante, sans renseignement d'élève |
 | `questions` | `id`, `evaluation`, `numero`, `points_max`, `critere`, `savoirs[]` | Le lien qui alimente le tableau de bord |
@@ -101,6 +101,7 @@ Chargé depuis `donnees/*.json`. Chaque ligne garde la version de la source.
 | `resultats_question` | `copie`, `question`, `points_ia`, `points_valides`, `niveau`, `justification`, `valide_par`, `valide_le` | |
 | `fautes_langue` | `copie`, `categorie`, `savoir`, `comptee` | Alimente les tendances de la classe |
 | `commentaires` | `copie`, `texte_ia`, `texte_valide` | |
+| `trousses_suppleance` | `groupe`, `date`, `creee_par`, `role_createur` (enseignante ou direction), `contenu`, `partage_jusqu_au` | La direction n'y voit ni noms ni résultats ; chaque création est inscrite au journal |
 | `journal_acces` | `enseignant`, `action`, `objet`, `quand`, `empreinte_ip` | Exigé par la Loi 25 |
 
 **Conservation (proposition, à valider dans l'EFVP) :**
