@@ -1,0 +1,102 @@
+<!DOCTYPE html><html lang="fr"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><title>Salle des profs — Créer : Dictée</title>
+<link rel="stylesheet" href="polices/lexend.css">
+<style>
+:root{--papier:#faf7f1;--carte:#fffdf9;--encre:#33302b;--doux:#8a8278;--ligne:#ebe4d8;--terre:#b0704f;--terre-p:#f6e4d8;--sauge:#55745d;--sauge-p:#e4ece5;--lav:#7c6fa8;--lav-p:#ecebf6;--ble:#8a6a2a;--ble-p:#f4ead3}
+*{box-sizing:border-box}body{margin:0;background:var(--papier);color:var(--encre);font-family:"Lexend",system-ui,-apple-system,"Segoe UI",sans-serif;font-size:14px;line-height:1.5}
+.serif{font-family:"Lexend",system-ui,-apple-system,"Segoe UI",sans-serif;font-weight:300}
+header{max-width:1280px;margin:0 auto;padding:22px 32px 0;display:flex;align-items:baseline;gap:34px;border-bottom:1px solid var(--ligne)}
+.logo{font-size:21px;padding-bottom:16px}.logo i{color:var(--terre)}
+nav{display:flex;gap:24px}nav a{padding-bottom:16px;color:var(--doux);text-decoration:none;border-bottom:2px solid transparent}nav a.on{color:var(--encre);border-color:var(--lav)}
+.moi{margin-left:auto;color:var(--doux);font-size:13px}
+main{max-width:1280px;margin:0 auto;padding:24px 32px 40px}
+.titre{display:flex;align-items:flex-end;justify-content:space-between;margin:0 0 18px}
+.titre h1{font-size:28px;font-weight:400;margin:0}.titre p{margin:4px 0 0;color:var(--doux)}
+.etapes{display:flex;gap:6px;font-size:12.5px}.etapes span{padding:5px 12px;border-radius:20px;border:1px solid var(--ligne);color:var(--doux);background:var(--carte)}.etapes span.fait{color:var(--sauge);border-color:#cfdccf}.etapes span.on{background:var(--encre);border-color:var(--encre);color:var(--papier)}
+.trois{display:grid;grid-template-columns:230px 1fr 330px;gap:20px;align-items:start}
+.carte{background:var(--carte);border:1px solid var(--ligne);border-radius:14px;padding:18px}
+.carte h3{font-size:17px;font-weight:400;margin:0 0 12px}
+.type{display:block;padding:11px 12px;border:1px solid var(--ligne);border-radius:11px;margin-bottom:8px;background:#fff}
+.type b{display:block;font-size:13.5px;font-weight:600}.type span{font-size:12px;color:var(--doux)}
+.type.on{border-color:var(--lav);background:var(--lav-p);box-shadow:inset 3px 0 0 var(--lav)}
+.sugg{display:flex;gap:14px;align-items:center;background:var(--terre-p);border-radius:12px;padding:12px 16px;margin-bottom:14px;font-size:13px}
+.sugg b{color:#9a5a3a}.sugg .btn{margin-left:auto}
+.filtres{display:flex;gap:8px;margin-bottom:12px;flex-wrap:wrap}.fi{font-size:12.5px;padding:5px 12px;border-radius:20px;border:1px solid var(--ligne);background:#fff}.fi b{font-weight:600}
+.gtitre{font-size:12px;letter-spacing:.08em;text-transform:uppercase;color:var(--doux);margin:14px 0 6px}
+.sv{display:grid;grid-template-columns:24px 1fr auto;gap:12px;align-items:center;padding:10px 12px;border:1px solid var(--ligne);border-radius:10px;margin-bottom:6px;background:#fff}
+.sv.on{border-color:var(--lav);background:var(--lav-p)}
+.box{width:18px;height:18px;border-radius:5px;border:1.5px solid #c9c1b3;display:grid;place-items:center;font-size:12px;color:#fff}
+.sv.on .box{background:var(--lav);border-color:var(--lav)}
+.svt{font-size:13.5px}
+.svb{display:flex;flex-direction:column;align-items:flex-end;gap:3px}
+.b{font-size:11px;padding:2px 9px;border-radius:20px;white-space:nowrap}.b.ap{background:var(--ble-p);color:var(--ble)}.b.ma{background:var(--terre-p);color:#9a5a3a}.b.re{background:var(--sauge-p);color:var(--sauge)}
+.id{font-size:10.5px;color:#b3aa9c;font-family:ui-monospace,monospace}
+.reg{padding:10px 0;border-top:1px dashed var(--ligne);font-size:13px}.reg:first-of-type{border:0;padding-top:0}
+.reg .l{color:var(--doux);font-size:12px;margin-bottom:5px}
+.seg{display:flex;gap:4px;flex-wrap:wrap}.seg span{padding:4px 11px;border-radius:20px;border:1px solid var(--ligne);font-size:12.5px;background:#fff}.seg span.on{background:var(--encre);color:var(--papier);border-color:var(--encre)}
+.apercu{margin-top:14px;background:#fff;border:1px solid #e6e0d4;border-radius:8px;padding:16px 18px;box-shadow:0 10px 24px -18px rgba(0,0,0,.4);font-size:12px}
+.apercu h4{margin:0 0 2px;font-family:"Lexend",system-ui,-apple-system,"Segoe UI",sans-serif;font-weight:300;font-weight:400;font-size:15px}
+.apercu .meta{color:var(--doux);font-size:11px;margin-bottom:10px;display:flex;justify-content:space-between}
+.ex{margin:8px 0}.ex b{font-weight:600}.ligne{border-bottom:1px solid #d7d0c3;height:14px;margin:4px 0}
+.qr{width:34px;height:34px;background:repeating-conic-gradient(#33302b 0 25%,#fff 0 50%) 0 0/8px 8px;border:2px solid #33302b;float:right}
+.btn{border:1px solid var(--encre);background:none;border-radius:20px;padding:7px 15px;font-size:12.5px;color:var(--encre);white-space:nowrap}.btn.plein{background:var(--encre);color:var(--papier)}
+.bas{display:flex;justify-content:space-between;align-items:center;margin-top:18px;color:var(--doux);font-size:12.5px}
+.type{display:block;text-decoration:none;color:inherit}
+a.btn{text-decoration:none;display:inline-block}
+</style>
+<style>
+.type{display:block;text-decoration:none;color:inherit}
+a.btn{text-decoration:none;display:inline-block}
+aside .btn.plein{white-space:normal}
+.code{font-size:11px;color:var(--doux);background:#f3eee5;border-radius:6px;padding:1px 6px;margin-right:4px;white-space:nowrap}
+.diapos{display:grid;grid-template-columns:1fr 1fr;gap:8px;margin-top:12px}
+.diapo{aspect-ratio:16/9;border:1px solid var(--ligne);border-radius:6px;background:#fffefb;padding:7px 8px;font-size:10px;line-height:1.3;position:relative;overflow:hidden}
+.diapo b{display:block;font-size:11px;font-weight:500;margin-bottom:3px}.diapo i{position:absolute;right:6px;bottom:4px;font-style:normal;color:var(--doux);font-size:9px}
+.diapo.titre-d{background:#f4f1f8}
+.q{display:grid;grid-template-columns:28px minmax(0,1fr) auto;gap:10px;align-items:start;padding:11px 0;border-top:1px dashed var(--ligne);font-size:13px}
+.q:first-of-type{border-top:0}.q .n{font-weight:500;color:var(--doux)}.q small{display:block;color:var(--doux);font-size:12px}
+.pts{white-space:nowrap;font-size:12px;border:1px solid var(--ligne);border-radius:12px;padding:2px 9px}
+.crit{display:inline-block;font-size:11px;border-radius:10px;padding:1px 8px;background:#e8eef4;color:#4f6a82;margin:4px 4px 0 0}
+.mots{display:flex;flex-wrap:wrap;gap:6px;margin-top:8px}.mots span{border:1px solid var(--ligne);border-radius:14px;padding:3px 11px;font-size:13px;background:#fffefb}
+.mots span.ajout{border-style:dashed;color:var(--doux)}
+.texte-d{font-size:13px;line-height:1.75;background:#fffefb;border:1px solid var(--ligne);border-radius:10px;padding:14px 16px;margin-top:10px}
+.texte-d u{text-decoration:none;border-bottom:2px solid #c9b8e0}.texte-d em{font-style:normal;border-bottom:2px solid #e3c3ad}
+.leg{display:flex;gap:14px;font-size:11px;color:var(--doux);margin-top:8px}.leg i{display:inline-block;width:14px;height:3px;vertical-align:3px;margin-right:5px}
+.copie{position:relative}.copie .zone-nom{border:1.5px dashed #d8b39b;border-radius:6px;padding:4px 8px;font-size:11px;color:#9a5a3a;margin:6px 0 8px;background:#fbf3ec}
+.qr{width:40px;height:40px;background:conic-gradient(#33302b 25%,#fff 0 50%,#33302b 0 75%,#fff 0) 0 0/10px 10px;border:3px solid #fff;outline:1px solid #ccc;float:right;margin-left:8px}
+.carte-recette{border:1px solid #e3dccf;border-radius:8px;padding:10px 12px;background:#fff;margin-top:8px;font-size:12px}
+.carte-recette b{font-weight:500}
+.note-l{margin-top:12px;padding:10px 12px;border-left:3px solid var(--lavande);background:#f4f1f8;font-size:12px;color:#5b5276}
+.choix{display:flex;flex-wrap:wrap;gap:8px;margin:4px 0 14px}.choix span{border:1px solid var(--ligne);border-radius:10px;padding:8px 12px;font-size:13px;background:#fffefb;cursor:pointer}
+.choix span.on{border-color:var(--lavande);background:#f4f1f8}
+.choix span small{display:block;color:var(--doux);font-size:11px}
+</style>
+<link rel="stylesheet" href="mobile.css">
+</head><body>
+<header><div class="logo serif">Salle des <i>profs</i></div>
+<nav><a href="accueil-e-carnet-retenue.html">Accueil</a><a href="planifier.html">Planifier</a><a class="on" href="creer.html">Créer</a><a href="evaluer-correction.html">Évaluer</a><a href="#">Observer</a></nav>
+<div class="moi">Marie Gagnon</div></header>
+<main>
+<div class="titre"><div><h1 class="serif">Créer : dictée</h1><p>4e année, groupe 41 · Français · Étape 2 · dictée 7, le jeudi 26 novembre</p></div>
+<div class="etapes"><span class="fait">1. Type</span><span class="on">2. Contenu</span><span>3. Réglages</span><span>4. Aperçu</span></div></div>
+<div class="trois">
+<aside class="carte"><h3 class="serif">Que voulez-vous créer&nbsp;?</h3>
+<a class="type" href="creer-fiche.html"><b>Fiche d’exercices</b><span>À imprimer, avec corrigé</span></a><a class="type" href="creer-activite.html"><b>Activité</b><span>Atelier, jeu, travail d’équipe</span></a><a class="type" href="creer-presentation.html"><b>Présentation</b><span>PowerPoint pour la leçon</span></a><a class="type" href="creer-evaluation.html"><b>Évaluation imprimable</b><span>Avec code par élève, corrigée dans Évaluer</span></a><a class="type on" href="creer-dictee.html"><b>Dictée</b><span>Mots de la liste et notions de l’étape</span></a><a class="type" href="creer-lecture.html"><b>Texte de lecture</b><span>Avec questions selon les critères</span></a>
+</aside>
+<section>
+<div class="sugg"><div><b>D’après la dictée 6 :</b> 14 élèves sur 24 confondent -er et -é. Ajouter des verbes à l’infinitif après une préposition ?</div><button class="btn">Ajouter 2 phrases</button></div>
+<div class="carte"><div class="gtitre">Mots de la liste 7 (orthographe d’usage)</div>
+<div class="mots"><span>automne</span><span>souvent</span><span>toujours</span><span>pendant</span><span>beaucoup</span><span>quelques</span><span>chaque</span><span>travailler</span><span>parce que</span><span>longtemps</span><span class="ajout">+ ajouter un mot</span></div>
+<div class="gtitre" style="margin-top:16px">Notions grammaticales de l’étape</div>
+<label class="sv on"><span class="box">✓</span><div class="svt">Identifier les donneurs d’accord : pronom de conjugaison (ex. : [Vous] participez au concert.)</div><div class="svb"><span class="b ma">Maîtrise attendue</span><span class="id">FRA-ACC-072</span></div></label><label class="sv on"><span class="box">✓</span><div class="svt">Accord du verbe quand le sujet est un groupe du nom : déterminant + nom</div><div class="svb"><span class="b ma">Maîtrise attendue</span><span class="id">FRA-ACC-098</span></div></label><label class="sv on"><span class="box">✓</span><div class="svt">Accord du déterminant et de l’adjectif avec le nom dans le groupe du nom</div><div class="svb"><span class="b ma">Maîtrise attendue</span><span class="id">FRA-ACC-092</span></div></label>
+<div class="texte-d"><u>Chaque</u> <u>automne</u>, <em>les oies</em> <em>traversent</em> le ciel. <u>Pendant</u> <u>longtemps</u>, nous les <em>regardons</em> passer. Elles <em>volent</em> <u>souvent</u> en grands V <u>parce qu’</u>elles <em>veulent</em> économiser leurs forces. Mon frère aime les <em>compter</em>, mais il y en a <u>toujours</u> <u>beaucoup</u> trop !</div>
+<div class="leg"><span><i style="background:#c9b8e0"></i>mot de la liste</span><span><i style="background:#e3c3ad"></i>notion grammaticale ciblée</span></div></div>
+</section>
+<aside><div class="carte"><h3 class="serif">Réglages</h3>
+<div class="reg"><div class="l">Forme</div><div class="seg"><span class="on">Dictée complète</span><span>Phrases trouées</span><span>Mots seulement</span></div></div><div class="reg"><div class="l">Longueur</div><div class="seg"><span class="on">4 phrases</span><span>6 phrases</span><span>8 phrases</span></div></div><div class="reg"><div class="l">Feuille-réponse</div><div class="seg"><span class="on">Avec code par élève</span><span>Feuille libre</span></div><div style="font-size:12px;color:var(--doux);margin-top:5px">Corrigée dans Évaluer, comme la dictée 6 : les erreurs sont classées par notion.</div></div><div class="reg"><div class="l">Audio</div><div class="seg"><span>Aucun</span><span class="on">Lecture enregistrée</span></div><div style="font-size:12px;color:var(--doux);margin-top:5px">Pour une reprise ou un élève absent ; voix de synthèse, sans donnée d’élève.</div></div>
+<div class="apercu"><h4>Dictée 7</h4><div class="meta"><span>4e année · 4 phrases</span><span>26 novembre</span></div>
+<div class="ex">Lire une fois le texte en entier, puis phrase par phrase, puis une relecture.</div>
+<div class="ex" style="color:var(--doux)">Barème proposé : 1 point par mot de la liste, 2 points par accord ciblé.</div></div>
+<button class="btn plein" style="width:100%;margin-top:14px">Créer la dictée et sa feuille-réponse</button>
+</div></aside></div>
+<div class="bas"><a class="btn" href="creer.html">← Retour à Créer</a><span>Aucune donnée d’élève n’est utilisée pour créer ce matériel.</span><button class="btn plein">Continuer : réglages →</button></div>
+</main></body></html>

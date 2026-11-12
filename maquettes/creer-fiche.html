@@ -40,22 +40,24 @@ main{max-width:1280px;margin:0 auto;padding:24px 32px 40px}
 .qr{width:34px;height:34px;background:repeating-conic-gradient(#33302b 0 25%,#fff 0 50%) 0 0/8px 8px;border:2px solid #33302b;float:right}
 .btn{border:1px solid var(--encre);background:none;border-radius:20px;padding:7px 15px;font-size:12.5px;color:var(--encre);white-space:nowrap}.btn.plein{background:var(--encre);color:var(--papier)}
 .bas{display:flex;justify-content:space-between;align-items:center;margin-top:18px;color:var(--doux);font-size:12.5px}
+.type{display:block;text-decoration:none;color:inherit}
+a.btn{text-decoration:none;display:inline-block}
 </style>
 <link rel="stylesheet" href="mobile.css"></head><body>
 <header><div class="logo serif">Salle des <i>profs</i></div>
-<nav><a href="#">Accueil</a><a href="#">Planifier</a><a class="on" href="creer.html">Créer</a><a href="#">Évaluer</a><a href="#">Observer</a></nav>
+<nav><a href="accueil-e-carnet-retenue.html">Accueil</a><a href="planifier.html">Planifier</a><a class="on" href="creer.html">Créer</a><a href="evaluer-correction.html">Évaluer</a><a href="#">Observer</a></nav>
 <div class="moi">Marie Gagnon</div></header>
 <main>
 <div class="titre"><div><h1 class="serif">Créer du matériel</h1><p>4e année, groupe 41 · Français · Étape 2</p></div>
 <div class="etapes"><span class="fait">1. Type</span><span class="on">2. Savoirs</span><span>3. Réglages</span><span>4. Aperçu</span></div></div>
 <div class="trois">
 <aside class="carte"><h3 class="serif">Que voulez-vous créer&nbsp;?</h3>
-<div class="type on"><b>Fiche d'exercices</b><span>À imprimer, avec corrigé</span></div>
-<div class="type"><b>Activité</b><span>Atelier, jeu, travail d'équipe</span></div>
-<div class="type"><b>Présentation</b><span>PowerPoint pour la leçon</span></div>
-<div class="type"><b>Évaluation imprimable</b><span>Avec QR par élève, corrigée dans Évaluer</span></div>
-<div class="type"><b>Dictée</b><span>Mots de la liste et notions de l'étape</span></div>
-<div class="type"><b>Texte de lecture</b><span>Avec questions selon les critères</span></div>
+<a class="type on" href="creer-fiche.html"><b>Fiche d'exercices</b><span>À imprimer, avec corrigé</span></a>
+<a class="type" href="creer-activite.html"><b>Activité</b><span>Atelier, jeu, travail d'équipe</span></a>
+<a class="type" href="creer-presentation.html"><b>Présentation</b><span>PowerPoint pour la leçon</span></a>
+<a class="type" href="creer-evaluation.html"><b>Évaluation imprimable</b><span>Avec QR par élève, corrigée dans Évaluer</span></a>
+<a class="type" href="creer-dictee.html"><b>Dictée</b><span>Mots de la liste et notions de l'étape</span></a>
+<a class="type" href="creer-lecture.html"><b>Texte de lecture</b><span>Avec questions selon les critères</span></a>
 </aside>
 <section>
 <div class="sugg"><div><b>Suggestion d'après la dictée 6 :</b> 9 élèves sur 24 n'accordent pas le verbe avec son sujet.</div><button class="btn">Cibler ces élèves</button></div>
@@ -75,5 +77,5 @@ main{max-width:1280px;margin:0 auto;padding:24px 32px 40px}
 <div class="ex"><b>2.</b> Remplace le sujet par un pronom, puis récris la phrase.</div><div class="ligne"></div><div class="ligne"></div></div>
 <button class="btn plein" style="width:100%;margin-top:14px">Créer la fiche (3 niveaux et corrigé)</button>
 </div></aside></div>
-<div class="bas"><button class="btn">← Changer de type</button><span>Aucune donnée d'élève n'est utilisée pour créer ce matériel.</span><button class="btn plein">Continuer : réglages →</button></div>
+<div class="bas"><a class="btn" href="creer.html">← Retour à Créer</a><span>Aucune donnée d'élève n'est utilisée pour créer ce matériel.</span><button class="btn plein">Continuer : réglages →</button></div>
 </main></body></html>

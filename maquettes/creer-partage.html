@@ -1,0 +1,100 @@
+<!DOCTYPE html><html lang="fr"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><meta name="robots" content="noindex">
+<title>Salle des profs — Créer : Partagé dans l’école</title>
+<link rel="stylesheet" href="polices/lexend.css">
+<style>
+:root{--papier:#faf7f1;--carte:#fffdf9;--encre:#33302b;--doux:#8a8278;--ligne:#ebe4d8;--terre:#b0704f;--sauge:#7d9a85;--ciel:#7b97b0;--lavande:#9a8fb5;--ble:#c9a35f}
+*{box-sizing:border-box}body{margin:0;background:var(--papier);color:var(--encre);font-family:"Lexend",system-ui,-apple-system,"Segoe UI",sans-serif;font-size:14px;line-height:1.55}
+a{color:inherit}
+header{max-width:1180px;margin:0 auto;padding:28px 32px 0;display:flex;align-items:baseline;gap:36px;border-bottom:1px solid var(--ligne)}
+.logo{font-size:22px;padding-bottom:18px;font-weight:300}.logo i{color:var(--terre);font-style:italic}
+nav{display:flex;gap:26px}nav a{padding-bottom:18px;color:var(--doux);text-decoration:none;border-bottom:2px solid transparent}nav a.on{color:var(--encre);border-color:var(--lavande)}
+.moi{margin-left:auto;color:var(--doux);font-size:13px}
+main{max-width:1180px;margin:0 auto;padding:34px 32px 40px}
+.tete{display:grid;grid-template-columns:1fr auto;align-items:end;margin-bottom:22px}
+.tete h1{font-size:32px;font-weight:300;margin:0}.tete p{margin:4px 0 0;color:var(--doux)}
+.filtre{display:flex;gap:8px}.filtre span{border:1px solid var(--ligne);background:var(--carte);border-radius:20px;padding:6px 14px;font-size:13px}
+.onglets{display:flex;gap:4px;margin:0 0 24px;border-bottom:1px solid var(--ligne)}
+.onglets a{padding:10px 16px;text-decoration:none;color:var(--doux);border-bottom:2px solid transparent;margin-bottom:-1px}
+.onglets a.on{color:var(--encre);border-color:var(--lavande)}
+.carte{background:var(--carte);border:1px solid var(--ligne);border-radius:14px;padding:24px}
+.carte h2{font-size:19px;font-weight:400;margin:0 0 4px}.carte .sous{color:var(--doux);font-size:13px;margin:0 0 16px}
+.types{display:grid;grid-template-columns:repeat(6,1fr);gap:12px;margin-bottom:22px}
+.type{display:block;text-decoration:none;background:var(--carte);border:1px solid var(--ligne);border-radius:12px;padding:16px 14px 14px;transition:border-color .15s}
+.type:hover{border-color:var(--lavande)}
+.type svg{width:26px;height:26px;stroke:var(--lavande);fill:none;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:round;margin-bottom:10px}
+.type b{display:block;font-weight:500}.type small{display:block;color:var(--doux);font-size:12px;line-height:1.4;margin-top:2px}
+.grille{display:grid;grid-template-columns:1.25fr 1fr;gap:22px;margin-bottom:22px}
+.prep{display:grid;grid-template-columns:76px 1fr auto;gap:14px;align-items:center;padding:13px 0;border-top:1px dashed var(--ligne)}
+.prep:first-of-type{border-top:0;padding-top:0}
+.prep .d{font-size:12px;color:var(--doux);line-height:1.25}.prep .d b{display:block;font-size:20px;font-weight:300;color:var(--encre)}
+.prep .t{font-weight:500}.prep small{display:block;color:var(--doux);font-size:12px}
+.origine{display:inline-block;font-size:11px;border-radius:10px;padding:1px 8px;margin-right:4px}
+.o-plan{background:#e8efe9;color:#55745d}.o-eval{background:#f6e4d8;color:#9a5a3a}.o-supp{background:#efe9f4;color:#6d6292}
+.code{font-size:11px;color:var(--doux);background:#f3eee5;border-radius:6px;padding:1px 6px;margin-right:4px;white-space:nowrap}
+.btn{display:inline-block;border:1px solid var(--encre);background:none;border-radius:20px;padding:7px 16px;font-size:13px;color:var(--encre);text-decoration:none;cursor:pointer;white-space:nowrap}
+.btn.plein{background:var(--encre);color:var(--papier)}.btn.petit{padding:4px 12px;font-size:12px}
+.idee textarea{width:100%;min-height:96px;border:1px solid var(--ligne);border-radius:10px;padding:12px 14px;font:inherit;font-size:14px;background:#fffefb;color:var(--encre);resize:vertical}
+.idee .lies{margin:12px 0 4px;font-size:12px;color:var(--doux)}
+.idee .lie{display:flex;gap:8px;align-items:baseline;padding:6px 0;font-size:13px;border-top:1px dashed var(--ligne)}
+.idee .lie:first-of-type{border-top:0}
+.idee .sym{margin-left:auto;font-size:12px;color:var(--doux);white-space:nowrap}
+.pied{display:flex;justify-content:space-between;align-items:center;gap:12px;margin-top:14px;flex-wrap:wrap}
+.garde{margin-top:14px;padding:12px 14px;border-left:3px solid var(--lavande);background:#f4f1f8;font-size:12px;color:#5b5276}
+table{width:100%;border-collapse:collapse}th,td{text-align:left;padding:12px 8px;border-top:1px dashed var(--ligne);font-size:13px;vertical-align:middle}
+th{color:var(--doux);font-weight:500;font-size:12px;border-top:0;padding-top:0}
+td small{display:block;color:var(--doux);font-size:12px}
+.genre{display:inline-block;padding:3px 10px;border-radius:20px;font-size:12px;background:#efe9f4;color:#6d6292;white-space:nowrap}
+.actions{display:flex;gap:6px;justify-content:flex-end}
+.biblio-tete{display:flex;justify-content:space-between;align-items:baseline;gap:12px;margin-bottom:12px}
+.recherche{border:1px solid var(--ligne);border-radius:20px;padding:6px 14px;font-size:13px;color:var(--doux);background:#fffefb;min-width:260px}
+footer{max-width:1180px;margin:0 auto;padding:0 32px 30px;color:var(--doux);font-size:12px;display:flex;justify-content:space-between}
+@media (max-width:760px){.types{grid-template-columns:1fr 1fr !important}.prep{grid-template-columns:60px minmax(0,1fr) !important}.prep .btn{grid-column:2}.recherche{min-width:0;width:100%}.biblio-tete{flex-direction:column;align-items:stretch}}
+</style>
+<style>
+.filtres-b{display:flex;flex-wrap:wrap;gap:8px;margin:0 0 16px}.filtres-b span{border:1px solid var(--ligne);background:var(--carte);border-radius:20px;padding:6px 14px;font-size:13px}
+.filtres-b span b{font-weight:500;color:var(--doux);margin-right:4px}.filtres-b span.on{border-color:var(--lavande);background:#f4f1f8}
+.mois{font-size:12px;letter-spacing:.1em;text-transform:uppercase;color:var(--doux);margin:18px 0 4px}
+.cartes{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:14px}
+.mcarte{background:var(--carte);border:1px solid var(--ligne);border-radius:12px;padding:16px}
+.mcarte .h{display:flex;justify-content:space-between;align-items:baseline;gap:8px}.mcarte b{font-weight:500}
+.mcarte p{margin:6px 0 8px;font-size:12.5px;color:var(--doux)}
+.mcarte .qui{font-size:12px;color:var(--doux);margin-top:8px;border-top:1px dashed var(--ligne);padding-top:8px}
+.mcarte .act{display:flex;gap:6px;margin-top:10px;flex-wrap:wrap}
+.vignette{height:92px;border:1px solid #e3dccf;border-radius:6px;background:#fff;margin-bottom:10px;padding:8px 10px;font-size:9.5px;color:#8a8278;line-height:1.5;overflow:hidden}
+.vignette .ent{display:flex;justify-content:space-between;border-bottom:1px solid #eee5d8;padding-bottom:4px;margin-bottom:5px;color:#5c564f}
+.vignette i{display:block;height:5px;background:#efe9de;border-radius:3px;margin:5px 0}
+.regle{margin-bottom:18px;padding:14px 16px;border-left:3px solid var(--lavande);background:#f4f1f8;font-size:13px;color:#5b5276;display:flex;justify-content:space-between;gap:16px;align-items:center;flex-wrap:wrap}
+.sect{display:flex;justify-content:space-between;align-items:baseline;margin:6px 0 12px}.sect h2{font-size:19px;font-weight:400;margin:0}.sect span{font-size:13px;color:var(--doux)}
+@media (max-width:760px){.cartes{grid-template-columns:minmax(0,1fr) !important}}
+</style>
+<link rel="stylesheet" href="mobile.css">
+</head><body>
+<header>
+  <div class="logo">Salle des <i>profs</i></div>
+  <nav><a href="accueil-e-carnet-retenue.html">Accueil</a><a href="planifier.html">Planifier</a><a class="on" href="creer.html">Créer</a><a href="evaluer-correction.html">Évaluer</a><a href="#">Observer</a></nav>
+  <div class="moi">Marie Gagnon</div>
+</header>
+<main>
+  <div class="tete">
+    <div><h1>Créer</h1><p>Du matériel prêt à imprimer ou à projeter, arrimé à la PDA</p></div>
+    <div class="filtre"><span>4e année, groupe 41</span><span>Toutes les matières</span><span>Étape 2</span></div>
+  </div>
+  <div class="onglets"><a href="creer.html">Nouveau</a><a href="creer-bibliotheque.html">Ma bibliothèque</a><a class="on" href="creer-partage.html">Partagé dans l’école</a><a href="creer-modeles.html">Modèles</a></div>
+
+<div class="regle"><span>Seul le matériel est partagé : aucun nom d’élève, aucun résultat. Vous restez l’autrice et pouvez retirer un partage en tout temps.</span><a class="btn petit" href="creer-bibliotheque.html">Partager du matériel</a></div>
+<div class="filtres-b"><span class="on"><b>Niveau</b>4e année</span><span><b>Cycle</b>2e cycle</span><span><b>Matière</b>Toutes</span><span><b>Savoir</b>Tous</span></div>
+<div class="sect"><h2>De l’équipe du 2e cycle</h2><span>École des Érables · 11 documents</span></div>
+<div class="cartes">
+<div class="mcarte"><div class="vignette"><div class="ent"><span>Les angles</span><span>Nom : ____</span></div><i></i><i style="width:70%"></i><i></i><i style="width:55%"></i></div><div class="h"><b>Les angles droits, aigus et obtus</b><span class="genre">Fiche</span></div><p>2 niveaux · 1 page + corrigé</p><span class="code">MAT-MES-023</span><div class="qui">Julie Tremblay · 4e année, groupe 42 · utilisé par 3 collègues</div><div class="act"><a class="btn petit" href="#">Aperçu</a><a class="btn petit plein" href="#">Ajouter à ma bibliothèque</a></div></div>
+<div class="mcarte"><div class="vignette"><div class="ent"><span>Cercle de lecture</span><span>4e</span></div><i></i><i></i><i style="width:60%"></i><i style="width:80%"></i></div><div class="h"><b>Carnet de cercle de lecture</b><span class="genre">Modèle</span></div><p>Rôles, fiche de lecteur, autoévaluation</p><span class="code">FRA-APP-043</span><div class="qui">Karim Benali · 3e et 4e années · utilisé par 6 collègues</div><div class="act"><a class="btn petit" href="#">Aperçu</a><a class="btn petit plein" href="#">Ajouter à ma bibliothèque</a></div></div>
+<div class="mcarte"><div class="vignette"><div class="ent"><span>Les états de la matière</span><span>Équipe</span></div><i style="width:80%"></i><i></i><i style="width:65%"></i><i></i></div><div class="h"><b>Les états de la matière en 3 stations</b><span class="genre">Activité</span></div><p>Atelier en rotation · 60 minutes</p><span class="code">SCT-LUN-013</span><div class="qui">Sophie Gagnon · 4e année, groupe 43 · nouveau</div><div class="act"><a class="btn petit" href="#">Aperçu</a><a class="btn petit plein" href="#">Ajouter à ma bibliothèque</a></div></div>
+</div>
+<div class="sect" style="margin-top:24px"><h2>Que vous avez partagé</h2><span>3 documents</span></div>
+<div class="cartes">
+<div class="mcarte"><div class="h"><b>Fractions équivalentes : les recettes</b><span class="genre">Activité</span></div><p>Équipes de 3 · cartes à découper</p><span class="code">MAT-SEN-033</span><span class="code">MAT-OPE-032</span><div class="qui">Ajouté par 2 collègues · partagé le 6 nov.</div><div class="act"><a class="btn petit" href="#">Retirer le partage</a></div></div>
+<div class="mcarte"><div class="h"><b>L’adjectif et ses accords</b><span class="genre">Fiche</span></div><p>3 niveaux · 2 pages + corrigé</p><span class="code">FRA-ACC-022</span><span class="code">FRA-ACC-027</span><div class="qui">Ajouté par 1 collègue · partagé le 3 nov.</div><div class="act"><a class="btn petit" href="#">Retirer le partage</a></div></div>
+<div class="mcarte"><div class="h"><b>Dictée 6</b><span class="genre">Dictée</span></div><p>Texte, feuille-réponse et barème</p><span class="code">FRA-ACC-090</span><span class="code">FRA-ACC-091</span><div class="qui">Ajouté par 4 collègues · partagé le 1er nov.</div><div class="act"><a class="btn petit" href="#">Retirer le partage</a></div></div>
+</div>
+</main>
+<footer><span>Création sans aucune donnée d’élève · Fichiers dans votre OneDrive</span><span>Maquette statique</span></footer>
+</body></html>
