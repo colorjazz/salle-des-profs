@@ -42,6 +42,7 @@ main{max-width:1280px;margin:0 auto;padding:24px 32px 40px}
 .bas{display:flex;justify-content:space-between;align-items:center;margin-top:18px;color:var(--doux);font-size:12.5px}
 .type{display:block;text-decoration:none;color:inherit}
 a.btn{text-decoration:none;display:inline-block}
+.filtre{display:flex;gap:8px;flex-wrap:wrap;margin-top:10px}.filtre span{border:1px solid var(--ligne);background:var(--carte);border-radius:20px;padding:5px 13px;font-size:12.5px}
 </style>
 <style>
 .type{display:block;text-decoration:none;color:inherit}
@@ -69,14 +70,16 @@ aside .btn.plein{white-space:normal}
 .choix{display:flex;flex-wrap:wrap;gap:8px;margin:4px 0 14px}.choix span{border:1px solid var(--ligne);border-radius:10px;padding:8px 12px;font-size:13px;background:#fffefb;cursor:pointer}
 .choix span.on{border-color:var(--lavande);background:#f4f1f8}
 .choix span small{display:block;color:var(--doux);font-size:11px}
+.filtre{display:flex;gap:8px;flex-wrap:wrap;margin-top:10px}.filtre span{border:1px solid var(--ligne);background:var(--carte);border-radius:20px;padding:5px 13px;font-size:12.5px}
 </style>
 <link rel="stylesheet" href="mobile.css">
-</head><body>
+</head><body data-echantillon="primaire|4|FRA" data-echantillon-nom="4e année, français">
 <header><div class="logo serif">Salle des <i>profs</i></div>
 <nav><a href="accueil-e-carnet-retenue.html">Accueil</a><a href="planifier.html">Planifier</a><a class="on" href="creer.html">Créer</a><a href="evaluer-correction.html">Évaluer</a><a href="#">Observer</a></nav>
 <div class="moi">Marie Gagnon</div></header>
 <main>
-<div class="titre"><div><h1 class="serif">Créer : dictée</h1><p>4e année, groupe 41 · Français · Étape 2 · dictée 7, le jeudi 26 novembre</p></div>
+<div class="titre"><div><h1 class="serif">Créer : dictée</h1><p data-sdp="resume" data-matiere="effective">4e année, groupe 41 · Français · Étape 2 · dictée 7, le jeudi 26 novembre</p>
+<div class="filtre"><span data-genre="groupe">4e année, groupe 41</span><span data-genre="matiere">Toutes les matières</span><span data-genre="etape">Étape 2</span></div></div>
 <div class="etapes"><span class="fait">1. Type</span><span class="on">2. Contenu</span><span>3. Réglages</span><span>4. Aperçu</span></div></div>
 <div class="trois">
 <aside class="carte"><h3 class="serif">Que voulez-vous créer&nbsp;?</h3>
@@ -85,10 +88,10 @@ aside .btn.plein{white-space:normal}
 <section>
 <div class="sugg"><div><b>D’après la dictée 6 :</b> 14 élèves sur 24 confondent -er et -é. Ajouter des verbes à l’infinitif après une préposition ?</div><button class="btn">Ajouter 2 phrases</button></div>
 <div class="carte"><div class="gtitre">Mots de la liste 7 (orthographe d’usage)</div>
-<div class="mots"><span>automne</span><span>souvent</span><span>toujours</span><span>pendant</span><span>beaucoup</span><span>quelques</span><span>chaque</span><span>travailler</span><span>parce que</span><span>longtemps</span><span class="ajout">+ ajouter un mot</span></div>
+<div class="mots" data-exemple><span>automne</span><span>souvent</span><span>toujours</span><span>pendant</span><span>beaucoup</span><span>quelques</span><span>chaque</span><span>travailler</span><span>parce que</span><span>longtemps</span><span class="ajout">+ ajouter un mot</span></div>
 <div class="gtitre" style="margin-top:16px">Notions grammaticales de l’étape</div>
 <label class="sv on"><span class="box">✓</span><div class="svt">Identifier les donneurs d’accord : pronom de conjugaison (ex. : [Vous] participez au concert.)</div><div class="svb"><span class="b ma">Maîtrise attendue</span><span class="id">FRA-ACC-072</span></div></label><label class="sv on"><span class="box">✓</span><div class="svt">Accord du verbe quand le sujet est un groupe du nom : déterminant + nom</div><div class="svb"><span class="b ma">Maîtrise attendue</span><span class="id">FRA-ACC-098</span></div></label><label class="sv on"><span class="box">✓</span><div class="svt">Accord du déterminant et de l’adjectif avec le nom dans le groupe du nom</div><div class="svb"><span class="b ma">Maîtrise attendue</span><span class="id">FRA-ACC-092</span></div></label>
-<div class="texte-d"><u>Chaque</u> <u>automne</u>, <em>les oies</em> <em>traversent</em> le ciel. <u>Pendant</u> <u>longtemps</u>, nous les <em>regardons</em> passer. Elles <em>volent</em> <u>souvent</u> en grands V <u>parce qu’</u>elles <em>veulent</em> économiser leurs forces. Mon frère aime les <em>compter</em>, mais il y en a <u>toujours</u> <u>beaucoup</u> trop !</div>
+<div class="texte-d" data-exemple><u>Chaque</u> <u>automne</u>, <em>les oies</em> <em>traversent</em> le ciel. <u>Pendant</u> <u>longtemps</u>, nous les <em>regardons</em> passer. Elles <em>volent</em> <u>souvent</u> en grands V <u>parce qu’</u>elles <em>veulent</em> économiser leurs forces. Mon frère aime les <em>compter</em>, mais il y en a <u>toujours</u> <u>beaucoup</u> trop !</div>
 <div class="leg"><span><i style="background:#c9b8e0"></i>mot de la liste</span><span><i style="background:#e3c3ad"></i>notion grammaticale ciblée</span></div></div>
 </section>
 <aside><div class="carte"><h3 class="serif">Réglages</h3>
@@ -99,4 +102,4 @@ aside .btn.plein{white-space:normal}
 <button class="btn plein" style="width:100%;margin-top:14px">Créer la dictée et sa feuille-réponse</button>
 </div></aside></div>
 <div class="bas"><a class="btn" href="creer.html">← Retour à Créer</a><span>Aucune donnée d’élève n’est utilisée pour créer ce matériel.</span><button class="btn plein">Continuer : réglages →</button></div>
-</main></body></html>
+</main><script src="filtres.js"></script><script src="dynamique.js"></script></body></html>

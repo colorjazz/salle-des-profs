@@ -143,3 +143,13 @@ Dépendances : `pdfplumber`, `pypdfium2`, `Pillow`.
 ## Maquettes en ligne
 
 https://salledesprofs.netlify.app : Netlify publie seulement le dossier `maquettes/`, à chaque push sur `main`. Liste complète : `/liste`.
+
+### Catalogue des savoirs (maquettes et future application)
+
+`maquettes/catalogue/` réunit les 40 fichiers de `donnees/` en un format unique : 36 disciplines, 10 551 savoirs, un fichier par discipline et un `index.json`. Chaque savoir porte, pour chaque année, son statut : A (flèche), M (étoile), R (case bleue), P (au programme, pour les programmes sans progression), ou un objet par séquence ou programme (CST, TS, SN ; ST, STE ; ATS, SE). Les maquettes s'en servent : la pastille Niveau (1re année à 5e secondaire) et la pastille Matière changent les savoirs proposés dans les assistants de Créer, les contenus à couvrir de Planifier et « Partir d'une idée ».
+
+```bash
+python3 -I outils/construire_catalogue.py donnees maquettes/catalogue
+```
+
+À relancer après toute modification des données.

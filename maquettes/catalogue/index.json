@@ -1,0 +1,504 @@
+{
+ "disciplines": [
+  {
+   "code": "FRA",
+   "nom": "Français",
+   "ordre": "primaire",
+   "niveaux": [
+    "1",
+    "2",
+    "3",
+    "4",
+    "5",
+    "6"
+   ],
+   "fichier": "pri-fra.json",
+   "n": 1188
+  },
+  {
+   "code": "MAT",
+   "nom": "Mathématique",
+   "ordre": "primaire",
+   "niveaux": [
+    "1",
+    "2",
+    "3",
+    "4",
+    "5",
+    "6"
+   ],
+   "fichier": "pri-mat.json",
+   "n": 244
+  },
+  {
+   "code": "SCT",
+   "nom": "Science et technologie",
+   "ordre": "primaire",
+   "niveaux": [
+    "1",
+    "2",
+    "3",
+    "4",
+    "5",
+    "6"
+   ],
+   "fichier": "pri-sct.json",
+   "n": 171
+  },
+  {
+   "code": "US",
+   "nom": "Géographie, histoire et éducation à la citoyenneté",
+   "ordre": "primaire",
+   "niveaux": [
+    "1",
+    "2",
+    "3",
+    "4",
+    "5",
+    "6"
+   ],
+   "fichier": "pri-us.json",
+   "n": 270
+  },
+  {
+   "code": "ALS",
+   "nom": "Anglais, langue seconde",
+   "ordre": "primaire",
+   "niveaux": [
+    "1",
+    "2",
+    "3",
+    "4",
+    "5",
+    "6"
+   ],
+   "fichier": "pri-als.json",
+   "n": 140
+  },
+  {
+   "code": "CCQ",
+   "nom": "Culture et citoyenneté québécoise",
+   "ordre": "primaire",
+   "niveaux": [
+    "1",
+    "2",
+    "3",
+    "4",
+    "5",
+    "6"
+   ],
+   "fichier": "pri-ccq.json",
+   "n": 77
+  },
+  {
+   "code": "EPS",
+   "nom": "Éducation physique et à la santé",
+   "ordre": "primaire",
+   "niveaux": [
+    "1",
+    "2",
+    "3",
+    "4",
+    "5",
+    "6"
+   ],
+   "fichier": "pri-eps.json",
+   "n": 214
+  },
+  {
+   "code": "ADR",
+   "nom": "Art dramatique",
+   "ordre": "primaire",
+   "niveaux": [
+    "1",
+    "2",
+    "3",
+    "4",
+    "5",
+    "6"
+   ],
+   "fichier": "pri-adr.json",
+   "n": 240
+  },
+  {
+   "code": "APL",
+   "nom": "Arts plastiques",
+   "ordre": "primaire",
+   "niveaux": [
+    "1",
+    "2",
+    "3",
+    "4",
+    "5",
+    "6"
+   ],
+   "fichier": "pri-apl.json",
+   "n": 130
+  },
+  {
+   "code": "DAN",
+   "nom": "Danse",
+   "ordre": "primaire",
+   "niveaux": [
+    "1",
+    "2",
+    "3",
+    "4",
+    "5",
+    "6"
+   ],
+   "fichier": "pri-dan.json",
+   "n": 176
+  },
+  {
+   "code": "MUS",
+   "nom": "Musique",
+   "ordre": "primaire",
+   "niveaux": [
+    "1",
+    "2",
+    "3",
+    "4",
+    "5",
+    "6"
+   ],
+   "fichier": "pri-mus.json",
+   "n": 163
+  },
+  {
+   "code": "FRA",
+   "nom": "Français",
+   "ordre": "secondaire",
+   "niveaux": [
+    "1",
+    "2",
+    "3",
+    "4",
+    "5"
+   ],
+   "fichier": "sec-fra.json",
+   "n": 746
+  },
+  {
+   "code": "MAT",
+   "nom": "Mathématique",
+   "ordre": "secondaire",
+   "niveaux": [
+    "1",
+    "2",
+    "3",
+    "4",
+    "5"
+   ],
+   "fichier": "sec-mat.json",
+   "n": 422,
+   "variantes": {
+    "4": [
+     "CST",
+     "TS",
+     "SN"
+    ],
+    "5": [
+     "CST",
+     "TS",
+     "SN"
+    ]
+   }
+  },
+  {
+   "code": "CCQ",
+   "nom": "Culture et citoyenneté québécoise",
+   "ordre": "secondaire",
+   "niveaux": [
+    "1",
+    "2",
+    "3",
+    "4",
+    "5"
+   ],
+   "fichier": "sec-ccq.json",
+   "n": 154
+  },
+  {
+   "code": "EPS",
+   "nom": "Éducation physique et à la santé",
+   "ordre": "secondaire",
+   "niveaux": [
+    "1",
+    "2",
+    "3",
+    "4",
+    "5"
+   ],
+   "fichier": "sec-eps.json",
+   "n": 138
+  },
+  {
+   "code": "ADR",
+   "nom": "Art dramatique",
+   "ordre": "secondaire",
+   "niveaux": [
+    "1",
+    "2",
+    "3",
+    "4",
+    "5"
+   ],
+   "fichier": "sec-adr.json",
+   "n": 196
+  },
+  {
+   "code": "APL",
+   "nom": "Arts plastiques",
+   "ordre": "secondaire",
+   "niveaux": [
+    "1",
+    "2",
+    "3",
+    "4",
+    "5"
+   ],
+   "fichier": "sec-apl.json",
+   "n": 167
+  },
+  {
+   "code": "DAN",
+   "nom": "Danse",
+   "ordre": "secondaire",
+   "niveaux": [
+    "1",
+    "2",
+    "3",
+    "4",
+    "5"
+   ],
+   "fichier": "sec-dan.json",
+   "n": 159
+  },
+  {
+   "code": "MUS",
+   "nom": "Musique",
+   "ordre": "secondaire",
+   "niveaux": [
+    "1",
+    "2",
+    "3",
+    "4",
+    "5"
+   ],
+   "fichier": "sec-mus.json",
+   "n": 179
+  },
+  {
+   "code": "ALSB",
+   "nom": "Anglais, langue seconde (programme de base)",
+   "ordre": "secondaire",
+   "niveaux": [
+    "1",
+    "2",
+    "3",
+    "4",
+    "5"
+   ],
+   "fichier": "sec-alsb.json",
+   "n": 188
+  },
+  {
+   "code": "ALSE",
+   "nom": "Anglais, langue seconde (programme enrichi)",
+   "ordre": "secondaire",
+   "niveaux": [
+    "1",
+    "2",
+    "3",
+    "4",
+    "5"
+   ],
+   "fichier": "sec-alse.json",
+   "n": 212
+  },
+  {
+   "code": "ATS",
+   "nom": "Applications technologiques et scientifiques (ATS, SE)",
+   "ordre": "secondaire",
+   "niveaux": [
+    "3",
+    "4"
+   ],
+   "fichier": "sec-ats.json",
+   "n": 558,
+   "variantes": {
+    "4": [
+     "ATS",
+     "SE"
+    ]
+   }
+  },
+  {
+   "code": "CHI",
+   "nom": "Chimie",
+   "ordre": "secondaire",
+   "niveaux": [
+    "5"
+   ],
+   "fichier": "sec-chi.json",
+   "n": 145
+  },
+  {
+   "code": "ELT",
+   "nom": "Espagnol, langue tierce",
+   "ordre": "secondaire",
+   "niveaux": [
+    "3",
+    "4",
+    "5"
+   ],
+   "fichier": "sec-elt.json",
+   "n": 385
+  },
+  {
+   "code": "FLSB",
+   "nom": "Français, langue seconde (programme de base)",
+   "ordre": "secondaire",
+   "niveaux": [
+    "1",
+    "2",
+    "3",
+    "4",
+    "5"
+   ],
+   "fichier": "sec-flsb.json",
+   "n": 472
+  },
+  {
+   "code": "FLSE",
+   "nom": "Français, langue seconde (programme enrichi)",
+   "ordre": "secondaire",
+   "niveaux": [
+    "1",
+    "2",
+    "3",
+    "4",
+    "5"
+   ],
+   "fichier": "sec-flse.json",
+   "n": 529
+  },
+  {
+   "code": "GEO",
+   "nom": "Géographie",
+   "ordre": "secondaire",
+   "niveaux": [
+    "1",
+    "2"
+   ],
+   "fichier": "sec-geo.json",
+   "n": 192
+  },
+  {
+   "code": "GCU",
+   "nom": "Géographie culturelle",
+   "ordre": "secondaire",
+   "niveaux": [
+    "5"
+   ],
+   "fichier": "sec-gcu.json",
+   "n": 366
+  },
+  {
+   "code": "H20",
+   "nom": "Histoire du 20e siècle",
+   "ordre": "secondaire",
+   "niveaux": [
+    "5"
+   ],
+   "fichier": "sec-h20.json",
+   "n": 123
+  },
+  {
+   "code": "HQC",
+   "nom": "Histoire du Québec et du Canada",
+   "ordre": "secondaire",
+   "niveaux": [
+    "3",
+    "4"
+   ],
+   "fichier": "sec-hqc.json",
+   "n": 427
+  },
+  {
+   "code": "HEC",
+   "nom": "Histoire et éducation à la citoyenneté (1er cycle)",
+   "ordre": "secondaire",
+   "niveaux": [
+    "1",
+    "2"
+   ],
+   "fichier": "sec-hec.json",
+   "n": 273
+  },
+  {
+   "code": "ILSS",
+   "nom": "Intégration linguistique, scolaire et sociale",
+   "ordre": "secondaire",
+   "niveaux": [
+    "1",
+    "2",
+    "3",
+    "4",
+    "5"
+   ],
+   "fichier": "sec-ilss.json",
+   "n": 499
+  },
+  {
+   "code": "MC",
+   "nom": "Monde contemporain",
+   "ordre": "secondaire",
+   "niveaux": [
+    "5"
+   ],
+   "fichier": "sec-mc.json",
+   "n": 197
+  },
+  {
+   "code": "PHY",
+   "nom": "Physique",
+   "ordre": "secondaire",
+   "niveaux": [
+    "5"
+   ],
+   "fichier": "sec-phy.json",
+   "n": 134
+  },
+  {
+   "code": "ST",
+   "nom": "Science et technologie (ST, STE)",
+   "ordre": "secondaire",
+   "niveaux": [
+    "1",
+    "2",
+    "3",
+    "4"
+   ],
+   "fichier": "sec-st.json",
+   "n": 611,
+   "variantes": {
+    "4": [
+     "ST",
+     "STE"
+    ]
+   }
+  },
+  {
+   "code": "EDF",
+   "nom": "Éducation financière",
+   "ordre": "secondaire",
+   "niveaux": [
+    "5"
+   ],
+   "fichier": "sec-edf.json",
+   "n": 66
+  }
+ ]
+}

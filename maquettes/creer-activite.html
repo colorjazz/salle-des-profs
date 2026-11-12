@@ -42,6 +42,7 @@ main{max-width:1280px;margin:0 auto;padding:24px 32px 40px}
 .bas{display:flex;justify-content:space-between;align-items:center;margin-top:18px;color:var(--doux);font-size:12.5px}
 .type{display:block;text-decoration:none;color:inherit}
 a.btn{text-decoration:none;display:inline-block}
+.filtre{display:flex;gap:8px;flex-wrap:wrap;margin-top:10px}.filtre span{border:1px solid var(--ligne);background:var(--carte);border-radius:20px;padding:5px 13px;font-size:12.5px}
 </style>
 <style>
 .type{display:block;text-decoration:none;color:inherit}
@@ -69,14 +70,16 @@ aside .btn.plein{white-space:normal}
 .choix{display:flex;flex-wrap:wrap;gap:8px;margin:4px 0 14px}.choix span{border:1px solid var(--ligne);border-radius:10px;padding:8px 12px;font-size:13px;background:#fffefb;cursor:pointer}
 .choix span.on{border-color:var(--lavande);background:#f4f1f8}
 .choix span small{display:block;color:var(--doux);font-size:11px}
+.filtre{display:flex;gap:8px;flex-wrap:wrap;margin-top:10px}.filtre span{border:1px solid var(--ligne);background:var(--carte);border-radius:20px;padding:5px 13px;font-size:12.5px}
 </style>
 <link rel="stylesheet" href="mobile.css">
-</head><body>
+</head><body data-echantillon="primaire|4|MAT" data-echantillon-nom="4e année, mathématique">
 <header><div class="logo serif">Salle des <i>profs</i></div>
 <nav><a href="accueil-e-carnet-retenue.html">Accueil</a><a href="planifier.html">Planifier</a><a class="on" href="creer.html">Créer</a><a href="evaluer-correction.html">Évaluer</a><a href="#">Observer</a></nav>
 <div class="moi">Marie Gagnon</div></header>
 <main>
-<div class="titre"><div><h1 class="serif">Créer : activité</h1><p>4e année, groupe 41 · Mathématique · Étape 2 · d’après « Partir d’une idée »</p></div>
+<div class="titre"><div><h1 class="serif">Créer : activité</h1><p data-sdp="resume" data-matiere="effective">4e année, groupe 41 · Mathématique · Étape 2 · d’après « Partir d’une idée »</p>
+<div class="filtre"><span data-genre="groupe">4e année, groupe 41</span><span data-genre="matiere">Toutes les matières</span><span data-genre="etape">Étape 2</span></div></div>
 <div class="etapes"><span class="fait">1. Type</span><span class="on">2. Contenu</span><span>3. Réglages</span><span>4. Aperçu</span></div></div>
 <div class="trois">
 <aside class="carte"><h3 class="serif">Que voulez-vous créer&nbsp;?</h3>
@@ -101,4 +104,4 @@ aside .btn.plein{white-space:normal}
 <button class="btn plein" style="width:100%;margin-top:14px">Créer l’activité (3 niveaux, cartes et corrigé)</button>
 </div></aside></div>
 <div class="bas"><a class="btn" href="creer.html">← Retour à Créer</a><span>Aucune donnée d’élève n’est utilisée pour créer ce matériel.</span><button class="btn plein">Continuer : réglages →</button></div>
-</main></body></html>
+</main><script src="filtres.js"></script><script src="dynamique.js"></script></body></html>

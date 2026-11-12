@@ -42,6 +42,7 @@ main{max-width:1280px;margin:0 auto;padding:24px 32px 40px}
 .bas{display:flex;justify-content:space-between;align-items:center;margin-top:18px;color:var(--doux);font-size:12.5px}
 .type{display:block;text-decoration:none;color:inherit}
 a.btn{text-decoration:none;display:inline-block}
+.filtre{display:flex;gap:8px;flex-wrap:wrap;margin-top:10px}.filtre span{border:1px solid var(--ligne);background:var(--carte);border-radius:20px;padding:5px 13px;font-size:12.5px}
 </style>
 <style>
 .type{display:block;text-decoration:none;color:inherit}
@@ -69,14 +70,16 @@ aside .btn.plein{white-space:normal}
 .choix{display:flex;flex-wrap:wrap;gap:8px;margin:4px 0 14px}.choix span{border:1px solid var(--ligne);border-radius:10px;padding:8px 12px;font-size:13px;background:#fffefb;cursor:pointer}
 .choix span.on{border-color:var(--lavande);background:#f4f1f8}
 .choix span small{display:block;color:var(--doux);font-size:11px}
+.filtre{display:flex;gap:8px;flex-wrap:wrap;margin-top:10px}.filtre span{border:1px solid var(--ligne);background:var(--carte);border-radius:20px;padding:5px 13px;font-size:12.5px}
 </style>
 <link rel="stylesheet" href="mobile.css">
-</head><body>
+</head><body data-echantillon="primaire|4|FRA" data-echantillon-nom="4e année, français">
 <header><div class="logo serif">Salle des <i>profs</i></div>
 <nav><a href="accueil-e-carnet-retenue.html">Accueil</a><a href="planifier.html">Planifier</a><a class="on" href="creer.html">Créer</a><a href="evaluer-correction.html">Évaluer</a><a href="#">Observer</a></nav>
 <div class="moi">Marie Gagnon</div></header>
 <main>
-<div class="titre"><div><h1 class="serif">Créer : texte de lecture</h1><p>4e année, groupe 41 · Français · Étape 2 · prévu le jeudi 12 novembre</p></div>
+<div class="titre"><div><h1 class="serif">Créer : texte de lecture</h1><p data-sdp="resume" data-matiere="effective">4e année, groupe 41 · Français · Étape 2 · prévu le jeudi 12 novembre</p>
+<div class="filtre"><span data-genre="groupe">4e année, groupe 41</span><span data-genre="matiere">Toutes les matières</span><span data-genre="etape">Étape 2</span></div></div>
 <div class="etapes"><span class="fait">1. Type</span><span class="on">2. Contenu</span><span>3. Réglages</span><span>4. Aperçu</span></div></div>
 <div class="trois">
 <aside class="carte"><h3 class="serif">Que voulez-vous créer&nbsp;?</h3>
@@ -88,11 +91,11 @@ aside .btn.plein{white-space:normal}
 <div class="choix"><span class="on">Récit d’aventure<small>inédit, 450 mots</small></span><span>Texte qui décrit<small>documentaire</small></span><span>Poème<small>inédit</small></span><span>Mon propre texte<small>importer</small></span></div>
 <div class="gtitre">Savoirs visés · Lire des textes variés</div>
 <label class="sv on"><span class="box">✓</span><div class="svt">Identifier les cinq temps d’un récit (situation de départ, élément déclencheur, péripéties, dénouement, situation finale)</div><div class="svb"><span class="b ap">Apprentissage</span><span class="id">FRA-LIR-032</span></div></label><label class="sv on"><span class="box">✓</span><div class="svt">Identifier les caractéristiques des personnages : traits de caractère</div><div class="svb"><span class="b ma">Maîtrise attendue</span><span class="id">FRA-LIR-040</span></div></label><label class="sv on"><span class="box">✓</span><div class="svt">Identifier le temps et les lieux d’un récit mentionnés de façon implicite</div><div class="svb"><span class="b ap">Apprentissage</span><span class="id">FRA-LIR-044</span></div></label>
-<div class="gtitre">Questions selon les critères du Cadre d’évaluation · Lire (50 % au 2e cycle)</div>
+<div data-exemple><div class="gtitre">Questions selon les critères du Cadre d’évaluation · Lire (50 % au 2e cycle)</div>
 <div class="q"><span class="n">4</span><div>Compréhension des éléments significatifs<small>Repérer des informations explicites et implicites</small></div><span class="pts">4 questions</span></div>
 <div class="q"><span class="n">2</span><div>Interprétation plausible<small>Pourquoi Léo garde-t-il la carte secrète ?</small></div><span class="pts">2 questions</span></div>
 <div class="q"><span class="n">1</span><div>Justification pertinente des réactions<small>Aurais-tu suivi le passage ? Explique.</small></div><span class="pts">1 question</span></div>
-<div class="q"><span class="n">1</span><div>Jugement critique<small>Le titre convient-il au récit ?</small></div><span class="pts">1 question</span></div></div>
+<div class="q"><span class="n">1</span><div>Jugement critique<small>Le titre convient-il au récit ?</small></div><span class="pts">1 question</span></div></div></div>
 </section>
 <aside><div class="carte"><h3 class="serif">Réglages</h3>
 <div class="reg"><div class="l">Longueur</div><div class="seg"><span>300 mots</span><span class="on">450 mots</span><span>600 mots</span></div></div><div class="reg"><div class="l">Thème</div><div class="seg"><span>L’automne (étape)</span><span class="on">Au choix</span></div></div><div class="reg"><div class="l">Différenciation</div><div class="seg"><span>Un texte</span><span class="on">Texte + version allégée</span></div><div style="font-size:12px;color:var(--doux);margin-top:5px">Même histoire, phrases plus courtes et vocabulaire expliqué en marge.</div></div><div class="reg"><div class="l">Questions</div><div class="seg"><span class="on">Sur feuille avec code</span><span>À l’oral</span></div></div>
@@ -103,4 +106,4 @@ aside .btn.plein{white-space:normal}
 <button class="btn plein" style="width:100%;margin-top:14px">Créer le texte et les 8 questions</button>
 </div></aside></div>
 <div class="bas"><a class="btn" href="creer.html">← Retour à Créer</a><span>Aucune donnée d’élève n’est utilisée pour créer ce matériel.</span><button class="btn plein">Continuer : réglages →</button></div>
-</main></body></html>
+</main><script src="filtres.js"></script><script src="dynamique.js"></script></body></html>

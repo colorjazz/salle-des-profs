@@ -42,6 +42,7 @@ main{max-width:1280px;margin:0 auto;padding:24px 32px 40px}
 .bas{display:flex;justify-content:space-between;align-items:center;margin-top:18px;color:var(--doux);font-size:12.5px}
 .type{display:block;text-decoration:none;color:inherit}
 a.btn{text-decoration:none;display:inline-block}
+.filtre{display:flex;gap:8px;flex-wrap:wrap;margin-top:10px}.filtre span{border:1px solid var(--ligne);background:var(--carte);border-radius:20px;padding:5px 13px;font-size:12.5px}
 </style>
 <style>
 .type{display:block;text-decoration:none;color:inherit}
@@ -69,14 +70,16 @@ aside .btn.plein{white-space:normal}
 .choix{display:flex;flex-wrap:wrap;gap:8px;margin:4px 0 14px}.choix span{border:1px solid var(--ligne);border-radius:10px;padding:8px 12px;font-size:13px;background:#fffefb;cursor:pointer}
 .choix span.on{border-color:var(--lavande);background:#f4f1f8}
 .choix span small{display:block;color:var(--doux);font-size:11px}
+.filtre{display:flex;gap:8px;flex-wrap:wrap;margin-top:10px}.filtre span{border:1px solid var(--ligne);background:var(--carte);border-radius:20px;padding:5px 13px;font-size:12.5px}
 </style>
 <link rel="stylesheet" href="mobile.css">
-</head><body>
+</head><body data-echantillon="primaire|4|MAT" data-echantillon-nom="4e année, mathématique">
 <header><div class="logo serif">Salle des <i>profs</i></div>
 <nav><a href="accueil-e-carnet-retenue.html">Accueil</a><a href="planifier.html">Planifier</a><a class="on" href="creer.html">Créer</a><a href="evaluer-correction.html">Évaluer</a><a href="#">Observer</a></nav>
 <div class="moi">Marie Gagnon</div></header>
 <main>
-<div class="titre"><div><h1 class="serif">Créer : Évaluation imprimable</h1><p>4e année, groupe 41 · Mathématique · Étape 2 · prévue le jeudi 12 novembre</p></div>
+<div class="titre"><div><h1 class="serif">Créer : Évaluation imprimable</h1><p data-sdp="resume" data-matiere="effective">4e année, groupe 41 · Mathématique · Étape 2 · prévue le jeudi 12 novembre</p>
+<div class="filtre"><span data-genre="groupe">4e année, groupe 41</span><span data-genre="matiere">Toutes les matières</span><span data-genre="etape">Étape 2</span></div></div>
 <div class="etapes"><span class="fait">1. Type</span><span class="on">2. Contenu</span><span>3. Réglages</span><span>4. Aperçu</span></div></div>
 <div class="trois">
 <aside class="carte"><h3 class="serif">Que voulez-vous créer&nbsp;?</h3>
@@ -84,13 +87,14 @@ aside .btn.plein{white-space:normal}
 </aside>
 <section>
 <div class="sugg"><div><b>Corrigée dans Évaluer :</b> chaque copie porte un code ; vous numérisez la pile, l’IA propose, vous validez.</div><a class="btn" href="evaluer-correction.html">Voir Évaluer</a></div>
-<div class="carte"><div class="gtitre">Questions · Les fractions</div>
+<div class="carte"><div class="gtitre">Savoirs évalués</div><label class="sv on"><span class="box">✓</span><div class="svt">Lire et écrire une fraction</div><div class="svb"><span class="b ma">Maîtrise attendue</span><span class="id">MAT-SEN-031</span></div></label><label class="sv on"><span class="box">✓</span><div class="svt">Comparer une fraction à 0, à ½ ou à 1</div><div class="svb"><span class="b ma">Maîtrise attendue</span><span class="id">MAT-SEN-032</span></div></label><label class="sv on"><span class="box">✓</span><div class="svt">Vérifier l’équivalence de deux fractions</div><div class="svb"><span class="b ap">Apprentissage</span><span class="id">MAT-SEN-033</span></div></label>
+<div data-exemple><div class="gtitre">Questions · Les fractions</div>
 <div class="q"><span class="n">1</span><div>Associe chaque fraction à la partie colorée du dessin.<small><span class="code">MAT-SEN-028</span> associer une fraction à une partie d’un tout</small><span class="crit">Raisonner · Application des processus</span></div><span class="pts">4 pts</span></div>
 <div class="q"><span class="n">2</span><div>Écris en chiffres : trois quarts, cinq huitièmes.<small><span class="code">MAT-SEN-031</span> lire et écrire une fraction</small><span class="crit">Raisonner · Maîtrise des connaissances</span></div><span class="pts">2 pts</span></div>
 <div class="q"><span class="n">3</span><div>Compare à 0, à ½ ou à 1 : 2/3, 5/10, 7/8.<small><span class="code">MAT-SEN-032</span> comparer une fraction à 0, à ½ ou à 1</small><span class="crit">Raisonner · Justification</span></div><span class="pts">3 pts</span></div>
 <div class="q"><span class="n">4</span><div>Léa dit que 2/4 et 3/6 sont équivalentes. A-t-elle raison ? Explique avec un dessin.<small><span class="code">MAT-SEN-033</span> vérifier l’équivalence de deux fractions</small><span class="crit">Raisonner · Justification</span><span class="crit">Communiquer</span></div><span class="pts">4 pts</span></div>
 <div class="q"><span class="n">5</span><div>Situation : partager 3 pizzas entre 4 amis. Quelle part reçoit chacun ?<small><span class="code">MAT-OPE-015</span> processus personnels, matériel ou dessins</small><span class="crit">Résoudre · Compréhension</span></div><span class="pts">7 pts</span></div>
-<div style="margin-top:10px;font-size:12.5px;color:var(--doux)">Total 20 points. Les critères viennent du Cadre d’évaluation : Raisonner compte pour 70 % et Résoudre pour 30 % au 2e cycle.</div></div>
+<div style="margin-top:10px;font-size:12.5px;color:var(--doux)">Total 20 points. Les critères viennent du Cadre d’évaluation : Raisonner compte pour 70 % et Résoudre pour 30 % au 2e cycle.</div></div></div>
 </section>
 <aside><div class="carte"><h3 class="serif">Réglages</h3>
 <div class="reg"><div class="l">Copies</div><div class="seg"><span class="on">Une par élève (24)</span><span>Sans code</span></div><div style="font-size:12px;color:var(--doux);margin-top:5px">Les noms restent chiffrés sur votre appareil ; ils s’impriment ici et la zone du nom est rognée avant toute correction par l’IA.</div></div><div class="reg"><div class="l">Durée</div><div class="seg"><span>30 min</span><span class="on">45 min</span><span>60 min</span></div></div><div class="reg"><div class="l">Version adaptée</div><div class="seg"><span>Aucune</span><span class="on">Police agrandie</span><span>Consignes lues</span></div><div style="font-size:12px;color:var(--doux);margin-top:5px">Vous choisissez sur votre appareil quelles copies en reçoivent une.</div></div><div class="reg"><div class="l">Grille de correction</div><div class="seg"><span class="on">Créer avec l’évaluation</span><span>Plus tard</span></div></div>
@@ -101,4 +105,4 @@ aside .btn.plein{white-space:normal}
 <button class="btn plein" style="width:100%;margin-top:14px">Créer et imprimer 24 copies</button>
 </div></aside></div>
 <div class="bas"><a class="btn" href="creer.html">← Retour à Créer</a><span>Les noms des élèves restent chiffrés sur cet appareil ; l’IA ne voit jamais la zone du nom.</span><button class="btn plein">Continuer : réglages →</button></div>
-</main></body></html>
+</main><script src="filtres.js"></script><script src="dynamique.js"></script></body></html>
