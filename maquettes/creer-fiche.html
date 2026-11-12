@@ -1,0 +1,79 @@
+<!DOCTYPE html><html lang="fr"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><title>Salle des profs — Créer</title>
+<link rel="stylesheet" href="polices/lexend.css">
+<style>
+:root{--papier:#faf7f1;--carte:#fffdf9;--encre:#33302b;--doux:#8a8278;--ligne:#ebe4d8;--terre:#b0704f;--terre-p:#f6e4d8;--sauge:#55745d;--sauge-p:#e4ece5;--lav:#7c6fa8;--lav-p:#ecebf6;--ble:#8a6a2a;--ble-p:#f4ead3}
+*{box-sizing:border-box}body{margin:0;background:var(--papier);color:var(--encre);font-family:"Lexend",system-ui,-apple-system,"Segoe UI",sans-serif;font-size:14px;line-height:1.5}
+.serif{font-family:"Lexend",system-ui,-apple-system,"Segoe UI",sans-serif;font-weight:300}
+header{max-width:1280px;margin:0 auto;padding:22px 32px 0;display:flex;align-items:baseline;gap:34px;border-bottom:1px solid var(--ligne)}
+.logo{font-size:21px;padding-bottom:16px}.logo i{color:var(--terre)}
+nav{display:flex;gap:24px}nav a{padding-bottom:16px;color:var(--doux);text-decoration:none;border-bottom:2px solid transparent}nav a.on{color:var(--encre);border-color:var(--lav)}
+.moi{margin-left:auto;color:var(--doux);font-size:13px}
+main{max-width:1280px;margin:0 auto;padding:24px 32px 40px}
+.titre{display:flex;align-items:flex-end;justify-content:space-between;margin:0 0 18px}
+.titre h1{font-size:28px;font-weight:400;margin:0}.titre p{margin:4px 0 0;color:var(--doux)}
+.etapes{display:flex;gap:6px;font-size:12.5px}.etapes span{padding:5px 12px;border-radius:20px;border:1px solid var(--ligne);color:var(--doux);background:var(--carte)}.etapes span.fait{color:var(--sauge);border-color:#cfdccf}.etapes span.on{background:var(--encre);border-color:var(--encre);color:var(--papier)}
+.trois{display:grid;grid-template-columns:230px 1fr 330px;gap:20px;align-items:start}
+.carte{background:var(--carte);border:1px solid var(--ligne);border-radius:14px;padding:18px}
+.carte h3{font-size:17px;font-weight:400;margin:0 0 12px}
+.type{display:block;padding:11px 12px;border:1px solid var(--ligne);border-radius:11px;margin-bottom:8px;background:#fff}
+.type b{display:block;font-size:13.5px;font-weight:600}.type span{font-size:12px;color:var(--doux)}
+.type.on{border-color:var(--lav);background:var(--lav-p);box-shadow:inset 3px 0 0 var(--lav)}
+.sugg{display:flex;gap:14px;align-items:center;background:var(--terre-p);border-radius:12px;padding:12px 16px;margin-bottom:14px;font-size:13px}
+.sugg b{color:#9a5a3a}.sugg .btn{margin-left:auto}
+.filtres{display:flex;gap:8px;margin-bottom:12px;flex-wrap:wrap}.fi{font-size:12.5px;padding:5px 12px;border-radius:20px;border:1px solid var(--ligne);background:#fff}.fi b{font-weight:600}
+.gtitre{font-size:12px;letter-spacing:.08em;text-transform:uppercase;color:var(--doux);margin:14px 0 6px}
+.sv{display:grid;grid-template-columns:24px 1fr auto;gap:12px;align-items:center;padding:10px 12px;border:1px solid var(--ligne);border-radius:10px;margin-bottom:6px;background:#fff}
+.sv.on{border-color:var(--lav);background:var(--lav-p)}
+.box{width:18px;height:18px;border-radius:5px;border:1.5px solid #c9c1b3;display:grid;place-items:center;font-size:12px;color:#fff}
+.sv.on .box{background:var(--lav);border-color:var(--lav)}
+.svt{font-size:13.5px}
+.svb{display:flex;flex-direction:column;align-items:flex-end;gap:3px}
+.b{font-size:11px;padding:2px 9px;border-radius:20px;white-space:nowrap}.b.ap{background:var(--ble-p);color:var(--ble)}.b.ma{background:var(--terre-p);color:#9a5a3a}.b.re{background:var(--sauge-p);color:var(--sauge)}
+.id{font-size:10.5px;color:#b3aa9c;font-family:ui-monospace,monospace}
+.reg{padding:10px 0;border-top:1px dashed var(--ligne);font-size:13px}.reg:first-of-type{border:0;padding-top:0}
+.reg .l{color:var(--doux);font-size:12px;margin-bottom:5px}
+.seg{display:flex;gap:4px;flex-wrap:wrap}.seg span{padding:4px 11px;border-radius:20px;border:1px solid var(--ligne);font-size:12.5px;background:#fff}.seg span.on{background:var(--encre);color:var(--papier);border-color:var(--encre)}
+.apercu{margin-top:14px;background:#fff;border:1px solid #e6e0d4;border-radius:8px;padding:16px 18px;box-shadow:0 10px 24px -18px rgba(0,0,0,.4);font-size:12px}
+.apercu h4{margin:0 0 2px;font-family:"Lexend",system-ui,-apple-system,"Segoe UI",sans-serif;font-weight:300;font-weight:400;font-size:15px}
+.apercu .meta{color:var(--doux);font-size:11px;margin-bottom:10px;display:flex;justify-content:space-between}
+.ex{margin:8px 0}.ex b{font-weight:600}.ligne{border-bottom:1px solid #d7d0c3;height:14px;margin:4px 0}
+.qr{width:34px;height:34px;background:repeating-conic-gradient(#33302b 0 25%,#fff 0 50%) 0 0/8px 8px;border:2px solid #33302b;float:right}
+.btn{border:1px solid var(--encre);background:none;border-radius:20px;padding:7px 15px;font-size:12.5px;color:var(--encre);white-space:nowrap}.btn.plein{background:var(--encre);color:var(--papier)}
+.bas{display:flex;justify-content:space-between;align-items:center;margin-top:18px;color:var(--doux);font-size:12.5px}
+</style>
+<link rel="stylesheet" href="mobile.css"></head><body>
+<header><div class="logo serif">Salle des <i>profs</i></div>
+<nav><a href="#">Accueil</a><a href="#">Planifier</a><a class="on" href="creer.html">Créer</a><a href="#">Évaluer</a><a href="#">Observer</a></nav>
+<div class="moi">Marie Gagnon</div></header>
+<main>
+<div class="titre"><div><h1 class="serif">Créer du matériel</h1><p>4e année, groupe 41 · Français · Étape 2</p></div>
+<div class="etapes"><span class="fait">1. Type</span><span class="on">2. Savoirs</span><span>3. Réglages</span><span>4. Aperçu</span></div></div>
+<div class="trois">
+<aside class="carte"><h3 class="serif">Que voulez-vous créer&nbsp;?</h3>
+<div class="type on"><b>Fiche d'exercices</b><span>À imprimer, avec corrigé</span></div>
+<div class="type"><b>Activité</b><span>Atelier, jeu, travail d'équipe</span></div>
+<div class="type"><b>Présentation</b><span>PowerPoint pour la leçon</span></div>
+<div class="type"><b>Évaluation imprimable</b><span>Avec QR par élève, corrigée dans Évaluer</span></div>
+<div class="type"><b>Dictée</b><span>Mots de la liste et notions de l'étape</span></div>
+<div class="type"><b>Texte de lecture</b><span>Avec questions selon les critères</span></div>
+</aside>
+<section>
+<div class="sugg"><div><b>Suggestion d'après la dictée 6 :</b> 9 élèves sur 24 n'accordent pas le verbe avec son sujet.</div><button class="btn">Cibler ces élèves</button></div>
+<div class="filtres"><span class="fi"><b>Section</b> Accords</span><span class="fi"><b>Statut en 4e</b> tous</span><span class="fi"><b>Contenu prioritaire</b> oui</span><span class="fi">Rechercher un savoir…</span></div>
+<div class="carte"><div class="gtitre">Accords dans le groupe du nom</div><label class="sv"><span class="box"></span><div class="svt">Accord du déterminant avec le nom</div><div class="svb"><span class="b re">Réinvestissement</span><span class="id">FRA-ACC-090</span></div></label><label class="sv"><span class="box"></span><div class="svt">Accord de l'adjectif avec le nom</div><div class="svb"><span class="b re">Réinvestissement</span><span class="id">FRA-ACC-091</span></div></label><label class="sv"><span class="box"></span><div class="svt">Accord du déterminant et de l'adjectif avec le nom dans le groupe du nom</div><div class="svb"><span class="b ma">Maîtrise attendue</span><span class="id">FRA-ACC-092</span></div></label><div class="gtitre">Accord du verbe avec le sujet, quand le sujet est…</div><label class="sv on"><span class="box">✓</span><div class="svt">un pronom de conjugaison qui précède immédiatement le verbe</div><div class="svb"><span class="b ma">Maîtrise attendue</span><span class="id">FRA-ACC-094</span></div></label><label class="sv on"><span class="box">✓</span><div class="svt">un groupe du nom : déterminant + nom</div><div class="svb"><span class="b ma">Maîtrise attendue</span><span class="id">FRA-ACC-098</span></div></label><label class="sv"><span class="box"></span><div class="svt">un groupe du nom avec expansions (les petits chats noirs dorment)</div><div class="svb"><span class="b ap">Apprentissage</span><span class="id">FRA-ACC-100</span></div></label>
+<div style="margin-top:10px;font-size:12.5px;color:var(--doux)">Les savoirs et leur statut viennent de la Progression des apprentissages du Ministère. Les deux savoirs cochés sont à maîtriser à la fin de la 4e année.</div></div>
+</section>
+<aside><div class="carte"><h3 class="serif">Réglages</h3>
+<div class="reg"><div class="l">Différenciation</div><div class="seg"><span>Une version</span><span class="on">3 niveaux</span></div><div style="font-size:12px;color:var(--doux);margin-top:5px">Soutien, régulier, enrichi : même notion, difficulté graduée.</div></div>
+<div class="reg"><div class="l">Longueur</div><div class="seg"><span>Courte</span><span class="on">1 page</span><span>2 pages</span></div></div>
+<div class="reg"><div class="l">Contexte des phrases</div><div class="seg"><span class="on">Thème de l'étape : l'automne</span><span>Au choix</span></div></div>
+<div class="reg"><div class="l">Format</div><div class="seg"><span class="on">Word</span><span>PDF</span><span>Enregistrer dans OneDrive</span></div></div>
+<div class="apercu"><h4>L'accord du verbe avec son sujet</h4><div class="meta"><span>4e année · niveau régulier</span><span>Nom : ________________</span></div>
+<div class="ex"><b>1.</b> Souligne le sujet, puis accorde le verbe entre parenthèses.</div>
+<div style="color:var(--doux)">Les feuilles (tomber) ______ doucement.</div><div class="ligne"></div>
+<div style="color:var(--doux)">Elles (danser) ______ dans le vent.</div><div class="ligne"></div>
+<div class="ex"><b>2.</b> Remplace le sujet par un pronom, puis récris la phrase.</div><div class="ligne"></div><div class="ligne"></div></div>
+<button class="btn plein" style="width:100%;margin-top:14px">Créer la fiche (3 niveaux et corrigé)</button>
+</div></aside></div>
+<div class="bas"><button class="btn">← Changer de type</button><span>Aucune donnée d'élève n'est utilisée pour créer ce matériel.</span><button class="btn plein">Continuer : réglages →</button></div>
+</main></body></html>
