@@ -137,3 +137,7 @@ Dépendances : `pdfplumber`, `pypdfium2`, `Pillow`.
 - La 1.0 (Brûle la pile) reste dans `colorjazz/bombe`, déployée par Cloudflare depuis `main`, dossier `/correcteur`.
 - `correction/` est une copie du code de correction de la 1.0 : elle évolue ici sans toucher à la 1.0.
 - Une session Claude par dépôt, pour éviter que deux sessions modifient le même code en même temps.
+
+## Maquettes en ligne
+
+https://salledesprofs.netlify.app : Netlify publie seulement le dossier `maquettes/`, à chaque push sur `main`. Liste complète : `/liste`.
