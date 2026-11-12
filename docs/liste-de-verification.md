@@ -80,7 +80,8 @@
 - [ ] Gabarits Word et PowerPoint dans le navigateur (pptxgenjs, docx)
 - [ ] Contrôle automatique : aucune citation inventée, dates dans la période, savoirs existants
 
-## Idée : espace « Suppléance »
+## Idée : espace « Suppléance » (dans le volet Planifier)
+- [ ] Rangé dans **Planifier** : la trousse de suppléance découle de la planification et de l’horaire
 - [ ] Un endroit où l'enseignante prépare d'avance du matériel pour son remplacement (absence prévue ou imprévue)
 - [ ] Contenu : exercices à imprimer, activité autonome, consignes pour la suppléante, plan de la journée tiré de l'horaire, corrigé
 - [ ] Basé sur la planification : ce qui est prévu cette semaine selon la PDA, en révision (savoirs déjà vus), sans nouvelle notion
