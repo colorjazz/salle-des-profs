@@ -1,0 +1,633 @@
+{
+  "discipline": "Éducation financière",
+  "code_discipline": "EDF",
+  "ordre": "secondaire",
+  "annee": "5",
+  "source": "programme.pdf",
+  "source_cadre": "cadre.pdf",
+  "version": "programme 2018, cadre d’évaluation avril 2016",
+  "duree": "50 heures",
+  "type": "Précision des apprentissages : liste d’énoncés, sans progression par année (un seul niveau, 5e secondaire)",
+  "competence": {
+    "nom": "Prendre position sur un enjeu financier",
+    "composantes": {
+      "Cerner la situation": [
+        "Préciser les besoins",
+        "Examiner le budget",
+        "Établir des contraintes",
+        "Considérer des éléments du contexte socioéconomique"
+      ],
+      "Examiner des options": [
+        "Considérer les coûts afférents",
+        "Déterminer les risques",
+        "Déterminer des avantages et des inconvénients",
+        "Choisir une option"
+      ],
+      "Considérer les aspects légaux": [
+        "Reconnaître des droits",
+        "Reconnaître des responsabilités",
+        "Connaître des instances légales où faire valoir ses droits"
+      ],
+      "Relativiser sa position": [
+        "Comparer ses choix à ceux d’autres",
+        "Reconnaître des influences sur son choix",
+        "Reconsidérer son choix"
+      ]
+    }
+  },
+  "enjeux": [
+    {
+      "enjeu": "Consommer des biens et des services",
+      "concepts": [
+        "consommation",
+        "endettement",
+        "épargne",
+        "pouvoir d’achat"
+      ],
+      "sections": [
+        "1. Phénomène de la consommation",
+        "2. Droits, responsabilités et recours",
+        "3. Crédit à la consommation",
+        "4. Rôles de la publicité",
+        "5. Épargne personnelle"
+      ]
+    },
+    {
+      "enjeu": "Intégrer le monde du travail",
+      "concepts": [
+        "imposition",
+        "rémunération",
+        "travail"
+      ],
+      "sections": [
+        "1. Règles relatives au travail",
+        "2. Rémunération",
+        "3. Impôt sur le revenu",
+        "4. Assurance-emploi",
+        "5. Conciliation études-travail",
+        "6. Fraude fiscale"
+      ]
+    },
+    {
+      "enjeu": "Poursuivre des études",
+      "concepts": [
+        "financement",
+        "formation",
+        "qualification"
+      ],
+      "sections": [
+        "1. Perspectives d’emploi",
+        "2. Coûts liés aux études",
+        "3. Financement des études secondaires en formation professionnelle et des études postsecondaires"
+      ]
+    }
+  ],
+  "cadre_evaluation": {
+    "competence": "Prendre position sur un enjeu financier",
+    "ponderation": "100 %",
+    "criteres": [
+      "Maîtrise des connaissances",
+      "Justification appropriée du choix"
+    ],
+    "precision_critere": {},
+    "note": "Les connaissances sont évaluées aux moments choisis par l’enseignant, qui détermine l’importance à accorder, dans le résultat de l’élève, aux différentes dimensions à évaluer."
+  },
+  "bilan": {
+    "nombre_savoirs": 66,
+    "par_enjeu": {
+      "Consommer des biens et des services": 30,
+      "Intégrer le monde du travail": 24,
+      "Poursuivre des études": 12
+    }
+  },
+  "savoirs": [
+    {
+      "id": "EDF-CON-001",
+      "enjeu": "Consommer des biens et des services",
+      "chemin": [
+        "1. Phénomène de la consommation"
+      ],
+      "texte": "a. Indiquer des facteurs influant sur les choix de consommation (ex. : âge, sexe, revenu)"
+    },
+    {
+      "id": "EDF-CON-002",
+      "enjeu": "Consommer des biens et des services",
+      "chemin": [
+        "1. Phénomène de la consommation"
+      ],
+      "texte": "b. Indiquer certaines raisons pour lesquelles les habitudes de consommation peuvent changer (ex. : contexte socioéconomique, nouvelles technologies, influence des pairs, valeurs personnelles)"
+    },
+    {
+      "id": "EDF-CON-003",
+      "enjeu": "Consommer des biens et des services",
+      "chemin": [
+        "1. Phénomène de la consommation"
+      ],
+      "texte": "c. Nommer des ressources qui présentent de l’information ou des points de vue sur les biens et les services (ex. : sites Web, forums de discussion, revues spécialisées, émissions d’affaires publiques)"
+    },
+    {
+      "id": "EDF-CON-004",
+      "enjeu": "Consommer des biens et des services",
+      "chemin": [
+        "1. Phénomène de la consommation"
+      ],
+      "texte": "d. Indiquer comment s’établit le processus de fixation des prix : selon le principe de l’offre et de la demande"
+    },
+    {
+      "id": "EDF-CON-005",
+      "enjeu": "Consommer des biens et des services",
+      "chemin": [
+        "1. Phénomène de la consommation"
+      ],
+      "texte": "e. Nommer des dépenses fixes et des dépenses variables (ex. : logement et assurances, alimentation et loisirs)"
+    },
+    {
+      "id": "EDF-CON-006",
+      "enjeu": "Consommer des biens et des services",
+      "chemin": [
+        "1. Phénomène de la consommation"
+      ],
+      "texte": "f. Indiquer des raisons pour lesquelles l’État impose des taxes (ex. : financement des services publics, redistribution des revenus)"
+    },
+    {
+      "id": "EDF-CON-007",
+      "enjeu": "Consommer des biens et des services",
+      "chemin": [
+        "1. Phénomène de la consommation"
+      ],
+      "texte": "g. Nommer des taxes liées à la consommation (ex. : taxe sur les produits et les services [TPS], taxe de vente du Québec [TVQ], taxe d’accise)"
+    },
+    {
+      "id": "EDF-CON-008",
+      "enjeu": "Consommer des biens et des services",
+      "chemin": [
+        "1. Phénomène de la consommation"
+      ],
+      "texte": "h. Nommer des biens et des services non assujettis à la TPS et à la TVQ (ex. : livres [exemption de la TVQ seulement], médicaments délivrés sur ordonnance, produits alimentaires de base, services d’enseignement, services médicaux, services dentaires)"
+    },
+    {
+      "id": "EDF-CON-009",
+      "enjeu": "Consommer des biens et des services",
+      "chemin": [
+        "1. Phénomène de la consommation"
+      ],
+      "texte": "i. Indiquer les éléments à considérer pour établir une planification budgétaire : revenus, dépenses"
+    },
+    {
+      "id": "EDF-CON-010",
+      "enjeu": "Consommer des biens et des services",
+      "chemin": [
+        "2. Droits, responsabilités et recours"
+      ],
+      "texte": "a. Indiquer des droits des consommateurs (ex. : exiger le respect de la Politique d’exactitude des prix, obtenir le respect des garanties)"
+    },
+    {
+      "id": "EDF-CON-011",
+      "enjeu": "Consommer des biens et des services",
+      "chemin": [
+        "2. Droits, responsabilités et recours"
+      ],
+      "texte": "b. Indiquer des responsabilités des consommateurs (ex. : protéger ses renseignements personnels, respecter les clauses d’un contrat, conserver les factures et les preuves d’achat)"
+    },
+    {
+      "id": "EDF-CON-012",
+      "enjeu": "Consommer des biens et des services",
+      "chemin": [
+        "2. Droits, responsabilités et recours"
+      ],
+      "texte": "c. Indiquer des domaines régis par les lois en vigueur au Québec (ex. : contrats relatifs aux biens et aux services, contrats de crédit, garanties, pratiques de commerce au Québec, achats effectués auprès d’un commerçant itinérant)"
+    },
+    {
+      "id": "EDF-CON-013",
+      "enjeu": "Consommer des biens et des services",
+      "chemin": [
+        "2. Droits, responsabilités et recours"
+      ],
+      "texte": "d. Décrire le rôle d’organismes pouvant renseigner les consommateurs sur leurs droits et leurs obligations (ex. : le rôle de l’Office de la protection du consommateur est d’informer les consommateurs de leurs droits et de leurs responsabilités; le rôle de la Régie du logement est d’informer les propriétaires et les locataires de leurs droits et de leurs responsabilités et de décider des litiges en matière de bail résidentiel; le rôle des associations de consommateurs est d’informer les consommateurs sur leurs droits et leurs responsabilités)"
+    },
+    {
+      "id": "EDF-CON-014",
+      "enjeu": "Consommer des biens et des services",
+      "chemin": [
+        "2. Droits, responsabilités et recours"
+      ],
+      "texte": "e. Indiquer des recours mis à la disposition des consommateurs et des commerçants pour faire valoir leurs droits (ex. : service à la clientèle, ombudsman, mise en demeure, Cour des petites créances)"
+    },
+    {
+      "id": "EDF-CON-015",
+      "enjeu": "Consommer des biens et des services",
+      "chemin": [
+        "2. Droits, responsabilités et recours"
+      ],
+      "texte": "f. Indiquer un des principaux droits du commerçant : établir des règles d’échange et de remboursement"
+    },
+    {
+      "id": "EDF-CON-016",
+      "enjeu": "Consommer des biens et des services",
+      "chemin": [
+        "2. Droits, responsabilités et recours"
+      ],
+      "texte": "g. Indiquer certaines responsabilités du commerçant (ex. : respecter les règles d’échange et de remboursement établies ainsi que les garanties offertes, afficher les prix ou appliquer la Politique d’exactitude des prix, assurer le consommateur de la confidentialité des transactions)"
+    },
+    {
+      "id": "EDF-CON-017",
+      "enjeu": "Consommer des biens et des services",
+      "chemin": [
+        "3. Crédit à la consommation"
+      ],
+      "texte": "a. Indiquer la principale raison invoquée pour utiliser le crédit : se procurer immédiatement un bien ou un service en différant le paiement"
+    },
+    {
+      "id": "EDF-CON-018",
+      "enjeu": "Consommer des biens et des services",
+      "chemin": [
+        "3. Crédit à la consommation"
+      ],
+      "texte": "b. Identifier certains éléments pris en compte pour déterminer l’admissibilité au crédit (ex. : revenus, stabilité d’emploi, niveau d’endettement)"
+    },
+    {
+      "id": "EDF-CON-019",
+      "enjeu": "Consommer des biens et des services",
+      "chemin": [
+        "3. Crédit à la consommation"
+      ],
+      "texte": "c. Expliquer la fonction du dossier de crédit : présenter les antécédents d’un consommateur en matière de crédit"
+    },
+    {
+      "id": "EDF-CON-020",
+      "enjeu": "Consommer des biens et des services",
+      "chemin": [
+        "3. Crédit à la consommation"
+      ],
+      "texte": "d. Donner des renseignements contenus dans le dossier de crédit (ex. : renseignements personnels, renseignements sur le crédit, renseignements bancaires)"
+    },
+    {
+      "id": "EDF-CON-021",
+      "enjeu": "Consommer des biens et des services",
+      "chemin": [
+        "3. Crédit à la consommation"
+      ],
+      "texte": "e. Indiquer des situations dans lesquelles une caution peut être demandée (ex. : premier emprunt, absence de dossier de crédit, insolvabilité, location d’un logement)"
+    },
+    {
+      "id": "EDF-CON-022",
+      "enjeu": "Consommer des biens et des services",
+      "chemin": [
+        "3. Crédit à la consommation"
+      ],
+      "texte": "f. Expliquer le principal engagement de la personne qui sert de caution : payer à la place de l’emprunteur advenant un défaut de paiement"
+    },
+    {
+      "id": "EDF-CON-023",
+      "enjeu": "Consommer des biens et des services",
+      "chemin": [
+        "3. Crédit à la consommation"
+      ],
+      "texte": "g. Décrire des risques associés à l’utilisation du crédit (ex. : intérêts élevés sur le solde des cartes de crédit, accumulation de dettes, difficulté d’accès au crédit, baisse de la cote de crédit, effets sur la santé)"
+    },
+    {
+      "id": "EDF-CON-024",
+      "enjeu": "Consommer des biens et des services",
+      "chemin": [
+        "3. Crédit à la consommation"
+      ],
+      "texte": "h. Nommer les principaux types de contrats de crédit : les contrats de crédit variable, tels que la carte de crédit, la marge de crédit; les contrats de prêt d’argent, tels que le prêt personnel; les contrats assortis d’un crédit, tels que la vente à tempérament"
+    },
+    {
+      "id": "EDF-CON-025",
+      "enjeu": "Consommer des biens et des services",
+      "chemin": [
+        "3. Crédit à la consommation"
+      ],
+      "texte": "i. Indiquer des renseignements devant figurer sur les contrats de crédit (ex. : date et montant des paiements, coût d’emprunt)"
+    },
+    {
+      "id": "EDF-CON-026",
+      "enjeu": "Consommer des biens et des services",
+      "chemin": [
+        "3. Crédit à la consommation"
+      ],
+      "texte": "j. Indiquer certains droits et responsabilités du consommateur qui souscrit à un contrat de crédit variable (ex. : bénéficier du bien et du service immédiatement, payer les mensualités)"
+    },
+    {
+      "id": "EDF-CON-027",
+      "enjeu": "Consommer des biens et des services",
+      "chemin": [
+        "4. Rôles de la publicité"
+      ],
+      "texte": "a. Indiquer des objectifs de la publicité (ex. : informer, sensibiliser, changer des comportements, susciter des besoins)"
+    },
+    {
+      "id": "EDF-CON-028",
+      "enjeu": "Consommer des biens et des services",
+      "chemin": [
+        "4. Rôles de la publicité"
+      ],
+      "texte": "b. Nommer des lois qui encadrent des pratiques commerciales ainsi que la publicité (ex. : Loi sur la protection du consommateur, Loi sur l’emballage et l’étiquetage des produits de consommation, Loi sur les agents de voyages)"
+    },
+    {
+      "id": "EDF-CON-029",
+      "enjeu": "Consommer des biens et des services",
+      "chemin": [
+        "5. Épargne personnelle"
+      ],
+      "texte": "a. Donner des raisons d’épargner (ex. : accroître ses choix de consommation, réaliser des projets, constituer une réserve en cas d’imprévus)"
+    },
+    {
+      "id": "EDF-CON-030",
+      "enjeu": "Consommer des biens et des services",
+      "chemin": [
+        "5. Épargne personnelle"
+      ],
+      "texte": "b. Indiquer des affectations de l’épargne (ex. : compte d’épargne, plan d’épargne tel que le régime enregistré d’épargne-retraite)"
+    },
+    {
+      "id": "EDF-TRA-001",
+      "enjeu": "Intégrer le monde du travail",
+      "chemin": [
+        "1. Règles relatives au travail"
+      ],
+      "texte": "a. Nommer les principales lois qui encadrent les normes du travail : Loi sur les normes du travail, Code canadien du travail"
+    },
+    {
+      "id": "EDF-TRA-002",
+      "enjeu": "Intégrer le monde du travail",
+      "chemin": [
+        "1. Règles relatives au travail"
+      ],
+      "texte": "b. Nommer des secteurs encadrés par le Code canadien du travail (ex. : télécommunications, fonction publique fédérale)"
+    },
+    {
+      "id": "EDF-TRA-003",
+      "enjeu": "Intégrer le monde du travail",
+      "chemin": [
+        "1. Règles relatives au travail"
+      ],
+      "texte": "c. Indiquer des dispositions de la Loi sur les normes du travail (ex. : salaire minimum, durée du travail, jours fériés, chômés et payés, congés annuels payés, travail des enfants)"
+    },
+    {
+      "id": "EDF-TRA-004",
+      "enjeu": "Intégrer le monde du travail",
+      "chemin": [
+        "1. Règles relatives au travail"
+      ],
+      "texte": "d. Indiquer des avantages sociaux dont peut bénéficier un salarié (ex. : vacances, congés payés, assurances collectives)"
+    },
+    {
+      "id": "EDF-TRA-005",
+      "enjeu": "Intégrer le monde du travail",
+      "chemin": [
+        "1. Règles relatives au travail"
+      ],
+      "texte": "e. Expliquer certains droits des travailleurs garantis par la Charte des droits et libertés de la personne (ex. : non-discrimination à l’embauche, période de probation, conditions de renvoi)"
+    },
+    {
+      "id": "EDF-TRA-006",
+      "enjeu": "Intégrer le monde du travail",
+      "chemin": [
+        "1. Règles relatives au travail"
+      ],
+      "texte": "f. Indiquer des responsabilités du travailleur (ex. : devoir de discrétion, devoir de loyauté)"
+    },
+    {
+      "id": "EDF-TRA-007",
+      "enjeu": "Intégrer le monde du travail",
+      "chemin": [
+        "1. Règles relatives au travail"
+      ],
+      "texte": "g. Décrire le rôle d’organismes assurant l’application des lois et des règlements sur le travail (ex. : la Commission des relations du travail encadre notamment le droit d’association, l’accréditation et l’établissement des conventions collectives; la Commission de la santé et de la sécurité du travail est responsable de la prévention et de l’inspection sur les lieux de travail ainsi que de l’indemnisation et de la réadaptation des travailleurs)"
+    },
+    {
+      "id": "EDF-TRA-008",
+      "enjeu": "Intégrer le monde du travail",
+      "chemin": [
+        "1. Règles relatives au travail"
+      ],
+      "texte": "h. Décrire certains rôles d’un syndicat (ex. : représenter les travailleurs auprès de l’employeur, assurer l’application de la convention collective)"
+    },
+    {
+      "id": "EDF-TRA-009",
+      "enjeu": "Intégrer le monde du travail",
+      "chemin": [
+        "2. Rémunération"
+      ],
+      "texte": "a. Indiquer les principales composantes d’un bulletin de paie : salaire, durée du travail, déductions"
+    },
+    {
+      "id": "EDF-TRA-010",
+      "enjeu": "Intégrer le monde du travail",
+      "chemin": [
+        "2. Rémunération"
+      ],
+      "texte": "b. Nommer des retenues à la source (ex. : impôt sur le revenu, cotisation au Régime de rentes du Québec, cotisation au Régime québécois d’assurance parentale, cotisation à l’assurance-emploi, cotisation syndicale)"
+    },
+    {
+      "id": "EDF-TRA-011",
+      "enjeu": "Intégrer le monde du travail",
+      "chemin": [
+        "2. Rémunération"
+      ],
+      "texte": "c. Indiquer des sources de revenu dans la planification budgétaire (ex. : revenus d’emploi, cadeaux)"
+    },
+    {
+      "id": "EDF-TRA-012",
+      "enjeu": "Intégrer le monde du travail",
+      "chemin": [
+        "2. Rémunération"
+      ],
+      "texte": "d. Indiquer le principal objectif de l’équité salariale : garantir un salaire égal pour un travail équivalent sans égard au sexe"
+    },
+    {
+      "id": "EDF-TRA-013",
+      "enjeu": "Intégrer le monde du travail",
+      "chemin": [
+        "3. Impôt sur le revenu"
+      ],
+      "texte": "a. Donner des raisons pour lesquelles l’État prélève des impôts (ex. : financement des services publics, redistribution des revenus)"
+    },
+    {
+      "id": "EDF-TRA-014",
+      "enjeu": "Intégrer le monde du travail",
+      "chemin": [
+        "3. Impôt sur le revenu"
+      ],
+      "texte": "b. Indiquer sur quelle base est établi le taux d’imposition d’un contribuable : les tranches de revenu imposable"
+    },
+    {
+      "id": "EDF-TRA-015",
+      "enjeu": "Intégrer le monde du travail",
+      "chemin": [
+        "3. Impôt sur le revenu"
+      ],
+      "texte": "c. Indiquer la fonction de la déclaration de revenus : divulguer les revenus à transmettre annuellement aux gouvernements fédéral et provincial"
+    },
+    {
+      "id": "EDF-TRA-016",
+      "enjeu": "Intégrer le monde du travail",
+      "chemin": [
+        "4. Assurance-emploi"
+      ],
+      "texte": "a. Indiquer ce qui caractérise le chômage : situation d’une personne sans emploi qui a la capacité de travailler et qui souhaite le faire"
+    },
+    {
+      "id": "EDF-TRA-017",
+      "enjeu": "Intégrer le monde du travail",
+      "chemin": [
+        "4. Assurance-emploi"
+      ],
+      "texte": "b. Expliquer la fonction de la prestation d’assurance-emploi : offrir un revenu d’appoint temporaire aux personnes admissibles"
+    },
+    {
+      "id": "EDF-TRA-018",
+      "enjeu": "Intégrer le monde du travail",
+      "chemin": [
+        "4. Assurance-emploi"
+      ],
+      "texte": "c. Indiquer des critères d’admissibilité à la prestation d’assurance-emploi (ex. : avoir occupé un emploi assurable, avoir travaillé un nombre d’heures déterminé selon la région économique, ne pas être responsable de la perte de l’emploi)"
+    },
+    {
+      "id": "EDF-TRA-019",
+      "enjeu": "Intégrer le monde du travail",
+      "chemin": [
+        "5. Conciliation études-travail"
+      ],
+      "texte": "a. Indiquer des avantages et des inconvénients liés au fait de travailler pendant les études (ex. : gain d’expérience, accès au marché du travail facilité après les études, risque de difficultés scolaires, décrochage scolaire)"
+    },
+    {
+      "id": "EDF-TRA-020",
+      "enjeu": "Intégrer le monde du travail",
+      "chemin": [
+        "5. Conciliation études-travail"
+      ],
+      "texte": "b. Donner certaines façons de concilier les études et le travail (ex. : limiter le nombre d’heures, occuper un travail saisonnier)"
+    },
+    {
+      "id": "EDF-TRA-021",
+      "enjeu": "Intégrer le monde du travail",
+      "chemin": [
+        "5. Conciliation études-travail"
+      ],
+      "texte": "c. Indiquer des incidences économiques possibles du fait de ne pas obtenir de diplôme (ex. : revenu annuel moins élevé, précarité)"
+    },
+    {
+      "id": "EDF-TRA-022",
+      "enjeu": "Intégrer le monde du travail",
+      "chemin": [
+        "5. Conciliation études-travail"
+      ],
+      "texte": "d. Indiquer l’objectif du Programme études-travail de l’Aide financière aux études : permettre à des étudiants ayant une situation financière précaire d’obtenir un emploi dans leur établissement d’enseignement"
+    },
+    {
+      "id": "EDF-TRA-023",
+      "enjeu": "Intégrer le monde du travail",
+      "chemin": [
+        "6. Fraude fiscale"
+      ],
+      "texte": "a. Décrire certaines formes de fraude fiscale (ex. : travail au noir, vente illicite de biens et de services, omission de percevoir ou de payer les taxes)"
+    },
+    {
+      "id": "EDF-TRA-024",
+      "enjeu": "Intégrer le monde du travail",
+      "chemin": [
+        "6. Fraude fiscale"
+      ],
+      "texte": "b. Expliquer certaines conséquences de la fraude fiscale (ex. : perte de revenus pour l’État, iniquité entre les contribuables, absence de protection pour le consommateur ou le travailleur, pénalités, accusations criminelles)"
+    },
+    {
+      "id": "EDF-ETU-001",
+      "enjeu": "Poursuivre des études",
+      "chemin": [
+        "1. Perspectives d’emploi"
+      ],
+      "texte": "a. Indiquer les principaux critères d’établissement du salaire : qualifications, compétences, fonctions, responsabilités, rendement"
+    },
+    {
+      "id": "EDF-ETU-002",
+      "enjeu": "Poursuivre des études",
+      "chemin": [
+        "1. Perspectives d’emploi"
+      ],
+      "texte": "b. Nommer des types de rémunération (ex. : salaire horaire, commission, pourboire)"
+    },
+    {
+      "id": "EDF-ETU-003",
+      "enjeu": "Poursuivre des études",
+      "chemin": [
+        "1. Perspectives d’emploi"
+      ],
+      "texte": "c. Indiquer des stratégies de recherche d’emploi (ex. : consultation d’offres d’emploi, visite chez des employeurs, utilisation des réseaux existants)"
+    },
+    {
+      "id": "EDF-ETU-004",
+      "enjeu": "Poursuivre des études",
+      "chemin": [
+        "1. Perspectives d’emploi"
+      ],
+      "texte": "d. Nommer des organismes d’aide à la recherche d’emploi (ex. : carrefours jeunesse-emploi, Emploi-Québec)"
+    },
+    {
+      "id": "EDF-ETU-005",
+      "enjeu": "Poursuivre des études",
+      "chemin": [
+        "2. Coûts liés aux études"
+      ],
+      "texte": "a. Indiquer des modes de financement des études (ex. : travail, prêt étudiant, prêt personnel, bourse d’études, aide parentale, régime enregistré d’épargne-études)"
+    },
+    {
+      "id": "EDF-ETU-006",
+      "enjeu": "Poursuivre des études",
+      "chemin": [
+        "2. Coûts liés aux études"
+      ],
+      "texte": "b. Donner des facteurs de variabilité des frais d’inscription et des droits de scolarité (ex. : niveau d’enseignement, programme choisi, emplacement de l’établissement)"
+    },
+    {
+      "id": "EDF-ETU-007",
+      "enjeu": "Poursuivre des études",
+      "chemin": [
+        "2. Coûts liés aux études"
+      ],
+      "texte": "c. Indiquer des dépenses inhérentes à la poursuite des études dont il faut tenir compte dans la planification budgétaire (ex. : droits de scolarité, matériel scolaire, transport, logement)"
+    },
+    {
+      "id": "EDF-ETU-008",
+      "enjeu": "Poursuivre des études",
+      "chemin": [
+        "3. Financement des études secondaires en formation professionnelle et des études postsecondaires"
+      ],
+      "texte": "a. Indiquer la principale responsabilité associée à l’obtention d’un prêt étudiant : rembourser le prêt selon les modalités convenues"
+    },
+    {
+      "id": "EDF-ETU-009",
+      "enjeu": "Poursuivre des études",
+      "chemin": [
+        "3. Financement des études secondaires en formation professionnelle et des études postsecondaires"
+      ],
+      "texte": "b. Indiquer des lieux où l’on peut obtenir de l’aide financière pour la poursuite des études (ex. Aide financière aux études du gouvernement du Québec, institutions financières, organismes à but non lucratif, fondations)"
+    },
+    {
+      "id": "EDF-ETU-010",
+      "enjeu": "Poursuivre des études",
+      "chemin": [
+        "3. Financement des études secondaires en formation professionnelle et des études postsecondaires"
+      ],
+      "texte": "c. Décrire la principale caractéristique d’un prêt émis par l’Aide financière aux études du gouvernement du Québec : la prise en charge, par le gouvernement, des intérêts associés au prêt pendant les études"
+    },
+    {
+      "id": "EDF-ETU-011",
+      "enjeu": "Poursuivre des études",
+      "chemin": [
+        "3. Financement des études secondaires en formation professionnelle et des études postsecondaires"
+      ],
+      "texte": "d. Indiquer des conditions d’admissibilité au Programme de prêts et bourses de l’Aide financière aux études (ex. : études à temps plein, limite d’endettement non atteinte, ressources financières insuffisantes pour la poursuite des études)"
+    },
+    {
+      "id": "EDF-ETU-012",
+      "enjeu": "Poursuivre des études",
+      "chemin": [
+        "3. Financement des études secondaires en formation professionnelle et des études postsecondaires"
+      ],
+      "texte": "e. Décrire la manière dont est calculé le montant d’aide financière accordée par le gouvernement : les contributions de l’étudiant, de ses parents ou de son conjoint sont soustraites des dépenses admises"
+    }
+  ]
+}

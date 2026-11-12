@@ -37,6 +37,7 @@ La tentative de Gemini (`gemini/resultats/inventaire-pfeq-gemini-OBSOLETE.csv`) 
 | `precision-gcu-secondaire.json` | Géographie culturelle : 366 énoncés, 6 aires culturelles (Précision des apprentissages : listes, sans progression par année) |
 | `precision-h20-secondaire.json` | Histoire du 20e siècle : 123 énoncés, 4 réalités sociales |
 | `precision-mc4-secondaire.json`, `precision-mc2-secondaire.json` | Monde contemporain, 5e : 197 énoncés, 5 thèmes (4 unités) ; 124 énoncés, 3 thèmes (2 unités, sous-ensemble exact de la version à 4 unités) |
+| `programme-edf-secondaire.json` | Éducation financière, 5e secondaire (programme 2018, 50 heures) : compétence Prendre position sur un enjeu financier et ses 4 composantes ; 3 enjeux (consommer, travailler, étudier) avec leurs concepts ; 66 énoncés de la Précision des apprentissages ; cadre d’évaluation (100 %, 2 critères) |
 | `pda-alsb-secondaire.json`, `pda-alse-secondaire.json` | Anglais, langue seconde, programmes de base (188 savoirs) et enrichi (212) : 1re à 5e ; `vu_au_primaire` : lettre P du document (78 et 76) |
 | `pda-elt-secondaire.json` | Espagnol, langue tierce : 385 savoirs, 3e à 5e (2e cycle) |
 | `pda-ccq-primaire.json`, `pda-ccq-secondaire.json` | Culture et citoyenneté québécoise (version 2024). `indicateurs` : composante, énoncé, précision, et par cycle `true` (crochet) ou `false` (trait) — 30 au primaire, 44 au secondaire ; `elements_lies_a_la_competence` (primaire : concepts et formes de dialogue par cycle) ; `contenus` par année : orientations, puis sous-thèmes (primaire) ou concepts principaux (secondaire), éléments de contenu obligatoires, notions et exemples, `education_sexualite` au primaire — 47 éléments au primaire, 110 au secondaire |
@@ -49,7 +50,7 @@ La tentative de Gemini (`gemini/resultats/inventaire-pfeq-gemini-OBSOLETE.csv`) 
 | Ordre | Validées (contrôle de logique sans erreur ou cas conformes au document) | À adapter |
 |---|---|---|
 | Primaire | Français, mathématique, science et technologie, univers social, éducation physique, art dramatique, arts plastiques, danse, musique, culture et citoyenneté québécoise, anglais langue seconde | — |
-| Secondaire | Art dramatique, arts plastiques, danse, éducation physique, musique, français langue seconde (base et enrichi), intégration linguistique, mathématique, sciences (ST, STE, ATS, SE), chimie, physique, univers social (géographie, histoire et éducation à la citoyenneté, géographie culturelle, histoire du 20e siècle, monde contemporain), anglais langue seconde (base et enrichi), espagnol, culture et citoyenneté québécoise, français | — |
+| Secondaire | Art dramatique, arts plastiques, danse, éducation physique, musique, français langue seconde (base et enrichi), intégration linguistique, mathématique, sciences (ST, STE, ATS, SE), chimie, physique, univers social (géographie, histoire et éducation à la citoyenneté, géographie culturelle, histoire du 20e siècle, monde contemporain, éducation financière), anglais langue seconde (base et enrichi), espagnol, culture et citoyenneté québécoise, français | — |
 
 Progression : `apprentissage` (flèche), `maitrise` (étoile), `reinvestissement` (case bleue), `null` (vide).
 
@@ -87,6 +88,7 @@ Univers social : PDA à une ou deux colonnes au 1er cycle, et « Précision des 
 ```bash
 python3 -I outils/extraire_pda_us_sec.py PDA-geographie.pdf GEO donnees/pda-geo-secondaire.json
 python3 -I outils/extraire_pda_us_sec.py PDA-histoire.pdf HEC donnees/pda-hec-secondaire.json
+python3 -I outils/extraire_education_financiere.py programme-edf.pdf cadre-edf.pdf donnees/programme-edf-secondaire.json
 python3 -I outils/extraire_precisions_us.py Precision.pdf MC4 "Monde contemporain (4 unités)" 5e donnees/precision-mc4-secondaire.json
 ```
 
