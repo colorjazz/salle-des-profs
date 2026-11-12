@@ -1,0 +1,57 @@
+/* Téléphone : une seule colonne, menu qui défile, semaine feuilletée jour par jour. */
+@media (max-width: 760px) {
+  html { -webkit-text-size-adjust: 100%; }
+  body { font-size: 15px; }
+  header { flex-wrap: wrap; gap: 6px 18px; padding: 16px 18px 0 !important; }
+  header .logo { padding-bottom: 6px; }
+  header nav { order: 3; width: 100%; gap: 20px; overflow-x: auto; white-space: nowrap; scrollbar-width: none; }
+  header nav::-webkit-scrollbar { display: none; }
+  header nav a { padding-bottom: 12px; }
+  header .moi { display: none; }
+  main { padding: 22px 16px 30px !important; }
+  footer { flex-direction: column; gap: 4px; padding: 0 16px 24px !important; }
+
+  .salut, .tete { grid-template-columns: 1fr !important; gap: 14px; }
+  .salut h1 { font-size: 27px; }
+  .tete h1 { font-size: 24px; }
+  .filtre, .actions { flex-wrap: wrap; }
+
+  .volets { grid-template-columns: 1fr 1fr !important; }
+  .volet { border-right: 0 !important; border-bottom: 1px solid var(--ligne); padding: 18px 16px !important; }
+  .volet:nth-child(odd) { border-right: 1px solid var(--ligne) !important; }
+  .volet:nth-last-child(-n+2) { border-bottom: 0; }
+  .volet h2 { font-size: 19px; }
+
+  .deux, .grille, .trois, .portrait, .etapes { grid-template-columns: minmax(0, 1fr) !important; }
+  .deux > *, .grille > *, .trois > *, .portrait > *, .volets > * { min-width: 0; }
+  .etapes { flex-wrap: wrap; }
+  button, .btn { white-space: normal; }
+  div[style*="display:flex"] { flex-wrap: wrap; }
+  .portrait { gap: 18px; }
+  .carte { padding: 18px 16px !important; }
+
+  /* tableau des évaluations : une fiche par évaluation */
+  .carte > table, .carte > table tbody { display: block; }
+  .carte > table tr { display: grid; grid-template-columns: minmax(0, 1fr) auto; gap: 4px 12px; padding: 12px 0; border-top: 1px dashed var(--ligne); align-items: center; }
+  .carte > table tr:first-child { display: none; }
+  .carte > table td { border: 0 !important; padding: 0 !important; white-space: normal !important; }
+  .carte > table td:nth-child(1) { font-weight: 500; }
+  .carte > table td:nth-child(2) { color: var(--doux); text-align: right; }
+  .carte > table td:nth-child(4) { text-align: right; }
+
+  /* Évaluer : titre puis choix du mode */
+  .titre { flex-direction: column; align-items: flex-start !important; gap: 12px; }
+  .titre h1 { font-size: 26px; }
+  .modes span { white-space: nowrap; }
+
+  /* Planifier */
+  .onglets { overflow-x: auto; white-space: nowrap; scrollbar-width: none; }
+  .onglets a.supp { margin-left: 0; }
+  .annuelle { overflow-x: auto; }
+  .frise, .bande { min-width: 640px; }
+  .semaine { grid-template-columns: repeat(5, 80%) !important; overflow-x: auto; scroll-snap-type: x mandatory; padding-bottom: 6px; }
+  .semaine .jour { scroll-snap-align: start; min-height: 0; }
+
+  /* Évaluer */
+  .rep { grid-template-columns: 1fr !important; gap: 8px; }
+}
