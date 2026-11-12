@@ -1,0 +1,162 @@
+<!DOCTYPE html><html lang="fr"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><meta name="robots" content="noindex">
+<title>Salle des profs — Planifier</title>
+<link rel="stylesheet" href="polices/lexend.css">
+<style>
+:root{--papier:#faf7f1;--carte:#fffdf9;--encre:#33302b;--doux:#8a8278;--ligne:#ebe4d8;--terre:#b0704f;--sauge:#7d9a85;--ciel:#7b97b0;--lavande:#9a8fb5;--ble:#c9a35f}
+*{box-sizing:border-box}body{margin:0;background:var(--papier);color:var(--encre);font-family:"Lexend",system-ui,-apple-system,"Segoe UI",sans-serif;font-size:14px;line-height:1.55}
+a{color:inherit}
+header{max-width:1180px;margin:0 auto;padding:28px 32px 0;display:flex;align-items:baseline;gap:36px;border-bottom:1px solid var(--ligne)}
+.logo{font-size:22px;padding-bottom:18px;font-weight:300}.logo i{color:var(--terre);font-style:italic}
+nav{display:flex;gap:26px}nav a{padding-bottom:18px;color:var(--doux);text-decoration:none;border-bottom:2px solid transparent}nav a.on{color:var(--encre);border-color:var(--sauge)}
+.moi{margin-left:auto;color:var(--doux);font-size:13px}
+main{max-width:1180px;margin:0 auto;padding:34px 32px 40px}
+.tete{display:grid;grid-template-columns:1fr auto;align-items:end;margin-bottom:22px}
+.tete h1{font-size:32px;font-weight:300;margin:0}.tete p{margin:4px 0 0;color:var(--doux)}
+.filtre{display:flex;gap:8px}.filtre span{border:1px solid var(--ligne);background:var(--carte);border-radius:20px;padding:6px 14px;font-size:13px}
+.onglets{display:flex;gap:4px;margin:0 0 24px;border-bottom:1px solid var(--ligne)}
+.onglets a{padding:10px 16px;text-decoration:none;color:var(--doux);border-bottom:2px solid transparent;margin-bottom:-1px}
+.onglets a.on{color:var(--encre);border-color:var(--sauge)}
+.onglets a.supp{margin-left:auto;color:var(--terre)}
+.carte{background:var(--carte);border:1px solid var(--ligne);border-radius:14px;padding:24px}
+.carte h2{font-size:19px;font-weight:400;margin:0 0 4px}.carte .sous{color:var(--doux);font-size:13px;margin:0 0 16px}
+.grille{display:grid;grid-template-columns:1.6fr 1fr;gap:22px;margin-bottom:22px}
+/* étapes */
+.etapes{display:grid;grid-template-columns:repeat(3,1fr);gap:10px;margin:6px 0 8px}
+.etape{border:1px solid var(--ligne);border-radius:10px;padding:12px 14px;background:#fbf8f2}
+.etape b{font-weight:500}.etape small{display:block;color:var(--doux);font-size:12px}
+.etape.on{border-color:var(--sauge);background:#f1f5f0}
+.jauge{height:6px;border-radius:3px;background:var(--ligne);margin-top:9px;overflow:hidden}.jauge i{display:block;height:100%;background:var(--sauge)}
+/* semaine */
+.semaine{display:grid;grid-template-columns:repeat(5,1fr);gap:10px}
+.jour{border:1px solid var(--ligne);border-radius:10px;padding:10px;background:#fffefb;min-height:250px}
+.jour h4{margin:0 0 8px;font-size:13px;font-weight:500;display:flex;justify-content:space-between}.jour h4 span{color:var(--doux);font-weight:400}
+.jour.absent{background:repeating-linear-gradient(135deg,#fbf3ec,#fbf3ec 8px,#fffaf5 8px,#fffaf5 16px);border-color:#e7cdbd}
+.jour .badge{display:inline-block;font-size:11px;color:#9a5a3a;background:#f6e4d8;border-radius:10px;padding:1px 8px;margin-bottom:6px}
+.per{border-left:3px solid var(--c,var(--ligne));padding:4px 0 4px 8px;margin-bottom:7px;font-size:12px;line-height:1.35}
+.per b{font-weight:500;display:block}.per small{color:var(--doux);display:block}
+.per .pret{color:#55745d}.per .faire{color:#9a5a3a}
+.fr{--c:var(--terre)}.ma{--c:var(--ciel)}.us{--c:var(--ble)}.ang{--c:var(--lavande)}.sc{--c:var(--sauge)}
+/* contenus */
+.contenu{display:grid;grid-template-columns:1fr auto;gap:10px;padding:10px 0;border-top:1px dashed var(--ligne);font-size:13px;align-items:center}
+.contenu small{display:block;color:var(--doux);font-size:12px}
+.code{font-size:11px;color:var(--doux);background:#f3eee5;border-radius:6px;padding:1px 6px;margin-right:6px;white-space:nowrap}
+.etat{display:inline-block;padding:3px 10px;border-radius:20px;font-size:12px;white-space:nowrap}
+.e-vu{background:#e4ece5;color:#55745d}.e-cours{background:#f6e4d8;color:#9a5a3a}.e-venir{background:#efebe3;color:var(--doux)}
+.sym{font-size:12px;color:var(--doux);white-space:nowrap}
+/* suppléance */
+.supp-carte{border-top:3px solid var(--terre)}
+.ligne{display:flex;gap:12px;align-items:flex-start;padding:12px 0;border-top:1px dashed var(--ligne);font-size:13px}
+.ligne:first-of-type{border-top:0}
+.ligne .ic{width:30px;height:30px;border-radius:50%;flex:none;display:grid;place-items:center;background:#f3eee5}
+.ligne .ic svg{width:16px;height:16px;stroke:var(--encre);fill:none;stroke-width:1.6;stroke-linecap:round;stroke-linejoin:round}
+.ligne b{font-weight:500;display:block}.ligne small{color:var(--doux);display:block}
+.btn{display:inline-block;border:1px solid var(--encre);background:none;border-radius:20px;padding:7px 16px;font-size:13px;color:var(--encre);text-decoration:none;cursor:pointer}
+.btn.plein{background:var(--encre);color:var(--papier)}.btn.petit{padding:4px 12px;font-size:12px}
+.actions{display:flex;gap:8px;flex-wrap:wrap;margin-top:14px}
+.interrupteur{display:inline-block;width:34px;height:20px;border-radius:10px;background:var(--sauge);position:relative;flex:none;margin-top:4px}
+.interrupteur:after{content:"";position:absolute;right:3px;top:3px;width:14px;height:14px;border-radius:50%;background:#fff}
+.note{margin-top:14px;padding:12px 14px;border-left:3px solid var(--sauge);background:#f1f5f0;font-size:12px;color:#4d5f52}
+.annuelle{margin-bottom:22px}
+.frise{display:grid;grid-template-columns:repeat(10,1fr);gap:4px;margin-top:10px}
+.frise div{font-size:11px;color:var(--doux);text-align:center}
+.bande{display:grid;grid-template-columns:repeat(10,1fr);gap:4px;margin-top:4px}
+.bande span{height:24px;border-radius:5px;font-size:11px;display:flex;align-items:center;padding:0 7px;color:#fff;overflow:hidden;white-space:nowrap}
+footer{max-width:1180px;margin:0 auto;padding:0 32px 30px;color:var(--doux);font-size:12px;display:flex;justify-content:space-between}
+</style></head><body>
+<header>
+  <div class="logo">Salle des <i>profs</i></div>
+  <nav><a href="accueil-e-carnet-retenue.html">Accueil</a><a class="on" href="#">Planifier</a><a href="creer.html">Créer</a><a href="evaluer-correction.html">Évaluer</a><a href="#">Observer</a></nav>
+  <div class="moi">Marie Gagnon</div>
+</header>
+<main>
+  <div class="tete">
+    <div><h1>Planifier</h1><p>Semaine du 9 novembre · Étape 2, semaine 5</p></div>
+    <div class="filtre"><span>4e année, groupe 41</span><span>Toutes les matières</span><span>Étape 2</span></div>
+  </div>
+  <div class="onglets">
+    <a href="#">Planification annuelle</a><a class="on" href="#">Ma semaine</a><a href="#">Contenus à couvrir</a><a href="#">Plans de leçon</a>
+    <a class="supp" href="planifier-suppleance.html">Suppléance</a>
+  </div>
+
+  <div class="carte annuelle">
+    <h2>Mon année en un coup d’œil</h2>
+    <p class="sous">Les trois étapes du bulletin (20 %, 20 %, 60 %) et les grands blocs prévus en français</p>
+    <div class="etapes">
+      <div class="etape"><b>Étape 1</b><small>27 août au 10 octobre</small><div class="jauge"><i style="width:100%"></i></div></div>
+      <div class="etape on"><b>Étape 2</b><small>14 octobre au 23 janvier · en cours</small><div class="jauge"><i style="width:30%"></i></div></div>
+      <div class="etape"><b>Étape 3</b><small>26 janvier au 22 juin</small><div class="jauge"><i style="width:0"></i></div></div>
+    </div>
+    <div class="frise"><div>sept.</div><div>oct.</div><div>nov.</div><div>déc.</div><div>janv.</div><div>févr.</div><div>mars</div><div>avr.</div><div>mai</div><div>juin</div></div>
+    <div class="bande">
+      <span style="grid-column:span 2;background:#c99a7f">Le récit · la phrase de base</span>
+      <span style="grid-column:span 2;background:#b0704f">Le groupe du nom et ses accords</span>
+      <span style="grid-column:span 2;background:#9a8fb5">Le texte descriptif</span>
+      <span style="grid-column:span 2;background:#7b97b0">Le verbe et ses temps</span>
+      <span style="grid-column:span 2;background:#7d9a85">Le texte qui explique</span>
+    </div>
+  </div>
+
+  <div class="grille">
+    <div class="carte">
+      <h2>Ma semaine</h2>
+      <p class="sous">Bâtie à partir de votre horaire (jours 1 à 5) et de la PDA de 4e année</p>
+      <div class="semaine">
+        <div class="jour"><h4>Lundi <span>9</span></h4>
+          <div class="per fr"><b>Français</b>Le déterminant et le nom<small><span class="pret">Fiche prête</span> · FRA-ACC-013</small></div>
+          <div class="per ma"><b>Mathématique</b>Fractions équivalentes<small><span class="pret">Activité prête</span> · MAT-SEN-033</small></div>
+          <div class="per us"><b>Univers social</b>La société iroquoienne vers 1500</div>
+          <div class="per sc"><b>Science</b>Les états de la matière</div>
+        </div>
+        <div class="jour"><h4>Mardi <span>10</span></h4>
+          <div class="per fr"><b>Français</b>Récupération : -er ou -é<small><span class="faire">À créer</span> · suite de la dictée 6</small></div>
+          <div class="per ma"><b>Mathématique</b>Comparer à 0, à ½, à 1<small><span class="pret">Prête</span> · MAT-SEN-032</small></div>
+          <div class="per ang"><b>Anglais</b>Avec la spécialiste</div>
+        </div>
+        <div class="jour absent"><h4>Mercredi <span>11</span></h4>
+          <span class="badge">Absente · formation RÉCIT</span>
+          <div class="per fr"><b>Français</b>Révision : l’adjectif et ses accords<small>Trousse de suppléance</small></div>
+          <div class="per ma"><b>Mathématique</b>Révision : lire et écrire une fraction<small>Trousse de suppléance</small></div>
+          <div class="per us"><b>Lecture autonome</b>Cercle de lecture<small>Trousse de suppléance</small></div>
+        </div>
+        <div class="jour"><h4>Jeudi <span>12</span></h4>
+          <div class="per ma"><b>Mathématique</b>Évaluation : les fractions<small><span class="pret">Évaluation imprimée</span> · 24 copies</small></div>
+          <div class="per fr"><b>Français</b>Lecture : le récit d’aventure<small><span class="faire">À créer</span></small></div>
+          <div class="per sc"><b>Science</b>Changements d’état : expérience</div>
+        </div>
+        <div class="jour"><h4>Vendredi <span>13</span></h4>
+          <div class="per fr"><b>Français</b>Dictée 7 : préparation<small>FRA-ACC-072 · donneurs d’accord</small></div>
+          <div class="per ma"><b>Mathématique</b>Retour sur l’évaluation</div>
+          <div class="per ang"><b>Anglais</b>Avec la spécialiste</div>
+        </div>
+      </div>
+    </div>
+
+    <div class="carte supp-carte">
+      <h2>Suppléance</h2>
+      <p class="sous">Du matériel en révision, jamais de notion nouvelle, et aucun nom d’élève</p>
+      <div class="ligne"><span class="ic"><svg viewBox="0 0 24 24"><rect x="4" y="5" width="16" height="15" rx="2"/><path d="M4 10h16M9 3v4M15 3v4"/></svg></span>
+        <div><b>Mercredi 11 novembre · prévue</b><small>Formation RÉCIT. Trousse prête : plan de la journée, 3 activités, consignes et corrigé.</small>
+        <div class="actions"><a class="btn petit plein" href="planifier-suppleance.html">Ouvrir la trousse</a><a class="btn petit" href="#">Lien pour la suppléante</a></div></div></div>
+      <div class="ligne"><span class="ic"><svg viewBox="0 0 24 24"><path d="M12 3l8 4v5c0 5-3.5 8-8 9-4.5-1-8-4-8-9V7z"/><path d="M9 12l2 2 4-4"/></svg></span>
+        <div><b>Trousse d’urgence · à jour</b><small>Pour une absence imprévue : 3 jours d’activités de révision tirées de ce qui a été vu à l’étape 1. Mise à jour le 28 octobre.</small>
+        <div class="actions"><a class="btn petit" href="#">Mettre à jour</a><a class="btn petit" href="#">Imprimer</a></div></div></div>
+      <div class="ligne"><span class="interrupteur" aria-label="activé"></span>
+        <div><b>La direction adjointe peut générer une trousse</b><small>En cas d’absence imprévue, M. Fortin peut produire la trousse du jour à partir de votre horaire et de votre planification. Il ne voit ni les noms des élèves ni les résultats. Vous êtes avisée, et chaque accès est inscrit au journal.</small>
+        <div class="actions"><a class="btn petit" href="#">Voir le journal (2 accès)</a></div></div></div>
+      <div class="note">Les activités de suppléance portent seulement sur des savoirs déjà vus (étoile ou case bleue dans la PDA pour cette année ou une année précédente).</div>
+    </div>
+  </div>
+
+  <div class="carte">
+    <h2>Contenus à couvrir à l’étape 2 · Français</h2>
+    <p class="sous">Tirés de la Progression des apprentissages, 4e année. Flèche : l’élève apprend avec vous. Étoile : il le fait seul à la fin de l’année.</p>
+    <div class="contenu"><div><span class="code">FRA-ACC-013</span>Identifier des déterminants (ex. : un, une, cette, beaucoup de, le, la, les)<small>Le groupe du nom · Le déterminant</small></div><div><span class="sym">étoile</span> <span class="etat e-vu">Vu</span></div></div>
+    <div class="contenu"><div><span class="code">FRA-ACC-022</span>L’adjectif peut occuper la position après le verbe être<small>Le groupe du nom · L’adjectif</small></div><div><span class="sym">étoile</span> <span class="etat e-cours">En cours</span></div></div>
+    <div class="contenu"><div><span class="code">FRA-ACC-027</span>L’adjectif est receveur d’accord : il reçoit le genre et le nombre du pronom<small>Le groupe du nom · L’adjectif</small></div><div><span class="sym">étoile</span> <span class="etat e-cours">En cours</span></div></div>
+    <div class="contenu"><div><span class="code">FRA-ACC-072</span>Identifier les donneurs d’accord : pronom de conjugaison (ex. : [Vous] participez au concert.)<small>Accords · Le sujet et le verbe</small></div><div><span class="sym">étoile</span> <span class="etat e-venir">À venir</span></div></div>
+    <div class="contenu"><div><span class="code">FRA-CON-042</span>Identifier les éléments qui forment un verbe conjugué au futur proche<small>Conjugaison · Le futur proche</small></div><div><span class="sym">étoile</span> <span class="etat e-venir">À venir</span></div></div>
+    <div class="contenu"><div><span class="code">FRA-CON-001</span>Nommer le verbe par son infinitif<small>Conjugaison · Le verbe à l’infinitif</small></div><div><span class="sym">flèche</span> <span class="etat e-venir">À venir</span></div></div>
+  </div>
+</main>
+<footer><span>Noms des élèves chiffrés sur cet appareil · Données hébergées à Montréal</span><span>Maquette statique</span></footer>
+</body></html>

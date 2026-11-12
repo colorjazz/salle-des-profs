@@ -1,0 +1,132 @@
+<!DOCTYPE html><html lang="fr"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><meta name="robots" content="noindex">
+<title>Salle des profs — Trousse de suppléance</title>
+<link rel="stylesheet" href="polices/lexend.css">
+<style>
+:root{--papier:#faf7f1;--carte:#fffdf9;--encre:#33302b;--doux:#8a8278;--ligne:#ebe4d8;--terre:#b0704f;--sauge:#7d9a85;--ciel:#7b97b0;--lavande:#9a8fb5;--ble:#c9a35f}
+*{box-sizing:border-box}body{margin:0;background:var(--papier);color:var(--encre);font-family:"Lexend",system-ui,-apple-system,"Segoe UI",sans-serif;font-size:14px;line-height:1.55}
+a{color:inherit}
+header{max-width:1180px;margin:0 auto;padding:28px 32px 0;display:flex;align-items:baseline;gap:36px;border-bottom:1px solid var(--ligne)}
+.logo{font-size:22px;padding-bottom:18px;font-weight:300}.logo i{color:var(--terre);font-style:italic}
+nav{display:flex;gap:26px}nav a{padding-bottom:18px;color:var(--doux);text-decoration:none;border-bottom:2px solid transparent}nav a.on{color:var(--encre);border-color:var(--sauge)}
+.moi{margin-left:auto;color:var(--doux);font-size:13px}
+main{max-width:1180px;margin:0 auto;padding:26px 32px 40px}
+.fil{font-size:13px;color:var(--doux);margin-bottom:6px}.fil a{text-underline-offset:3px}
+.tete{display:grid;grid-template-columns:1fr auto;align-items:end;margin-bottom:24px;gap:20px}
+.tete h1{font-size:30px;font-weight:300;margin:0}.tete p{margin:4px 0 0;color:var(--doux)}
+.btn{display:inline-block;border:1px solid var(--encre);background:none;border-radius:20px;padding:7px 16px;font-size:13px;color:var(--encre);text-decoration:none;cursor:pointer}
+.btn.plein{background:var(--encre);color:var(--papier)}.btn.petit{padding:4px 12px;font-size:12px}
+.actions{display:flex;gap:8px;flex-wrap:wrap}
+.grille{display:grid;grid-template-columns:1fr 1.15fr .9fr;gap:22px;align-items:start}
+.carte{background:var(--carte);border:1px solid var(--ligne);border-radius:14px;padding:22px}
+.carte h2{font-size:18px;font-weight:400;margin:0 0 4px}.carte .sous{color:var(--doux);font-size:12px;margin:0 0 14px}
+.colonne{display:flex;flex-direction:column;gap:22px}
+.periode{display:grid;grid-template-columns:64px 1fr;gap:10px;padding:9px 0;border-top:1px dashed var(--ligne);font-size:13px}
+.periode span{color:var(--doux)}.periode small{display:block;color:var(--doux);font-size:12px}
+.periode.libre b{color:var(--doux);font-weight:400}
+.periode b{font-weight:500}
+.info{font-size:12px;padding:10px 12px;background:#f6efe6;border-radius:8px;margin-top:12px;color:#7a5b48}
+.act{border:1px solid var(--ligne);border-radius:10px;padding:12px 14px;margin-bottom:10px;background:#fffefb}
+.act .h{display:flex;justify-content:space-between;align-items:baseline;gap:8px}
+.act b{font-weight:500}.act small{color:var(--doux);font-size:12px}
+.code{font-size:11px;color:var(--doux);background:#f3eee5;border-radius:6px;padding:1px 6px;margin-right:4px;white-space:nowrap}
+.tags{margin:6px 0 8px}
+.feuille{margin-top:14px;background:#fff;border:1px solid #e3dccf;border-radius:4px;box-shadow:0 2px 0 #efe9de,0 4px 0 #f4efe6;padding:18px 20px;font-size:12px}
+.feuille .titre{display:flex;justify-content:space-between;border-bottom:1px solid #e3dccf;padding-bottom:8px;margin-bottom:10px}
+.feuille .titre b{font-weight:500;font-size:13px}
+.feuille ol{margin:0;padding-left:18px}.feuille li{margin-bottom:10px}
+.trait{display:inline-block;width:90px;border-bottom:1px solid #b9b0a2;height:12px;vertical-align:-2px}
+.nom{font-size:11px;color:var(--doux)}
+.qr{width:44px;height:44px;background:conic-gradient(#33302b 25%,#fff 0 50%,#33302b 0 75%,#fff 0) 0 0/11px 11px;border:3px solid #fff;outline:1px solid #ccc}
+.ligne{display:flex;gap:12px;align-items:flex-start;padding:11px 0;border-top:1px dashed var(--ligne);font-size:13px}
+.ligne:first-of-type{border-top:0;padding-top:0}
+.ligne b{font-weight:500;display:block}.ligne small{color:var(--doux);display:block;font-size:12px}
+.inter{display:inline-block;width:34px;height:20px;border-radius:10px;background:var(--sauge);position:relative;flex:none;margin-top:3px}
+.inter:after{content:"";position:absolute;right:3px;top:3px;width:14px;height:14px;border-radius:50%;background:#fff}
+.inter.off{background:#d9d2c6}.inter.off:after{right:auto;left:3px}
+.lien{display:flex;gap:6px;align-items:center;margin-top:8px}.lien code{flex:1;font-size:11px;background:#f3eee5;border-radius:6px;padding:6px 8px;color:#6b645b;overflow:hidden;white-space:nowrap;text-overflow:ellipsis}
+.journal div{display:grid;grid-template-columns:92px 1fr;gap:8px;padding:7px 0;border-top:1px dashed var(--ligne);font-size:12px}
+.journal span{color:var(--doux)}
+.mot{margin-top:6px;border:1.5px dashed #d8cdbb;border-radius:10px;padding:12px;font-size:12px;color:var(--doux);background:#fbf8f2}
+footer{max-width:1180px;margin:0 auto;padding:0 32px 30px;color:var(--doux);font-size:12px;display:flex;justify-content:space-between}
+</style></head><body>
+<header>
+  <div class="logo">Salle des <i>profs</i></div>
+  <nav><a href="accueil-e-carnet-retenue.html">Accueil</a><a class="on" href="planifier.html">Planifier</a><a href="creer.html">Créer</a><a href="evaluer-correction.html">Évaluer</a><a href="#">Observer</a></nav>
+  <div class="moi">Marie Gagnon</div>
+</header>
+<main>
+  <div class="fil"><a href="planifier.html">Planifier</a> · Suppléance</div>
+  <div class="tete">
+    <div><h1>Trousse de suppléance · mercredi 11 novembre</h1><p>4e année, groupe 41 · Absence prévue : formation RÉCIT · Préparée le 6 novembre</p></div>
+    <div class="actions"><a class="btn" href="#">Modifier</a><a class="btn plein" href="#">Imprimer la trousse (6 pages)</a></div>
+  </div>
+
+  <div class="grille">
+    <div class="colonne">
+      <div class="carte">
+        <h2>Plan de la journée</h2>
+        <p class="sous">Tiré de votre horaire du mercredi (jour 3)</p>
+        <div class="periode"><span>8 h 15</span><div><b>Accueil et routine</b><small>Prise des présences sur la feuille au secrétariat · agenda</small></div></div>
+        <div class="periode"><span>8 h 30</span><div><b>Français · activité 1</b><small>L’adjectif et ses accords (35 min), correction collective à la fin</small></div></div>
+        <div class="periode"><span>9 h 30</span><div><b>Mathématique · activité 2</b><small>Lire et écrire une fraction (40 min)</small></div></div>
+        <div class="periode libre"><span>10 h 15</span><div><b>Récréation</b><small>Surveillance : non (Mme Côté)</small></div></div>
+        <div class="periode"><span>10 h 35</span><div><b>Lecture autonome · activité 3</b><small>Cercle de lecture, fiche de lecteur</small></div></div>
+        <div class="periode libre"><span>11 h 35</span><div><b>Dîner</b></div></div>
+        <div class="periode libre"><span>13 h 15</span><div><b>Éducation physique avec le spécialiste</b><small>Période libre pour la suppléante</small></div></div>
+        <div class="periode"><span>14 h 15</span><div><b>Univers social</b><small>Vidéo « La vie dans un village iroquoien » et 4 questions</small></div></div>
+        <div class="periode"><span>15 h 05</span><div><b>Rangement et départ</b><small>Autobus : la liste est au secrétariat</small></div></div>
+        <div class="info">Allergies, plans d’intervention et consignes particulières : enveloppe au secrétariat. Ils ne sont jamais dans la trousse.</div>
+      </div>
+    </div>
+
+    <div class="carte">
+      <h2>Matériel</h2>
+      <p class="sous">Révision seulement : des savoirs déjà vus en classe, aucune notion nouvelle</p>
+      <div class="act"><div class="h"><b>1. L’adjectif et ses accords</b><small>2 pages + corrigé</small></div>
+        <div class="tags"><span class="code">FRA-ACC-022</span><span class="code">FRA-ACC-027</span></div>
+        <small>Repérer l’adjectif, trouver son donneur, accorder. Vu en classe le 3 novembre.</small></div>
+      <div class="act"><div class="h"><b>2. Lire et écrire une fraction</b><small>1 page + corrigé</small></div>
+        <div class="tags"><span class="code">MAT-SEN-031</span><span class="code">MAT-SEN-028</span></div>
+        <small>Associer une fraction à une partie d’un tout, puis l’écrire en lettres et en chiffres.</small></div>
+      <div class="act"><div class="h"><b>3. Cercle de lecture</b><small>1 page</small></div>
+        <div class="tags"><span class="code">FRA-APP-043</span></div>
+        <small>Lecture autonome du roman en cours, fiche de lecteur à remplir.</small></div>
+
+      <div class="feuille">
+        <div class="titre"><div><b>L’adjectif et ses accords</b><div class="nom">Nom : <span class="trait"></span></div></div><div class="qr" title="Code de la copie, pour la numérisation"></div></div>
+        <ol>
+          <li>Souligne l’adjectif et encercle le nom qu’il accompagne.<br><i>Les pommes rouges sont dans le panier.</i></li>
+          <li>Accorde l’adjectif entre parenthèses.<br>Mes sœurs sont (content) <span class="trait"></span> de partir.</li>
+          <li>Écris une phrase où un adjectif suit le verbe <i>être</i>.<br><span class="trait" style="width:100%"></span></li>
+        </ol>
+      </div>
+    </div>
+
+    <div class="colonne">
+      <div class="carte">
+        <h2>Pour la suppléante</h2>
+        <p class="sous">Sans compte, sans aucun nom d’élève</p>
+        <div class="ligne"><span class="inter"></span><div><b>Lien de consultation</b><small>Valide jusqu’au 11 novembre, 16 h</small>
+          <div class="lien"><code>salledesprofs.ca/s/7KQ2-M4XD</code><a class="btn petit" href="#">Copier</a></div></div></div>
+        <div class="ligne"><span class="inter off"></span><div><b>Ajouter les prénoms des élèves</b><small>Seulement à l’impression : ils sont déchiffrés sur votre appareil et ne passent jamais par le lien.</small></div></div>
+        <div class="ligne"><span class="inter"></span><div><b>Copies avec code</b><small>Les feuilles portent un code : au retour, vous numérisez la pile dans Évaluer.</small></div></div>
+        <div style="margin-top:8px"><b style="font-weight:500;font-size:13px">Mot de la suppléante</b>
+          <div class="mot">Par le même lien, elle pourra vous laisser un mot à la fin de la journée (ce qui a été fait, ce qui reste).</div></div>
+      </div>
+
+      <div class="carte">
+        <h2>Direction et journal</h2>
+        <p class="sous">Absence imprévue : la direction adjointe peut produire la trousse</p>
+        <div class="ligne"><span class="inter"></span><div><b>Accès de la direction adjointe</b><small>M. Fortin voit votre horaire, votre planification et vos trousses, jamais les noms ni les résultats.</small></div></div>
+        <div class="journal">
+          <div><span>6 nov., 14 h 02</span>Vous · trousse créée</div>
+          <div><span>6 nov., 14 h 10</span>Vous · lien de consultation activé</div>
+          <div><span>14 oct., 7 h 41</span>Direction adjointe · trousse d’urgence générée (absence imprévue)</div>
+          <div><span>14 oct., 8 h 03</span>Suppléante · trousse consultée par le lien</div>
+        </div>
+      </div>
+    </div>
+  </div>
+</main>
+<footer><span>Noms des élèves chiffrés sur cet appareil · Données hébergées à Montréal</span><span>Maquette statique</span></footer>
+</body></html>
