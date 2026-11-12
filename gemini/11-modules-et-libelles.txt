@@ -1,0 +1,41 @@
+TÂCHE : Rendre la Progression des apprentissages lisible pour une enseignante : regrouper les savoirs en modules et réécrire chaque savoir en langage clair.
+
+CONTEXTE
+Salle des profs aide les enseignantes du Québec à planifier et à créer du matériel. Les savoirs viennent de la Progression des apprentissages (PDA) du ministère de l'Éducation. Leur texte officiel est précis mais difficile à lire (fragments, renvois, jargon). Je te joins UN fichier JSON par conversation : une discipline (ex. pri-fra.json = Français, primaire).
+
+Chaque savoir a :
+- id : son code (ne le change jamais) ;
+- g : sa grande section dans la PDA ;
+- s : son chemin dans la PDA (les titres au-dessus de lui) ;
+- t : le texte officiel ;
+- annees : pour chaque année, A (l'élève apprend avec l'enseignant), M (l'élève le fait seul à la fin de l'année), R (il réutilise), P (au programme).
+
+CE QUE TU DOIS PRODUIRE
+1. Des MODULES : entre 8 et 20 pour la discipline. Un module regroupe des savoirs voisins qu'une enseignante enseignerait ensemble (ex. « Les fractions », « Accorder le verbe avec son sujet », « Les états de la matière »).
+   - titre : 2 à 6 mots, en langage courant, sans code ni numéro, sans majuscules partout.
+   - description : une phrase de 12 à 25 mots qui dit ce que l'élève apprend, à l'infinitif ou au présent (ex. « Représenter, lire, comparer et reconnaître des fractions équivalentes. »).
+   - Garde l'ordre logique d'enseignement de la PDA.
+2. L'AFFECTATION : chaque id du fichier appartient à EXACTEMENT un module. N'en oublie aucun et n'en invente aucun.
+3. Un LIBELLÉ pour chaque savoir : le savoir réécrit en une phrase claire et complète, de 6 à 25 mots, qui se comprend seul (ajoute le contexte quand le texte officiel est un fragment).
+   - Commence par un verbe à l'infinitif quand c'est possible (« Accorder le verbe quand le sujet est un nom propre »).
+   - Garde EXACTEMENT le sens officiel : n'ajoute aucune notion, aucun exemple nouveau, aucun fait, aucune date. Si le texte officiel donne des exemples, tu peux en garder un ou deux.
+   - Conserve les termes techniques que l'enseignante doit reconnaître (ex. « attribut du sujet », « opération intellectuelle »), mais retire les renvois (P1 : 103), les numéros de liste et les majuscules d'insistance.
+   - Garde la langue de la discipline : en anglais langue seconde et en espagnol, les exemples restent dans leur langue, le libellé reste en français.
+
+RÈGLES
+1. Ne fais aucune recherche web. Travaille uniquement à partir du fichier joint.
+2. Réponds UNIQUEMENT avec du JSON valide, sans texte avant ni après, sans bloc de code.
+3. Si un texte officiel est ambigu, garde un libellé fidèle et ajoute son id dans "a_relire".
+
+FORMAT (exemple fictif)
+{
+  "fichier": "pri-fra.json",
+  "modules": [
+    { "id": "m01", "titre": "Accorder le verbe avec son sujet", "description": "Trouver le sujet du verbe, puis accorder le verbe en personne et en nombre, dans des cas de plus en plus variés." }
+  ],
+  "affectation": { "FRA-ACC-094": "m01" },
+  "libelles": { "FRA-ACC-094": "Accorder le verbe quand le sujet est un pronom placé juste avant lui." },
+  "a_relire": []
+}
+
+Le fichier contient beaucoup de savoirs : traite-les tous. Si ta réponse est coupée, je te dirai « continue » et tu reprendras exactement où tu t'es arrêté, sans répéter les modules.

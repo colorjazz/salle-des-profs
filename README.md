@@ -129,6 +129,14 @@ Une ligne de Gemini est acceptée seulement si ses cases bleues et ses flèches 
 
 Dépendances : `pdfplumber`, `pypdfium2`, `Pillow`.
 
+## Modules conviviaux
+
+Le texte de la PDA est regroupé en modules (titre court, description en langage clair) pour l'affichage.
+
+- `outils/construire_modules.py` produit `maquettes/catalogue/modules/<fichier>` : règles écrites à la main (français et mathématique au primaire), périodes (HQC), sinon modules automatiques tirés des sections de la PDA.
+- Pour les autres matières, Gemini rédige modules et libellés : prompt `gemini/11-modules-et-libelles.txt`, un fichier joint par conversation (`gemini/11-modules/<fichier>`).
+- La réponse est vérifiée par `python3 -I outils/valider_modules.py reponse.json` (chaque savoir dans un seul module, aucun code inventé). Si elle est acceptée, elle est copiée dans `gemini/resultats/modules/` ; relancer ensuite `construire_modules.py`.
+
 ## Remarque
 
 `gemini/resultats/pda-mat-primaire-partie1-OBSOLETE.json` est une première tentative de Gemini par recherche web. Sa progression est erronée ; ne pas l'utiliser.
