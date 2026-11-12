@@ -1,0 +1,86 @@
+{
+ "circuit": "Création (aucune donnée d’élève)",
+ "type": "fiche_exercices",
+ "niveau": {
+  "ordre": "secondaire",
+  "annee": "3",
+  "libelle": "3e secondaire"
+ },
+ "discipline": {
+  "code": "HQC",
+  "nom": "Histoire du Québec et du Canada"
+ },
+ "periode": {
+  "id": "HQC-P1",
+  "bornes": "Des origines à 1608",
+  "titre": "L’expérience des Autochtones et le projet de colonie"
+ },
+ "theme": {
+  "id": "HQC-P1-T01",
+  "nom": "Premiers occupants du territoire"
+ },
+ "savoirs": [
+  {
+   "id": "HQC-P1-T01-a",
+   "texte": "Migrations à l’origine du peuplement du nord-est de l’Amérique",
+   "statut": "P"
+  },
+  {
+   "id": "HQC-P1-T01-b",
+   "texte": "Familles linguistiques",
+   "statut": "P"
+  },
+  {
+   "id": "HQC-P1-T01-c",
+   "texte": "Premières Nations et nation inuite",
+   "statut": "P"
+  },
+  {
+   "id": "HQC-P1-T01-d",
+   "texte": "Territoire occupé",
+   "statut": "P"
+  },
+  {
+   "id": "HQC-P1-T01-e",
+   "texte": "Modes de vie",
+   "statut": "P"
+  }
+ ],
+ "concepts": [
+  "Alliance",
+  "Échange",
+  "Environnement"
+ ],
+ "operations_permises": [
+  "Situer dans le temps et dans l’espace",
+  "Établir des faits",
+  "Dégager des différences et des similitudes",
+  "Déterminer des causes et des conséquences",
+  "Déterminer des changements et des continuités",
+  "Mettre en relation des faits",
+  "Établir des liens de causalité"
+ ],
+ "criteres": [
+  "Maîtrise des connaissances présentées dans la section intitulée Contenu de formation",
+  "Utilisation appropriée de connaissances",
+  "Représentation cohérente d’une période de l’histoire du Québec et du Canada",
+  "Rigueur de l’interprétation"
+ ],
+ "source_faits": {
+  "nature": "Texte officiel du programme (réalité sociale de la période)",
+  "texte": "Selon la thèse des migrations asiatiques et l’état des connaissances actuelles sur le sujet, il y a plusieurs millénaires, alors que le climat favorise l’accès au nord-ouest de l’Amérique, des peuples venus d’Asie à la suite de hordes d’animaux sauvages empruntent les passages terrestres libérés par les glaces pour rallier le centre et le sud du continent. Le nord-est de l’Amérique du Nord est ainsi peuplé environ 15 000 ans avant nos jours, à la faveur de températures plus clémentes. Les migrations se succèdent au fil des siècles. Nomades à l’origine, certains groupes se sédentarisent progressivement une fois les conditions favorables réunies. La relation entretenue avec le milieu et les ressources du territoire conditionne le mode de vie des peuples autochtones. Ils vivent de chasse, de pêche, de cueillette et d’agriculture dans des proportions variables selon le territoire occupé. Au gré des saisons, ils puisent dans leur environnement ce dont ils ont besoin et font du commerce pour pallier les ressources dont ils ne disposent pas et entretenir leurs relations avec les autres peuples. Le territoire québécois actuel est occupé, dans les années 1500, par des peuples qui ont leurs langues, leurs coutumes et leurs croyances propres. Alliés ou rivaux, ils s’organisent autour de structures politiques et sociales autonomes qui fondent leur mode de prise de décision. Bien qu’uniques, les Premières Nations et la nation inuite présentent certaines caractéristiques communes. Iroquoiens, Algonquiens et Inuits se partagent les ressources des Appalaches, de la vallée du Saint-Laurent et du Bouclier canadien. Tous entretiennent des rapports fondés sur la réciprocité. Ils se perçoivent comme un élément parmi un vaste ensemble, dont la préservation de l’équilibre est au cœur de leur vision du monde; ils ne constituent pas la pièce maîtresse de leur environnement."
+ },
+ "reglages": {
+  "versions": "une version, niveau régulier",
+  "longueur": "2 pages + corrigé",
+  "duree": "60 minutes",
+  "format": "Word"
+ },
+ "regles": [
+  "N’utiliser que les faits du texte source ; aucun fait, date ou chiffre absent de la source.",
+  "Chaque question vise une opération intellectuelle de la liste, nommée exactement.",
+  "Chaque question indique le ou les codes de savoirs qu’elle travaille.",
+  "Aucune citation attribuée à une personne ; les documents sont présentés comme rédigés pour la classe.",
+  "Répondre en JSON selon le schéma fiche_exercices."
+ ]
+}

@@ -1,0 +1,142 @@
+{
+ "type": "fiche_exercices",
+ "titre": "Les premiers occupants du territoire",
+ "sous_titre": "Des origines à 1608 · L’expérience des Autochtones et le projet de colonie",
+ "duree": "60 minutes",
+ "intention": "Caractériser les premiers occupants du territoire : leur arrivée, leurs familles linguistiques, le territoire qu’ils occupent et leurs modes de vie.",
+ "concept": "Environnement",
+ "documents": [
+  {
+   "id": "D1",
+   "titre": "Document 1 · L’arrivée des premiers peuples",
+   "nature": "Texte rédigé pour la classe à partir du programme d’histoire",
+   "texte": [
+    "Il y a plusieurs millénaires, le climat favorise l’accès au nord-ouest de l’Amérique. Des peuples venus d’Asie suivent des hordes d’animaux sauvages et empruntent des passages terrestres libérés par les glaces.",
+    "Le nord-est de l’Amérique du Nord est peuplé environ 15 000 ans avant nos jours, grâce à des températures plus clémentes. Les migrations se succèdent au fil des siècles."
+   ]
+  },
+  {
+   "id": "D2",
+   "titre": "Document 2 · Vivre des ressources du territoire",
+   "nature": "Texte rédigé pour la classe à partir du programme d’histoire",
+   "texte": [
+    "Nomades à l’origine, certains groupes se sédentarisent progressivement lorsque les conditions sont favorables.",
+    "La relation avec le milieu et les ressources du territoire détermine le mode de vie. Les peuples autochtones vivent de chasse, de pêche, de cueillette et d’agriculture, dans des proportions qui varient selon le territoire occupé. Au gré des saisons, ils prennent dans leur environnement ce dont ils ont besoin et font du commerce pour obtenir les ressources qui leur manquent."
+   ]
+  },
+  {
+   "id": "D3",
+   "titre": "Document 3 · Les peuples et les régions dans les années 1500",
+   "nature": "Listes rédigées pour la classe à partir du programme d’histoire",
+   "listes": [
+    {
+     "titre": "Familles de peuples présentes sur le territoire québécois actuel",
+     "elements": [
+      "Iroquoiens",
+      "Algonquiens",
+      "Inuits"
+     ]
+    },
+    {
+     "titre": "Grandes régions dont ils se partagent les ressources",
+     "elements": [
+      "Appalaches",
+      "Vallée du Saint-Laurent",
+      "Bouclier canadien"
+     ]
+    }
+   ]
+  }
+ ],
+ "questions": [
+  {
+   "numero": 1,
+   "operation": "Situer dans le temps et dans l’espace",
+   "savoirs": [
+    "HQC-P1-T01-a"
+   ],
+   "documents": [
+    "D1"
+   ],
+   "consigne": "Selon le document 1, d’où viennent les premiers peuples et vers quelle partie de l’Amérique se dirigent-ils d’abord ? Indiquez aussi à quel moment le nord-est de l’Amérique du Nord est peuplé.",
+   "points": 3,
+   "lignes": 3,
+   "corrige": "Ils viennent d’Asie et arrivent par le nord-ouest de l’Amérique. Le nord-est de l’Amérique du Nord est peuplé environ 15 000 ans avant nos jours."
+  },
+  {
+   "numero": 2,
+   "operation": "Déterminer des causes et des conséquences",
+   "savoirs": [
+    "HQC-P1-T01-a"
+   ],
+   "documents": [
+    "D1"
+   ],
+   "consigne": "Nommez deux causes qui expliquent l’arrivée des premiers peuples en Amérique, puis une conséquence de leurs migrations pour le nord-est de l’Amérique du Nord.",
+   "points": 4,
+   "lignes": 3,
+   "corrige": "Causes : le climat favorise l’accès au nord-ouest de l’Amérique ; des passages terrestres sont libérés par les glaces ; ces peuples suivent des hordes d’animaux sauvages (deux parmi celles-ci). Conséquence : le nord-est de l’Amérique du Nord est peuplé, environ 15 000 ans avant nos jours."
+  },
+  {
+   "numero": 3,
+   "operation": "Établir des faits",
+   "savoirs": [
+    "HQC-P1-T01-e"
+   ],
+   "documents": [
+    "D2"
+   ],
+   "consigne": "Relevez dans le document 2 quatre activités qui permettent aux peuples autochtones de vivre des ressources du territoire.",
+   "points": 4,
+   "lignes": 2,
+   "corrige": "La chasse, la pêche, la cueillette et l’agriculture (le commerce est aussi accepté comme moyen d’obtenir les ressources qui manquent)."
+  },
+  {
+   "numero": 4,
+   "operation": "Dégager des différences et des similitudes",
+   "savoirs": [
+    "HQC-P1-T01-e"
+   ],
+   "documents": [
+    "D2"
+   ],
+   "consigne": "Comparez un groupe resté nomade et un groupe qui s’est sédentarisé : nommez une différence et une similitude entre eux.",
+   "points": 4,
+   "lignes": 3,
+   "corrige": "Différence : le groupe nomade se déplace, alors que le groupe sédentarisé s’établit à un endroit lorsque les conditions sont favorables. Similitude : les deux vivent des ressources de leur territoire (chasse, pêche, cueillette, agriculture, dans des proportions variables) ou font du commerce pour obtenir celles qui leur manquent."
+  },
+  {
+   "numero": 5,
+   "operation": "Situer dans le temps et dans l’espace",
+   "savoirs": [
+    "HQC-P1-T01-b",
+    "HQC-P1-T01-c",
+    "HQC-P1-T01-d"
+   ],
+   "documents": [
+    "D3"
+   ],
+   "consigne": "Nommez les trois familles de peuples présentes sur le territoire québécois actuel dans les années 1500, puis les trois grandes régions dont elles se partagent les ressources.",
+   "points": 3,
+   "lignes": 2,
+   "corrige": "Familles : Iroquoiens, Algonquiens, Inuits. Régions : les Appalaches, la vallée du Saint-Laurent et le Bouclier canadien."
+  },
+  {
+   "numero": 6,
+   "operation": "Mettre en relation des faits",
+   "savoirs": [
+    "HQC-P1-T01-d",
+    "HQC-P1-T01-e"
+   ],
+   "documents": [
+    "D2",
+    "D3"
+   ],
+   "consigne": "Expliquez, en deux ou trois phrases, le lien entre le territoire occupé par un peuple et son mode de vie. Appuyez-vous sur les documents 2 et 3.",
+   "points": 2,
+   "lignes": 4,
+   "corrige": "Le mode de vie dépend du milieu et des ressources du territoire : selon la région occupée (Appalaches, vallée du Saint-Laurent, Bouclier canadien), la chasse, la pêche, la cueillette et l’agriculture n’ont pas la même importance. Les peuples suivent aussi les saisons pour trouver ce dont ils ont besoin et font du commerce pour obtenir ce qui leur manque."
+  }
+ ],
+ "total": 20
+}
