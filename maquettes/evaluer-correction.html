@@ -1,8 +1,9 @@
 <!DOCTYPE html><html lang="fr"><head><meta charset="utf-8"><title>Salle des profs — Correction question par question</title>
+<link rel="stylesheet" href="polices/lexend.css">
 <style>
 :root{--papier:#faf7f1;--carte:#fffdf9;--encre:#33302b;--doux:#8a8278;--ligne:#ebe4d8;--terre:#b0704f;--terre-p:#f6e4d8;--sauge:#55745d;--sauge-p:#e4ece5;--ble:#c9a35f;--ble-p:#f4ead3}
-*{box-sizing:border-box}body{margin:0;background:var(--papier);color:var(--encre);font-family:"Segoe UI",system-ui,sans-serif;font-size:14px;line-height:1.5}
-.serif{font-family:"Segoe UI Semilight","Segoe UI",system-ui,-apple-system,"Helvetica Neue",Roboto,sans-serif;font-weight:300}
+*{box-sizing:border-box}body{margin:0;background:var(--papier);color:var(--encre);font-family:"Lexend",system-ui,-apple-system,"Segoe UI",sans-serif;font-size:14px;line-height:1.5}
+.serif{font-family:"Lexend",system-ui,-apple-system,"Segoe UI",sans-serif;font-weight:300}
 header{max-width:1240px;margin:0 auto;padding:22px 32px 0;display:flex;align-items:baseline;gap:34px;border-bottom:1px solid var(--ligne)}
 .logo{font-size:21px;padding-bottom:16px}.logo i{color:var(--terre)}
 nav{display:flex;gap:24px}nav a{padding-bottom:16px;color:var(--doux);text-decoration:none;border-bottom:2px solid transparent}nav a.on{color:var(--encre);border-color:var(--terre)}
@@ -26,7 +27,7 @@ main{max-width:1240px;margin:0 auto;padding:24px 32px 40px}
 .groupe{background:var(--carte);border:1px solid var(--ligne);border-radius:14px;margin-bottom:16px;overflow:hidden}
 .ghead{display:flex;align-items:center;gap:12px;padding:14px 18px;border-bottom:1px dashed var(--ligne)}
 .ghead b{font-weight:600}.ghead .n{color:var(--doux);font-size:13px}.ghead .btn{margin-left:auto}
-.pts{font-family:"Segoe UI Semilight","Segoe UI",system-ui,-apple-system,"Helvetica Neue",Roboto,sans-serif;font-weight:300;font-size:18px}.pts small{font-size:12px;color:var(--doux);font-family:"Segoe UI",sans-serif}
+.pts{font-family:"Lexend",system-ui,-apple-system,"Segoe UI",sans-serif;font-weight:300;font-size:18px}.pts small{font-size:12px;color:var(--doux);font-family:"Lexend",system-ui,-apple-system,"Segoe UI",sans-serif}
 .rep{display:grid;grid-template-columns:115px 1fr 200px;gap:14px;align-items:center;padding:12px 18px;border-top:1px dashed var(--ligne)}
 .rep:first-of-type{border-top:0}
 .eleve{font-size:13px}.eleve small{display:block;color:var(--doux);font-size:11px}
@@ -35,12 +36,12 @@ main{max-width:1240px;margin:0 auto;padding:24px 32px 40px}
 .just{font-size:12px;color:var(--doux);margin-top:4px}
 .edit{display:flex;align-items:center;gap:6px;justify-content:flex-end}
 .pm{width:28px;height:28px;border-radius:50%;border:1px solid var(--ligne);background:#fff;font-size:15px;line-height:1;color:var(--encre)}
-.val{min-width:44px;text-align:center;font-family:"Segoe UI Semilight","Segoe UI",system-ui,-apple-system,"Helvetica Neue",Roboto,sans-serif;font-weight:300;font-size:17px}
+.val{min-width:44px;text-align:center;font-family:"Lexend",system-ui,-apple-system,"Segoe UI",sans-serif;font-weight:300;font-size:17px}
 .val.chg{color:var(--terre)}
 .btn{border:1px solid var(--encre);background:none;border-radius:20px;padding:6px 14px;font-size:12px;color:var(--encre);white-space:nowrap}.btn.plein{background:var(--encre);color:var(--papier)}
 .etat{font-size:11px;padding:2px 9px;border-radius:20px;white-space:nowrap}.e-ok{background:var(--sauge-p);color:var(--sauge)}.e-av{background:var(--ble-p);color:#8a6a2a}.e-mod{background:var(--terre-p);color:#9a5a3a}
 .grille .crit{padding:10px 0;border-top:1px dashed var(--ligne);font-size:13px}.grille .crit:first-of-type{border:0}
-.grille .crit b{font-weight:600}.grille .crit span{float:right;font-family:"Segoe UI Semilight","Segoe UI",system-ui,-apple-system,"Helvetica Neue",Roboto,sans-serif;font-weight:300}
+.grille .crit b{font-weight:600}.grille .crit span{float:right;font-family:"Lexend",system-ui,-apple-system,"Segoe UI",sans-serif;font-weight:300}
 .note{margin-top:14px;padding:12px 14px;border-left:3px solid var(--terre);background:#f6efe6;font-size:12.5px;line-height:1.5}
 .bas{display:flex;justify-content:space-between;align-items:center;margin-top:6px;color:var(--doux);font-size:12.5px}
 </style></head><body>
