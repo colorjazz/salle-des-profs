@@ -13,7 +13,7 @@ Jalons J1 (socle) et J2 (coffre et groupes) de la spécification.
 | `tests/essai.mjs` | Essai de bout en bout en local (24 vérifications) |
 
 Le chiffrement des noms se fait dans le navigateur : `maquettes/js/coffre.js` (essais : `node --test tests/coffre.test.mjs` à la racine).
-La base : `base/0001_socle.sql`, `base/0002_securite.sql`, essais `base/tests/cloisonnement.sql`.
+La base : `supabase/migrations/…_socle.sql`, `supabase/migrations/…_securite.sql`, essais `tests/cloisonnement.sql`.
 
 ## Routes
 
@@ -35,7 +35,7 @@ Il faut Postgres 16 et Node 20+.
 
 ```bash
 npm install
-# base de test : appliquer base/0001 et 0002, charger le référentiel, donner un mot de passe à sdp_app
+# base de test : appliquer les migrations (psql -1 -f supabase/migrations/…), charger le référentiel, donner un mot de passe à sdp_app
 PG_LOCAL="postgres://sdp_app:motdepasse@127.0.0.1:5432/postgres" npm run essai
 ```
 
@@ -43,9 +43,9 @@ PG_LOCAL="postgres://sdp_app:motdepasse@127.0.0.1:5432/postgres" npm run essai
 
 1. **Supabase** : créer le projet en région **ca-central-1 (Montréal)**.
    - Authentication : activer le lien magique ; SMTP personnalisé = AWS SES à Montréal ; clés de signature **asymétriques** (JWT Signing Keys).
-   - SQL : exécuter `base/0001_socle.sql` puis `base/0002_securite.sql` ; puis `alter role sdp_app password '…'` (un long mot de passe aléatoire, gardé hors du dépôt).
+   - Les migrations de `supabase/migrations/` sont appliquées automatiquement par l'intégration GitHub de Supabase à chaque push sur `main`. Ensuite, dans l'éditeur SQL : `alter role sdp_app password '…'` (un long mot de passe aléatoire, gardé hors du dépôt).
    - Charger le référentiel : `python3 -I outils/charger_referentiel.py | psql "<URL du propriétaire>"`.
-   - Vérifier le cloisonnement **sur une base de test** : `psql … -f base/tests/cloisonnement.sql`.
+   - Vérifier le cloisonnement **sur une base de test** : `psql … -f tests/cloisonnement.sql`.
 2. **Cloudflare** :
    - `npx wrangler hyperdrive create sdp-base --connection-string="postgres://sdp_app:…@<hôte du pooler>:6543/postgres" --caching-disabled`, puis copier l'identifiant dans `wrangler.toml`.
    - Mettre `SUPABASE_URL` et `ORIGINE` dans `wrangler.toml`.

@@ -1,5 +1,5 @@
 // Essai de bout en bout du Worker en local : wrangler dev + Postgres local + faux émetteur de jetons (JWKS).
-// Préalable : base de test avec base/0001, 0002 et le référentiel chargés.
+// Préalable : base de test avec les migrations de supabase/migrations et le référentiel chargés.
 // Usage : PG_LOCAL="postgres://sdp_app@127.0.0.1:5499/postgres" node tests/essai.mjs
 import http from 'node:http';
 import { spawn } from 'node:child_process';

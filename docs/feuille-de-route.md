@@ -44,7 +44,7 @@ Jalon J1 de la spécification. Rien de visible pour l'enseignante, mais tout rep
 
 - [x] Écrire le **Worker Cloudflare de la 2.0** (`serveur/`), essayé en local
 - [ ] Le déployer depuis ce dépôt à chaque push, sur le nom de domaine (attend les comptes)
-- [x] Écrire la **base Postgres** (`base/`) : tables, sécurité au niveau des lignes, 19 essais de cloisonnement
+- [x] Écrire la **base Postgres** (`supabase/migrations/`) : tables, sécurité au niveau des lignes, 19 essais de cloisonnement
 - [ ] La créer à Montréal et la relier par Hyperdrive, cache désactivé (attend le compte Supabase)
 - [x] Vérification des jetons de Supabase Auth dans le Worker
 - [ ] **Page de connexion** par lien magique (courriels par SES à Montréal)

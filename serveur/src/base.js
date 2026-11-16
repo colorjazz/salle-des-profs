@@ -1,6 +1,6 @@
 // Accès à Postgres (Supabase, Montréal) par Hyperdrive.
 // Chaque requête s'exécute dans une transaction où l'enseignante est fixée : la sécurité au niveau
-// des lignes (base/0002_securite.sql) ne rend alors que ses données, même si une requête oubliait un filtre.
+// des lignes (supabase/migrations) ne rend alors que ses données, même si une requête oubliait un filtre.
 import postgres from 'postgres';
 
 export function connexion(env) {

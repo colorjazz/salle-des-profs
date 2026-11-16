@@ -1,5 +1,5 @@
 -- Test du cloisonnement (RLS) avec le rôle de l'application. Chaque vérification lève une erreur si elle échoue.
--- Usage (base de test seulement) : psql "$URL_TEST" -v ON_ERROR_STOP=1 -f base/tests/cloisonnement.sql
+-- Usage (base de test seulement) : psql "$URL_TEST" -v ON_ERROR_STOP=1 -f tests/cloisonnement.sql
 \set QUIET on
 \o /dev/null
 set search_path = sdp, public;

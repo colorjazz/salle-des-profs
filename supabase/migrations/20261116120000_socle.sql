@@ -1,14 +1,14 @@
 -- Salle des profs · base Postgres à Montréal (Supabase, ca-central-1)
--- Migration 0001 : tables du référentiel et des données des enseignantes.
+-- Migration 1 (socle) : tables du référentiel et des données des enseignantes.
 -- Principes (spécification, sections 1 et 4) :
 --   - aucune image de copie, aucun nom d'élève en clair : seulement des codes et des textes chiffrés (bytea) ;
 --   - chaque table de données porte de quoi filtrer par enseignante ou par groupe (sécurité au niveau des lignes, 0002).
--- À exécuter par le rôle propriétaire (sdp_proprio), jamais par le rôle de l'application.
+-- Appliquée automatiquement par Supabase (intégration GitHub) à chaque fusion dans main.
+-- Ne jamais modifier une migration déjà appliquée : en ajouter une nouvelle.
 
-begin;
 
 create schema if not exists sdp;
-set local search_path = sdp, public;
+set search_path = sdp, public;
 
 -- ───────────── Référentiel (public, sans renseignement personnel) ─────────────
 -- Chargé par outils/charger_referentiel.py à partir de maquettes/catalogue/.
@@ -215,4 +215,3 @@ begin
   get diagnostics n = row_count; quoi := 'enseignants'; return next;
 end $$;
 
-commit;

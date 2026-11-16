@@ -1,11 +1,10 @@
--- Migration 0002 : rôle de l'application et sécurité au niveau des lignes (RLS).
+-- Migration 2 (securite) : rôle de l'application et sécurité au niveau des lignes (RLS).
 -- Seconde barrière : même si le Worker oubliait un filtre, Postgres ne rend que les lignes de l'enseignante connectée.
 -- Le Worker ouvre une transaction par requête et y fixe l'enseignante :
 --   select set_config('sdp.enseignant', '<uuid>', true);
 -- Sans cette valeur, aucune donnée d'enseignante n'est visible.
 
-begin;
-set local search_path = sdp, public;
+set search_path = sdp, public;
 
 -- Le rôle de l'application : pas propriétaire des tables, donc soumis à la RLS.
 do $$ begin
@@ -123,4 +122,3 @@ create policy soi on journal_acces using (enseignant = moi()) with check (enseig
 -- L'enseignante voit aussi ce que d'autres ont fait sur ses groupes (ex. la direction qui génère une trousse).
 create policy mes_groupes on journal_acces for select using (objet in (select 'groupe:' || g from mes_groupes() g));
 
-commit;
