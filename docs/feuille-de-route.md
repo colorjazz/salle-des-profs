@@ -1,6 +1,6 @@
 # Salle des profs : feuille de route vers un site pleinement opérationnel
 
-État au 12 novembre 2026. Le site en ligne (salledesprofs.netlify.app) est une **maquette** : les pages sont belles et les données du programme sont réelles, mais il n'y a ni comptes, ni sauvegarde, ni appel à l'IA. Cette liste décrit tout ce qu'il faut pour passer de la maquette au produit.
+État au 16 novembre 2026. Le site en ligne (salledesprofs.netlify.app) est une **maquette** : les pages sont belles et les données du programme sont réelles, mais il n'y a ni comptes, ni sauvegarde, ni appel à l'IA. Cette liste décrit tout ce qu'il faut pour passer de la maquette au produit.
 
 Légende : **[Vous]** = démarche à faire par vous (entreprise, contrats, contacts) · **[Code]** = travail de développement · **[Gemini]** = tâche longue à confier à Gemini.
 
@@ -42,12 +42,16 @@ Ce qui bloque le reste, surtout la vente aux centres de services et la connexion
 
 Jalon J1 de la spécification. Rien de visible pour l'enseignante, mais tout repose dessus.
 
-- [ ] Créer le **Worker Cloudflare de la 2.0**, déployé depuis ce dépôt à chaque push, sur le nom de domaine
-- [ ] Créer la **base Postgres à Montréal** (tables de la spécification, section 4) et la relier par Hyperdrive, cache désactivé
-- [ ] **Comptes** : Supabase Auth avec lien magique (courriels par SES à Montréal), sessions sécurisées
-- [ ] Servir le **catalogue** (PDA, modules) depuis le Worker ou la base
-- [ ] En-têtes de sécurité (CSP, HSTS), limites de requêtes, aucun contenu de copie dans les journaux
-- [ ] **Journal d'accès** et **registre des incidents**
+- [x] Écrire le **Worker Cloudflare de la 2.0** (`serveur/`), essayé en local
+- [ ] Le déployer depuis ce dépôt à chaque push, sur le nom de domaine (attend les comptes)
+- [x] Écrire la **base Postgres** (`base/`) : tables, sécurité au niveau des lignes, 19 essais de cloisonnement
+- [ ] La créer à Montréal et la relier par Hyperdrive, cache désactivé (attend le compte Supabase)
+- [x] Vérification des jetons de Supabase Auth dans le Worker
+- [ ] **Page de connexion** par lien magique (courriels par SES à Montréal)
+- [x] Chargement du **catalogue** (PDA, modules) dans la base : `outils/charger_referentiel.py`
+- [x] En-têtes de sécurité de l'API, limite de requêtes, protection contre les requêtes d'un autre site, rien de personnel dans les journaux
+- [ ] En-têtes de sécurité des pages (CSP)
+- [x] **Journal d'accès** (empreinte IP salée, jamais l'adresse) et table du **registre des incidents**
 - [ ] Sauvegardes automatiques de la base et un test de restauration
 - [ ] Passer les maquettes en vraies pages : remplacer les données d'exemple par celles du compte
 
@@ -55,10 +59,14 @@ Jalon J1 de la spécification. Rien de visible pour l'enseignante, mais tout rep
 
 Jalon J2. Le cœur de la promesse Loi 25.
 
-- [ ] Phrase secrète, **code de récupération imprimé**, clé d'accès (passkey)
-- [ ] **Chiffrement des noms dans le navigateur** ; le serveur ne voit que « Élève 7F3A »
-- [ ] Importation d'une liste d'élèves (CSV ou Excel), chiffrée avant l'envoi
-- [ ] Clé de groupe partagée (coenseignante, suppléante)
+- [x] Phrase secrète et **code de récupération** (`maquettes/js/coffre.js`, 7 essais)
+- [ ] Clé d'accès (passkey) et copie du code dans OneDrive
+- [ ] Écrans : créer le coffre, l'ouvrir, imprimer le code
+- [x] **Chiffrement des noms dans le navigateur** ; le serveur ne voit que « Élève 7F3A-K2 »
+- [x] API d'ajout d'élèves (noms déjà chiffrés)
+- [ ] Écran d'importation d'une liste (CSV ou Excel), chiffrée avant l'envoi
+- [x] Clé de groupe et partage avec une collègue (ECDH), dans le navigateur
+- [ ] Routes et écran d'invitation d'une collègue
 - [ ] Exportation et suppression complète des données d'un compte
 
 ## Étape 4. Volet Évaluer : la correction des copies manuscrites [Code]
